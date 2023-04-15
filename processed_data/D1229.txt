@@ -1,0 +1,413 @@
+Process by which a solid with a highly organized atomic or molecular structure forms
+For other uses, see Crystallization (disambiguation).
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article may need to be rewritten to comply with Wikipedia's quality standards. You can help. The talk page may contain suggestions. (October 2021)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Crystallization" news  newspapers  books  scholar  JSTOR (October 2021) (Learn how and when to remove this template message)
+ (Learn how and when to remove this template message)
+CrystallizationFundamentalsCrystal  Crystal structure  NucleationConceptsCrystallization  Crystal growth Recrystallization  Seed crystal Protocrystalline  Single crystalMethods and technologyBoulesBridgman Stockbarger method Van Arkel de Boer processCzochralski method  Epitaxy  Flux methodFractional crystallizationFractional freezing Hydrothermal synthesisKyropoulos methodLaser-heated pedestal growthMicro-pulling-downShaping processes in crystal growthSkull crucibleVerneuil methodZone meltingvte
+Crystallization is the process by which solid forms, where the atoms or molecules are highly organized into a structure known as a crystal. Some ways by which crystals form are precipitating from a solution, freezing, or more rarely deposition directly from a gas. Attributes of the resulting crystal depend largely on factors such as temperature, air pressure, and in the case of liquid crystals, time of fluid evaporation.
+Crystallization occurs in two major steps. The first is nucleation, the appearance of a crystalline phase from either a supercooled liquid or a supersaturated solvent. The second step is known as crystal growth, which is the increase in the size of particles and leads to a crystal state. An important feature of this step is that loose particles form layers at the crystal's surface and lodge themselves into open inconsistencies such as pores, cracks, etc.
+The majority of minerals and organic molecules crystallize easily, and the resulting crystals are generally of good quality, i.e. without visible defects. However, larger biochemical particles, like proteins, are often difficult to crystallize. The ease with which molecules will crystallize strongly depends on the intensity of either atomic forces (in the case of mineral substances), intermolecular forces (organic and biochemical substances) or intramolecular forces (biochemical substances).
+Crystallization is also a chemical solid liquid separation technique, in which mass transfer of a solute from the liquid solution to a pure solid crystalline phase occurs. In chemical engineering, crystallization occurs in a crystallizer. Crystallization is therefore related to precipitation, although the result is not amorphous or disordered, but a crystal.
+Process[edit]
+See also: Crystallization  Dynamics
+ Time-lapse of growth of a citric acid crystal. The video covers an area of 2.0 by 1.5 mm and was captured over 7.2 min.
+The crystallization process consists of two major events, nucleation and crystal growth which are driven by thermodynamic properties as well as chemical properties.
+Nucleation is the step where the solute molecules or atoms dispersed in the solvent start to gather into clusters, on the microscopic scale (elevating solute concentration in a small region), that become stable under the current operating conditions. These stable clusters constitute the nuclei. Therefore, the clusters need to reach a critical size in order to become stable nuclei. Such critical size is dictated by many different factors (temperature, supersaturation, etc.). It is at the stage of nucleation that the atoms or molecules arrange in a defined and periodic manner that defines the crystal structure   note that "crystal structure" is a special term that refers to the relative arrangement of the atoms or molecules, not the macroscopic properties of the crystal (size and shape), although those are a result of the internal crystal structure.
+The crystal growth is the subsequent size increase of the nuclei that succeed in achieving the critical cluster size. Crystal growth is a dynamic process occurring in equilibrium where solute molecules or atoms precipitate out of solution, and dissolve back into solution. Supersaturation is one of the driving forces of crystallization, as the solubility of a species is an equilibrium process quantified by Ksp. Depending upon the conditions, either nucleation or growth may be predominant over the other, dictating crystal size.
+Many compounds have the ability to crystallize with some having different crystal structures, a phenomenon called polymorphism. Certain polymorphs may be metastable, meaning that although it is not in thermodynamic equilibrium, it is kinetically stable and requires some input of energy to initiate a transformation to the equilibrium phase. Each polymorph is in fact a different thermodynamic solid state and crystal polymorphs of the same compound exhibit different physical properties, such as dissolution rate, shape (angles between facets and facet growth rates), melting point, etc. For this reason, polymorphism is of major importance in industrial manufacture of crystalline products. Additionally, crystal phases can sometimes be interconverted by varying factors such as temperature, such as in the transformation of anatase to rutile phases of titanium dioxide.
+In nature[edit]
+ Snowflakes are a very well-known example, where subtle differences in crystal growth conditions result in different geometries.
+ Crystallized honey
+There are many examples of natural process that involve crystallization.
+Geological time scale process examples include:
+Natural (mineral) crystal formation (see also gemstone);
+Stalactite/stalagmite, rings formation;
+Human time scale process examples include:
+Snow flakes formation;
+Honey crystallization (nearly all types of honey crystallize).
+Methods[edit]
+Crystal formation can be divided into two types, where the first type of crystals are composed of a cation and anion, also known as a salt, such as sodium acetate. The second type of crystals are composed of uncharged species, for example menthol.[1]
+Crystal formation can be achieved by various methods, such as: cooling, evaporation, addition of a second solvent to reduce the solubility of the solute (technique known as antisolvent or drown-out), solvent layering, sublimation, changing the cation or anion, as well as other methods.
+The formation of a supersaturated solution does not guarantee crystal formation, and often a seed crystal or scratching the glass is required to form nucleation sites.
+A typical laboratory technique for crystal formation is to dissolve the solid in a solution in which it is partially soluble, usually at high temperatures to obtain supersaturation. The hot mixture is then filtered to remove any insoluble impurities. The filtrate is allowed to slowly cool. Crystals that form are then filtered and washed with a solvent in which they are not soluble, but is miscible with the mother liquor. The process is then repeated to increase the purity in a technique known as recrystallization.
+For biological molecules in which the solvent channels continue to be present to retain the three dimensional structure intact, microbatch[2] crystallization under oil and vapor diffusion[3] methods have been the common methods.
+Typical equipment[edit]
+This section needs expansion. You can help by adding to it.  (March 2023)
+Equipment for the main industrial processes for crystallization.
+Tank crystallizers. Tank crystallization is an old method still used in some specialized cases. Saturated solutions, in tank crystallization, are allowed to cool in open tanks. After a period of time the mother liquor is drained and the crystals removed. Nucleation and size of crystals are difficult to control.[citation needed] Typically, labor costs are very high.[citation needed]
+Thermodynamic view[edit]
+ Low-temperature SEM magnification series for a snow crystal. The crystals are captured, stored, and sputter-coated with platinum at cryo-temperatures for imaging.
+The crystallization process appears to violate the second principle of thermodynamics. Whereas most processes that yield more orderly results are achieved by applying heat, crystals usually form at lower temperatures  especially by supercooling. However, due to the release of the heat of fusion during crystallization, the entropy of the universe increases, thus this principle remains unaltered.
+The molecules within a pure, perfect crystal, when heated by an external source, will become liquid. This occurs at a sharply defined temperature (different for each type of crystal). As it liquifies, the complicated architecture of the crystal collapses. Melting occurs because the entropy (S) gain in the system by spatial randomization of the molecules has overcome the enthalpy (H) loss due to breaking the crystal packing forces:
+T
+(
+S
+liquid
+ 
+S
+solid
+)
+>
+H
+liquid
+ 
+H
+solid
+,
+{\displaystyle T(S_{\text{liquid}}-S_{\text{solid}})>H_{\text{liquid}}-H_{\text{solid}},}
+G
+liquid
+<
+G
+solid
+.
+{\displaystyle G_{\text{liquid}}<G_{\text{solid}}.}
+Regarding crystals, there are no exceptions to this rule. Similarly, when the molten crystal is cooled, the molecules will return to their crystalline form once the temperature falls beyond the turning point. This is because the thermal randomization of the surroundings compensates for the loss of entropy that results from the reordering of molecules within the system. Such liquids that crystallize on cooling are the exception rather than the rule.
+The nature of a crystallization process is governed by both thermodynamic and kinetic factors, which can make it highly variable and difficult to control. Factors such as impurity level, mixing regime, vessel design, and cooling profile can have a major impact on the size, number, and shape of crystals produced.
+Dynamics[edit]
+As mentioned above, a crystal is formed following a well-defined pattern, or structure, dictated by forces acting at the molecular level. As a consequence, during its formation process the crystal is in an environment where the solute concentration reaches a certain critical value, before changing status. Solid formation, impossible below the solubility threshold at the given temperature and pressure conditions, may then take place at a concentration higher than the theoretical solubility level. The difference between the actual value of the solute concentration at the crystallization limit and the theoretical (static) solubility threshold is called supersaturation and is a fundamental factor in crystallization.
+Nucleation[edit]
+Main article: Nucleation
+Nucleation is the initiation of a phase change in a small region, such as the formation of a solid crystal from a liquid solution. It is a consequence of rapid local fluctuations on a molecular scale in a homogeneous phase that is in a state of metastable equilibrium. Total nucleation is the sum effect of two categories of nucleation   primary and secondary.
+Primary nucleation[edit]
+Primary nucleation is the initial formation of a crystal where there are no other crystals present or where, if there are crystals present in the system, they do not have any influence on the process. This can occur in two conditions. The first is homogeneous nucleation, which is nucleation that is not influenced in any way by solids. These solids include the walls of the crystallizer vessel and particles of any foreign substance. The second category, then, is heterogeneous nucleation. This occurs when solid particles of foreign substances cause an increase in the rate of nucleation that would otherwise not be seen without the existence of these foreign particles. Homogeneous nucleation rarely occurs in practice due to the high energy necessary to begin nucleation without a solid surface to catalyze the nucleation.
+Primary nucleation (both homogeneous and heterogeneous) has been modeled as follows:[4]
+B
+=
+d
+N
+d
+t
+=
+k
+n
+(
+c
+ 
+c
+ 
+)
+n
+,
+{\displaystyle B={\dfrac {dN}{dt}}=k_{n}(c-c^{*})^{n},}
+where
+B is the number of nuclei formed per unit volume per unit time,
+N is the number of nuclei per unit volume,
+kn is a rate constant,
+c is the instantaneous solute concentration,
+c* is the solute concentration at saturation,
+(c   c*) is also known as supersaturation,
+n is an empirical exponent that can be as large as 10, but generally ranges between 3 and 4.
+Secondary nucleation[edit]
+Secondary nucleation is the formation of nuclei attributable to the influence of the existing microscopic crystals in the magma.[5] Simply put, secondary nucleation is when crystal growth is initiated with contact of other existing crystals or "seeds".[6] The first type of known secondary crystallization is attributable to fluid shear, the other due to collisions between already existing crystals with either a solid surface of the crystallizer or with other crystals themselves. Fluid-shear nucleation occurs when liquid travels across a crystal at a high speed, sweeping away nuclei that would otherwise be incorporated into a crystal, causing the swept-away nuclei to become new crystals. Contact nucleation has been found to be the most effective and common method for nucleation. The benefits include the following:[5]
+Low kinetic order and rate-proportional to supersaturation, allowing easy control without unstable operation.
+Occurs at low supersaturation, where growth rate is optimal for good quality.
+Low necessary energy at which crystals strike avoids the breaking of existing crystals into new crystals.
+The quantitative fundamentals have already been isolated and are being incorporated into practice.
+The following model, although somewhat simplified, is often used to model secondary nucleation:[4]
+B
+=
+d
+N
+d
+t
+=
+k
+1
+M
+T
+j
+(
+c
+ 
+c
+ 
+)
+b
+,
+{\displaystyle B={\dfrac {dN}{dt}}=k_{1}M_{T}^{j}(c-c^{*})^{b},}
+where
+k1 is a rate constant,
+MT is the suspension density,
+j is an empirical exponent that can range up to 1.5, but is generally 1,
+b is an empirical exponent that can range up to 5, but is generally 2.
+ Crystal growth
+Growth[edit]
+Main article: Crystal growth
+Once the first small crystal, the nucleus, forms it acts as a convergence point (if unstable due to supersaturation) for molecules of solute touching   or adjacent to   the crystal so that it increases its own dimension in successive layers. The pattern of growth resembles the rings of an onion, as shown in the picture, where each colour indicates the same mass of solute; this mass creates increasingly thin layers due to the increasing surface area of the growing crystal. The supersaturated solute mass the original nucleus may capture in a time unit is called the growth rate expressed in kg/(m2*h), and is a constant specific to the process. Growth rate is influenced by several physical factors, such as surface tension of solution, pressure, temperature, relative crystal velocity in the solution, Reynolds number, and so forth.
+The main values to control are therefore:
+Supersaturation value, as an index of the quantity of solute available for the growth of the crystal;
+Total crystal surface in unit fluid mass, as an index of the capability of the solute to fix onto the crystal;
+Retention time, as an index of the probability of a molecule of solute to come into contact with an existing crystal;
+Flow pattern, again as an index of the probability of a molecule of solute to come into contact with an existing crystal (higher in laminar flow, lower in turbulent flow, but the reverse applies to the probability of contact).
+The first value is a consequence of the physical characteristics of the solution, while the others define a difference between a well- and poorly designed crystallizer.
+Size distribution[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2017) (Learn how and when to remove this template message)
+The appearance and size range of a crystalline product is extremely important in crystallization. If further processing of the crystals is desired, large crystals with uniform size are important for washing, filtering, transportation, and storage, because large crystals are easier to filter out of a solution than small crystals. Also, larger crystals have a smaller surface area to volume ratio, leading to a higher purity. This higher purity is due to less retention of mother liquor which contains impurities, and a smaller loss of yield when the crystals are washed to remove the mother liquor. In special cases, for example during drug manufacturing in the pharmaceutical industry, small crystal sizes are often desired to improve drug dissolution rate and bio-availability. The theoretical crystal size distribution can be estimated as a function of operating conditions with a fairly complicated mathematical process called population balance theory (using population balance equations).
+Main crystallization processes[edit]
+ Crystallization of sodium acetate
+Some of the important factors influencing solubility are:
+Concentration
+Temperature
+Solvent mixture composition
+Polarity
+Ionic strength
+So one may identify two main families of crystallization processes:
+Cooling crystallization
+Evaporative crystallization
+This division is not really clear-cut, since hybrid systems exist, where cooling is performed through evaporation, thus obtaining at the same time a concentration of the solution.
+A crystallization process often referred to in chemical engineering is the fractional crystallization. This is not a different process, rather a special application of one (or both) of the above.
+Cooling crystallization[edit]
+Application[edit]
+Most chemical compounds, dissolved in most solvents, show the so-called direct solubility that is, the solubility threshold increases with temperature.
+ Solubility of the system Na2SO4   H2O
+So, whenever the conditions are favorable, crystal formation results from simply cooling the solution. Here cooling is a relative term: austenite crystals in a steel form well above 1000 C. An example of this crystallization process is the production of Glauber's salt, a crystalline form of sodium sulfate. In the diagram, where equilibrium temperature is on the x-axis and equilibrium concentration (as mass percent of solute in saturated solution) in y-axis, it is clear that sulfate solubility quickly decreases below 32.5 C. Assuming a saturated solution at 30 C, by cooling it to 0 C (note that this is possible thanks to the freezing-point depression), the precipitation of a mass of sulfate occurs corresponding to the change in solubility from 29% (equilibrium value at 30 C) to approximately 4.5% (at 0 C)   actually a larger crystal mass is precipitated, since sulfate entrains hydration water, and this has the side effect of increasing the final concentration.
+There are limitations in the use of cooling crystallization:
+Many solutes precipitate in hydrate form at low temperatures: in the previous example this is acceptable, and even useful, but it may be detrimental when, for example, the mass of water of hydration to reach a stable hydrate crystallization form is more than the available water: a single block of hydrate solute will be formed   this occurs in the case of calcium chloride);
+Maximum supersaturation will take place in the coldest points. These may be the heat exchanger tubes which are sensitive to scaling, and heat exchange may be greatly reduced or discontinued;
+A decrease in temperature usually implies an increase of the viscosity of a solution. Too high a viscosity may give hydraulic problems, and the laminar flow thus created may affect the crystallization dynamics.
+It is not applicable to compounds having reverse solubility, a term to indicate that solubility increases with temperature decrease (an example occurs with sodium sulfate where solubility is reversed above 32.5 C).
+Cooling crystallizers[edit]
+ Vertical cooling crystallizer in a beet sugar factory
+The simplest cooling crystallizers are tanks provided with a mixer for internal circulation, where temperature decrease is obtained by heat exchange with an intermediate fluid circulating in a jacket. These simple machines are used in batch processes, as in processing of pharmaceuticals and are prone to scaling. Batch processes normally provide a relatively variable quality of the product along with the batch.
+The Swenson-Walker crystallizer is a model, specifically conceived by Swenson Co. around 1920, having a semicylindric horizontal hollow trough in which a hollow screw conveyor or some hollow discs, in which a refrigerating fluid is circulated, plunge during rotation on a longitudinal axis. The refrigerating fluid is sometimes also circulated in a jacket around the trough. Crystals precipitate on the cold surfaces of the screw/discs, from which they are removed by scrapers and settle on the bottom of the trough. The screw, if provided, pushes the slurry towards a discharge port.
+A common practice is to cool the solutions by flash evaporation: when a liquid at a given T0 temperature is transferred in a chamber at a pressure P1 such that the liquid saturation temperature T1 at P1 is lower than T0, the liquid will release heat according to the temperature difference and a quantity of solvent, whose total latent heat of vaporization equals the difference in enthalpy. In simple words, the liquid is cooled by evaporating a part of it.
+In the sugar industry, vertical cooling crystallizers are used to exhaust the molasses in the last crystallization stage downstream of vacuum pans, prior to centrifugation. The massecuite enters the crystallizers at the top, and cooling water is pumped through pipes in counterflow.
+Evaporative crystallization[edit]
+Another option is to obtain, at an approximately constant temperature, the precipitation of the crystals by increasing the solute concentration above the solubility threshold. To obtain this, the solute/solvent mass ratio is increased using the technique of evaporation. This process is insensitive to change in temperature (as long as hydration state remains unchanged).
+All considerations on control of crystallization parameters are the same as for the cooling models.
+Evaporative crystallizers[edit]
+Most industrial crystallizers are of the evaporative type, such as the very large sodium chloride and sucrose units, whose production accounts for more than 50% of the total world production of crystals. The most common type is the forced circulation (FC) model (see evaporator). A pumping device (a pump or an axial flow mixer) keeps the crystal slurry in homogeneous suspension throughout the tank, including the exchange surfaces; by controlling pump flow, control of the contact time of the crystal mass with the supersaturated solution is achieved, together with reasonable velocities at the exchange surfaces. The Oslo, mentioned above, is a refining of the evaporative forced circulation crystallizer, now equipped with a large crystals settling zone to increase the retention time (usually low in the FC) and to roughly separate heavy slurry zones from clear liquid. Evaporative crystallizers tend to yield larger average crystal size and narrows the crystal size distribution curve.[7]
+DTB crystallizer[edit]
+ DTB Crystallizer
+ Schematic of DTB
+Whichever the form of the crystallizer, to achieve an effective process control it is important to control the retention time and the crystal mass, to obtain the optimum conditions in terms of crystal specific surface and the fastest possible growth. This is achieved by a separation   to put it simply   of the crystals from the liquid mass, in order to manage the two flows in a different way. The practical way is to perform a gravity settling to be able to extract (and possibly recycle separately) the (almost) clear liquid, while managing the mass flow around the crystallizer to obtain a precise slurry density elsewhere. A typical example is the DTB (Draft Tube and Baffle) crystallizer, an idea of Richard Chisum Bennett (a Swenson engineer and later President of Swenson) at the end of the 1950s. The DTB crystallizer (see images) has an internal circulator, typically an axial flow mixer   yellow   pushing upwards in a draft tube while outside the crystallizer there is a settling area in an annulus; in it the exhaust solution moves upwards at a very low velocity, so that large crystals settle   and return to the main circulation   while only the fines, below a given grain size are extracted and eventually destroyed by increasing or decreasing temperature, thus creating additional supersaturation. A quasi-perfect control of all parameters is achieved as DTF crystallizers offer superior control over crystal size and characteristics.[8] This crystallizer, and the derivative models (Krystal, CSC, etc.) could be the ultimate solution if not for a major limitation in the evaporative capacity, due to the limited diameter of the vapor head and the relatively low external circulation not allowing large amounts of energy to be supplied to the system.
+See also[edit]
+Abnormal grain growth
+Chiral resolution by crystallization
+Crystal habit
+Crystal structure
+Crystallite
+Fractional crystallization (chemistry)
+Igneous differentiation
+Laser heated pedestal growth
+Micro-pulling-down
+Protein crystallization
+Pumpable ice technology
+Quasicrystal
+Recrystallization (chemistry)
+Recrystallization (metallurgy)
+Seed crystal
+Single crystal
+Symplectite
+Vitrification
+X-ray crystallography
+References[edit]
+^ Lin, Yibin (2008). "An Extensive Study of Protein Phase Diagram Modification:Increasing Macromolecular Crystallizability by Temperature Screening". Crystal Growth & Design. 8 (12): 4277. doi:10.1021/cg800698p.
+^ Chayen, Blow (1992). "Microbatch crystallization under oil   a new technique allowing many small-volume crystallization trials". Journal of Crystal Growth. 122 (1 4): 176 180. Bibcode:1992JCrGr.122..176C. doi:10.1016/0022-0248(92)90241-A.
+^ Benvenuti, Mangani (2007). "Crystallization of soluble proteins in vapor diffusion for x-ray crystallography". Nature Protocols. 2 (7): 1633 1651. doi:10.1038/nprot.2007.198. PMID 17641629.
+^ a b Tavare, N. S. (1995). Industrial Crystallization. Plenum Press, New York.[page needed]
+^ a b McCabe & Smith (2000). Unit Operations of Chemical Engineering. McGraw-Hill, New York.[page needed]
+^ "Crystallization". www.reciprocalnet.org. Archived from the original on November 27, 2016. Retrieved January 3, 2017.
+^ "Submerge Circulating Crystallizers". Thermal Kinetics Engineering, PLLC. Retrieved January 3, 2017.
+^ "Draft Tube Baffle (DTB) Crystallizer". Swenson Technology. Archived from the original on September 25, 2016. Retrieved January 3, 2017.
+Further reading[edit]
+"Small Molecule Crystallization" (PDF) at Illinois Institute of Technology website
+Arkenbout-de Vroome, Tine (1995). Melt Crystallization Technology CRC ISBN 1-56676-181-6
+Geankoplis, C.J. (2003) "Transport Processes and Separation Process Principles". 4th Ed. Prentice-Hall Inc.
+Glynn P.D. and Reardon E.J. (1990) "Solid-solution aqueous-solution equilibria: thermodynamic theory and representation". Amer. J. Sci. 290, 164 201.
+Jancic, S. J.; Grootscholten, P.A.M.:  Industrial Crystallization , Textbook, Delft University Press and Reidel Publishing Company, Delft, The Netherlands, 1984.
+Mersmann, A. (2001) Crystallization Technology Handbook CRC; 2nd ed. ISBN 0-8247-0528-9
+External links[edit]
+Batch Crystallization
+Industrial Crystallization
+vteConcepts in enantioselective synthesisChirality types
+Chirality
+Stereocenter
+Planar chirality
+C2-symmetric ligands
+Axial chirality
+Supramolecular chirality
+Inherent chirality
+Chiral molecules
+Stereoisomer
+Enantiomer
+Diastereomer
+Meso compound
+Racemic mixture
+Enantiomeric excess (ee)
+Diastereomeric excess (de)
+Analysis
+Optical rotation
+Chiral derivatizing agents
+NMR spectroscopy of stereoisomers
+Ultraviolet visible spectroscopy of stereoisomers
+Chiral resolution
+Recrystallization
+Kinetic resolution
+Chiral column chromatography
+Diastereomeric recrystallization
+Reactions
+Asymmetric induction
+Chiral pool synthesis
+Chiral auxiliaries
+Asymmetric catalysis
+Organocatalysis
+Biocatalysis
+vteSeparation processesProcesses
+Absorption
+Acid base extraction
+Adsorption
+Chromatography
+Cross-flow filtration
+Crystallization
+Cyclonic separation
+Decantation
+Dialysis
+Dissolved air flotation
+Distillation
+Drying
+Electrochromatography
+Electrofiltration
+Extraction
+Filtration
+Flocculation
+Froth flotation
+Gravity separation
+Leaching
+Liquid liquid extraction
+Electroextraction
+Microfiltration
+Osmosis
+Precipitation
+Recrystallization
+Reverse osmosis
+Sedimentation
+Solid-phase extraction
+Sublimation
+Ultrafiltration
+Devices
+API oil water separator
+Belt filter
+Centrifuge
+Depth filter
+Electrostatic precipitator
+Evaporator
+Filter press
+Fractionating column
+Leachate
+Mixer-settler
+Protein skimmer
+Rapid sand filter
+Rotary vacuum-drum filter
+Scrubber
+Spinning cone
+Still
+Sublimation apparatus
+Vacuum ceramic filter
+Multiphase systems
+Aqueous two-phase system
+Azeotrope
+Eutectic
+Concepts
+Unit operation
+vteBiotechnologyHistory
+History of biotechnology
+Timeline of biotechnology
+Competitions and prizes in biotechnology
+Branches
+Colors of biotechnology
+Industrial biotechnology
+Biological concepts
+Allele
+Cell
+DNA/RNA
+Fermentation
+Gene
+Plasmid
+Protein
+Selective breeding
+General concepts
+Biotechnology industrial park
+Biotechnology products
+Biotechnology law
+Green Revolution
+Human Genome Project
+Pharmaceutical company
+Basic techniques and toolsBiology field
+Bioreactor
+Cell culture
+Cultured meat
+Flow cytometry
+Hybridoma technology
+HPLC
+NMR
+Spectroscopy
+Chemical field
+Centrifugation
+CSTR
+DSTR
+Crystallization
+Chromatography
+Kidney dialysis
+Electrophoresis
+Extraction
+Fed Batch
+Filtration
+PFR
+Sedimentation
+Applications
+Animal cell culture
+Biofabrication
+Bioinformatics
+Biosynthesis
+Bionic architecture
+Cell immunity
+Cloning
+Reproductive cloning
+Therapeutic cloning
+Embryology
+Environmental biotechnology
+Genetic engineering
+Genetically modified organism
+Molecular genetics
+Gene therapy
+Microbial biodegradation
+Omics
+Pharmacogenomics
+Stem cells
+Telomere
+Tissue culture
+Interdisciplinary fields
+Bioeconomy
+Bioelectronics
+Bioengineering
+Biology
+Biopharmacology
+Biomedical engineering
+Biomedicine
+Biomimetics
+Biochemicals
+Biorobotics
+Chemical engineering
+Microbiology
+Mining
+Molecular biology
+Nanobiotechnology
+Virology
+Lists
+Index of biotechnology articles
+List of biotechnology articles
+List of largest biomedical companies by market capitalization
+ Category
+ Commons
+Authority control: National 
+France
+BnF data
+Germany
+Israel
+United States
+Latvia
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Crystallization&oldid=1146819936"

@@ -1,0 +1,319 @@
+Type of pump
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Sump pump" news  newspapers  books  scholar  JSTOR (April 2017) (Learn how and when to remove this template message)
+The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (March 2023) (Learn how and when to remove this template message)
+ A small submersible AC sump pump with a garden hose connector
+A sump pump is a pump used to remove water that has accumulated in a water-collecting sump basin, commonly found in the basements of homes and other buildings, or in other locations where water must be removed, such as construction sites.  The water may enter via the perimeter drains of a basement waterproofing system funneling into the basin, or because of rain or natural ground water seepage if the basement is below the water table level.
+More generally, a "sump" is any local depression where water may accumulate. For example, many industrial cooling towers have a built-in sump where a pool of water is used to supply water spray nozzles higher in the tower. Sump pumps are used in industrial plants, construction sites, mines, power plants, military installations, transportation facilities, or anywhere that water can accumulate.
+Description[edit]
+Sump pumps are used where basement flooding may otherwise happen, and to solve dampness where the water table is near or above the foundation of a structure. Sump pumps send water away from a location to any place where it is no longer problematic, such as a municipal storm drain, a dry well, or simply an open-air site downhill from the building (sometimes called "pumping to daylight").
+Pumps may discharge to the sanitary sewer in older installations. Once considered acceptable, this practice may now violate the plumbing code or municipal bylaws, because it can overwhelm the municipal sewage treatment system. Municipalities urge building owners to disconnect and reroute sump pump discharge away from sanitary sewers. Fines may be imposed for noncompliance. Many homeowners have inherited their sump pump configurations and do not realize that their pump discharges into the sanitary sewer.
+Sump pump systems are also utilized in industrial and commercial applications to control water table-related problems in surface soil. An artesian aquifer or periodic high water table situation can cause the ground to become unstable due to water saturation. As long as the pump functions, the surface soil will remain stable. These sumps are typically ten feet in depth or more; lined with corrugated metal pipe that contains perforations or drain holes throughout. They may include electronic control systems with visual and audible alarms and are usually covered to prevent debris and animals from falling in.
+Power[edit]
+Sump pumps may be plugged into an electrical power receptacle. In this case, it is safer to use a dedicated circuit, which is less likely to lose power from a blown fuse or tripped circuit breaker. In addition, the dedicated circuit may omit GFCI protection, which is more vulnerable to false tripping due to electrical noise, especially during thunderstorms. The dedicated circuit receptacle may be specially labeled to warn against unplugging the pump, or the plug may be attached using a special retaining bracket to discourage unplugging. Instead, the pump may be hardwired to electrical power, so that it cannot be unplugged.
+Since a sump basin may overflow if not pumped, a backup system is important for cases when the main power is out for prolonged periods of time, as during a severe storm. Some sump pumps can be automatically powered from a battery backup system, or a separate battery-powered system may be installed, typically with its float switch set slightly higher than the float switch of the primary pump.
+Alternatively, the municipal pressurized water supply powers some pumps, which can operate using a water turbine, or by using the Venturi effect. This design eliminates the need for electricity but consumes potable water, potentially making it more expensive to operate than electrical pumps and creating an additional water disposal problem. This design is used more for backup pumps rather than primary pumps.
+Industrial sump pumps may be powered by other means, such a steam or compressed air, especially for backup pumps or in locations where access for maintenance is difficult.
+Physical configuration[edit]
+ A typical pedestal-type sump pump
+There are generally two types of sump pump packages: pedestal and submersible. In the case of the pedestal pump, the motor is mounted well above the sump, where it is more easily serviced and can be expected to remain dry. This type of installation is more conspicuous, and may take up more physical space. The pump impeller is driven by a long, vertical extension shaft and the impeller is in a scroll housing in the base of the pump. The submersible pump, on the other hand, is entirely mounted inside the sump, and is specially sealed to prevent electrical short circuits. 
+There is debate about which variety of sump pump is better. Pedestal sump pumps usually last longer (25 to 30 years) if they are installed properly and kept free of debris. They are less expensive and easier to service or replace. Submersible pumps will only last 5 to 15 years, and will fail if their waterproof enclosure leaks. They are more expensive to purchase but can take up some debris without clogging.[1][2]
+Components[edit]
+Modern sump pump components in the United States are standardized. They consist of:
+A plastic, metal, or concrete container forming a sump basin, approximately 2 feet (0.6 m) across and 2 to 3 feet (0.6 to 1 m) deep, 15 to 25 US gallons (60 to 100 litre) capacity;
+A sump pump, either 1/3 or 1/2 horsepower (200 or 400 W), either battery or mains powered (or both).[citation needed]
+Pump selection[edit]
+Selection of a sump pump may consider:
+Automatic vs. manual operation  pump may be controlled automatically by a level switch.
+Power  Sump pump motive power will vary from 1/4 horsepower to multiple horsepower.
+Head pressure  The hydraulic head pressure of a sump pump describes the maximum height to which the pump will move water. For instance, a sump pump with a 15 feet (4.6 m) maximum head (also called a shutoff head) will raise water up 15 feet (4.6 m) before it completely loses flow.
+Power cord length  Running a more powerful electrical motor a long distance from the main service panel will require heavier gauge wiring to assure sufficient voltage at the motor for proper pump performance.
+Phase and voltage  Sump pumps powered from the AC mains are available with single-phase or three-phase induction motors, rated for 110 120, 220 240, or 460 volts. Three-phase power is typically not available in residential locations, but is common in industrial locations.
+Water level sensing switch type  Pressure switches are fully enclosed, usually inside the pump body, making them immune to obstructions or floating debris in the sump basin. Float switches, particularly the types attached to the end of a short length of flexible electrical cable, can get tangled or obstructed, especially if the pump is prone to movement in the basin due to torque effects when starting and stopping. Pressure switches are typically factory set and not adjustable, while float switches can be adjusted in place to set the high and low water levels in the sump basin. Another option is a solid state switch utilizing field-effect technology, which can turn on and off the pump through use of an internal switch and a piggyback plug.
+Backup system and alarm for critical applications.[citation needed]
+Backup components[edit]
+ A dual pump setup for better reliability
+A secondary, typically battery-powered sump pump can operate if the first pump fails. A battery-powered secondary pump will have a separate battery and charger system to provide power if normal supply is interrupted.[citation needed]
+Alternative sump pump systems can be driven by municipal water pressure. Water-powered ejector pumps have  a separate pump, float and check valve.[3] The float controlling a backup pump is mounted in the sump pit above the normal high water mark. Under normal conditions, the main electric powered sump pump will handle all the pumping duties. When water rises higher than normal for any reason, the backup float in the sump is lifted and activates the backup sump pump. An ejector pump can also be connected to a garden hose to supply high-pressure water, with another hose to carry the water away.  Although such ejector pumps waste water and are relatively inefficient, they have the advantage of having no moving parts and offer the utmost in reliability.[citation needed]
+If the backup sump system is rarely used, a component failure may not be noticed, and the system may fail when needed. Some battery control units test the system periodically and alert on failed electrical components.[citation needed]
+A simple, battery-powered water alarm can be hung a short distance below the top of the sump to sound an alarm should the water level rise too high.[citation needed] The alarm may sound locally only, or optionally may trigger remote notification via a telephone or cellphone data link.
+Maintenance[edit]
+ A large industrial sump pump at a nuclear power plant
+Sump basins and sump pumps must be maintained. Typical recommendations suggest examining and testing equipment every year. Pumps running frequently due to higher water table, water drainage, or weather conditions should be examined more frequently. Sump pumps, being mechanical devices, will fail eventually, which could lead to a flooded basement and costly repairs. Redundancy in the system (multiple/secondary pumps) can help to avoid problems when maintenance and repairs are needed on the primary system.[4]
+When examining a sump pump and cleaning it, dirt, gravel, sand, and other loose debris should be removed to increase efficiency and extend the life of the pump. These obstructions can decrease the pump's ability to drain the sump, and can allow the sump to overflow. The check valve can also jam from the debris. Periodic examination of the discharge line opening, when applicable, ensures there are no obstructions or restrictions in the line. A partially obstructed discharge line can force a sump pump to work harder and increase its chance of overheating and failure.[5]
+Float switches are used to automatically turn the sump pump on when water rises to a preset level. Float switches must be kept clear of any obstructions within the sump.  A float guard can be used to prevent the float switch from accidentally resting on the pump housing, and remaining on. If a sump pump remains operating for a long time (especially in the absence of cooling water for submersibles) it may overheat or burn out. Because mechanical float switches can wear out, they should be periodically tested by actuating them manually to assure that they continue to move freely and that the switch contacts are opening and closing properly.[citation needed]
+If left in standing water, pedestal pumps should be manually run from time to time, even if the water in the sump is not high enough to trip the float switch. This is because these pumps are incapable of removing all the water in a sump, and the lower bearing or bushing for the pump impeller shaft tends to remain submerged, making it prone to corrosion and eventually freezing the drive shaft in the bearing. In the alternative,[6] a pedestal pump that is expected to remain idle for an extended time should be removed from the sump and stored out of water, or the sump should be mopped out to bring the level of the remaining water well below the lower shaft bearing.[citation needed]
+Lastly, if an independent water detector and alarm system is installed, it should be tested regularly.
+See also[edit]
+Bilge pump
+Chopper pump
+Sewage pump
+References[edit]
+^ "Pedestal Sump Pumps". Retrieved January 14, 2014.
+^ "Sump Pumps: The Differences Between Common Pump Models". Basement Health Pros. Retrieved January 14, 2014.
+^ "Basepump Water-Powered Backup Sump Pump". Alpha Plumbing. Retrieved 27 September 2016.
+^ "Sump pump maintenance". Basement Troubleshooting Guide. Retrieved 13 January 2021.
+^ "Failing Sump Pumps". Basement Troubleshooting Guide. Retrieved 13 January 2021.
+^ "Sump Pump Alternatives". 4 November 2022. Retrieved November 9, 2022.
+Further reading[edit]
+Ann Cameron Siegal, "The Sump Pump's Fault, or Yours?", Washington Post, August 9, 2008
+"Sump Pump Helps Keep Water Out", North Dakota State University Extension Service, June 14, 2005
+Thomas Scherer, "Sump Pump Questions", North Dakota State University Extension Service
+"Sizing Up a Sump Pump" (pdf), University of Illinois Extension
+vteSewerageTypes
+Combined sewer
+Decentralized wastewater system
+Drain-waste-vent system
+Effluent sewer
+Force main
+Gravity sewer
+Outfall
+Pressure sewer
+Sanitary sewer
+Simplified sewerage
+Storm drain
+Vacuum sewer
+Construction materials
+Asbestos cement pipe
+Brickwork
+Cast iron pipe
+Concrete pipe
+Culvert
+Interceptor ditch
+Plastic pipe
+Reinforced concrete
+Steel pipe
+Vitrified clay pipe
+Related equipment
+Chopper pumps
+Combined sewer overflow
+Grease trap
+Grinder pump
+Maceration
+Manhole
+Lift station
+Sewage pumping
+Sewer dosing unit
+Sewer gas destructor lamp
+Stormwater detention vault
+Submersible pump
+Sump pump
+Trap
+Problems
+Biogenic sulfide corrosion
+Blocked Sewer
+Fatberg
+First flush
+Infiltration/Inflow
+Sanitary sewer overflow
+Sewer fly
+Sewer gas
+Sewer rat
+Liquids transported
+Blackwater (waste)
+Greywater
+Industrial wastewater
+Sewage
+Stormwater
+Background
+History of water supply and sanitation
+vtePlumbingFundamentalconcepts
+Air gap (plumbing)
+Backflow
+Compatibility (chemical)
+Corrosion
+Drain (plumbing)
+Drinking water
+Fuel gas
+Friction loss
+Grade (slope)
+Greywater
+Heat trap
+Hydrostatic loop
+Neutral axis
+Onsite sewage facility
+Pressure
+Sanitary sewer
+Sewer gas
+Sewage
+Sewerage
+Siphon
+Storm sewer
+Stormwater
+Surface tension
+Tap water
+Thermal insulation
+Thermosiphon
+Trap (plumbing)
+Venturi effect
+Wastewater
+Water hammer
+Water supply network
+Water table
+Well
+Technology
+Brazing
+British Standard Pipe (BSP)
+Cast iron pipe
+Chemical drain cleaners
+Compression fitting
+Copper tubing
+Crimp (joining)
+Drain-waste-vent system
+Ductile iron pipe
+Flare fitting
+Gasket
+Hydronics
+National Pipe Thread (NPT)
+Nominal Pipe Size (NPS)
+O-ring
+Oakum
+Pipe (fluid conveyance)
+Pipe dope
+Pipe support
+Plastic pipework
+Push-to-pull compression fittings
+Putty
+Sealant
+Sewage pumping
+Soldering
+Solvent welding
+Swaging
+Thread seal tape
+Threaded pipe
+Tube bending
+Water heat recycling
+Components
+Atmospheric vacuum breaker
+Automatic bleeding valve
+Automatic faucet
+Backflow prevention device
+Ball valve
+Bleed screw
+Booster pump
+Butterfly valve
+Check valve
+Chemigation valve
+Chopper pump
+Circulator pump
+Cistern
+Closet flange
+Concentric reducer
+Condensate pump
+Coupling (piping)
+Diaphragm valve
+Dielectric union
+Double check valve
+Eccentric reducer
+Expansion tank
+Faucet aerator
+Float switch
+Float valve
+Floor drain
+Flow limiter
+Flushing trough
+Flushometer
+Gate valve
+Globe valve
+Grease trap
+Hose coupling
+Manifold
+Needle valve
+Nipple (plumbing)
+Piping and plumbing fitting
+Plug (sanitation)
+Pressure regulator
+Pressure vacuum breaker
+Pressure-balanced valve
+Pump
+Radiator (heating)
+Reducer
+Relief valve
+Riser clamp
+Rooftop water tower
+Safety valve
+Sewage pump
+Street elbow
+Submersible pump
+Tap (valve)
+Thermostatic mixing valve
+Trench drain
+Vacuum breaker
+Vacuum ejector
+Valve
+Water tank
+Zone valve
+Plumbing fixtures
+Accessible bathtub
+Bathtub
+Bidet
+Dehumidifier
+Dishwasher
+Drinking fountain
+Electric water boiler
+Evaporative cooler
+Flush toilet
+Garbage disposal unit
+Hot water storage tank
+Humidifier
+Icemaker
+Instant hot water dispenser
+Laundry tub
+Shower
+Sink
+Storage water heater
+Sump pump
+Tankless water heater
+Urinal
+Washing machine
+Washlet
+Water dispenser
+Water filter
+Water heater
+Water softener
+Specialized tools
+Basin wrench
+Blowtorch
+Borescope
+Core drill
+Drain cleaner
+Flare-nut wrench
+Pipecutter
+Pipe wrench
+Plumber's snake
+Plumber wrench
+Plunger
+Strap wrench
+Tap and die
+Measurementand control
+Control valve
+Flow sensor
+Pressure sensor
+Water detector
+Water metering
+Professions,trades,and services
+Hydronic balancing
+Hydrostatic testing
+Leak detection
+Mechanical, electrical, and plumbing
+Pipe marking
+Pipefitter
+Pipelayer
+Plumber
+Industry organizations and standards
+International Association of Plumbing and Mechanical Officials (IAPMO)
+NSF International
+Plumbing & Drainage Institute (PDI)
+Uniform Plumbing Code (UPC)
+World Plumbing Council (WPC)
+Health and safety
+Plumbing code
+Scalding
+Waterborne diseases
+See also
+Piping
+Template:HVAC
+Template:Public health
+Template:Sewerage
+Template:Toilets
+Template:Wastewater
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Sump_pump&oldid=1148349341"

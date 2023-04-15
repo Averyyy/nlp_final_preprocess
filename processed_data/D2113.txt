@@ -1,0 +1,345 @@
+Lean methodology used to improve production time by reducing wastes
+Corporate finance
+Working capital
+Cash conversion cycle
+Return on capital
+Economic value added
+Just-in-time
+Economic order quantity
+Discounts and allowances
+Factoring
+Reverse factoring
+Sections
+Managerial finance
+Financial accounting
+Management accounting
+Mergers and acquisitions
+Balance sheet analysis
+Business plan
+Corporate action
+Social components
+Financial law
+Financial market
+Financial market participants
+Corporate finance
+Personal finance
+Peer-to-peer lending
+Public finance
+Banks and banking
+Financial regulation
+Clawback
+vte
+Part of a series of articles onMachine industry
+Manufacturing methods
+Batch production
+Job production
+Flow production
+Lean manufacturing
+Agile manufacturing
+Industrial technologies
+PLM
+RCM
+TPM
+VDM
+QRM
+TOC
+Six Sigma
+TQM
+ZD
+Information and communication
+ISA-88
+ISA-95
+ERP
+IEC 62264
+B2MML
+Process control
+PLC
+DCS
+SCADA
+vte
+Lean manufacturing  is a production method aimed primarily at reducing times within the production system as well as response times from suppliers and to customers. It is closely related to another concept called  just-in-time manufacturing (JIT manufacturing in short). Just-in-time manufacturing tries to match production to demand by only supplying goods which have been ordered and focuses on efficiency, productivity (with a commitment to continuous improvement) and reduction of "wastes" for the producer and supplier of goods. Lean manufacturing adopts the just-in-time approach and additionally focuses on reducing cycle, flow and throughput times by further eliminating activities which do not add any value for the customer.[1] Lean manufacturing also involves people who work outside of the manufacturing process, such as in marketing and customer service. 
+Lean manufacturing is particularly related to the operational model implemented in the post-war 1950s and 1960s by the Japanese automobile company Toyota called "The Toyota Way" or the Toyota Production System (TPS).[2][3] Toyota's system was erected on the two pillars of just-in-time inventory management and automated quality control. The seven "wastes" (muda in Japanese), first formulated by Toyota engineer Shigeo Shingo, are the waste of superfluous inventory of raw material and finished goods, the waste of overproduction (producing more than what is needed now), the waste of over-processing (processing or making parts beyond the standard expected by customer), the waste of transportation (unnecessary movement of people and goods inside the system), the waste of excess motion (mechanizing or automating before improving the method), the waste of waiting (inactive working periods due to job queues), and the waste of making defective products (reworking to fix avoidable defects in products and processes).[4]
+The term Lean was coined in 1988 by American businessman John Krafcik in his article "Triumph of the Lean Production System", and defined in 1996 by American researchers James Womack and Daniel Jones to consist of five key principles: "Precisely specify value by specific product, identify the value stream for each product, make value flow without interruptions, let customer pull value from the producer, and pursue perfection."[5]
+Companies employ the strategy to increase efficiency. By receiving goods only as they need them for the production process, it reduces inventory costs and wastage, and increases productivity and profit. The downside is that it requires producers to forecast demand accurately as the benefits can be nullified by minor delays in the supply chain. It may also impact negatively on workers due to added stress and inflexible conditions. A successful operation depends on a company having regular outputs, high-quality processes, and reliable suppliers.
+History[edit]
+Fredrick Taylor and Henry Ford documented their observations relating to these topics, and Shigeo Shingo and Taiichi Ohno applied their enhanced thoughts on the subject at Toyota in the 1930s. The resulting methods were researched from the mid-20th century and dubbed Lean by John Krafcik in 1988, and then were defined in The Machine that Changed the World[6][page needed] and further detailed by James Womack and Daniel Jones in Lean Thinking (1996).
+Evolution in Japan[edit]
+The exact reasons for adoption of just-in-time manufacturing in Japan are unclear, but it has been suggested it started with a requirement to solve the lack of standardization. American supply chain specialist Gergard Plenert has offered four reasons, paraphrased here. During Japan's post World War II rebuilding of industry: 
+Japan's lack of cash made it difficult for industry to finance the big-batch, large inventory production methods common elsewhere.
+Japan lacked space to build big factories loaded with inventory.
+The Japanese islands lack natural resources with which to build products.
+Japan had high unemployment, which meant that labor efficiency methods were not an obvious pathway to industrial success.
+Thus, the Japanese "leaned out" their processes. "They built smaller factories ... in which the only materials housed in the factory were those on which work was currently being done. In this way, inventory levels were kept low, investment in in-process inventories was at a minimum, and the investment in purchased natural resources was quickly turned around so that additional materials were purchased." Plenert goes on to explain Toyota's key role in developing this lean or just-in-time production methodology.[7]
+American industrialists recognized the threat of cheap offshore labor to American workers during the 1910s, and explicitly stated the goal of what is now called lean manufacturing as a countermeasure. Henry Towne, past president of the American Society of Mechanical Engineers, wrote in the foreword to Frederick Winslow Taylor's Shop Management (1911), "We are justly proud of the high wage rates which prevail throughout our country, and jealous of any interference with them by the products of the cheaper labor of other countries. To maintain this condition, to strengthen our control of home markets, and, above all, to broaden our opportunities in foreign markets where we must compete with the products of other industrial nations, we should welcome and encourage every influence tending to increase the efficiency of our productive processes."[8]
+Continuous production improvement and incentives for such were documented in Taylor's Principles of Scientific Management (1911):
+"... whenever a workman proposes an improvement, it should be the policy of the management to make a careful analysis of the new method, and if necessary conduct a series of experiments to determine accurately the relative merit of the new suggestion and of the old standard. And whenever the new method is found to be markedly superior to the old, it should be adopted as the standard for the whole establishment."
+"...after a workman has had the price per piece of the work he is doing lowered two or three times as a result of his having worked harder and increased his output, he is likely entirely to lose sight of his employer's side of the case and become imbued with a grim determination to have no more cuts if soldiering [marking time, just doing what he is told] can prevent it."
+Shigeo Shingo cites reading Principles of Scientific Management in 1931 and being "greatly impressed to make the study and practice of scientific management his life's work".[9][need quotation to verify], [10][page needed]
+Shingo and Taiichi Ohno were key to the design of Toyota's manufacturing process. Previously a textile company, Toyota moved into building automobiles in 1934. Kiichiro Toyoda, founder of Toyota Motor Corporation, directed the engine casting work and discovered many problems in their manufacturing, with wasted resources on repair of poor-quality castings. Toyota engaged in intense study of each stage of the process. In 1936, when Toyota won its first truck contract with the Japanese government, the processes encountered new problems, to which Toyota responded by developing Kaizen improvement teams, into what has become the Toyota Production System (TPS), and subsequently The Toyota Way.
+Levels of demand in the postwar economy of Japan were low; as a result, the focus of mass production on lowest cost per item via economies of scale had little application. Having visited and seen supermarkets in the United States, Ohno recognized that the scheduling of work should not be driven by sales or production targets but by actual sales. Given the financial situation during this period, over-production had to be avoided, and thus the notion of "pull" (or "build-to-order" rather than target-driven "push") came to underpin production scheduling.
+Evolution in the rest of the world[edit]
+Just-in-time manufacturing was introduced in Australia in the 1950s by the British Motor Corporation (Australia) at its Victoria Park plant in Sydney, from where the idea later migrated to Toyota.[11] News about just-in-time/Toyota production system reached other western countries from Japan in 1977 in two English-language articles: one referred to the methodology as the "Ohno system", after Taiichi Ohno, who was instrumental in its development within Toyota.[12] The other article, by Toyota authors in an international journal, provided additional details.[13] Finally, those and other publicity were translated into implementations, beginning in 1980 and then quickly multiplying throughout industry in the United States and other developed countries. A seminal 1980 event was a conference in Detroit at Ford World Headquarters co-sponsored by the Repetitive Manufacturing Group (RMG), which had been founded 1979 within the American Production and Inventory Control Society (APICS) to seek advances in manufacturing. The principal speaker, Fujio Cho (later, president of Toyota Motor Corp.), in explaining the Toyota system, stirred up the audience, and led to the RMG's shifting gears from things like automation to just-in-time/Toyota production system.[14]
+At least some of audience's stirring had to do with a perceived clash between the new just-in-time regime and manufacturing resource planning (MRP II), a computer software-based system of manufacturing planning and control which had become prominent in industry in the 1960s and 1970s. Debates in professional meetings on just-in-time vs. MRP II were followed by published articles, one of them titled, "The Rise and Fall of Just-in-Time".[15] Less confrontational was Walt Goddard's, "Kanban Versus MRP II Which Is Best for You?" in 1982.[16] Four years later, Goddard had answered his own question with a book advocating just-in-time.[17] Among the best known of MRP II's advocates was George Plossl, who authored two articles questioning just-in-time's kanban planning method[18] and the "japanning of America".[19] But, as with Goddard, Plossl later wrote that "JIT is a concept whose time has come".[20]
+Just-in-time/TPS implementations may be found in many case-study articles from the 1980s and beyond. An article in a 1984 issue of Inc. magazine[21] relates how Omark Industries (chain saws, ammunition, log loaders, etc.) emerged as an extensive just-in-time implementer under its US home-grown name ZIPS (zero inventory production system). At Omark's mother plant in Portland, Oregon, after the work force had received 40 hours of ZIPS training, they were "turned loose" and things began to happen. A first step was to "arbitrarily eliminate a week's lead time [after which] things ran smoother. 'People asked that we try taking another week's worth out.' After that, ZIPS spread throughout the plant's operations 'like an amoeba.'" The article also notes that Omark's 20 other plants were similarly engaged in ZIPS, beginning with pilot projects. For example, at one of Omark's smaller plants making drill bits in Mesabi, Minnesota, "large-size drill inventory was cut by 92%, productivity increased by 30%, scrap and rework ... dropped 20%, and lead time ... from order to finished product was slashed from three weeks to three days." The Inc. article states that companies using just-in-time the most extensively include "the Big Four, Hewlett-Packard, Motorola, Westinghouse Electric, General Electric, Deere & Company, and Black and Decker".[citation needed]
+By 1986, a case-study book on just-in-time in the U.S.[22] was able to devote a full chapter to ZIPS at Omark, along with two chapters on just-in-time at several Hewlett-Packard plants, and single chapters for Harley-Davidson, John Deere, IBM-Raleigh, North Carolina, and California-based Apple Inc., a Toyota truck-bed plant, and New United Motor Manufacturing joint venture between Toyota and General Motors.[citation needed]
+Two similar, contemporaneous books from the U.K. are more international in scope.[23] One of the books, with both conceptual articles and case studies, includes three sections on just-in-time practices: in Japan (e.g., at Toyota, Mazda, and Tokagawa Electric); in Europe (jmg Bostrom, Lucas Electric, Cummins Engine, IBM, 3M, Datasolve Ltd., Renault, Massey Ferguson); and in the US and Australia (Repco Manufacturing-Australia, Xerox Computer, and two on Hewlett-Packard). The second book, reporting on what was billed as the First International Conference on just-in-time manufacturing,[24] includes case studies in three companies: Repco-Australia, IBM-UK, and 3M-UK. In addition, a day two keynote address discussed just-in-time as applied "across all disciplines, ... from accounting and systems to design and production".[24]: J1 J9 
+Rebranding as "lean"[edit]
+John Krafcik coined the term Lean in his 1988 article, "Triumph of the Lean Production System".[25] The article states: (a) Lean manufacturing plants have higher levels of productivity/quality than non-Lean and (b) "The level of plant technology seems to have little effect on operating performance" (page 51). According to the article, risks with implementing Lean can be reduced by: "developing a well-trained, flexible workforce, product designs that are easy to build with high quality, and a supportive, high-performance supplier network" (page 51).
+Middle era and to the present[edit]
+Three more books which include just-in-time implementations were published in 1993,[26] 1995,[27] and 1996,[28] which are start-up years of the lean manufacturing/lean management movement that was launched in 1990 with publication of the book, The Machine That Changed the World.[29] That one, along with other books, articles, and case studies on lean, were supplanting just-in-time terminology in the 1990s and beyond. The same period, saw the rise of books and articles with similar concepts and methodologies but with alternative names, including cycle time management,[30] time-based competition,[31] quick-response manufacturing,[32] flow,[33] and pull-based production systems.[34]
+There is more to just-in-time than its usual manufacturing-centered explication. Inasmuch as manufacturing ends with order-fulfillment to distributors, retailers, and end users, and also includes remanufacturing, repair, and warranty claims, just-in-time's concepts and methods have application downstream from manufacturing itself. A 1993 book on "world-class distribution logistics" discusses kanban links from factories onward.[35] And a manufacturer-to-retailer model developed in the U.S. in the 1980s, referred to as quick response,[36] has morphed over time to what is called fast fashion.[37][38]
+Methodology[edit]
+The strategic elements of lean can be quite complex, and comprise multiple elements. Four different notions of lean have been identified:[39]
+Lean as a fixed state or goal (being lean)
+Lean as a continuous change process (becoming lean)
+Lean as a set of tools or methods (doing lean/toolbox lean)
+Lean as a philosophy (lean thinking)
+The other way to avoid market risk and control the supply efficiently is to cut down in stock. P&G has completed their goal to co-operate with Walmart and other wholesales companies by building the response system of stocks directly to the suppliers companies.[40]
+In 1999, Spear and Bowen[41] identified four rules which characterize the "Toyota DNA":
+All work shall be highly specified as to content, sequence, timing, and outcome.
+Every customer-supplier connection must be direct, and there must be an unambiguous yes or no way to send requests and receive responses.
+The pathway for every product and service must be simple and direct.
+Any improvement must be made in accordance with the scientific method, under the guidance of a teacher, at the lowest possible level in the organization.
+This is a fundamentally different approach from most improvement methodologies, and requires more persistence than basic application of the tools, which may partially account for its lack of popularity.[42] The implementation of "smooth flow" exposes quality problems that already existed, and waste reduction then happens as a natural consequence, a system-wide perspective rather focusing directly upon the wasteful practices themselves.
+Sepheri provides a list of methodologies of just-in-time manufacturing that "are important but not exhaustive":[43]
+Housekeeping: physical organization and discipline.
+Make it right the first time: elimination of defects.
+Setup reduction: flexible changeover approaches.
+Lot sizes of one: the ultimate lot size and flexibility.
+Uniform plant load: leveling as a control mechanism.
+Balanced flow: organizing flow scheduling throughput.
+Skill diversification: multi-functional workers.
+Control by visibility: communication media for activity.
+Preventive maintenance: flawless running, no defects.
+Fitness for use: producibility, design for process.
+Compact plant layout: product-oriented design.
+Streamlining movements: smoothing materials handling.
+Supplier networks: extensions of the factory.
+Worker involvement: small group improvement activities.
+Cellular manufacturing: production methods for flow.
+Pull system: signal [kanban] replenishment/resupply systems.
+Key principles and waste[edit]
+Womack and Jones define Lean as "...a way to do more and more with less and less less human effort, less equipment, less time, and less space while coming closer and closer to providing customers exactly what they want" and then translate this into five key principles:[44]
+Value: Specify the value desired by the customer. "Form a team for each product to stick with that product during its entire production cycle", "Enter into a dialogue with the customer" (e.g. Voice of the customer)
+The Value Stream: Identify the value stream for each product providing that value and challenge all of the wasted steps (generally nine out of ten) currently necessary to provide it
+Flow: Make the product flow continuously through the remaining value-added steps
+Pull: Introduce pull between all steps where continuous flow is possible
+Perfection: Manage toward perfection so that the number of steps and the amount of time and information needed to serve the customer continually falls
+Lean is founded on the concept of continuous and incremental improvements on product and process while eliminating redundant activities. "The value of adding activities are simply only those things the customer is willing to pay for, everything else is waste, and should be eliminated, simplified, reduced, or integrated".[45]
+On principle 2, waste, see seven basic waste types under The Toyota Way. Additional waste types are:
+Faulty goods (manufacturing of goods or services that do not meet customer demand or specifications, Womack et al., 2003. See Lean services)
+Waste of skills (Six Sigma)
+Under-utilizing capabilities (Six Sigma)
+Delegating tasks with inadequate training (Six Sigma)
+Metrics (working to the wrong metrics or no metrics) (Mika Geoffrey, 1999)
+Participation (not utilizing workers by not allowing them to contribute ideas and suggestions and be part of Participative Management) (Mika Geoffrey, 1999)
+Computers (improper use of computers: not having the proper software, training on use and time spent surfing, playing games or just wasting time) (Mika Geoffrey, 1999)[46]
+Implementation[edit]
+One paper suggests that an organization implementing Lean needs its own Lean plan as developed by the "Lean Leadership". This should enable Lean teams to provide suggestions for their managers who then makes the actual decisions about what to implement. Coaching is recommended when an organization starts off with Lean to impart knowledge and skills to shop-floor staff. Improvement metrics are required for informed decision-making.[47]
+Lean philosophy and culture is as important as tools and methodologies. Management should not decide on solutions without understanding the true problem by consulting shop floor personnel.[48]
+The solution to a specific problem for a specific company may not have generalized application. The solution must fit the problem.[49]
+Value-stream mapping (VSM) and 5S are the most common approaches companies take on their first steps to Lean. Lean can be focused on specific processes, or cover the entire supply chain. Front-line workers should be involved in VSM activities. Implementing a series of small improvements incrementally along the supply chain can bring forth enhanced productivity.[50]
+Naming[edit]
+Alternative terms for JIT manufacturing have been used. Motorola's choice was short-cycle manufacturing (SCM).[51][52] IBM's was continuous-flow manufacturing (CFM),[53][54] and demand-flow manufacturing (DFM), a term handed down from consultant John Constanza at his Institute of Technology in Colorado.[55] Still another alternative was mentioned by Goddard, who said that "Toyota Production System is often mistakenly referred to as the 'Kanban System'", and pointed out that kanban is but one element of TPS, as well as JIT production.[17]: 11 
+The wide use of the term JIT manufacturing throughout the 1980s faded fast in the 1990s, as the new term lean manufacturing became established[56][page needed], [57][need quotation to verify] as "a more recent name for JIT".[58] As just one testament to the commonality of the two terms, Toyota production system (TPS) has been and is widely used as a synonym for both JIT and lean manufacturing.[59][need quotation to verify], [60]
+Objectives and benefits[edit]
+Objectives and benefits of JIT manufacturing may be stated in two primary ways: first, in specific and quantitative terms, via published case studies; second, general listings and discussion.
+A case-study summary from Daman Products in 1999 lists the following benefits: reduced cycle times 97%, setup times 50%, lead times from 4 to 8 weeks to 5 to 10 days, flow distance 90%. This was achieved via four focused (cellular) factories, pull scheduling, kanban, visual management, and employee empowerment.[61]
+Another study from NCR (Dundee, Scotland) in 1998, a producer of make-to-order automated teller machines, includes some of the same benefits while also focusing on JIT purchasing: In switching to JIT over a weekend in 1998, eliminated buffer inventories, reducing inventory from 47 days to 5 days, flow time from 15 days to 2 days, with 60% of purchased parts arriving JIT and 77% going dock to line, and suppliers reduced from 480 to 165.[62]
+Hewlett-Packard, one of western industry's earliest JIT implementers, provides a set of four case studies from four H-P divisions during the mid-1980s.[63] The four divisions, Greeley, Fort Collins, Computer Systems, and Vancouver, employed some but not all of the same measures. At the time about half of H-P's 52 divisions had adopted JIT.
+Greeley
+Fort Collins
+Computer Systems
+Vancouver
+Inventory reduction
+2.8 months
+75%
+75%
+Labor cost reduction
+30%
+15%
+50%
+Space reduction
+50%
+30%
+33%
+40%
+WIP stock reduction
+22 days to 1 day
+Production increase
+100%
+Quality improvement
+30% scrap, 79% rework
+80% scrap
+30% scrap & rework
+Throughput time reduction
+50%
+17 days to 30 hours
+Standard hours reduction
+50%
+No. of shipments increase
+20%
+Use in other sectors[edit]
+Main articles: lean services, lean dynamics, lean higher education, lean product development, lean Six Sigma, lean software development, lean thinking, and lean CFP driven
+Lean principles have been successfully applied to various sectors and services, such as call centers and healthcare. In the former, lean's waste reduction practices have been used to reduce handle time, within and between agent variation, accent barriers, as well as attain near perfect process adherence.[64][need quotation to verify] In the latter, several hospitals have adopted the idea of lean hospital, a concept that prioritizes the patient, thus increasing the employee commitment and motivation, as well as boosting medical quality and cost effectiveness.[65][need quotation to verify]
+Lean principles also have applications to software development and maintenance as well as other sectors of information technology (IT).[66] More generally, the use of lean in information technology has become known as Lean IT.[citation needed] Lean methods are also applicable to the public sector, but most results have been achieved using a much more restricted range of techniques than lean provides.[67][page needed]
+The challenge in moving lean to services is the lack of widely available reference implementations to allow people to see how directly applying lean manufacturing tools and practices can work and the impact it does have. This makes it more difficult to build the level of belief seen as necessary for strong implementation. However, some research does relate widely recognized examples of success in retail and even airlines to the underlying principles of lean.[68] Despite this, it remains the case that the direct manufacturing examples of 'techniques' or 'tools' need to be better 'translated' into a service context to support the more prominent approaches of implementation, which has not yet received the level of work or publicity that would give starting points for implementors. The upshot of this is that each implementation often 'feels its way' along as must the early industrial engineering practices of Toyota. This places huge importance upon sponsorship to encourage and protect these experimental developments.[citation needed]
+Lean management is nowadays implemented also in non-manufacturing processes and administrative processes. In non-manufacturing processes is still huge potential for optimization and efficiency increase.[69] Some people have advocated using STEM resources to teach children Lean thinking instead of computer science. [70]
+Criticism[edit]
+This article's Criticism or Controversy section may compromise the article's neutrality by separating out potentially negative information. Please integrate the section's contents into the article as a whole, or rewrite the material. (June 2021)
+According to Williams, it becomes necessary to find suppliers that are close by or can supply materials quickly with limited advance notice. When ordering small quantities of materials, suppliers' minimum order policies may pose a problem, though.[71]
+Employees are at risk of precarious work when employed by factories that utilize just-in-time and flexible production techniques. A longitudinal study of US workers since 1970 indicates employers seeking to easily adjust their workforce in response to supply and demand conditions respond by creating more nonstandard work arrangements, such as contracting and temporary work.[72]
+Natural and man-made disasters will disrupt the flow of energy, goods and services. The down-stream customers of those goods and services will, in turn, not be able to produce their product or render their service because they were counting on incoming deliveries "just in time" and so have little or no inventory to work with. The disruption to the economic system will cascade to some degree depending on the nature and severity of the original disaster.[73][74] The larger the disaster the worse the effect on just-in-time failures. Electrical power is the ultimate example of just-in-time delivery. A severe geomagnetic storm could disrupt electrical power delivery for hours to years, locally or even globally. Lack of supplies on hand to repair the electrical system would have catastrophic effects.[75]
+The COVID-19 pandemic has caused disruption in JIT practices, with various quarantine restrictions on international trade and commercial activity in general interrupting supply while lacking stockpiles to handle the disruption; along with increased demand for medical supplies like personal protective equipment (PPE) and ventilators, and even panic buying, including of various domestically manufactured (and so less vulnerable) products like panic buying of toilet paper, disturbing regular demand. This has led to suggestions that stockpiles and diversification of suppliers should be more heavily focused.[76][77][78][79]
+Critics of Lean argue that this management method has significant drawbacks, especially for the employees of companies operating under Lean. Common criticism of Lean is that it fails to take into consideration the employee's safety and well-being. Lean manufacturing is associated with an increased level of stress among employees, who have a small margin of error in their work environment which require perfection. Lean also over-focuses on cutting waste, which may lead management to cut sectors of the company that are not essential to the company's short-term productivity but are nevertheless important to the company's legacy. Lean also over-focuses on the present, which hinders a company's plans for the future.[80]
+Critics also make negative comparison of Lean and 19th century scientific management, which had been fought by the labor movement and was considered obsolete by the 1930s. Finally, lean is criticized for lacking a standard methodology: "Lean is more a culture than a method, and there is no standard lean production model."[80]
+After years of success of Toyota's Lean Production, the consolidation of supply chain networks has brought Toyota to the position of being the world's biggest carmaker in the rapid expansion. In 2010, the crisis of safety-related problems in Toyota made other carmakers that duplicated Toyota's supply chain system wary that the same recall issue might happen to them.
+James Womack had warned Toyota that cooperating with single outsourced suppliers might bring unexpected problems.[81]
+Lean manufacturing is different from lean enterprise. Recent research reports the existence of several lean manufacturing processes but of few lean enterprises.[82] One distinguishing feature opposes lean accounting and standard cost accounting. For standard cost accounting, SKUs are difficult to grasp. SKUs include too much hypothesis and variance, i.e., SKUs hold too much indeterminacy. Manufacturing may want to consider moving away from traditional accounting and adopting lean accounting. In using lean accounting, one expected gain is activity-based cost visibility, i.e., measuring the direct and indirect costs at each step of an activity rather than traditional cost accounting that limits itself to labor and supplies.[citation needed]
+See also[edit]
+A3 problem solving
+Cellular manufacturing
+Computer-aided lean management
+CONWIP
+Efficiency Movement
+Just In Case
+Kaizen
+Kanban
+Production flow analysis
+Takt time
+Notes[edit]
+^ According to Kamarudin Abu Bakar; Mohd Fazli Mohd. Sam; M.I. Qureshi (2022), "Lean Manufacturing Design of a Two-Sided Assembly Line Balancing Problem Work Cell",  in Mohd Najib Ali Mokhtar; Zamberi Jamaludin; Mohd Sanusi Abdul Aziz; Mohd Nazmin Maslan; Jeeferie Abd Razak (eds.), Intelligent Manufacturing and Mechatronics: Proceedings of SympoSIMM 2021, Springer Nature, p. 250: "While Just-In-Time manufacturing focuses on efficiency of inventory strategy to eliminate waste and enhance productivity, Lean manufacturing uses efficiency in its system setups to reduce cycle, flow, and throughput times being the added values to customers."
+^ Ohno, Taiichi (1988). Toyota Production System: Beyond Large-Scale Production. CRC Press. ISBN 978-0-915299-14-0.
+^ Shingo, Shigeo. 1985. A Revolution in Manufacturing: The SMED System. Stamford, Ct.: Productivity Press
+^ Jonathan Law, ed. (2009), A Dictionary of Business and Management, Oxford University Press
+^ Womack, James P.; Jones, Daniel T. (2003), Lean Thinking: Banish Waste And Create Wealth In Your Corporation, Simon and Schuster, p. 10, ISBN 9781471111006, archived from the original on October 22, 2021, retrieved October 2, 2020
+^ Womack, James P.; Jones, Daniel T.; Roos, Daniel (1990), Machine that Changed the World, New York: Rawson Associates, ISBN 9780892563500, archived from the original on February 19, 2022, retrieved October 2, 2020
+^ Plenert, G. 2007.Reinventing Lean: Introducing Lean Management into the Supply Chain. Oxford, U.K.: Butterworth-Heinemann. pp. 41 42.
+^ Levinson, William A. (2016). Lean Management System LMS:2012: A Framework for Continual Lean Improvement. CRC Press. p. 11. ISBN 9781466505384. Archived from the original on August 20, 2021. Retrieved May 5, 2019.
+^ Shingo, Shigeo (1987). The Sayings of Shigeo Shingo: Key Strategies for Plant Improvement. Translated by Dillon, Andrew P. New York: Productivity Press. ISBN 0-915299-15-1. Archived from the original on February 19, 2022. Retrieved October 2, 2020.
+^ Shingo, Shigeo (1985). A Revolution In Manufacturing: The SMED System. Portland, Oregon: Productivity Press. ISBN 0-915299-03-8. Archived from the original on August 20, 2021. Retrieved October 2, 2020.
+^ "Archived copy" (PDF). Archived (PDF) from the original on September 4, 2021. Retrieved June 1, 2021.{{cite web}}:  CS1 maint: archived copy as title (link)
+^ Ashburn, A., 1977. Toyota's "famous Ohno system", American Machinist, July, 120 123.
+^ Sugimori, Y.; Kusunoki, K.; Cho, F.; Uchikawa, S. (1977). "Toyota Production System and Kanban System: Materialization of Just-in-time and Respect-for-human System". 2016 Impact Factor 2.325 International Journal of Production Research. 15 (6): 553 564. doi:10.1080/00207547708943149. ISSN 0020-7543.
+^ "The Founding of the Association for Manufacturing Excellence: Summarized at a Meeting of its Founders, February 2, 2001" (PDF). Target. Association for Manufacturing Excellence. 17 (3): 23 24. 2001. Archived (PDF) from the original on March 9, 2021. Retrieved June 1, 2021. 1980: At Bendix in Southfield, MI, the mood darkened. John Kinsey, Ken Wantuck, Doc, Larry and others at this meeting had been exposed to "Japanese manufacturing." While we dinked with MRP, the Japanese were eating our lunch; something more significant was needed. Afterward, Mac and Nick visited the APICS president to seek recognition as a special interest group of APICS. We became the Repetitive Manufacturing Group (RMG) of APICS, but to front the next workshop, we opened our own bank account. By APICS rules, we weren't supposed to do that. [...] In October, the Detroit APICS Chapter supported by several members of the Repetitive Manufacturing Group sponsored the first-known conference in the United States on "Japanese Manufacturing" at Ford World Headquarters Auditorium. The featured speaker was Fujio Cho, now president of Toyota.
+^ Landvater, Darryl. 1984. "The rise and fall of just-in-time". Infosystems. November, p 62.
+^ Goddard, W. 1982. "Kanban versus MRP II which is best for you?" Modern Materials Handling. November 5, 1982, p 40-48.
+^ a b Goddard, Walter E. 1986. Just-in-Time: Surviving by Breaking Tradition. Essex Junction, Vt." Oliver Wight Ltd.
+^ Plossl, G.W. 1981. Japanese productivity: myth vs. reality. P&IM Review and APICS News, September, pp 59 62.
+^ Plossl, G.W. 1984. The redirection of U.S. manufacturing. P&IM Review and APICS News. November, pp 50 53.
+^ Plossl. G.W. 1986. "J.I.T.  fad or fact of life?" P&IM Review and APICS News, February 1986, p. 24.
+^ Walters, C.R. 1984. Why everybody's talking about "just-in-time." Inc. (March 1) 77 90.
+^ Sepehri, Mehran. 1986. Just-in-Time: Not Just in Japan: Case Studies of American Pioneers in JIT Implementation. Falls Church, Va.: American Production and Inventory Control Society
+^ Mortimer, J. (1986). Just-in-Time: An Executive Briefing. Kempston, Bedford, UK: IFS Ltd.
+^ a b Ingersoll Engineers. 1986. Just in Time Manufacturing: Proceedings of the First International Conference. London, UK. April 8 9, 1986.
+^ "Archived copy" (PDF). Archived (PDF) from the original on February 12, 2020. Retrieved February 10, 2020.{{cite web}}:  CS1 maint: archived copy as title (link)
+^ Schniederjans, M.J. 1993. Topics in Just-in-Time Management. Needham Heights, Mass.: Allyn & Bacon
+^ Jasinowski, Jerry, and Robert Hamrin. 1995. Making It in America: Proven Paths to Success from 50 Top Companies. New York: Simon & Schuster.
+^ Kinni, T.B. 1996. America's Best Plants: Industry Week's Guide to World-Class Manufacturing Plants. New York: Wiley
+^ Womack, James P., Jones, Daniel T., and Roos, Daniel. 1990. The Machine That Changed the World: The Story of Lean Production. New York: Rawson Associates.
+^ Thomas, P.R. 1991. Getting Competitive: Middle Managers and the Cycle Time Ethic. New York: McGraw-Hill.
+^ Blackburn, Joseph T. 1991. Time-based Competition: The Next Battleground in American Manufacturing. Homewood, Ill.; Business One Irwin, p 28.
+^ Suri, R. 1998. Quick Response Manufacturing: A Companywide Approach to Reducing Lead Times. Portland, Ore.: Productivity Inc.
+^ Hirano, Hiroyuki. and Makota Furuya. 2006. JIT Is Flow: Practice and Principles of Lean Manufacturing. Vancouver, Wash.: PCS Press,
+^ Pettersen, Jan-Arne. 2010. "Pull Based Production Systems: Performance, Modeling and Analysis," doctoral thesis. Lulea, Sweden: Lulea University of Technology.
+^ Harmon, R.L. 1993. Reinventing the Warehouse: World Class Distribution Logistics. New York: Free Press.
+^ Lowson, B., R. King, and A. Hunter. 1999. Quick Response  Managing the Supply Chain to Meet Consumer Demand. Chichester, UK: Wiley.
+^ Hines, T. 2001. "From analogue to digital supply chains: Implications for fashion marketing ," in Fashion Marketing: Contemporary Issues. eds, T. Hines and M. Bruce. Oxford: Butterworth Heinemann, 26 47.
+^ Hines, T. 2004. Supply Chain Strategies: Customer Driven and Customer Focused. Oxford, UK: Elsevier.
+^ Pettersen, J., 2009. Defining lean production: some conceptual and practical issues. The TQM Journal, 21(2), 127 - 142.
+^ "Shining examples". Special report: Logistics: The Economist. June 15, 2006. Archived from the original on February 20, 2018. Retrieved June 13, 2017.
+^ Spear, Steven; Bowen, H. Kent (September 1999). "Decoding the DNA of the Toyota Production System". Harvard Business Review. Archived from the original on March 7, 2016. Retrieved February 20, 2013.
+^ Liker, Jeffrey K. and Michael Hoseus (2008) Toyota Culture: The Heart and Soul of The Toyota Way, McGraw-Hill, New York p. 3-5 ISBN 978-0-07-149217-1
+^ Sepheri, M., p. 277.[full citation needed]
+^ James P Womack, Daniel T Jones, Lean Thinking, 2nd Edition, ISBN 978-0-7432-4927-0, March 1, 2003)
+^ D. Rizzardo, R. Brooks, Understanding Lean Manufacturing, Maryland Technology Enterprise Institute, 2003
+^ Bicheno, John; Holweg, Matthias (2009). The Lean Toolbox. PICSIE. ISBN 978-0-9541244-5-8.
+^ Dombrowski, U.; Mielke, T (2014). "Lean Leadership  15 Rules for a Sustainable Lean Implementation". Procedia CIRP. 17: 565 570. doi:10.1016/j.procir.2014.01.146.
+^ Hopp, Wallace; Spearman, Mark (2008), Factory Physics: Foundations of Manufacturing Management (3rd ed.), ISBN 978-0-07-282403-2, archived from the original on May 20, 2019, retrieved January 5, 2014.
+^ Pederson, Joseph. "Author". the business dude. WordPress.com. Archived from the original on April 27, 2014. Retrieved April 27, 2014.
+^ Merrill Douglas (June 2013). "The Lean Supply Chain: Watch Your Waste Line". inboundlogistics. Archived from the original on March 27, 2019. Retrieved February 22, 2017.
+^ Heard, Ed. 1987. Short cycle manufacturing: the route to JIT. Target. 2 (3) (fall) 22 24.
+^ High, W. 1987. Short cycle manufacturing (SCM) implementation: an approach taken at Motorola. Target, 3 (4) (Winter), 19 24.
+^ Barkman, William E. 1989. In-Process Quality Control for Manufacturing. Boca Raton, Fl.: CRC Press.
+^ Bowers, G.H., Jr. 1991. Continuous flow manufacturing. Proc. SPIE1496, 10th Annual Symposium on Microlithography. (March 1, 1991), 239 246.
+^ Roebuck, Kevin. 2011. Business Process Modeling: High-impact Emerging Technology  What You Need to Know: Definitions, Adoptions, Impact, Benefits, Maturity, Vendors. Tebbo, p 32.
+^ Womack, James P.; Jones, Daniel T.; Roos, Daniel (2007). The Machine That Changed the World: The Story of Lean Production. Simon and Schuster. ISBN 9781416554523. Archived from the original on June 2, 2021. Retrieved May 24, 2017.
+^ Black, J. Temple; Hunter, Steve, L. (2003). Lean Manufacturing Systems and Cell Design. Society of Manufacturing Engineers. p. 41. ISBN 9780872636477. Archived from the original on June 2, 2021. Retrieved June 1, 2021.
+^ Hyer, Nancy; Wemmerlov, Urban (2001). Reorganizing the Factory: Competing Through Cellular Manufacturing. CRC Press. p. 41. ISBN 9781563272288. Archived from the original on June 2, 2021. Retrieved June 1, 2021. Lean manufacturing is a more recent name for JIT. As with JIT, lean manufacturing is deeply rooted in the automotive industry and focuses mostly on repetitive manufacturing situations."
+^ Monden, Yasuhiro, ed. 1986. Applying Just in Time: The American/Japanese Experience. Norcross, Ga.: Institute of Industrial Engineers. This collection of JIT articles includes multiple references to TPS.
+^ Womack, J.P. and D. Jones. 2003. Lean Thinking: Banish Waste and Create Wealth in Your Corporation. Revised. New York: Free Press. Numerous references to both lean and TPS.
+^ Grahovec, D. and Bernie Ducan, Jerry Stevenson, Colin Noone. 1999. How lean focused factories enabled Daman to regain responsiveness and become more agile. Target. 4th quarter, pp 47 51.
+^ Caulkin, Simon. 1990. Britain's best factories. Management Today. November 60 89.
+^ Simpson, Alex. Effective just-in-time manufacture at Hewlett-Packard. In Mortimer (1986), pp. 123 128.
+^ Adsit, Dennis (June 11, 2007). "Cutting-Edge Methods Help Target Real Call Center Waste". iSixSigma.com. Archived from the original on April 14, 2008.
+^ Alkalay, M.; Angerer, A.; Drews, T.; J ggi, C.; K mpfer, M.; Lenherr, I.; Valentin, J.; Vetterli, C.; Walker, D. (2015).  Walker, Daniel (ed.). The Better Hospital: Excellence Through Leadership And Innovation. Medizinisch Wissenschaftliche verlagsgesellschaft. ISBN 9783954662241.
+^ Hanna, Julia. "Bringing  Lean' Principles to Service Industries Archived August 1, 2015, at the Wayback Machine . HBS Working Knowledge. October 22, 2007. (Summary article based on published research of Professor David Upton of Harvard Business School and doctoral student Bradley Staats: Staats, Bradley R., and David M. Upton. "Lean Principles, Learning, and Software Production: Evidence from Indian Software Services. . Harvard Business School Working Paper. No. 08-001. July 2007. (Revised July 2008, March 2009.)
+^ Radnor, Zoe; Walley, Paul; Stephens, Andrew; Bucci, Giovanni (2006). Evaluation of the Lean Approach to Business Management and ITs Use in the Public Sector (PDF). Scottish Executive Social Research. ISBN 0755960564. Archived (PDF) from the original on January 28, 2018. Retrieved June 13, 2017.
+^ Ruffa, Stephen A. (2008). Going Lean: How the Best Companies Apply Lean Manufacturing Principles to Shatter Uncertainty, Drive Innovation, and Maximize Profits. AMACOM. ISBN 978-0-8144-1057-8. Archived from the original on March 2, 2017. Retrieved September 24, 2016.
+^ JANU KA, M.,  ASTN , L. Industrial Engineering in the Non-Manufacturing Processes. In Proceedings of the 22nd International Business Information Management Association Conference. neuveden: International Business Information Management Association (IBIMA), 2013. s. 747-766. ISBN 978-0-9860419-1-4
+^ "We need to teach our kids to think Lean | Opinion". February 3, 2022.
+^ Williams, John T. "Pros & Cons of the JIT Inventory System". Houston Chronicle. Archived from the original on June 3, 2021. Retrieved June 1, 2021. Supply-chain relationships require retooling that involves multiple suppliers, closer locations, or companies that can supply materials with little advance notice. Companies ordering smaller amounts of goods may encounter difficulty meeting minimum orders, requiring a different contract or a way to break up a large order over time or among several smaller manufacturers.
+^ L., Kalleberg, A. (2009). "Precarious Work, Insecure Workers: Employment Relations in Transition". American Sociological Review. 74 (1): 1 22. CiteSeerX 10.1.1.1030.231. doi:10.1177/000312240907400101. ISSN 0003-1224. S2CID 29915373. Archived from the original on August 19, 2021. Retrieved June 1, 2021.
+^ "What are the main problems with a JIT (just in time) production strategy?". Investopedia. Archived from the original on April 14, 2019. Retrieved June 1, 2021.
+^ Krolicki, Nick Carey, Noel Randewich, Kevin (March 21, 2011). "Special Report: Disasters show flaws in just-in-time production". Reuters. Archived from the original on June 2, 2021. Retrieved June 1, 2021   via www.reuters.com.
+^ "Severe Space Weather--Social and Economic Impacts | Science Mission Directorate". science.nasa.gov. Archived from the original on June 2, 2021. Retrieved June 1, 2021.
+^ "'Just-in-time' economy out of time as pandemic exposes fatal flaws". www.abc.net.au. May 1, 2020. Archived from the original on May 20, 2020. Retrieved May 21, 2020.
+^ "Companies should shift from 'just in time' to 'just in case'". Financial Times. April 22, 2020. Archived from the original on May 4, 2020. Retrieved May 21, 2020.
+^ Evans, Dave. "Coronavirus Shows That Supply Chains are Outdated and Unfit For Modern Manufacturing". Forbes. Archived from the original on July 22, 2020. Retrieved May 21, 2020.
+^ Skidelky, Robert (April 22, 2020). "The coronavirus pandemic shows why the West must transform its economic logic". newstatesman. newstatesman. Archived from the original on June 2, 2021. Retrieved September 30, 2020.
+^ a b "What Is the Criticism of Lean Manufacturing?". www.brighthubpm.com. February 8, 2011. Archived from the original on August 15, 2020. Retrieved May 20, 2020.
+^ The Economist, 2010, Toyota's overstretched supply chain -The machine that ran too hot :The woes of the world's biggest carmaker are a warning for rivals
+^ Nash-Hoff, Michele. "Why Lean Manufacturers Are Not Lean Enterprises". Industryweek.com. Industryweek.com. Archived from the original on March 27, 2019. Retrieved May 1, 2015.
+References[edit]
+Ohno, Taiichi (1988), Toyota Production System: Beyond Large-Scale Production, CRC Press, ISBN 978-0-915299-14-0
+Womack, James P.; Jones, Daniel T. (2003), Lean Thinking: Banish Waste And Create Wealth In Your Corporation, Simon and Schuster, ISBN 9781471111006, archived from the original on October 22, 2021, retrieved October 2, 2020
+Womack, James P.; Jones, Daniel T.; Roos, Daniel (1990), The Machine that Changed the World, New York: Rawson Associates, ISBN 9780892563500, archived from the original on February 19, 2022, retrieved October 2, 2020
+Ker, J.I., Wang, Y., Hajli, M.N., Song, J., Ker, C.W. (2014) Deploying Lean in Healthcare: Evaluating Information Technology Effectiveness in US Hospital Pharmacies
+MacInnes, Richard L. (2002) The Lean Enterprise Memory Jogger.
+Mika, Geoffrey L. (1999) Kaizen Event Implementation Manual
+Page, Julian (2003) Implementing Lean Manufacturing Techniques.
+Anderson, Barry (ed.) 2012. Building Cars in Australia: Morris, Austin, BMC and Leyland 1950-1976. Sydney: Halstead Press.
+Billesbach, Thomas J. 1987. Applicability of Just-in-Time Techniques in the Administrative Area. Doctoral dissertation, University of Nebraska. Ann Arbor, Mich., University Microfilms International.
+Goddard, W.E. 2001. JIT/TQC identifying and solving problems. Proceedings of the 20th Electrical Electronics Insulation Conference, Boston, October 7 10, 88 91.
+Goldratt, Eliyahu M. and Fox, Robert E. (1986), The Race, North River Press, ISBN 0-88427-062-9
+Hall, Robert W. 1983. Zero Inventories. Homewood, Ill.: Dow Jones-Irwin.
+Hall, Robert W. 1987. Attaining Manufacturing Excellence: Just-in-Time, Total Quality, Total People Involvement. Homewood, Ill.: Dow Jones-Irwin.
+Hay, Edward J. 1988. The Just-in-Time Breakthrough: Implementing the New Manufacturing Basics. New York: Wiley.
+Hohner, Gregory (1988). "JIT/TQC: integrating product design with shop floor effectiveness". Industrial Engineering. 20 (9): 42 48.
+Hum, Sin-Hoon (1991). "Industrial progress and the strategic significance of JIT and TQC for developing countries". International Journal of Operations & Production Management. 110 (5): 39 46. doi:10.1108/01443579110145320.
+Hyer, Nancy; Wemmerlov, Urban (2001). Reorganizing the Factory: Competing Through Cellular Manufacturing. CRC Press. ISBN 9781563272288.
+Jackson, Paul (1991). "White collar JIT at Security Pacific". Target. 7 (1): 32 37.
+Lubben, R.T. 1988. Just-in-Time Manufacturing: An Aggressive Manufacturing Strategy. New York: McGraw-Hill.
+Monden, Yasuhiro. 1982. Toyota Production System. Norcross, Ga: Institute of Industrial Engineers.
+Ohno, Taiichi (1988), Toyota Production System: Beyond Large-Scale Production, Productivity Press, ISBN 0-915299-14-3
+Ohno, Taiichi (1988), Just-In-Time for Today and Tomorrow, Productivity Press, ISBN 0-915299-20-8.
+Schonberger, Richard J. 1982. Japanese Manufacturing Techniques: Nine Hidden Lessons in Simplicity. New York: Free Press.
+Shingo, Shingeo; Dillon, Andrew P. (1989). A Study of the Toyota Production System: From an Industrial Engineering Viewpoint. ISBN 9780915299171.
+Suri, R. 1986. Getting from 'just in case' to 'just in time': insights from a simple model. 6 (3) 295 304.
+Suzaki, Kyoshi. 1993. The New Shop Floor Management: Empowering People for Continuous Improvement. New York: Free Press.
+Voss, Chris, and David Clutterbuck. 1989. Just-in-Time: A Global Status Report. UK: IFS Publications.
+Wadell, William, and Bodek, Norman (2005), The Rebirth of American Industry, PCS Press, ISBN 0-9712436-3-8
+External links[edit]
+Wikimedia Commons has media related to Lean manufacturing.
+Lean Enterprise Institute
+vteLean manufacturing tools
+Cellular manufacturing
+Takt time
+Standardized work
+Continuous-flow manufacturing
+Kanban
+Five whys
+Single-minute exchange of die
+Poka-yoke
+Production leveling
+Total productive maintenance 
+5S (methodology)
+PDCA
+Authority control: National 
+France
+BnF data
+Germany
+Israel
+United States
+Latvia
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Lean_manufacturing&oldid=1148075705"

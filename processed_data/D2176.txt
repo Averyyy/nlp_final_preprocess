@@ -1,0 +1,335 @@
+Lens with a variable focal length
+This article is about the camera lens. For the American record label, see Zoom Lens (record label).
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Zoom lens" news  newspapers  books  scholar  JSTOR (September 2012) (Learn how and when to remove this template message)
+ Nikkor 28 200 mm zoom lens, extended to 200 mm at left and collapsed to 28 mm focal length at right
+A zoom lens is a mechanical assembly of lens elements for which the focal length (and thus angle of view) can be varied, as opposed to a fixed-focal-length (FFL) lens (see prime lens).
+A true zoom lens (or optical zoom lens), also called a parfocal lens, is one that maintains focus when its focal length changes.[1] Most consumer zoom lenses do not maintain perfect focus, but are still parfocal designs. Most camera phones that are advertised as having optical zoom actually use a few cameras of different but fixed focal length, combined with digital zoom to make a hybrid system.
+ TV camera and Canon DIGI SUPER 86 II zoom lens with 86  magnification
+The convenience of variable focal length comes at the cost of complexity   and some compromises on image quality, weight, dimensions, aperture, autofocus performance, and cost. For example, all zoom lenses suffer from at least slight, if not considerable, loss of image resolution at their maximum aperture, especially at the extremes of their focal length range. This effect is evident in the corners of the image, when displayed in a large format or high resolution. The greater the range of focal length a zoom lens offers, the more exaggerated these compromises must become.[2]
+Characteristics[edit]
+ A photograph taken with a zoom lens, whose focal length was varied during the course of the exposure
+Zoom lenses are often described by the ratio of their longest to shortest focal lengths. For example, a zoom lens with focal lengths ranging from 100 mm to 400 mm may be described as a 4:1 or "4 " zoom. The term superzoom or hyperzoom is used to describe photographic zoom lenses with very large focal length factors, typically more than 5  and ranging up to 19  in SLR camera lenses and 22  in amateur digital cameras. This ratio can be as high as 300  in professional television camera lenses.[3] As of 2009, photographic zoom lenses beyond about 3  cannot generally produce imaging quality on par with prime lenses. Constant fast aperture zooms (usually f/2.8 or f/2.0) are typically restricted to this zoom range. Quality degradation is less perceptible when recording moving images at low resolution, which is why professional video and TV lenses are able to feature high zoom ratios. High zoom ratio TV lenses are complex, with dozens of optical elements, often weighing more than 25 kg (55 lb).[4] Digital photography can also accommodate algorithms that compensate for optical flaws, both within in-camera processors and post-production software.
+Some photographic zoom lenses are long-focus lenses, with focal lengths longer than a normal lens, some are wide-angle lenses (wider than normal), and others cover a range from wide-angle to long-focus. Lenses in the latter group of zoom lenses, sometimes referred to as "normal" zooms,[citation needed] have displaced the fixed focal length lens as the popular one-lens selection on many contemporary cameras. The markings on these lenses usually say W and T for "Wide" and "Telephoto". Telephoto is designated because the longer focal length supplied by the negative diverging lens is longer than the overall lens assembly (the negative diverging lens acting as the "telephoto group").[5]
+ Unusual trailed-zoom view of a VLT telescope building[6]
+Some digital cameras allow cropping and enlarging of a captured image, in order to emulate the effect of a longer focal length zoom lens (narrower angle of view). This is commonly known as digital zoom and produces an image of lower optical resolution than optical zoom. Exactly the same effect can be obtained by using digital image processing software on a computer to crop the digital image and enlarge the cropped area. Many digital cameras have both, combining them by first using the optical, then the digital zoom.
+Zoom and superzoom lenses are commonly used with still, video, motion picture cameras, projectors, some binoculars, microscopes, telescopes, telescopic sights, and other optical instruments. In addition, the afocal part of a zoom lens can be used as a telescope of variable magnification to make an adjustable beam expander. This can be used, for example, to change the size of a laser beam so that the irradiance of the beam can be varied.
+History[edit]
+ The Voigtl nder Zoomar, 36 82 mm f/2.8
+Early forms of zoom lenses were used in optical telescopes to provide continuous variation of the magnification of the image, and this was first reported in the proceedings of the Royal Society in 1834. Early patents for telephoto lenses also included movable lens elements which could be adjusted to change the overall focal length of the lens. Lenses of this kind are now called varifocal lenses, since when the focal length is changed, the position of the focal plane also moves, requiring refocusing of the lens after each change.
+The first true zoom lens, which retained near-sharp focus while the effective focal length of the lens assembly was changed, was patented in 1902 by Clile C. Allen (U.S. Patent 696,788).  An early use of the zoom lens in cinema can be seen in the opening shot of the movie "It" starring Clara Bow, from 1927.  The first industrial production was the Bell and Howell Cooke "Varo" 40 120 mm lens for 35mm movie cameras introduced in 1932. The most impressive early TV Zoom lens was the VAROTAL III,  from Rank Taylor Hobson from UK built in 1953. The Kilfitt 36 82 mm/2.8 Zoomar introduced in 1959 was the first varifocal lens in regular production for still 35mm photography.[7] The first modern film zoom lens, the Pan-Cinor, was designed around 1950 by Roger Cuvillier, a French engineer working for SOM-Berthiot. It had an optical compensation zoom system. In 1956, Pierre Ang nieux introduced the mechanical compensation system, enabling precise focus while zooming, in his 17-68mm lens for 16mm released in 1958. The same year a prototype of the 35mm version of the Ang nieux 4x zoom, the 35-140mm was first used by cinematographer Roger Fellous for the production of Julie La Rousse. Ang nieux received a 1964 technical award from the academy of motion pictures for the design of the 10 to 1 zoom lenses, including the 12-120mm for 16mm film cameras and the 25-250mm for 35mm film cameras.
+It wasn't until as recent as 1986 that a zoom lens finally found its way into a consumer compact (point and shoot) camera, this being the Pentax Zoom 70.
+Since then advances in optical design, particularly the use of computers for optical ray tracing, has made the design and construction of zoom lenses much easier, and they are now used widely in professional and amateur photography.
+ Cross section of Fujinon XF100-400mm zoom lens
+ Canon AE-1, a 35mm camera with a zoom lens. The advantage of a zoom lens is the flexibility, but the disadvantage is the optical quality. Prime lenses have a greater image quality in comparison.
+Design[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2015) (Learn how and when to remove this template message)
+ A simple zoom lens system. The three lenses of the afocal system are L1, L2, L3 (from left). L1 and L2 can move to the left and right, changing the overall focal length of the system (see image below).
+There are many possible designs for zoom lenses, the most complex ones having upwards of thirty individual lens elements and multiple moving parts. Most, however, follow the same basic design. Generally they consist of a number of individual lenses that may be either fixed or slide axially along the body of the lens. While the magnification of a zoom lens changes, it is necessary to compensate for any movement of the focal plane to keep the focused image sharp. This compensation may be done by mechanical means (moving the complete lens assembly while the magnification of the lens changes) or optically (arranging the position of the focal plane to vary as little as possible while the lens is zoomed).
+A simple scheme for a zoom lens divides the assembly into two parts: a focusing lens similar to a standard, fixed-focal-length photographic lens, preceded by an afocal zoom system, an arrangement of fixed and movable lens elements that does not focus the light, but alters the size of a beam of light travelling through it, and thus the overall magnification of the lens system.
+ Movement of lenses in an afocal zoom system
+In this simple optically compensated zoom lens, the afocal system consists of two positive (converging) lenses of equal focal length (lenses L1 and L3) with a negative (diverging) lens (L2) between them, with an absolute focal length less than half that of the positive lenses. Lens L3 is fixed, but lenses L1 and L2 can be moved axially in a particular non-linear relationship. This movement is usually performed by a complex arrangement of gears and cams in the lens housing, although some modern zoom lenses use computer-controlled servos to perform this positioning.
+While the negative lens L2 moves from the front to the back of the lens, the lens L1 moves forward and then backward in a parabolic arc. In doing so, the overall angular magnification of the system varies, changing the effective focal length of the complete zoom lens. At each of the three points shown, the three-lens system is afocal (neither diverging or converging the light), and hence does not alter the position of the focal plane of the lens. Between these points, the system is not exactly afocal, but the variation in focal plane position can be small enough (about  0.01 mm in a well-designed lens) not to make a significant change to the sharpness of the image.
+An important issue in zoom lens design is the correction of optical aberrations (such as chromatic aberration and, in particular, field curvature) across the whole operating range of the lens; this is considerably harder in a zoom lens than a fixed lens, which needs only to correct the aberrations for one focal length. This problem was a major reason for the slow uptake of zoom lenses, with early designs being considerably inferior to contemporary fixed lenses and usable only with a narrow range of f-numbers. Modern optical design techniques have enabled the construction of zoom lenses with good aberration correction over widely variable focal lengths and apertures.
+Whereas lenses used in cinematography and video applications are required to maintain focus while the focal length is changed, there is no such requirement for still photography and for zoom lenses used as projection lenses.  Since it is harder to construct a lens that does not change focus with the same image quality as one that does, the latter applications often use lenses that require refocusing once the focal length has changed (and thus strictly speaking are varifocal lenses, not zoom lenses). As most modern still cameras are autofocusing, this is not a problem.
+Designers of zoom lenses with large zoom ratios often trade one or more aberrations for higher image sharpness. For example, a greater degree of barrel and pincushion distortion is tolerated in lenses that span the focal length range from wide angle to telephoto with a focal ratio of 10  or more than would be acceptable in a fixed focal length lens or a zoom lens with a lower ratio. Although modern design methods have been continually reducing this problem, barrel distortion of greater than one percent is common in these large-ratio lenses. Another price paid is that at the extreme telephoto setting of the lens the effective focal length changes significantly while the lens is focused on closer objects. The apparent focal length can more than halve while the lens is focused from infinity to medium close-up. To a lesser degree, this effect is also seen in fixed focal length lenses that move internal lens elements, rather than the entire lens, to effect changes in magnification.
+Varifocal lens[edit]
+Many so-called "zoom" lenses, particularly in the case of fixed-lens cameras, are actually varifocal lenses, which gives lens designers more flexibility in optical design trade-offs (focal length range, maximal aperture, size, weight, cost) than true parfocal zoom, and which is practical because of autofocus, and because the camera processor can move the lens to compensate for the change in the position of the focal plane while changing magnification ("zooming"), making operation essentially the same as a true parfocal zoom.[citation needed]
+See also[edit]
+Wikimedia Commons has media related to Zoom lens.
+Zooming (filmmaking)
+Pan tilt zoom camera (PTZ)
+Professional video camera
+Zoomar Lens
+By focal length
+Wide-angle lens
+Normal lens
+Telephoto lens
+References[edit]
+Citations[edit]
+^ Cavanagh, Roger (2003-05-29). "Parfrocal Lenses". Archived from the original on 2007-10-07. Retrieved 2007-11-18.
+^ "Tamron 18-270mm f/3.5-6.3 Di II VC LD Lens Review". Archived from the original on January 16, 2013. Retrieved March 20, 2013.
+^ LetsGoDigital. "Panavision debuts the 300x Digital Zoom lens   LetsGoDigital". www.letsgodigital.org. Archived from the original on 5 September 2017. Retrieved 1 May 2018.
+^ "Broadcast camera lenses at the Olympics can cost as much as a Lamborghini". Popular Science. 16 February 2018. Retrieved 2020-02-01.
+^ Sheehan, John (12 June 2003). Business and Corporate Aviation Management : On Demand Air Travel: On Demand Air Travel. McGraw Hill Professional. ISBN 9780071412278. Retrieved 1 May 2018   via Google Books.
+^ "Funding Opportunities in Chile (Anuncio de Oportunidades)". ESO Announcements. Archived from the original on 2 May 2014. Retrieved 2 May 2014.
+^ Deschin, Jacob (15 March 1959). "Zoom Lens for Stills". The New York Times. Retrieved September 12, 2017.
+Sources[edit]
+Kingslake, R. (1960), "The development of the zoom lens". Journal of the SMPTE 69, 534
+Clark, A.D. (1973), Zoom Lenses, Monographs on Applied Optics No. 7. Adam Hildger (London).
+Malacara, Daniel and Malacara, Zacarias (1994), Handbook of Lens Design. Marcel Dekker, Inc. ISBN 0-8247-9225-4
+"What is Inside a Zoom Lens?". Adaptall-2.com. 2005.
+vtePhotographyEquipment
+Camera
+light-field
+digital
+field
+instant
+pinhole
+press
+rangefinder
+SLR
+still
+TLR
+toy
+view
+Darkroom
+enlarger
+safelight
+Film
+base
+format
+holder
+stock
+available films
+discontinued films
+Filter
+Flash
+beauty dish
+cucoloris
+gobo
+hot shoe
+lens hood
+monolight
+Reflector
+snoot
+Softbox
+Lens
+Prime lens
+Zoom lens
+Wide-angle lens
+Telephoto lens
+Manufacturers
+Monopod
+Movie projector
+Slide projector
+Tripod
+head
+Zone plate
+Terminology
+35 mm equivalent focal length
+Angle of view
+Aperture
+Backscatter
+Black and white
+Chromatic aberration
+Circle of confusion
+Color balance
+Color temperature
+Depth of field
+Depth of focus
+Exposure
+Exposure compensation
+Exposure value
+Zebra patterning
+F-number
+Film format
+Large
+Medium
+Film speed
+Focal length
+Guide number
+Hyperfocal distance
+Lens flare
+Metering mode
+Perspective distortion
+Photograph
+Photographer
+Photographic printing
+Photographic processes
+Reciprocity
+Red-eye effect
+Science of photography
+Shutter speed
+Sync
+Zone System
+Genres
+Abstract
+Aerial
+Aircraft
+Architectural
+Astrophotography
+Banquet
+Candid
+Conceptual
+Conservation
+Cloudscape
+Documentary
+Ethnographic
+Erotic
+Fashion
+Fine-art
+Fire
+Forensic
+Glamour
+High-speed
+Landscape
+Nature
+Neues Sehen
+Nude
+Photojournalism
+Pictorialism
+Pornography
+Portrait
+Post-mortem
+Selfie
+Social documentary
+Sports
+Still life
+Stock
+Straight photography
+Street
+Toy camera
+Underwater
+Vernacular
+Wedding
+Wildlife
+Techniques
+Afocal
+Bokeh
+Brenizer
+Burst mode
+Contre-jour
+Cyanotype
+ETTR
+Fill flash
+Fireworks
+Harris shutter
+High-speed
+Holography
+Infrared
+Intentional camera movement
+Kirlian
+Kite aerial
+Long-exposure
+Macro
+Mordan age
+Multiple exposure
+Multi-exposure HDR capture
+Night
+Panning
+Panoramic
+Photogram
+Print toning
+Redscale
+Rephotography
+Rollout
+Scanography
+Schlieren photography
+Sabattier effect
+Slow motion
+Stereoscopy
+Stopping down
+Strip
+Slit-scan
+Sun printing
+Tilt shift
+Miniature faking
+Time-lapse
+Ultraviolet
+Vignetting
+Xerography
+Composition
+Diagonal method
+Framing
+Headroom
+Lead room
+Rule of thirds
+Simplicity
+Golden triangle (composition)
+History
+Timeline of photography technology
+Analog photography
+Autochrome Lumi re
+Box camera
+Calotype
+Camera obscura
+Daguerreotype
+Dufaycolor
+Heliography
+Painted photography backdrops
+Photography and the law
+Glass plate
+Visual arts
+Regional
+Albania
+Bangladesh
+Canada
+China
+Denmark
+Greece
+India
+Japan
+Korea
+Luxembourg
+Norway
+Philippines
+Serbia
+Slovenia
+Sudan
+Taiwan
+Turkey
+Ukraine
+United States
+Uzbekistan
+Vietnam
+Digital photography
+Digital camera
+D-SLR
+comparison
+MILC
+camera back
+Digiscoping
+Comparison of digital and film photography
+Film scanner
+Image sensor
+CMOS APS
+CCD
+Three-CCD camera
+Foveon X3 sensor
+Image sharing
+Pixel
+Color photography
+Color
+Print film
+Chromogenic print
+Reversal film
+Color management
+color space
+primary color
+CMYK color model
+RGB color model
+Photographicprocessing
+Bleach bypass
+C-41 process
+Cross processing
+Developer
+Digital image processing
+Dye coupler
+E-6 process
+Fixer
+Gelatin silver process
+Gum printing
+Instant film
+K-14 process
+Print permanence
+Push processing
+Stop bath
+Lists
+Most expensive photographs
+Museums devoted to one photographer
+Photographs considered the most important
+Photographers
+Norwegian
+Polish
+street
+women
+Related
+Conservation and restoration of photographs
+film
+photographic plates
+ Category
+ Outline
+Authority control: National 
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Zoom_lens&oldid=1147206960"

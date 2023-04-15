@@ -1,0 +1,790 @@
+Digital collection of patient and population electronically stored health information
+ Sample view of an electronic health record
+An  electronic health record (EHR) is the systematized collection of patient and population electronically stored health information in a digital format.[1] These records can be shared across different health care settings. Records are shared through network-connected, enterprise-wide information systems or other information networks and exchanges. EHRs may include a range of data, including demographics, medical history, medication and allergies, immunization status, laboratory test results, radiology images, vital signs, personal statistics like age and weight, and billing information.[2]
+For several decades, electronic health records (EHRs) have been touted as key to increasing of quality care.[3] Electronic health records are used for other reasons than charting for patients;[4] today, providers are using data from patient records to improve quality outcomes through their care management programs. EHR combines all patients demographics into a large pool, and uses this information to assist with the creation of "new treatments or innovation in healthcare delivery" which overall improves the goals in healthcare.[4] Combining multiple types of clinical data from the system's health records has helped clinicians identify and stratify chronically ill patients. EHR can improve quality care by using the data and analytics to prevent hospitalizations among high-risk patients.
+EHR systems are designed to store data accurately and to capture the state of a patient across time. It eliminates the need to track down a patient's previous paper medical records and assists in ensuring data is up-to-date,[5] accurate and legible. It also allows open communication between the patient and the provider, while providing "privacy and security."[5] It can reduce risk of data replication as there is only one modifiable file, which means the file is more likely up to date and decreases risk of lost paperwork and is cost efficient.[5] Due to the digital information being searchable and in a single file, EMRs (electronic medical records) are more effective when extracting medical data for the examination of possible trends and long term changes in a patient. Population-based studies of medical records may also be facilitated by the widespread adoption of EHRs and EMRs.
+Terminology[edit]
+The terms EHR, electronic patient record (EPR) and EMR have often been used interchangeably, but differences between the models are now being defined. The electronic health record (EHR) is a more longitudinal collection of the electronic health information of individual patients or populations. The EMR, in contrast, is the patient record created by providers for specific encounters in hospitals and ambulatory environments and can serve as a data source for an EHR.[6][7]
+In contrast, a personal health record (PHR) is an electronic application for recording personal medical data that the individual patient controls and may make available to health providers.[8]
+Comparison with paper-based records[edit]
+While there is still a considerable amount of debate around the superiority of electronic health records over paper records, the research literature paints a more realistic picture of the benefits and downsides.[9]
+The increased transparency, portability, and accessibility acquired by the adoption of electronic medical records may increase the ease with which they can be accessed by healthcare professionals, but also can increase the amount of stolen information by unauthorized persons or unscrupulous users versus paper medical records, as acknowledged by the increased security requirements for electronic medical records included in the Health Information and Accessibility Act and by large-scale breaches in confidential records reported by EMR users.[10][11] Concerns about security contribute to the resistance shown to their adoption.[weasel words] When users log in into the electronic health records, it is their responsibility to make sure the information stays confidential and this is done by keeping their passwords unknown to others and logging off before leaving the station.[12]
+Handwritten paper medical records may be poorly legible, which can contribute to medical errors.[13] Pre-printed forms, standardization of abbreviations and standards for penmanship were encouraged to improve the reliability of paper medical records. An example of possible medical errors is the administration of medication. Medication is an intervention that can turn a person's status from stable to unstable very quickly. With paper documentation it is very easy to not properly document the administration of medication, the time given, or errors such as giving the "wrong drug, dose, form, or not checking for allergies" and could affect the patient negatively. It has been reported that these errors have been reduced by "55-83%" because records are now online and require certain steps to avoid these errors.[14]
+Electronic records may help with the standardization of forms, terminology, and data input.[15] Digitization of forms facilitates the collection of data for epidemiology and clinical studies.[16][17] However, standardization may create challenges for local practice.[9] Overall, those with EMRs that have automated notes and records, order entry, and clinical decision support had fewer complications, lower mortality rates, and lower costs.[18]
+EMRs can be continuously updated (within certain legal limitations: see below). If the ability to exchange records between different EMR systems were perfected ("interoperability"[19]), it would facilitate the coordination of health care delivery in nonaffiliated health care facilities. In addition, data from an electronic system can be used anonymously for statistical reporting in matters such as quality improvement, resource management, and public health communicable disease surveillance.[20] However, it is difficult to remove data from its context.[9]
+Usefulness for patients[edit]
+Sharing their electronic health records with people who have type 2 diabetes helps them to reduce their blood sugar levels. It is a way of helping people understand their own health condition and involving them actively in its management.[21][22][23]
+They could also be useful in research, enabling various scientific analyses and novel tools (see below).
+Use in research and development[edit]
+See also: Interoperability
+Electronic medical records could also be studied to quantify disease burdens   such as the number of deaths from antimicrobial resistance[24]   or help identify causes of, factors of, links between[25][26] and contributors to diseases,[27][28][29] especially when combined with genome-wide association studies.[30][31]
+This may enable increased flexibility, improved disease surveillance, better medical product safety surveillance,[32] better public health monitoring (such as for evaluation of health policy effectiveness),[33][34] increased quality of care (via guidelines[35] and improved medical history sharing[36][37]), and novel life-saving treatments.
+Issues[edit]
+Privacy: For such purposes, electronic medical records could potentially be made available in securely anonymized or pseudonymized[38] forms to ensure patients' privacy is maintained[39][31][40][41] even if data breaches occur. There are concerns about the efficacy of some currently applied pseudonymization and data protection techniques, including the applied encryption.[42][36]
+Documentation burden: While such records could enable avoiding duplication of work via records-sharing,[36][37] documentation burdens for medical facility personnel can be a further issue with EHRs. This burden could be reduced via voice recognition, optical character recognition, other technologies, involvement of physicians in changes to software, and other means[37][43][44][45] which could possibly reduce the documentation burden to below paper-based records documentation and low-level documentation.
+Applications using software[edit]
+See also: Artificial intelligence in healthcare
+ GNU Health patient main screen as of 2013
+Theoretically, free software such as GNU Health and other open source health software could be used or modified for various purposes that use electronic medical records i.a. via securely sharing anonymized patient treatments, medical history and individual outcomes (including by common primary care physicians).[46]
+Decision-support: Electronic health records could also support clinical decision support systems.[47]
+Personalized medicine: They could be used among other biodata for digital twins (also called health avatars) for personalized medicine.[48]
+mHealth integration: They could be coupled with mHealth mobile applications and wearable technology.[47][37]
+Screening: Artificial intelligence systems could use this data among other integrated data to screen for potential diseases via multimodal learning.[49]
+Syndromic surveillance: Real-time analysis and data mining of the records could be used, along with other data, in syndromic surveillance to rapidly identify common exposures among patients suspected of being part of an outbreak, for epidemic forecasting,[50] and for early outbreak detection,[51][52][53][54] especially in identified potential pandemic pathogen (PPP) hotspot regions and potentially as a means for pandemic prevention.
+Vaccination deployment: Interoperable, collaboratively developed, standardization-based health records systems could increase the speed of vaccination campaigns as well as reduce their costs or workloads. According to Dr. Bob Kocher, as of 2021 there are "1,000 different electronic health record systems in the U.S.,[globalize] and almost every hospital and clinic has a slightly different system tailored to its own needs" which caused difficulties and delays during COVID-19 vaccinations, with similar problems being reported in other countries.[55][56][37]
+Medical outcomes data: Such records could also be used for matching patients to clinical trials with software,[57] generally reduce the burden on users to partake in research[37] and make previously siloed primary care data more valuable to society at larger or other patients.
+Emergency medical services[edit]
+Ambulance services in Australia, the United States and the United Kingdom have introduced the use of EMR systems.[58][59] EMS Encounters in the United States are recorded using various platforms and vendors in compliance with the NEMSIS (National EMS Information System) standard.[60] The benefits of electronic records in ambulances include: patient data sharing, injury/illness prevention, better training for paramedics, review of clinical standards, better research options for pre-hospital care and design of future treatment options, data based outcome improvement, and clinical decision support.[61]
+Technical features[edit]
+Digital formatting enables information to be used and shared over secure networks
+Track care (e.g. prescriptions) and outcomes (e.g. blood pressure)
+Trigger warnings and reminders
+Send and receive orders, reports, and results
+Decrease billing processing time and create more accurate billing system
+Health Information Exchange[62]
+Technical and social framework that enables information to move electronically between organizations
+Using an EMR to read and write a patient's record is not only possible through a workstation but, depending on the type of system and health care settings, may also be possible through mobile devices that are handwriting capable,[63] tablets and smartphones. Electronic Medical Records may include access to Personal Health Records (PHR) which makes individual notes from an EMR readily visible and accessible for consumers.[citation needed]
+Some EMR systems automatically monitor clinical events, by analyzing patient data from an electronic health record to predict, detect and potentially prevent adverse events.  This can include discharge/transfer orders, pharmacy orders, radiology results, laboratory results and any other data from ancillary services or provider notes.[64] This type of event monitoring has been implemented using the Louisiana Public health information exchange linking statewide public health with electronic medical records. This system alerted medical providers when a patient with HIV/AIDS had not received care in over twelve months. This system greatly reduced the number of missed critical opportunities.[65]
+Philosophical views[edit]
+Within a meta-narrative systematic review of research in the field, various different philosophical approaches to the EHR exist.[9] The health information systems literature has seen the EHR as a container holding information about the patient, and a tool for aggregating clinical data for secondary uses (billing, audit, etc.). However, other research traditions see the EHR as a contextualised artifact within a socio-technical system. For example, actor-network theory would see the EHR as an actant in a network,[66] and research in computer supported cooperative work (CSCW) sees the EHR as a tool supporting particular work.
+Several possible advantages to EHRs over paper records have been proposed, but there is debate about the degree to which these are achieved in practice.[67]
+Implementation[edit]
+Quality[edit]
+Several studies call into question whether EHRs improve the quality of care.[9][68][69][70][71] One 2011 study in diabetes care, published in the New England Journal of Medicine, found evidence that practices with EHR provided better quality care.[72]
+EMRs may eventually help improve care coordination. An article in a trade journal suggests that since anyone using an EMR can view the patient's full chart, it cuts down on guessing histories, seeing multiple specialists, smooths transitions between care settings, and may allow better care in emergency situations.[73] EHRs may also improve prevention by providing doctors and patients better access to test results, identifying missing patient information, and offering evidence-based recommendations for preventive services.[74]
+Costs[edit]
+The steep price and provider uncertainty regarding the value they will derive from adoption in the form of return on investment has a significant influence on EHR adoption.[75] In a project initiated by the Office of the National Coordinator for Health Information, surveyors found that hospital administrators and physicians who had adopted EHR noted that any gains in efficiency were offset by reduced productivity as the technology was implemented, as well as the need to increase information technology staff to maintain the system.[75]
+The U.S. Congressional Budget Office concluded that the cost savings may occur only in large integrated institutions like Kaiser Permanente, and not in small physician offices. They challenged the Rand Corporation's estimates of savings. "Office-based physicians in particular may see no benefit if they purchase such a product and may even suffer financial harm. Even though the use of health IT could generate cost savings for the health system at large that might offset the EHR's cost, many physicians might not be able to reduce their office expenses or increase their revenue sufficiently to pay for it. For example, the use of health IT could reduce the number of duplicated diagnostic tests. However, that improvement in efficiency would be unlikely to increase the income of many physicians."[76] One CEO of an EHR company has argued if a physician performs tests in the office, it might reduce his or her income.[77]
+Doubts have been raised about cost saving from EHRs by researchers at Harvard University, the Wharton School of the University of Pennsylvania, Stanford University, and others.[71][78][79]
+In 2022 the chief executive of Guy's and St Thomas' NHS Foundation Trust, one of the biggest NHS organisations, said that the  450 million cost over 15 years to install the Epic Systems electronic patient record across its six hospitals, which will reduce more than 100 different IT systems down to just a handful, was "chicken feed" when compared to the NHS's overall budget.[80]
+Time[edit]
+The implementation of EMR can potentially decrease identification time of patients upon hospital admission. A research from the Annals of Internal Medicine showed that since the adoption of EMR a relative decrease in time by 65% has been recorded (from 130 to 46 hours).[81]
+Software quality and usability deficiencies[edit]
+The Healthcare Information and Management Systems Society, a very large U.S. healthcare IT industry trade group, observed in 2009 that EHR adoption rates "have been slower than expected in the United States, especially in comparison to other industry sectors and other developed countries. A key reason, aside from initial costs and lost productivity during EMR implementation, is lack of efficiency and usability of EMRs currently available."[82][83] The U.S. National Institute of Standards and Technology of the Department of Commerce studied usability in 2011 and lists a number of specific issues that have been reported by health care workers.[84] The U.S. military's EHR, AHLTA, was reported to have significant usability issues.[85] Furthermore, studies such as the one conducted in BMC Medical Informatics and Decision Making, also showed that although the implementation of electronic medical records systems has been a great assistance to general practitioners there is still much room for revision in the overall framework and the amount of training provided.[86] It was observed that the efforts to improve EHR usability should be placed in the context of physician-patient communication.[87]
+However, physicians are embracing mobile technologies such as smartphones and tablets at a rapid pace. According to a 2012 survey by Physicians Practice, 62.6 percent of respondents (1,369 physicians, practice managers, and other healthcare providers) say they use mobile devices in the performance of their job. Mobile devices are increasingly able to sync up with electronic health record systems thus allowing physicians to access patient records from remote locations. Most devices are extensions of desk-top EHR systems, using a variety of software to communicate and access files remotely. The advantages of instant access to patient records at any time and any place are clear, but bring a host of security concerns. As mobile systems become more prevalent, practices will need comprehensive policies that govern security measures and patient privacy regulations.[88]
+Other advanced computational techniques have allowed EHRs to be evaluated at a much quicker rate. Natural language processing is increasingly used to search EMRs, especially through searching and analyzing notes and text that would otherwise be inaccessible for study when seeking to improve care.[89] One study found that several machine learning methods could be used to predict the rate of a patient's mortality with moderate success, with the most successful approach including using a combination of a convolutional neural network and a heterogenous graph model.[90]
+Hardware and workflow considerations[edit]
+When a health facility has documented their workflow and chosen their software solution they must then consider the hardware and supporting device infrastructure for the end users. Staff and patients will need to engage with various devices throughout a patient's stay and charting workflow. Computers, laptops, all-in-one computers, tablets, mouse, keyboards and monitors are all hardware devices that may be utilized. Other considerations will include supporting work surfaces and equipment, wall desks or articulating arms for end users to work on. Another important factor is how all these devices will be physically secured and how they will be charged that staff can always utilize the devices for EHR charting when needed.
+The success of eHealth interventions is largely dependent on the ability of the adopter to fully understand workflow and anticipate potential clinical processes prior to implementations. Failure to do so can create costly and time-consuming interruptions to service delivery.[91]
+Unintended consequences[edit]
+Per empirical research in social informatics, information and communications technology (ICT) use can lead to both intended and unintended consequences.[92][93][94]
+A 2008 Sentinel Event Alert from the U.S. Joint Commission, the organization that accredits American hospitals to provide healthcare services, states, 'As health information technology (HIT) and 'converging technologies' the interrelationship between medical devices and HIT are increasingly adopted by health care organizations, users must be mindful of the safety risks and preventable adverse events that these implementations can create or perpetuate. Technology-related adverse events can be associated with all components of a comprehensive technology system and may involve errors of either commission or omission. These unintended adverse events typically stem from human-machine interfaces or organization/system design."[95] The Joint Commission cites as an example the United States Pharmacopeia MEDMARX database[96] where of 176,409 medication error records for 2006, approximately 25 percent (43,372) involved some aspect of computer technology as at least one cause of the error.
+The British National Health Service (NHS) reports specific examples of potential and actual EHR-caused unintended consequences in its 2009 document on the management of clinical risk relating to the deployment and use of health software.[97]
+In a February 2010, an American Food and Drug Administration (FDA) memorandum noted that EHR unintended consequences include EHR-related medical errors from (1) errors of commission (EOC), (2) errors of omission or transmission (EOT), (3) errors in data analysis (EDA), and (4) incompatibility between multi-vendor software applications or systems (ISMA), examples were cited. The FDA also noted that the "absence of mandatory reporting enforcement of H-IT safety issues limits the numbers of medical device reports (MDRs) and impedes a more comprehensive understanding of the actual problems and implications."[98][99]
+A 2010 Board Position Paper by the American Medical Informatics Association (AMIA) contains recommendations on EHR-related patient safety, transparency, ethics education for purchasers and users, adoption of best practices, and re-examination of regulation of electronic health applications.[100] Beyond concrete issues such as conflicts of interest and privacy concerns, questions have been raised about the ways in which the physician-patient relationship would be affected by an electronic intermediary.[101][102]
+During the implementation phase, cognitive workload for healthcare professionals may be significantly increased as they become familiar with a new system.[103]
+EHRs are almost invariably detrimental to physician productivity, whether the data is entered during the encounter or sometime thereafter.[104] It is possible for an EHR to increase physician productivity [105]by providing a fast and intuitive interface for viewing and understanding patient clinical data and minimizing the number of clinically irrelevant questions,[citation needed] but that is almost never the case.[citation needed] The other way to mitigate the detriment to physician productivity is to hire scribes to work alongside medical practitioners, which is almost never financially viable.[citation needed]
+As a result, many have conducted studies like the one discussed in the Journal of the American Medical Informatics Association, "The Extent And Importance of Unintended Consequences Related To Computerized Provider Order Entry," which seeks to understand the degree and significance of unplanned adverse consequences related to computerized physician order entry and understand how to interpret adverse events and understand the importance of its management for the overall success of computer physician order entry.[106]
+Governance, privacy and legal issues[edit]
+Privacy concerns[edit]
+In the United States, Great Britain, and Germany, the concept of a national centralized server model of healthcare data has been poorly received.[107] Issues of privacy and security in such a model have been of concern.[108][109]
+In the European Union (EU), a new directly binding instrument, a regulation of the European Parliament and of the council, was passed in 2016 to go into effect in 2018 to protect the processing of personal data, including that for purposes of health care, the General Data Protection Regulation.
+Threats to health care information can be categorized under three headings:
+Human threats, such as employees or hackers
+Natural and environmental threats, such as earthquakes, hurricanes and fires.
+Technology failures, such as a system crashing
+These threats can either be internal, external, intentional and unintentional. Therefore, one will find health information systems professionals having these particular threats in mind when discussing ways to protect the health information of patients.  It has been found that there is a lack of security awareness among health care professionals in countries such as Spain.[110] The Health Insurance Portability and Accountability Act (HIPAA) has developed a framework to mitigate the harm of these threats that is comprehensive but not so specific as to limit the options of healthcare professionals who may have access to different technology.[111]
+Personal Information Protection and Electronic Documents Act (PIPEDA) was given Royal Assent in Canada on 13 April 2000 to establish rules on the use, disclosure and collection of personal information. The personal information includes both non-digital and electronic form. In 2002, PIPEDA extended to the health sector in Stage 2 of the law's implementation.[112] There are four provinces where this law does not apply because its privacy law was considered similar to PIPEDA: Alberta, British Columbia, Ontario and Quebec.
+The COVID-19 pandemic in the United Kingdom led to radical changes. NHS Digital and NHSX made changes, said to be only for the duration of the crisis, to the information sharing system GP Connect across England, meaning that patient records are shared across primary care. Only patients who have specifically opted out are excluded.[113]
+Legal issues[edit]
+Liability[edit]
+Legal liability in all aspects of healthcare was an increasing problem in the 1990s and 2000s. The surge in the per capita number of attorneys in the USA[114] and changes in the tort system caused an increase in the cost of every aspect of healthcare, and healthcare technology was no exception.[115]
+Failure or damages caused during installation or utilization of an EHR system has been feared as a threat in lawsuits.[116] Similarly, it's important to recognize that the implementation of electronic health records carries with it significant legal risks.[117]
+This liability concern was of special concern for small EHR system makers. Some smaller companies may be forced to abandon markets based on the regional liability climate.[118][unreliable source] Larger EHR providers (or government-sponsored providers of EHRs) are better able to withstand legal assaults.
+While there is no argument that electronic documentation of patient visits and data brings improved patient care, there is increasing concern that such documentation could open physicians to an increased incidence of malpractice suits. Disabling physician alerts, selecting from dropdown menus, and the use of templates can encourage physicians to skip a complete review of past patient history and medications, and thus miss important data.
+Another potential problem is electronic time stamps. Many physicians are unaware that EHR systems produce an electronic time stamp every time the patient record is updated. If a malpractice claim goes to court, through the process of discovery, the prosecution can request a detailed record of all entries made in a patient's electronic record. Waiting to chart patient notes until the end of the day and making addendums to records well after the patient visit can be problematic, in that this practice could result in less than accurate patient data or indicate possible intent to illegally alter the patient's record.[119]
+In some communities, hospitals attempt to standardize EHR systems by providing discounted versions of the hospital's software to local healthcare providers. A challenge to this practice has been raised as being a violation of Stark rules that prohibit hospitals from preferentially assisting community healthcare providers.[120] In 2006, however, exceptions to the Stark rule were enacted to allow hospitals to furnish software and training to community providers, mostly removing this legal obstacle.[121][unreliable source][122][unreliable source]
+Legal interoperability[edit]
+In cross-border use cases of EHR implementations, the additional issue of legal interoperability arises. Different countries may have diverging legal requirements for the content or usage of electronic health records, which can require radical changes to the technical makeup of the EHR implementation in question. (especially when fundamental legal incompatibilities are involved) Exploring these issues is therefore often necessary when implementing cross-border EHR solutions.[123]
+Contribution under UN administration and accredited organizations[edit]
+The United Nations World Health Organization (WHO) administration intentionally does not contribute to an internationally standardized view of medical records nor to personal health records. However, WHO contributes to minimum requirements definition for developing countries.[124]
+The United Nations accredited standardization body International Organization for Standardization (ISO) however has settled thorough word[clarification needed] for standards in the scope of the HL7 platform for health care informatics. Respective standards are available with ISO/HL7 10781:2009 Electronic Health Record-System Functional Model, Release 1.1[125] and subsequent set of detailing standards.[126]
+Medical data breach[edit]
+The majority of the countries in Europe have made a strategy for the development and implementation of the Electronic Health Record Systems. This would mean greater access to health records by numerous stakeholders, even from countries with lower levels of privacy protection. The forthcoming implementation of the Cross Border Health Directive and the EU Commission's plans to centralize all health records are of prime concern to the EU public who believe that the health care organizations and governments cannot be trusted to manage their data electronically and expose them to more threats.
+The idea of a centralized electronic health record system was poorly received by the public who are wary that governments may use of the system beyond its intended purpose. There is also the risk for privacy breaches that could allow sensitive health care information to fall into the wrong hands. Some countries have enacted laws requiring safeguards to be put in place to protect the security and confidentiality of medical information. These safeguards add protection for records that are shared electronically and give patients some important rights to monitor their medical records and receive notification for loss and unauthorized acquisition of health information. The United States and the EU have imposed mandatory medical data breach notifications.[127]
+Breach notification[edit]
+The purpose of a personal data breach notification is to protect individuals so that they can take all the necessary actions to limit the undesirable effects of the breach and to motivate the organization to improve the security of the infrastructure to protect the confidentiality of the data. The US law requires the entities to inform the individuals in the event of breach while the EU Directive currently requires breach notification only when the breach is likely to adversely affect the privacy of the individual. Personal health data is valuable to individuals and is therefore difficult to make an assessment whether the breach will cause reputational or financial harm or cause adverse effects on one's privacy.
+The Breach notification law in the EU provides better privacy safeguards with fewer exemptions, unlike the US law which exempts unintentional acquisition, access, or use of protected health information and inadvertent disclosure under a good faith belief.[127]
+Technical issues[edit]
+Standards[edit]
+ASC X12 (EDI)   transaction protocols used for transmitting patient data. Popular in the United States for transmission of billing data.
+CEN's TC/251 provides EHR standards in Europe including:
+EN 13606, communication standards for EHR information
+CONTSYS (EN 13940), supports continuity of care record standardization.
+HISA (EN 12967), a services standard for inter-system communication in a clinical information environment.
+Continuity of Care Record   ASTM International Continuity of Care Record standard
+DICOM   an international communications protocol standard for representing and transmitting radiology (and other) image-based data, sponsored by NEMA (National Electrical Manufacturers Association)
+HL7 (HL7v2, C-CDA)   a standardized messaging and text communications protocol between hospital and physician record systems, and between practice management systems
+Fast Healthcare Interoperability Resources (FHIR)   a modernized proposal from HL7 designed to provide open, granular access to medical information
+ISO   ISO TC 215 provides international technical specifications for EHRs. ISO 18308 describes EHR architectures
+xDT   a family of data exchange formats for medical purposes that is used in the German public health system.
+The U.S. federal government has issued new rules of electronic health records.[128]
+Open specifications[edit]
+openEHR: an open community developed specification for a shared health record with web-based content developed online by experts. Strong multilingual capability.
+Virtual Medical Record: HL7's proposed model for interfacing with clinical decision support systems.
+SMART (Substitutable Medical Apps, reusable technologies): an open platform specification to provide a standard base for healthcare applications.[129]
+Common data model (in health data context)[edit]
+A common data model (CDM) is a specification that describes how data from multiple sources (e.g., multiple EHR systems) can be combined. Many CDMs use a relational model (e.g., the OMOP CDM). A relational CDM defines names of tables and table columns and restricts what values are valid.
+Sentinel Common Data Model: Initially started as Mini-Sentinel in 2008. Use by the Sentinel Initiative of the USA's Food and Drug Administration.
+OMOP Common Data Model: model that defines how electronic health record data, medical billing data or other healthcare data from multiple institutions can be harmonized and queried in unified way. It is maintained by Observational Health Data Sciences and Informatics consortium.
+PCORNet Common Data Model: First defined in 2014 and used by PCORI and People-Centered Research Foundation.
+Virtual Data Warehouse: First defined in 2006 by HMO Research Network. Since 2015, by Health Care System Research Network.
+Customization[edit]
+Each healthcare environment functions differently, often in significant ways. It is difficult to create a "one-size-fits-all" EHR system. Many first generation EHRs were designed to fit the needs of primary care physicians, leaving certain specialties significantly less satisfied with their EHR system.[citation needed]
+An ideal EHR system will have record standardization but interfaces that can be customized to each provider environment. Modularity in an EHR system facilitates this. Many EHR companies employ vendors to provide customization.
+This customization can often be done so that a physician's input interface closely mimics previously utilized paper forms.[130]
+At the same time they reported negative effects in communication, increased overtime, and missing records when a non-customized EMR system was utilized.[131] Customizing the software when it is released yields the highest benefits because it is adapted for the users and tailored to workflows specific to the institution.[132]
+Customization can have its disadvantages. There is, of course, higher costs involved to implementation of a customized system initially. More time must be spent by both the implementation team and the healthcare provider to understand the workflow needs.
+Development and maintenance of these interfaces and customizations can also lead to higher software implementation and maintenance costs.[133][unreliable source][134][unreliable source]
+Long-term preservation and storage of records[edit]
+An important consideration in the process of developing electronic health records is to plan for the long-term preservation and storage of these records. The field will need to come to consensus on the length of time to store EHRs, methods to ensure the future accessibility and compatibility of archived data with yet-to-be developed retrieval systems, and how to ensure the physical and virtual security of the archives.[citation needed]
+Additionally, considerations about long-term storage of electronic health records are complicated by the possibility that the records might one day be used longitudinally and integrated across sites of care. Records have the potential to be created, used, edited, and viewed by multiple independent entities. These entities include, but are not limited to, primary care physicians, hospitals, insurance companies, and patients. Mandl et al. have noted that "choices about the structure and ownership of these records will have profound impact on the accessibility and privacy of patient information."[135]
+The required length of storage of an individual electronic health record will depend on national and state regulations, which are subject to change over time.[136] Ruotsalainen and Manning have found that the typical preservation time of patient data varies between 20 and 100 years. In one example of how an EHR archive might function, their research "describes a co-operative trusted notary archive (TNA) which receives health data from different EHR-systems, stores data together with associated meta-information for long periods and distributes EHR-data objects. TNA can store objects in XML-format and prove the integrity of stored data with the help of event records, timestamps and archive e-signatures."[137]
+In addition to the TNA archive described by Ruotsalainen and Manning, other combinations of EHR systems and archive systems are possible. Again, overall requirements for the design and security of the system and its archive will vary and must function under ethical and legal principles specific to the time and place.[citation needed]
+While it is currently unknown precisely how long EHRs will be preserved, it is certain that length of time will exceed the average shelf-life of paper records. The evolution of technology is such that the programs and systems used to input information will likely not be available to a user who desires to examine archived data. One proposed solution to the challenge of long-term accessibility and usability of data by future systems is to standardize information fields in a time-invariant way, such as with XML language. Olhede and Peterson report that "the basic XML-format has undergone preliminary testing in Europe by a Spri project and been found suitable for EU purposes. Spri has advised the Swedish National Board of Health and Welfare and the Swedish National Archive to issue directives concerning the use of XML as the archive-format for EHCR (Electronic Health Care Record) information."[138]
+Synchronization of records[edit]
+When care is provided at two different facilities, it may be difficult to update records at both locations in a co-ordinated fashion. Two models have been used to satisfy this problem: a centralized data server solution, and a peer-to-peer file synchronization program (as has been developed for other peer-to-peer networks). Synchronization programs for distributed storage models, however, are only useful once record standardization has occurred. Merging of already existing public healthcare databases is a common software challenge. The ability of electronic health record systems to provide this function is a key benefit and can improve healthcare delivery.[139][140][141]
+eHealth and teleradiology[edit]
+The sharing of patient information between health care organizations and IT systems is changing from a "point to point" model to a "many to many" one. The European Commission is supporting moves to facilitate cross-border interoperability of e-health systems and to remove potential legal hurdles, as in the project www.epsos.eu/. To allow for global shared workflow, studies will be locked when they are being read and then unlocked and updated once reading is complete. Radiologists will be able to serve multiple health care facilities and read and report across large geographical areas, thus balancing workloads. The biggest challenges will relate to interoperability and legal clarity. In some countries it is almost forbidden to practice teleradiology. The variety of languages spoken is a problem and multilingual reporting templates for all anatomical regions are not yet available. However, the market for e-health and teleradiology is evolving more rapidly than any laws or regulations.[142]
+Initiatives[edit]
+USA[edit]
+See Electronic health records in the United States
+Russia[edit]
+In 2011, Moscow's government launched a major project known as UMIAS as part of its electronic healthcare initiative. UMIAS - the Unified Medical Information and Analytical System - connects more than 660 clinics and over 23,600 medical practitioners in Moscow. UMIAS covers 9.5 million patients, contains more than 359 million patient records and supports more than 500,000 different transactions daily. Approximately 700,000 Muscovites use remote links to make appointments every week.[143][144]
+European Union[edit]
+The European Commission wants to boost the digital economy by enabling all Europeans to have access to online medical records anywhere in Europe by 2020. With the newly enacted Directive 2011/24/EU on patients' rights in cross-border healthcare due for implementation by 2013, it is inevitable that a centralised European health record system will become a reality even before 2020. However, the concept of a centralised supranational central server raises concern about storing electronic medical records in a central location. The privacy threat posed by a supranational network is a key concern. Cross-border and Interoperable electronic health record systems make confidential data more easily and rapidly accessible to a wider audience and increase the risk that personal data concerning health could be accidentally exposed or easily distributed to unauthorised parties by enabling greater access to a compilation of the personal data concerning health, from different sources, and throughout a lifetime.[145]
+United Kingdom[edit]
+Further information: Electronic health records in England and Patient record access in the United KingdomThe Lloyd George envelope digitisation project is the aim to have all paper copies of all historic patient data transferred onto computer systems. as part of the roll out new patients will no longer be given a transit label to register when moving practices. Not only is it a step closer to a Digital NHS and reduce the movement of records between practices, The Project also frees up space in practices that are used to store records as well as having the added benefit of being more environmentally friendly[146]
+Lyniate was selected to provide data integration technologies for Health and Social Care (Northern Ireland) in 2022.  Epic Systems will supply integrated electronic health records with a single digital record for every citizen.  Lyniate Rhapsody, already used in  used in 79 NHS Trusts, will be used to integrate the multiple health and social care systems.[147]
+In veterinary medicine[edit]
+In UK veterinary practice, the replacement of paper recording systems with electronic methods of storing animal patient information escalated from the 1980s and the majority of clinics now use electronic medical records. In a sample of 129 veterinary practices, 89% used a Practice Management System (PMS) for data recording.[148] There are more than ten PMS providers currently in the UK. Collecting data directly from PMSs for epidemiological analysis abolishes the need for veterinarians to manually submit individual reports per animal visit and therefore increases the reporting rate.[149]
+Veterinary electronic medical record data are being used to investigate antimicrobial efficacy; risk factors for canine cancer; and inherited diseases in dogs and cats, in the small animal disease surveillance project 'VetCOMPASS' (Veterinary Companion Animal Surveillance System) at the Royal Veterinary College, London, in collaboration with the University of Sydney (the VetCOMPASS project was formerly known as VEctAR).[150][151]
+Turing test[edit]
+A letter published in Communications of the ACM[152] describes the concept of generating synthetic patient population and proposes a variation of Turing test to assess the difference between synthetic and real patients. The letter states: "In the EHR context, though a human physician can readily distinguish between synthetically generated and real live human patients, could a machine be given the intelligence to make such a determination on its own?" and further the letter states: "Before synthetic patient identities become a public health problem, the legitimate EHR market might benefit from applying Turing Test-like techniques to ensure greater data reliability and diagnostic value. Any new techniques must thus consider patients' heterogeneity and are likely to have greater complexity than the Allen eighth-grade-science-test is able to grade."[153]
+See also[edit]
+Medicine portal
+Electronic health records in the United States
+Electronic health records in England
+Clinical documentation improvement
+European Institute for Health Records (EuroRec)
+Health informatics
+Health information management
+Health information technology
+Health Information Technology for Economic and Clinical Health Act
+Hospital information system
+List of open-source health software
+Masking (Electronic Health Record)
+Medical imaging
+Medical privacy
+Medical record
+Personal health record
+Personally Controlled Electronic Health Record, the Australian government's shared electronic health summary system[154]
+Picture archiving and communication system
+Radiological information system
+Solid health[155]
+References[edit]
+^ Gunter TD, Terry NP (March 2005). "The emergence of national electronic health record architectures in the United States and Australia: models, costs, and questions". Journal of Medical Internet Research. 7 (1): e3. doi:10.2196/jmir.7.1.e3. PMC 1550638. PMID 15829475.
+^ "Mobile Tech Contributions to Healthcare and Patient Experience". Top Mobile Trends. 22 May 2014. Archived from the original on 30 May 2014. Retrieved 29 May 2014.
+^ Chris Kimble (2014). "Electronic Health Records: Cure-All or Chronic Condition?". Global Business and Organizational Excellence. 33 (4): 63 74. arXiv:1405.2088. doi:10.1002/JOE.21554. ISSN 1932-2054. Wikidata Q59454975.
+^ a b Cowie MR, Blomster JI, Curtis LH, Duclaux S, Ford I, Fritz F,  et al. (January 2017). "Electronic health records to facilitate clinical research". Clinical Research in Cardiology. 106 (1): 1 9. doi:10.1007/s00392-016-1025-6. PMC 5226988. PMID 27557678.
+^ a b c "What are the advantages of electronic health records?". Health IT.
+^ Habib JL (2010). "EHRs, meaningful use, and a model EMR". Drug Benefit Trends. 22 (4): 99 101.
+^ Kierkegaard P (2011). "Electronic health record: Wiring Europe's healthcare". Computer Law & Security Review. 27 (5): 503 515. doi:10.1016/j.clsr.2011.07.013.
+^ "What is a personal health record?". HealthIT.gov. Office of the National Coordinator for Health IT. Archived from the original on 25 July 2015. Retrieved 24 July 2015.
+^ a b c d e Greenhalgh T, Potts HW, Wong G, Bark P, Swinglehurst D (December 2009). "Tensions and paradoxes in electronic patient record research: a systematic literature review using the meta-narrative method". The Milbank Quarterly. 87 (4): 729 788. doi:10.1111/j.1468-0009.2009.00578.x. PMC 2888022. PMID 20021585.
+^ "Griffin Hospital reports of dozens of patient medical records breaches", CtPost.com, 29 March 2010
+^ Kate Ramunni; "UCLA hospital scandal grows" Los Angeles Times, 5 August 2008
+^ Ozair FF, Jamshed N, Sharma A, Aggarwal P (April June 2015). "Ethical issues in electronic health records: A general overview". Perspectives in Clinical Research. 6 (2): 73 76. doi:10.4103/2229-3485.153997. PMC 4394583. PMID 25878950.
+^ Institute of Medicine (1999). "To Err Is Human: Building a Safer Health System (1999)" (PDF). The National Academies Press. Retrieved 28 February 2017.
+^ Agrawal A (June 2009). "Medication errors: prevention using information technology systems". British Journal of Clinical Pharmacology. 67 (6): 681 686. doi:10.1111/j.1365-2125.2009.03427.x. PMC 2723209. PMID 19594538.
+^ "Electronic Health Record Error Prevention Approach Using Ontology in Big Data" (PDF). 2015 IEEE 17th International Conference on High Performance and Communications (HPCC). 2015.
+^ "EMR Software Information Exchange, January 25, 2011". EMR Software Pro. 2011. Archived from the original on 2 January 2020. Retrieved 3 August 2013.
+^ "Health Information Exchanges and Your EMR Selection Process", New England Journal of Medicine, 25 January 2011
+^ "Clinical Information Technologies and Inpatient Outcomes". Medical Benefits. 26: 6, 8. 30 March 2009. ProQuest 207235826.
+^ Adapted from the IEEE definition of interoperability, and legal definitions used by the FCC (47 CFR 51.3), in statutes regarding copyright protection (17 USC 1201), and e-government services (44 USC 3601)
+^ "EHR Definition, Attributes and Essential Requirements" (PDF). Healthcare Information and Management Systems Society. 2003. Archived from the original (PDF) on 19 May 2006. Retrieved 28 July 2006. 152 KiB
+^ Neves AL, Freise L, Laranjo L, Carter AW, Darzi A, Mayer E (December 2020). "Impact of providing patients access to electronic health records on quality and safety of care: a systematic review and meta-analysis". BMJ Quality & Safety. 29 (12): 1019 1032. doi:10.1136/bmjqs-2019-010581. PMC 7785164. PMID 32532814.
+^ "Sharing electronic records with patients led to improved control of type two diabetes". NIHR Evidence (Plain English summary). 21 October 2020. doi:10.3310/alert_42103. S2CID 242149388.
+^ "What is digital health technology and what can it do for me?". NIHR Evidence. 2022. doi:10.3310/nihrevidence_53447. S2CID 252584020.
+^ Murray CJ, Ikuta KS, Sharara F, Swetschinski L, Aguilar GR, Gray A,  et al. (Antimicrobial Resistance Collaborators) (February 2022). "Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis". Lancet. 399 (10325): 629 655. doi:10.1016/S0140-6736(21)02724-0. PMC 8841637. PMID 35065702.
+^ Kuan, Valerie; Denaxas, Spiros; Patalay, Praveetha;  et al. (29 November 2022). "Identifying and visualising multimorbidity and comorbidity patterns in patients in the English National Health Service: a population-based study". The Lancet Digital Health. 5 (1): e16 e27. doi:10.1016/S2589-7500(22)00187-X. ISSN 2589-7500. PMID 36460578. S2CID 254129048.
+^ Levine, Kristin S.; Leonard, Hampton L.; Blauwendraat, Cornelis; Iwaki, Hirotaka; Johnson, Nicholas; Bandres-Ciga, Sara; Ferrucci, Luigi; Faghri, Faraz; Singleton, Andrew B.; Nalls, Mike A. (19 January 2023). "Virus exposure and neurodegenerative disease risk across national biobanks". Neuron. 111 (7): 1086 1093.e2. doi:10.1016/j.neuron.2022.12.029. ISSN 0896-6273. PMC 10079561. PMID 36669485.
+News article about the study: Kozlov, Max (23 January 2023). "Massive health-record review links viral illnesses to brain disease". Nature. 614 (7946): 18 19. doi:10.1038/d41586-023-00181-3. PMID 36690772. S2CID 256193462. Archived from the original on 6 February 2023. Retrieved 15 February 2023.
+^ Solomon DH, Liu CC, Kuo IH, Zak A, Kim SC (September 2016). "Effects of colchicine on risk of cardiovascular events and mortality among patients with gout: a cohort study using electronic medical records linked with Medicare claims". Annals of the Rheumatic Diseases. 75 (9): 1674 1679. doi:10.1136/annrheumdis-2015-207984. PMC 5049504. PMID 26582823.
+^ Newschaffer CJ, Bush TL, Penberthy LT (June 1997). "Comorbidity measurement in elderly female breast cancer patients with administrative and medical records data". Journal of Clinical Epidemiology. 50 (6): 725 733. doi:10.1016/S0895-4356(97)00050-4. PMID 9250271.
+^ Spiranovic, Caroline; Matthews, Allison; Scanlan, Joel; Kirkby, Kenneth C. (2 January 2016). "Increasing knowledge of mental illness through secondary research of electronic health records: opportunities and challenges". Advances in Mental Health. 14 (1): 14 25. doi:10.1080/18387357.2015.1063635. ISSN 1838-7357. S2CID 57541937.
+^ Byun J, Schwartz AG, Lusk C, Wenzlaff AS, de Andrade M, Mandal D,  et al. (September 2018). "Genome-wide association study of familial lung cancer". Carcinogenesis. 39 (9): 1135 1140. doi:10.1093/carcin/bgy080. PMC 6148967. PMID 29924316.
+^ a b Loukides G, Gkoulalas-Divanis A, Malin B (April 2010). "Anonymization of electronic medical records for validating genome-wide association studies". Proceedings of the National Academy of Sciences of the United States of America. 107 (17): 7898 7903. Bibcode:2010PNAS..107.7898L. doi:10.1073/pnas.0911686107. PMC 2867915. PMID 20385806.
+^ Desai, Rishi J.; Matheny, Michael E.; Johnson, Kevin; Marsolo, Keith; Curtis, Lesley H.; Nelson, Jennifer C.; Heagerty, Patrick J.; Maro, Judith; Brown, Jeffery; Toh, Sengwee; Nguyen, Michael; Ball, Robert; Dal Pan, Gerald; Wang, Shirley V.; Gagne, Joshua J.; Schneeweiss, Sebastian (20 December 2021). "Broadening the reach of the FDA Sentinel system: A roadmap for integrating electronic health record data in a causal analysis framework". NPJ Digital Medicine. 4 (1): 170. doi:10.1038/s41746-021-00542-0. ISSN 2398-6352. PMC 8688411. PMID 34931012.
+^ Hoelscher, Deanna M.; Ranjit, Nalini; P rez, Adriana (20 March 2017). "Surveillance Systems to Track and Evaluate Obesity Prevention Efforts". Annual Review of Public Health. 38 (1): 187 214. doi:10.1146/annurev-publhealth-031816-044537. ISSN 0163-7525. PMID 28125393.
+^ Paul, Margaret M.; Greene, Carolyn M.; Newton-Dame, Remle; Thorpe, Lorna E.; Perlman, Sharon E.; McVeigh, Katherine H.; Gourevitch, Marc N. (1 June 2015). "The state of population health surveillance using electronic health records: A narrative review". Population Health Management. 18 (3): 209 216. doi:10.1089/pop.2014.0093. ISSN 1942-7891. PMID 25608033.
+^ Moloney, Max; Digby, Genevi ve; MacKinnon, Madison; Morra, Alison; Barber, David; Queenan, John; Gupta, Samir; To, Teresa; Lougheed, M. Diane (17 January 2023). "Primary care asthma surveillance: a review of knowledge translation tools and strategies for quality improvement". Allergy, Asthma & Clinical Immunology. 19 (1): 3. doi:10.1186/s13223-022-00755-2. ISSN 1710-1492. PMID 36650578. S2CID 255966861.
+^ a b c Shah, Shahid Munir; Khan, Rizwan Ahmed (2020). "Secondary Use of Electronic Health Record: Opportunities and Challenges". IEEE Access. 8: 136947 136965. doi:10.1109/ACCESS.2020.3011099. ISSN 2169-3536. S2CID 210920454.
+^ a b c d e f Sunjaya, Anthony Paulo (1 July 2022). "Uplifting Primary Care Through the Electronic Health Record". The Annals of Family Medicine. 20 (4): 303 304. doi:10.1370/afm.2860. ISSN 1544-1709. PMC 9328708. PMID 35879075.
+^ Al-Zubaidie M, Zhang Z, Zhang J (April 2019). "PAX: Using Pseudonymization and Anonymization to Protect Patients' Identities and Data in the Healthcare System". International Journal of Environmental Research and Public Health. 16 (9): 1490. doi:10.3390/ijerph16091490. PMC 6540163. PMID 31035551.
+^ Tamersoy A, Loukides G, Nergiz ME, Saygin Y, Malin B (May 2012). "Anonymization of longitudinal electronic medical records". IEEE Transactions on Information Technology in Biomedicine. 16 (3): 413 423. doi:10.1109/TITB.2012.2185850. PMC 3779068. PMID 22287248.
+^ Chevrier R, Foufi V, Gaudet-Blavignac C, Robert A, Lovis C (May 2019). "Use and Understanding of Anonymization and De-Identification in the Biomedical Literature: Scoping Review". Journal of Medical Internet Research. 21 (5): e13484. doi:10.2196/13484. PMC 6658290. PMID 31152528.
+^ Puri V, Sachdeva S, Kaur P (1 May 2019). "Privacy preserving publication of relational and transaction data: Survey on the anonymization of patient data". Computer Science Review. 32: 45 61. doi:10.1016/j.cosrev.2019.02.001. ISSN 1574-0137. S2CID 133142770.
+^ Beuth, Patrick (29 April 2022). "Alle gesetzlich Versicherten betroffen: B rgerrechtler klagen gegen Weitergabe von Gesundheitsdaten". Der Spiegel (in German). Retrieved 6 March 2023.
+^ Guo, Uta; Chen, Lu; Mehta, Parag H (September 2017). "Electronic health record innovations: Helping physicians   One less click at a time". Health Information Management Journal. 46 (3): 140 144. doi:10.1177/1833358316689481. ISSN 1833-3583. PMID 28671038. S2CID 31329786.
+^ Dymek, Christine; Kim, Bryan; Melton, Genevieve B; Payne, Thomas H; Singh, Hardeep; Hsiao, Chun-Ju (23 April 2021). "Building the evidence-base to reduce electronic health record related clinician burden". Journal of the American Medical Informatics Association. 28 (5): 1057 1061. doi:10.1093/jamia/ocaa238. PMC 8068419. PMID 33340326.
+^ Goodrum, Heath; Roberts, Kirk; Bernstam, Elmer V. (1 December 2020). "Automatic classification of scanned electronic health record documents". International Journal of Medical Informatics. 144: 104302. doi:10.1016/j.ijmedinf.2020.104302. ISSN 1386-5056. PMC 7731898. PMID 33091829.
+^ Falc n L (9 April 2020). "Tackling the beast: Using GNU Health to help the fight against the | Joinup". joinup.ec.europa.eu. Retrieved 8 April 2021.
+^ a b Jayaraman, Prem Prakash; Forkan, Abdur Rahim Mohammad; Morshed, Ahsan; Haghighi, Pari Delir; Kang, Yong Bin (March 2020). "Healthcare 4.0: A review of frontiers in digital health". WIREs Data Mining and Knowledge Discovery. 10 (2). doi:10.1002/widm.1350. ISSN 1942-4787. S2CID 211536793.
+^ Bj rnsson, Bergthor; Borrebaeck, Carl; Elander, Nils; Gasslander, Thomas; Gawel, Danuta R.; Gustafsson, Mika; J rnsten, Rebecka; Lee, Eun Jung; Li, Xinxiu; Lilja, Sandra; Mart nez-Enguita, David; Matussek, Andreas; Sandstr m, Per; Sch fer, Samuel; Stenmarker, Margaretha; Sun, X. F.; Sysoev, Oleg; Zhang, Huan; Benson, Mikael (31 December 2019). "Digital twins to personalize medicine". Genome Medicine. 12 (1): 4. doi:10.1186/s13073-019-0701-3. ISSN 1756-994X. PMC 6938608. PMID 31892363.
+^ "New AI technology integrates multiple data types to predict cancer outcomes". medicalxpress.com. Retrieved 1 February 2023.
+^ Desai, Angel N.; Kraemer, Moritz U. G.; Bhatia, Sangeeta; Cori, Anne; Nouvellet, Pierre; Herringer, Mark; Cohn, Emily L.; Carrion, Malwina; Brownstein, John S.; Madoff, Lawrence C.; Lassmann, Britta (1 August 2019). "Real-time Epidemic Forecasting: Challenges and Opportunities". Health Security. 17 (4): 268 275. doi:10.1089/hs.2019.0022. ISSN 2326-5094. PMC 6708259. PMID 31433279.
+^ Sundermann, Alexander J.; Miller, James K.; Marsh, Jane W.; Saul, Melissa I.; Shutt, Kathleen A.; Pacey, Marissa; Mustapha, Mustapha M.; Ayres, Ashley; Pasculle, A. William; Chen, Jieshi; Snyder, Graham M.; Dubrawski, Artur W.; Harrison, Lee H. (March 2019). "Automated data mining of the electronic health record for investigation of healthcare-associated outbreaks". Infection Control & Hospital Epidemiology. 40 (3): 314 319. doi:10.1017/ice.2018.343. ISSN 0899-823X. PMC 8189294. PMID 30773168.
+^ Hripcsak, G.; Soulakis, N. D.; Li, L.; Morrison, F. P.; Lai, A. M.; Friedman, C.; Calman, N. S.; Mostashari, F. (1 May 2009). "Syndromic Surveillance Using Ambulatory Electronic Health Records". Journal of the American Medical Informatics Association. 16 (3): 354 361. doi:10.1197/jamia.m2922. PMID 19261941.
+^ Meckawy, Rehab; Stuckler, David; Mehta, Adityavarman; Al-Ahdal, Tareq; Doebbeling, Bradley N. (29 November 2022). "Effectiveness of early warning systems in the detection of infectious diseases outbreaks: a systematic review". BMC Public Health. 22 (1): 2216. doi:10.1186/s12889-022-14625-4. ISSN 1471-2458. PMC 9707072. PMID 36447171.
+^ Hopkins, Richard S.; Tong, Catherine C.; Burkom, Howard S.; Akkina, Judy E.; Berezowski, John; Shigematsu, Mika; Finley, Patrick D.; Painter, Ian; Gamache, Roland; Vilas, Victor J. Del Rio; Streichert, Laura C. (July 2017). "A Practitioner-Driven Research Agenda for Syndromic Surveillance". Public Health Reports. 132 (1_suppl): 116S 126S. doi:10.1177/0033354917709784. ISSN 0033-3549. PMID 28692395. S2CID 2088189.
+^ "Electronic Health Records May Be Delaying COVID-19 Vaccinations". NPR. February 2021. Retrieved 6 March 2023.
+^ "COVID-19 vaccine rollout may be delayed - with IT system 'failing constantly'". Sky News. Retrieved 6 March 2023.
+^ Klein, Harry; Mazor, Tali; Siegel, Ethan; Trukhanov, Pavel; Ovalle, Andrea; Vecchio Fitz, Catherine Del; Zwiesler, Zachary; Kumari, Priti; Van Der Veen, Bernd; Marriott, Eric; Hansel, Jason; Yu, Joyce; Albayrak, Adem; Barry, Susan; Keller, Rachel B.; MacConaill, Laura E.; Lindeman, Neal; Johnson, Bruce E.; Rollins, Barrett J.; Do, Khanh T.; Beardslee, Brian; Shapiro, Geoffrey; Hector-Barry, Suzanne; Methot, John; Sholl, Lynette; Lindsay, James; Hassett, Michael J.; Cerami, Ethan (6 October 2022). "MatchMiner: an open-source platform for cancer precision medicine". NPJ Precision Oncology. 6 (1): 69. doi:10.1038/s41698-022-00312-5. ISSN 2397-768X. PMC 9537311. PMID 36202909.
+^ "EMR in Ambulances". Emergency Medical Paramedic. 5 May 2011. Retrieved 4 June 2011.
+^ Porter A, Badshah A, Black S, Fitzpatrick D, Harris-Mayes R, Islam S,  et al. (2020). "Electronic health records in ambulances: the ERA multiple-methods study". Health Services and Delivery Research. 8 (10): 1 140. doi:10.3310/hsdr08100. PMID 32119231. S2CID 216157261.
+^ "NEMSIS - National EMS Information System". nemsis.org. Archived from the original on 8 June 2017. Retrieved 31 May 2017.
+^ Ambulance Victoria Annual Report. Ambulance Victoria (Report). 4 October 2009. Archived from the original on 20 July 2011. Retrieved 4 June 2011.
+^ "Electronic Health Records: What's in it for Everyone?". Cdc.gov. 26 July 2011. Archived from the original on 1 April 2013. Retrieved 4 September 2013.
+^ "Handwriting and mobile computing experts". Medscribbler. Scriptnetics. Archived from the original on 19 September 2008. Retrieved 20 August 2008.
+^ "M958 revision-Event monitors in PHS 1-02-02.PDF" (PDF). Archived from the original (PDF) on 27 February 2012. Retrieved 3 August 2013.
+^ Herwehe J, Wilbright W, Abrams A, Bergson S, Foxhood J, Kaiser M,  et al. (2011). "Implementation of an innovative, integrated electronic medical record (EMR) and public health information exchange for HIV/AIDS". Journal of the American Medical Informatics Association. 19 (3): 448 452. doi:10.1136/amiajnl-2011-000412. PMC 3341789. PMID 22037891.
+^ Berg M (1997). "Of Forms, Containers, and the Electronic Medical Record: Some Tools for a Sociology of the Formal". Science, Technology, & Human Values. 22 (4): 403 433. doi:10.1177/016224399702200401. S2CID 109278148.
+^ Greenhalgh T, Stramer K, Bratan T, Byrne E, Russell J, Potts HW (June 2010). "Adoption and non-adoption of a shared electronic summary record in England: a mixed-method case study". BMJ. 340: c3111. doi:10.1136/bmj.c3111. PMID 20554687.
+^ Gabriel B (2008). "Do EMRs Make You a Better Doctor?". Physicians Practice. Archived from the original on 8 June 2010. Retrieved 23 August 2009.
+^ Manos D (14 December 2009). "Electronic health records not a panacea". Healthcare IT News.
+^ Silverstein S (2009). "2009 a pivotal year in healthcare IT". Drexel University. Archived from the original on 10 December 2010. Retrieved 5 January 2010.
+^ a b Himmelstein DU, Wright A, Woolhandler S (January 2010). "Hospital computing and the costs and quality of care: a national study". The American Journal of Medicine. 123 (1): 40 46. CiteSeerX 10.1.1.176.937. doi:10.1016/j.amjmed.2009.09.004. PMID 19939343.
+^ Cebul RD, Love TE, Jain AK, Hebert CJ (September 2011). "Electronic health records and quality of diabetes care". The New England Journal of Medicine. 365 (9): 825 833. doi:10.1056/NEJMsa1102519. PMID 21879900. S2CID 25101954.
+^ "Improve Care Coordination using Electronic Health Records | Providers & Professionals". HealthIT.gov. Retrieved 4 September 2013.
+^ "Primary Care Patients Use Interactive Preventive Health Record Integrated With Electronic Health Record, Leading to Enhanced Provision of Preventive Services". Agency for Healthcare Research and Quality. 19 June 2013. Retrieved 9 July 2013.
+^ a b "Health Information Technology in the United States: The Information Base for Progress" (PDF). Robert Wood Johnson Foundation, George Washington University Medical Center, and Institute for Health Policy. 2006. Archived from the original (PDF) on 6 November 2006. Retrieved 17 February 2008.
+^ Evidence on the costs and benefits of health information technology. Congressional Budget Office (Report). May 2008.
+^ Shah S. "Column: Why MDs Dread EMRs". Journal of Surgical Radiology. Archived from the original on 10 September 2012.
+^ "Information Technology: Not a Cure for the High Cost of Health Care". Knowledge@Wharton. 10 June 2009.
+^ Verghese A (20 June 2009). "The Myth of Prevention". The Wall Street Journal.
+^ " 450m cost of US records system is 'chicken-feed' says trust CEO". Health Service Journal. 18 March 2022. Retrieved 22 May 2022.
+^ Chaudhry B, Wang J, Wu S, Maglione M, Mojica W, Roth E,  et al. (May 2006). "Systematic review: impact of health information technology on quality, efficiency, and costs of medical care". Annals of Internal Medicine. 144 (10): 742 752. doi:10.7326/0003-4819-144-10-200605160-00125. PMID 16702590.
+^ "7 big reasons why EHRs consume physicians' days and nights". The American Medical Association.
+^ Belden JL, Grayson R, Barnes J (June 2009). "Defining and testing EMR usability: Principles and proposed methods of EMR usability evaluation and rating" (PDF). Healthcare Information and Management Systems Society (HIMSS). Archived from the original (PDF) on 22 March 2012.
+^ NISTIR 7804: Technical Evaluation, Testing and Validation of the Usability of Electronic Health Records (PDF). National Institute of Standards and Technology (Report). September 2011. pp. 9 10.
+^ "U.S. Medicine   The Voice of Federal Medicine, May 2009.". Archived from the original on 7 October 2011. Retrieved 27 January 2012.
+^ Bouamrane MM, Mair FS (May 2013). "A study of general practitioners' perspectives on electronic medical records systems in NHSScotland". BMC Medical Informatics and Decision Making. 13: 58. doi:10.1186/1472-6947-13-58. PMC 3704757. PMID 23688255.
+^ Fiks AG, Alessandrini EA, Forrest CB, Khan S, Localio AR, Gerber A (2011). "Electronic medical record use in pediatric primary care". Journal of the American Medical Informatics Association. 18 (1): 38 44. doi:10.1136/jamia.2010.004135. PMC 3005866. PMID 21134975.
+^ Torrieri M (July August 2012). "EHRs Go Mobile". Physicians Practice. Archived from the original on 10 September 2012.
+^ Turchin A, Florez Builes LF (May 2021). "Using Natural Language Processing to Measure and Improve Quality of Diabetes Care: A Systematic Review". Journal of Diabetes Science and Technology. 15 (3): 553 560. doi:10.1177/19322968211000831. PMC 8120048. PMID 33736486.
+^ Wanyan T, Honarvar H, Azad A, Ding Y, Glicksberg BS (8 September 2021). "Deep Learning with Heterogeneous Graph Embeddings for Mortality Prediction from Electronic Health Records". Data Intelligence. 3 (3): 329 339. arXiv:2012.14065. doi:10.1162/dint_a_00097. ISSN 2641-435X. S2CID 229679954.
+^ Granja C, Janssen W, Johansen MA (May 2018). "Factors Determining the Success and Failure of eHealth Interventions: Systematic Review of the Literature". Journal of Medical Internet Research. 20 (5): e10235. doi:10.2196/10235. PMC 5954232. PMID 29716883.
+^ Kling R, Rosenbaum H, Sawyer S (15 September 2005). Understanding And Communicating Social Informatics: A Framework For Studying And Teaching The Human Contexts of Information And Communication Technologies. Information Today Inc. p. 23. ISBN 978-1-57387-228-7.
+^ Sawyer S, Rosenbaum H (2000). "Social informatics in the information sciences: Current activities and emerging directions" (PDF). Informing Science. 3 (2): 94.
+^ Tenner E (1997). Why Things Bite Back: Technology and the Revenge of Unintended Consequences. ISBN 978-0-679-74756-7.
+^ USA Joint Commission on Accreditation of Healthcare Organizations (December 2008). "Safely implementing health information and converging technologies". Sentinel Event Alert (42): 1 4. PMID 19108351.
+^ "MEDMARX Adverse Drug Event Reporting database" (PDF).
+^ "Health informatics   Guidance on the management of clinical risk relating to the deployment and use of health software (formerly ISO/TR 29322:2008(E)). DSCN18/2009" (PDF). Archived from the original (PDF) on 15 July 2014. Examples of potential harm presented by health software, Annex A, p. 38.
+^ "Internal FDA Report on Adverse Events Involving Health Information Technology". Archived from the original on 6 September 2015.
+^ "FDA, Obama digital medical records team at odds over safety oversight". FDA memo. table 4, page 3, Appendix B, p. 7 8 (with examples), and p. 5, summary. Memo obtained and released by Fred Schulte and Emma Schwartz at the Huffington Post Investigative Fund, now part of the Center for Public Integrity, in a 3 August 2010 article. Archived from the original on 12 November 2011.
+^ Goodman KW, Berner ES, Dente MA, Kaplan B, Koppel R, Rucker D,  et al. (2010). "Challenges in ethics, safety, best practices, and oversight regarding HIT vendors, their customers, and patients: a report of an AMIA special task force". Journal of the American Medical Informatics Association. 18 (1): 77 81. doi:10.1136/jamia.2010.008946. PMC 3005880. PMID 21075789.
+^ Rowe JC (2011). "Doctors Go Digital". The New Atlantis.
+^ Ash JS, Sittig DF, Poon EG, Guappone K, Campbell E, Dykstra RH (2007). "The extent and importance of unintended consequences related to computerized provider order entry". Journal of the American Medical Informatics Association. 14 (4): 415 423. doi:10.1197/jamia.M2373. PMC 2244906. PMID 17460127.
+^ Colligan L, Potts HW, Finn CT, Sinkin RA (July 2015). "Cognitive workload changes for nurses transitioning from a legacy system with paper documentation to a commercial electronic health record". International Journal of Medical Informatics. 84 (7): 469 476. doi:10.1016/j.ijmedinf.2015.03.003. PMID 25868807.
+^ "8 top challenges and solutions for making EHRs usable". American Medical Association. 16 September 2014. Retrieved 12 April 2020.
+^ Aguirre, R. R.; Suarez, O.; Fuentes, M.; Sanchez-Gonzalez, M. A. (2019). "Electronic Health Record Implementation: A Review of Resources and Tools". Cureus. 11 (9): e5649. doi:10.7759/cureus.5649. PMC 6822893. PMID 31700751.
+^ Ash JS, Sittig DF, Poon EG, Guappone K, Campbell E, Dykstra RH (2007). "The extent and importance of unintended consequences related to computerized provider order entry". Journal of the American Medical Informatics Association. 14 (4): 415 423. doi:10.1197/jamia.M2373. PMC 2244906. PMID 17460127.
+^ Evans RS (May 2016). "Electronic Health Records: Then, Now, and in the Future". Yearbook of Medical Informatics. Suppl 1 (Suppl 1): S48 S61. doi:10.15265/IYS-2016-s006. PMC 5171496. PMID 27199197.
+^ "Opposition calls for rethink on data storage". e-Health Insider (UK). December 2007. Archived from the original on 7 January 2009.
+^ "German doctors say no to centrally stored patient records". e-Health Insider (UK). January 2008. Archived from the original on 12 October 2008.
+^ Fern ndez-Alem n JL, S nchez-Henarejos A, Toval A, S nchez-Garc a AB, Hern ndez-Hern ndez I, Fernandez-Luque L (June 2015). "Analysis of health professional security behaviors in a real clinical setting: an empirical study". International Journal of Medical Informatics. 84 (6): 454 467. doi:10.1016/j.ijmedinf.2015.01.010. PMID 25678101.
+^ Wager K, Lee F, Glaser J (2009). Health Care Information Systems: A Practical Approach for Health Care Management (2nd ed.). Jossey-Bass. pp. 253 254. ISBN 978-0-470-38780-1.
+^ "Personal Information Protection and Electronic Documents Act   Implementation Schedule". Office of the Privacy Commissioner of Canada. 1 April 2004. Archived from the original on 7 September 2008. Retrieved 12 February 2008.
+^ "Radical relaxation of GP records and booking rules". Health Service Journal. 24 April 2020. Retrieved 8 June 2020.
+^ "Lawyers Per 100,000 Population 1980 2003". Congressional Budget Office. Retrieved 10 July 2007.
+^ "Tort reform". News Batch. May 2011. Retrieved 4 December 2013.
+^ "Bigger focus on compliance needed in EMR marketplace". Health Imaging News. 5 February 2007. Archived from the original on 29 September 2007.
+^ "Ben Kerschberg, Electronic Health Records Dramatically Increase Corporate Risk". Huffington Post. 10 January 2010. Retrieved 4 December 2013.
+^ "Medical Manager History". Archived from the original on 22 July 2006. Retrieved 4 December 2013.
+^ Schwartz SK (March 2012). "Can Technology Get You Sued?". Physicians Practice. Archived from the original on 17 September 2012.
+^ Dunlop L (6 April 2007). "Electronic Hea lth Records: Interoperability Challenges and Patient's Right for Privacy". Shidler Journal of Computer and Technology. 3 (16). Archived from the original on 27 October 2007.
+^ "Newly Issued Final Rules under Stark and Anti-kickback Laws Permit Furnishing of Electronic Prescribing and Electronic Health Records Technology". GKLaw. August 2006. Archived from the original on 22 March 2016. Retrieved 30 October 2011.
+^ "New Stark Law Exceptions and Anti-Kickback Safe Harbors For Electronic Prescribing and Electronic Health Records". SSDlaw. August 2006. Archived from the original on 5 June 2008.
+^ "epSOS: Legal and Regulatory Issues". Archived from the original on 3 August 2009. Retrieved 4 December 2013. European Patient Smart Open Services Work Plan
+^ "Medical Records Manual" (PDF). World Health Organization. March 2001. Archived from the original (PDF) on 10 July 2012. Retrieved 31 March 2012.
+^ "ISO/HL7 10781:2009". International Organization for Standardization. Retrieved 31 March 2012.
+^ Favreau A. "Electronic Primary Care Research Network". Regents of the University of Minnesota. Archived from the original on 2 May 2012. Retrieved 4 December 2013.
+^ a b Kierkegaard P (2012). "Medical data breaches: Notification delayed is notification denied". Computer Law & Security Review. 28 (2): 163 183. doi:10.1016/j.clsr.2012.01.003.
+^ Pear R (13 July 2010). "U.S. Issues Rules on Electronic Health Records". The New York Times.
+^ "About". smartplatforms.org. Archived from the original on 10 April 2012. Retrieved 20 March 2012.
+^ Reynolds CL (31 March 2006). "Paper on Concept Processing" (PDF). Retrieved 4 December 2013.
+^ Maekawa Y, Majima Y (2006). "Issues to be improved after introduction of a non-customized Electronic Medical Record system (EMR) in a Private General Hospital and efforts toward improvement". Studies in Health Technology and Informatics. 122: 919 920. PMID 17102464.
+^ T ttelmann F, Luetjens CM, Nieschlag E (March 2006). "Optimising workflow in andrology: a new electronic patient record and database". Asian Journal of Andrology. 8 (2): 235 241. doi:10.1111/j.1745-7262.2006.00131.x. PMID 16491277.
+^ The Digital Office, September 2007, vol 2, no.9. HIMSS
+^ Rollins G (June 2006). "The perils of customization". Journal of AHIMA. 77 (6): 24 28. PMID 16805294.
+^ Mandl KD, Szolovits P, Kohane IS (February 2001). "Public standards and patients' control: how to keep electronic medical records accessible but private". BMJ. 322 (7281): 283 287. doi:10.1136/bmj.322.7281.283. PMC 1119527. PMID 11157533.
+^ "Where do I Find Medical Record Retention Laws for My State?". Harmony Healthcare IT. February 2020. Archived from the original on 11 July 2021. Retrieved 3 September 2021.
+^ Ruotsalainen P, Manning B (2007). "A notary archive model for secure preservation and distribution of electrically signed patient documents". International Journal of Medical Informatics. 76 (5 6): 449 453. doi:10.1016/j.ijmedinf.2006.09.011. PMID 17118701.
+^ Olhede T, Peterson HE (2000). "Archiving of care related information in XML-format". Studies in Health Technology and Informatics. 77: 642 646. PMID 11187632.
+^ Papadouka V, Schaeffer P, Metroka A, Borthwick A, Tehranifar P, Leighton J,  et al. (November 2004). "Integrating the New York citywide immunization registry and the childhood blood lead registry". Journal of Public Health Management and Practice. Suppl: S72 S80. CiteSeerX 10.1.1.331.2171. doi:10.1097/00124784-200411001-00012. PMID 15643363.
+^ Gioia PC (2001). "Quality improvement in pediatric well care with an electronic record". Proceedings. AMIA Symposium: 209 213. PMC 2243516. PMID 11825182.
+^ Williams SD, Hollinshead W (November 2004). "Perspectives on integrated child health information systems: parents, providers, and public health". Journal of Public Health Management and Practice. Suppl: S57 S60. doi:10.1097/00124784-200411001-00009. PMID 15643360.
+^ Pohjonen H (June July 2010). "Images can now cross borders, but what about the legislation?". Diagnostic Imaging Europe. 26 (4): 16.
+^ "CNews:            ". gov.cnews.ru. Archived from the original on 31 March 2014. Retrieved 31 March 2014.
+^ "New programmes and the best doctors, or how Moscow healthcare is being developed / News / Moscow City Web Site".
+^ Kierkegaard P (2011). "Electronic health record: Wiring Europe's healthcare". Computer Law & Security Review. 27 (5): 503 515. doi:10.1016/j.clsr.2011.07.013.
+^ .https://pcse.england.nhs.uk/services/medical-records/digitisation/
+^ "Northern Ireland to become first UK country with connected electronic patient record". Home Care Insight. 5 September 2022. Retrieved 27 October 2022.
+^ Gill, M. (2007) Attitudes to clinical audit in veterinary practice, Royal Veterinary College elective project, unpublished work
+^ Carruthers H (2009). "Disease surveillance in small animal practice". In Practice. 31 (7): 356 358. doi:10.1136/inpract.31.7.356. S2CID 71415659.
+^ "VEctAR (Veterinary Electronic Animal Record) (2010)". Archived from the original on 28 February 2013.
+^ Brodbelt D, Midleton S, O'Neil D, Sumers J, Church D (2011). "Companion Animal Practice Based Disease Surveillance in the UK" (PDF).  pid miologie et Sant  Animale. 59 60: 38 40.
+^ Kartoun U (January 2018). "A Leap from Artificial to Intelligence". Letters to the editor. Communications of the ACM. 61 (1): 10 11. doi:10.1145/3168260.
+^ Metz C (4 September 2019). "A Breakthrough for A.I. Technology: Passing an 8th-Grade Science Test". The New York Times. ISSN 0362-4331. Retrieved 12 May 2021.
+^ Mendelson D (August 2004). "HealthConnect and the duty of care: a dilemma for medical practitioners". Journal of Law and Medicine. 12 (1): 69 79. PMID 15359551.
+^ Investigating Decentralized Management of Health and Fitness Data
+External links[edit]
+Can Electronic Health Record Systems Transform Health Care?
+Open-Source EHR Systems for Ambulatory Care: A Market Assessment (California HealthCare Foundation, January 2008)
+US Department of Health and Human Services (HHS), Office of the National Coordinator for Health Information Technology (ONC)
+US Department of Health and Human Services (HHS), Agency for Healthcare Research and Quality (AHRQ), National Resource Center for Health Information Technology
+Security Aspects in Electronic Personal Health Record: Data Access and Preservation   a briefing paper at Digital Preservation Europe
+vteHealth informaticsSubdisciplines
+Medical image computing and imaging informatics
+Artificial intelligence in healthcare
+Neuroinformatics in healthcare
+Behavior informatics in healthcare
+Computational biology in healthcare
+Translational bioinformatics
+Translational medicine
+health information technology
+Telemedicine
+Public health informatics
+Health information management
+Consumer health informatics
+Medical classification
+Continuity of Care Record
+HRHIS
+ICD
+ISO 27799
+LOINC
+Professional organizations
+American Association for Medical Systems and Informatics
+American Medical Informatics Association
+Australian Society / Australasian College (to merge from 2020)
+Brazilian Society
+European Federation
+Indian Association
+International Association
+American College of Medical Informatics
+Other concepts
+Electronic health record
+Health Level 7
+Remote manipulator
+Personalized medicine / precision medicine
+List of medical and health informatics journals
+openEHR
+vteHealth softwareBarcoding
+Bar code medication administration
+Databases
+Epocrates
+Lexicomp
+Medscape
+Micromedex
+DiagnosticsBioimagingDICOMGeneral
+3DSlicer
+Drishti
+GIMIAS
+Ginkgo CADx
+InVesalius
+ITK-SNAP
+OsiriX
+VistA Imaging
+Voreen
+Servers
+Orthanc
+Heuristics
+Bestbets
+CommonGround
+EuResist
+Odontologic
+Cybermed
+Florida Probe
+Electronichealth recordsPlatforms
+Apache cTAKES
+AHLTA
+athenaClinicals
+Centricity EMR
+Certify HealthLogix
+Cerner EHR
+COSTAR
+Datix
+EMIAS
+EMIS Web
+EpicCare EMR
+GaiaEHR
+GNUmed
+GPASS
+HOSxP
+INPS Vision
+Kareo EHR
+Microtest Open Evolution
+MTBC WebEHR2.0
+NextGen Healthcare
+NHS Care Records Service
+NHS Connecting for Health
+OpenEMR
+[Open HealthHub]
+OpenMRS
+Practice Fusion
+RXNT
+Summary Care Record
+TPP SystmOne
+VistA
+VITAband
+ZEPRS
+Terminology
+Read code
+SNOMED CT
+MEDCIN
+LOINC
+UCUM
+RxNorm
+Laboratorymanagement
+Cerner CoPath
+ELab
+Epic Beaker
+LabKey Server
+MEDITECH
+STARLIMS
+webLIMS
+Patient portals
+AbbaDox
+athenaCommunicator
+Cerner Patient Portal
+MyChart
+PracticemanagementComprehensive
+ClearHealth
+Kareo Practice Management
+OpenHospital
+RXNT
+Specialty
+Dentrix
+Open Dental
+SoftDent
+Scheduling
+AbbaDox
+Radix Health
+Kareo
+Zocdoc
+Vezeeta
+Patient engagement
+AbbaDox
+Kareo
+Vezeeta
+Research
+Behavioral
+PEBL
+Presentation
+PsychoPy
+Psychtoolbox for MATLAB
+PsyScope
+Cancer
+Caisis
+DreamLab
+Folding@home
+Clinical trials
+Oracle Argus
+SurgicalAssistive
+HipNav
+Transmission
+Microsoft Amalga
+Mirth Connect
+Related
+List of biomedical cybernetics software
+List of freeware health software
+List of open-source health software
+Category:Health software
+vteMedicineSpecialtiesandsubspecialtiesSurgery
+Cardiac surgery
+Cardiothoracic surgery
+Endocrine surgery
+Eye surgery
+General surgery
+Colorectal surgery
+Digestive system surgery
+Neurosurgery
+Oral and maxillofacial surgery
+Orthopedic surgery
+Hand surgery
+Otolaryngology
+ENT
+Pediatric surgery
+Plastic surgery
+Reproductive surgery
+Surgical oncology
+Transplant surgery
+Trauma surgery
+Urology
+Andrology
+Vascular surgery
+Internalmedicine
+Allergy / Immunology
+Angiology
+Cardiology
+Endocrinology
+Gastroenterology
+Hepatology
+Geriatrics
+Hematology
+Hospital medicine
+Infectious diseases
+Nephrology
+Oncology
+Pulmonology
+Rheumatology
+Obstetrics andgynaecology
+Gynaecology
+Gynecologic oncology
+Maternal fetal medicine
+Obstetrics
+Reproductive endocrinology and infertility
+Urogynecology
+Diagnostic
+Radiology
+Interventional radiology
+Neuroradiology
+Nuclear medicine
+Pathology
+Anatomical
+Clinical pathology
+Clinical chemistry
+Cytopathology
+Medical microbiology
+Transfusion medicine
+Other
+Addiction medicine
+Adolescent medicine
+Anesthesiology
+Obstetric anesthesiology
+Neurosurgical anesthesiology
+Aviation medicine
+Dermatology
+Disaster medicine
+Diving medicine
+Emergency medicine
+Mass gathering medicine
+Family medicine / General practice
+Hospital medicine
+Intensive care medicine
+Medical genetics
+Narcology
+Neurology
+Clinical neurophysiology
+Occupational medicine
+Ophthalmology
+Oral medicine
+Pain management
+Palliative care
+Pediatrics
+Neonatology
+Phlebology
+Physical medicine and rehabilitation (PM&R)
+Preventive medicine
+Prison healthcare
+Psychiatry
+Addiction psychiatry
+Radiation oncology
+Reproductive medicine
+Sexual medicine
+Venereology
+Sleep medicine
+Sports medicine
+Transplantation medicine
+Tropical medicine
+Travel medicine
+Medicaleducation
+Medical school
+Bachelor of Medicine, Bachelor of Surgery
+Bachelor of Medical Sciences
+Master of Medicine
+Master of Surgery
+Doctor of Medicine
+Doctor of Osteopathic Medicine
+MD PhD
+Medical Scientist Training Program
+Related topics
+Alternative medicine
+Allied health
+Dentistry
+Podiatry
+Pharmacy
+Physiotherapy
+Molecular oncology
+Nanomedicine
+Personalized medicine
+Public health
+Rural health
+Therapy
+Traditional medicine
+Veterinary medicine
+Physician
+Chief physician
+History of medicine
+ Category
+ Commons
+ Wikiproject
+ Portal
+ Outline
+vteNursingLevels of practiceGeneralists
+Student nurse
+Clinical nurse leader
+Licensed practical nurse
+Registered nurse
+Graduate nurse
+Nurse scientist
+Advanced practiceAPNs by role
+Clinical nurse specialist
+Nurse anesthetist
+Nurse midwife
+Nurse practitioner
+NPs by population
+Family
+Adult-gerontology
+Pediatrics
+Women's health
+Neonatal
+Psych/mental health
+Education  and licensure
+Nightingale Pledge
+Associate of Science in Nursing
+Bachelor of Science in Nursing
+Diploma in Nursing
+Doctor of Nursing Practice
+Master of Science in Nursing
+Board of nursing
+Nurse Licensure Compact
+Nursing credentials and certifications
+Nursing school
+Nurse registry
+NCLEX
+TEAS
+Specialties and  areas of practice
+Ambulatory care
+Cardiac
+Correctional nursing
+Critical care
+Dental
+Education
+Emergency
+Faith community
+Flight
+Forensic
+Geriatrics
+Holistic
+Home health
+Hyperbaric
+Legal consultation
+Management
+Matron
+Medical-surgical
+Midwifery
+Women's Health Care Nurse
+Military
+Neonatal
+Nursing informatics
+Obstetrics
+Occupational health
+Oncology
+Orthopedics
+Pediatrics
+Perianesthesia
+Perioperative
+Psychiatric and mental health
+Private duty
+Public health
+School
+Space
+Surgical
+Telenursing
+Travel health nursing
+WOCN
+Nursing process
+Nursing assessment
+Nursing diagnosis
+Nursing care plan
+Nursing theory
+Classification  systems
+NANDA
+Nursing Interventions Classification
+Nursing Minimum Data Set (NMDS)
+Nursing Outcomes Classification
+By country
+International Nurses Day
+Australia (timeline)
+Canada
+Germany
+Hong Kong
+India
+Iran
+Japan
+Kenya
+New Zealand (timeline)
+Pakistan
+Philippines
+Republic of Ireland
+South Africa
+Spain
+Taiwan
+United Kingdom (history)
+United States (history)
+ Category
+ Commons
+ WikiProject
+vteTelemedicineBackground concepts
+Health informatics
+In absentia health care
+Telecommunication
+Medical record
+Admission note
+Blue Button
+De-identification
+Electronic health record
+Health Insurance Portability and Accountability Act
+Personal health record
+Patient participation
+Decision aids
+Doctor patient relationship
+E-patient
+Health 2.0
+Health education
+Knowledge translation
+mHealth
+Participative decision-making in organizations
+Patient Activation Measure
+Shared decision-making
+Health information on the Internet
+Health information on Wikipedia
+Online patient education
+PubMed
+Telemedicine subspecialties
+eHealth
+Remote surgery
+Remote therapy
+Tele-audiology
+Tele-epidemiology
+Teledentistry
+Teledermatology
+Telehealth
+Telemental health
+Telenursing
+Teleophthalmology
+Telepathology
+Telepharmacy
+Telepsychiatry
+Teleradiology
+Telerehabilitation
+Roles to play
+Open-source healthcare software
+Patient opinion leader
+Research participant
+Virtual patient
+Authority control: National 
+Japan
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Electronic_health_record&oldid=1149336620"

@@ -1,0 +1,214 @@
+"Spider Solitaire" redirects here. For the Microsoft Windows version of Spider Solitaire, see Microsoft Spider Solitaire.
+For the solitaire game played in a 4 3 grid, see Little Spider.
+SpiderA Patience gameOne initial layout in the game of SpiderNamed variantsRelaxed Spider, Will o' the WispFamilySpiderDeckDouble 52-cardSee also Glossary of solitaire
+Spider is a type of patience game,[1][2] and is one of the more popular two-deck solitaire games. The game originates in 1949, and its name comes from a spider's eight legs, referencing the eight foundation piles that must be filled to win the game.[3]
+Rules[edit]
+The main purpose of the game is to remove all cards from the table, assembling them in the tableau before removing them.[4]  Initially, 54 cards are dealt to the tableau in ten piles, face down except for the top cards. The tableau piles build down by rank, and in-suit sequences can be moved together. The 50 remaining cards can be dealt to the tableau ten at a time when none of the piles are empty.
+A typical Spider layout requires the use of two decks.  The Tableau consists of 10 stacks, with 6 cards in the first 4 stacks, with the 6th card face up, and 5 cards in the remaining 6 stacks, with the 5th card face up.  Each time the stock is used it deals out one card to each stack.
+Variants[edit]
+Given its popularity, numerous Spider variants exist:
+ Spiderette layout
+Spider 2 Suit: Same as classic Spider solitaire, except this game is played with only 2 suits instead of 4, usually Spades and Hearts.
+Spider 1 Suit: Same as classic Spider solitaire, except this game is played with only 1 suit instead of 4, usually Spades.
+Relaxed Spider: Does not require all spaces to be filled before redealing
+Spiderette: Only one pack, a Klondike layout with 7 stacks ranging from 1 to 7 cards in each[5][6]
+Will o' the Wisp is another solitaire card game which was invented by Geoffrey Mott-Smith and is played the same way as Spiderette. The exception is that on the onset, twenty-one cards are dealt into seven columns of three with only the top card of each column face-up.
+Simple Simon is another common one-deck variant of Spider.
+Mrs. Mop is a Spider relative in which all the cards are dealt face-up.
+Software[edit]
+Implementations[edit]
+ Spider 2 Suit layout
+Common software versions of Spider are included with versions of Microsoft Windows 7, Vista, ME and XP as Spider Solitaire. Spider Solitaire was introduced in the Microsoft Plus! 98 addition pack for Windows 98.[7] The game comes in three versions of difficulty: 1, 2, or 4 suits.[8]
+An earlier version was written for Windows 3.x in 1991 by John A. Junod, the original developer of WS_FTP. The final version was Windows Spider Solitaire version 92.01.04. He also wrote a DOS version called EGA-Spider with version up to 93.07.05. A similar game called Arachnid, was also written for Windows 3.x in 1991 by Ian Heath, a computer science professor at the University of Southampton in the UK. The latest known version is 1.2 and is quite well polished. This game was also re-written for 32-bit operating systems and is referred to as Arachnid 32.[citation needed]
+On Unix operating systems, an early version was developed around 1989 at Sun Microsystems. A version of Spider Solitaire typically comes bundled with both the KDE and GNOME desktop environments on other Unix-like operating systems such as Linux and BSD, under the names KPatience and AisleRiot Solitaire, respectively.  Versions for Macintosh and most other operating systems are also available.[citation needed]
+The newer Windows versions offer three levels of difficulty, with one, two, or four suits.  These play modes are equivalent to disregarding suit difference, either within the colors or altogether, and thus can be simulated in the physical card game, though the computer version aids visibility by representing all cards as spades and/or hearts.[citation needed]
+Scoring[edit]
+Different software implementations of spider offer alternative scoring rules. The version from Sun Microsystems from 1989 defines the following rules in the manual: 10 points for each initially face down card that gets turned over; 15 additional points for each column where all the face-down cards have been turned over (even if you don't manage to get a space); 2 points for each card that is sitting atop the next higher card of the same suit; 50 points for each completed suit removed from the tableau (in which case you do not also score for the 12 cards sitting atop next higher cards). This yields a maximum score of 990.  If you win the game with 4 or more completed suits still in the tableau, add 2 points for each suit after the first three. Thus winning with all eight suits still in the tableau yields a score of 1000.[citation needed]
+In the Windows versions of Spider Solitaire, the scoring is calculated with a starting score of 500. One point is subtracted for each move (including any use of an undo); 100 points are added for each in-suit stack completed.  This allows for a theoretical maximum score of 1254.[9]
+Solvability[edit]
+A detailed study has been done on the solvability of Spider solitaire games using software.[10]  Winning chances in a normal game with good play are considered to be about 1 in 3 games.[11]
+References[edit]
+^ "Spider" (p.431-432) in The Penguin Book of Card Games by David Parlett, Treasure Press, 1987. ISBN 1-85051-221-3
+^ "Spider" (p.311) in Bicycle Official Rules of Card Games by Joli Quentin Kansil (ed.), 1999. ISBN 1-889752-06-1
+^ "Spider Solitaire". Solitaired. Unwind Media. Retrieved 9 March 2021.
+^ "Spider" (p.142) in The Playing Card Kit by Richard Craze, Simon & Schuster, 1995. ISBN 0-7318-0526-7
+^ "Spiderette" (p.78-79) in The Little Book of Solitaire, Running Press, 2002. ISBN 0-7624-1381-6
+^ "Spiderette Online Game". www.spiderette.com. Retrieved 13 January 2021.
+^ 
+"Consumer Companion for Windows 98 Offers Powerful New Utilities Desktop Themes and Exciting Games" (Press release). Microsoft Corporation. 25 June 1998. Retrieved 12 October 2010.
+^ "Spider Solitaire Windows". www.spidersolitaire.co.uk. Retrieved 10 March 2023.
+^ "Highest possible score Spider Solitaire". Goodsol Forum. Retrieved 23 June 2021.
+^ Winnable Spider Solitaire Games, Tranzoa Co, 2020.
+^ "Spider" (p.205) in Hoyle's Rules of Games (3rd edition) by Philip D. Morehead (ed.), 2001. ISBN 0-451-20484-0
+See also[edit]
+Simple Simon
+Mrs. Mop
+Solitaire terminology
+List of solitaires
+vtePatience or Solitaire by type - (list, glossary)Closed gamesSimple builders
+Amazons
+Auld Lang Syne
+Birthday
+The Clock
+Clock
+Cotillion (Contradance)
+Leoni's Own
+Musical (Betsy Ross, Fairest, Four Kings, Plus Belle, Quadruple Alliance)
+Precedence
+Quadrille (La Fran aise; Captive Queens)
+Reserved builders
+Carpet
+Eagle Wing
+Golf
+Grand Duchess
+Queen's/King's Audience
+Matrimony
+Monte Carlo
+Moojub
+Odd and Even
+Patriarchs
+Pyramid
+Royal Cotillion
+Royal Rendezvous
+Sultan (Emperor of Germany)
+Windmill
+Simple packers
+Batsford
+Big Ben
+British Constitution
+British Square
+Congress
+Corona
+Deauville
+Deuces
+Diplomat
+Emperor
+Following
+Fortune's Favor
+Four Seasons
+Gargantua
+Herring-Bone
+Klondike
+Napoleon at St Helena (Forty Thieves)
+Napoleon's Square
+Red and Black
+Westcliff
+Reserved packers
+Acme
+Alhambra
+American Toad
+Backbone
+Canfield
+Casket
+Crazy Quilt
+Duchess
+Gate
+The Plot
+ Queen of Italy (Terrace)
+Seven Devils
+Closed non-builders
+Accordion
+Aces Up
+Baroness (Five Piles, Thirteens)
+Decade
+Eight Cards
+Elevens
+Frustration
+Good Thirteen
+Herz zu Herz
+Hit or Miss
+Hope Deferred
+Perpetual Motion (Narcotic)
+Royal Flush
+Royal Marriage
+Travellers (Four of a Kind, Hidden Cards, Hide & Seek, Spoilt, Wandering Card)
+Half-open gamesBuilders
+Interregnum
+Picture Gallery (Royal Parade)
+Tournament
+Virginia Reel
+Blockades
+Babette
+British Blockade
+Labyrinth
+Planners
+Calculation
+Colorado
+Colours
+Cribbage Squares
+Frog
+Imaginary Thirteen
+Jubilee
+Poker Squares
+Puss in the Corner
+Rosamund's Bower
+Sir Tommy
+Packers
+Agnes
+Algerian
+Blockade
+Box Kite
+Bristol
+Four Corners
+Heads And Tails
+Intelligence
+Martha
+Miss Milligan
+Mount Olympus
+Pyramide
+St. Helena
+Stonewall
+Yukon
+Zodiac
+Spiders
+German Patience
+Rouge et Noir
+Scorpion
+Simple Simon
+Spider
+Open gamesOpen builders
+Archway
+Black Hole
+Crescent
+Intrigue
+Salic Law
+Stalactites
+Open packers
+Baker's Dozen
+Baker's Game
+Beleaguered Castle
+Bisley
+Capricieuse
+Eight Off
+Flower Garden (Bouquet)
+Fortress
+FreeCell
+Grandfather's Clock
+House in the Woods
+King Albert
+La Belle Lucie
+Mrs. Mop
+P ckchen
+Penguin
+Persian
+Russian
+Seahaven Towers
+Shamrocks
+Open non-builders
+Fourteen Out
+ Gaps (Montana)
+Gay Gordons (Exit)
+Maze
+Nestor
+Competitive games
+Australian Patience
+Double Klondike (Double Solitaire)
+Kings in the Corner
+Nerts (Pounce, Racing Demon)
+Russian Bank (Crapette)
+Skip-Bo
+Speed
+Spite and Malice
+Spit
+Stress
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Spider_(solitaire)&oldid=1143909099"

@@ -1,0 +1,21 @@
+Malware and adware detection tool
+HijackThisHijackThis 2.0.2 screenshotDeveloper(s)Trend MicroFinal release2.0.5
+   /    May 18, 2013; 9 years ago (2013-05-18)
+Operating systemMicrosoft WindowsTypeMalware diagnosticsLicenseGNU General Public License version 2[1]Websitehttp://sourceforge.net/projects/hjt
+HijackThis (also HiJackThis or HJT) is a free and open-source[2] tool to detect malware and adware on Microsoft Windows. It was originally created by Merijn Bellekom, and later sold to Trend Micro. The program is notable for quickly scanning a user's computer to display the most common locations of malware, rather than relying on a database of known spyware. HijackThis is used primarily for diagnosis of malware, not to remove or detect spyware as uninformed use of its removal facilities can cause significant software damage to a computer. Browser hijacking can cause malware to be installed on a computer.
+On February 16, 2012, Trend Micro released the HijackThis source code as open source and it is now available on the SourceForge site.
+Use[edit]
+HijackThis can generate a plain-text logfile detailing all entries it finds, and some entries can be fixed by HijackThis. Inexperienced users are advised to exercise caution or seek help when using the latter option. Except for a small whitelist of known safe entries, HijackThis does not discriminate between legitimate and unwanted items. HijackThis attempts to create backups of the files and registry entries that it fixes, which can be used to restore the system in the event of a mistake.
+A common use is to post the logfile to a forum where more experienced users can help decipher which entries need to be removed. Automated tools also exist that analyze saved logs and attempt to provide recommendations to the user, or to clean entries automatically.[3] Use of such tools, however, is generally discouraged by those who specialize in manually dealing with HijackThis logs: they consider the tools dangerous for inexperienced users, and neither accurate nor reliable enough to substitute for consulting with a trained human analyst.
+Later versions of HijackThis include such additional tools as a task manager, a hosts-file editor, and an alternate-data-stream scanner.
+HijackThis reached end-of-life in 2013 and is no longer developed.[1] However, the team has recommended an unofficial replacement called HijackThis Fork that is being developed by Stanislav Polshyn.[4]
+HijackPro[edit]
+During 2002 and 2003, IT entrepreneur Glenn Bluff (owner of Computer Hope UK) made several attempts to buy HijackThis.  This led to the joint development of HijackPro,  a professional version of HijackThis with the built-in capabilities to kill processes similar to killbox[clarification needed].  HijackPro had 2.3 million downloads from an illegal download site in 2003 and 2004 and was being found on sites claiming it was HijackThis and was free.[citation needed] HijackPro was sold to Touchstone software now Phoenix Technologies in 2007 to be integrated into DriverAgent.com along with Glenn Bluff's other company Drivermagic.com.
+References[edit]
+^ a b "HijackThis project site at SourceForge". Retrieved 2012-03-03.
+^ "Trend Micro Announcement". Archived from the original on 2012-03-02. Retrieved 2012-02-20.
+^ "HijackThis log analyzer site". Retrieved 2008-11-02."Computer Hope log tool". Retrieved 2010-02-02.
+^ "HiJackThis Fork v3". GitHub. 14 October 2021.
+External links[edit]
+Official website
+Retrieved from "https://en.wikipedia.org/w/index.php?title=HijackThis&oldid=1148338075"

@@ -1,0 +1,1077 @@
+Type of energy transfer
+This article is about a mode of transfer of energy. For the system in a home, see Central heating. For other uses, see Heat (disambiguation).
+ A glowing-hot metal bar showing incandescence, the emission of light due to its temperature, is often recognized as a source of heat.
+ThermodynamicsThe classical Carnot heat engine
+Branches
+Classical
+Statistical
+Chemical
+Quantum thermodynamics
+Equilibrium / Non-equilibrium
+Laws
+Zeroth
+First
+Second
+Third
+Systems
+Closed system
+Open system
+Isolated system
+State
+Equation of state
+Ideal gas
+Real gas
+State of matter
+Phase (matter)
+Equilibrium
+Control volume
+Instruments
+Processes
+Isobaric
+Isochoric
+Isothermal
+Adiabatic
+Isentropic
+Isenthalpic
+Quasistatic
+Polytropic
+Free expansion
+Reversibility
+Irreversibility
+Endoreversibility
+Cycles
+Heat engines
+Heat pumps
+Thermal efficiency
+System propertiesNote: Conjugate variables in italics
+Property diagrams
+Intensive and extensive properties
+Process functions
+Work
+Heat
+Functions of state
+Temperature / Entropy (introduction)
+Pressure / Volume
+Chemical potential / Particle number
+Vapor quality
+Reduced properties
+Material properties
+Property databases
+Specific heat capacity 
+c
+=
+{\displaystyle c=}
+T
+{\displaystyle T}
+ 
+S
+{\displaystyle \partial S}
+N
+{\displaystyle N}
+ 
+T
+{\displaystyle \partial T}
+Compressibility 
+ 
+=
+ 
+{\displaystyle \beta =-}
+1
+{\displaystyle 1}
+ 
+V
+{\displaystyle \partial V}
+V
+{\displaystyle V}
+ 
+p
+{\displaystyle \partial p}
+Thermal expansion 
+ 
+=
+{\displaystyle \alpha =}
+1
+{\displaystyle 1}
+ 
+V
+{\displaystyle \partial V}
+V
+{\displaystyle V}
+ 
+T
+{\displaystyle \partial T}
+Equations
+Carnot's theorem
+Clausius theorem
+Fundamental relation
+Ideal gas law
+Maxwell relations
+Onsager reciprocal relations
+Bridgman's equations
+Table of thermodynamic equations
+Potentials
+Free energy
+Free entropy
+Internal energy
+U
+(
+S
+,
+V
+)
+{\displaystyle U(S,V)}
+Enthalpy
+H
+(
+S
+,
+p
+)
+=
+U
++
+p
+V
+{\displaystyle H(S,p)=U+pV}
+Helmholtz free energy
+A
+(
+T
+,
+V
+)
+=
+U
+ 
+T
+S
+{\displaystyle A(T,V)=U-TS}
+Gibbs free energy
+G
+(
+T
+,
+p
+)
+=
+H
+ 
+T
+S
+{\displaystyle G(T,p)=H-TS}
+HistoryCulture
+History
+General
+Entropy
+Gas laws
+"Perpetual motion" machines
+Philosophy
+Entropy and time
+Entropy and life
+Brownian ratchet
+Maxwell's demon
+Heat death paradox
+Loschmidt's paradox
+Synergetics
+Theories
+Caloric theory
+Vis viva ("living force")
+Mechanical equivalent of heat
+Motive power
+Key publications
+An Experimental EnquiryConcerning ... Heat
+On the Equilibrium ofHeterogeneous Substances
+Reflections on theMotive Power of Fire
+Timelines
+Thermodynamics
+Heat engines
+ArtEducation
+Maxwell's thermodynamic surface
+Entropy as energy dispersal
+Scientists
+Bernoulli
+Boltzmann
+Bridgman
+Carath odory
+Carnot
+Clapeyron
+Clausius
+de Donder
+Duhem
+Gibbs
+von Helmholtz
+Joule
+Lewis
+Massieu
+Maxwell
+von Mayer
+Nernst
+Onsager
+Planck
+Rankine
+Smeaton
+Stahl
+Tait
+Thompson
+Thomson
+van der Waals
+Waterston
+Other
+Nucleation
+Self-assembly
+Self-organization
+Order and disorder
+ Categoryvte
+In thermodynamics, heat is defined as the form of energy crossing the boundary of a thermodynamic system by virtue of a temperature difference across the boundary.[1] A thermodynamic system does not contain heat. Nevertheless, the term is also often used to refer to the thermal energy contained in a system as a component of its internal energy and that is reflected in the temperature of the system. For both uses of the term, heat is a form of energy.
+An example of formal vs. informal usage may be obtained from the right-hand photo, in which the metal bar is "conducting heat" from its hot end to its cold end, but if the metal bar is considered a thermodynamic system, then the energy flowing within the metal bar is called internal energy, not heat. The hot metal bar is also transferring heat to its surroundings, a correct statement for both the strict and loose meanings of heat.  Another example of informal usage is the term heat content, used despite the fact that physics defines heat as energy transfer. More accurately, it is thermal energy that is contained in the system or body, as it is stored in the microscopic degrees of freedom of the modes of vibration.[2]
+Heat is energy in transfer to or from a thermodynamic system, by a mechanism that involves the microscopic atomic modes of motion or the corresponding macroscopic properties.[3] This descriptive characterization excludes the transfers of energy by thermodynamic work or mass transfer. Defined quantitatively, the heat involved in a process is the difference in internal energy between the final and initial states of a system, and subtracting the work done in the process.[4] This is the formulation of the first law of thermodynamics.
+The measurement of energy transferred as heat is called calorimetry, performed by measuring its effect on the states of interacting bodies. For example, heat can be measured by the amount of ice melted, or by change in temperature of a body in the surroundings of the system.[5]
+In the International System of Units (SI) the unit of measurement for heat, as a form of energy, is the joule (J).
+Notation and units
+As a form of energy, heat has the unit joule (J) in the International System of Units (SI). In addition, many applied branches of engineering use other, traditional units, such as the British thermal unit (BTU) and the calorie. The standard unit for the rate of heating is the watt (W), defined as one joule per second.
+The symbol Q for heat was introduced by Rudolf Clausius and Macquorn Rankine in c. 1859.[6]
+Heat released by a system into its surroundings is by convention a negative quantity (Q < 0); when a system absorbs heat from its surroundings, it is positive (Q > 0). Heat transfer rate, or heat flow per unit time, is denoted by 
+Q
+ 
+{\displaystyle {\dot {Q}}}
+, but it is not a time derivative of a function of state (which can also be written with the dot notation) since heat is not a function of state.[7] Heat flux is defined as rate of heat transfer per unit cross-sectional area (watts per square metre).
+Classical thermodynamics
+Heat and entropy
+Main article: Entropy
+ Rudolf Clausius
+In 1856,  Rudolf Clausius, referring to closed systems, in which transfers of matter do not occur, defined the second fundamental theorem (the second law of thermodynamics) in the mechanical theory of heat (thermodynamics): "if two transformations which, without necessitating any other permanent change, can mutually replace one another, be called equivalent, then the generations of the quantity of heat Q from work at the temperature T, has the equivalence-value:"[8][9]
+Q
+T
+.
+{\displaystyle {\frac {Q}{T}}.}
+In 1865, he came to define the entropy symbolized by S, such that, due to the supply of the amount of heat Q at temperature T the entropy of the system is increased by
+ 
+S
+=
+Q
+T
+{\displaystyle \Delta S={\frac {Q}{T}}}
+ 
+ 
+ 
+ 
+(1)
+In a transfer of energy as heat without work being done, there are changes of entropy in both the surroundings which lose heat and the system which gains it. The increase,  S, of entropy in the system may be considered to consist of two parts, an increment,  S  that matches, or 'compensates', the change,  S , of entropy in the surroundings, and a further increment,  S  that may be considered to be 'generated' or 'produced' in the system, and is said therefore to be 'uncompensated'. Thus
+ 
+S
+=
+ 
+S
+ 
++
+ 
+S
+ 
+.
+{\displaystyle \Delta S=\Delta S'+\Delta S''.}
+This may also be written
+ 
+S
+s
+y
+s
+t
+e
+m
+=
+ 
+S
+c
+o
+m
+p
+e
+n
+s
+a
+t
+e
+d
++
+ 
+S
+u
+n
+c
+o
+m
+p
+e
+n
+s
+a
+t
+e
+d
+with
+ 
+S
+c
+o
+m
+p
+e
+n
+s
+a
+t
+e
+d
+=
+ 
+ 
+S
+s
+u
+r
+r
+o
+u
+n
+d
+i
+n
+g
+s
+.
+{\displaystyle \Delta S_{\mathrm {system} }=\Delta S_{\mathrm {compensated} }+\Delta S_{\mathrm {uncompensated} }\,\,\,\,{\text{with}}\,\,\,\,\Delta S_{\mathrm {compensated} }=-\Delta S_{\mathrm {surroundings} }.}
+The total change of entropy in the system and surroundings is thus
+ 
+S
+o
+v
+e
+r
+a
+l
+l
+=
+ 
+S
+ 
++
+ 
+S
+ 
+ 
+ 
+ 
+S
+ 
+=
+ 
+S
+ 
+ 
+.
+{\displaystyle \Delta S_{\mathrm {overall} }=\Delta S^{\prime }+\Delta S^{\prime \prime }-\Delta S^{\prime }=\Delta S^{\prime \prime }.}
+This may also be written
+ 
+S
+o
+v
+e
+r
+a
+l
+l
+=
+ 
+S
+c
+o
+m
+p
+e
+n
+s
+a
+t
+e
+d
++
+ 
+S
+u
+n
+c
+o
+m
+p
+e
+n
+s
+a
+t
+e
+d
++
+ 
+S
+s
+u
+r
+r
+o
+u
+n
+d
+i
+n
+g
+s
+=
+ 
+S
+u
+n
+c
+o
+m
+p
+e
+n
+s
+a
+t
+e
+d
+.
+{\displaystyle \Delta S_{\mathrm {overall} }=\Delta S_{\mathrm {compensated} }+\Delta S_{\mathrm {uncompensated} }+\Delta S_{\mathrm {surroundings} }=\Delta S_{\mathrm {uncompensated} }.}
+It is then said that an amount of entropy  S  has been transferred from the surroundings to the system. Because entropy is not a conserved quantity, this is an exception to the general way of speaking, in which an amount transferred is of a conserved quantity.
+From the second law of thermodynamics it follows that in a spontaneous transfer of heat, in which the temperature of the system is different from that of the surroundings:
+ 
+S
+o
+v
+e
+r
+a
+l
+l
+>
+0.
+{\displaystyle \Delta S_{\mathrm {overall} }>0.}
+For purposes of mathematical analysis of transfers, one thinks of fictive processes that are called reversible, with the temperature T of the system being hardly less than that of the surroundings, and the transfer taking place at an imperceptibly slow rate.
+Following the definition above in formula (1), for such a fictive reversible process, a quantity of transferred heat  Q (an inexact differential) is analyzed as a quantity T dS, with dS (an exact differential):
+T
+d
+S
+=
+ 
+Q
+.
+{\displaystyle T\,\mathrm {d} S=\delta Q.}
+This equality is only valid for a fictive transfer in which there is no production of entropy, that is to say, in which there is no uncompensated entropy.
+If, in contrast, the process is natural, and can really occur, with irreversibility, then there is entropy production, with dSuncompensated > 0. The quantity T dSuncompensated was termed by Clausius the "uncompensated heat", though that does not accord with present-day terminology. Then one has
+T
+s
+u
+r
+r
+d
+S
+=
+ 
+Q
++
+T
+d
+S
+u
+n
+c
+o
+m
+p
+e
+n
+s
+a
+t
+e
+d
+>
+ 
+Q
+.
+{\displaystyle T_{surr}\,\mathrm {d} S=\delta Q+T\,\mathrm {d} S_{\mathrm {uncompensated} }>\delta Q.}
+This leads to the statement
+T
+s
+u
+r
+r
+d
+S
+ 
+ 
+Q
+(second law)
+.
+{\displaystyle T_{surr}\,\mathrm {d} S\geq \delta Q\quad {\text{(second law)}}\,.}
+which is the second law of thermodynamics for closed systems.
+In non-equilibrium thermodynamics that makes the approximation of assuming the hypothesis of local thermodynamic equilibrium, there is a special notation for this. The transfer of energy as heat is assumed to take place across an infinitesimal temperature difference, so that the system element and its surroundings have near enough the same temperature T. Then one writes
+d
+S
+=
+d
+S
+e
++
+d
+S
+i
+,
+{\displaystyle \mathrm {d} S=\mathrm {d} S_{\mathrm {e} }+\mathrm {d} S_{\mathrm {i} }\,,}
+where by definition
+ 
+Q
+=
+T
+d
+S
+e
+and
+d
+S
+i
+ 
+d
+S
+u
+n
+c
+o
+m
+p
+e
+n
+s
+a
+t
+e
+d
+.
+{\displaystyle \delta Q=T\,\mathrm {d} S_{\mathrm {e} }\,\,\,\,\,{\text{and}}\,\,\,\,\,\mathrm {d} S_{\mathrm {i} }\equiv \mathrm {d} S_{\mathrm {uncompensated} }.}
+The second law for a natural process asserts that[10][11][12][13]
+d
+S
+i
+>
+0.
+{\displaystyle \mathrm {d} S_{\mathrm {i} }>0.}
+Heat and enthalpy
+Further information: Internal energy and Enthalpy
+For a closed system (a system from which no matter can enter or exit), one version of the first law of thermodynamics states that the change in internal energy  U of the system is equal to the amount of heat Q supplied to the system minus the amount of thermodynamic work W done by system on its surroundings. The foregoing sign convention for work is used in the present article, but an alternate sign convention, followed by IUPAC, for work, is to consider the work performed on the system by its surroundings as positive. This is the convention adopted by many modern textbooks of physical chemistry, such as those by Peter Atkins and Ira Levine, but many textbooks on physics define work as work done by the system.
+ 
+U
+=
+Q
+ 
+W
+.
+{\displaystyle \Delta U=Q-W\,.}
+This formula can be re-written so as to express a definition of quantity of energy transferred as heat, based purely on the concept of adiabatic work, if it is supposed that  U is defined and measured solely by processes of adiabatic work:
+Q
+=
+ 
+U
++
+W
+.
+{\displaystyle Q=\Delta U+W.}
+The thermodynamic work done by the system is through mechanisms defined by its thermodynamic state variables, for example, its volume V, not through variables that necessarily involve mechanisms in the surroundings. The latter are such as shaft work, and include isochoric work.
+The internal energy, U, is a state function. In cyclical processes, such as the operation of a heat engine, state functions of the working substance return to their initial values upon completion of a cycle.
+The differential, or infinitesimal increment, for the internal energy in an infinitesimal process is an exact differential dU. The symbol for exact differentials is the lowercase letter d.
+In contrast, neither of the infinitesimal increments  Q nor  W in an infinitesimal process represents the change in a state function of the system. Thus, infinitesimal increments of heat and work are inexact differentials. The lowercase Greek letter delta,  , is the symbol for inexact differentials. The integral of any inexact differential in a process where the system leaves and then returns to the same thermodynamic state does not necessarily equal zero.
+As recounted above, in the section headed heat and entropy, the second law of thermodynamics observes that if heat is supplied to a system in a reversible process, the increment of heat  Q and the temperature T form the exact differential
+d
+S
+=
+ 
+Q
+T
+,
+{\displaystyle \mathrm {d} S={\frac {\delta Q}{T}},}
+and that S, the entropy of the working body, is a state function. Likewise, with a well-defined pressure, P, behind a slowly moving (quasistatic) boundary, the work differential,  W, and the pressure, P, combine to form the exact differential
+d
+V
+=
+ 
+W
+P
+,
+{\displaystyle \mathrm {d} V={\frac {\delta W}{P}},}
+with V the volume of the system, which is a state variable. In general, for systems of uniform pressure and temperature without composition change,
+d
+U
+=
+T
+d
+S
+ 
+P
+d
+V
+.
+{\displaystyle \mathrm {d} U=T\mathrm {d} S-P\mathrm {d} V.}
+Associated with this differential equation is the concept that the internal energy may be considered to be a function U (S,V) of its natural variables S and V. The internal energy representation of the fundamental thermodynamic relation is written as[14][15]
+U
+=
+U
+(
+S
+,
+V
+)
+.
+{\displaystyle U=U(S,V).}
+If V is constant
+T
+d
+S
+=
+d
+U
+(
+V
+constant)
+{\displaystyle T\mathrm {d} S=\mathrm {d} U\,\,\,\,\,\,\,\,\,\,\,\,(V\,\,{\text{constant)}}}
+and if P is constant
+T
+d
+S
+=
+d
+H
+(
+P
+constant)
+{\displaystyle T\mathrm {d} S=\mathrm {d} H\,\,\,\,\,\,\,\,\,\,\,\,(P\,\,{\text{constant)}}}
+with the enthalpy H defined by
+H
+=
+U
++
+P
+V
+.
+{\displaystyle H=U+PV.}
+The enthalpy may be considered to be a function H(S, P) of its natural variables S and P. The enthalpy representation of the fundamental thermodynamic relation is written[15][16]
+H
+=
+H
+(
+S
+,
+P
+)
+.
+{\displaystyle H=H(S,P).}
+The internal energy representation and the enthalpy representation are partial Legendre transforms of one another. They contain the same physical information, written in different ways. Like the internal energy, the enthalpy stated as a function of its natural variables is a thermodynamic potential and contains all thermodynamic information about a body.[16][17]
+If a quantity Q of heat is added to a body while it does only expansion work W on its surroundings, one has
+ 
+H
+=
+ 
+U
++
+ 
+(
+P
+V
+)
+.
+{\displaystyle \Delta H=\Delta U+\Delta (PV)\,.}
+If this is constrained to happen at constant pressure, i.e. with  P = 0, the expansion work W done by the body is given by W = P  V; recalling the first law of thermodynamics, one has
+ 
+U
+=
+Q
+ 
+W
+=
+Q
+ 
+P
+ 
+V
+ and 
+ 
+(
+P
+V
+)
+=
+P
+ 
+V
+.
+{\displaystyle \Delta U=Q-W=Q-P\,\Delta V{\text{   and   }}\Delta (PV)=P\,\Delta V\,.}
+Consequently, by substitution one has
+ 
+H
+=
+Q
+ 
+P
+ 
+V
++
+P
+ 
+V
+=
+Q
+at constant pressure without electrical work.
+{\displaystyle {\begin{aligned}\Delta H&=Q-P\,\Delta V+P\,\Delta V\\&=Q\qquad \qquad \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,{\text{at constant pressure without electrical work.}}\end{aligned}}}
+In this scenario, the increase in enthalpy is equal to the quantity of heat added to the system. This is the basis of the determination of enthalpy changes in chemical reactions by calorimetry. Since many processes do take place at constant atmospheric pressure, the enthalpy is sometimes given the misleading name of 'heat content'[18] or  heat function,[19] while it actually depends strongly on the energies of covalent bonds and intermolecular forces.
+In terms of the natural variables S and P of the state function H, this process of change of state from state 1 to state 2 can be expressed as
+ 
+H
+=
+ 
+S
+1
+S
+2
+(
+ 
+H
+ 
+S
+)
+P
+d
+S
++
+ 
+P
+1
+P
+2
+(
+ 
+H
+ 
+P
+)
+S
+d
+P
+=
+ 
+S
+1
+S
+2
+(
+ 
+H
+ 
+S
+)
+P
+d
+S
+at constant pressure without electrical work.
+{\displaystyle {\begin{aligned}\Delta H&=\int _{S_{1}}^{S_{2}}\left({\frac {\partial H}{\partial S}}\right)_{P}\mathrm {d} S+\int _{P_{1}}^{P_{2}}\left({\frac {\partial H}{\partial P}}\right)_{S}\mathrm {d} P\\&=\int _{S_{1}}^{S_{2}}\left({\frac {\partial H}{\partial S}}\right)_{P}\mathrm {d} S\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,{\text{at constant pressure without electrical work.}}\end{aligned}}}
+It is known that the temperature T(S, P) is identically stated by
+(
+ 
+H
+ 
+S
+)
+P
+ 
+T
+(
+S
+,
+P
+)
+.
+{\displaystyle \left({\frac {\partial H}{\partial S}}\right)_{P}\equiv T(S,P)\,.}
+Consequently,
+ 
+H
+=
+ 
+S
+1
+S
+2
+T
+(
+S
+,
+P
+)
+d
+S
+at constant pressure without electrical work.
+{\displaystyle \Delta H=\int _{S_{1}}^{S_{2}}T(S,P)\mathrm {d} S\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,{\text{at constant pressure without electrical work.}}}
+In this case, the integral specifies a quantity of heat transferred at constant pressure.
+History
+Main article: History of thermodynamics
+As a common noun, English heat or warmth (just as French chaleur, German W rme, Latin calor, Greek  , etc.) refers to (the human perception of) either thermal energy or temperature. Speculation on thermal energy or "heat" as a separate form of matter has a long history, identified as caloric theory, phlogiston theory, and fire.
+The modern understanding of thermal energy originates with Thompson's 1798 mechanical theory of heat (An Experimental Enquiry Concerning the Source of the Heat which is Excited by Friction), postulating a mechanical equivalent of heat.
+A collaboration between Nicolas Cl ment and Sadi Carnot (Reflections on the Motive Power of Fire)  in the 1820s had some related thinking along similar lines.[20] In 1845, Joule published a paper entitled The Mechanical Equivalent of Heat, in which he specified a numerical value for the amount of mechanical work required to "produce a unit of heat".
+The theory of classical thermodynamics matured in the 1850s to 1860s. John Tyndall's Heat Considered as Mode of Motion (1863) was instrumental in popularizing the idea of heat as motion to the English-speaking public.
+The theory was developed in academic publications in French, English and German. From an early time, the French technical term chaleur used by Carnot was taken as equivalent to the English heat and German W rme (lit. "warmth", while the equivalent of heat would be German Hitze).
+The process function Q  was  introduced by Rudolf Clausius in 1850.
+Clausius described it with the German compound W rmemenge, translated as "amount of heat".[21]
+James Clerk Maxwell in his 1871  Theory of Heat outlines four stipulations for the definition of heat:
+It is something which may be transferred from one body to another, according to the second law of thermodynamics.
+It is a measurable quantity, and so can be treated mathematically.
+It cannot be treated as a material substance, because it may be transformed into something that is not a material substance, e.g., mechanical work.
+Heat is one of the forms of energy.[22]
+The process function Q is referred to as W rmemenge by Clausius, or as "amount of heat" in translation.
+Use of "heat" as an abbreviated form of the specific concept of "quantity of energy transferred as heat" led to some terminological confusion by the early 20th century. The generic meaning of "heat", even in classical thermodynamics, is just "thermal energy".[23]
+Since the 1920s, it has been recommended practice to use enthalpy to refer to the "heat content at constant volume", and to thermal energy when "heat" in the general sense is intended, while "heat" is reserved for the very specific context of the transfer of thermal energy between two systems.
+Leonard Benedict Loeb in his Kinetic Theory of Gases (1927) makes a point of using "quantity of heat"
+or "heat quantity" when referring to Q:[24]
+After the perfection of thermometry [...] the next great advance made in the field of heat was the definition of a term which is called the quantity of heat.  [... after the abandonment of caloric theory,] It still remains to interpret this very definite concept, the quantity of heat, in terms of a theory ascribing all heat to the kinetics of gas molecules.
+[25]
+Today's narrow definition of heat in physics contrasts with its use in common language, in some engineering disciplines, and in the historical scientific development of thermodynamics in the caloric theory. The terminology of heat in these instances may be replaced accurately with entropy.[26][27]
+Richard Feynman introduced heat with a physical depiction, as associated with the jiggling motion of atoms and molecules, with faster motion corresponding to increased temperature.[28]  To explain physics further, he used the term "heat energy,"[29] along with "heat".[30]
+Carath odory (1909)
+A frequent definition of heat is based on the work of Carath odory (1909), referring to processes in a closed system.[31][32][33][34][35][36]
+The internal energy UX of a body in an arbitrary state X can be determined by amounts of work adiabatically performed by the body on its surroundings when it starts from a reference state O. Such work is assessed through quantities defined in the surroundings of the body. It is supposed that such work can be assessed accurately, without error due to friction in the surroundings; friction in the body is not excluded by this definition. The adiabatic performance of work is defined in terms of adiabatic walls, which allow transfer of energy as work, but no other transfer, of energy or matter. In particular they do not allow the passage of energy as heat. According to this definition, work performed adiabatically is in general accompanied by friction within the thermodynamic system or body. On the other hand, according to Carath odory (1909), there also exist non-adiabatic, diathermal walls, which are postulated to be permeable only to heat.
+For the definition of quantity of energy transferred as heat, it is customarily envisaged that an arbitrary state of interest Y is reached from state O by a process with two components, one adiabatic and the other not adiabatic. For convenience one may say that the adiabatic component was the sum of work done by the body through volume change through movement of the walls while the non-adiabatic wall was temporarily rendered adiabatic, and of isochoric adiabatic work. Then the non-adiabatic component is a process of energy transfer through the wall that passes only heat, newly made accessible for the purpose of this transfer, from the surroundings to the body. The change in internal energy to reach the state Y from the state O is the difference of the two amounts of energy transferred.
+Although Carath odory himself did not state such a definition, following his work it is customary in theoretical studies to define heat, Q, to the body from its surroundings, in the combined process of change to state Y from the state O, as the change in internal energy,  UY, minus the amount of work, W, done by the body on its surrounds by the adiabatic process, so that Q =  UY   W.
+In this definition, for the sake of conceptual rigour, the quantity of energy transferred as heat is not specified directly in terms of the non-adiabatic process. It is defined through knowledge of precisely two variables, the change of internal energy and the amount of adiabatic work done, for the combined process of change from the reference state O to the arbitrary state Y. It is important that this does not explicitly involve the amount of energy transferred in the non-adiabatic component of the combined process. It is assumed here that the amount of energy required to pass from state O to state Y, the change of internal energy, is known, independently of the combined process, by a determination through a purely adiabatic process, like that for the determination of the internal energy of state X above. The rigour that is prized in this definition is that there is one and only one kind of energy transfer admitted as fundamental: energy transferred as work. Energy transfer as heat is considered as a derived quantity. The uniqueness of work in this scheme is considered to guarantee rigor and purity of conception. The conceptual purity of this definition, based on the concept of energy transferred as work as an ideal notion, relies on the idea that some frictionless and otherwise non-dissipative processes of energy transfer can be realized in physical actuality. The second law of thermodynamics, on the other hand, assures us that such processes are not found in nature.
+Before the rigorous mathematical definition of heat based on Carath odory's 1909 paper,
+historically, heat, temperature, and thermal equilibrium were presented in thermodynamics textbooks as jointly primitive notions.[37] Carath odory introduced his 1909 paper thus: "The proposition that the discipline of thermodynamics can be justified without recourse to any hypothesis that cannot be verified experimentally must be regarded as one of the most noteworthy results of the research in thermodynamics that was accomplished during the last century." Referring to the "point of view adopted by most authors who were active in the last fifty years", Carath odory wrote: "There exists a physical quantity called heat that is not identical with the mechanical quantities (mass, force, pressure, etc.) and whose variations can be determined by calorimetric measurements." James Serrin introduces an account of the theory of thermodynamics thus: "In the following section, we shall use the classical notions of heat, work, and hotness as primitive elements, ... That heat is an appropriate and natural primitive for thermodynamics was already accepted by Carnot. Its continued validity as a primitive element of thermodynamical structure is due to the fact that it synthesizes an essential physical concept, as well as to its successful use in recent work to unify different constitutive theories."[38][39] This traditional kind of presentation of the basis of thermodynamics includes ideas that may be summarized by the statement that heat transfer is purely due to spatial non-uniformity of temperature, and is by conduction and radiation, from hotter to colder bodies. It is sometimes proposed that this traditional kind of presentation necessarily rests on "circular reasoning"; against this proposal, there stands the rigorously logical mathematical development of the theory presented by Truesdell and Bharatha (1977).[40]
+This alternative approach to the definition of quantity of energy transferred as heat differs in logical structure from that of Carath odory, recounted just above.
+This alternative approach admits calorimetry as a primary or direct way to measure quantity of energy transferred as heat. It relies on temperature as one of its primitive concepts, and used in calorimetry.[41] It is presupposed that enough processes exist physically to allow measurement of differences in internal energies. Such processes are not restricted to adiabatic transfers of energy as work. They include calorimetry, which is the commonest practical way of finding internal energy differences.[42] The needed temperature can be either empirical or absolute thermodynamic.
+In contrast, the Carath odory way recounted just above does not use calorimetry or temperature in its primary definition of quantity of energy transferred as heat. The Carath odory way regards calorimetry only as a secondary or indirect way of measuring quantity of energy transferred as heat. As recounted in more detail just above, the Carath odory way regards quantity of energy transferred as heat in a process as primarily or directly defined as a residual quantity. It is calculated from the difference of the internal energies of the initial and final states of the system, and from the actual work done by the system during the process. That internal energy difference is supposed to have been measured in advance through processes of purely adiabatic transfer of energy as work, processes that take the system between the initial and final states. By the Carath odory way it is presupposed as known from experiment that there actually physically exist enough such adiabatic processes, so that there need be no recourse to calorimetry for measurement of quantity of energy transferred as heat. This presupposition is essential but is explicitly labeled neither as a law of thermodynamics nor as an axiom of the Carath odory way. In fact, the actual physical existence of such adiabatic processes is indeed mostly supposition, and those supposed processes have in most cases not been actually verified empirically to exist.[43]
+Heat transfer
+Main article: Heat transfer
+Heat transfer between two bodies
+Referring to conduction, Partington writes: "If a hot body is brought in conducting contact with a cold body, the temperature of the hot body falls and that of the cold body rises, and it is said that a quantity of heat has passed from the hot body to the cold body."[44]
+Referring to radiation, Maxwell writes: "In Radiation, the hotter body loses heat, and the colder body receives heat by means of a process occurring in some intervening medium which does not itself thereby become hot."[45]
+Maxwell writes that convection as such "is not a purely thermal phenomenon".[46] In thermodynamics, convection in general is regarded as transport of internal energy. If, however, the convection is enclosed and circulatory, then it may be regarded as an intermediary that transfers energy as heat between source and destination bodies, because it transfers only energy and not matter from the source to the destination body.[47]
+In accordance with the first law for closed systems, energy transferred solely as heat leaves one body and enters another, changing the internal energies of each. Transfer, between bodies, of energy as work is a complementary way of changing internal energies. Though it is not logically rigorous from the viewpoint of strict physical concepts, a common form of words that expresses this is to say that heat and work are interconvertible.
+Cyclically operating engines that use only heat and work transfers have two thermal reservoirs, a hot and a cold one. They may be classified by the range of operating temperatures of the working body, relative to those reservoirs. In a heat engine, the working body is at all times colder than the hot reservoir and hotter than the cold reservoir. In a sense, it uses heat transfer to produce work. In a heat pump, the working body, at stages of the cycle, goes both hotter than the hot reservoir, and colder than the cold reservoir. In a sense, it uses work to produce heat transfer.
+Heat engine
+In classical thermodynamics, a commonly considered model is the heat engine. It consists of four bodies: the working body, the hot reservoir, the cold reservoir, and the work reservoir. A cyclic process leaves the working body in an unchanged state, and is envisaged as being repeated indefinitely often. Work transfers between the working body and the work reservoir are envisaged as reversible, and thus only one work reservoir is needed. But two thermal reservoirs are needed, because transfer of energy as heat is irreversible. A single cycle sees energy taken by the working body from the hot reservoir and sent to the two other reservoirs, the work reservoir and the cold reservoir. The hot reservoir always and only supplies energy and the cold reservoir always and only receives energy. The second law of thermodynamics requires that no cycle can occur in which no energy is received by the cold reservoir. Heat engines achieve higher efficiency when the ratio of the initial and final temperature is greater.
+Heat pump or refrigerator
+Another commonly considered model is the heat pump or refrigerator. Again there are four bodies: the working body, the hot reservoir, the cold reservoir, and the work reservoir. A single cycle starts with the working body colder than the cold reservoir, and then energy is taken in as heat by the working body from the cold reservoir. Then the work reservoir does work on the working body, adding more to its internal energy, making it hotter than the hot reservoir. The hot working body passes heat to the hot reservoir, but still remains hotter than the cold reservoir. Then, by allowing it to expand without passing heat to another body, the working body is made colder than the cold reservoir. It can now accept heat transfer from the cold reservoir to start another cycle.
+The device has transported energy from a colder to a hotter reservoir, but this is not regarded as by an inanimate agency; rather, it is regarded as by the harnessing of work . This is because work is supplied from the work reservoir, not just by a simple thermodynamic process, but by a cycle of thermodynamic operations and processes, which may be regarded as directed by an animate or harnessing agency. Accordingly, the cycle is still in accord with the second law of thermodynamics. The 'efficiency' of a heat pump (which exceeds unity) is best when the temperature difference between the hot and cold reservoirs is least.
+Functionally, such engines are used in two ways, distinguishing a target reservoir and a resource or surrounding reservoir. A heat pump transfers heat to the hot reservoir as the target from the resource or surrounding reservoir. A refrigerator transfers heat, from the cold reservoir as the target, to the resource or surrounding reservoir. The target reservoir may be regarded as leaking: when the target leaks heat to the surroundings, heat pumping is used; when the target leaks coldness to the surroundings, refrigeration is used. The engines harness work to overcome the leaks.
+Macroscopic view
+This section may need to be rewritten to comply with Wikipedia's quality standards. You can help. The talk page may contain suggestions. (May 2016)
+According to Planck, there are three main conceptual approaches to heat.[48] One is the microscopic or kinetic theory approach. The other two are macroscopic approaches. One is the approach through the law of conservation of energy taken as prior to thermodynamics, with a mechanical analysis of processes, for example in the work of Helmholtz. This mechanical view is taken in this article as currently customary for thermodynamic theory. The other macroscopic approach is the thermodynamic one, which admits heat as a primitive concept, which contributes, by scientific induction[49] to knowledge of the law of conservation of energy. This view is widely taken as the practical one, quantity of heat being measured by calorimetry.
+Bailyn also distinguishes the two macroscopic approaches as the mechanical and the thermodynamic.[50] The thermodynamic view was taken by the founders of thermodynamics in the nineteenth century. It regards quantity of energy transferred as heat as a primitive concept coherent with a primitive concept of temperature, measured primarily by calorimetry. A calorimeter is a body in the surroundings of the system, with its own temperature and internal energy; when it is connected to the system by a path for heat transfer, changes in it measure heat transfer. The mechanical view was pioneered by Helmholtz and developed and used in the twentieth century, largely through the influence of Max Born.[51] It regards quantity of heat transferred as heat as a derived concept, defined for closed systems as quantity of heat transferred by mechanisms other than work transfer, the latter being regarded as primitive for thermodynamics, defined by macroscopic mechanics. According to Born, the transfer of internal energy between open systems that accompanies transfer of matter "cannot be reduced to mechanics".[52] It follows that there is no well-founded definition of quantities of energy transferred as heat or as work associated with transfer of matter.
+Nevertheless, for the thermodynamical description of non-equilibrium processes, it is desired to consider the effect of a temperature gradient established by the surroundings across the system of interest when there is no physical barrier or wall between system and surroundings, that is to say, when they are open with respect to one another. The impossibility of a mechanical definition in terms of work for this circumstance does not alter the physical fact that a temperature gradient causes a diffusive flux of internal energy, a process that, in the thermodynamic view, might be proposed as a candidate concept for transfer of energy as heat.
+In this circumstance, it may be expected that there may also be active other drivers of diffusive flux of internal energy, such as gradient of chemical potential which drives transfer of matter, and gradient of electric potential which drives electric current and iontophoresis; such effects usually interact with diffusive flux of internal energy driven by temperature gradient, and such interactions are known as cross-effects.[53]
+If cross-effects that result in diffusive transfer of internal energy were also labeled as heat transfers, they would sometimes violate the rule that pure heat transfer occurs only down a temperature gradient, never up one. They would also contradict the principle that all heat transfer is of one and the same kind, a principle founded on the idea of heat conduction between closed systems. One might to try to think narrowly of heat flux driven purely by temperature gradient as a conceptual component of diffusive internal energy flux, in the thermodynamic view, the concept resting specifically on careful calculations based on detailed knowledge of the processes and being indirectly assessed. In these circumstances, if perchance it happens that no transfer of matter is actualized, and there are no cross-effects, then the thermodynamic concept and the mechanical concept coincide, as if one were dealing with closed systems. But when there is transfer of matter, the exact laws by which temperature gradient drives diffusive flux of internal energy, rather than being exactly knowable, mostly need to be assumed, and in many cases are practically unverifiable. Consequently, when there is transfer of matter, the calculation of the pure 'heat flux' component of the diffusive flux of internal energy rests on practically unverifiable assumptions.[54][quotations 1][55] This is a reason to think of heat as a specialized concept that relates primarily and precisely to closed systems, and applicable only in a very restricted way to open systems.
+In many writings in this context, the term "heat flux" is used when what is meant is therefore more accurately called diffusive flux of internal energy; such usage of the term "heat flux" is a residue of older and now obsolete language usage that allowed that a body may have a "heat content".[56]
+Microscopic view
+In the kinetic theory, heat is explained in terms of the microscopic motions and interactions of constituent particles, such as electrons, atoms, and molecules.[57] The immediate meaning of the kinetic energy of the constituent particles is not as heat. It is as a component of internal energy.
+In microscopic terms, heat is a transfer quantity, and is described by a transport theory, not as steadily localized kinetic energy of particles. Heat transfer arises from temperature gradients or differences, through the diffuse exchange of microscopic kinetic and potential particle energy, by particle collisions and other interactions. An early and vague expression of this was made by Francis Bacon.[58][59] Precise and detailed versions of it were developed in the nineteenth century.[60]
+In statistical mechanics, for a closed system (no transfer of matter), heat is the energy transfer associated with a disordered, microscopic action on the system, associated with jumps in occupation numbers of the energy levels of the system, without change in the values of the energy levels themselves.[61] It is possible for macroscopic thermodynamic work to alter the occupation numbers without change in the values of the system energy levels themselves, but what distinguishes transfer as heat is that the transfer is entirely due to disordered, microscopic action, including radiative transfer. A mathematical definition can be formulated for small increments of quasi-static adiabatic work in terms of the statistical distribution of an ensemble of microstates.
+Calorimetry
+Main article: Calorimetry
+Quantity of heat transferred can be measured by calorimetry, or determined through calculations based on other quantities.
+Calorimetry is the empirical basis of the idea of quantity of heat transferred in a process. The transferred heat is measured by changes in a body of known properties, for example, temperature rise, change in volume or length, or phase change, such as melting of ice.[62][63]
+A calculation of quantity of heat transferred can rely on a hypothetical quantity of energy transferred as adiabatic work and on the first law of thermodynamics. Such calculation is the primary approach of many theoretical studies of quantity of heat transferred.[31][64][65]
+Engineering
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2016) (Learn how and when to remove this template message)
+ A red-hot iron rod from which heat transfer to the surrounding environment will be primarily through radiation.
+The discipline of heat transfer, typically considered an aspect of mechanical engineering and chemical engineering, deals with specific applied methods by which thermal energy in a system is generated, or converted, or transferred to another system. Although the definition of heat implicitly means the transfer of energy, the term heat transfer encompasses this traditional usage in many engineering disciplines and laymen language.
+Heat transfer is generally described as including the mechanisms of heat conduction, heat convection, thermal radiation, but may include mass transfer and heat in processes of phase changes.
+Convection may be described as the combined effects of conduction and fluid flow. From the thermodynamic point of view, heat flows into a fluid by diffusion to increase its energy, the fluid then transfers (advects) this increased internal energy (not heat) from one location to another, and this is then followed by a second thermal interaction which transfers heat to a second body or system, again by diffusion. This entire process is often regarded as an additional mechanism of heat transfer, although technically, "heat transfer" and thus heating and cooling occurs only on either end of such a conductive flow, but not as a result of flow. Thus, conduction can be said to "transfer" heat only as a net result of the process, but may not do so at every time within the complicated convective process.
+Latent and sensible heat
+ Joseph Black
+In an 1847 lecture entitled On Matter, Living Force, and Heat, James Prescott Joule characterized the terms latent heat and sensible heat as components of heat each affecting distinct physical phenomena, namely the potential and kinetic energy of particles, respectively.[66][quotations 2]
+He described latent energy as the energy possessed via a distancing of particles where attraction was over a greater distance, i.e. a form of potential energy, and the sensible heat as an energy involving the motion of particles, i.e. kinetic energy.
+Latent heat is the heat released or absorbed by a chemical substance or a thermodynamic system during a change of state that occurs without a change in temperature. Such a process may be a phase transition, such as the melting of ice or the boiling of water.[67][68]
+Heat capacity
+Heat capacity is a measurable physical quantity equal to the ratio of the heat added to an object to the resulting temperature change.[69] The molar heat capacity is the heat capacity per unit amount (SI unit: mole) of a pure substance, and the specific heat capacity, often called simply specific heat, is the heat capacity per unit mass of a material. Heat capacity is a physical property of a substance, which means that it depends on the state and properties of the substance under consideration.
+The specific heats of monatomic gases, such as helium, are nearly constant with temperature. Diatomic gases such as hydrogen display some temperature dependence, and triatomic gases (e.g., carbon dioxide) still more.
+Before the development of the laws of thermodynamics, heat was measured by changes in the states of the participating bodies.
+Some general rules, with important exceptions, can be stated as follows.
+In general, most bodies expand on heating. In this circumstance, heating a body at a constant volume increases the pressure it exerts on its constraining walls, while heating at a constant pressure increases its volume.
+Beyond this, most substances have three ordinarily recognized states of matter, solid, liquid, and gas. Some can also exist in a plasma. Many have further, more finely differentiated, states of matter, such as glass and liquid crystal. In many cases, at fixed temperature and pressure, a substance can exist in several distinct states of matter in what might be viewed as the same 'body'. For example, ice may float in a glass of water. Then the ice and the water are said to constitute two phases within the 'body'. Definite rules are known, telling how distinct phases may coexist in a 'body'. Mostly, at a fixed pressure, there is a definite temperature at which heating causes a solid to melt or evaporate, and a definite temperature at which heating causes a liquid to evaporate. In such cases, cooling has the reverse effects.
+All of these, the commonest cases, fit with a rule that heating can be measured by changes of state of a body. Such cases supply what are called thermometric bodies, that allow the definition of empirical temperatures. Before 1848, all temperatures were defined in this way. There was thus a tight link, apparently logically determined, between heat and temperature, though they were recognized as conceptually thoroughly distinct, especially by Joseph Black in the later eighteenth century.
+There are important exceptions. They break the obviously apparent link between heat and temperature. They make it clear that empirical definitions of temperature are contingent on the peculiar properties of particular thermometric substances, and are thus precluded from the title 'absolute'. For example, water contracts on being heated near 277 K. It cannot be used as a thermometric substance near that temperature. Also, over a certain temperature range, ice contracts on heating. Moreover, many substances can exist in metastable states, such as with negative pressure, that survive only transiently and in very special conditions. Such facts, sometimes called 'anomalous', are some of the reasons for the thermodynamic definition of absolute temperature.
+In the early days of measurement of high temperatures, another factor was important, and used by Josiah Wedgwood in his pyrometer. The temperature reached in a process was estimated by the shrinkage of a sample of clay. The higher the temperature, the more the shrinkage. This was the only available more or less reliable method of measurement of temperatures above 1000 C (1,832  F). But such shrinkage is irreversible. The clay does not expand again on cooling. That is why it could be used for the measurement. But only once. It is not a thermometric material in the usual sense of the word.
+Nevertheless, the thermodynamic definition of absolute temperature does make essential use of the concept of heat, with proper circumspection.
+"Hotness"
+The property of hotness is a concern of thermodynamics that should be defined without reference to the concept of heat. Consideration of hotness leads to the concept of empirical temperature.[70][71] All physical systems are capable of heating or cooling others.[72] With reference to hotness, the comparative terms hotter and colder are defined by the rule that heat flows from the hotter body to the colder.[73][74][75]
+If a physical system is inhomogeneous or very rapidly or irregularly changing, for example by turbulence, it may be impossible to characterize it by a temperature, but still there can be transfer of energy as heat between it and another system. If a system has a physical state that is regular enough, and persists long enough to allow it to reach thermal equilibrium with a specified thermometer, then it has a temperature according to that thermometer. An empirical thermometer registers degree of hotness for such a system. Such a temperature is called empirical.[76][77][78] For example, Truesdell writes about classical thermodynamics: "At each time, the body is assigned a real number called the temperature. This number is a measure of how hot the body is."[79]
+Physical systems that are too turbulent to have temperatures may still differ in hotness. A physical system that passes heat to another physical system is said to be the hotter of the two. More is required for the system to have a thermodynamic temperature. Its behavior must be so regular that its empirical temperature is the same for all suitably calibrated and scaled thermometers, and then its hotness is said to lie on the one-dimensional hotness manifold. This is part of the reason why heat is defined following Carath odory and Born, solely as occurring other than by work or transfer of matter; temperature is advisedly and deliberately not mentioned in this now widely accepted definition.
+This is also the reason that the zeroth law of thermodynamics is stated explicitly. If three physical systems, A, B, and C are each not in their own states of internal thermodynamic equilibrium, it is possible that, with suitable physical connections being made between them, A can heat B and B can heat C and C can heat A. In non-equilibrium situations, cycles of flow are possible. It is the special and uniquely distinguishing characteristic of internal thermodynamic equilibrium that this possibility is not open to thermodynamic systems (as distinguished amongst physical systems) which are in their own states of internal thermodynamic equilibrium; this is the reason why the zeroth law of thermodynamics needs explicit statement. That is to say, the relation 'is not colder than' between general non-equilibrium physical systems is not transitive, whereas, in contrast, the relation 'has no lower a temperature than' between thermodynamic systems in their own states of internal thermodynamic equilibrium is transitive. It follows from this that the relation 'is in thermal equilibrium with' is transitive, which is one way of stating the zeroth law.
+Just as temperature may be undefined for a sufficiently inhomogeneous system, so also may entropy be undefined for a system not in its own state of internal thermodynamic equilibrium. For example, 'the temperature of the solar system' is not a defined quantity. Likewise, 'the entropy of the solar system' is not defined in classical thermodynamics. It has not been possible to define non-equilibrium entropy, as a simple number for a whole system, in a clearly satisfactory way.[80]
+See also
+Energy portal
+Effect of sun angle on climate
+Heat death of the Universe
+Heat diffusion
+Heat equation
+Heat exchanger
+Heat wave
+Heat flux sensor
+Heat transfer coefficient
+History of heat
+Orders of magnitude (temperature)
+Sigma heat
+Shock heating
+Thermal battery
+Thermal management of electronic devices and systems
+Thermometer
+Relativistic heat conduction
+Uniform Mechanical Code
+Uniform Solar Energy and Hydronics Code
+Waste heat
+References
+^ Van Wylen, Gordon; Sonntag, Richard (1978). Fundamentals of Classical Thermodynamics (Second edition, SI Version, Revised Printing ed.). Chapter 4.7, Definition of Heat: John Wiley & Sons. p. 76. ISBN 0-471-04188-2.{{cite book}}:  CS1 maint: location (link)
+^ D.V. Schroeder (1999). An Introduction to Thermal Physics. Addison-Wesley. p. 15. ISBN 0-201-38027-7.
+^ Herbert B. Callen (1985). Thermodynamics and an Introduction to Thermostatics (2 ed.). John Wiley & Sons. http://cvika.grimoar.cz/callen/ Archived 17 October 2018 at the Wayback Machine or http://keszei.chem.elte.hu/1alapFizkem/H.B.Callen-Thermodynamics.pdf Archived 30 December 2016 at the Wayback Machine , p. 8: Energy may be transferred via ... work. "But it is equally possible to transfer energy via the hidden atomic modes of motion as well as via those that happen to be macroscopically observable. An energy transfer via the hidden atomic modes is called heat."
+^ Callen, p.19
+^ Maxwell, J.C. (1871), Chapter III.
+^ Macquorn Rankine 
+in the same year used the same symbol. The two physicists were in correspondence at the time, so that it is difficult to say which of the two first introduced the symbol. (Kenneth L. Caneva, Helmholtz and the Conservation of Energy: Contexts of Creation and Reception (2021), p. 562.
+^ Baierlein, R. (1999), p. 21.
+^ Clausius, R. (1854).
+^ Clausius, R. (1865), pp. 125 126.
+^ De Groot, S.R., Mazur, P. (1962), p. 20.
+^ Kondepudi, D, Prigogine, I. (1998), p. 82.
+^ Kondepudi, D. (2008), p. 114.
+^ Lebon, g., Jou, D., Casas-V squez, J. (2008), p. 41.
+^ Callen, H.B., (1985), Section 2-3, pp. 40 42.
+^ a b Adkins, C.J. (1983), p. 101.
+^ a b Callen, H.B. (1985), p. 147.
+^ Adkins, C.J. (1983), pp. 100 104.
+^ Adkins, C.J. (1968/1983), p. 46.
+^ Bailyn, M. (1994), p. 208.
+^ Lervig, P. Sadi Carnot and the steam engine:Nicolas Cl ment's lectures on industrial chemistry, 1823 28. Br. J Hist. Sci. 18:147, 1985.
+^ 
+ Die W rmemenge, welche dem Gase mitgetheilt werden muss, w hrend es aus irgend einem fr heren Zustande auf einem bestimmten Wege in den Zustand  bergef hrt wird, in welchem sein Volumen = v und seine Temperatur = t ist, m ge Q heissen
+(R. Clausius, Ueber die bewegende Kraft der W rme und die Gesetze, welche sich daraus f r die W rmelehre selbst ableiten lassen Archived 17 April 2019 at the Wayback Machine, communication to the Academy of Berlin, February 1850, published in Pogendorff's Annalen vol. 79, March/April 1850, first translated in Philosophical Magazine vol. 2, July 1851, as "First Memoir" in: The Mechanical Theory of Heat, with its Applications to the Steam-Engine and to the Physical Properties of Bodies, trans. John Tyndall, London, 1867, p. 25).
+^ Maxwell, J.C. (1871), p. 7.
+^ "in a gas, heat is nothing else than the kinetic or mechanical energy of motion of the gas molecules". B.L. Loeb, The Kinetic Theory of Gases (1927), p. 14.
+^ From this terminological choice may derive a tradition to the effect that the letter Q represents "quantity", but there is no indication that Clausius had this in mind when he selected the letter in what seemed to be an ad hoc calculation in 1850.
+^ B.L. Loeb, The Kinetic Theory of Gases (1927), p. 426 Archived 24 June 2018 at the Wayback Machine.
+^ Hans U. Fuchs (2010). The Dynamics of Heat A Unified Approach to Thermodynamics and Heat Transfer (2 ed.). Springer. p. 3. ISBN 978-1-4419-7603-1.
+^ Friedrich Herrmann, Entropy from the Beginning, Plenary Lecture
+^ Feynman, Richard; Leighton, Robert; Sands, Matthew (1963). The Feynman Lectures on Physics, Volume 1 (Library of Congress number 63-20717, fourth printing, 1966 ed.). Chapter 1-2, Matter is made of atoms: Addison-Wesley Publishing Company. p. 1-3.{{cite book}}:  CS1 maint: location (link)
+^ Feynman, Richard; Leighton, Robert; Sands, Matthew (1963). The Feynman Lectures on Physics, Volume 1 (Library of Congress number 63-20717, fourth printing, 1966 ed.). Chapter 4-1, What is energy: Addison-Wesley Publishing Company. p. 4-2.{{cite book}}:  CS1 maint: location (link)
+^ Feynman, Richard; Leighton, Robert; Sands, Matthew (1963). The Feynman Lectures on Physics, Volume 1 (Library of Congress number 63-20717, fourth printing, 1966 ed.). Chapter 13: Addison-Wesley Publishing Company. p. 13-3.{{cite book}}:  CS1 maint: location (link)
+^ a b Carath odory, C. (1909).
+^ Adkins, C.J. (1968/1983).
+^ M nster, A. (1970).
+^ Pippard, A.B. (1957).
+^ Fowler, R., Guggenheim, E.A. (1939).
+^ Buchdahl, H.A. (1966).
+^ Lieb, E.H., Yngvason, J. (1999), p. 10.
+^ Serrin, J. (1986), p. 5.
+^ Owen, D.R. (1984), pp. 43 45.
+^ Truesdell, C., Bharatha, S. (1977).
+^ Maxwell, J.C. (1871), p.v.
+^ Atkins, P., de Paula, J. (1978/2010), p. 54.
+^ Pippard, A.B. (1957/1966), p. 15.
+^ Partington, J.R. (1949), p. 118.
+^ Maxwell, J.C. (1871), p. 10.
+^ Maxwell, J.C. (1871), p. 11.
+^ Chandrasekhar, S. (1961).
+^ Planck, M. (1897/1903), p. viii.
+^ Hintikka, J. (1988), p. 180.
+^ Bailyn, M. (1994), pp. 65, 79.
+^ Born, M.(1949), Lecture V.
+^ Born, M. (1949), p. 44.
+^ De Groot, S.R., Mazur, P. (1962), p. 30.
+^ Denbigh, K.G. (1951), p. 56.
+^ Fitts, D.D. (1962), p. 28.
+^ Gyarmati, I. (1970), p. 68.
+^ Kittel, C. Kroemer, H. (1980).
+^ Bacon, F. (1620).
+^ Partington, J.R. (1949), p. 131.
+^ Partington, J.R. (1949), pp. 132 136.
+^ Reif (1965), pp. 67 68
+^ Maxwell J.C. (1872), p. 54.
+^ Planck (1927), Chapter 3.
+^ Bryan, G.H. (1907), p. 47.
+^ Callen, H.B. (1985), Section 1-8.
+^ Joule J.P. (1884).
+^ Perrot, P. (1998).
+^ Clark, J.O.E. (2004).
+^ Halliday, David; Resnick, Robert (2013). Fundamentals of Physics. Wiley. p. 524.
+^ Denbigh, K. (1981), p. 9.
+^ Adkins, C.J. (1968/1983), p. 55.
+^ Baierlein, R. (1999), p. 349.
+^ Adkins, C.J. (1968/1983), p. 34.
+^ Pippard, A.B. (1957/1966), p. 18.
+^ Haase, R. (1971), p. 7.
+^ Mach, E. (1900), section 5, pp. 48 49, section 22, pp. 60 61.
+^ Truesdell, C. (1980).
+^ Serrin, J. (1986), especially p. 6.
+^ Truesdell, C. (1969), p. 6.
+^ Lieb, E.H., Yngvason, J. (2003), p. 190.
+Quotations
+^ Denbigh states in a footnote that he is indebted to correspondence with Professor E.A. Guggenheim and with Professor N.K. Adam. From this, Denbigh concludes "It seems, however, that when a system is able to exchange both heat and matter with its environment, it is impossible to make an unambiguous distinction between energy transported as heat and by the migration of matter, without already assuming the existence of the 'heat of transport'." Denbigh K.G. (1951), p. 56.
+^ "Heat must therefore consist of either living force or of attraction through space. In the former case we can conceive the constituent particles of heated bodies to be, either in whole or in part, in a state of motion. In the latter we may suppose the particles to be removed by the process of heating, so as to exert attraction through greater space. I am inclined to believe that both of these hypotheses will be found to hold good, that in some instances, particularly in the case of sensible heat, or such as is indicated by the thermometer, heat will be found to consist in the living force of the particles of the bodies in which it is induced; whilst in others, particularly in the case of latent heat, the phenomena are produced by the separation of particle from particle, so as to cause them to attract one another through a greater space." Joule, J.P. (1884).
+Bibliography of cited references
+Adkins, C.J. (1968/1983). Equilibrium Thermodynamics, (1st edition 1968), third edition 1983, Cambridge University Press, Cambridge UK, ISBN 0-521-25445-0.
+Atkins, P., de Paula, J. (1978/2010). Physical Chemistry, (first edition 1978), ninth edition 2010, Oxford University Press, Oxford UK, ISBN 978-0-19-954337-3.
+Bacon, F. (1620). Novum Organum Scientiarum, translated by Devey, J., P.F. Collier & Son, New York, 1902.
+Baierlein, R. (1999). Thermal Physics. Cambridge University Press. ISBN 978-0-521-65838-6.
+Bailyn, M. (1994). A Survey of Thermodynamics, American Institute of Physics Press, New York, ISBN 0-88318-797-3.
+Born, M. (1949). Natural Philosophy of Cause and Chance, Oxford University Press, London.
+Bryan, G.H. (1907). Thermodynamics. An Introductory Treatise dealing mainly with First Principles and their Direct Applications, B.G. Teubner, Leipzig.
+Buchdahl, H.A. (1966). The Concepts of Classical Thermodynamics, Cambridge University Press, Cambridge UK.
+Callen, H.B. (1960/1985). Thermodynamics and an Introduction to Thermostatistics, (1st edition 1960) 2nd edition 1985, Wiley, New York, ISBN 0-471-86256-8.
+Carath odory, C. (1909). "Untersuchungen  ber die Grundlagen der Thermodynamik". Mathematische Annalen. 67 (3): 355 386. doi:10.1007/BF01450409. S2CID 118230148. A translation may be found here. A mostly reliable translation is to be found at Kestin, J. (1976). The Second Law of Thermodynamics, Dowden, Hutchinson & Ross, Stroudsburg PA.
+Chandrasekhar, S. (1961). Hydrodynamic and Hydromagnetic Stability, Oxford University Press, Oxford UK.
+Clark, J.O.E. (2004). The Essential Dictionary of Science. Barnes & Noble Books. ISBN 978-0-7607-4616-5.
+Clausius, R. (1854). Annalen der Physik (Poggendoff's Annalen), Dec. 1854, vol. xciii. p. 481; translated in the Journal de Mathematiques, vol. xx. Paris, 1855, and in the Philosophical Magazine, August 1856, s. 4. vol. xii, p. 81.
+Clausius, R. (1865/1867). The Mechanical Theory of Heat   with its Applications to the Steam Engine and to Physical Properties of Bodies, London: John van Voorst. 1867. Also the second edition translated into English by W.R. Browne (1879) here and here.
+De Groot, S.R., Mazur, P. (1962). Non-equilibrium Thermodynamics, North-Holland, Amsterdam. Reprinted (1984), Dover Publications Inc., New York, ISBN 0486647412.
+Denbigh, K. (1955/1981). The Principles of Chemical Equilibrium, Cambridge University Press, Cambridge ISBN 0-521-23682-7.
+Greven, A., Keller, G., Warnecke (editors) (2003). Entropy, Princeton University Press, Princeton NJ, ISBN 0-691-11338-6.
+Guggenheim, E.A. (1967) [1949], Thermodynamics. An Advanced Treatment for Chemists and Physicists (fifth ed.), Amsterdam: North-Holland Publishing Company.
+Jensen, W.B. (2010). "Why Are q and Q Used to Symbolize Heat?" (PDF). J. Chem. Educ. 87 (11): 1142. Bibcode:2010JChEd..87.1142J. doi:10.1021/ed100769d. Archived from the original (PDF) on 2 April 2015. Retrieved 23 March 2015.
+J.P. Joule (1884), The Scientific Papers of James Prescott Joule, The Physical Society of London, p. 274, Lecture on Matter, Living Force, and Heat. 5 and 12 May 1847.
+Kittel, C. Kroemer, H. (1980). Thermal Physics, second edition, W.H. Freeman, San Francisco, ISBN 0-7167-1088-9.
+Kondepudi, D. (2008), Introduction to Modern Thermodynamics, Chichester UK: Wiley, ISBN 978-0-470-01598-8
+Kondepudi, D., Prigogine, I. (1998). Modern Thermodynamics: From Heat Engines to Dissipative Structures, John Wiley & Sons, Chichester, ISBN 0-471-97393-9.
+Landau, L., Lifshitz, E.M. (1958/1969). Statistical Physics, volume 5 of Course of Theoretical Physics, translated from the Russian by J.B. Sykes, M.J. Kearsley, Pergamon, Oxford.
+Lebon, G., Jou, D., Casas-V zquez, J. (2008). Understanding Non-equilibrium Thermodynamics: Foundations, Applications, Frontiers, Springer-Verlag, Berlin, e-ISBN 978-3-540-74252-4.
+Lieb, E.H., Yngvason, J. (2003). The Entropy of Classical Thermodynamics, Chapter 8 of Entropy, Greven, A., Keller, G., Warnecke (editors) (2003).
+Maxwell, J.C. (1871), Theory of Heat (first ed.), London: Longmans, Green and Co.
+Partington, J.R. (1949), An Advanced Treatise on Physical Chemistry., vol. 1, Fundamental Principles. The Properties of Gases, London: Longmans, Green and Co.
+Perrot, Pierre (1998). A to Z of Thermodynamics. Oxford University Press. ISBN 978-0-19-856552-9.
+Pippard, A.B. (1957/1966). Elements of Classical Thermodynamics for Advanced Students of Physics, original publication 1957, reprint 1966, Cambridge University Press, Cambridge.
+Planck, M., (1897/1903). Treatise on Thermodynamics, translated by A. Ogg, first English edition, Longmans, Green and Co., London.
+Planck. M. (1914). The Theory of Heat Radiation, a translation by Masius, M. of the second German edition, P. Blakiston's Son & Co., Philadelphia.
+Planck, M., (1923/1927). Treatise on Thermodynamics, translated by A. Ogg, third English edition, Longmans, Green and Co., London.
+Reif, F. (1965). Fundamentals of Statistical and Thermal Physics. New York: McGraw-Hlll, Inc.
+Shavit, A., Gutfinger, C. (1995). Thermodynamics. From Concepts to Applications, Prentice Hall, London, ISBN 0-13-288267-1.
+Truesdell, C. (1969). Rational Thermodynamics: a Course of Lectures on Selected Topics, McGraw-Hill Book Company, New York.
+Truesdell, C. (1980). The Tragicomical History of Thermodynamics 1822 1854, Springer, New York, ISBN 0-387-90403-4.
+Further bibliography
+Beretta, G.P.; E.P. Gyftopoulos (1990). "What is heat?" (PDF). Education in Thermodynamics and Energy Systems. AES. 20.
+Gyftopoulos, E.P., & Beretta, G.P. (1991). Thermodynamics: foundations and applications. (Dover Publications)
+Hatsopoulos, G.N., & Keenan, J.H. (1981). Principles of general thermodynamics. RE Krieger Publishing Company.
+External links
+Heat on In Our Time at the BBC
+Plasma heat at 2 gigakelvins   Article about extremely high temperature generated by scientists (Foxnews.com)
+Correlations for Convective Heat Transfer   ChE Online Resources
+Authority control: National 
+France
+BnF data
+Germany
+Israel
+United States
+Japan
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Heat&oldid=1144453917"

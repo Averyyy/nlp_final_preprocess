@@ -1,0 +1,415 @@
+Portion of the electromagnetic spectrum that is visible to the human eye
+"Color spectrum" redirects here. For The Dear Hunter album, see The Color Spectrum.
+ White light is dispersed by a prism into the colors of the visible spectrum.
+ Laser beams with visible spectrum
+The visible spectrum is the portion of the electromagnetic spectrum that is visible to the human eye. Electromagnetic radiation in this range of wavelengths is called visible light or simply light. A typical human eye will respond to wavelengths from about 380 to about 750 nanometers.[1] In terms of frequency, this corresponds to a band in the vicinity of 400 790 terahertz. These boundaries are not sharply defined and may vary per individual.[2] Under optimal conditions these limits of human perception can extend to 310 nm (ultraviolet) and 1100 nm (near infrared).[3][4] The optical spectrum is sometimes considered to be the same as the visible spectrum, but some authors define the term more broadly, to include the ultraviolet and infrared parts of the electromagnetic spectrum as well.[5]
+The spectrum does not contain all the colors that the human visual system can distinguish. Unsaturated colors such as pink, or purple variations like magenta, for example, are absent because they can only be made from a mix of multiple wavelengths. Colors containing only one wavelength are also called pure colors or spectral colors.[6]
+Visible wavelengths pass largely unattenuated through the Earth's atmosphere via the "optical window" region of the electromagnetic spectrum. An example of this phenomenon is when clean air scatters blue light more than red light, and so the midday sky appears blue (apart from the area around the sun which appears white because the light is not scattered as much). The optical window is also referred to as the "visible window" because it overlaps the human visible response spectrum. The near infrared (NIR) window lies just out of the human vision, as well as the medium wavelength infrared (MWIR) window, and the long-wavelength or far-infrared (LWIR or FIR) window, although other animals may perceive them.
+History[edit]
+ Newton's color circle, from Opticks of 1704, showing the colors he associated with musical notes. The spectral colors from red to violet are divided by the notes of the musical scale, starting at D. The circle completes a full octave, from D to D. Newton's circle places red, at one end of the spectrum, next to violet, at the other. This reflects the fact that non-spectral purple colors are observed when red and violet light are mixed.
+In the 13th century, Roger Bacon theorized that rainbows were produced by a similar process to the passage of light through glass or crystal.[7]
+In the 17th century, Isaac Newton discovered that prisms could disassemble and reassemble white light, and described the phenomenon in his book Opticks. He was the first to use the word spectrum (Latin for "appearance" or "apparition") in this sense in print in 1671 in describing his experiments in optics. Newton observed that, when a narrow beam of sunlight strikes the face of a glass prism at an angle, some is reflected and some of the beam passes into and through the glass, emerging as different-colored bands. Newton hypothesized light to be made up of "corpuscles" (particles) of different colors, with the different colors of light moving at different speeds in transparent matter, red light moving more quickly than violet in glass. The result is that red light is bent (refracted) less sharply than violet as it passes through the prism, creating a spectrum of colors.
+ Newton's observation of prismatic colors (David Brewster 1855) Newton originally divided the spectrum into six named colors: red, orange, yellow, green, blue, and violet. He later added indigo as the seventh color since he believed that seven was a perfect number as derived from the ancient Greek sophists, of there being a connection between the colors, the musical notes, the known objects in the Solar System, and the days of the week.[8] The human eye is relatively insensitive to indigo's frequencies, and some people who have otherwise-good vision cannot distinguish indigo from blue and violet. For this reason, some later commentators, including Isaac Asimov,[9] have suggested that indigo should not be regarded as a color in its own right but merely as a shade of blue or violet. Evidence indicates that what Newton meant by "indigo" and "blue" does not correspond to the modern meanings of those color words. Comparing Newton's observation of prismatic colors to a color image of the visible light spectrum shows that "indigo" corresponds to what is today called blue, whereas his "blue" corresponds to cyan.[10][11][12]
+In the 18th century, Johann Wolfgang von Goethe wrote about optical spectra in his Theory of Colours. Goethe used the word spectrum (Spektrum) to designate a ghostly optical afterimage, as did Schopenhauer in On Vision and Colors. Goethe argued that the continuous spectrum was a compound phenomenon. Where Newton narrowed the beam of light to isolate the phenomenon, Goethe observed that a wider aperture produces not a spectrum but rather reddish-yellow and blue-cyan edges with white between them. The spectrum appears only when these edges are close enough to overlap.
+In the early 19th century, the concept of the visible spectrum became more definite, as light outside the visible range was discovered and characterized by William Herschel (infrared) and Johann Wilhelm Ritter (ultraviolet), Thomas Young, Thomas Johann Seebeck, and others.[13]
+Young was the first to measure the wavelengths of different colors of light, in 1802.[14]
+The connection between the visible spectrum and color vision was explored by Thomas Young and Hermann von Helmholtz in the early 19th century. Their theory of color vision correctly proposed that the eye uses three distinct receptors to perceive color.
+Color perception across species[edit]
+See also: Color vision  Physiology of color perception
+Many species can see light within frequencies outside the human "visible spectrum". Bees and many other insects can detect ultraviolet light, which helps them find nectar in flowers. Plant species that depend on insect pollination may owe reproductive success to their appearance in ultraviolet light rather than how colorful they appear to humans. Birds, too, can see into the ultraviolet (300 400 nm), and some have sex-dependent markings on their plumage that are visible only in the ultraviolet range.[15][16] Many animals that can see into the ultraviolet range cannot see red light or any other reddish wavelengths. Bees' visible spectrum ends at about 590 nm, just before the orange wavelengths start.[17] Birds can see some red wavelengths, although not as far into the light spectrum as humans.[18] The popular belief that the common goldfish is the only animal that can see both infrared and ultraviolet light[19] is incorrect, because goldfish cannot see infrared light.[20]
+Most mammals are dichromatic, and dogs and horses are often thought to be color blind. They have been shown to be sensitive to colors, though not as many as humans.[21] Some snakes can "see"[22] radiant heat at wavelengths between 5 and 30 m to a degree of accuracy such that a blind rattlesnake can target vulnerable body parts of the prey at which it strikes,[23] and other snakes with the organ may detect warm bodies from a meter away.[24] It may also be used in thermoregulation and predator detection.[25][26] (See Infrared sensing in snakes)
+Spectral colors[edit]
+Main article: Spectral color
+Color
+Wavelength(nm)
+Frequency(THz)
+Photon energy(eV)
+ violet
+380 450
+670 790
+2.75 3.26
+ blue
+450 485
+620 670
+2.56 2.75
+ cyan
+485 500
+600 620
+2.48 2.56
+ green
+500 565
+530 600
+2.19 2.48
+ yellow
+565 590
+510 530
+2.10 2.19
+ orange
+590 625
+480 510
+1.98 2.10
+ red
+625 750
+400 480
+1.65 1.98
+Colors that can be produced by visible light of a narrow band of wavelengths (monochromatic light) are called pure spectral colors. The various color ranges indicated in the illustration are an approximation: The spectrum is continuous, with no clear boundaries between one color and the next.[27]
+Color display spectrum[edit]
+ Approximation of spectral colors on a display results in somewhat distorted chromaticity
+Color displays (e.g. computer monitors and televisions) cannot reproduce all colors discernible by a human eye. Colors outside the color gamut of the device, such as most spectral colors, can only be approximated.
+Spectroscopy[edit]
+ Earth's atmosphere partially or totally blocks some wavelengths of electromagnetic radiation, but in visible light it is mostly transparent
+Spectroscopy is the study of objects based on the spectrum of color they emit, absorb or reflect. Visible-light spectroscopy is an important tool in astronomy (as is spectroscopy at other wavelengths), where scientists use it to analyze the properties of distant objects. Chemical elements and small molecules can be detected in astronomical objects by observing emission lines and absorption lines. For example, Helium was first detected by analysis of the spectrum of the sun. The shift in frequency of spectral lines is used to measure the Doppler shift (redshift or blueshift) of distant objects to determine their velocities towards or away from the observer. Astronomical spectroscopy uses high-dispersion diffraction gratings to observe spectra at very high spectral resolutions. 
+Properties[edit]
+Heat[edit]
+Although non-visible infrared light is more commonly thought of as "heat radiation",[28] any frequency of light, including visible light, will heat surfaces that absorb them.  A powerful source of purely visible light, such as a visible light laser, can char paper.
+Biological effects[edit]
+High-energy visible light (HEV light) (violet/blue light, with a wavelength of 400-450 nm)[29] has a number of biological effects, especially on the eye. 
+Studies by Harvard Health Publishing and France's ANSES found that exposure to blue light has a negative effect on sleep and can lead to impaired vision.[30][31]
+See also[edit]
+Wikisource has original text related to this article:
+Definition of the Color Indigo
+Wikimedia Commons has media related to Visible spectrum.
+High-energy visible light
+Electromagnetic absorption by water
+References[edit]
+^ Starr, Cecie (2005). Biology: Concepts and Applications. Thomson Brooks/Cole. p. 94. ISBN 978-0-534-46226-0.
+^ "The visible spectrum". Britannica.
+^ D. H. Sliney (February 2016). "What is light? The visible spectrum and beyond". Eye. 30 (2): 222 229. doi:10.1038/eye.2015.252. ISSN 1476-5454. PMC 4763133. PMID 26768917.
+^ W. C. Livingston (2001). Color and light in nature (2nd ed.). Cambridge, UK: Cambridge University Press. ISBN 0-521-77284-2.
+^ Pedrotti, Frank L.; Pedrotti, Leno M.; Pedrotti, Leno S. (December 21, 2017). Introduction to Optics. Cambridge University Press. pp. 7 8. ISBN 9781108428262.
+^ Nave, R. "Spectral Colors". Hyperphysics. Retrieved 2022-05-11.
+^ Coffey, Peter (1912). The Science of Logic: An Inquiry Into the Principles of Accurate Thought. Longmans. p. 185. roger bacon prism.
+^ Isacoff, Stuart (16 January 2009). Temperament: How Music Became a Battleground for the Great Minds of Western Civilization. Knopf Doubleday Publishing Group. pp. 12 13. ISBN 978-0-307-56051-3. Retrieved 18 March 2014.
+^ Asimov, Isaac (1975). Eyes on the universe : a history of the telescope. Boston: Houghton Mifflin. p. 59. ISBN 978-0-395-20716-1.
+^ Evans, Ralph M. (1974). The perception of color (null ed.). New York: Wiley-Interscience. ISBN 978-0-471-24785-2.
+^ McLaren, K. (March 2007). "Newton's indigo". Color Research & Application. 10 (4): 225 229. doi:10.1002/col.5080100411.
+^ Waldman, Gary (2002). Introduction to light : the physics of light, vision, and color (Dover ed.). Mineola: Dover Publications. p. 193. ISBN 978-0-486-42118-6.
+^ Mary Jo Nye, ed. (2003). The Cambridge History of Science: The Modern Physical and Mathematical Sciences. Vol. 5. Cambridge University Press. p. 278. ISBN 978-0-521-57199-9.
+^ John C. D. Brand (1995). Lines of light: the sources of dispersive spectroscopy, 1800 1930. CRC Press. pp. 30 32. ISBN 978-2-88449-163-1.
+^ Cuthill, Innes C (1997). "Ultraviolet vision in birds".  In Peter J.B. Slater (ed.). Advances in the Study of Behavior. Vol. 29. Oxford, England: Academic Press. p. 161. ISBN 978-0-12-004529-7.
+^ Jamieson, Barrie G. M. (2007). Reproductive Biology and Phylogeny of Birds. Charlottesville VA: University of Virginia. p. 128. ISBN 978-1-57808-386-2.
+^ Skorupski, Peter; Chittka, Lars (10 August 2010). "Photoreceptor Spectral Sensitivity in the Bumblebee, Bombus impatiens (Hymenoptera: Apidae)". PLOS ONE. 5 (8): e12049. Bibcode:2010PLoSO...512049S. doi:10.1371/journal.pone.0012049. PMC 2919406. PMID 20711523.
+^ Varela, F. J.; Palacios, A. G.; Goldsmith T. M. (1993) "Color vision of birds", pp. 77 94 in Vision, Brain, and Behavior in Birds, eds. Zeigler, Harris Philip and Bischof, Hans-Joachim. MIT Press. ISBN 9780262240369
+^ "True or False? "The common goldfish is the only animal that can see both infra-red and ultra-violet light."". Skeptive. 2013. Archived from the original on December 24, 2013. Retrieved September 28, 2013.
+^ Neumeyer, Christa (2012). "Chapter 2: Color Vision in Goldfish and Other Vertebrates".  In Lazareva, Olga; Shimizu, Toru; Wasserman, Edward (eds.). How Animals See the World: Comparative Behavior, Biology, and Evolution of Vision. Oxford Scholarship Online. ISBN 978-0-19-533465-4.
+^ Kasparson, A. A; Badridze, J; Maximov, V. V (2013). "Colour cues proved to be more informative for dogs than brightness". Proceedings of the Royal Society B: Biological Sciences. 280 (1766): 20131356. doi:10.1098/rspb.2013.1356. PMC 3730601. PMID 23864600.
+^ Newman, EA; Hartline, PH (1981). "Integration of visual and infrared information in bimodal neurons in the rattlesnake optic tectum". Science. 213 (4509): 789 91. Bibcode:1981Sci...213..789N. doi:10.1126/science.7256281. PMC 2693128. PMID 7256281.
+^ Kardong, KV; Mackessy, SP (1991). "The strike behavior of a congenitally blind rattlesnake". Journal of Herpetology. 25 (2): 208 211. doi:10.2307/1564650. JSTOR 1564650.
+^ Fang, Janet (14 March 2010). "Snake infrared detection unravelled". Nature News. doi:10.1038/news.2010.122.
+^ Krochmal, Aaron R.; George S. Bakken; Travis J. LaDuc (15 November 2004). "Heat in evolution's kitchen: evolutionary perspectives on the functions and origin of the facial pit of pitvipers (Viperidae: Crotalinae)". Journal of Experimental Biology. 207 (Pt 24): 4231 4238. doi:10.1242/jeb.01278. PMID 15531644.
+^ Greene HW. (1992). "The ecological and behavioral context for pitviper evolution", in Campbell JA, Brodie ED Jr. Biology of the Pitvipers. Texas: Selva. ISBN 0-9630537-0-1.
+^ Bruno, Thomas J. and Svoronos, Paris D. N. (2005). CRC Handbook of Fundamental Spectroscopic Correlation Charts. CRC Press. ISBN 9781420037685
+^ "Infrared Radiation". Infrared Radiation. Van Nostrand's Scientific Encyclopedia. John Wiley & Sons, Inc. 2007. doi:10.1002/0471743984.vse4181.pub2. ISBN 978-0471743989.
+^ Dykas, Carol (June 2004). "How to Protect Patients from Harmful Sunlight". 2020mag.com.
+^ "LEDs & blue light | Anses - Agence nationale de s curit  Sanitaire de l'alimentation, de l'environnement et du travail". anses.fr. Retrieved 2020-01-29.
+^ "Blue light has a dark side". Harvard Health Publications. May 1, 2012. Archived from the original on February 2, 2015.
+vteElectromagnetic spectrum
+Gamma rays
+X-rays
+Ultraviolet
+Visible
+Infrared
+Microwave
+Radio  higher frequencies longer wavelengths  
+Gamma rays
+Very-high-energy gamma ray
+Ultra-high-energy gamma ray
+X-rays
+soft X-ray
+hard X-ray
+Ultraviolet
+Extreme ultraviolet
+Vacuum ultraviolet
+Lyman-alpha
+FUV
+MUV
+NUV
+UVC
+UVB
+UVA
+Visible (optical)
+Violet
+Blue
+Cyan
+Green
+Yellow
+Orange
+Red
+Infrared
+NIR
+SWIR
+MWIR
+LWIR
+FIR
+Microwaves
+W band
+V band
+Q band
+Ka band
+K band
+Ku band
+X band
+C band
+S band
+L band
+Radio
+THF
+EHF
+SHF
+UHF
+VHF
+HF
+MF
+LF
+VLF
+ULF
+SLF
+ELF
+Wavelength types
+Microwave
+Shortwave
+Medium wave
+Longwave
+vtePhysiology of the visual systemVision
+Accommodation
+Gaze
+Intraocular pressure
+Visual field
+Color vision
+Color blindness
+Achromatopsia
+K llner's rule
+Opponent process
+Dichromacy
+Monochromacy
+Pentachromacy
+Tetrachromacy
+Trichromacy
+vteRadiation (physics and health)Main articlesNon-ionizing radiation
+Acoustic radiation force
+Infrared
+Light
+Starlight
+Sunlight
+Microwave
+Radio waves
+Ultraviolet
+Ionizing radiation
+Radioactive decay
+Cluster decay
+Background radiation
+Alpha particle
+Beta particle
+Gamma ray
+Cosmic ray
+Neutron radiation
+Nuclear fission
+Nuclear fusion
+Nuclear reactors
+Nuclear weapons
+Particle accelerators
+Radioactive materials
+X-ray
+Earth's energy budget
+Electromagnetic radiation
+Synchrotron radiation
+Thermal radiation
+Black-body radiation
+Particle radiation
+Gravitational radiation
+Cosmic background radiation
+Cherenkov radiation
+Askaryan radiation
+Bremsstrahlung
+Unruh radiation
+Dark radiation
+Radiation and health
+Radiation syndrome
+acute
+chronic
+Health physics
+Dosimetry
+Electromagnetic radiation and health
+Laser safety
+Lasers and aviation safety
+Medical radiography
+Radiation protection
+Radiation therapy
+Radiation damage
+Radioactivity in the life sciences
+Radioactive contamination
+Radiobiology
+Biological dose units and quantities
+Wireless device radiation and health
+Wireless electronic devices and health
+Radiation heat-transfer
+Linear energy transfer
+Radiation incidents
+List of civilian radiation accidents
+1996 Costa Rica accident
+1987 Goi nia accident
+1984 Moroccan accident
+1990 Zaragoza accident
+Related articles
+Half-life
+Nuclear physics
+Radioactive source
+Radiation hardening
+Havana syndrome
+See also the categories Radiation effects, Radioactivity, Radiobiology, and Radiation protection
+vteColor topicsColor scienceColor physics
+Electromagnetic spectrum
+Light
+Rainbow
+Visible
+Spectral colors
+Chromophore
+Structural coloration
+Animal coloration
+Color of chemicals
+Water
+Spectral power distribution
+Colorimetry
+Color perception
+Metamerism
+Color blindness
+Achromatopsia
+Dichromacy
+Evolution of color vision
+Color vision test
+Tetrachromacy
+Opponent process
+Afterimage
+Unique hues
+Impossible colors
+Chromesthesia
+Sonochromatism
+Color task
+Color code
+Color constancy
+Color temperature
+The dress
+Color psychology
+Color symbolism
+Color preferences
+L scher color test
+Kruithof curve
+Political color
+National colors
+Chromophobia
+Chromotherapy
+Color reproduction
+Color photography
+Color balance
+Color cast
+Digital image processing
+Color management
+Color printing
+Multi-primary color display
+Quattron
+Color model
+additive
+RGB
+subtractive
+CMYK
+Color space
+Color mapping
+ColorphilosophyColor scheme
+Color tool
+Monochromatic colors
+Complementary colors
+Analogous colors
+Achromatic colors (Neutral)
+Polychromatic colors
+Light-on-dark
+Web colors
+Tinctures in heraldry
+Color theory
+Color mixing
+Primary color
+Secondary color
+Tertiary color
+Chromaticity
+Color solid
+Color wheel
+Color triangle
+Color analysis (art)
+Color realism (art style)
+On Vision and Colours (Schopenhauer)
+Theory of Colours (Goethe)
+Color termsBasic terms
+Blue
+Green
+Red
+Yellow
+Pink
+Purple
+Orange
+Black
+Gray
+White
+Brown
+Cultural differences
+Linguistic relativity and the color naming debate
+Blue green distinction in language
+Color history
+Blue in culture
+Color in Chinese culture
+Traditional colors of Japan
+Human skin color
+Color dimensions
+Hue
+Dichromatism
+Colorfulness
+Pastel colors
+Luminance
+Lightness
+Darkness
+Brightness
+Iridescence
+Fluorescence
+Grayscale
+Tint, shade and tone
+Colororganizations
+Pantone
+Color Marketing Group
+Color Association of the United States
+International Colour Authority
+International Commission on Illumination (CIE)
+International Color Consortium
+International Colour Association
+Lists
+List of colors: A F
+List of colors: G M
+List of colors: N Z
+List of colors (compact)
+List of colors by shade
+List of color palettes
+List of color spaces
+List of Crayola crayon colors
+history
+Color chart
+List of RAL colors
+List of web colors
+Shades of:
+Red
+Orange
+Yellow
+Green
+Cyan
+Blue
+Violet
+Purple
+Magenta
+Pink
+Brown
+White
+Gray
+Black
+Related
+Vision
+Qualia
+Lighting
+ Category
+ Index
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Visible_spectrum&oldid=1148196633"

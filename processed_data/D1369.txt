@@ -1,0 +1,308 @@
+Thin layer of material
+This article is about a thin layer of material. For magnetic thin film memory, see Thin-film memory.
+It has been suggested that Multilayer medium be merged into this article. (Discuss) Proposed since November 2022.
+A thin film is a layer of material ranging from fractions of a nanometer (monolayer) to several micrometers in thickness. The controlled synthesis of materials as thin films (a process referred to as deposition) is a fundamental step in many applications. A familiar example is the household mirror, which typically has a thin metal coating on the back of a sheet of glass to form a reflective interface. The process of silvering was once commonly used to produce mirrors, while more recently the metal layer is deposited using techniques such as sputtering. Advances in thin film deposition techniques during the 20th century have enabled a wide range of technological breakthroughs in areas such as magnetic recording media, electronic semiconductor devices, integrated passive devices, LEDs, optical coatings (such as antireflective coatings), hard coatings on cutting tools, and for both energy generation (e.g. thin-film solar cells) and storage (thin-film batteries). It is also being applied to pharmaceuticals, via thin-film drug delivery. A stack of thin films is called a multilayer.
+In addition to their applied interest, thin films play an important role in the development and study of materials with new and unique properties. Examples include multiferroic materials, and superlattices that allow the study of quantum phenomena.
+Nucleation[edit]
+Nucleation is an important step in growth that helps determine the final structure of a thin film. Many growth methods rely on nucleation control such as atomic-layer epitaxy (atomic layer deposition). Nucleation can be modeled by characterizing surface process of adsorption, desorption, and surface diffusion.[1]
+Adsorption and desorption[edit]
+Adsorption is the interaction of a vapor atom or molecule with a substrate surface. The interaction is characterized the sticking coefficient, the fraction of incoming species thermally equilibrated with the surface. Desorption reverses adsorption where a previously adsorbed molecule overcomes the bounding energy and leaves the substrate surface.
+The two types of adsorptions, physisorption and chemisorption, are distinguished by the strength of atomic interactions. Physisorption describes the Van der Waals bonding between a stretched or bent molecule and the surface characterized by adsorption energy 
+E
+p
+{\displaystyle E_{p}}
+. Evaporated molecules rapidly lose kinetic energy and reduces its free energy by bonding with surface atoms. Chemisorption describes the strong electron transfer (ionic or covalent bond) of molecule with substrate atoms characterized by adsorption energy 
+E
+c
+{\displaystyle E_{c}}
+. The process of physic- and chemisorption can be visualized by the potential energy as a function of distance. The equilibrium distance for physisorption is further from the surface than chemisorption. The transition from physisorbed to chemisorbed states are governed by the effective energy barrier 
+E
+a
+{\displaystyle E_{a}}
+.[1]
+Crystal surfaces have specific bonding sites with larger 
+E
+a
+{\displaystyle E_{a}}
+ values that would preferentially be populated by vapor molecules to reduce the overall free energy. These stable sites are often found on step edges, vacancies and screw dislocations. After the most stable sites become filled, the adatom-adatom (vapor molecule) interaction becomes important.[2]
+Nucleation models[edit]
+Nucleation kinetics can be modeled considering only adsorption and desorption. First consider case where there are no mutual adatom interactions, no clustering or interaction with step edges.
+The rate of change of adatom surface density 
+n
+{\displaystyle n}
+, where 
+J
+{\displaystyle J}
+ is the net flux,  
+ 
+a
+{\displaystyle \tau _{a}}
+ is the mean surface lifetime prior to desorption and 
+ 
+{\displaystyle \sigma }
+ is the sticking coefficient:
+d
+n
+d
+t
+=
+J
+ 
+ 
+n
+ 
+a
+{\displaystyle {dn \over dt}=J\sigma -{n \over \tau _{a}}}
+n
+=
+J
+ 
+ 
+a
+[
+1
+ 
+exp
+ 
+(
+ 
+t
+ 
+a
+)
+]
+n
+=
+J
+ 
+ 
+a
+[
+exp
+ 
+(
+ 
+t
+ 
+a
+)
+]
+{\displaystyle n=J\sigma \tau _{a}\left[1-\exp \left({-t \over \tau _{a}}\right)\right]n=J\sigma \tau _{a}\left[\exp \left({-t \over \tau _{a}}\right)\right]}
+Adsorption can also be modeled by different isotherms such as Langmuir model and BET model. The Langmuir model derives an equilibrium constant 
+b
+{\displaystyle b}
+ based on the adsorption reaction of vapor adatom with vacancy on the substrate surface. The BET model expands further and allows adatoms deposition on previously adsorbed adatoms without interaction between adjacent piles of atoms. The resulting derived surface coverage is in terms of the equilibrium vapor pressure and applied pressure.
+Langmuir model where 
+P
+A
+{\displaystyle P_{A}}
+ is the vapor pressure of adsorbed adatoms:
+ 
+=
+b
+P
+A
+(
+1
++
+b
+P
+A
+)
+{\displaystyle \theta ={bP_{A} \over (1+bP_{A})}}
+BET model where 
+p
+e
+{\displaystyle p_{e}}
+ is the equilibrium vapor pressure of adsorbed adatoms and 
+p
+{\displaystyle p}
+ is the applied vapor pressure of adsorbed adatoms:
+ 
+=
+X
+p
+(
+p
+e
+ 
+p
+)
+[
+1
++
+(
+X
+ 
+1
+)
+p
+p
+e
+]
+{\displaystyle \theta ={Xp \over (p_{e}-p)\left[1+(X-1){p \over p_{e}}\right]}}
+As an important note, surface crystallography and differ from the bulk to minimize the overall free electronic and bond energies due to the broken bonds at the surface. This can result in a new equilibrium position known as  selvedge , where the parallel bulk lattice symmetry is preserved. This phenomenon can cause deviations from theoretical calculations of nucleation.[1]
+Surface diffusion[edit]
+Surface diffusion describes the lateral motion of adsorbed atoms moving between energy minima on the substrate surface. Diffusion most readily occurs between positions with lowest intervening potential barriers. Surface diffusion can be measured using glancing-angle ion scattering. The average time between events can be describes by:[1]
+ 
+d
+=
+(
+1
+/
+v
+1
+)
+exp
+ 
+(
+E
+d
+/
+k
+T
+s
+)
+{\displaystyle \tau _{d}=(1/v_{1})\exp(E_{d}/kT_{s})}
+In addition to adatom migration, clusters of adatom can coalesce or deplete. Cluster coalescence through processes, such as Ostwald ripening and sintering, occur in response to reduce the total surface energy of the system. Ostwald repining describes the process in which islands of adatoms with various sizes grow into larger ones at the expense of smaller ones. Sintering is the coalescence mechanism when the islands contact and join.[1]
+Deposition[edit]
+The act of applying a thin film to a surface is thin-film deposition   any technique for depositing a thin film of material onto a substrate or onto previously deposited layers. "Thin" is a relative term, but most deposition techniques control layer thickness within a few tens of nanometres. Molecular beam epitaxy, the Langmuir Blodgett method, atomic layer deposition and molecular layer deposition allow a single layer of atoms or molecules to be deposited at a time.
+It is useful in the manufacture of optics (for reflective, anti-reflective coatings or self-cleaning glass, for instance), electronics (layers of insulators, semiconductors, and conductors form integrated circuits), packaging (i.e., aluminium-coated PET film), and in contemporary art (see the work of Larry Bell). Similar processes are sometimes used where thickness is not important: for instance, the purification of copper by electroplating, and the deposition of silicon and enriched uranium by a CVD-like process after gas-phase processing.
+Deposition techniques fall into two broad categories, depending on whether the process is primarily chemical or physical.[3]
+Chemical deposition[edit]
+Here, a fluid precursor undergoes a chemical change at a solid surface, leaving a solid layer. An everyday example is the formation of soot on a cool object when it is placed inside a flame. Since the fluid surrounds the solid object, deposition happens on every surface, with little regard to direction; thin films from chemical deposition techniques tend to be conformal, rather than directional.
+Chemical deposition is further categorized by the phase of the precursor:
+Plating relies on liquid precursors, often a solution of water with a salt of the metal to be deposited. Some plating processes are driven entirely by reagents in the solution (usually for noble metals), but by far the most commercially important process is electroplating. In semiconductor manufacturing, an advanced form of electroplating known as electrochemical deposition is now used to create the copper conductive wires in advanced chips, replacing the chemical and physical deposition processes used to previous chip generations for aluminum wires[4]
+Chemical solution deposition (CSD) or chemical bath deposition (CBD) uses a liquid precursor, usually a solution of organometallic powders dissolved in an organic solvent. This is a relatively inexpensive, simple thin-film process that produces stoichiometrically accurate crystalline phases. This technique is also known as the sol-gel method because the 'sol' (or solution) gradually evolves towards the formation of a gel-like diphasic system.
+The Langmuir Blodgett method uses molecules floating on top of an aqueous subphase. The packing density of molecules is controlled, and the packed monolayer is transferred on a solid substrate by controlled withdrawal of the solid substrate from the subphase. This allows creating thin films of various molecules such as nanoparticles, polymers and lipids with controlled particle packing density and layer thickness.[5]
+Spin coating or spin casting, uses a liquid precursor, or sol-gel precursor deposited onto a smooth, flat substrate which is subsequently spun at a high velocity to centrifugally spread the solution over the substrate. The speed at which the solution is spun and the viscosity of the sol determine the ultimate thickness of the deposited film. Repeated depositions can be carried out to increase the thickness of films as desired. Thermal treatment is often carried out in order to crystallize the amorphous spin coated film. Such crystalline films can exhibit certain preferred orientations after crystallization on single crystal substrates.[6]
+Dip coating is similar to spin coating in that a liquid precursor or sol-gel precursor is deposited on a substrate, but in this case the substrate is completely submerged in the solution and then withdrawn under controlled conditions. By controlling the withdrawal speed, the evaporation conditions (principally the humidity, temperature) and the volatility/viscosity of the solvent, the film thickness, homogeneity and nanoscopic morphology are controlled. There are two evaporation regimes: the capillary zone at very low withdrawal speeds, and the draining zone at faster evaporation speeds.[7]
+Chemical vapor deposition (CVD) generally uses a gas-phase precursor, often a halide or hydride of the element to be deposited. In the case of MOCVD, an organometallic gas is used. Commercial techniques often use very low pressures of precursor gas.
+Plasma enhanced CVD (PECVD) uses an ionized vapor, or plasma, as a precursor. Unlike the soot example above, commercial PECVD relies on electromagnetic means (electric current, microwave excitation), rather than a chemical-reaction, to produce a plasma.
+Atomic layer deposition (ALD), and its sister technique molecular layer deposition (MLD), uses gaseous precursor to deposit conformal thin film's one layer at a time.  The process is split up into two half reactions, run in sequence and repeated for each layer, in order to ensure total layer saturation before beginning the next layer.  Therefore, one reactant is deposited first, and then the second reactant is deposited, during which a chemical reaction occurs on the substrate, forming the desired composition.  As a result of the stepwise, the process is slower than CVD, however it can be run at low temperatures, unlike CVD.
+Physical deposition[edit]
+Physical deposition uses mechanical, electromechanical or thermodynamic means to produce a thin film of solid. An everyday example is the formation of frost. Since most engineering materials are held together by relatively high energies, and chemical reactions are not used to store these energies, commercial physical deposition systems tend to require a low-pressure vapor environment to function properly; most can be classified as physical vapor deposition (PVD).
+The material to be deposited is placed in an energetic, entropic environment, so that particles of material escape its surface. Facing this source is a cooler surface which draws energy from these particles as they arrive, allowing them to form a solid layer. The whole system is kept in a vacuum deposition chamber, to allow the particles to travel as freely as possible. Since particles tend to follow a straight path, films deposited by physical means are commonly directional, rather than conformal.
+Examples of physical deposition include:
+ One-atom-thick islands of silver deposited on the surface of palladium by thermal evaporation. Calibration of the surface coverage was achieved by tracking the time needed to complete a full monolayer using tunneling microscopy (STM) and from the emergence of quantum-well states characteristic of the silver film thickness in photoemission spectroscopy (ARPES). Image size is 250 nm by 250 nm.[8]
+A thermal evaporator that uses an electric resistance heater to melt the material and raise its vapor pressure to a useful range. This is done in a high vacuum, both to allow the vapor to reach the substrate without reacting with or scattering against other gas-phase atoms in the chamber, and reduce the incorporation of impurities from the residual gas in the vacuum chamber. Obviously, only materials with a much higher vapor pressure than the heating element can be deposited without contamination of the film. Molecular beam epitaxy is a particularly sophisticated form of thermal evaporation.
+An electron beam evaporator fires a high-energy beam from an electron gun to boil a small spot of material; since the heating is not uniform, lower vapor pressure materials can be deposited. The beam is usually bent through an angle of 270  in order to ensure that the gun filament is not directly exposed to the evaporant flux. Typical deposition rates for electron beam evaporation range from 1 to 10 nanometres per second.
+In molecular beam epitaxy (MBE), slow streams of an element can be directed at the substrate, so that material deposits one atomic layer at a time. Compounds such as gallium arsenide are usually deposited by repeatedly applying a layer of one element (i.e., gallium), then a layer of the other (i.e., arsenic), so that the process is chemical, as well as physical; this is known also as atomic layer deposition. If the precursors in use are organic, then the technique is called molecular layer deposition. The beam of material can be generated by either physical means (that is, by a furnace) or by a chemical reaction (chemical beam epitaxy).
+Sputtering relies on a plasma (usually a noble gas, such as argon) to knock material from a "target" a few atoms at a time. The target can be kept at a relatively low temperature, since the process is not one of evaporation, making this one of the most flexible deposition techniques. It is especially useful for compounds or mixtures, where different components would otherwise tend to evaporate at different rates. Note, sputtering's step coverage is more or less conformal. It is also widely used in optical media. The manufacturing of all formats of CD, DVD, and BD are done with the help of this technique. It is a fast technique and also it provides a good thickness control.  Presently, nitrogen and oxygen gases are also being used in sputtering.
+Pulsed laser deposition systems work by an ablation process. Pulses of focused laser light vaporize the surface of the target material and convert it to plasma; this plasma usually reverts to a gas before it reaches the substrate.[9]
+Cathodic arc deposition (arc-PVD) which is a kind of ion beam deposition where an electrical arc is created that literally blasts ions from the cathode. The arc has an extremely high power density resulting in a high level of ionization (30 100%), multiply charged ions, neutral particles, clusters and macro-particles (droplets). If a reactive gas is introduced during the evaporation process, dissociation, ionization and excitation can occur during interaction with the ion flux and a compound film will be deposited.
+Electrohydrodynamic deposition (electrospray deposition) is a relatively new process of thin-film deposition. The liquid to be deposited, either in the form of nanoparticle solution or simply a solution, is fed to a small capillary nozzle (usually metallic) which is connected to a high voltage. The substrate on which the film has to be deposited is connected to ground. Through the influence of electric field, the liquid coming out of the nozzle takes a conical shape (Taylor cone) and at the apex of the cone a thin jet emanates which disintegrates into very fine and small positively charged droplets under the influence of Rayleigh charge limit. The droplets keep getting smaller and smaller and ultimately get deposited on the substrate as a uniform thin layer.
+Growth modes[edit]
+It has been suggested that portions of Stranski Krastanov growth be split from it and merged into this section. (Discuss)  (June 2021)
+ Frank van-der-Merwe mode
+ Stranski Krastanov mode
+ Volmer Weber mode
+Frank van der Merwe growth[10][11][12] ("layer-by-layer"). In this growth mode the adsorbate-surface and adsorbate-adsorbate interactions are balanced. This type of growth requires lattice matching, and hence considered an "ideal" growth mechanism.
+Stranski Krastanov growth[13] ("joint islands" or "layer-plus-island"). In this growth mode the adsorbate-surface interactions are stronger than adsorbate-adsorbate interactions.
+Volmer Weber[14] ("isolated islands"). In this growth mode the adsorbate-adsorbate interactions are stronger than adsorbate-surface interactions, hence "islands" are formed right away.
+Epitaxy[edit]
+Further information: Epitaxy
+A subset of thin-film deposition processes and applications is focused on the so-called epitaxial growth of materials, 
+the deposition of crystalline thin films that grow following the crystalline structure of the substrate. The term epitaxy comes from the Greek roots epi ( ), meaning "above", and taxis ( ), meaning "an ordered manner". It can be translated as "arranging upon".
+The term homoepitaxy refers to the specific case in which a film of the same material is grown on a crystalline
+substrate. This technology is used, for instance, to grow a film which is more pure than the substrate, has a lower density
+of defects, and to fabricate layers having different doping levels. Heteroepitaxy refers to the case in which the film being deposited is different from the substrate.
+Techniques used for epitaxial growth of thin films include molecular beam epitaxy, chemical vapor deposition,
+and pulsed laser deposition.[15]
+Stress and strain[edit]
+Thin films may be biaxially loaded via stresses originated from their interface with a substrate. Epitaxial thin films may experience stresses from misfit strains between the coherent lattices of the film and substrate. Thermal stress is common in thin films grown at elevated temperatures due to differences in thermal expansion coefficients with the substrate.[16] Differences in interfacial energy and the growth and coalescence of grains contribute to intrinsic stress in thin films. These intrinsic stresses can be a function of film thickness.[17][18]
+These stresses may be tensile or compressive and can cause cracking or buckling among other forms of stress relaxation. In epitaxial films, initially deposited atomic layers may have coherent lattice planes with the substrate. However, past a critical thickness misfit dislocations will form leading to relaxation of stresses in the film.[16][19]
+Measuring stress and strain[edit]
+The stresses in Films deposited on flat substrates such as wafers can be measured by measuring the curvature of the wafer because of strain by the film. Lasers are reflected off the wafer in a grid pattern and distortions in the grid are used to calculate the curvature. Strain in thin films can also be measured by x-ray diffraction or by milling a section of the film via focused ion beam and the relaxation observed via scanning electron microscopy.[18]
+Strain engineering[edit]
+Stress and relaxation of stresses in films can influence the materials properties of the film, such as mass transport in microelectronics applications. Therefore precautions are taken to either mitigate or produce such stresses; for example a buffer layer may be deposited between the substrate and film.[18] Strain engineering is also used to produce various phase and domain structures in thin films such as in the domain structure of the ferroelectric Lead Zirconate Titanate (PZT).[20]
+Applications[edit]
+Decorative coatings[edit]
+The usage of thin films for decorative coatings probably represents their oldest application. This encompasses ca. 100 nm thin gold leaves that were already used in ancient India more than 5000 years ago. It may also be understood as any form of painting, although this kind of work is generally considered as an arts craft rather than an engineering or scientific discipline. Today, thin-film materials of variable thickness and high refractive index like titanium dioxide are often applied for decorative coatings on glass for instance, causing a rainbow-color appearance like oil on water. In addition, intransparent gold-colored surfaces may either be prepared by sputtering of gold or titanium nitride.
+Optical coatings[edit]
+Further information: Optical coating and Thin film optics
+These layers serve in both reflective and refractive systems. Large-area (reflective) mirrors became available during the 19th century and were produced by sputtering of metallic silver or aluminum on glass. Refractive lenses for optical instruments like cameras and microscopes typically exhibit aberrations, i.e. non-ideal refractive behavior. While large sets of lenses had to be lined up along the optical path previously, nowadays, the coating of optical lenses with transparent multilayers of titanium dioxide, silicon nitride or silicon oxide etc. may correct[dubious    discuss] these aberrations. A well-known example for the progress in optical systems by thin-film technology is represented by the only a few mm wide lens in smart phone cameras. Other examples are given by anti-reflection coatings on eyeglasses or solar panels.
+Protective coatings[edit]
+Thin films are often deposited to protect an underlying work piece from external influences. The protection may operate by minimizing the contact with the exterior medium in order to reduce the diffusion from the medium to the work piece or vice versa. For instance, plastic lemonade bottles are frequently coated by anti-diffusion layers to avoid the out-diffusion of CO2, into which carbonic acid decomposes that was introduced into the beverage under high pressure. Another example is represented by thin TiN films in microelectronic chips separating electrically conducting aluminum lines from the embedding insulator SiO2 in order to suppress the formation of Al2O3. Often, thin films serve as protection against abrasion between mechanically moving parts. Examples for the latter application are diamond-like carbon (DLC) layers used in car engines or thin films made of nanocomposites.
+Electrically operating coatings[edit]
+ Laterally structured metal layer of an integrated circuit[21]
+Thin layers from elemental metals like copper, aluminum, gold or silver etc. and alloys have found numerous applications in electrical devices. Due to their high electrical conductivity they are able to transport electrical currents or supply voltages. Thin metal layers serve in conventional electrical system, for instance, as Cu layers on printed circuit boards, as the outer ground conductor in coaxial cables and various other forms like sensors etc.[22] A major field of application became their use in integrated passive devices and integrated circuits,[23] where the electrical network among active and passive devices like transistors and capacitors etc. is built up from thin Al or Cu layers. These layers dispose of thicknesses in the range of a few 100 nm up to a few  m, and they are often embedded into a few nm thin titanium nitride layers in order to block a chemical reaction with the surrounding dielectric like SiO2. The figure shows a micrograph of a laterally structured TiN/Al/TiN metal stack in a microelectronic chip.[21]
+Heterostructures of gallium nitride and similar semiconductors can lead to electrons being bound to a sub-nanometric layer, effectively behaving as a two-dimensional electron gas. Quantum effects in such thin films can significantly enhance electron mobility as compared to that of a bulk crystal, which is employed in high-electron-mobility transistors.
+Biosensors and plasmonic devices[edit]
+Noble metal thin films are used in plasmonic structures such as surface plasmon resonance (SPR) sensors. Surface plasmon polaritons are surface waves in the optical regime that propagate in between metal-dielectric interfaces; in Kretschmann-Raether configuration for the SPR sensors, a prism is coated with a metallic film through evaporation. Due to the poor adhesive characteristics of metallic films, germanium, titanium or chromium films are used as intermediate layers to promote stronger adhesion.[24][25][26] Metallic thin films are also used in plasmonic waveguide designs.[27][28]
+Thin-film photovoltaic cells[edit]
+Further information: Thin film solar cell
+Thin-film technologies are also being developed as a means of substantially reducing the cost of solar cells. The rationale for this is thin-film solar cells are cheaper to manufacture owing to their reduced material costs, energy costs, handling costs and capital costs. This is especially represented in the use of printed electronics (roll-to-roll) processes. Other thin-film technologies, that are still in an early stage of ongoing research or with limited commercial availability, are often classified as emerging or third generation photovoltaic cells and include, organic, dye-sensitized, and polymer solar cells, as well as quantum dot,[29] copper zinc tin sulfide, nanocrystal and perovskite solar cells.[30][31]
+Thin-film batteries[edit]
+Thin-film printing technology is being used to apply solid-state lithium polymers to a variety of substrates to create unique batteries for specialized applications. Thin-film batteries can be deposited directly onto chips or chip packages in any shape or size. Flexible batteries can be made by printing onto plastic, thin metal foil, or paper.[32]
+Thin-film bulk acoustic wave resonators (TFBARs/FBARs)[edit]
+For miniaturising and more precise control of resonance frequency of piezoelectric crystals thin-film bulk acoustic resonators TFBARs/FBARs are developed for oscillators, telecommunication filters and duplexers, and sensor applications.
+See also[edit]
+Coating
+Dual-polarisation interferometry
+Ellipsometry
+Flexible display
+Flexible electronics
+Hydrogenography
+Kelvin probe force microscope
+Langmuir Blodgett film
+Layer by layer
+Microfabrication
+Organic LED
+Sarfus
+Thin-film interference
+Thin-film optics
+Thin-film solar cell
+Thin-film bulk acoustic resonator
+References[edit]
+^ a b c d e Ohring, Milton (2002). Materials science of thin films : deposition and structure (2nd ed.). San Diego, CA: Academic Press. ISBN 9780125249751.
+^ Venables, John A. (31 August 2000). Introduction to Surface and Thin Film Processes (1 ed.). Cambridge University Press. doi:10.1017/cbo9780511755651. ISBN 978-0-521-78500-6.
+^ Knoll, Wolfgang Knoll; Advincula, Rigoberto C., eds. (7 June 2011). Functional Polymer Films, 2 Volume Set 1st Edition. Wiley-VCH. ISBN 978-3527321902.
+^ "One big wire change in '97 still helping chips achieve tiny scale". IBM Research Blog. 15 November 2017. Retrieved 20 April 2021.
+^ Ariga, Katsuhiko; Yamauchi, Yusuke; Mori, Taizo; Hill, Jonathan P. (2013). "25th Anniversary Article: What Can Be Done with the Langmuir-Blodgett Method? Recent Developments and its Critical Role in Materials Science". Advanced Materials. Deerfield Beach FL USA: VCH Publishers (published 8 October 2013). 25 (45): 6477 6512. Bibcode:2013AdM....25.6477A. doi:10.1002/adma.201302283. ISSN 1521-4095. PMID 24302266. S2CID 205251007.
+^ Hanaor, D.A.H.; Triani, G.; Sorrell, C.C. (15 March 2011). "Morphology and photocatalytic activity of highly oriented mixed phase titanium dioxide thin films". Surface and Coatings Technology. 205 (12): 3658 3664. arXiv:1303.2741. doi:10.1016/j.surfcoat.2011.01.007. S2CID 96130259.
+^ Faustini, Marco; Drisko, Glenna L; Boissiere, Cedric; Grosso, David (1 March 2014). "Liquid deposition approaches to self-assembled periodic nanomasks". Scripta Materialia. 74: 13 18. doi:10.1016/j.scriptamat.2013.07.029.
+^ Trontl, V. Mik i ; Pletikosi , I.; Milun, M.; Pervan, P.; Lazi , P.;  ok evi , D.; Brako, R. (16 December 2005). "Experimental and ab initio study of the structural and electronic properties of subnanometer thick Ag films on Pd(111)". Physical Review B. 72 (23): 235418. Bibcode:2005PhRvB..72w5418T. doi:10.1103/PhysRevB.72.235418.
+^ Rashidian Vaziri, M. R.; Hajiesmaeilbaigi, F.; Maleki, M. H. (24 August 2011). "Monte Carlo simulation of the subsurface growth mode during pulsed laser deposition". Journal of Applied Physics. 110 (4): 043304 043304 12. Bibcode:2011JAP...110d3304R. doi:10.1063/1.3624768.
+^ Frank, Frederick Charles; van der Merwe, J. H. (15 August 1949). "One-dimensional dislocations. I. Static theory". Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences. 198 (1053): 205 216. Bibcode:1949RSPSA.198..205F. doi:10.1098/rspa.1949.0095. JSTOR 98165.
+^ Frank, Frederick Charles; van der Merwe, J. H. (15 August 1949). "One-Dimensional Dislocations. II. Misfitting Monolayers and Oriented Overgrowth". Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences. 198 (1053): 216 225. Bibcode:1949RSPSA.198..216F. doi:10.1098/rspa.1949.0096. JSTOR 98166.
+^ Frank, Frederick Charles; van der Merwe, J. H. (15 August 1949). "One-Dimensional Dislocations. III. Influence of the Second Harmonic Term in the Potential Representation, on the Properties of the Model". Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences. 198 (1053): 125 134. Bibcode:1949RSPSA.200..125F. doi:10.1098/rspa.1949.0163. JSTOR 98394. S2CID 122413983.
+^ Stranski, I. N.; Krastanov, L. (10 February 1938). "Zur Theorie der orientierten Ausscheidung von Ionenkristallen aufeinander". Monatshefte f r Chemie und verwandte Teile anderer Wissenschaften. 146 (1): 351 364. doi:10.1007/BF01798103. ISSN 0343-7329. S2CID 93219029.
+^ Volmer, M.; Weber, A. (1 January 1926). "Keimbildung in  bers ttigten Gebilden". Zeitschrift f r Physikalische Chemie. 119U (1): 277 301. doi:10.1515/zpch-1926-11927. ISSN 0942-9352. S2CID 100018452.
+^ Rashidian Vaziri, M. R.; Hajiesmaeilbaigi, F.; Maleki, M. H. (7 October 2010). "Microscopic description of the thermalization process during pulsed laser deposition of aluminium in the presence of argon background gas". Journal of Physics D: Applied Physics. 43 (42): 425205. Bibcode:2010JPhD...43P5205R. doi:10.1088/0022-3727/43/42/425205. ISSN 1361-6463. S2CID 120309363.
+^ a b Murakami, Masanori (1 July 1991). "Deformation in thin films by thermal strain". Journal of Vacuum Science & Technology A. 9 (4): 2469 2476. Bibcode:1991JVSTA...9.2469M. doi:10.1116/1.577258. ISSN 0734-2101.
+^ Smith, Donald L. (22 March 1995). Thin-Film Deposition: Principles and Practice. McGraw Hill Professional. ISBN 978-0-07-058502-7.
+^ a b c Abadias, Gr gory; Chason, Eric; Keckes, Jozef; Sebastiani, Marco; Thompson, Gregory B.; Barthel, Etienne; Doll, Gary L.; Murray, Conal E.; Stoessel, Chris H.; Martinu, Ludvik (1 March 2018). "Review Article: Stress in thin films and coatings: Current status, challenges, and prospects". Journal of Vacuum Science & Technology A. 36 (2): 020801. Bibcode:2018JVSTA..36b0801A. doi:10.1116/1.5011790. ISSN 0734-2101.
+^ Wcislo, Tomasz; Dabrowska-Szata, Maria; Gelczuk, Lukasz (June 2010). "Critical thickness of epitaxial thin films using Finite Element Method". 2010 International Students and Young Scientists Workshop "Photonics and Microsystems": 82 85. doi:10.1109/STYSW.2010.5714177. ISBN 978-1-4244-8324-2. S2CID 31642146.
+^ Pandya, Shishir; Velarde, Gabriel A.; Gao, Ran; Everhardt, Arnoud S.; Wilbur, Joshua D.; Xu, Ruijuan; Maher, Josh T.; Agar, Joshua C.; Dames, Chris; Martin, Lane W. (2019). "Understanding the Role of Ferroelastic Domains on the Pyroelectric and Electrocaloric Effects in Ferroelectric Thin Films". Advanced Materials. 31 (5): 1803312. Bibcode:2019AdM....3103312P. doi:10.1002/adma.201803312. ISSN 1521-4095. PMID 30515861.
+^ a b Birkholz, M.; Ehwald, K.-E.; Wolansky, D.; Costina, I.; Baristiran-Kaynak, C.; Fr hlich, M.; Beyer, H.; Kapp, A.; Lisdat, F. (15 March 2010). "Corrosion-resistant metal layers from a CMOS process for bioelectronic applications". Surface and Coatings Technology. 204 (12 13): 2055 2059. doi:10.1016/j.surfcoat.2009.09.075. ISSN 0257-8972.
+^ Korotcenkov, Ghenadii (18 September 2013). "Thin metal films". Handbook of Gas Sensor Materials: Properties, Advantages and Shortcomings for Applications. Integrated Analytical Systems. Springer. pp. 153 166. ISBN 978-1461471646.
+^ 
+D ez-Sierra, Javier; Mart nez, Alazne; Etxarri, Ion; Quintana, Iban (2022). "All-chemical YBa2Cu3O7- $\delta$ coated conductors with preformed BaHfO3 and BaZrO3 nanocrystals on Ni5W technical substrate at the industrial scale". Applied Surface Science. 606: 154844. doi:10.1016/j.apsusc.2022.154844. hdl:1854/LU-8719549.
+^ Serrano, A.; Rodr guez de la Fuente, O.; Garc a, M. A. (2010). "Extended and localized surface plasmons in annealed Au films on glass substrates". Journal of Applied Physics. 108 (7): 074303 074303 7. Bibcode:2010JAP...108g4303S. doi:10.1063/1.3485825. hdl:10261/87212.
+^ Foley IV, Jonathan J.; Harutyunyan, Hayk; Rosenmann, Daniel; Divan, Ralu; Wiederrecht, Gary P.; Gray, Stephen K. (2015). "When are Surface Plasmon Polaritons Excited in the Kretschmann-Raether Configuration?". Scientific Reports. 5: 9929. doi:10.1038/srep09929. PMC 4407725. PMID 25905685.
+^ Todeschini, Matteo; Bastos da Silva Fanta, Alice; Jensen, Flemming; Wagner, Jakob Birkedal; Han, Anpan (2017). "Influence of Ti and Cr Adhesion Layers on Ultrathin Au Films" (PDF). ACS Applied Materials & Interfaces. 9 (42): 37374 37385. doi:10.1021/acsami.7b10136. PMID 28967257.
+^ Liu, Liu; Han, Zhanghua; He, Sailing (2005). "Novel surface plasmon waveguide for high integration". Optics Express. 13 (17): 6645 6650. Bibcode:2005OExpr..13.6645L. doi:10.1364/OPEX.13.006645. PMID 19498679.
+^ Liu, Xiaoyong; Feng, Yijun; Chen, Ke; Zhu, Bo; Zhao, Junming; Jiang, Tian (2014). "Planar surface plasmonic waveguide devices based on symmetric corrugated thin film structures". Optics Express. 22 (17): 20107 20116. Bibcode:2014OExpr..2220107L. doi:10.1364/OE.22.020107. PMID 25321220.
+^ Chen, Wei; Zhong, Jialin; Li, Junzi; Saxena, Nitin; Kreuzer, Lucas P.; Liu, Haochen; Song, Lin; Su, Bo; Yang, Dan; Wang, Kun; Schlipf, Johannes (2 May 2019). "Structure and Charge Carrier Dynamics in Colloidal PbS Quantum Dot Solids". The Journal of Physical Chemistry Letters. 10 (9): 2058 2065. doi:10.1021/acs.jpclett.9b00869. ISSN 1948-7185. PMID 30964305. S2CID 104297006.
+^ Zou, Yuqin; Guo, Renjun; Buyruk, Ali; Chen, Wei; Xiao, Tianxiao; Yin, Shanshan; Jiang, Xinyu; Kreuzer, Lucas P.; Mu, Cheng; Ameri, Tayebeh; Schwartzkopf, Matthias (25 November 2020). "Sodium Dodecylbenzene Sulfonate Interface Modification of Methylammonium Lead Iodide for Surface Passivation of Perovskite Solar Cells". ACS Applied Materials & Interfaces. 12 (47): 52643 52651. doi:10.1021/acsami.0c14732. ISSN 1944-8244. PMID 33190484. S2CID 226973268.
+^ Chen, Wei; Guo, Renjun; Tang, Haodong; Wienhold, Kerstin S.; Li, Nian; Jiang, Zhengyan; Tang, Jun; Jiang, Xinyu; Kreuzer, Lucas P.; Liu, Haochen; Schwartzkopf, Matthias (2021). "Operando structure degradation study of PbS quantum dot solar cells". Energy & Environmental Science. 14 (6): 3420 3429. doi:10.1039/D1EE00832C. ISSN 1754-5692. S2CID 235510269.
+^ "Cell Mechanical Construction - Thin Film Batteries". mpoweruk.com. Woodbank Communications Ltd. Retrieved 3 October 2019.
+Further reading[edit]
+Textbooks
+Birkholz, Mario; Fewster, Paul F.; Genzel, Christoph (23 December 2005). Thin Film Analysis by X-Ray Scattering. Wiley-VCH. ISBN 978-3527310524.
+Ohring, Milton (26 October 2001). Materials Science of Thin Films, Second Edition. Academic Press. ISBN 978-1493301720.
+Seshan, Krishna (11 July 2017). Handbook of Thin Film Deposition 3rd Edition. William Andrew Publishing. ISBN 978-1437778731.
+Historical
+Mattox, Donald M (14 January 2004). The Foundations of Vacuum Coating Technology. William Andrew Publishing. ISBN 978-0815514954.
+Authority control National
+France
+BnF data
+Germany
+Israel
+United States
+Japan
+Czech Republic
+Other
+IdRef
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Thin_film&oldid=1146893042"

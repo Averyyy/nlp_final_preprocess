@@ -1,0 +1,245 @@
+Process of changing energy from one or two forms to another
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Energy transformation" news  newspapers  books  scholar  JSTOR (July 2017) (Learn how and when to remove this template message)
+ Fire is an example of energy transformation
+ Energy transformation using Energy Systems Language
+Energy transformation, also known as energy conversion, is the process of changing energy from one form to another.[1] In physics, energy is a quantity that provides the capacity to perform work or moving, (e.g. Lifting an object) or provides heat. In addition to being converted, according to the law of conservation of energy, energy is transferable to a different location or object, but it cannot be created or destroyed.
+The energy in many of its forms may be used in natural processes, or to provide some service to society such as heating, refrigeration, lighting or performing mechanical work to operate machines. For example, to heat a home, the furnace burns fuel, whose chemical potential energy is converted into thermal energy, which is then transferred to the home's air to raise its temperature.
+Limitations in the conversion of thermal energy[edit]
+Conversions to thermal energy from other forms of energy may occur with 100% efficiency.[2][self-published source?] Conversion among non-thermal forms of energy may occur with fairly high efficiency, though there is always some energy dissipated thermally due to friction and similar processes. Sometimes the efficiency is close to 100%, such as when potential energy is converted to kinetic energy as an object falls in a vacuum. This also applies to the opposite case; for example, an object in an elliptical orbit around another body converts its kinetic energy (speed) into gravitational potential energy (distance from the other object) as it moves away from its parent body. When it reaches the furthest point, it will reverse the process, accelerating and converting potential energy into kinetic. Since space is a near-vacuum, this process has close to 100% efficiency.
+Thermal energy is unique because it in most cases (willow) cannot be converted to other forms of energy. Only a difference in the density of thermal/heat energy (temperature) can be used to perform work, and the efficiency of this conversion will be (much) less than 100%. This is because thermal energy represents a particularly disordered form of energy; it is spread out randomly among many available states of a collection of microscopic particles constituting the system (these combinations of position and momentum for each of the particles are said to form a phase space). The measure of this disorder or randomness is entropy, and its defining feature is that the entropy of an isolated system never decreases. One cannot take a high-entropy system (like a hot substance, with a certain amount of thermal energy) and convert it into a low entropy state (like a low-temperature substance, with correspondingly lower energy), without that entropy going somewhere else (like the surrounding air). In other words, there is no way to concentrate energy without spreading out energy somewhere else.
+Thermal energy in equilibrium at a given temperature already represents the maximal evening-out of energy between all possible states[3] because it is not entirely convertible to a "useful" form, i.e. one that can do more than just affect temperature. The second law of thermodynamics states that the entropy of a closed system can never decrease. For this reason, thermal energy in a system may be converted to other kinds of energy with efficiencies approaching 100% only if the entropy of the universe is increased by other means, to compensate for the decrease in entropy associated with the disappearance of the thermal energy and its entropy content. Otherwise, only a part of that thermal energy may be converted to other kinds of energy (and thus useful work). This is because the remainder of the heat must be reserved to be transferred to a thermal reservoir at a lower temperature. The increase in entropy for this process is greater than the decrease in entropy associated with the transformation of the rest of the heat into other types of energy.
+In order to make energy transformation more efficient, it is desirable to avoid thermal conversion. For example, the efficiency of nuclear reactors, where the kinetic energy of the nuclei is first converted to thermal energy and then to electrical energy, lies at around 35%.[4][5] By direct conversion of kinetic energy to electric energy, effected by eliminating the intermediate thermal energy transformation, the efficiency of the energy transformation process can be dramatically improved.[6]
+History of energy transformation[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2019) (Learn how and when to remove this template message)
+Energy transformations in the universe over time are usually characterized by various kinds of energy, which have been available since the Big Bang, later being "released" (that is, transformed to more active types of energy such as kinetic or radiant energy) by a triggering mechanism.
+Release of energy from gravitational potential[edit]
+A direct transformation of energy occurs when hydrogen produced in the Big Bang collects into structures such as planets, in a process during which part of the gravitational potential is to be converted directly into heat. In Jupiter, Saturn, and Neptune, for example, such heat from the continued collapse of the planets' large gas atmospheres continue to drive most of the planets' weather systems. These systems, consisting of atmospheric bands, winds, and powerful storms, are only partly powered by sunlight. However, on Uranus, little of this process occurs.[why?][citation needed]
+On Earth, a significant portion of the heat output from the interior of the planet, estimated at a third to half of the total, is caused by the slow collapse of planetary materials to a smaller size, generating heat.[citation needed]
+Release of energy from radioactive potential[edit]
+Familiar examples of other such processes transforming energy from the Big Bang include nuclear decay, which releases energy that was originally "stored" in heavy isotopes, such as uranium and thorium. This energy was stored at the time of the nucleosynthesis of these elements. This process uses the gravitational potential energy released from the collapse of Type II supernovae to create these heavy elements before they are incorporated into star systems such as the Solar System and the Earth. The energy locked into uranium is released spontaneously during most types of radioactive decay, and can be suddenly released in nuclear fission bombs. In both cases, a portion of the energy binding the atomic nuclei together is released as heat.
+Release of energy from hydrogen fusion potential[edit]
+In a similar chain of transformations beginning at the dawn of the universe, nuclear fusion of hydrogen in the Sun releases another store of potential energy which was created at the time of the Big Bang. At that time, according to one theory[which?], space expanded and the universe cooled too rapidly for hydrogen to completely fuse into heavier elements. This resulted in hydrogen representing a store of potential energy which can be released by nuclear fusion. Such a fusion process is triggered by heat and pressure generated from the gravitational collapse of hydrogen clouds when they produce stars, and some of the fusion energy is then transformed into starlight. Considering the solar system, starlight, overwhelmingly from the Sun, may again be stored as gravitational potential energy after it strikes the Earth. This occurs in the case of avalanches, or when water evaporates from oceans and is deposited as precipitation high above sea level (where, after being released at a hydroelectric dam, it can be used to drive turbine/generators to produce electricity).
+Sunlight also drives many weather phenomena on Earth. One example is a hurricane, which occurs when large unstable areas of warm ocean, heated over months, give up some of their thermal energy suddenly to power a few days of violent air movement. Sunlight is also captured by plants as a chemical potential energy via photosynthesis, when carbon dioxide and water are converted into a combustible combination of carbohydrates, lipids, and oxygen. The release of this energy as heat and light may be triggered suddenly by a spark, in a forest fire; or it may be available more slowly for animal or human metabolism when these molecules are ingested, and catabolism is triggered by enzyme action.
+Through all of these transformation chains, the potential energy stored at the time of the Big Bang is later released by intermediate events, sometimes being stored in several different ways for long periods between releases, as more active energy. All of these events involve the conversion of one kind of energy into others, including heat.
+Examples[edit]
+Examples of sets of energy conversions in machines[edit]
+A coal-fired power plant involves these energy transformations:
+Chemical energy in the coal is converted into thermal energy in the exhaust gases of combustion
+Thermal energy of the exhaust gases converted into thermal energy of steam through heat exchange
+Kinetic energy of steam converted to mechanical energy in the turbine
+Mechanical energy of the turbine is converted to electrical energy by the generator, which is the ultimate output
+In such a system, the first and fourth steps are highly efficient, but the second and third steps are less efficient. The most efficient gas-fired electrical power stations can achieve 50% conversion efficiency.[citation needed] Oil- and coal-fired stations are less efficient.
+In a conventional automobile, the following energy transformations occur:
+Chemical energy in the fuel is converted into kinetic energy of expanding gas via combustion
+Kinetic energy of expanding gas converted to the linear piston movement
+Linear piston movement converted to rotary crankshaft movement
+Rotary crankshaft movement passed into transmission assembly
+Rotary movement passed out of transmission assembly
+Rotary movement passed through a differential
+Rotary movement passed out of differential to drive wheels
+Rotary movement of drive wheels converted to linear motion of the vehicle
+Other energy conversions[edit]
+ Lamatalaventosa Wind Farm
+There are many different machines and transducers that convert one energy form into another. A short list of examples follows:
+Thermoelectric (Heat   Electrical energy)
+Geothermal power (Heat  Electrical energy)
+Heat engines, such as the internal combustion engine used in cars, or the steam engine (Heat   Mechanical energy)
+Ocean thermal power (Heat   Electrical energy)
+Hydroelectric dams (Gravitational potential energy   Electrical energy)
+Electric generator (Kinetic energy or Mechanical work   Electrical energy)
+Fuel cells (Chemical energy   Electrical energy)
+Battery (electricity) (Chemical energy   Electrical energy)
+Fire (Chemical energy   Heat and Light)
+Electric lamp (Electrical energy   Heat and Light)
+Microphone (Sound   Electrical energy)
+Wave power (Mechanical energy   Electrical energy)
+Windmills (Wind energy   Electrical energy or Mechanical energy)
+Piezoelectrics (Strain   Electrical energy)
+Friction (Kinetic energy   Heat)
+Electric heater (Electric energy   Heat)
+Photosynthesis (Electromagnetic radiation   Chemical energy)
+ATP hydrolysis (Chemical energy in adenosine triphosphate   mechanical energy)
+See also[edit]
+Chaos theory
+Conservation law
+Conservation of energy
+Conservation of mass
+Groundwater energy balance
+Laws of thermodynamics
+Noether's theorem
+Uncertainty principle
+Energy quality
+Thermoeconomics
+Energy Accounting
+References[edit]
+^ "Energy Transfers and Transformations | National Geographic Society". education.nationalgeographic.org. Retrieved 2022-05-29.
+^ Pandey, Er. Akanksha (9 February 2010). "Advantages and Limitations of Ocean Thermal Energy Conversion". India Study Channel.
+^ Katinas, Vladislovas; Mar iukaitis, Mantas; Perednis, Eugenijus; Dzenajavi ien , Eugenija Farida (1 March 2019). "Analysis of biodegradable waste use for energy generation in Lithuania". Renewable and Sustainable Energy Reviews. 101: 559 567. doi:10.1016/j.rser.2018.11.022. S2CID 117316732.
+^ Dunbar, William R.; Moody, Scott D.; Lior, Noam (March 1995). "Exergy analysis of an operating boiling-water-reactor nuclear power station". Energy Conversion and Management. 36 (3): 149 159. doi:10.1016/0196-8904(94)00054-4.
+^ Wilson, P.D. (1996). The Nuclear Fuel Cycle: From Ore to Waste. New York: Oxford University Press.[page needed]
+^ Shinn, Eric; H bler, Alfred; Lyon, Dave; Perdekamp, Matthias Grosse; Bezryadin, Alexey; Belkin, Andrey (January 2013). "Nuclear energy conversion with stacks of graphene nanocapacitors". Complexity. 18 (3): 24 27. Bibcode:2013Cmplx..18c..24S. doi:10.1002/cplx.21427.
+Further reading[edit]
+"Energy Volume 3: Nuclear energy and energy policies". Applied Energy. 5 (4): 321. October 1979. doi:10.1016/0306-2619(79)90027-8.
+Energy Transfer and Transformation | Core knowledge science
+vteEnergy
+Outline
+History
+Index
+Fundamental concepts
+Energy
+Units
+Conservation of energy
+Energetics
+Energy transformation
+Energy condition
+Energy transition
+Energy level
+Energy system
+Mass
+Negative mass
+Mass energy equivalence
+Power
+Thermodynamics
+Quantum thermodynamics
+Laws of thermodynamics
+Thermodynamic system
+Thermodynamic state
+Thermodynamic potential
+Thermodynamic free energy
+Irreversible process
+Thermal reservoir
+Heat transfer
+Heat capacity
+Volume (thermodynamics)
+Thermodynamic equilibrium
+Thermal equilibrium
+Thermodynamic temperature
+Isolated system
+Entropy
+Free entropy
+Entropic force
+Negentropy
+Work
+Exergy
+Enthalpy
+Types
+Kinetic
+Internal
+Thermal
+Potential
+Gravitational
+Elastic
+Electric potential energy
+Mechanical
+Interatomic potential
+Quantum potential
+Electrical
+Magnetic
+Ionization
+Radiant
+Binding
+Nuclear binding energy
+Gravitational binding energy
+Quantum chromodynamics binding energy
+Dark
+Quintessence
+Phantom
+Negative
+Chemical
+Rest
+Sound energy
+Surface energy
+Vacuum energy
+Zero-point energy
+Quantum potential
+Quantum fluctuation
+Energy carriers
+Radiation
+Enthalpy
+Mechanical wave
+Sound wave
+Fuel
+fossil fuel
+Hydrogen
+Hydrogen fuel
+Heat
+Latent heat
+Work
+Electricity
+Battery
+Capacitor
+Primary energy
+Fossil fuel
+Coal
+Petroleum
+Natural gas
+Nuclear fuel
+Natural uranium
+Radiant energy
+Solar
+Wind
+Hydropower
+Marine energy
+Geothermal
+Bioenergy
+Gravitational energy
+Energy systemcomponents
+Energy engineering
+Oil refinery
+Electric power
+Fossil fuel power station
+Cogeneration
+Integrated gasification combined cycle
+Nuclear power
+Nuclear power plant
+Radioisotope thermoelectric generator
+Solar power
+Photovoltaic system
+Concentrated solar power
+Solar thermal energy
+Solar power tower
+Solar furnace
+Wind power
+Wind farm
+Airborne wind energy
+Hydropower
+Hydroelectricity
+Wave farm
+Tidal power
+Geothermal power
+Biomass
+Use andsupply
+Energy consumption
+Energy storage
+World energy consumption
+Energy security
+Energy conservation
+Efficient energy use
+Transport
+Agriculture
+Renewable energy
+Sustainable energy
+Energy policy
+Energy development
+Worldwide energy supply
+South America
+USA
+Mexico
+Canada
+Europe
+Asia
+Africa
+Australia
+Misc.
+Jevons paradox
+Carbon footprint
+ Category
+ Commons
+ Portal
+ WikiProject
+Authority control: National 
+Germany
+Israel
+United States
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Energy_transformation&oldid=1146469718"

@@ -1,0 +1,337 @@
+Gonadotropin secreted by the adenohypophysis
+Chorionic gonadotropin alphaIdentifiersSymbolCGAAlt. symbolsHCG, GPHa, GPHA1NCBI gene1081HGNC1885OMIM118850RefSeqNM_000735UniProtP01215Other dataLocusChr. 6 q14-q21Search forStructuresSwiss-modelDomainsInterPro
+Luteinizing hormone beta polypeptideIdentifiersSymbolLHBNCBI gene3972HGNC6584OMIM152780RefSeqNM_000894UniProtP01229Other dataLocusChr. 19 q13.3Search forStructuresSwiss-modelDomainsInterPro
+Luteinizing hormone (LH, also known as luteinising hormone[1], lutropin and sometimes lutrophin[2]) is a hormone produced by gonadotropic cells in the anterior pituitary gland. The production of LH is regulated by gonadotropin-releasing hormone (GnRH) from the hypothalamus.[3] In females, an acute rise of LH known as an LH surge, triggers ovulation[4] and development of the corpus luteum. In males, where LH had also been called interstitial cell stimulating hormone (ICSH),[5] it stimulates Leydig cell production of testosterone.[4] It acts synergistically with follicle-stimulating hormone (FSH).
+Structure[edit]
+LH  is a heterodimeric glycoprotein. Each monomeric unit is a  glycoprotein molecule; one alpha and one beta subunit make the full, functional protein.
+Its structure is similar to that of the other glycoprotein hormones, follicle-stimulating hormone (FSH), thyroid-stimulating hormone (TSH), and human chorionic gonadotropin (hCG). The protein dimer contains 2 glycopeptidic subunits (labeled alpha- and beta- subunits) that are non-covalently associated:[6]
+The alpha subunits of LH, FSH, TSH, and hCG are identical, and contain 92 amino acids in human but 96 amino acids in almost all other vertebrate species (glycoprotein hormones do not exist in invertebrates).
+The beta subunits vary. LH has a beta subunit of  120 amino acids (LHB) that confers its specific biologic action and is responsible for the specificity of the interaction with the LH receptor. This beta subunit contains an amino acid sequence that exhibits large homologies with that of the beta subunit of hCG and both stimulate the same receptor.  However, the hCG beta subunit contains an additional 24 amino acids, and the two hormones differ in the composition of their sugar moieties.
+The different composition of these oligosaccharides affects bioactivity and speed of degradation. The biologic half-life of LH is 20 minutes, shorter than that of  FSH (3 4 hours) and hCG (24 hours).[citation needed] The biological half-life of LH is 23 hours subcutaneous[7] or terminal half life of 10-12 hours.[8]
+Genes[edit]
+The gene for the alpha subunit is located on chromosome 6q12.21.
+The luteinizing hormone beta subunit gene is localized in the LHB/CGB gene cluster on chromosome 19q13.32. In contrast to the alpha gene activity, beta LH subunit gene activity is restricted to the pituitary gonadotropic cells. It is regulated by the gonadotropin-releasing hormone from the  hypothalamus. Inhibin, activin, and sex hormones do not affect genetic activity  for the beta subunit production of LH.
+Function[edit]
+ Effects of LH on the body
+In both males and females, LH works upon endocrine cells in the gonads to produce androgens. 
+Effects in females[edit]
+LH supports theca cells in the ovaries that provide androgens and hormonal precursors for estradiol production. At the time of menstruation, FSH initiates follicular growth, specifically affecting granulosa cells.[9] With the rise in estrogens, LH receptors are also expressed on the maturing follicle, which causes it to produce more estradiol. Eventually, when the follicle has fully matured, a spike in 17 -hydroxyprogesterone production by the follicle inhibits the production of estrogens. Previously, the preovulatory LH surge was attributed to a decrease in estrogen-mediated negative feedback of GnRH in the hypothalamus, subsequently stimulating the release of LH from the anterior pituitary.[10] More recent studies, however, attribute the LH surge to positive feedback from estradiol after production by the dominant follicle exceeds a certain threshold. Exceptionally high levels of estradiol induce hypothalamic production of progesterone, which stimulates elevated GnRH secretion, triggering a surge in LH.[11] The increase in LH production only lasts for 24 to 48 hours. This "LH surge" triggers ovulation, thereby not only releasing the egg from the follicle, but also initiating the conversion of the residual follicle into a corpus luteum that, in turn, produces progesterone to prepare the endometrium for a possible implantation. LH is necessary to maintain luteal function for the second two weeks of the menstrual cycle. If pregnancy occurs, LH levels will decrease, and luteal function will instead be maintained by the action of hCG (human chorionic gonadotropin), a hormone very similar to LH but secreted from the new placenta.
+Gonadal steroids (estrogens and androgens) generally have negative feedback effects on GnRH-1 release at the level of the hypothalamus and at the gonadotropes, reducing their sensitivity to GnRH. Positive feedback by estrogens also occurs in the gonadal axis of female mammals and is responsible for the midcycle surge of LH that stimulates ovulation. Although estrogens inhibit kisspeptin (Kp) release from kiss1 neurons in the ARC, estrogens stimulate Kp release from the Kp neurons in the AVPV. As estrogens' levels gradually increase the positive effect predominates, leading to the LH surge. GABA-secreting neurons that innervate GnRH-1 neurons also can stimulate GnRH-1 release. These GABA neurons also possess ERs and may be responsible for the GnRH-1 surge. Part of the inhibitory action of endorphins on GnRH-1 release is through inhibition of these GABA neurons. Rupture of the ovarian follicle at ovulation causes a drastic reduction in estrogen synthesis and a marked increase in secretion of progesterone by the corpus luteum in the ovary, reinstating a predominantly negative feedback on hypothalamic secretion of GnRH-1.[12]
+Effects in males[edit]
+LH acts upon the Leydig cells of the testis and is regulated by  gonadotropin-releasing hormone (GnRH).[13] The Leydig cells produce testosterone under the control of LH. LH binds to LH receptors on the membrane surface of Leydig cells. Binding to this receptor causes an increase in cyclic adenosine monophosphate (cAMP), a secondary messenger, which allows cholesterol to translocate into the mitochondria. Within the mitochondria, cholesterol is converted to pregnenolone by CYP11A1.[14] Pregnenolone is then converted to dehydroepiandrosterone (DHEA).[15] DHEA is then converted to androstenedione by 3 -hydroxysteroid dehydrogenase (3 -HSD)[16] and then finally converted to testosterone by 17 -hydroxysteroid dehydrogenase (HSD17B). The onset of puberty is controlled by two major hormones: FSH initiates spermatogenesis and LH signals the release of testosterone,[17] an androgen that exerts both endocrine activity and intratesticular activity on spermatogenesis.
+LH is released from the pituitary gland, and is controlled by pulses of  gonadotropin-releasing hormone. When bloodstream testosterone levels are low, the pituitary gland is stimulated to release LH.[13] As the levels of testosterone increase, it will act on the pituitary through a negative feedback loop and inhibit the release of GnRH and LH consequently.[citation needed] Androgens (including testosterone and dihydrotestosterone) inhibit monoamine oxidase (MAO) in the pineal gland, leading to increased melatonin and reduced LH and FSH by melatonin-induced increase of Gonadotropin-Inhibitory Hormone (GnIH)[18] synthesis and secretion. Testosterone can also be aromatized into estradiol (E2) to inhibit LH. E2 decreases pulse amplitude and responsiveness to GnRH from the hypothalamus onto the pituitary.[19]
+Changes in LH and testosterone blood levels and pulse secretions are induced by changes in sexual arousal in human males.[20]
+Normal levels[edit]
+ Reference ranges for the blood content of luteinizing hormone (LH) during the menstrual cycle.[21] The ranges denoted By biological stage may be used in closely monitored menstrual cycles in regard to other markers of its biological progression, with the time scale being compressed or stretched to how much faster or slower, respectively, the cycle progresses compared to an average cycle.The ranges denoted Inter-cycle variability are more appropriate to use in non-monitored cycles with only the beginning of menstruation known, but where the woman accurately knows her average cycle lengths and time of ovulation, and that they are somewhat averagely regular, with the time scale being compressed or stretched to how much a woman's average cycle length is shorter or longer, respectively, than the average of the population.The ranges denoted Inter-woman variability are more appropriate to use when the average cycle lengths and time of ovulation are unknown, but only the beginning of menstruation is given.
+LH levels are normally low during childhood and in women, high after menopause. Since LH is secreted as pulses, it is necessary to follow its concentration over a sufficient period of time to get proper information about its blood level.
+During reproductive years, typical levels are between 1 and 20 IU/L. Physiologic high LH levels are seen during the LH surge (v.s.) and typically last 48 hours.
+In males over 18 years of age, reference ranges have been estimated to be 1.8 8.6 IU/L.[22]
+LH is measured in international units (IU). When quantifying the amount of LH in a sample in IUs, it is important to know which international standard your lot of LH was calibrated against since they can vary broadly from year to year.  For human urinary LH, one IU is most recently defined as 1/189th of an ampule denoted 96/602 and distributed by the NIBSC, corresponding to approximately 0.04656 g of LH protein for a single IU, but older standard versions are still widely in use.[23][24]
+ Lateral flow test strip for urine LH used to predict ovulation.
+Predicting ovulation[edit]
+ Chance of fertilization by menstrual cycle day relative to ovulation[25]
+The detection of a surge in release of luteinizing hormone indicates impending ovulation. LH can be detected by urinary ovulation predictor kits (OPK, also LH-kit) that are performed, typically daily, around the time ovulation may be expected.[26]  A conversion from a negative to a positive reading would suggest that ovulation is about to occur within 24 48 hours, giving women two days to engage in sexual intercourse or artificial insemination with the intention of conceiving.[27]
+The recommended testing frequency differs between manufacturers. For example, the Clearblue test is taken daily, and an increased frequency does not decrease the risk of missing an LH surge.[28] On the other hand, the Chinese company Nantong Egens Biotechnology recommends using their test twice per day.[29] If testing once per day, no significant difference has been found between testing LH in the morning versus in the evening, in relation to conception rates,[30] and recommendations of what time in the day to take the test varies between manufacturers and healthcare workers.[31] Tests may be read manually using a color-change paper strip, or digitally with the assistance of reading electronics.
+Tests for luteinizing hormone may be combined with testing for estradiol in tests such as the Clearblue fertility monitor.[medical citation needed]
+The sensitivity of LH tests are measured in milli international unit, with tests commonly available in the range 10 40 m.i.u. (the lower the number, the higher the sensitivity).[citation needed]
+As sperm can stay viable in the woman for several days, LH tests are not recommended for contraceptive practices, as the LH surge typically occurs after the beginning of the fertile window.[citation needed]
+Disease states[edit]
+Excess[edit]
+In children with precocious puberty of pituitary or central origin, LH and FSH levels may be in the reproductive range instead of the low levels typical for their age.
+During the reproductive years, relatively elevated LH is frequently seen in patients with polycystic ovary syndrome; however, it would be unusual for them to have LH levels outside of the normal reproductive range.
+Persistently high LH levels are indicative of situations where the normal restricting feedback from the gonad is absent, leading to a pituitary production of  both LH and FSH. While this is typical in menopause, it is abnormal in the reproductive years. There it may be a sign of:
+Premature menopause
+Gonadal dysgenesis, Turner syndrome, Klinefelter syndrome
+Castration
+Swyer syndrome
+Polycystic ovary syndrome
+Certain forms of congenital adrenal hyperplasia
+Testicular failure
+Pregnancy   BetaHCG can mimic LH so tests may show elevated LH
+Note: A medical drug for inhibiting luteinizing hormone secretion is butinazocine.[32]
+Deficiency[edit]
+Diminished secretion of LH can result in failure of gonadal function (hypogonadism). This condition is typically manifest in males as failure in production of normal numbers of sperm. In females, amenorrhea  is commonly observed. Conditions with very low LH secretions include:
+Pasqualini syndrome[33][34]
+Kallmann syndrome
+Hypothalamic suppression
+Hypopituitarism
+Eating disorder
+Female athlete triad
+Hyperprolactinemia
+Hypogonadism
+Gonadal suppression therapy
+GnRH antagonist
+GnRH agonist (inducing an initial stimulation (flare up) followed by permanent blockage of the GnRH pituitary receptor)
+As a medication[edit]
+LH  is available mixed with FSH in the form of menotropin, and other forms of urinary gonadotropins. More purified forms of urinary gonadotropins may reduce the LH portion in relation to FSH. Recombinant LH is available as lutropin alfa (Luveris).[35]  All these medications have to be given parenterally. They are commonly used in infertility therapy to stimulate follicular development, the notable one being in IVF therapy.
+Often, HCG medication is used as an LH substitute because it activates the same receptor. Medically used hCG is derived from urine of pregnant women, is less costly, and has a longer half-life than LH.
+Role in phosphorylation[edit]
+Phosphorylation is a biochemical process that involves the addition of phosphate to an organic compound. Steroidogenesis entails processes by which cholesterol is converted to biologically active steroid hormones. Recent study shows that LH via a PKA signaling pathway regulates the phosphorylation and localization of DRP1 within mitochondria of the steroidogenic cells of the ovary.[36]
+References[edit]
+^ GCSE Science Revision Biology "The Menstrual Cycle", retrieved 2022-03-23
+^ Ujihara M, Yamamoto K, Nomura K, Toyoshima S, Demura H, Nakamura Y,  et al. (June 1992). "Subunit-specific sulphation of oligosaccharides relating to charge-heterogeneity in porcine lutrophin isoforms". Glycobiology. 2 (3): 225 31. doi:10.1093/glycob/2.3.225. PMID 1498420.
+^ Stamatiades, George A.; Kaiser, Ursula B. (2018-03-05). "Gonadotropin regulation by pulsatile GnRH: Signaling and gene expression". Molecular and Cellular Endocrinology. Signaling Pathways Regulating Pituitary Functions. 463: 131 141. doi:10.1016/j.mce.2017.10.015. ISSN 0303-7207. PMC 5812824. PMID 29102564.
+^ a b Nosek, Thomas M. "Section 5/5ch9/s5ch9_5". Essentials of Human Physiology. Archived from the original on 2016-03-24.
+^ Louvet JP, Harman SM, Ross GT (May 1975). "Effects of human chorionic gonadotropin, human interstitial cell stimulating hormone and human follicle-stimulating hormone on ovarian weights in estrogen-primed hypophysectomized immature female rats". Endocrinology. 96 (5): 1179 86. doi:10.1210/endo-96-5-1179. PMID 1122882.
+^ Jiang X, Dias JA, He X (January 2014). "Structural biology of glycoprotein hormones and their receptors: insights to signaling". Molecular and Cellular Endocrinology. 382 (1): 424 451. doi:10.1016/j.mce.2013.08.021. PMID 24001578.
+^ Ezcurra D, Humaidan P (October 2014). "A review of luteinising hormone and human chorionic gonadotropin when used in assisted reproductive technology". Reproductive Biology and Endocrinology. 12 (1): 95. doi:10.1186/1477-7827-12-95. PMC 4287577. PMID 25280580.
+^ le Cotonnec JY, Porchet HC, Beltrami V, Munafo A (February 1998). "Clinical pharmacology of recombinant human luteinizing hormone: Part I. Pharmacokinetics after intravenous administration to healthy female volunteers and comparison with urinary human luteinizing hormone". Fertility and Sterility. 69 (2): 189 94. doi:10.1016/S0015-0282(97)00501-3. PMID 9496327.
+^ Bowen R (13 May 2004). "Gonadotropins: Luteinizing and Follicle Stimulating Hormones". Colorado State University. Retrieved 12 March 2012.
+^ Mahesh VB (January 2012). "Hirsutism, virilism, polycystic ovarian disease, and the steroid-gonadotropin-feedback system: a career retrospective". American Journal of Physiology. Endocrinology and Metabolism. 302 (1): E4 E18. doi:10.1152/ajpendo.00488.2011. PMC 3328092. PMID 22028409.
+^ Micevych, Paul (2 December 2011). "The neurosteroid progesterone underlies estrogen positive feedback of the LH surge". Frontiers in Endocrinology. 2: 90. doi:10.3389/fendo.2011.00090. PMC 3356049. PMID 22654832.
+^ Norris DO, Carr JA (2013). Vertebrate Endocrinology. Academic Press. p. 126. ISBN 978-0-12-396465-6.
+^ a b "Male Medical Fertility Treatment: HCG + LH + Recombinant FSH To Increase Sperm Count Through Spermatogenisis". Archived from the original on February 19, 2015. Retrieved 6 April 2015.[unreliable medical source?]
+^ Zirkin BR, Papadopoulos V (July 2018). "Leydig cells: formation, function, and regulation". Biology of Reproduction. 99 (1): 101 111. doi:10.1093/biolre/ioy059. PMC 6044347. PMID 29566165.
+^ Akhtar MK, Kelly SL, Kaderbhai MA (November 2005). "Cytochrome b(5) modulation of 17{alpha} hydroxylase and 17-20 lyase (CYP17) activities in steroidogenesis". The Journal of Endocrinology. 187 (2): 267 74. doi:10.1677/joe.1.06375. PMID 16293774.
+^ Liu L, Kang J, Ding X, Chen D, Zhou Y, Ma H (2015). "Dehydroepiandrosterone-Regulated Testosterone Biosynthesis via Activation of the ERK1/2 Signaling Pathway in Primary Rat Leydig Cells". Cellular Physiology and Biochemistry. 36 (5): 1778 92. doi:10.1159/000430150. PMID 26184424. S2CID 13816368.
+^ Oduwole OO, Peltoketo H, Huhtaniemi IT (2018). "Role of Follicle-Stimulating Hormone in Spermatogenesis". Frontiers in Endocrinology. Nutrients. 9: 763. doi:10.3389/fendo.2018.00763. PMC 6302021. PMID 30619093.
+^ Ubuka T, Son YL, Tobari Y, Narihiro M, Bentley GE, Kriegsfeld LJ, Tsutsui K (2014). "Central and direct regulation of testicular activity by gonadotropin-inhibitory hormone and its receptor". Frontiers in Endocrinology. 5: 8. doi:10.3389/fendo.2014.00008. PMC 3902780. PMID 24478760.
+^ Pitteloud N, Dwyer AA, DeCruz S, Lee H, Boepple PA, Crowley WF, Hayes FJ (March 2008). "Inhibition of luteinizing hormone secretion by testosterone in men requires aromatization for its pituitary but not its hypothalamic effects: evidence from the tandem study of normal and gonadotropin-releasing hormone-deficient men". The Journal of Clinical Endocrinology and Metabolism. 93 (3): 784 91. doi:10.1210/jc.2007-2156. PMC 2266963. PMID 18073301.
+^ Stol ru SG, Ennaji A, Cournot A, Spira A (1993). "LH pulsatile secretion and testosterone blood levels are influenced by sexual arousal in human males". Psychoneuroendocrinology. 18 (3): 205 18. doi:10.1016/0306-4530(93)90005-6. PMID 8516424. S2CID 23595343.
+^ H ggstr m M (2014). "Reference ranges for estradiol, progesterone, luteinizing hormone and follicle-stimulating hormone during the menstrual cycle". WikiJournal of Medicine. 1 (1). doi:10.15347/wjm/2014.001. ISSN 2002-4436.
+^ Mayo Medical Laboratories - Test ID: LH, Luteinizing Hormone (LH), Serum Archived 2016-09-25 at the Wayback Machine, retrieved December 2012
+^ World Health Organization Proposed International Standard for Luteinizing Hormone. WHO Expert Committee on Biological Standardization. World Health Organization. Geneva. 2003.
+^ WHO International Standard, Luteinizing Hormone, Human, Recombinant. National Institute for Biological Standards and Control.
+^ Dunson DB, Baird DD, Wilcox AJ, Weinberg CR (July 1999). "Day-specific probabilities of clinical pregnancy based on two studies with imperfect measures of ovulation". Human Reproduction. 14 (7): 1835 9. doi:10.1093/humrep/14.7.1835. PMID 10402400.
+^ Nielsen MS, Barton SD, Hatasaka HH, Stanford JB (August 2001). "Comparison of several one-step home urinary luteinizing hormone detection test kits to OvuQuick". Fertility and Sterility. 76 (2): 384 7. doi:10.1016/S0015-0282(01)01881-7. PMID 11476792.
+^ "Ovulation Predictor Kit Frequently Asked Questions". Fertility Plus. Archived from the original on March 12, 2012. Retrieved 12 March 2012.[unreliable medical source?]
+^ "Clear Blue Ovulation Test Instructions". Ovulation Guide. Retrieved 2018-01-19.
+^ "Advanced Ovulation Test" (PDF). Homehealth-UK. Retrieved 2018-01-19. Version 1.1 02/11/15
+^ Martinez AR, Bernardus RE, Vermeiden JP, Schoemaker J (March 1994). "Time schedules of intrauterine insemination after urinary luteinizing hormone surge detection and pregnancy results". Gynecological Endocrinology. 8 (1): 1 5. doi:10.3109/09513599409028450. PMID 8059611.
+^ Page 67 in: Godwin I. Meniru (2001). Cambridge Guide to Infertility Management and Assisted Reproduction. Cambridge University Press.
+^ U.S. Patent 4,406,904
+^ Weiss J, Axelrod L, Whitcomb RW, Harris PE, Crowley WF, Jameson JL (January 1992). "Hypogonadism caused by a single amino acid substitution in the beta subunit of luteinizing hormone". The New England Journal of Medicine. 326 (3): 179 83. doi:10.1056/NEJM199201163260306. PMID 1727547.
+^ Valdes-Socin H, Salvi R, Daly AF, Gaillard RC, Quatresooz P, Tebeu PM,  et al. (December 2004). "Hypogonadism in a patient with a mutation in the luteinizing hormone beta-subunit gene". The New England Journal of Medicine. 351 (25): 2619 25. doi:10.1056/NEJMoa040326. hdl:2268/23485. PMID 15602022.
+^ Luveris information[unreliable medical source?] Archived June 18, 2006, at the Wayback Machine
+^ Plewes MR, Hou X, Talbott HA, Zhang P, Wood JR, Cupp AS, Davis JS (February 2020). "Luteinizing hormone regulates the phosphorylation and localization of the mitochondrial effector dynamin-related protein-1 (DRP1) and steroidogenesis in the bovine corpus luteum". FASEB Journal. Federation of American Societies for Experimental Biology. 34 (4): 5299 5316. doi:10.1096/fj.201902958R. PMC 7136153. PMID 32077149.
+External links[edit]
+Luteinizing+Hormone at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+vteMerck SeronoProducts
+Avelumab
+Bisoprolol
+Cetuximab
+Cladribine
+Efalizumab
+Gonadotropin preparations
+Human chorionic gonadotropin
+Interferon beta-1a
+Levothyroxine
+Luteinizing hormone
+Metformin
+Mitoxantrone
+Saizen
+Serostim
+Tegafur/uracil
+Related
+Merck Group
+Serono
+vteGnRH and gonadotropinsGnRH modulators(incl. analogues)Agonists
+Peptide: Azagly-nafarelin
+Buserelin
+Deslorelin
+Fertirelin
+Gonadorelin
+Goserelin
+Histrelin
+Lecirelin
+Leuprorelin (leuprolide)
+Nafarelin
+Peforelin
+Triptorelin
+Antagonists
+Peptide: Abarelix
+Cetrorelix
+Degarelix
+Ganirelix
+Non-peptide: Elagolix
+Linzagolix 
+Relugolix (+estradiol/norethisterone acetate)
+GonadotropinsPreparations
+Follicle-stimulating hormone
+Human chorionic gonadotropin
+Luteinizing hormone
+Menotropin
+Urofollitropin
+Others(indirect)Progonadotropins
+Sex steroid antagonists (via disinhibition of the HPG axis): Antiandrogens (e.g., flutamide, bicalutamide, enzalutamide)
+Antiestrogens/SERMs (e.g., tamoxifen, clomifene, enclomifene)
+Aromatase inhibitors (e.g., anastrozole)
+GnRH agonists (e.g., GnRH)
+Antigonadotropins
+Sex steroid agonists (via negative feedback on the HPG axis): Androgens/anabolic steroids (e.g., testosterone, nandrolone esters, oxandrolone)
+D2 receptor antagonists (prolactin releasers) (incl., domperidone, metoclopramide, risperidone, haloperidol, chlorpromazine, sulpiride)
+Estrogens (incl., bifluranol, estradiol, estradiol esters, ethinylestradiol, diethylstilbestrol, paroxypropione)
+Progestogens (incl. progestins, e.g., chlormadinone acetate, cyproterone acetate, hydroxyprogesterone caproate, gestonorone caproate, medroxyprogesterone acetate, megestrol acetate)
+Others (mixed or unknown mechanism of action): Danazol
+Gestrinone
+Metallibure
+#WHO-EM
+ Withdrawn from market
+Clinical trials:
+ Phase III
+ Never to phase III
+See also
+GnRH and gonadotropin receptor modulators
+Androgens and antiandrogens
+Estrogens and antiestrogens
+Progestogens and antiprogestogens
+vteHormonesEndocrineglandsHypothalamic-pituitaryHypothalamus
+GnRH
+TRH
+Dopamine
+CRH
+GHRH
+Somatostatin (GHIH)
+MCH
+Posterior pituitary
+Oxytocin
+Vasopressin
+Anterior pituitary
+FSH
+LH
+TSH
+Prolactin
+POMC
+CLIP
+ACTH
+MSH
+Endorphins
+Lipotropin
+GH
+Adrenal axis
+Adrenal cortex
+Aldosterone
+Cortisol
+Cortisone
+DHEA
+DHEA-S
+Androstenedione
+Adrenal medulla
+Adrenaline
+Norepinephrine
+Thyroid
+Thyroid hormones
+T3
+T4
+Calcitonin
+Thyroid axis
+Parathyroid
+PTH
+Gonadal axisTestis
+Testosterone
+AMH
+Inhibin
+Ovary
+Estradiol
+Progesterone
+Activin
+Inhibin
+Relaxin
+GnSAF
+Placenta
+hCG
+HPL
+Estrogen
+Progesterone
+Pancreas
+Glucagon
+Insulin
+Amylin
+Somatostatin
+Pancreatic polypeptide
+Pineal gland
+Melatonin
+N,N-Dimethyltryptamine
+5-Methoxy-N,N-dimethyltryptamine
+OtherThymus
+Thymosins
+Thymosin  1
+Beta thymosins
+Thymopoietin
+Thymulin
+Digestive systemStomach
+Gastrin
+Ghrelin
+Duodenum
+CCK
+GIP
+Secretin
+Motilin
+VIP
+Ileum
+Enteroglucagon
+Peptide YY
+GLP-1
+Liver/other
+Insulin-like growth factor
+IGF-1
+IGF-2
+Adipose tissue
+Leptin
+Adiponectin
+Resistin
+Skeleton
+Osteocalcin
+Kidney
+Renin
+EPO
+Calcitriol
+Prostaglandin
+Heart
+Natriuretic peptide
+ANP
+BNP
+vteGnRH and gonadotropin receptor modulatorsGnRH
+Agonists: Peptides: Alarelin
+Avorelin
+Azagly-nafarelin
+Buserelin
+Deslorelin
+Fertirelin
+GnRH
+Gonadorelin
+Goserelin
+Histrelin
+Leuprorelin (leuprolide)
+Lutrelin
+Nafarelin
+Peforelin
+Salmon GnRH
+Triptorelin
+Zoptarelin
+Zoptarelin doxorubicin
+Antagonists: Peptides: Abarelix
+Acyline
+Azaline B
+Cetrorelix
+Degarelix
+Detirelix
+Ganirelix
+Iturelix (antide)
+LXT-101
+Ornirelix (ornitide)
+Ozarelix
+Prazarelix
+Ramorelix
+Teverelix (antarelix); Non-peptides: Elagolix
+Linzagolix
+Opigolix
+Relugolix
+Sufugolix
+GonadotropinLH/hCG
+Agonists: Peptides: Choriogonadotropin alfa
+Human chorionic gonadotropin
+Luteinizing hormone
+Lutropin alfa
+Menotropin (human menopausal gonadotropin)
+FSH
+Agonists: Peptides: Corifollitropin alfa
+Follicle-stimulating hormone
+Follitropin alfa
+Follitropin beta
+Follitropin epsilon
+Menotropin (human menopausal gonadotropin)
+Urofollitropin
+Varfollitropin alfa
+NAMs: Non-peptides: ADX-61623
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Luteinizing_hormone&oldid=1147151635"

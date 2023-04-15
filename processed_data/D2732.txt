@@ -1,0 +1,838 @@
+Common electrical power generation, transmission and distribution method for alternating currents
+For a greater focus on the mathematics of this subject, see Mathematics of three-phase electric power.
+Not to be confused with Split-phase electric power.
+ Three-phase transformer with four wire output for 208Y/120 volt service: one wire for neutral, others for A, B and C phases
+Three-phase electric power (abbreviated 3 [1]) is a common type of alternating current used in electricity generation, transmission, and distribution.[2] It is a type of polyphase system employing three wires (or four including an optional neutral return wire) and is the most common method used by electrical grids worldwide to transfer power.
+Three-phase electrical power was developed in the 1880s by multiple people. Three-phase power works by the voltage and currents being 120 degrees out of phase on the three wires. As an AC system it allows the voltages to be easily stepped up using transformers to high voltage for transmission, and back down for distribution, giving high efficiency.
+A three-wire three-phase circuit is usually more economical than an equivalent two-wire single-phase circuit at the same line to ground voltage because it uses less conductor material to transmit a given amount of electrical power.[3] Three-phase power is mainly used directly to power large induction motors, other electric motors, and other heavy loads. Small loads often use only a two-wire single-phase circuit, which may be derived from a three-phase system. 
+Terminology[edit]
+The conductors between a voltage source and a load are called lines, and the voltage between any two lines is called line voltage. The voltage measured between any line and neutral is called phase voltage.[4] For example, for a 208/120 volt service, the line voltage is 208 Volts, and the phase voltage is 120 Volts.
+History[edit]
+Polyphase power systems were independently invented by Galileo Ferraris, Mikhail Dolivo-Dobrovolsky, Jonas Wenstr m, John Hopkinson, William Stanley Jr., and Nikola Tesla in the late 1880s.[5]
+ The first AC motor developed by Italian physicist Galileo Ferraris. This was a two-phase motor and required four wires.
+Three phase power evolved out of electric motor development. In 1885, Galileo Ferraris was doing research on rotating magnetic fields. Ferraris experimented with different types of asynchronous electric motors. The research and his studies resulted in the development of an alternator, which may be thought of as an alternating-current motor operating in reverse, so as to convert mechanical (rotating) power into electric power (as alternating current). On 11 March 1888, Ferraris published his research in a paper to the Royal Academy of Sciences in Turin.
+Two months later Nikola Tesla gained U.S. Patent 381,968 for a three-phase electric motor design, application filed October 12, 1887. Figure 13 of this patent shows that Tesla envisaged his three-phase motor being powered from the generator via six wires.
+These alternators operated by creating systems of alternating currents displaced from one another in phase by definite amounts, and depended on rotating magnetic fields for their operation. The resulting source of polyphase power soon found widespread acceptance. The invention of the polyphase alternator is key in the history of electrification, as is the power transformer. These inventions enabled power to be transmitted by wires economically over considerable distances. Polyphase power enabled the use of water-power (via hydroelectric generating plants in large dams) in remote places, thereby allowing the mechanical energy of the falling water to be converted to electricity, which then could be fed to an electric motor at any location where mechanical work needed to be done. This versatility sparked the growth of power-transmission network grids on continents around the globe.
+Mikhail Dolivo-Dobrovolsky developed a three-phase electrical generator and a three-phase electric motor in 1888 and studied star and delta connections. His three-phase three-wire transmission system was displayed in Europe at the International Electro-Technical Exhibition of 1891, where Dolivo-Dobrovolsky used the system to transmit electric power at the distance of 176 km with 75% efficiency. In 1891 he also created a three-phase transformer and short-circuited (squirrel-cage) induction motor.[6][7] He designed the world's first three-phase hydroelectric power plant in 1891. Inventor Jonas Wenstr m received in 1890 a Swedish patent on the same three-phase system.[8]
+Principle[edit]
+ Normalized waveforms of the instantaneous voltages in a three-phase system in one cycle with time increasing to the right. The phase order is 1 2 3. This cycle repeats with the frequency of the power system. Ideally, each phase's voltage, current, and power is offset from the others  by 120 .
+ Three-phase electric power transmission lines
+ Three-phase transformer (B k scsaba, Hungary): on the left are the primary wires and on the right are the secondary wires
+In a symmetric three-phase power supply system, three conductors each carry an alternating current of the same frequency and voltage amplitude relative to a common reference, but with a phase difference of one third of a cycle (i.e., 120 degrees out of phase) between each. The common reference is usually connected to ground and often to a current-carrying conductor called the neutral. Due to the phase difference, the voltage on any conductor reaches its peak at one third of a cycle after one of the other conductors and one third of a cycle before the remaining conductor. This phase delay gives constant power transfer to a balanced linear load. It also makes it possible to produce a rotating magnetic field in an electric motor and generate other phase arrangements using transformers (for instance, a two phase system using a Scott-T transformer). The amplitude of the voltage difference between two phases is 
+3
+{\displaystyle {\sqrt {3}}}
+ (1.732...) times the amplitude of the voltage of the individual phases.
+The symmetric three-phase systems described here are simply referred to as three-phase systems because, although it is possible to design and implement asymmetric three-phase power systems (i.e., with unequal voltages or phase shifts), they are not used in practice because they lack the most important advantages of symmetric systems.
+In a three-phase system feeding a balanced and linear load, the sum of the instantaneous currents of the three conductors is zero. In other words, the current in each conductor is equal in magnitude to the sum of the currents in the other two, but with the opposite sign. The return path for the current in any phase conductor is the other two phase conductors.
+Constant power transfer and cancelling phase currents are possible with any number (greater than one) of phases, maintaining the capacity-to-conductor material ratio that is twice that of single-phase power. However, two phases result in a less smooth (pulsating) current to the load (making smooth power transfer a challenge), and more than three phases complicate infrastructure unnecessarily.[9]
+Three-phase systems may have a fourth wire, common in low-voltage distribution. This is the neutral wire. The neutral allows three separate single-phase supplies to be provided at a constant voltage and is commonly used for supplying multiple single-phase loads. The connections are arranged so that, as far as possible in each group, equal power is drawn from each phase. Further up the distribution system, the currents are usually well balanced. Transformers may be wired to have a four-wire secondary and a three-wire primary, while allowing unbalanced loads and the associated secondary-side neutral currents.
+Phase sequence[edit]
+Wiring for the three phases is typically identified by colors that vary by country. The phases must be connected in the right order to achieve the intended direction of rotation of three-phase motors. For example, pumps and fans do not work in reverse. Maintaining the identity of phases is required if two sources could be connected at the same time; a direct interconnect between two different phases is a short circuit.
+Advantages[edit]
+As compared to a single-phase AC power supply that uses two conductors (phase and neutral), a three-phase supply with no neutral and the same phase-to-ground voltage and current capacity per phase can transmit three times as much power using just 1.5 times as many wires (i.e., three instead of two). Thus, the ratio of capacity to conductor material is doubled.[10] The ratio of capacity to conductor material increases to 3:1 with an ungrounded three-phase and center-grounded single-phase system (or 2.25:1 if both employ grounds of the same gauge as the conductors). This leads to higher efficiency, lower weight, and cleaner waveforms.
+Three-phase supplies have properties that make them desirable in electric power distribution systems:
+The phase currents tend to cancel out one another, summing to zero in the case of a linear balanced load. This makes it possible to reduce the size of the neutral conductor because it carries little or no current. With a balanced load, all the phase conductors carry the same current and so can be the same size.
+Power transfer into a linear balanced load is constant. In motor/generator applications, this helps to reduce vibrations.
+Three-phase systems can produce a rotating magnetic field with a specified direction and constant magnitude, which simplifies the design of electric motors, as no starting circuit is required.
+Most household loads are single-phase. In North American residences, three-phase power might feed an apartment block, while the household loads are connected as single phase.  In lower-density areas, a single phase might be used for distribution. Some high-power domestic appliances such as electric stoves and clothes dryers are powered by a split phase system at 240 volts or from two phases of a three phase system at 208 volts.
+Generation and distribution[edit]
+See also: Mains electricity by country
+ Animation of three-phase current
+Left image: elementary six-wire three-phase alternator with each phase using a separate pair of transmission wires.[11] Right image: elementary three-wire three-phase alternator showing how the phases can share only three wires.[12]
+At the power station, an electrical generator converts mechanical power into a set of three AC electric currents, one from each coil (or winding) of the generator. The windings are arranged such that the currents are at the same frequency but with the peaks and troughs of their wave forms offset to provide three complementary currents with a phase separation of one-third cycle (120  or 2 3 radians). The generator frequency is typically 50 or 60 Hz, depending on the country.
+At the power station, transformers change the voltage from generators to a level suitable for transmission in order to minimize losses.
+After further voltage conversions in the transmission network, the voltage is finally transformed to the standard utilization before power is supplied to customers.
+Most automotive alternators generate three-phase AC and rectify it to DC with a diode bridge.[13]
+Transformer connections[edit]
+A "delta" connected transformer winding is connected between phases of a three-phase system. A "wye" transformer connects each winding from a phase wire to a common neutral point.
+A single three-phase transformer can be used, or three single-phase transformers.
+In an "open delta" or "V" system, only two transformers are used. A closed delta made of three single-phase transformers can operate as an open delta if one of the transformers has failed or needs to be removed.[14] In open delta, each transformer must carry current for its respective phases as well as current for the third phase, therefore capacity is reduced to 87%. With one of three transformers missing and the remaining two at 87% efficiency, the capacity is 58% (2 3 of 87%).[15][16]
+Where a delta-fed system must be grounded for detection of stray current to ground or protection from surge voltages, a grounding transformer (usually a zigzag transformer) may be connected to allow ground fault currents to return from any phase to ground. Another variation is a "corner grounded" delta system, which is a closed delta that is grounded at one of the junctions of transformers.[17]
+Three-wire and four-wire circuits[edit]
+ Wye (Y) and delta ( ) circuits
+There are two basic three-phase configurations: wye (Y) and delta ( ). As shown in the diagram, a delta configuration requires only three wires for transmission but a wye (star) configuration may have a fourth wire. The fourth wire, if present, is provided as a neutral and is normally grounded. The three-wire and four-wire designations do not count the ground wire present above many transmission lines, which is solely for fault protection and does not carry current under normal use.
+A four-wire system with symmetrical voltages between phase and neutral is obtained when the neutral is connected to the "common star point" of all supply windings. In such a system, all three phases will have the same magnitude of voltage relative to the neutral. Other non-symmetrical systems have been used.
+The four-wire wye system is used when a mixture of single-phase and three-phase loads are to be served, such as mixed lighting and motor loads. An example of application is local distribution in Europe (and elsewhere), where each customer may be only fed from one phase and the neutral (which is common to the three phases). When a group of customers sharing the neutral draw unequal phase currents, the common neutral wire carries the currents resulting from these imbalances. Electrical engineers try to design the three-phase power system for any one location so that the power drawn from each of three phases is the same, as far as possible at that site.[18] Electrical engineers also try to arrange the distribution network so the loads are balanced as much as possible, since the same principles that apply to individual premises also apply to the wide-scale distribution system power. Hence, every effort is made by supply authorities to distribute the power drawn on each of the three phases over a large number of premises so that, on average, as nearly as possible a balanced load is seen at the point of supply.
+ A delta-wye configuration across a transformer core (note that a practical transformer would usually have a different number of turns on each side).
+For domestic use, some countries such as the UK may supply one phase and neutral at a high current (up to 100 A) to one property, while others such as Germany may supply 3 phases and neutral to each customer, but at a lower fuse rating, typically 40 63 A per phase, and "rotated" to avoid the effect that more load tends to be put on the first phase.[citation needed]
+ A transformer for a "high-leg delta" system used for mixed single-phase and three-phase loads on the same distribution system. Three-phase loads such as motors connect to L1, L2, and L3. Single-phase loads would be connected between L1 or L2 and neutral, or between L1 and L2. The L3 phase is 1.73 times the L1 or L2 voltage to neutral so this leg is not used for single-phase loads.
+Based on wye (Y) and delta ( ) connection. Generally, there are four different types of three-phase transformer winding connections for transmission and distribution purposes.
+wye (Y) - wye (Y) is used for small current and high voltage.
+Delta ( ) - Delta ( ) is used for large currents and low voltages.
+Delta ( ) - wye (Y) is used for step-up transformers i.e., at generating stations.
+wye (Y) - Delta ( ) is used for step-down transformers i.e., at the end of the transmission.
+In North America, a high-leg delta supply is sometimes used where one winding of a delta-connected transformer feeding the load is center-tapped and that center tap is grounded and connected as a neutral as shown in the second diagram. This setup produces three different voltages: If the voltage between the center tap (neutral) and each of the top and bottom taps (phase and anti-phase) is 120 V (100%), the voltage across the phase and anti-phase lines is 240 V (200%), and the neutral to "high leg" voltage is  208 V (173%).[14]
+The reason for providing the delta connected supply is usually to power large motors requiring a rotating field. However, the premises concerned will also require the "normal" North American 120 V supplies, two of which are derived (180 degrees "out of phase") between the "neutral" and either of the center tapped phase points.
+Balanced circuits[edit]
+In the perfectly balanced case all three lines share equivalent loads. Examining the circuits we can derive relationships between line voltage and current, and load voltage and current for wye and delta connected loads.
+In a balanced system each line will produce equal voltage magnitudes at phase angles equally spaced from each other. With V1 as our reference and V3 lagging V2 lagging V1, using angle notation, and VLN the voltage between the line and the neutral we have:[19]
+V
+1
+=
+V
+LN
+ 
+0
+ 
+,
+V
+2
+=
+V
+LN
+ 
+ 
+120
+ 
+,
+V
+3
+=
+V
+LN
+ 
++
+120
+ 
+.
+{\displaystyle {\begin{aligned}V_{1}&=V_{\text{LN}}\angle 0^{\circ },\\V_{2}&=V_{\text{LN}}\angle {-120}^{\circ },\\V_{3}&=V_{\text{LN}}\angle {+120}^{\circ }.\end{aligned}}}
+These voltages feed into either a wye or delta connected load.
+Wye (or, star; Y)[edit]
+ Three-phase AC generator connected as a wye or star source to a wye or star connected load
+The voltage seen by the load will depend on the load connection; for the wye case, connecting each load to a phase (line-to-neutral) voltages gives:[19]
+I
+1
+=
+V
+1
+|
+Z
+total
+|
+ 
+(
+ 
+ 
+)
+,
+I
+2
+=
+V
+2
+|
+Z
+total
+|
+ 
+(
+ 
+120
+ 
+ 
+ 
+)
+,
+I
+3
+=
+V
+3
+|
+Z
+total
+|
+ 
+(
+120
+ 
+ 
+ 
+)
+,
+{\displaystyle {\begin{aligned}I_{1}&={\frac {V_{1}}{\left|Z_{\text{total}}\right|}}\angle (-\theta ),\\[2pt]I_{2}&={\frac {V_{2}}{\left|Z_{\text{total}}\right|}}\angle \left(-120^{\circ }-\theta \right),\\[2pt]I_{3}&={\frac {V_{3}}{\left|Z_{\text{total}}\right|}}\angle \left(120^{\circ }-\theta \right),\end{aligned}}}
+where Ztotal is the sum of line and load impedances (Ztotal = ZLN + ZY), and   is the phase of the total impedance (Ztotal).
+The phase angle difference between voltage and current of each phase is not necessarily 0 and is dependent on the type of load impedance, Zy. Inductive and capacitive loads will cause current to either lag or lead the voltage. However, the relative phase angle between each pair of lines (1 to 2, 2 to 3, and 3 to 1) will still be  120 .
+ A phasor diagram for a wye configuration, in which Vab represents a line voltage and Van represents a phase voltage. Voltages are balanced as:Vab = (1    1  + 120 )  3 |V|  + 30 Vbc =  3 |V|    90 Vca =  3 |V|  + 150  (  = 0 in this case.)
+By applying Kirchhoff's current law (KCL) to the neutral node, the three phase currents sum to the total current in the neutral line. In the balanced case:
+I
+1
++
+I
+2
++
+I
+3
+=
+I
+N
+=
+0.
+{\displaystyle I_{1}+I_{2}+I_{3}=I_{\text{N}}=0.}
+Delta ( )[edit]
+ Three-phase AC generator connected as a wye source to a delta-connected load
+In the delta circuit, loads are connected across the lines, and so loads see line-to-line voltages:[19]
+V
+12
+=
+V
+1
+ 
+V
+2
+=
+(
+V
+LN
+ 
+0
+ 
+)
+ 
+(
+V
+LN
+ 
+ 
+120
+ 
+)
+=
+3
+V
+LN
+ 
+30
+ 
+=
+3
+V
+1
+ 
+(
+ 
+V
+1
++
+30
+ 
+)
+,
+V
+23
+=
+V
+2
+ 
+V
+3
+=
+(
+V
+LN
+ 
+ 
+120
+ 
+)
+ 
+(
+V
+LN
+ 
+120
+ 
+)
+=
+3
+V
+LN
+ 
+ 
+90
+ 
+=
+3
+V
+2
+ 
+(
+ 
+V
+2
++
+30
+ 
+)
+,
+V
+31
+=
+V
+3
+ 
+V
+1
+=
+(
+V
+LN
+ 
+120
+ 
+)
+ 
+(
+V
+LN
+ 
+0
+ 
+)
+=
+3
+V
+LN
+ 
+150
+ 
+=
+3
+V
+3
+ 
+(
+ 
+V
+3
++
+30
+ 
+)
+.
+{\displaystyle {\begin{aligned}V_{12}&=V_{1}-V_{2}=\left(V_{\text{LN}}\angle 0^{\circ }\right)-\left(V_{\text{LN}}\angle {-120}^{\circ }\right)\\&={\sqrt {3}}V_{\text{LN}}\angle 30^{\circ }={\sqrt {3}}V_{1}\angle \left(\phi _{V_{1}}+30^{\circ }\right),\\[3pt]V_{23}&=V_{2}-V_{3}=\left(V_{\text{LN}}\angle {-120}^{\circ }\right)-\left(V_{\text{LN}}\angle 120^{\circ }\right)\\&={\sqrt {3}}V_{\text{LN}}\angle {-90}^{\circ }={\sqrt {3}}V_{2}\angle \left(\phi _{V_{2}}+30^{\circ }\right),\\[3pt]V_{31}&=V_{3}-V_{1}=\left(V_{\text{LN}}\angle 120^{\circ }\right)-\left(V_{\text{LN}}\angle 0^{\circ }\right)\\&={\sqrt {3}}V_{\text{LN}}\angle 150^{\circ }={\sqrt {3}}V_{3}\angle \left(\phi _{V_{3}}+30^{\circ }\right).\\\end{aligned}}}
+( v1 is the phase shift for the first voltage, commonly taken to be 0 ; in this case,  v2 =  120  and  v3 =  240  or 120 .)
+Further:
+I
+12
+=
+V
+12
+|
+Z
+ 
+|
+ 
+(
+30
+ 
+ 
+ 
+)
+,
+I
+23
+=
+V
+23
+|
+Z
+ 
+|
+ 
+(
+ 
+90
+ 
+ 
+ 
+)
+,
+I
+31
+=
+V
+31
+|
+Z
+ 
+|
+ 
+(
+150
+ 
+ 
+ 
+)
+,
+{\displaystyle {\begin{aligned}I_{12}&={\frac {V_{12}}{\left|Z_{\Delta }\right|}}\angle \left(30^{\circ }-\theta \right),\\[2pt]I_{23}&={\frac {V_{23}}{\left|Z_{\Delta }\right|}}\angle \left(-90^{\circ }-\theta \right),\\[2pt]I_{31}&={\frac {V_{31}}{\left|Z_{\Delta }\right|}}\angle \left(150^{\circ }-\theta \right),\end{aligned}}}
+where   is the phase of delta impedance (Z ).
+Relative angles are preserved, so I31 lags I23 lags I12 by 120 . Calculating line currents by using KCL at each delta node gives:
+I
+1
+=
+I
+12
+ 
+I
+31
+=
+I
+12
+ 
+I
+12
+ 
+120
+ 
+=
+3
+I
+12
+ 
+(
+ 
+I
+12
+ 
+30
+ 
+)
+=
+3
+I
+12
+ 
+(
+ 
+ 
+)
+{\displaystyle {\begin{aligned}I_{1}&=I_{12}-I_{31}=I_{12}-I_{12}\angle 120^{\circ }\\&={\sqrt {3}}I_{12}\angle \left(\phi _{I_{12}}-30^{\circ }\right)={\sqrt {3}}I_{12}\angle (-\theta )\end{aligned}}}
+and similarly for each other line:
+I
+2
+=
+3
+I
+23
+ 
+(
+ 
+I
+23
+ 
+30
+ 
+)
+=
+3
+I
+23
+ 
+(
+ 
+120
+ 
+ 
+ 
+)
+,
+I
+3
+=
+3
+I
+31
+ 
+(
+ 
+I
+31
+ 
+30
+ 
+)
+=
+3
+I
+31
+ 
+(
+120
+ 
+ 
+ 
+)
+,
+{\displaystyle {\begin{aligned}I_{2}&={\sqrt {3}}I_{23}\angle \left(\phi _{I_{23}}-30^{\circ }\right)={\sqrt {3}}I_{23}\angle \left(-120^{\circ }-\theta \right),\\[2pt]I_{3}&={\sqrt {3}}I_{31}\angle \left(\phi _{I_{31}}-30^{\circ }\right)={\sqrt {3}}I_{31}\angle \left(120^{\circ }-\theta \right),\end{aligned}}}
+where, again,   is the phase of delta impedance (Z ).
+ A delta configuration and a corresponding phasor diagram of its currents. Phase voltages are equal to line voltages, and currents are calculated as:Ia = Iab   Ica =  3 Iab 30 Ib = Ibc   IabIc = Ica   Ibc The overall power transferred is: S3  = 3VphaseI*phase
+Inspection of a phasor diagram, or conversion from phasor notation to complex notation, illuminates how the difference between two line-to-neutral voltages yields a line-to-line voltage that is greater by a factor of  3. As a delta configuration connects a load across phases of a transformer, it delivers the line-to-line voltage difference, which is  3 times greater than the line-to-neutral voltage delivered to a load in the wye configuration. As the power transferred is V2/Z, the impedance in the delta configuration must be 3 times what it would be in a wye configuration for the same power to be transferred.
+Single-phase loads[edit]
+Except in a high-leg delta system and a corner grounded delta system, single-phase loads may be connected across any two phases, or a load can be connected from phase to neutral.[20] Distributing single-phase loads among the phases of a three-phase system balances the load and makes most economical use of conductors and transformers. 
+In a symmetrical three-phase four-wire, wye system, the three phase conductors have the same voltage to the system neutral. The voltage between line conductors is  3 times the phase conductor to neutral voltage:[21]
+V
+LL
+=
+3
+V
+LN
+.
+{\displaystyle V_{\text{LL}}={\sqrt {3}}V_{\text{LN}}.}
+The currents returning from the customers' premises to the supply transformer all share the neutral wire. If the loads are evenly distributed on all three phases, the sum of the returning currents in the neutral wire is approximately zero. Any unbalanced phase loading on the secondary side of the transformer will use the transformer capacity inefficiently.
+If the supply neutral is broken, phase-to-neutral voltage is no longer maintained. Phases with higher relative loading will experience reduced voltage, and phases with lower relative loading will experience elevated voltage, up to the phase-to-phase voltage.
+A high-leg delta provides phase-to-neutral relationship of VLL = 2 VLN , however, LN load is imposed on one phase.[14] A transformer manufacturer's page suggests that LN loading not exceed 5% of transformer capacity.[22]
+Since  3   1.73, defining VLN as 100% gives VLL   100%   1.73 = 173%. If VLL was set as 100%, then VLN   57.7%.
+Unbalanced loads[edit]
+When the currents on the three live wires of a three-phase system are not equal or are not at an exact 120  phase angle, the power loss is greater than for a perfectly balanced system. The method of symmetrical components is used to analyze unbalanced systems.
+Non-linear loads[edit]
+With linear loads, the neutral only carries the current due to imbalance between the phases. Gas-discharge lamps and devices that utilize rectifier-capacitor front-end such as switch-mode power supplies, computers, office equipment and such produce third-order harmonics that are in-phase on all the supply phases. Consequently, such harmonic currents add in the neutral in a wye system (or in the grounded (zigzag) transformer in a delta system), which can cause the neutral current to exceed the phase current.[20][23]
+Three-phase loads[edit]
+See also: Industrial and multiphase power plugs and sockets
+ Three-phase electric machine with rotating magnetic fields
+An important class of three-phase load is the electric motor. A three-phase induction motor has a simple design, inherently high starting torque and high efficiency. Such motors are applied in industry for many applications. A three-phase motor is more compact and less costly than a single-phase motor of the same voltage class and rating, and single-phase AC motors above 10 HP (7.5 kW) are uncommon. Three-phase motors also vibrate less and hence last longer than single-phase motors of the same power used under the same conditions.[24]
+Resistance heating loads such as electric boilers or space heating may be connected to three-phase systems. Electric lighting may also be similarly connected.
+Line frequency flicker in light is detrimental to high speed cameras used in sports event broadcasting for slow motion replays. It can be reduced by evenly spreading line frequency operated light sources across the three phases so that the illuminated area is lit from all three phases. This technique was applied successfully at the 2008 Beijing Olympics.[25]
+Rectifiers may use a three-phase source to produce a six-pulse DC output.[26] The output of such rectifiers is much smoother than rectified single phase and, unlike single-phase, does not drop to zero between pulses. Such rectifiers may be used for battery charging, electrolysis processes such as aluminium production or for operation of DC motors. "Zig-zag" transformers may make the equivalent of six-phase full-wave rectification, twelve pulses per cycle, and this method is occasionally employed to reduce the cost of the filtering components, while improving the quality of the resulting DC.
+ Three phase plug used in the past on electric stoves in Germany
+One example of a three-phase load is the electric arc furnace used in steelmaking and in refining of ores.
+In many European countries electric stoves are usually designed for a three-phase feed with permanent connection. Individual heating units are often connected between phase and neutral to allow for connection to a single-phase circuit if three-phase is not available.[27] Other usual three-phase loads in the domestic field are tankless water heating systems and storage heaters. Homes in Europe and the UK have standardized on a nominal 230 V between any phase and ground. (Existing supplies remain near 240 V in the UK.) Most groups of houses are fed from a three-phase street transformer so that individual premises with above-average demand can be fed with a second or third phase connection.
+Phase converters[edit]
+Phase converters are used when three-phase equipment needs to be operated on a single-phase power source. They are used when three-phase power is not available or cost is not justifiable. Such converters may also allow the frequency to be varied, allowing speed control. Some railway locomotives use a single-phase source to drive three-phase motors fed through an electronic drive.[28]
+A rotary phase converter is a three-phase motor with special starting arrangements and power factor correction that produces balanced three-phase voltages. When properly designed, these rotary converters can allow satisfactory operation of a three-phase motor on a single-phase source. In such a device, the energy storage is performed by the inertia (flywheel effect) of the rotating components. An external flywheel is sometimes found on one or both ends of the shaft.
+A three-phase generator can be driven by a single-phase motor. This motor-generator combination can provide a frequency changer function as well as phase conversion, but requires two machines with all their expenses and losses. The motor-generator method can also form an uninterruptible power supply when used in conjunction with a large flywheel and a battery-powered DC motor; such a combination will deliver nearly constant power compared to the temporary frequency drop experienced with a standby generator set gives until the standby generator kicks in.
+Capacitors and autotransformers can be used to approximate a three-phase system in a static phase converter, but the voltage and phase angle of the additional phase may only be useful for certain loads.
+Variable-frequency drives and digital phase converters use power electronic devices to synthesize a balanced three-phase supply from single-phase input power.
+Testing[edit]
+Verification of the phase sequence in a circuit is of considerable practical importance. Two sources of three-phase power must not be connected in parallel unless they have the same phase sequence, for example, when connecting a generator to an energized distribution network or when connecting two transformers in parallel. Otherwise, the interconnection will behave like a short circuit, and excess current will flow. The direction of rotation of three-phase motors can be reversed by interchanging any two phases; it may be impractical or harmful to test a machine by momentarily energizing the motor to observe its rotation. Phase sequence of two sources can be verified by measuring voltage between pairs of terminals and observing that terminals with very low voltage between them will have the same phase, whereas pairs that show a higher voltage are on different phases.
+Where the absolute phase identity is not required, phase rotation test instruments can be used to identify the rotation sequence with one observation. The phase rotation test instrument may contain a miniature three-phase motor, whose direction of rotation can be directly observed through the instrument case. Another pattern uses a pair of lamps and an internal phase-shifting network to display the phase rotation. Another type of instrument can be connected to a de-energized three-phase motor and can detect the small voltages induced by residual magnetism, when the motor shaft is rotated by hand. A lamp or other indicator lights to show the sequence of voltages at the terminals for the given direction of shaft rotation.[29]
+Alternatives to three-phase[edit]
+Split-phase electric power
+Used when three-phase power is not available and allows double the normal utilization voltage to be supplied for high-power loads.
+Two-phase electric power
+Uses two AC voltages, with a 90-electrical-degree phase shift between them. Two-phase circuits may be wired with two pairs of conductors, or two wires may be combined, requiring only three wires for the circuit. Currents in the common conductor add to 1.4 times the current in the individual phases, so the common conductor must be larger. Two-phase and three-phase systems can be interconnected by a Scott-T transformer, invented by Charles F. Scott.[30] Very early AC machines, notably the first generators at Niagara Falls, used a two-phase system, and some remnant two-phase distribution systems still exist, but three-phase systems have displaced the two-phase system for modern installations.
+Monocyclic power
+An asymmetrical modified two-phase power system used by General Electric around 1897, championed by Charles Proteus Steinmetz and Elihu Thomson. This system was devised to avoid patent infringement. In this system, a generator was wound with a full-voltage single-phase winding intended for lighting loads and with a small fraction (usually 1/4 of the line voltage) winding that produced a voltage in quadrature with the main windings. The intention was to use this "power wire" additional winding to provide starting torque for induction motors, with the main winding providing power for lighting loads. After the expiration of the Westinghouse patents on symmetrical two-phase and three-phase power distribution systems, the monocyclic system fell out of use; it was difficult to analyze and did not last long enough for satisfactory energy metering to be developed.
+High-phase-order systems
+Have been built and tested for power transmission. Such transmission lines typically would use six or twelve phases. High-phase-order transmission lines allow transfer of slightly less than proportionately higher power through a given volume without the expense of a high-voltage direct current (HVDC) converter at each end of the line. However, they require correspondingly more pieces of equipment.
+DC
+AC was historically used because it could be easily transformed to higher voltages for long distance transmission. However modern electronics can raise the voltage of DC with high efficiency, and DC lacks skin effect which permits transmission wires to be lighter and cheaper and so high-voltage direct current gives lower losses over long distances.
+Color codes[edit]
+See also: Electrical wiring  Colour code
+Conductors of a three-phase system are usually identified by a color code, to allow for balanced loading and to assure the correct phase rotation for motors. Colors used may adhere to International Standard IEC 60446 (later IEC 60445), older standards or to no standard at all and may vary even within a single installation. For example, in the U.S. and Canada, different color codes are used for grounded (earthed) and ungrounded systems.
+Country
+Phases[note 1]
+Neutral, N[note 2]
+Protective earth, PE[note 3]
+L1
+L2
+L3
+Australia and New Zealand (AS/NZS 3000:2007 Figure 3.2, or IEC 60446 as approved by AS:3000)
+Red, or brown[note 4]
+White;[note 4] prev. yellow
+Dark blue, or grey[note 4]
+Black, or blue[note 4]
+Green/Yellow-striped; (Installations prior to 1966, Green.)
+Canada
+Mandatory[31]
+Red[note 5]
+Black
+Blue
+White, or grey
+Green perhaps yellow-striped, or uninsulated
+Isolated systems[32]
+Orange
+Brown
+Yellow
+White, or grey
+Green perhaps yellow-striped
+European CENELEC (European Union and others; since April 2004, IEC 60446, later IEC 60445-2017), United Kingdom (since 31 March 2004), Hong Kong (from July 2007), Singapore (from March 2009), Russia (since 2009; GOST R 50462), Argentina, Ukraine, Belarus, Kazakhstan, South Korea (from Jan. 2021)
+Brown
+Black
+Grey
+Blue
+Green/yellow-striped[note 6]
+Older European (prior to IEC 60446, varied by country)[note 7]
+UK (before April 2006), Hong Kong (before April 2009), South Africa, Malaysia, Singapore (before February 2011)
+Red
+Yellow
+Blue
+Black
+Green/yellow-striped; before c. 1970, green
+India
+Red
+Yellow
+Blue
+Black
+Green perhaps yellow-striped
+Chile - NCH 4/2003
+Blue
+Black
+Red
+White
+Green perhaps yellow-striped
+Former USSR (Russia, Ukraine, Kazakhstan; before 2009), People's Republic of China[note 8] (GB 50303-2002 Section 15.2.2)
+Yellow
+Green
+Red
+Sky blue
+Green/yellow-striped
+Norway (before CENELEC adoption)
+Black
+White/grey
+Brown
+Blue
+Yellow/green-striped; prev. yellow, or uninsulated
+United States
+Common practice[note 9]
+Black
+Red
+Blue
+White, or grey
+Green perhaps yellow-striped,[note 10] or uninsulated
+Alternative practice[note 11]
+Brown
+Orange (delta[note 12])
+Yellow
+Grey, or white
+Green
+Violet (wye)
+See also[edit]
+Industrial and multiphase power plugs and sockets
+International Electrotechnical Exhibition
+Mathematics of three-phase electric power
+Rotary phase converter
+Three-phase AC railway electrification
+Y-  transform
+Notes[edit]
+^ Many labelling systems exist for phases, some having additional meaning, such as: H1, H2, H3; A, B, C; R, S, T; U, V, W; R, Y, B.
+^ Also, grounded conductor.
+^ Also, earth, or grounding conductor.
+^ a b c d In Australia and New Zealand, active conductors can be any color except green/yellow, green, yellow, black, or light blue. Yellow is no longer permitted in the 2007 revision of wiring code ASNZS 3000.  European color codes are used for all IEC or flex cables such as extension leads, appliance leads etc. and are equally permitted for use in building wiring per AS/NZS 3000:2007.
+^ In Canada the high leg conductor in a high-leg delta system is always marked red.
+^ The international standard green-yellow marking of protective-earth conductors was introduced to reduce the risk of confusion by color blind installers. About 7% to 10% of men cannot clearly distinguish between red and green, which is a particular concern in older schemes where red marks a live conductor and green marks protective earth or safety ground.
+^ In Europe, there still exist many installations with older colors but, since the early 1970s, all new installations use green/yellow earth according to IEC 60446. (E.g. phase/neutral & earth, German: black/grey & red; France: green/red & white; Russia: red/grey & black; Switzerland: red/grey & yellow or yellow & red; Denmark: white/black & red.
+^ Note that while China officially uses phase 1: yellow, phase 2: green, phase 3: red, neutral: blue, ground: green/yellow, this is not strongly enforced and there is significant local variation.
+^ See Paul Cook: Harmonised colours and alphanumeric marking. IEE Wiring Matters
+^ In the U.S., a green/yellow striped wire may indicate an isolated ground.[citation needed] In most countries today, green/yellow striped wire may only be used for protective earth (safety ground) and may never be unconnected or used for any other purpose.
+^ Since 1975, the U.S. National Electric Code has not specified coloring of phase conductors. It is common practice in many regions to identify 120/208 V (wye) conductors as black, red, and blue, and 277/480 V (wye or delta) conductors as brown, orange, yellow. In a 120/240 V delta system with a 208 V high leg, the high leg (typically B phase) is always marked orange, commonly A phase is black and C phase is either red or blue. Local regulations may amend the N.E.C. The U.S. National Electric Code has color requirements for grounded conductors, ground, and grounded-delta three-phase systems which result in one ungrounded leg having a higher voltage potential to ground than the other two ungrounded legs.
+^ Must be the high leg, if it is present.
+References[edit]
+^ Saleh, S. A.; Rahman, M. A. (25 March 2013). "The analysis and development of controlled 3  wavelet modulated AC-DC converter". 2012 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES): 1 6. doi:10.1109/PEDES.2012.6484282. ISBN 978-1-4673-4508-8. S2CID 32935308.
+^ William D. Stevenson, Jr. Elements of Power System Analysis Third Edition, McGraw-Hill, New York (1975). ISBN 0-07-061285-4, p. 2
+^ Terrell Croft, Wilford Summers (ed), American Electricians' Handbook, 11th ed., McGraw Hill, 1987 ISBN 0-07-013932-6 page 3-10 figure 3-23.
+^ Brumbach, Michael (2014). Industrial maintenance. Clifton Park, NY: Delmar, Cengage Learning. p. 411. ISBN 9781133131199.
+^ "AC Power History and Timeline". Edison Tech Center. Edison Tech Center. Retrieved January 24, 2022.
+^ Woodbank Communications Ltd.'s Electropaedia: "History of Batteries (and other things)"
+^ Gerhard Neidh fer: Michael von Dolivo-Dobrowolsky und der Drehstrom.  Geschichte der Elektrotechnik VDE-Buchreihe, Volume 9, VDE VERLAG, Berlin Offenbach, ISBN 978-3-8007-3115-2.
+^ Bergstr m och Nordlund, Lars. Ell ra- Kretsteknik och f ltteori. Natural romedel. p. 283. ISBN 91-7536-330-5.
+^ von Meier, Alexandra (2006). Electric Power Systems. Hoboken, New Jersey: John Wiley & Sons, Inc. p. 160. ISBN 978-0-471-17859-0. We also stated one rationale for this three-phase system; namely, that a three-phase generator experiences a constant torque on its rotor as opposed to the pulsating torque that appears in a single- or two-phase machine, which is obviously preferable from a mechanical engineering standpoint.
+^ Cotton, H, Electrical Technology, 6th Ed., Pitman, London, 1950, p. 268
+^ Hawkins Electrical Guide, Theo. Audel and Co., 2nd ed., 1917, vol. 4, Ch. 46: Alternating Currents, p. 1026, fig. 1260.
+^ Hawkins Electrical Guide, Theo. Audel and Co., 2nd ed., 1917, vol. 4, Ch. 46: Alternating Currents, p. 1026, fig. 1261.
+^ "A New Design for Automotive Alternators" (PDF). August 30, 2017. Archived from the original (PDF) on 2017-08-30.
+^ a b c Fowler, Nick (2011). Electrician's Calculations Manual 2nd Edition. McGraw-Hill. pp. 3 5. ISBN 978-0-07-177017-0.
+^ McGraw-Hill (1920). "Three-Phase Power from Single-Phase Transformer Connections". Power. 51 (17). Retrieved 21 December 2012.
+^ H. W. Beaty, D.G. Fink (ed) Standard Handbook for Electrical Engineers Fifteenth Edition, McGraw-Hill, 2007 ISBN 0-07-144146-8, p. 10 11
+^ "Schneider" (PDF). Archived (PDF) from the original on 2022-10-09.
+^ "Saving energy through load balancing and load scheduling" (PDF). Archived from the original (PDF) on 2014-09-11. Retrieved 2014-08-03.
+^ a b c J. Duncan Glover; Mulukutla S. Sarma; Thomas J. Overbye (April 2011). Power System Analysis & Design. Cengage Learning. pp. 60 68. ISBN 978-1-111-42579-1.
+^ a b Lowenstein, Michael. "The 3rd Harmonic Blocking Filter: A Well Established Approach to Harmonic Current Mitigation". IAEI Magazine. Archived from the original on 8 September 2013. Retrieved 24 November 2012.
+^ The boy electrician by J W Sims M.I.E.E. (Page 98)
+^ "Federal pacific". Archived from the original on May 30, 2012.
+^ Enjeti, Prasad. "Harmonics in Low Voltage Three-Phase Four-Wire Electric Distribution Systems and Filtering Solutions" (PDF). Texas A&M University Power Electronics and Power Quality Laboratory. Archived from the original (PDF) on 13 June 2010. Retrieved 24 November 2012.
+^ Alexander, Charles K.; Sadiku, Matthew N. O. (2007). Fundamentals of Electric Circuits. New York, NY: McGraw-Hill. p. 504. ISBN 978-0-07-297718-9.
+^ Hui, Sun. "Sports Lighting  Design Considerations For The Beijing 2008 Olympic Games" (PDF). GE Lighting. Archived from the original (PDF) on 28 April 2015. Retrieved 18 December 2012.
+^ Pekarek, Steven; Skvarenina, Timothy (November 1998). "ACSL/Graphic Modeller Component Models for Electric Power Education". IEEE Transactions on Education. 41 (4): 348. Bibcode:1998ITEdu..41..348P. doi:10.1109/TE.1998.787374.
+^ "British and European practices for domestic appliances compared", Electrical Times, volume 148, page 691, 1965.
+^ "Speeding-up Conventional Lines and Shinkansen" (PDF). Japan Railway & Transport Review. No. 58: 58. Oct 2011. Archived (PDF) from the original on 2022-10-09.
+^ Steve Sentry, "Motor Control Fundamentals", Cengage Learning, 2012, ISBN 1133709176, page 70
+^ Brittain, J. E. (2007). "Electrical Engineering Hall of Fame: Charles F. Scott". Proceedings of the IEEE. 95 (4): 836 839. doi:10.1109/JPROC.2006.892488.
+^ C22.1-15 Canadian Electrical Code, Part I: Safety Standard for Electrical Installations (23rd ed.). Canadian Standards Association. 2015. Rule 4 038. ISBN 978-1-77139-718-6.
+^ C22.1-15 Canadian Electrical Code, Part I: Safety Standard for Electrical Installations (23rd ed.). Canadian Standards Association. 2015. Rule 24 208(c). ISBN 978-1-77139-718-6.
+External links[edit]
+AC Power History and Timeline
+vteElectricity deliveryConcepts
+Automatic generation control
+Backfeeding
+Base load
+Demand factor
+Droop speed control
+Economic dispatch
+Electric power
+Demand management
+Energy return on investment
+Electrical fault
+Home energy storage
+Grid storage
+Grid code
+Grid strength
+Load-following
+Merit order
+Nameplate capacity
+Peak demand
+Power factor
+Power quality
+Power-flow study
+Repowering
+Utility frequency
+Variability
+Vehicle-to-grid
+SourcesNon-renewable
+Fossil fuel power station
+Coal
+Natural gas
+Petroleum
+Oil shale
+Nuclear
+Renewable
+Biogas
+Biofuel
+Biomass
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Sustainable biofuel
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmissionand distribution
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electricity retailing
+Electrical busbar system
+Electric power system
+Electric power transmission
+Electrical grid
+Electrical interconnector
+High-voltage direct current
+High-voltage shore connection
+Load management
+Mains electricity by country
+Power line
+Power station
+Pumped hydro
+Smart grid
+Substation
+Single-wire earth return
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Failure modes
+Blackout (Rolling blackout)
+Brownout
+Black start
+Cascading failure
+Protectivedevices
+Arc-fault circuit interrupter
+Circuit breaker
+Earth-leakage circuit breaker
+Generator interlock kit
+Residual-current device (GFI)
+Power system protection
+Protective relay
+Numerical relay
+Sulfur hexafluoride circuit breaker
+Economicsand policies
+Availability factor
+Capacity factor
+Carbon offset
+Cost of electricity by source
+Environmental tax
+Energy subsidies
+Feed-in tariff
+Fossil fuel phase-out
+Load factor
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark/Dark/Quark/Bark spread
+Statistics andproduction
+List of electricity sectors
+Electric energy consumption
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+vteNikola TeslaCareer andinventions
+Patents
+Plasma lamp
+plasma globe
+Polyphase system
+Alternating-current commutatorless induction motor
+Tesla Experimental Station
+Teleforce
+Telegeodynamics
+Tesla coil
+history
+Wireless power
+Resonant inductive coupling
+Radio control
+Tesla turbine
+Tesla's oscillator
+Tesla valve
+Three-phase electric power
+Wardenclyffe Tower
+Tesla Electric Light and Manufacturing
+Writings
+The Inventions, Researches, and Writings of Nikola Tesla
+Colorado Springs Notes, 1899 1900
+"Fragments of Olympian Gossip"
+My Inventions: The Autobiography of Nikola Tesla
+Other
+War of the currents
+Westinghouse Electric
+World Wireless System
+In popular culture
+Related
+Nikola Tesla Museum
+Nikola Tesla Memorial Center
+Tesla Science Center at Wardenclyffe
+IEEE Nikola Tesla Award
+Tesla Satellite Award
+Belgrade Nikola Tesla Airport
+New Yorker Hotel
+The Secret of Nikola Tesla (1980 film)
+Tesla - Lightning in His Hand (2003 opera)
+The Prestige (2006 film)
+Tower to the People (2015 documentary)
+Tesla (2016 film)
+The Tesla World Light (2017 film)
+The Current War (2019 film)
+"Nikola Tesla's Night of Terror" (2020 TV episode)
+Tesla (2020 film)
+Tesla: Man Out of Time
+Wizard: The Life and Times of Nikola Tesla
+The Man Who Invented the Twentieth Century
+SI derived unit
+Lunar crater
+Asteroid
+Authority control: National 
+Germany
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Three-phase_electric_power&oldid=1144593240"

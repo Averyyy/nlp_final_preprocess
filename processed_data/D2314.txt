@@ -1,0 +1,519 @@
+Genetic diversity in human populations
+"Human biodiversity" redirects here. For the pseudoscientific theory also known as "race realism", see Scientific racism.
+ A graphical representation of the typical human karyotype
+ The human mitochondrial DNA
+Human genetic variation is the genetic differences in and among populations. There may be multiple variants of any given gene in the human population (alleles), a situation called polymorphism.
+No two humans are genetically identical. Even monozygotic twins (who develop from one zygote) have infrequent genetic differences due to mutations occurring during development and gene copy-number variation.[1] Differences between individuals, even closely related individuals, are the key to techniques such as genetic fingerprinting.
+The human genome has a total length of approximately 3.2 billion base pairs (bp) across 46 chromosomes of DNA as well as slightly under 17,000 bp DNA in cellular mitochondria. In 2015, the typical difference between an individual's genome and the reference genome was estimated at 20 million base pairs (or 0.6% of the total).[2] As of 2017, there were a total of 324 million known variants from sequenced human genomes.[3]
+Comparatively speaking, humans are a genetically homogenous species. Although a small number of genetic variants are found more frequently in certain geographic regions or in people with ancestry from those regions, this variation accounts for a small portion (~15%) of human genome variablity. The majority of variation exists within the members of each human population. For comparison, rhesus macaques exhibit 2.5-fold greater DNA sequence diversity compared to humans.[4]
+The lack of discontinuities in genetic distances between human populations, absence of discrete branches in the human species, and striking homogeneity of human beings globally, imply that there is no scientific basis for inferring races or subspecies in humans, and for most traits, there is much more variation within populations than between them.[5][6][7][8][9][10][11][12] Despite this, modern genetic studies have found substantial average genetic differences across human populations in traits such as skin colour, bodily dimensions, lactose and starch digestion, high altitude adaptions, and predisposition to developing particular diseases.[11] The greatest diversity is found within and among populations in Africa,[13] and gradually declines with increasing distance from the African continent, consistent with the Out of Africa theory of human origins.[14]
+The study of human genetic variation has evolutionary significance and medical applications. It can help scientists reconstruct and understand patterns of past human migration. In medicine, study of human genetic variation may be important because some disease-causing alleles occur more often in certain population groups. For instance, the mutation for sickle-cell anemia is more often found in people with ancestry from certain sub-Saharan African, south European, Arabian, and Indian populations, due to the evolutionary pressure from mosquitos carrying malaria in these regions.
+New findings show that each human has on average 60 new mutations compared to their parents.[15][16]
+Causes of variation[edit]
+Further information: Recent human evolution
+Causes of differences between individuals include independent assortment, the exchange of genes (crossing over and recombination) during reproduction (through meiosis) and various mutational events.
+There are at least three reasons why genetic variation exists between populations. Natural selection may confer an adaptive advantage to individuals in a specific environment if an allele provides a competitive advantage. Alleles under selection are likely to occur only in those geographic regions where they confer an advantage. A second important process is genetic drift, which is the effect of random changes in the gene pool, under conditions where most mutations are neutral (that is, they do not appear to have any positive or negative selective effect on the organism). Finally, small migrant populations have statistical differences   called the founder effect   from the overall populations where they originated; when these migrants settle new areas, their descendant population typically differs from their population of origin: different genes predominate and it is less genetically diverse.
+In humans, the main cause is genetic drift.[17] Serial founder effects and past small population size (increasing the likelihood of genetic drift) may have had an important influence in neutral differences between populations.[citation needed]  The second main cause of genetic variation is due to the high degree of neutrality of most mutations. A small, but significant number of genes appear to have undergone recent natural selection, and these selective pressures are sometimes specific to one region.[18][19]
+Measures of variation[edit]
+Genetic variation among humans occurs on many scales, from gross alterations in the human karyotype to single nucleotide changes.[20] Chromosome abnormalities are detected in 1 of 160 live human births. Apart from sex chromosome disorders, most cases of aneuploidy result in death of the developing fetus (miscarriage); the most common extra autosomal chromosomes among live births are 21, 18 and 13.[21]
+Nucleotide diversity is the average proportion of nucleotides that differ between two individuals. As of 2004, the human nucleotide diversity was estimated to be 0.1%[22] to 0.4% of base pairs.[23] In 2015, the 1000 Genomes Project, which sequenced one thousand individuals from 26 human populations, found that "a typical [individual] genome differs from the reference human genome at 4.1 million to 5.0 million sites   affecting 20 million bases of sequence"; the latter figure corresponds to 0.6% of total number of base pairs.[2] Nearly all (>99.9%) of these sites are small differences, either single nucleotide polymorphisms or brief insertions or deletions (indels) in the genetic sequence, but structural variations account for a greater number of base-pairs than the SNPs and indels.[2][24]
+As of 2017[update], the Single Nucleotide Polymorphism Database (dbSNP), which lists SNP and other variants, listed 324 million variants found in sequenced human genomes.[3]
+Single nucleotide polymorphisms[edit]
+ DNA molecule 1 differs from DNA molecule 2 at a single base-pair location (a C/T polymorphism).
+Main article: Single nucleotide polymorphism
+A single nucleotide polymorphism (SNP) is a difference in a single nucleotide between members of one species that occurs in at least 1% of the population. The 2,504 individuals characterized by the 1000 Genomes Project had 84.7 million SNPs among them.[2] SNPs are the most common type of sequence variation, estimated in 1998 to account for 90% of all sequence variants.[25] Other sequence variations are single base exchanges, deletions and insertions.[26] SNPs occur on average about every 100 to 300 bases[27] and so are the major source of heterogeneity.
+A functional, or non-synonymous, SNP is one that affects some factor such as gene splicing or messenger RNA, and so causes a phenotypic difference between members of the species. About 3% to 5% of human SNPs are functional (see International HapMap Project). Neutral, or synonymous SNPs are still useful as genetic markers in genome-wide association studies, because of their sheer number and the stable inheritance over generations.[25]
+A coding SNP is one that occurs inside a gene. There are 105 Human Reference SNPs that result in premature stop codons in 103 genes. This corresponds to 0.5% of coding SNPs. They occur due to segmental duplication in the genome. These SNPs result in loss of protein, yet all these SNP alleles are common and are not purified in negative selection.[28]
+Structural variation[edit]
+Main article: Structural variation
+Structural variation is the variation in structure of an organism's chromosome. Structural variations, such as copy-number variation and deletions, inversions, insertions and duplications, account for much more human genetic variation than single nucleotide diversity. This was concluded in 2007 from analysis of the diploid full sequences of the genomes of two humans: Craig Venter and James D. Watson. This added to the two haploid sequences which were amalgamations of sequences from many individuals, published by the Human Genome Project and Celera Genomics respectively.[29]
+According to the 1000 Genomes Project, a typical human has 2,100 to 2,500 structural variations, which include approximately 1,000 large deletions, 160 copy-number variants, 915 Alu insertions, 128 L1 insertions, 51 SVA insertions, 4 NUMTs, and 10 inversions.[2]
+Copy number variation[edit]
+Main article: Copy number variation
+A copy-number variation (CNV) is a difference in the genome due to deleting or duplicating large regions of DNA on some chromosome. It is estimated that 0.4% of the genomes of unrelated humans differ with respect to copy number. When copy number variation is included, human-to-human genetic variation is estimated to be at least 0.5% (99.5% similarity).[30][31][32][33] Copy number variations are inherited but can also arise during development.[34][35][36][37]
+A visual map with the regions with high genomic variation of the modern-human reference assembly relatively to a
+Neanderthal of 50k[38] has been built by Pratas et al.[39]
+Epigenetics[edit]
+Epigenetic variation is variation in the chemical tags that attach to DNA and affect how genes get read. The tags, "called epigenetic markings, act as switches that control how genes can be read."[40] At some alleles, the epigenetic state of the DNA, and associated phenotype, can be inherited across generations of individuals.[41]
+Genetic variability[edit]
+Main article: Genetic variability
+Genetic variability is a measure of the tendency of individual genotypes in a population to vary (become different) from one another. Variability is different from genetic diversity, which is the amount of variation seen in a particular population.  The variability of a trait is how much that trait tends to vary in response to environmental and genetic influences.
+Clines[edit]
+Main article: Cline (biology)
+In biology, a cline is a continuum of species, populations, varieties, or forms of organisms that exhibit gradual phenotypic and/or genetic differences over a geographical area, typically as a result of environmental heterogeneity.[42][43][44] In the scientific study of human genetic variation, a gene cline can be rigorously defined and subjected to quantitative metrics.
+Haplogroups[edit]
+Main article: Haplogroup
+In the study of molecular evolution, a haplogroup is a group of similar haplotypes that share a common ancestor with a single nucleotide polymorphism (SNP) mutation. The study of haplogroups provides information about ancestral origins dating back thousands of years.[45]
+The most commonly studied human haplogroups are Y-chromosome (Y-DNA) haplogroups and mitochondrial DNA (mtDNA) haplogroups, both of which can be used to define genetic populations. Y-DNA is passed solely along the patrilineal line, from father to son, while mtDNA is passed down the matrilineal line, from mother to both daughter or son. The Y-DNA and mtDNA may change by chance mutation at each generation.
+Variable number tandem repeats[edit]
+Main article: Variable number tandem repeat
+A variable number tandem repeat (VNTR) is the variation of length of a tandem repeat. A tandem repeat is the adjacent repetition of a short nucleotide sequence. Tandem repeats exist on many chromosomes, and their length varies between individuals. Each variant acts as an inherited allele, so they are used for personal or parental identification. Their analysis is useful in genetics and biology research, forensics, and DNA fingerprinting.
+Short tandem repeats (about 5 base pairs) are called microsatellites, while longer ones are called minisatellites.
+History and geographic distribution[edit]
+ Map of the migration of modern humans out of Africa, based on mitochondrial DNA. Colored rings indicate thousand years before present.
+ Genetic distance map by Magalh es et al. (2012)
+See also: Human evolutionary genetics  Modern humans, and Recent human evolution
+Recent African origin of modern humans[edit]
+The recent African origin of modern humans paradigm assumes the dispersal of non-African populations of anatomically modern humans after 70,000 years ago. Dispersal within Africa occurred significantly earlier, at least 130,000 years ago. The "out of Africa" theory originates in the 19th century, as a tentative suggestion in Charles Darwin's Descent of Man,[46] but remained speculative until the 1980s when it was supported by the study of present-day mitochondrial DNA, combined with evidence from physical anthropology of archaic specimens.
+According to a 2000 study of Y-chromosome sequence variation,[47] human Y-chromosomes trace ancestry to Africa, and the descendants of the derived lineage left Africa and eventually were replaced by archaic human Y-chromosomes in Eurasia. The study also shows that a minority of contemporary populations in East Africa and the Khoisan are the descendants of the most ancestral patrilineages of anatomically modern humans that left Africa 35,000 to 89,000 years ago.[47] Other evidence supporting the theory is that variations in skull measurements decrease with distance from Africa at the same rate as the decrease in genetic diversity. Human genetic diversity decreases in native populations with migratory distance from Africa, and this is thought to be due to bottlenecks during human migration, which are events that temporarily reduce population size.[48][49]
+A 2009 genetic clustering study, which genotyped 1327 polymorphic markers in various African populations, identified six ancestral clusters. The clustering corresponded closely with ethnicity, culture and language.[50] A 2018 whole genome sequencing study of the world's populations observed similar clusters among the populations in Africa. At K=9, distinct ancestral components defined the Afroasiatic-speaking populations inhabiting North Africa and Northeast Africa; the Nilo-Saharan-speaking populations in Northeast Africa and East Africa; the Ari populations in Northeast Africa; the Niger-Congo-speaking populations in West-Central Africa, West Africa, East Africa and Southern Africa; the Pygmy populations in Central Africa; and the Khoisan populations in Southern Africa.[51]
+Population genetics[edit]
+See also: Population genetics
+Because of the common ancestry of all humans, only a small number of variants have large differences in frequency between populations. However, some rare variants in the world's human population are much more frequent in at least one population (more than 5%).[52]
+ Genetic variation
+It is commonly assumed that early humans left Africa, and thus must have passed through a population bottleneck before their African-Eurasian divergence around 100,000 years ago (ca. 3,000 generations). The rapid expansion of a previously small population has two important effects on the distribution of genetic variation. First, the so-called founder effect occurs when founder populations bring only a subset of the genetic variation from their ancestral population. Second, as founders become more geographically separated, the probability that two individuals from different founder populations will mate becomes smaller. The effect of this assortative mating is to reduce gene flow between geographical groups and to increase the genetic distance between groups.[citation needed]
+The expansion of humans from Africa affected the distribution of genetic variation in two other ways. First, smaller (founder) populations experience greater genetic drift because of increased fluctuations in neutral polymorphisms. Second, new polymorphisms that arose in one group were less likely to be transmitted to other groups as gene flow was restricted.[citation needed]
+Populations in Africa tend to have lower amounts of linkage disequilibrium than do populations outside Africa, partly because of the larger size of human populations in Africa over the course of human history and partly because the number of modern humans who left Africa to colonize the rest of the world appears to have been relatively low.[53] In contrast, populations that have undergone dramatic size reductions or rapid expansions in the past and populations formed by the mixture of previously separate ancestral groups can have unusually high levels of linkage disequilibrium[53]
+Distribution of variation[edit]
+ Human genetic variation calculated from genetic data representing 346 microsatellite loci taken from 1484 individuals in 78 human populations. The upper graph illustrates that as populations are further from East Africa, they have declining genetic diversity as measured in average number of microsatellite repeats at each of the loci. The bottom chart illustrates isolation by distance. Populations with a greater distance between them are more dissimilar (as measured by the Fst statistic) than those which are geographically close to one another. The horizontal axis of both charts is geographic distance as measured along likely routes of human migration. (Chart from Kanitz et al. 2018)
+The distribution of genetic variants within and among human populations are impossible to describe succinctly because of the difficulty of defining a "population," the clinal nature of variation, and heterogeneity across the genome (Long and Kittles 2003). In general, however, an average of 85% of genetic variation exists within local populations, ~7% is between local populations within the same continent, and ~8% of variation occurs between large groups living on different continents.[54][55] The recent African origin theory for humans would predict that in Africa there exists a great deal more diversity than elsewhere and that diversity should decrease the further from Africa a population is sampled.
+Phenotypic variation[edit]
+Further information: Phenotype  Phenotypic_variation
+Sub-Saharan Africa has the most human genetic diversity and the same has been shown to hold true for phenotypic variation in skull form.[48][56] Phenotype is connected to genotype through gene expression. Genetic diversity decreases smoothly with migratory distance from that region, which many scientists believe to be the origin of modern humans, and that decrease is mirrored by a decrease in phenotypic variation. Skull measurements are an example of a physical attribute whose within-population variation decreases with distance from Africa.
+The distribution of many physical traits resembles the distribution of genetic variation within and between human populations (American Association of Physical Anthropologists 1996; Keita and Kittles 1997). For example, ~90% of the variation in human head shapes occurs within continental groups, and ~10% separates groups, with a greater variability of head shape among individuals with recent African ancestors (Relethford 2002).
+A prominent exception to the common distribution of physical characteristics within and among groups is skin color. Approximately 10% of the variance in skin color occurs within groups, and ~90% occurs between groups (Relethford 2002). This distribution of skin color and its geographic patterning   with people whose ancestors lived predominantly near the equator having darker skin than those with ancestors who lived predominantly in higher latitudes   indicate that this attribute has been under strong selective pressure. Darker skin appears to be strongly selected for in equatorial regions to prevent sunburn, skin cancer, the photolysis of folate, and damage to sweat glands.[57]
+Understanding how genetic diversity in the human population impacts various levels of gene expression is an active area of research. While earlier studies focused on the relationship between DNA variation and RNA expression, more recent efforts are characterizing the genetic control of various aspects of gene expression including chromatin states,[58] translation,[59] and protein levels.[60] A study published in 2007 found that 25% of genes showed different levels of gene expression between populations of European and Asian descent.[61][62][63][64][65] The primary cause of this difference in gene expression was thought to be SNPs in gene regulatory regions of DNA. Another study published in 2007 found that approximately 83% of genes were expressed at different levels among individuals and about 17% between populations of European and African descent.[66][67]
+Wright's fixation index as measure of variation[edit]
+The population geneticist Sewall Wright developed the fixation index (often abbreviated to FST) as a way of measuring genetic differences between populations. This statistic is often used in taxonomy to compare differences between any two given populations by measuring the genetic differences among and between populations for individual genes, or for many genes simultaneously.[68] It is often stated that the fixation index for humans is about 0.15. This translates to an estimated 85% of the variation measured in the overall human population is found within individuals of the same population, and about 15% of the variation occurs between populations.  These estimates imply that any two individuals from different populations may be more similar to each other than either is to a member of their own group.[69][70]
+"The shared evolutionary history of living humans has resulted in a high relatedness among all living people, as indicated for example by the very low fixation index (FST) among living human populations." Richard Lewontin, who affirmed these ratios, thus concluded neither "race" nor "subspecies" were appropriate or useful ways to describe human populations.[54]
+Wright himself believed that values >0.25 represent very great genetic variation and that an FST of 0.15 0.25 represented great variation. However, about 5% of human variation occurs between populations within continents, therefore FST values between continental groups of humans (or races) of as low as 0.1 (or possibly lower) have been found in some studies, suggesting more moderate levels of genetic variation.[68] Graves (1996) has countered that FST should not be used as a marker of subspecies status, as the statistic is used to measure the degree of differentiation between populations,[68] although see also Wright (1978).[71]
+Jeffrey Long and Rick Kittles give a long critique of the application of FST to human populations in their 2003 paper "Human Genetic Diversity and the Nonexistence of Biological Races". They find that the figure of 85% is misleading because it implies that all human populations contain on average 85% of all genetic diversity. They argue the underlying statistical model incorrectly assumes equal and independent histories of variation for each large human population. A more realistic approach is to understand that some human groups are parental to other groups and that these groups represent paraphyletic groups to their descent groups. For example, under the recent African origin theory the human population in Africa is paraphyletic to all other human groups because it represents the ancestral group from which all non-African populations derive, but more than that, non-African groups only derive from a small non-representative sample of this African population. This means that all non-African groups are more closely related to each other and to some African groups (probably east Africans) than they are to others, and further that the migration out of Africa represented a genetic bottleneck, with much of the diversity that existed in Africa not being carried out of Africa by the emigrating groups. Under this scenario, human populations do not have equal amounts of local variability, but rather diminished amounts of diversity the further from Africa any population lives. Long and Kittles find that rather than 85% of human genetic diversity existing in all human populations, about 100% of human diversity exists in a single African population, whereas only about 70% of human genetic diversity exists in a population derived from New Guinea. Long and Kittles argued that this still produces a global human population that is genetically homogeneous compared to other mammalian populations.[72]
+Archaic admixture[edit]
+Main article: Archaic human admixture with modern humans
+Anatomically modern humans interbred with Neanderthals during the Middle Paleolithic. In May 2010, the Neanderthal Genome Project presented genetic evidence that interbreeding took place and that a small but significant portion, around 2-4%, of Neanderthal admixture is present in the DNA of modern Eurasians and Oceanians, and nearly absent in sub-Saharan African populations.[73][74]
+Between 4% and 6% of the genome of Melanesians (represented by the Papua New Guinean and Bougainville Islander) appears to derive from Denisovans   a previously unknown hominin which is more closely related to Neanderthals than to Sapiens. It was possibly introduced during the early migration of the ancestors of Melanesians into Southeast Asia. This history of interaction suggests that Denisovans once ranged widely over eastern Asia.[75]
+Thus, Melanesians emerge as one of the most archaic-admixed populations, having Denisovan/Neanderthal-related admixture of ~8%.[75]
+In a study published in 2013, Jeffrey Wall from University of California studied whole sequence-genome data and found higher rates of introgression in Asians compared to Europeans.[76] Hammer et al. tested the hypothesis that contemporary African genomes have signatures of gene flow with archaic human ancestors and found evidence of archaic admixture in the genomes of some African groups, suggesting that modest amounts of gene flow were widespread throughout time and space during the evolution of anatomically modern humans.[77]
+A study published in 2020 found that the Yoruba and Mende populations of West Africa derive between 2% and 19% of their genome from an as-yet unidentified archaic hominin population that likely diverged before the split of modern humans and the ancestors of Neanderthals and Denisovans,[78] potentially making these groups the most archaic-admixed human populations identified yet.
+Categorization of the world population[edit]
+ Chart showing human genetic clustering[79]
+ Individuals mostly have genetic variants which are found in multiple regions of the world. Based on data from "A unified genealogy of modern and ancient genomes".[80]
+See also: Race (human classification) and Race and genetics
+New data on human genetic variation has reignited the debate about a possible biological basis for categorization of humans into races. Most of the controversy surrounds the question of how to interpret the genetic data and whether conclusions based on it are sound. Some researchers argue that self-identified race can be used as an indicator of geographic ancestry for certain health risks and medications.
+Although the genetic differences among human groups are relatively small, these differences in certain genes such as duffy, ABCC11, SLC24A5, called ancestry-informative markers (AIMs) nevertheless can be used to reliably situate many individuals within broad, geographically based groupings. For example, computer analyses of hundreds of polymorphic loci sampled in globally distributed populations have revealed the existence of genetic clustering that roughly is associated with groups that historically have occupied large continental and subcontinental regions (Rosenberg et al. 2002; Bamshad et al. 2003).
+Some commentators have argued that these patterns of variation provide a biological justification for the use of traditional racial categories. They argue that the continental clusterings correspond roughly with the division of human beings into sub-Saharan Africans; Europeans, Western Asians, Central Asians, Southern Asians and Northern Africans; Eastern Asians, Southeast Asians, Polynesians and Native Americans; and other inhabitants of Oceania (Melanesians, Micronesians & Australian Aborigines) (Risch et al. 2002). Other observers disagree, saying that the same data undercut traditional notions of racial groups (King and Motulsky 2002; Calafell 2003; Tishkoff and Kidd 2004[23]). They point out, for example, that major populations considered races or subgroups within races do not necessarily form their own clusters.
+Racial categories are also undermined by findings that genetic variants which are limited to one region tend to be rare within that region, variants that are common within a region tend to be shared across the globe, and most differences between individuals, whether they come from the same region or different regions, are due to global variants.[81]  No genetic variants have been found which are fixed within a continent or major region and found nowhere else.[82]
+Furthermore, because human genetic variation is clinal, many individuals affiliate with two or more continental groups. Thus, the genetically based "biogeographical ancestry" assigned to any given person generally will be broadly distributed and will be accompanied by sizable uncertainties (Pfaff et al. 2004).
+In many parts of the world, groups have mixed in such a way that many individuals have relatively recent ancestors from widely separated regions. Although genetic analyses of large numbers of loci can produce estimates of the percentage of a person's ancestors coming from various continental populations (Shriver et al. 2003; Bamshad et al. 2004), these estimates may assume a false distinctiveness of the parental populations, since human groups have exchanged mates from local to continental scales throughout history (Cavalli-Sforza et al. 1994; Hoerder 2002). Even with large numbers of markers, information for estimating admixture proportions of individuals or groups is limited, and estimates typically will have wide confidence intervals (Pfaff et al. 2004).
+Genetic clustering[edit]
+Main article: Human genetic clustering
+Genetic data can be used to infer population structure and assign individuals to groups that often correspond with their self-identified geographical ancestry. Jorde and Wooding (2004) argued that "Analysis of many loci now yields reasonably accurate estimates of genetic similarity among individuals, rather than populations. Clustering of individuals is correlated with geographic origin or ancestry."[22] However, identification by geographic origin may quickly break down when considering historical ancestry shared between individuals back in time.[83]
+An analysis of autosomal SNP data from the International HapMap Project (Phase II) and CEPH Human Genome Diversity Panel samples was published in 2009.
+The study of 53 populations taken from the HapMap and CEPH data (1138 unrelated individuals) suggested that natural selection may shape the human genome much more slowly than previously thought, with factors such as migration within and among continents more heavily influencing the distribution of genetic variations.[84]
+A similar study published in 2010 found strong genome-wide evidence for selection due to changes in ecoregion, diet, and subsistence
+particularly in connection with polar ecoregions, with foraging, and with a diet rich in roots and tubers.[85] In a 2016 study, principal component analysis of genome-wide data was capable of recovering previously-known targets for positive selection (without prior definition of populations) as well as a number of new candidate genes.[86]
+Forensic anthropology[edit]
+Forensic anthropologists can assess the ancestry of skeletal remains by analyzing skeletal morphology as well as using genetic and chemical markers, when possible.[87] While these assessments are never certain, the accuracy of skeletal morphology analyses in determining true ancestry has been estimated at 90%.[88]
+ Ternary plot showing average admixture of five North American ethnic groups. Individuals that self-identify with each group can be found at many locations on the map, but on average groups tend to cluster differently.
+Gene flow and admixture[edit]
+Main article: Gene flow
+Gene flow between two populations reduces the average genetic distance between the populations, only totally isolated human populations experience no gene flow and most populations have continuous gene flow with other neighboring populations which create the clinal distribution observed for most genetic variation. When gene flow takes place between well-differentiated genetic populations the result is referred to as "genetic admixture".
+Admixture mapping is a technique used to study how genetic variants cause differences in disease rates between population.[89] Recent admixture populations that trace their ancestry to multiple continents are well suited for identifying genes for traits and diseases that differ in prevalence between parental populations. African-American populations have been the focus of numerous population genetic and admixture mapping studies, including studies of complex genetic traits such as white cell count, body-mass index, prostate cancer and renal disease.[90]
+An analysis of phenotypic and genetic variation including skin color and socio-economic status was carried out in the population of Cape Verde which has a well documented history of contact between Europeans and Africans. The studies showed that pattern of admixture in this population has been sex-biased (involving mostly matings between European men and African women) and there is a significant interaction between socioeconomic status and skin color, independent of ancestry.[91] Another study shows an increased risk of graft-versus-host disease complications after transplantation due to genetic variants in human leukocyte antigen (HLA) and non-HLA proteins.[92]
+Health[edit]
+See also: Race and health
+Differences in allele frequencies contribute to group differences in the incidence of some monogenic diseases, and they may contribute to differences in the incidence of some common diseases.[93] For the monogenic diseases, the frequency of causative alleles usually correlates best with ancestry, whether familial (for example, Ellis Van Creveld syndrome among the Pennsylvania Amish), ethnic (Tay Sachs disease among Ashkenazi Jewish populations), or geographical (hemoglobinopathies among people with ancestors who lived in malarial regions). To the extent that ancestry corresponds with racial or ethnic groups or subgroups, the incidence of monogenic diseases can differ between groups categorized by race or ethnicity, and health-care professionals typically take these patterns into account in making diagnoses.[94]
+Even with common diseases involving numerous genetic variants and environmental factors, investigators point to evidence suggesting the involvement of differentially distributed alleles with small to moderate effects. Frequently cited examples include hypertension (Douglas et al. 1996), diabetes (Gower et al. 2003), obesity (Fernandez et al. 2003), and prostate cancer (Platz et al. 2000). However, in none of these cases has allelic variation in a susceptibility gene been shown to account for a significant fraction of the difference in disease prevalence among groups, and the role of genetic factors in generating these differences remains uncertain (Mountain and Risch 2004).
+Some other variations on the other hand are beneficial to human, as they prevent certain diseases and increase the chance to adapt to the environment. For example, mutation in CCR5 gene that protects against AIDS. CCR5 gene is absent on the surface of cell due to mutation. Without CCR5 gene on the surface, there is nothing for HIV viruses to grab on and bind into. Therefore, the mutation on CCR5 gene decreases the chance of an individual's risk with AIDS. The mutation in CCR5 is also quite common in certain areas, with more than 14% of the population carry the mutation in Europe and about 6 10% in Asia and North Africa.[95]
+ HIV attachment
+Apart from mutations, many genes that may have aided humans in ancient times plague humans today. For example, it is suspected that genes that allow humans to more efficiently process food are those that make people susceptible to obesity and diabetes today.[96]
+Neil Risch of Stanford University has proposed that self-identified race/ethnic group could be a valid means of categorization in the US for public health and policy considerations.[97][93] A 2002 paper by Noah Rosenberg's group makes a similar claim: "The structure of human populations is relevant in various epidemiological contexts. As a result of variation in frequencies of both genetic and nongenetic risk factors, rates of disease and of such phenotypes as adverse drug response vary across populations. Further, information about a patient's population of origin might provide health care practitioners with information about risk when direct causes of disease are unknown."[98] However, in 2018 Noah Rosenberg released a study arguing against genetically essentialist ideas of health disparities between populations stating environmental variants are a more likely cause[99]
+Genome projects[edit]
+Further information: Category:Human genome projects
+Human genome projects are scientific endeavors that determine or study the structure of the human genome. The Human Genome Project was a landmark genome project.
+See also[edit]
+Archaeogenetics
+Chimera (genetics)
+Genealogical DNA test
+Human evolutionary genetics
+Isolation by distance
+Multiregional hypothesis
+Neurodiversity
+Race and genetics
+Recent single origin hypothesis
+Y-chromosome haplogroups in populations of the world
+Regional[edit]
+1000 Genomes Project
+African admixture in Europe
+Genetic history of Europe
+Genetic history of indigenous peoples of the Americas
+Genetic history of South Asia
+Genetic history of the British Isles
+Projects[edit]
+Human Variome Project
+References[edit]
+^ Bruder CE, Piotrowski A, Gijsbers AA, Andersson R, Erickson S, Diaz de St hl T,  et al. (March 2008). "Phenotypically concordant and discordant monozygotic twins display different DNA copy-number-variation profiles". American Journal of Human Genetics. 82 (3): 763 71. doi:10.1016/j.ajhg.2007.12.011. PMC 2427204. PMID 18304490.
+^ a b c d e Auton A, Brooks LD, Durbin RM, Garrison EP, Kang HM, Korbel JO,  et al. (October 2015). "A global reference for human genetic variation". Nature. 526 (7571): 68 74. Bibcode:2015Natur.526...68T. doi:10.1038/nature15393. PMC 4750478. PMID 26432245.
+^ a b NCBI (8 May 2017). "dbSNP's human build 150 has doubled the amount of RefSNP records!". NCBI Insights. Retrieved 16 May 2017.
+^ Xue, Cheng; Raveendran, Muthuswamy; Harris, R. Alan; Fawcett, Gloria L.; Liu, Xiaoming; White, Simon; Dahdouli, Mahmoud; Deiros, David Rio; Below, Jennifer E.; Salerno, William; Cox, Laura (1 December 2016). "The population genomics of rhesus macaques (Macaca mulatta) based on whole-genome sequences". Genome Research. 26 (12): 1651 1662. doi:10.1101/gr.204255.116. ISSN 1088-9051. PMC 5131817. PMID 27934697.
+^ Reich, David (23 March 2018). "Opinion | How Genetics Is Changing Our Understanding of 'Race'". The New York Times. ISSN 0362-4331. Retrieved 15 August 2022.
+^ Williams, David R. (1 July 1997). "Race and health: Basic questions, emerging directions". Annals of Epidemiology. Special Issue: Interface Between Molecular and Behavioral Epidemiology. 7 (5): 322 333. doi:10.1016/S1047-2797(97)00051-3. ISSN 1047-2797. PMID 9250627.
+^ "1". Race and racism in theory and practice. Berel Lang. Lanham, Md.: Rowman & Littlefield. 2000. ISBN 0-8476-9692-8. OCLC 42389561.{{cite book}}:  CS1 maint: others (link)
+^ Lee, Jun-Ki; Aini, Rahmi Qurota; Sya bandari, Yustika; Rusmana, Ai Nurlaelasari; Ha, Minsu; Shin, Sein (1 April 2021). "Biological Conceptualization of Race". Science & Education. 30 (2): 293 316. Bibcode:2021Sc&Ed..30..293L. doi:10.1007/s11191-020-00178-8. ISSN 1573-1901. S2CID 231598896.
+^ Kolbert, Elizabeth (4 April 2018). "There's No Scientific Basis for Race It's a Made-Up Label". National Geographic. Retrieved 15 August 2022.
+^ Templeton, Alan Robert (2018). Human Population Genetics and Genomics. London. pp. 445 446. ISBN 978-0-12-386026-2. OCLC 1062418886.
+^ a b Reich, David (2018). Who we are and how we got here: ancient DNA and the new science of the human past (First ed.). Oxford, United Kingdom. p. 255. ISBN 978-0-19-882125-0. OCLC 1006478846.
+^ Witherspoon, D. J.; Wooding, S.; Rogers, A. R.; Marchani, E. E.; Watkins, W. S.; Batzer, M. A.; Jorde, L. B. (2007). "Genetic Similarities Within and Between Human Populations". Genetics. 176 (1): 351 359. doi:10.1534/genetics.106.067355. ISSN 0016-6731. PMC 1893020. PMID 17339205.
+^ Campbell, Michael C.; Tishkoff, Sarah A. (2008). "AFRICAN GENETIC DIVERSITY: Implications for Human Demographic History, Modern Human Origins, and Complex Disease Mapping". Annual Review of Genomics and Human Genetics. 9: 403 433. doi:10.1146/annurev.genom.9.081307.164258. ISSN 1527-8204. PMC 2953791. PMID 18593304.
+^ Campbell, Michael C.; Tishkoff, Sarah A. (2008). "AFRICAN GENETIC DIVERSITY: Implications for Human Demographic History, Modern Human Origins, and Complex Disease Mapping". Annual Review of Genomics and Human Genetics. 9: 403 433. doi:10.1146/annurev.genom.9.081307.164258. ISSN 1527-8204. PMC 2953791. PMID 18593304.
+^ 
+"We are all mutants: First direct whole-genome measure of human mutation predicts 60 new mutations in each of us". Science Daily. 13 June 2011. Retrieved 5 September 2011.
+^ Conrad DF, Keebler JE, DePristo MA, Lindsay SJ, Zhang Y, Casals F,  et al. (June 2011). "Variation in genome-wide mutation rates within and between human families". Nature Genetics. 43 (7): 712 4. doi:10.1038/ng.862. PMC 3322360. PMID 21666693.
+^ Ackermann, R. R.; Cheverud, J. M. (16 December 2004). "Detecting genetic drift versus selection in human evolution". Proceedings of the National Academy of Sciences. 101 (52): 17946 17951. Bibcode:2004PNAS..10117946A. doi:10.1073/pnas.0405919102. ISSN 0027-8424. PMC 539739. PMID 15604148.
+^ Guo J, Wu Y, Zhu Z, Zheng Z, Trzaskowski M, Zeng J, Robinson MR, Visscher PM, Yang J (May 2018). "Global genetic differentiation of complex traits shaped by natural selection in humans". Nature Communications. 9 (1): 1865. Bibcode:2018NatCo...9.1865G. doi:10.1038/s41467-018-04191-y. PMC 5951811. PMID 29760457.
+^ Wang ET, Kodama G, Baldi P, Moyzis RK (January 2006). "Global landscape of recent inferred Darwinian selection for Homo sapiens". Proceedings of the National Academy of Sciences of the United States of America. 103 (1): 135 40. Bibcode:2006PNAS..103..135W. doi:10.1073/pnas.0509691102. PMC 1317879. PMID 16371466. By these criteria, 1.6% of Perlegen SNPs were found to exhibit the genetic architecture of selection.
+^ 
+Kidd JM, Cooper GM, Donahue WF, Hayden HS, Sampas N, Graves T,  et al. (May 2008). "Mapping and sequencing of structural variation from eight human genomes". Nature. 453 (7191): 56 64. Bibcode:2008Natur.453...56K. doi:10.1038/nature06862. PMC 2424287. PMID 18451855.
+^ Driscoll DA, Gross S (June 2009). "Clinical practice. Prenatal screening for aneuploidy". The New England Journal of Medicine. 360 (24): 2556 62. doi:10.1056/NEJMcp0900134. PMID 19516035.
+^ a b Jorde LB, Wooding SP (November 2004). "Genetic variation, classification and 'race'". Nature Genetics. 36 (11 Suppl): S28 33. doi:10.1038/ng1435. PMID 15508000.
+^ a b Tishkoff SA, Kidd KK (November 2004). "Implications of biogeography of human populations for 'race' and medicine". Nature Genetics. 36 (11 Suppl): S21 7. doi:10.1038/ng1438. PMID 15507999.
+^ Mullaney JM, Mills RE, Pittard WS, Devine SE (October 2010). "Small insertions and deletions (INDELs) in human genomes". Human Molecular Genetics. 19 (R2): R131 6. doi:10.1093/hmg/ddq400. PMC 2953750. PMID 20858594.
+^ a b Collins FS, Brooks LD, Chakravarti A (December 1998). "A DNA polymorphism discovery resource for research on human genetic variation". Genome Research. 8 (12): 1229 31. doi:10.1101/gr.8.12.1229. PMID 9872978.
+^ Thomas PE, Klinger R, Furlong LI, Hofmann-Apitius M, Friedrich CM (2011). "Challenges in the association of human single nucleotide polymorphism mentions with unique database identifiers". BMC Bioinformatics. 12 Suppl 4 (Suppl 4): S4. doi:10.1186/1471-2105-12-S4-S4. PMC 3194196. PMID 21992066.
+^ Ke X, Taylor MS, Cardon LR (April 2008). "Singleton SNPs in the human genome and implications for genome-wide association studies". European Journal of Human Genetics. 16 (4): 506 15. doi:10.1038/sj.ejhg.5201987. PMID 18197193.
+^ Ng PC, Levy S, Huang J, Stockwell TB, Walenz BP, Li K,  et al. (August 2008).  Schork NJ (ed.). "Genetic variation in an individual human exome". PLOS Genetics. 4 (8): e1000160. doi:10.1371/journal.pgen.1000160. PMC 2493042. PMID 18704161.
+^ Gross L (October 2007). "A new human genome sequence paves the way for individualized genomics". PLOS Biology. 5 (10): e266. doi:10.1371/journal.pbio.0050266. PMC 1964778. PMID 20076646.
+^ "First Individual Diploid Human Genome Published By Researchers at J. Craig Venter Institute". J. Craig Venter Institute. 3 September 2007. Archived from the original on 16 July 2011. Retrieved 5 September 2011.
+^ 
+Levy S, Sutton G, Ng PC, Feuk L, Halpern AL, Walenz BP,  et al. (September 2007). "The diploid genome sequence of an individual human". PLOS Biology. 5 (10): e254. doi:10.1371/journal.pbio.0050254. PMC 1964779. PMID 17803354.
+^ "Understanding Genetics: Human Health and the Genome". The Tech Museum of Innovation. 24 January 2008. Archived from the original on 29 April 2012. Retrieved 5 September 2011.
+^ 
+"First Diploid Human Genome Sequence Shows We're Surprisingly Different". Science Daily. 4 September 2007. Retrieved 5 September 2011.
+^ 
+"Copy number variation may stem from replication misstep". EurekAlert!. 27 December 2007. Retrieved 5 September 2011.
+^ 
+Lee JA, Carvalho CM, Lupski JR (December 2007). "A DNA replication mechanism for generating nonrecurrent rearrangements associated with genomic disorders". Cell. 131 (7): 1235 47. doi:10.1016/j.cell.2007.11.037. PMID 18160035. S2CID 9263608.
+^ 
+Redon R, Ishikawa S, Fitch KR, Feuk L, Perry GH, Andrews TD,  et al. (November 2006). "Global variation in copy number in the human genome". Nature. 444 (7118): 444 54. Bibcode:2006Natur.444..444R. doi:10.1038/nature05329. PMC 2669898. PMID 17122850.
+^ 
+Dumas L, Kim YH, Karimpour-Fard A, Cox M, Hopkins J, Pollack JR,  et al. (September 2007). "Gene copy number variation spanning 60 million years of human and primate evolution". Genome Research. 17 (9): 1266 77. doi:10.1101/gr.6557307. PMC 1950895. PMID 17666543.
+^ Pr fer K, Racimo F, Patterson N, Jay F, Sankararaman S, Sawyer S,  et al. (January 2014). "The complete genome sequence of a Neanderthal from the Altai Mountains". Nature. 505 (7481): 43 9. Bibcode:2014Natur.505...43P. doi:10.1038/nature12886. PMC 4031459. PMID 24352235.
+^ Pratas D, Hosseini M, Silva R, Pinho A, Ferreira P (20 23 June 2017). "Visualization of Distinct DNA Regions of the Modern Human Relatively to a Neanderthal Genome". Pattern Recognition and Image Analysis. Iberian Conference on Pattern Recognition and Image Analysis. Springer. Lecture Notes in Computer Science. Vol. 10255. pp. 235 242. doi:10.1007/978-3-319-58838-4_26. ISBN 978-3-319-58837-7.
+^ 
+"Human Genetic Variation Fact Sheet". National Institute of General Medical Sciences. 19 August 2011. Retrieved 5 September 2011.
+^ 
+Rakyan V, Whitelaw E (January 2003). "Transgenerational epigenetic inheritance". Current Biology. 13 (1): R6. doi:10.1016/S0960-9822(02)01377-5. PMID 12526754.
+^ 
+"Cline". Microsoft Encarta Premium. 2009.
+^ 
+King RC, Stansfield WD, Mulligan PK (2006). "Cline". A dictionary of genetics (7th ed.). Oxford University Press. ISBN 978-0195307610.
+^ 
+Begon M, Townsend CR, Harper JL (2006). Ecology: From individuals to ecosystems (4th ed.). Wiley-Blackwell. p. 10. ISBN 978-1405111171.
+^ "Haplogroup". DNA-Newbie Glossary. International Society of Genetic Genealogy. Retrieved 5 September 2012.
+^ "The descent of man Chapter 6   On the Affinities and Genealogy of Man". Darwin-online.org.uk. Retrieved 11 January 2011. In each great region of the world the living mammals are closely related to the extinct species of the same region. It is, therefore, probable that Africa was formerly inhabited by extinct apes closely allied to the gorilla and chimpanzee; and as these two species are now man's nearest allies, it is somewhat more probable that our early progenitors lived on the African continent than elsewhere. But it is useless to speculate on this subject, for an ape nearly as large as a man, namely the Dryopithecus of Lartet, which was closely allied to the anthropomorphous Hylobates, existed in Europe during the Upper Miocene period; and since so remote a period the earth has certainly undergone many great revolutions, and there has been ample time for migration on the largest scale.
+^ a b Underhill PA, Shen P, Lin AA, Jin L, Passarino G, Yang WH,  et al. (November 2000). "Y chromosome sequence variation and the history of human populations". Nature Genetics. 26 (3): 358 61. doi:10.1038/81685. PMID 11062480. S2CID 12893406.
+^ a b "New Research Proves Single Origin of Humans in Africa". Science Daily. 19 July 2007. Retrieved 5 September 2011.
+^ Manica A, Amos W, Balloux F, Hanihara T (July 2007). "The effect of ancient population bottlenecks on human phenotypic variation". Nature. 448 (7151): 346 8. Bibcode:2007Natur.448..346M. doi:10.1038/nature05951. PMC 1978547. PMID 17637668.
+^ Tishkoff SA, Reed FA, Friedlaender FR, Ehret C, Ranciaro A, Froment A,  et al. (May 2009). "The genetic structure and history of Africans and African Americans" (PDF). Science. 324 (5930): 1035 44. Bibcode:2009Sci...324.1035T. doi:10.1126/science.1172257. PMC 2947357. PMID 19407144. We incorporated geographic data into a Bayesian clustering analysis, assuming no admixture (TESS software) (25) and distinguished six clusters within continental Africa (Fig. 5A). The most geographically widespread cluster (orange) extends from far Western Africa (the Mandinka) through central Africa to the Bantu speakers of South Africa (the Venda and Xhosa) and corresponds to the distribution of the Niger-Kordofanian language family, possibly reflecting the spread of Bantu-speaking populations from near the Nigerian/Cameroon highlands across eastern and southern Africa within the past 5000 to 3000 years (26,27). Another inferred cluster includes the Pygmy and SAK populations (green), with a noncontiguous geographic distribution in central and southeastern Africa, consistent with the STRUCTURE (Fig. 3) and phylogenetic analyses (Fig. 1). Another geographically contiguous cluster extends across northern Africa (blue) into Mali (the Dogon), Ethiopia, and northern Kenya. With the exception of the Dogon, these populations speak an Afroasiatic language. Chadic-speaking and Nilo-Saharan speaking populations from Nigeria, Cameroon, and central Chad, as well as several Nilo-Saharan speaking populations from southern Sudan, constitute another cluster (red). Nilo-Saharan and Cushitic speakers from the Sudan, Kenya, and Tanzania, as well as some of the Bantu speakers from Kenya, Tanzania, and Rwanda (Hutu/Tutsi), constitute another cluster (purple), reflecting linguistic evidence for gene flow among these populations over the past ~5000 years (28,29). Finally, the Hadza are the sole constituents of a sixth cluster (yellow), consistent with their distinctive genetic structure identified by PCA and STRUCTURE.
+^ Schlebusch CM, Jakobsson M (August 2018). "Tales of Human Migration, Admixture, and Selection in Africa". Annual Review of Genomics and Human Genetics. 19: 405 428. doi:10.1146/annurev-genom-083117-021759. PMID 29727585. S2CID 19155657. Retrieved 28 May 2018.
+^ Auton A, Brooks LD, Durbin RM, Garrison EP, Kang HM, Korbel JO,  et al. (1000 Genomes Project Consortium) (October 2015). "A global reference for human genetic variation". Nature. 526 (7571): 68 74. Bibcode:2015Natur.526...68T. doi:10.1038/nature15393. PMC 4750478. PMID 26432245.
+^ a b Gabriel SB, Schaffner SF, Nguyen H, Moore JM, Roy J, Blumenstiel B,  et al. (June 2002). "The structure of haplotype blocks in the human genome". Science. 296 (5576): 2225 9. Bibcode:2002Sci...296.2225G. doi:10.1126/science.1069424. PMID 12029063. S2CID 10069634.
+^ a b Lewontin RC (1972). "The Apportionment of Human Diversity".  In Theodosius Dobzhansky, Max K. Hecht, William C. Steere (eds.). Evolutionary Biology. Vol. 6. New York: Appleton Century Crofts. pp. 381 97. doi:10.1007/978-1-4684-9063-3_14. ISBN 978-1-4684-9065-7. S2CID 21095796.
+^ Bamshad MJ, Wooding S, Watkins WS, Ostler CT, Batzer MA, Jorde LB (March 2003). "Human population genetic structure and inference of group membership". American Journal of Human Genetics. 72 (3): 578 89. doi:10.1086/368061. PMC 1180234. PMID 12557124.
+^ Manica, Andrea, William Amos, Fran ois Balloux, and Tsunehiko Hanihara. "The Effect of Ancient Population Bottlenecks on Human Phenotypic Variation". Nature 448, no. 7151 (July 2007): 346 48. https://doi.org/10.1038/nature05951.
+^ Jablonski NG (10 January 2014). "The Biological and Social Meaning of Skin Color". Living Color: The Biological and Social Meaning of Skin Color. University of California Press. ISBN 978-0-520-28386-2. JSTOR 10.1525/j.ctt1pn64b.
+^ Grubert F, Zaugg JB, Kasowski M, Ursu O, Spacek DV, Martin AR,  et al. (August 2015). "Genetic Control of Chromatin States in Humans Involves Local and Distal Chromosomal Interactions". Cell. 162 (5): 1051 65. doi:10.1016/j.cell.2015.07.048. PMC 4556133. PMID 26300125.
+^ 
+Cenik C, Cenik ES, Byeon GW, Grubert F, Candille SI, Spacek D,  et al. (November 2015). "Integrative analysis of RNA, translation, and protein levels reveals distinct regulatory variation across humans". Genome Research. 25 (11): 1610 21. doi:10.1101/gr.193342.115. PMC 4617958. PMID 26297486.
+^ Wu L, Candille SI, Choi Y, Xie D, Jiang L, Li-Pook-Than J, Tang H, Snyder M (July 2013). "Variation and genetic control of protein abundance in humans". Nature. 499 (7456): 79 82. Bibcode:2013Natur.499...79W. doi:10.1038/nature12223. PMC 3789121. PMID 23676674.
+^ Phillips ML (9 January 2007). "Ethnicity tied to gene expression". The Scientist. Retrieved 5 September 2011.[permanent dead link]
+^ 
+Spielman RS, Bastone LA, Burdick JT, Morley M, Ewens WJ, Cheung VG (February 2007). "Common genetic variants account for differences in gene expression among ethnic groups". Nature Genetics. 39 (2): 226 31. doi:10.1038/ng1955. PMC 3005333. PMID 17206142.
+^ 
+Swaminathan N (9 January 2007). "Ethnic Differences Traced to Variable Gene Expression". Scientific American. Retrieved 5 September 2011.
+^ 
+Check E (2007). "Genetic expression speaks as loudly as gene type". Nature News. doi:10.1038/news070101-8. S2CID 84380725.
+^ Bell L (15 January 2007). "Variable gene expression seen in different ethnic groups". BioNews.org. Archived from the original on 26 March 2016. Retrieved 5 September 2011.
+^ 
+Kamrani K (28 February 2008). "Differences of gene expression between human populations". Anthropology.net. Retrieved 5 September 2011.
+^ 
+Storey JD, Madeoy J, Strout JL, Wurfel M, Ronald J, Akey JM (March 2007). "Gene-expression variation within and among human populations". American Journal of Human Genetics. 80 (3): 502 9. doi:10.1086/512017. PMC 1821107. PMID 17273971.
+^ a b c Graves JL (2006). "What We Know and What We Don't Know: Human Genetic Variation and the Social Construction of Race". Is Race "Real"?. Social Science Research Council. Retrieved 22 January 2011.
+^ Keita SO, Kittles RA, Royal CD, Bonney GE, Furbert-Harris P, Dunston GM, Rotimi CN (November 2004). "Conceptualizing human variation". Nature Genetics. 36 (11 Suppl): S17 20. doi:10.1038/ng1455. PMID 15507998.
+^ Hawks J (2013). Significance of Neandertal and Denisovan Genomes in Human Evolution. Annual Review of Anthropology. Vol. 42. Annual Reviews. pp. 433 49. doi:10.1146/annurev-anthro-092412-155548. ISBN 978-0-8243-1942-7.
+^ * Wright S (1978). Evolution and the Genetics of Populations. Vol. 4, Variability Within and Among Natural Populations. Chicago, Illinois: Univ. Chicago Press. p. 438.
+^ Long JC, Kittles RA (August 2003). "Human genetic diversity and the nonexistence of biological races". Human Biology. 75 (4): 449 71. doi:10.1353/hub.2003.0058. PMID 14655871. S2CID 26108602.
+^ Harris, Kelley; Nielsen, Rasmus (June 2016). "The Genetic Cost of Neanderthal Introgression". Genetics. 203 (2): 881 891. doi:10.1534/genetics.116.186890. ISSN 0016-6731. PMC 4896200. PMID 27038113.
+^ Wall, Jeffrey D.; Yang, Melinda A.; Jay, Flora; Kim, Sung K.; Durand, Eric Y.; Stevison, Laurie S.; Gignoux, Christopher; Woerner, August; Hammer, Michael F.; Slatkin, Montgomery (May 2013). "Higher Levels of Neanderthal Ancestry in East Asians than in Europeans". Genetics. 194 (1): 199 209. doi:10.1534/genetics.112.148213. ISSN 0016-6731. PMC 3632468. PMID 23410836.
+^ a b 
+Reich D, Green RE, Kircher M, Krause J, Patterson N, Durand EY,  et al. (December 2010). "Genetic history of an archaic hominin group from Denisova Cave in Siberia". Nature. 468 (7327): 1053 60. Bibcode:2010Natur.468.1053R. doi:10.1038/nature09710. PMC 4306417. PMID 21179161.
+^ Wall JD, Yang MA, Jay F, Kim SK, Durand EY, Stevison LS,  et al. (May 2013). "Higher levels of neanderthal ancestry in East Asians than in Europeans". Genetics. 194 (1): 199 209. doi:10.1534/genetics.112.148213. PMC 3632468. PMID 23410836.
+^ Hammer MF, Woerner AE, Mendez FL, Watkins JC, Wall JD (September 2011). "Genetic evidence for archaic admixture in Africa". Proceedings of the National Academy of Sciences of the United States of America. 108 (37): 15123 8. Bibcode:2011PNAS..10815123H. doi:10.1073/pnas.1109300108. PMC 3174671. PMID 21896735.
+^ Durvasula A, Sankararaman S (February 2020). "Recovering signals of ghost archaic introgression in African populations". Science Advances. 6 (7): eaax5097. Bibcode:2020SciA....6.5097D. doi:10.1126/sciadv.aax5097. PMC 7015685. PMID 32095519.
+^ Rosenberg NA, Mahajan S, Gonzalez-Quevedo C, Blum MG, Nino-Rosales L, Ninis V,  et al. (December 2006). "Low levels of genetic divergence across geographically and linguistically diverse populations from India". PLOS Genetics. 2 (12): e215. doi:10.1371/journal.pgen.0020215. PMC 1713257. PMID 17194221.
+^ Wohns, Anthony Wilder; Wong, Yan; Jeffery, Ben; Akbari, Ali; Mallick, Swapan; Pinhasi, Ron; Patterson, Nick; Reich, David; Kelleher, Jerome; McVean, Gil (15 April 2021). "A unified genealogy of modern and ancient genomes". bioRxiv 10.1101/2021.02.16.431497.
+^ Biddanda A, Rice DP, Novembre J (2020). "A variant-centric perspective on geographic patterns of human allele frequency variation". eLife. 9. doi:10.7554/eLife.60107. PMC 7755386. PMID 33350384. 
+^ Bergstr m A, McCarthy SA, Hui R, Almarri MA, Ayub Q, Danecek P,  et al. (2020). "Insights into human genetic variation and population history from 929 diverse genomes". Science. 367 (6484). doi:10.1126/science.aay5012. PMC 7115999. PMID 32193295. 
+^ Albers, Patrick K.; McVean, Gil (13 September 2018). "Dating genomic variants and shared ancestry in population-scale sequencing data". bioRxiv. 18 (1): 416610. doi:10.1101/416610. PMC 6992231. PMID 31951611.
+^ Coop G, Pickrell JK, Novembre J, Kudaravalli S, Li J, Absher D,  et al. (June 2009).  Schierup MH (ed.). "The role of geography in human adaptation". PLOS Genetics. 5 (6): e1000500. doi:10.1371/journal.pgen.1000500. PMC 2685456. PMID 19503611.
+See also: Brown D (22 June 2009). "Among Many Peoples, Little Genomic Variety". The Washington Post. Retrieved 25 June 2009..
+"Geography And History Shape Genetic Differences in Humans". Science Daily. 7 June 2009. Retrieved 25 June 2009..
+^ Hancock AM, Witonsky DB, Ehler E, Alkorta-Aranburu G, Beall C, Gebremedhin A,  et al. (May 2010). "Colloquium paper: human adaptations to diet, subsistence, and ecoregion are due to subtle shifts in allele frequency". Proceedings of the National Academy of Sciences of the United States of America. 107 Suppl 2 (Suppl 2): 8924 30. Bibcode:2010PNAS..107.8924H. doi:10.1073/pnas.0914625107. PMC 3024024. PMID 20445095.
+^ Duforet-Frebourg N, Luu K, Laval G, Bazin E, Blum MG (April 2016). "Detecting Genomic Signatures of Natural Selection with Principal Component Analysis: Application to the 1000 Genomes Data". Molecular Biology and Evolution. 33 (4): 1082 93. arXiv:1504.04543. doi:10.1093/molbev/msv334. PMC 4776707. PMID 26715629.
+^ Cunha, Eug nia; Ubelaker, Douglas H. (23 December 2019). "Evaluation of ancestry from human skeletal remains: a concise review". Forensic Sciences Research. 5 (2): 89 97. doi:10.1080/20961790.2019.1697060. ISSN 2096-1790. PMC 7476619. PMID 32939424.
+^ Thomas, Richard M.; Parks, Connie L.; Richard, Adam H. (July 2017). "Accuracy Rates of Ancestry Estimation by Forensic Anthropologists Using Identified Forensic Cases". Journal of Forensic Sciences. 62 (4): 971 974. doi:10.1111/1556-4029.13361. ISSN 1556-4029. PMID 28133721. S2CID 3453064.
+^ Winkler CA, Nelson GW, Smith MW (2010). "Admixture mapping comes of age". Annual Review of Genomics and Human Genetics. 11: 65 89. doi:10.1146/annurev-genom-082509-141523. PMC 7454031. PMID 20594047.
+^ Bryc K, Auton A, Nelson MR, Oksenberg JR, Hauser SL, Williams S,  et al. (January 2010). "Genome-wide patterns of population structure and admixture in West Africans and African Americans". Proceedings of the National Academy of Sciences of the United States of America. 107 (2): 786 91. Bibcode:2010PNAS..107..786B. doi:10.1073/pnas.0909559107. PMC 2818934. PMID 20080753.
+^ Beleza S, Campos J, Lopes J, Ara jo II, Hoppfer Almada A, Correia e Silva A,  et al. (2012). "The admixture structure and genetic variation of the archipelago of Cape Verde and its implications for admixture mapping studies". PLOS ONE. 7 (11): e51103. Bibcode:2012PLoSO...751103B. doi:10.1371/journal.pone.0051103. PMC 3511383. PMID 23226471.
+^ Arrieta-Bola os E, Madrigal JA, Shaw BE (2012). "Human leukocyte antigen profiles of Latin American populations: differential admixture and its potential impact on hematopoietic stem cell transplantation". Bone Marrow Research. 2012: 1 13. doi:10.1155/2012/136087. PMC 3506882. PMID 23213535.
+^ a b Risch N, Burchard E, Ziv E, Tang H (July 2002). "Categorization of humans in biomedical research: genes, race and disease". Genome Biology. 3 (7): comment2007. doi:10.1186/gb-2002-3-7-comment2007. PMC 139378. PMID 12184798.
+^ Lu YF, Goldstein DB, Angrist M, Cavalleri G (July 2014). "Personalized medicine and human genetic diversity". Cold Spring Harbor Perspectives in Medicine. 4 (9): a008581. doi:10.1101/cshperspect.a008581. PMC 4143101. PMID 25059740.
+^ Limborska SA, Balanovsky OP, Balanovskaya EV, Slominsky PA, Schadrina MI, Livshits LA,  et al. (2002). "Analysis of CCR5Delta32 geographic distribution and its correlation with some climatic and geographic factors". Human Heredity. 53 (1): 49 54. doi:10.1159/000048605. PMID 11901272. S2CID 1538974.
+^ Tishkoff SA, Verrelli BC (2003). "Patterns of human genetic diversity: implications for human evolutionary history and disease". Annual Review of Genomics and Human Genetics. 4 (1): 293 340. doi:10.1146/annurev.genom.4.070802.110226. PMID 14527305.
+^ 
+Tang H, Quertermous T, Rodriguez B, Kardia SL, Zhu X, Brown A,  et al. (February 2005). "Genetic structure, self-identified race/ethnicity, and confounding in case-control association studies". American Journal of Human Genetics. 76 (2): 268 75. doi:10.1086/427888. PMC 1196372. PMID 15625622.
+^ Rosenberg NA, Pritchard JK, Weber JL, Cann HM, Kidd KK, Zhivotovsky LA, Feldman MW (December 2002). "Genetic structure of human populations". Science. 298 (5602): 2381 5. Bibcode:2002Sci...298.2381R. doi:10.1126/science.1078311. PMID 12493913. S2CID 8127224.
+^ Interpreting polygenic scores, polygenic adaptation, and human phenotypic differences
+Further reading[edit]
+Race, Ethnicity (October 2005). "The use of racial, ethnic, and ancestral categories in human genetics research". American Journal of Human Genetics. 77 (4): 519 32. doi:10.1086/491747. PMC 1275602. PMID 16175499.
+Altm ller J, Palmer LJ, Fischer G, Scherb H, Wjst M (November 2001). "Genomewide scans of complex human diseases: true linkage is hard to find". American Journal of Human Genetics. 69 (5): 936 50. doi:10.1086/324069. PMC 1274370. PMID 11565063.
+Aoki K (2002). "Sexual selection as a cause of human skin colour variation: Darwin's hypothesis revisited". Annals of Human Biology. 29 (6): 589 608. doi:10.1080/0301446021000019144. PMID 12573076. S2CID 22703861.
+Bamshad M, Wooding S, Salisbury BA, Stephens JC (August 2004). "Deconstructing the relationship between genetics and race". Nature Reviews. Genetics. 5 (8): 598 609. doi:10.1038/nrg1401. PMID 15266342. S2CID 12378279. reprint-zip
+Bamshad M, Wooding SP (February 2003). "Signatures of natural selection in the human genome". Nature Reviews. Genetics. 4 (2): 99 111. doi:10.1038/nrg999. PMID 12560807. S2CID 13722452.
+Cann RL, Stoneking M, Wilson AC (1987). "Mitochondrial DNA and human evolution". Nature. 325 (6099): 31 36. Bibcode:1987Natur.325...31C. doi:10.1038/325031a0. PMID 3025745. S2CID 4285418.
+Cardon LR, Abecasis GR (March 2003). "Using haplotype blocks to map human complex trait loci" (PDF). Trends in Genetics. 19 (3): 135 40. doi:10.1016/S0168-9525(03)00022-2. PMID 12615007.
+Cavalli-Sforza LL, Feldman MW (March 2003). "The application of molecular genetic approaches to the study of human evolution". Nature Genetics. 33 Suppl (3s): 266 75. doi:10.1038/ng1113. PMID 12610536. S2CID 8314161.
+Collins FS (November 2004). "What we do and don't know about 'race', 'ethnicity', genetics and health at the dawn of the genome era". Nature Genetics. 36 (11 Suppl): S13 15. doi:10.1038/ng1436. PMID 15507997. S2CID 26968169.
+Collins FS, Green ED, Guttmacher AE, Guyer MS (April 2003). "A vision for the future of genomics research". Nature. 422 (6934): 835 47. Bibcode:2003Natur.422..835C. doi:10.1038/nature01626. PMID 12695777. S2CID 205209730.
+Ebersberger I, Metzler D, Schwarz C, P bo S (June 2002). "Genomewide comparison of DNA sequences between humans and chimpanzees". American Journal of Human Genetics. 70 (6): 1490 97. doi:10.1086/340787. PMC 379137. PMID 11992255.
+Edwards AW (August 2003). "Human genetic diversity: Lewontin's fallacy". BioEssays. 25 (8): 798 801. doi:10.1002/bies.10315. PMID 12879450.
+Foster MW, Sharp RR (October 2004). "Beyond race: towards a whole-genome perspective on human populations and genetic variation". Nature Reviews. Genetics. 5 (10): 790 96. doi:10.1038/nrg1452. PMID 15510170. S2CID 25764082.
+Foster MW, Sharp RR, Freeman WL, Chino M, Bernsten D, Carter TH (June 1999). "The role of community review in evaluating the risks of human genetic variation research". American Journal of Human Genetics. 64 (6): 1719 27. doi:10.1086/302415. PMC 1377916. PMID 10330360.
+Gabriel SB, Schaffner SF, Nguyen H, Moore JM, Roy J, Blumenstiel B, Higgins J, DeFelice M, Lochner A, Faggart M, Liu-Cordero SN, Rotimi C, Adeyemo A, Cooper R, Ward R, Lander ES, Daly MJ, Altshuler D (June 2002). "The structure of haplotype blocks in the human genome". Science. 296 (5576): 2225 29. Bibcode:2002Sci...296.2225G. doi:10.1126/science.1069424. PMID 12029063. S2CID 10069634.
+Harding RM, Healy E, Ray AJ, Ellis NS, Flanagan N, Todd C, Dixon C, Sajantila A, Jackson IJ, Birch-Machin MA, Rees JL (April 2000). "Evidence for variable selective pressures at MC1R". American Journal of Human Genetics. 66 (4): 1351 61. doi:10.1086/302863. PMC 1288200. PMID 10733465.
+Ingman M, Kaessmann H, P bo S, Gyllensten U (December 2000). "Mitochondrial genome variation and the origin of modern humans". Nature. 408 (6813): 708 13. Bibcode:2000Natur.408..708I. doi:10.1038/35047064. PMID 11130070. S2CID 52850476.
+The International Hapmap Consortium (December 2003). "The International HapMap Project". Nature. 426 (6968): 789 96. Bibcode:2003Natur.426..789G. doi:10.1038/nature02168. hdl:2027.42/62838. PMID 14685227. S2CID 4387110.
+The International Hapmap Consortium (June 2004). "Integrating ethics and science in the International HapMap Project". Nature Reviews. Genetics. 5 (6): 467 75. doi:10.1038/nrg1351. PMC 2271136. PMID 15153999.
+Lander ES, Linton LM, Birren B, Nusbaum C, Zody MC, Baldwin J,  et al. (February 2001). "Initial sequencing and analysis of the human genome". Nature. 409 (6822): 860 921. Bibcode:2001Natur.409..860L. doi:10.1038/35057062. PMID 11237011.
+Jorde LB, Bamshad M, Rogers AR (February 1998). "Using mitochondrial and nuclear DNA markers to reconstruct human evolution" (PDF). BioEssays. 20 (2): 126 36. doi:10.1002/(SICI)1521-1878(199802)20:2<126::AID-BIES5>3.0.CO;2-R. PMID 9631658. S2CID 17203268. Archived from the original (PDF) on 28 November 2007. Retrieved 28 October 2007.
+Jorde LB, Watkins WS, Bamshad MJ, Dixon ME, Ricker CE, Seielstad MT, Batzer MA (March 2000). "The distribution of human genetic diversity: a comparison of mitochondrial, autosomal, and Y-chromosome data". American Journal of Human Genetics. 66 (3): 979 88. doi:10.1086/302825. PMC 1288178. PMID 10712212.
+Jorde LB, Watkins WS, Kere J, Nyman D, Eriksson AW (2000). "Gene mapping in isolated populations: new roles for old friends?". Human Heredity. 50 (1): 57 65. doi:10.1159/000022891. PMID 10545758. S2CID 26960216.
+Kaessmann H, Heissig F, von Haeseler A, P bo S (May 1999). "DNA sequence variation in a non-coding region of low recombination on the human X chromosome". Nature Genetics. 22 (1): 78 81. doi:10.1038/8785. PMID 10319866. S2CID 9153915.
+Kaessmann H, Wiebe V, Weiss G, P bo S (February 2001). "Great ape DNA sequences reveal a reduced diversity and an expansion in humans". Nature Genetics. 27 (2): 155 56. doi:10.1038/84773. PMID 11175781. S2CID 19384784.
+Keita SO, Kittles RA (1997). "The Persistence of Racial Thinking and the Myth of Racial Divergence". American Anthropologist. 99 (3): 534 44. doi:10.1525/aa.1997.99.3.534.
+Marks J (1995). Human Biodiversity: Genes, Race, and History. Aldine Transaction. ISBN 978-0-202-02033-4.
+Mountain JL, Risch N (November 2004). "Assessing genetic contributions to phenotypic differences among 'racial' and 'ethnic' groups". Nature Genetics. 36 (11 Suppl): S48 53. doi:10.1038/ng1456. PMID 15508003.
+P bo S (January 2003). "The mosaic that is our genome". Nature. 421 (6921): 409 12. Bibcode:2003Natur.421..409P. doi:10.1038/nature01400. PMID 12540910.
+Ramachandran S, Deshpande O, Roseman CC, Rosenberg NA, Feldman MW, Cavalli-Sforza LL (November 2005). "Support from the relationship of genetic and geographic distance in human populations for a serial founder effect originating in Africa". Proceedings of the National Academy of Sciences of the United States of America. 102 (44): 15942 47. Bibcode:2005PNAS..10215942R. doi:10.1073/pnas.0507611102. PMC 1276087. PMID 16243969.
+Relethford JH (August 2002). "Apportionment of global human genetic diversity based on craniometrics and skin color". American Journal of Physical Anthropology. 118 (4): 393 98. CiteSeerX 10.1.1.473.5972. doi:10.1002/ajpa.10079. PMID 12124919. S2CID 8717358.
+Sankar P, Cho MK (November 2002). "Genetics. Toward a new vocabulary of human genetic variation". Science. 298 (5597): 1337 38. doi:10.1126/science.1074447. PMC 2271140. PMID 12434037.
+Sankar P, Cho MK, Condit CM, Hunt LM, Koenig B, Marshall P, Lee SS, Spicer P (June 2004). "Genetic research and health disparities". JAMA. 291 (24): 2985 89. doi:10.1001/jama.291.24.2985. PMC 2271142. PMID 15213210.
+Serre D, P bo S (September 2004). "Evidence for gradients of human genetic diversity within and among continents". Genome Research. 14 (9): 1679 85. doi:10.1101/gr.2529604. PMC 515312. PMID 15342553.
+Templeton AR (1998). "Human Races: A Genetic and Evolutionary Perspective". American Anthropologist. 100 (3): 632 50. doi:10.1525/aa.1998.100.3.632.
+Weiss KM (1998). "Coming to Terms with Human Variation". Annual Review of Anthropology. 27: 273 300. doi:10.1146/annurev.anthro.27.1.273.
+Weiss KM, Terwilliger JD (October 2000). "How many diseases does it take to map a gene with SNPs?". Nature Genetics. 26 (2): 151 57. doi:10.1038/79866. PMID 11017069. S2CID 685795.
+Yu N, Jensen-Seaman MI, Chemnick L, Kidd JR, Deinard AS, Ryder O, Kidd KK, Li WH (August 2003). "Low nucleotide diversity in chimpanzees and bonobos". Genetics. 164 (4): 1511 18. doi:10.1093/genetics/164.4.1511. PMC 1462640. PMID 12930756.
+Zietkiewicz E, Yotova V, Gehl D, Wambach T, Arrieta I, Batzer M, Cole DE, Hechtman P, Kaplan F, Modiano D, Moisan JP, Michalski R, Labuda D (November 2003). "Haplotypes in the dystrophin DNA segment point to a mosaic origin of modern human diversity". American Journal of Human Genetics. 73 (5): 994 1015. doi:10.1086/378777. PMC 1180505. PMID 14513410.
+Pennisi E (December 2007). "Breakthrough of the year. Human genetic variation". Science. 318 (5858): 1842 43. doi:10.1126/science.318.5858.1842. PMID 18096770.
+Ramachandran S, Tang H, Gutenkunst RN, Bustamante CD (2010). "Genetics and Genomics of Human Population Structure".  In Speicher MR, Antonarakis SE, Motulsky AG (eds.). Vogel and Motulsky's Human Genetics: Problems and Approaches (4th ed.). Springer. ISBN 978-3-540-37653-8.
+External links[edit]
+Wikimedia Commons has media related to Human genetic diversity.
+Human Genome Variation Society
+vteSex differences in humansBiology
+Sexual differentiation
+Disorders
+In research
+Physiology
+Medicine and Health
+Autoimmunity
+Life expectancy
+Mental disorders
+Autism
+Depression
+Schizophrenia
+Substance abuse
+Suicide
+Stroke care
+Neuroscience and Psychology
+Aggression
+Cognition
+Emotional intelligence
+Empathy
+Intelligence
+Memory
+Narcissism
+Neurosexism
+Sexuality
+Age disparity in relationships
+Attraction
+Desire
+Fantasy
+Jealousy
+Sociology
+Crime
+Education
+in the U.S.
+Gender inequality
+Leadership
+Religion
+Social capital
+vteHuman geneticsSub-topics
+Human genome
+Human Genome Project
+Evolutionary genetics
+Human-chimp MRCA
+Neanderthal genetics
+Neanderthal genome project
+Timeline
+Genetic variation
+Blood type distribution by country
+Genealogical DNA test
+Genetic genealogy
+Race and genetics
+Recent evolution
+Surname DNA project
+Genetic enhancement
+Genetic history by region
+Africa
+diaspora
+South Asia
+India
+North Africa
+Middle East
+Early Anatolian Farmers
+Caucasus
+Caucasus hunter-gatherer
+Europe
+Western Hunter-Gatherer
+British Isles
+Iberia
+Italy
+Eastern Hunter-Gatherer
+Central Asia
+Ancient North Eurasian
+East Asia
+China
+Southeast Asia
+Thailand
+America
+Ancient Beringian
+Population genetics by group
+Europe
+Basques
+Bosniaks
+Bulgarians
+Croats
+Romanians
+Russians
+Sami
+Serbs
+Azerbaijanis
+Jews
+Turks
+MENA
+Arabs
+Egyptians
+Moroccans
+South Asia
+Gujaratis
+Sinhalese
+Tamils (Sri Lankan)
+East Asia
+Han Chinese
+Japanese
+Southeast Asia
+Filipinos
+Sub-Saharan Africa
+Hutu/Tutsi
+Category
+vtePopulation geneticsKey concepts
+Hardy Weinberg principle
+Genetic linkage
+Identity by descent
+Linkage disequilibrium
+Fisher's fundamental theorem
+Neutral theory
+Shifting balance theory
+Price equation
+Coefficient of inbreeding
+Coefficient of relationship
+Selection coefficient
+Fitness
+Heritability
+Population structure
+Constructive neutral evolution
+Selection
+Natural
+Artificial
+Sexual
+Ecological
+Effects of selectionon genomic variation
+Genetic hitchhiking
+Background selection
+Genetic drift
+Small population size
+Population bottleneck
+Founder effect
+Coalescence
+Balding Nichols model
+Founders
+R. A. Fisher
+J. B. S. Haldane
+Sewall Wright
+Related topics
+Biogeography
+Evolution
+Evolutionary game theory
+Fitness landscape
+Genetic genealogy
+Landscape genetics and genomics
+Microevolution
+Population genomics
+Phylogeography
+Quantitative genetics
+Index of evolutionary biology articles
+vtePersonal genomicsData collection
+Biobank
+Biological database
+Field concepts
+Biological specimen
+De-identification
+Human genetic variation
+Genetic linkage
+Single-nucleotide polymorphisms
+Identity by descent
+Genetic disorder
+Applications
+Personalized medicine
+Predictive medicine
+Genetic epidemiology
+Pharmacogenomics
+Analysis techniques
+Whole genome sequencing
+Genome-wide association study
+SNP array
+Genetic testing
+Major projects
+Human Genome Project
+International HapMap Project
+1000 Genomes Project
+Human Genome Diversity Project
+vteScience Breakthroughs of the YearSciencejournal
+1996: HIV understanding
+1997: Dolly the sheep
+1998: Accelerating universe
+1999: Stem cell
+2000: Whole genome sequencing
+2001: Nanocircuits or Molecular circuit
+2002: RNA interference
+2003: Dark energy
+2004: Spirit rover
+2005: Evolution in action
+2006: Poincar  conjecture proof
+2007: Human genetic variation
+2008: Cellular reprogramming
+2009: Ardipithecus ramidus
+2010: First quantum machine
+2011: HPTN 052 clinical trial
+2012: Higgs boson discovery
+2013: Cancer immunotherapy
+2014: Rosetta comet mission
+2015: CRISPR genome-editing method
+2016: First observation of gravitational waves
+2017: GW170817 (neutron star merger)
+2018: Single-cell sequencing
+2019: First image of black hole
+2020: COVID-19 vaccines developed at record speed
+2021: AI brings protein structures to all
+2022: James Webb Space Telescope debut
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Human_genetic_variation&oldid=1147751395"

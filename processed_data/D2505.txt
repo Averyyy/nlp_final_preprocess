@@ -1,0 +1,487 @@
+Symbolic depiction of relationships
+For other uses, see Map (disambiguation) and Maps (disambiguation).
+This article includes a list of general references, but it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations. (July 2017) (Learn how and when to remove this template message)
+ World map by Gerard van Schagen, Amsterdam, 1689
+ World map from CIA World Factbook, 2016
+A map is a symbolic depiction emphasizing relationships between elements of some space, such as objects, regions, or themes.
+Many maps are static, fixed to paper or some other durable medium, while others are dynamic or interactive. Although most commonly used to depict geography, maps may represent any space, real or fictional, without regard to context or scale, such as in brain mapping, DNA mapping, or computer network topology mapping. The space being mapped may be two dimensional, such as the surface of the earth, three dimensional, such as the interior of the earth, or even more abstract spaces of any dimension, such as arise in modeling phenomena having many independent variables.
+Although the earliest maps known are of the heavens, geographic maps of territory have a very long tradition and exist from ancient times. The word "map" comes from the medieval Latin: Mappa mundi, wherein mappa meant 'napkin' or 'cloth' and mundi 'the world'. Thus, "map" became a shortened term referring to a two-dimensional representation of the surface of the world.
+History[edit]
+Main article: History of cartography
+ Tabula Rogeriana, one of the most advanced early world maps, by Muhammad al-Idrisi's, 1154
+The history of cartography traces the development of cartography, or mapmaking technology, in human history. Maps have been one of the most important human inventions for millennia, allowing humans to explain and navigate their way through the world. The earliest surviving maps include cave paintings and etchings on tusk and stone, followed by extensive maps produced by ancient Babylon, Greece and Rome, China, and India. In their most simple form maps are two dimensional constructs, however since the age of Classical Greece maps have also been projected onto a three-dimensional sphere known as a globe. The Mercator Projection, developed by Flemish geographer Gerardus Mercator, was widely used as the standard two-dimensional projection of the earth for world maps until the late 20th century, when more accurate projections were formulated. Mercator was also the first to use and popularise the concept of the atlas as a collection of maps.
+Geography[edit]
+ Celestial map by the cartographer Frederik de Wit,   17th century
+Cartography or map-making is the study and practice of crafting representations of the Earth upon a flat surface (see History of cartography), and one who makes maps is called a cartographer.
+Road maps are perhaps the most widely used maps today, and form a subset of navigational maps, which also include aeronautical and nautical charts, railroad network maps, and hiking and bicycling maps. In terms of quantity, the largest number of drawn map sheets is probably made up by local surveys, carried out by municipalities, utilities, tax assessors, emergency services providers, and other local agencies.  Many national surveying projects have been carried out by the military, such as the British Ordnance Survey: a civilian government agency, internationally renowned for its comprehensively detailed work.
+In addition to location information, maps may also be used to portray contour lines indicating constant values of elevation, temperature, rainfall, etc.
+Orientation[edit]
+ The Hereford Mappa Mundi, Hereford Cathedral, England, circa 1300, a classic "T-O" map with Jerusalem at the center, east toward the top, Europe the bottom left and Africa on the right
+The orientation of a map is the relationship between the directions on the map and the corresponding compass directions in reality. The word "orient" is derived from Latin oriens, meaning east. In the Middle Ages many maps, including the T and O maps, were drawn with east at the top (meaning that the direction "up" on the map corresponds to East on the compass). The most common cartographic convention is that north is at the top of a map.
+ Map of Utrecht, Netherlands (1695).
+Maps not oriented with north at the top:
+Maps from non-Western traditions have oriented a variety of ways. Old maps of Edo show the Japanese imperial palace as the "top", but also at the center, of the map. Labels on the map are oriented in such a way that you cannot read them properly unless you put the imperial palace above your head.[1]
+Medieval European T and O maps such as the Hereford Mappa Mundi were centered on Jerusalem with East at the top. Indeed, before the reintroduction of Ptolemy's Geography to Europe around 1400, there was no single convention in the West. Portolan charts, for example, are oriented to the shores they describe.
+Maps of cities bordering a sea are often conventionally oriented with the sea at the top.
+Route and channel maps have traditionally been oriented to the road or waterway they describe.
+Polar maps of the Arctic or Antarctic regions are conventionally centered on the pole; the direction North would be toward or away from the center of the map, respectively. Typical maps of the Arctic have 0  meridian toward the bottom of the page; maps of the Antarctic have the 0  meridian toward the top of the page.
+South-up maps invert the North is up convention by having south at the top. Ancient Africans including in Ancient Egypt used this orientation, as some maps in Brazil do today.[2]
+Buckminster Fuller's Dymaxion maps are based on a projection of the Earth's sphere onto an icosahedron. The resulting triangular pieces may be arranged in any order or orientation.
+Using the equator as the edge, the world map of Gott, Vanderbei, and Goldberg is arranged as a pair of disks back-to-back designed to present the least error possible.[3] They are designed to be printed as a two-sided flat object that could be held easily for educational purposes.
+Scale and accuracy[edit]
+Main article: Scale (map)
+Many maps are drawn to a scale expressed as a ratio, such as 1:10,000, which means that 1 unit of measurement on the map corresponds to 10,000 of that same unit on the ground. The scale statement can be accurate when the region mapped is small enough for the curvature of the Earth to be neglected, such as a city map. Mapping larger regions, where the curvature cannot be ignored, requires projections to map from the curved surface of the Earth to the plane. The impossibility of flattening the sphere to the plane without distortion means that the map cannot have a constant scale. Rather, on most projections, the best that can be attained is an accurate scale along one or two paths on the projection. Because scale differs everywhere, it can only be measured meaningfully as point scale per location. Most maps strive to keep point scale variation within narrow bounds. Although the scale statement is nominal it is usually accurate enough for most purposes unless the map covers a large fraction of the earth. At the scope of a world map, scale as a single number is practically meaningless throughout most of the map. Instead, it usually refers to the scale along the equator.
+ Cartogram of the EU   distorted to show population distributions as of 2008
+Some maps, called cartograms, have the scale deliberately distorted to reflect information other than land area or distance. For example, this map (at the right) of Europe has been distorted to show population distribution, while the rough shape of the continent is still discernible.
+Another example of distorted scale is the famous London Underground map. The basic geographical structure is respected but the tube lines (and the River Thames) are smoothed to clarify the relationships between stations. Near the center of the map, stations are spaced out more than near the edges of the map.
+Further inaccuracies may be deliberate. For example, cartographers may simply omit military installations or remove features solely to enhance the clarity of the map. For example, a road map may not show railroads, smaller waterways, or other prominent non-road objects, and even if it does, it may show them less clearly (e.g. dashed or dotted lines/outlines) than the main roads. Known as decluttering, the practice makes the subject matter that the user is interested in easier to read, usually without sacrificing overall accuracy. Software-based maps often allow the user to toggle decluttering between ON, OFF, and AUTO as needed. In AUTO the degree of decluttering is adjusted as the user changes the scale being displayed.
+Projection[edit]
+Main article: Map projection
+Geographic maps use a projection to translate the three-dimensional real surface of the geoid to a two-dimensional picture. Projection always distorts the surface. There are many ways to apportion the distortion, and so there are many map projections. Which projection to use depends on the purpose of the map.[4]
+Symbology[edit]
+Main article: Map symbol
+The various features shown on a map are represented by conventional signs or symbols.  For example, colors can be used to indicate a classification of roads.  Those signs are usually explained in the margin of the map, or on a separately published characteristic sheet.[5]
+Some cartographers prefer to make the map cover practically the entire screen or sheet of paper, leaving no room "outside" the map for information about the map as a whole. These cartographers typically place such information in an otherwise "blank" region "inside" the map cartouche, map legend, title, compass rose, bar scale, etc.
+In particular, some maps contain smaller "sub-maps" in otherwise blank regions often one at a much smaller scale showing the whole globe and where the whole map fits on that globe, and a few showing "regions of interest" at a larger scale to show details that wouldn't otherwise fit.
+Occasionally sub-maps use the same scale as the large map a few maps of the contiguous United States include a sub-map to the same scale for each of the two non-contiguous states.
+Design[edit]
+Main article: Cartographic design
+The design and production of maps is a craft that has developed over thousands of years, from clay tablets to Geographic information systems. As a form of Design, particularly closely related to Graphic design, map making incorporates scientific knowledge about how maps are used, integrated with principles of artistic expression, to create an aesthetically attractive product, carries an aura of authority, and functionally serves a particular purpose for an intended audience.
+Designing a map involves bringing together a number of elements and making a large number of decisions. The elements of design fall into several broad topics, each of which has its own theory, its own research agenda, and its own best practices. That said, there are synergistic effects between these elements, meaning that the overall design process is not just working on each element one at a time, but an iterative feedback process of adjusting each to achieve the desired gestalt.
+Map projections: The foundation of the map is the plane on which it rests (whether paper or screen), but projections are required to flatten the surface of the earth. All projections distort this surface, but the cartographer can be strategic about how and where distortion occurs.[6]
+Generalization: All maps must be drawn at a smaller scale than reality, requiring that the information included on a map be a very small sample of the wealth of information about a place. Generalization is the process of adjusting the level of detail in geographic information to be appropriate for the scale and purpose of a map, through procedures such as selection, simplification, and classification.
+Symbology: Any map visually represents the location and properties of geographic phenomena using map symbols, graphical depictions composed of several visual variables, such as size, shape, color, and pattern.
+Composition: As all of the symbols are brought together, their interactions have major effects on map reading, such as grouping and Visual hierarchy.
+Typography or Labeling: Text serves a number of purposes on the map, especially aiding the recognition of features, but labels must be designed and positioned well to be effective.[7]
+Layout: The map image must be placed on the page (whether paper, web, or other media), along with related elements, such as the title, legend, additional maps, text, images, and so on. Each of these elements have their own design considerations, as does their integration, which largely follows the principles of Graphic design.
+Map type-specific design: Different kinds of maps, especially thematic maps, have their own design needs and best practices.
+Types[edit]
+See also: Category:Map types
+ Bathymetry of the ocean floor showing the continental shelves and oceanic plateaus (red), the mid-ocean ridges (yellow-green) and the abyssal plains (blue to purple)
+ Geological map of the Moon
+Maps of the world or large areas are often either 'political' or 'physical'. The most important purpose of the political map is to show territorial borders; the purpose of the physical is to show features of geography such as mountains, soil type, or land use including infrastructures such as roads, railroads, and buildings. Topographic maps show elevations and relief with contour lines or shading. Geological maps show not only the physical surface, but characteristics of the underlying rock, fault lines, and subsurface structures.
+Electronic[edit]
+Further information: Web page, PDF  Optional Content Groups (layers), MapQuest, Google Maps, Google Earth, OpenStreetMap, and Yahoo! Maps
+ A USGS digital raster graphic.
+From the last quarter of the 20th century, the indispensable tool of the cartographer has been the computer. Much of cartography, especially at the data-gathering survey level, has been subsumed by Geographic Information Systems (GIS). The functionality of maps has been greatly advanced by technology simplifying the superimposition of spatially located variables onto existing geographical maps. Having local information such as rainfall level, distribution of wildlife, or demographic data integrated within the map allows more efficient analysis and better decision making. In the pre-electronic age such superimposition of data led Dr. John Snow to identify the location of an outbreak of cholera. Today, it is used by agencies of humankind, as diverse as wildlife conservationists and militaries around the world.
+ Relief map of the Sierra Nevada
+Even when GIS is not involved, most cartographers now use a variety of computer graphics programs to generate new maps.
+Interactive, computerized maps are commercially available, allowing users to zoom in or zoom out (respectively meaning to increase or decrease the scale), sometimes by replacing one map with another of different scale, centered where possible on the same point.  In-car global navigation satellite systems are computerized maps with route planning and advice facilities that monitor the user's position with the help of satellites. From the computer scientist's point of view, zooming in entails one or a combination of:
+replacing the map by a more detailed one
+enlarging the same map without enlarging the pixels, hence showing more detail by removing less information compared to the less detailed version
+enlarging the same map with the pixels enlarged (replaced by rectangles of pixels); no additional detail is shown, but, depending on the quality of one's vision, possibly more detail can be seen; if a computer display does not show adjacent pixels really separate, but overlapping instead (this does not apply for an LCD, but may apply for a cathode ray tube), then replacing a pixel by a rectangle of pixels does show more detail.  A variation of this method is interpolation.
+ A world map in PDF format.
+For example:
+Typically (2) applies to a Portable Document Format (PDF) file or other format based on vector graphics. The increase in detail is limited to the information contained in the file: enlargement of a curve may eventually result in a series of standard geometric figures such as straight lines, arcs of circles, or splines.
+(2) may apply to text and (3) to the outline of a map feature such as a forest or building.
+(1) may apply to the text as needed (displaying labels for more features), while (2) applies to the rest of the image.  Text is not necessarily enlarged when zooming in. Similarly, a road represented by a double line may or may not become wider when one zooms in.
+The map may also have layers that are partly raster graphics and partly vector graphics.  For a single raster graphics image (2) applies until the pixels in the image file correspond to the pixels of the display, thereafter (3) applies.
+Climatic[edit]
+ Mean Annual Temperature map of Ohio from "Geography of Ohio" 1923
+The maps that reflect the territorial distribution of climatic conditions based on the results of long-term observations are called climatic maps.[8] These maps can be compiled both for individual climatic features (temperature, precipitation, humidity) and for combinations of them at the earth's surface and in the upper layers of the atmosphere. Climatic maps show climatic features across a large region and permit values of climatic features to be compared in different parts of the region. When generating the map, spatial interpolation can be used to synthesize values where there are no measurements, under the assumption that conditions change smoothly.
+Climatic maps generally apply to individual months and the year as a whole, sometimes to the four seasons, to the growing period, and so forth. On maps compiled from the observations of ground meteorological stations, atmospheric pressure is converted to sea level. Air temperature maps are compiled both from the actual values observed on the surface of the earth and from values converted to sea level. The pressure field in the free atmosphere is represented either by maps of the distribution of pressure at different standard altitudes for example, at every kilometer above sea level or by maps of baric topography on which altitudes (more precisely geopotentials) of the main isobaric surfaces (for example, 900, 800, and 700 millibars) counted off from sea level are plotted. The temperature, humidity, and wind on aero climatic maps may apply either to standard altitudes or to the main isobaric surfaces.
+Isolines are drawn on maps of such climatic features as the long-term mean values (of atmospheric pressure, temperature, humidity, total precipitation, and so forth) to connect points with equal values of the feature in question for example, isobars for pressure, isotherms for temperature, and isohyets for precipitation. Isoamplitudes are drawn on maps of amplitudes (for example, annual amplitudes of air temperature that is, the differences between the mean temperatures of the warmest and coldest month). Isanomals are drawn on maps of anomalies (for example, deviations of the mean temperature of each place from the mean temperature of the entire latitudinal zone). Isolines of frequency are drawn on maps showing the frequency of a particular phenomenon (for example, the annual number of days with a thunderstorm or snow cover). Isochrones are drawn on maps showing the dates of onset of a given phenomenon (for example, the first frost and appearance or disappearance of the snow cover) or the date of a particular value of a meteorological element in the course of a year (for example, passing of the mean daily air temperature through zero). Isolines of the mean numerical value of wind velocity or isotachs are drawn on wind maps (charts); the wind resultants and directions of prevailing winds are indicated by arrows of different lengths or arrows with different plumes; lines of flow are often drawn. Maps of the zonal and meridional components of wind are frequently compiled for the free atmosphere. Atmospheric pressure and wind are usually combined on climatic maps. Wind roses, curves showing the distribution of other meteorological elements, diagrams of the annual course of elements at individual stations, and the like are also plotted on climatic maps.
+Maps of climatic regionalization, that is, division of the earth's surface into climatic zones and regions according to some classification of climates, are a special kind of climatic map.
+Climatic maps are often incorporated into climatic atlases of varying geographic ranges (globe, hemispheres, continents, countries, oceans) or included in comprehensive atlases. Besides general climatic maps, applied climatic maps and atlases have great practical value. Aero climatic maps, aero climatic atlases, and agro climatic maps are the most numerous.
+Extraterrestrial[edit]
+Maps exist of the Solar System, and other cosmological features such as star maps. In addition maps of other bodies such as the Moon and other planets are technically not geographical maps.
+Floor maps are also spatial but not necessarily geospatial.
+Topological[edit]
+Main article: Topological map
+ In a topological map, like this one showing inventory locations, the distances between locations are not important. Only the layout and connectivity between them matters.
+Diagrams such as schematic diagrams and Gantt charts and tree maps display logical relationships between items, rather than geographical relationships. Topological in nature, only the connectivity is significant. The London Underground map and similar subway maps around the world are a common example of these maps.
+General[edit]
+General-purpose maps provide many types of information on one map. Most atlas maps, wall maps, and road maps fall into this category. The following are some features that might be shown on general-purpose maps: bodies of water, roads, railway lines, parks, elevations, towns and cities, political boundaries, latitude and longitude, national and provincial parks. These maps give a broad understanding of the location and features of an area.  The reader may gain an understanding of the type of landscape, the location of urban places, and the location of major transportation routes all at once.
+Extremely large maps[edit]
+The Great Polish Map of Scotland[edit]
+ The Great Polish Map of Scotland at Barony Castle, Scotland
+Polish general Stanis aw Maczek had once been shown an impressive outdoor map of land and water in the Netherlands demonstrating the working of the waterways (which had been an obstacle to the Polish forces progress in 1944). This had inspired Maczek and his companions to create Great Polish Map of Scotland as a 70-ton permanent three-dimensional reminder of Scotland's hospitality to his compatriots. In 1974, the coastline and relief of Scotland were laid out by Kazimierz Trafas, a Polish student geographer-planner, based on existing Bartholomew Half-Inch map sheets. Engineering infrastructure was put in place to surround it with a sea of water and at the General's request some of the main rivers were even arranged to flow from headwaters pumped into the mountains. The map was finished in 1979, but had to be restored between 2013 and 2017.[9]
+Challenger Relief Map of British Columbia[edit]
+The Challenger Relief Map of British Columbia is a monumental, hand built 80-by-76 foot topographic map of the province. Built by George Challenger and his family from 1947 to 1954, it features all of B.C.'s mountains, lakes, rivers and valleys in exact-scaled topographical detail. Residing in the British Columbia Pavilion at the Pacific National Exhibition (PNE) in Vancouver from 1954 to 1997 it was viewed by millions of visitors. The Guinness Book of Records cites the Challenger Map as the largest of its kind in the world. The map in its entirety occupies 6,080 square feet (1,850 square metres) of space. It was deconstructed in 1997.[10]
+Relief Map of Guatamala[edit]
+ Mapa en Relieve de Guatemala
+Still in existence, is the Relief map of Guatemala by Francisco Vela from 1905. This map (horizontal scale 1:10,000; vertical scale 1:2,000) measured 1,800 m2, and was created to educate guatemaltese children in the scape of their country.[11]
+List[edit]
+Aeronautical chart
+Atlas
+Cadastral map
+Climatic map
+Geologic map
+Historical map
+Linguistic map
+Nautical map
+Physical map
+Political map
+Relief map
+Resource map
+Road map
+Star map
+Street map
+Thematic map
+Topographic map
+Train track map
+Transit map
+Weather map
+World map
+Legal regulation[edit]
+Some countries required that all published maps represent their national claims regarding border disputes.  For example:
+Within Russia, Google Maps shows Crimea as part of Russia.[12]
+Both the Republic of India and the People's Republic of China require that all maps show areas subject to the Sino-Indian border dispute in their own favor.[13]
+In 2010, the People's Republic of China began requiring that all online maps served from within China be hosted there, making them subject to Chinese laws.[14]
+See also[edit]
+General
+Counter-mapping
+Map territory relation
+Censorship of maps
+List of online map services
+Map collection
+Map designing and types
+Automatic label placement
+City map
+Compass rose
+Contour map
+Estate map
+Fantasy map
+Floor plan
+Geologic map
+Hypsometric tints
+Map design
+Orthophotomap A map created from orthophotography
+Pictorial maps
+Plat
+Road atlas
+Strip map
+Transit map
+Page layout (cartography)
+Map history
+Early world maps
+History of cartography
+List of cartographers
+Related topics
+Aerial landscape art
+Digital geologic mapping
+Economic geography
+Geographic coordinate system
+Index map
+Global Map
+List of online map services
+Map database management
+References[edit]
+Citations
+^ Mckeown, Jaya. "Map Projection- Why Have All Of The World Maps You've Seen Duped You?". Retrieved 8 August 2022.
+^ "The orientation of the world in the African thought". Archived from the original on 1 July 2019. Retrieved 16 January 2019.
+^ Watson, Clare, 'Radically Different': This Could Be The Most Accurate Flat World Map Ever Made, Science Alert, March 8, 2022
+^ "Commonly Used Map Projections". Retrieved 8 August 2022.
+^ Ordnance Survey, Explorer Map Symbols Archived 3 April 2016 at the Wayback Machine; Swisstopo, Conventional Signs Archived 28 May 2008 at the Wayback Machine; United States Geological Survey, Topographic Map Symbols Archived 1 June 2008 at the Wayback Machine.
+^ Albrecht, Jochen. "Maps projections". Retrieved 13 August 2013.
+^ Jill Saligoe-Simmel,"Using Text on Maps: Typography in Cartography"
+^ Evert, Klaus-J rgen; Ballard (deceased), Edward B.; Elsworth, David J.; Oqui ena, Ic ar, eds. (2010), "833 climatic map [n]", Encyclopedic Dictionary of Landscape and Urban Planning, Berlin, Heidelberg: Springer Berlin Heidelberg, p. 136, doi:10.1007/978-3-540-76435-9_1966, ISBN 978-3-540-76455-7, retrieved 25 January 2023
+^ Mapa Scotland. Story of the Map.
+^ The Challenger Relief Map of British Columbia.
+^ Petermanns Geographische Mitteilungen, annual 72, 1926, pp. 212-214.
+^ Chappell, Bill (12 April 2014). "Google Maps Displays Crimean Border Differently In Russia, U.S." NPR.org. Retrieved 6 September 2018.
+^ Wagstaff, Jeremy (23 March 2012). "Google charts a careful course through Asia's maps". Reuters. Retrieved 6 September 2018.
+^ Guanqun, Wang (19 May 2010). "China issues new rules on Internet map publishing". Xinhua News Agency. Archived from the original on 27 May 2016. Retrieved 27 July 2016.
+Bibliography
+David Buisseret, ed., Monarchs, Ministers and Maps: The Emergence of Cartography as a Tool of Government in Early Modern Europe. Chicago: University of Chicago Press, 1992, ISBN 0-226-07987-2
+Denis E. Cosgrove (ed.) Mappings. Reaktion Books, 1999 ISBN 1-86189-021-4
+Freeman, Herbert, Automated Cartographic Text Placement. White paper.
+Ahn, J. and Freeman, H.,  A program for automatic name placement,  Proc. AUTO-CARTO 6, Ottawa, 1983. 444 455.
+Freeman, H.,  Computer Name Placement,  ch. 29, in Geographical Information Systems, 1, D.J. Maguire, M.F. Goodchild, and D.W. Rhind, John Wiley, New York, 1991, 449 460.
+Mark Monmonier, How to Lie with Maps, ISBN 0-226-53421-9
+O'Connor, J.J. and E.F. Robertson, The History of Cartography. Scotland : St. Andrews University, 2002.
+External links[edit]
+Map  at Wikipedia's sister projects
+Definitions from WiktionaryMedia from CommonsQuotations from WikiquoteTexts from WikisourceTextbooks from WikibooksResources from WikiversityData from WikidataDiscussions from Meta-WikiDocumentation from MediaWiki
+International Cartographic Association (ICA), the world body for mapping and GIScience professionals
+Geography and Maps, an Illustrated Guide, by the staff of the U.S. Library of Congress.
+The History of Cartography Project at the University of Wisconsin, a comprehensive research project in the history of maps and mapping
+vteAtlas
+Cartography
+Geography
+Geovisualization
+Map
+Map projection
+Topography
+Early world maps
+History of cartography
+List of cartographers
+Animated mapping
+Cartogram
+Choropleth map
+Geologic map
+Linguistic map
+Nautical chart
+Pictorial map
+Thematic map
+Topographic map
+Weather map
+Category:Maps
+Portal:Atlas
+vteVisualization of technical informationFields
+Biological data visualization
+Chemical imaging
+Crime mapping
+Data visualization
+Educational visualization
+Flow visualization
+Geovisualization
+Information visualization
+Mathematical visualization
+Medical imaging
+Molecular graphics
+Product visualization
+Scientific visualization
+Software visualization
+Technical drawing
+User interface design
+Visual culture
+Volume visualization
+Image types
+Chart
+Diagram
+Engineering drawing
+Graph of a function
+Ideogram
+Map
+Photograph
+Pictogram
+Plot
+Sankey diagram
+Schematic
+Skeletal formula
+Statistical graphics
+Table
+Technical drawings
+Technical illustration
+PeoplePre-19th century
+Edmond Halley
+Charles-Ren  de Fourcroy
+Joseph Priestley
+Gaspard Monge
+19th century
+Charles Dupin
+Adolphe Quetelet
+Andr -Michel Guerry
+William Playfair
+August Kekul 
+Charles Joseph Minard
+Luigi Perozzo
+Francis Amasa Walker
+John Venn
+Oliver Byrne
+Matthew Sankey
+Charles Booth
+Georg von Mayr
+John Snow
+Florence Nightingale
+Karl Wilhelm Pohlke
+Toussaint Loua
+Francis Galton
+Early 20th century
+Edward Walter Maunder
+Otto Neurath
+W. E. B. Du Bois
+Henry Gantt
+Arthur Lyon Bowley
+Howard G. Funkhouser
+John B. Peddle
+Ejnar Hertzsprung
+Henry Norris Russell
+Max O. Lorenz
+Fritz Kahn
+Harry Beck
+Erwin Raisz
+Mid 20th century
+Jacques Bertin
+Rudolf Modley
+Arthur H. Robinson
+John Tukey
+Mary Eleanor Spear
+Edgar Anderson
+Howard T. Fisher
+Late 20th century
+Borden Dent
+Nigel Holmes
+William S. Cleveland
+George G. Robertson
+Bruce H. McCormick
+Catherine Plaisant
+Stuart Card
+Pat Hanrahan
+Edward Tufte
+Ben Shneiderman
+Michael Friendly
+Howard Wainer
+Clifford A. Pickover
+Lawrence J. Rosenblum
+Thomas A. DeFanti
+George Furnas
+Sheelagh Carpendale
+Cynthia Brewer
+Miriah Meyer
+Jock D. Mackinlay
+Alan MacEachren
+David Goodsell
+Michael Maltz
+Leland Wilkinson
+Alfred Inselberg
+Early 21st century
+Ben Fry
+Hans Rosling
+Christopher R. Johnson
+David McCandless
+Mauro Martino
+John Maeda
+Tamara Munzner
+Jeffrey Heer
+Gordon Kindlmann
+Hanspeter Pfister
+Manuel Lima
+Aaron Koblin
+Martin Krzywinski
+Bang Wong
+Jessica Hullman
+Hadley Wickham
+Polo Chau
+Fernanda Vi gas
+Martin Wattenberg
+Claudio Silva
+Ade Olufeko
+Moritz Stefaner
+Related topics
+Cartography
+Chartjunk
+Computer graphics
+in computer science
+CPK coloring
+Graph drawing
+Graphic design
+Graphic organizer
+Imaging science
+Information graphics
+Information science
+Misleading graph
+Neuroimaging
+Patent drawing
+Scientific modelling
+Spatial analysis
+Visual analytics
+Visual perception
+Volume cartography
+Volume rendering
+Information art
+vteOrienteering
+History of orienteering
+List of orienteering events
+Sport disciplinesIOF-governed
+Foot orienteering
+Mountain bike orienteering
+Ski orienteering
+Trail orienteering
+IARU-governed
+Amateur radio direction finding
+Fox Oring
+Radio Orienteering in a Compact Area
+Other sports
+Canoe orienteering
+Car orienteering
+Mountain marathon
+Mounted orienteering
+Rogaining
+Related
+Adventure racing
+Alleycat race
+Fell running
+Relay race
+Transmitter hunting
+EquipmentEvent
+Control point
+Course
+Map
+Personal
+Compass
+hand
+protractor
+thumb
+Eye protectors
+Gaiters
+Headlamp
+Exceptions
+Backpacking
+Satellite navigation
+Whistle
+Fundamentals
+Map
+orienteering map
+Navigation
+cardinal direction
+resection
+route choice
+wayfinding
+waypoint
+Racing
+hiking
+running
+walking
+skiing
+mountain biking
+Organisations / lists
+International Orienteering Federation
+members
+List of clubs
+List of orienteers
+by country
+innovators
+List of events
+Non-sport related
+Adventure travel
+Bicycle touring
+Climbing
+Hiking
+Hunting
+Location-based game
+geocaching
+poker run
+Scoutcraft orienteering
+wilderness
+CompetitionsFoot orienteering
+World Championships
+Junior
+Masters
+University
+World Cup
+World Games
+European Championships
+Youth
+University
+North American Championships
+Open events
+O-Ringen
+Jukola
+Tiomila
+Kainuu Orienteering Week
+Jan Kjellstr m Festival
+Ski orienteering
+World Championships
+Junior
+World Cup
+Mountain bike orienteering
+World Championships
+Trail orienteering
+World Championships
+ Category
+ WikiProject
+Authority control National
+Germany
+Israel
+United States
+2
+Latvia
+2
+Japan
+Czech Republic
+Other
+NARA
+2
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Map&oldid=1149311579"

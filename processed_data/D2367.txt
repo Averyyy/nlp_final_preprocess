@@ -1,0 +1,258 @@
+Processor family by Intel
+This article is about the Core 2 Solo/Duo/Quad/Extreme line of Intel processors. For the overall intel Core brand, including Core 2 and later Core i, see Intel Core. For the microarchitecture being used in the Core 2, see Intel Core (microarchitecture).
+Core 2An Intel Core 2 Duo E7500 "Wolfdale-3M"General informationLaunchedJuly 26, 2006DiscontinuedJune 8, 2012[1]Common manufacturer(s)IntelPerformanceMax. CPU clock rate1.06 GHz to 3.5 GHzFSB speeds533 MT/s to 1600 MT/sArchitecture and classificationTechnology node65 nm to 45 nmMicroarchitectureCoreInstruction setx86-64Physical specificationsCores1, 2, or 4Socket(s)Socket T (LGA 775)Socket M ( PGA 478)Socket P ( PGA 478)Micro-FCBGA ( BGA 479)Micro-FCBGA ( BGA 965)Products, models, variantsCore name(s)Allendale, Conroe, Conroe-L, Merom-2M, Merom, Merom-L, Kentsfield, Wolfdale, Yorkfield, PenrynHistoryPredecessorPentium D (dual-core, desktop)Pentium 4 (single-core, desktop,core 2's microarchitecture was based on P6, not netburst)Yonah (mobile)SuccessorCore i3, i5, i7, i9Support statusUnsupported
+Intel Core 2 is the processor family encompassing a range of Intel's consumer 64-bit x86-64 single-, dual-, and quad-core microprocessors based on the Core microarchitecture. The single- and dual-core models are single-die, whereas the quad-core models comprise two dies, each containing two cores, packaged in a multi-chip module.[2] The Core 2 range was the last flagship range of Intel desktop processors to use a front-side bus.
+The introduction of Core 2 relegated the Pentium brand to the mid-range market, and reunified laptop and desktop CPU lines for marketing purposes under the same product name, which were formerly divided into the Pentium 4, Pentium D, and Pentium M brands.
+The Core 2 processor line was introduced on July 27, 2006,[3] comprising the Duo (dual-core) and Extreme (dual- or quad-core CPUs for enthusiasts), and in 2007, the Quad (quad-core) and Solo (single-core) sub-brands.[4] Intel Core 2 processors with vPro technology (designed for businesses) include the dual-core and quad-core branches.[5]
+Although Woodcrest processors are also based on the Core architecture, they are available under the Xeon brand. From December 2006, all Core 2 Duo processors were manufactured from 300 millimeter plates at Fab 12 factory in Arizona and at Fab 24-2 in County Kildare, Ireland.
+Virtual machine or virtualization abilities[edit]
+Core 2 and other LGA 775 processors can support virtualization if the virtual machine (VM) software supports those processors, e.g. if the processor supports VT-x.
+Newer versions of VM software do not support processors older than Nehalem (Core 2 and older) because they lack support for Intel VT-x with Extended Page Tables (EPT), also called Second Level Address Translation (SLAT).
+Models[edit]
+For a detailed discussion of CPU cores, see Intel Core (microarchitecture)  Processor cores.
+The Core 2-branded CPUs include: Conroe/Allendale (dual-core for desktops), Merom (dual-core for laptops), Merom-L (single-core for laptops), Kentsfield (quad-core for desktops), and the updated variants named Wolfdale (dual-core for desktops), Penryn (dual-core for laptops) and Yorkfield (quad-core for desktops).[a]
+The Core 2-branded processors feature Virtualization Technology without EPT (with some exceptions), the NX bit and SSE3. The Core microarchitecture introduced SSSE3, Trusted Execution Technology, Enhanced SpeedStep and Active Management Technology (iAMT2). The Penryn microarchitecture, a shrink of the former, introduced SSE4.1. With a maximum thermal design power (TDP) of 65 W, the Core 2 Duo Conroe dissipates half the power of the less capable contemporary Pentium D-branded desktop chips[7] that have a max TDP of 130 W.[8]
+Intel Core 2 processor family
+Originallogo
+2009 logo
+Desktop
+Laptop
+Code-name
+Cores
+Date released
+Code-name
+Cores
+Date released
+ConroeAllendaleWolfdale
+Dual (65 nm)Dual (65 nm)Dual (45 nm)
+August 2006January 2007January 2008
+MeromPenryn
+Dual (65 nm)Dual (45 nm)
+July 2006January 2008
+Conroe XEKentsfield XEYorkfield XE
+Dual (65 nm)Quad (65 nm)Quad (45 nm)
+July 2006November 2006November 2007
+Merom XEPenrynPenryn QC XE
+Dual (65 nm)Dual (45 nm)Quad (45 nm)
+July 2007January 2008August 2008
+KentsfieldYorkfield
+Quad (65 nm)Quad (45 nm)
+January 2007March 2008
+Penryn QC
+Quad (45 nm)
+August 2008
+Desktop version not available
+Merom-LPenryn-L
+Single (65 nm)Single (45 nm)
+September 2007May 2008
+List of Intel Core 2 processors
+Known marks[edit]
+With the release of the Core 2 processor, the abbreviation C2 has come into common use, with its variants C2D (the present Core 2 Duo), and C2Q, C2E to refer to the Core 2 Quad and Core 2 Extreme processors respectively. C2QX stands for the Extreme-Editions of the Quad (QX6700, QX6800, QX6850).
+The successors to the Core 2 brand are a set of Nehalem microarchitecture based processors called Core i3, i5, and i7. The Core i7 was officially launched on November 17, 2008 as a family of three quad-core processor desktop models; further models started appearing throughout 2009. The last processor of the family to be released was the Core 2 Quad Q9500 in January 2010. The Core 2 processor line was removed from the official price lists in July 2011,[9][10] and the last processors were discontinued in June 2012.[1]
+See also[edit]
+Comparison of Intel processors
+List of Intel Core 2 processors
+Notes[edit]
+^ For the server and workstation Woodcrest, Tigerton, Harpertown, and Dunnington CPUs, see the Xeon brand.[6]
+References[edit]
+^ a b "Product Change Notification #110665-00" (PDF). Intel Corp. June 6, 2011. Retrieved October 14, 2019.
+^ "Intel Clovertowns step up, reduce power". TG Daily. Archived from the original on September 11, 2007. Retrieved September 5, 2007.
+^ "Intel Unveils World's Best Processor". Intel. Archived from the original on April 3, 2007. Retrieved August 14, 2007.
+^ "Intel to unify product naming scheme". TG Daily. Archived from the original on September 26, 2007. Retrieved August 6, 2007.
+^ "Intel Centrino 2 with vPro technology and Intel Core2 processor with vPro technology" (PDF). Intel. Retrieved August 7, 2008.
+^ "Intel Unleashes New Server Processors That Deliver World-Class Performance And Power Efficiency". Intel. Archived from the original on July 1, 2006. Retrieved June 26, 2006.
+^ "The 65 nm Pentium D 900's Coming Out Party: Test Setup". Tom's Hardware. Retrieved June 15, 2007.[permanent dead link]
+^ "The 65 nm Pentium D 900's Coming Out Party: Thermal Design Power Overview". Tom's Hardware. Archived from the original on July 2, 2012. Retrieved June 15, 2007.
+^ "Intel Processor Pricing, Effective July 10, 2011". Intel Corp. Archived from the original (PDF) on September 26, 2008. Retrieved July 17, 2011.
+^ "Intel Processor Pricing, Effective July 17, 2011" (PDF). Intel Corp. Retrieved July 17, 2011.
+External links[edit]
+1st public demonstration: Anandtech discovers Core 2 Duo performance under the supervision of Francois Piednoel
+Intel Penryn Architecture and Performance Preview
+Intel Centrino Duo Mobile Technology papers
+Intel Core Microarchitecture
+Intel's Core 2 page at the Wayback Machine (archived July 14, 2006)
+Preceded byPentium 4 (desktop)
+ Intel Core 2 2006 2011
+Succeeded byIntel Core i3/i5/i7/i9
+Preceded byPentium D (desktop)
+Preceded byYonah (microprocessor) (mobile)
+vteIntel processorsLists
+Processors
+Atom
+Celeron
+Pentium
+Pro
+II
+III
+4
+D
+M
+Core
+2
+i3
+i5
+i7
+i9
+M
+Xeon
+Quark
+Itanium
+Microarchitectures
+Chipsets
+Microarchitecturesx86-32 (32-bit)
+P5
+P6
+P6 variant (Pentium M)
+P6 variant (Enhanced Pentium M)
+NetBurst
+x86-64 (64-bit)
+Core
+Penryn
+Nehalem
+Westmere
+Sandy Bridge
+Ivy Bridge
+Haswell
+Broadwell
+Skylake
+Cannon Lake
+Sunny Cove
+Cypress Cove
+Willow Cove
+Golden Cove
+x86 ULV
+Bonnell
+Saltwell
+Silvermont
+Goldmont
+Goldmont Plus
+Tremont
+Gracemont
+Current productsx86-64 (64-bit)
+Atom
+Celeron
+Pentium
+Core
+10th gen
+11th gen
+12th gen
+13th gen
+Xeon
+DiscontinuedBCD oriented (4-bit)
+4004 (1971)
+4040 (1974)
+pre-x86 (8-bit)
+8008 (1972)
+8080 (1974)
+8085 (1977)
+Early x86 (16-bit)
+8086 (1978)
+8088 (1979)
+80186 (1982)
+80188 (1982)
+80286 (1982)
+x87 (external FPUs)
+8/16-bit databus
+8087 (1980)
+16-bit databus
+80187
+80287
+80387SX
+32-bit databus
+80387DX
+80487
+IA-32 (32-bit)
+80386
+SX
+376
+EX
+80486
+SX
+DX2
+DX4
+SL
+RapidCAD
+OverDrive
+A100/A110
+Atom
+CE
+SoC
+Celeron (1998)
+M
+D (2004)
+Pentium
+Original P5
+OverDrive
+Pro
+II
+II OverDrive
+III
+4
+M
+Dual-Core
+Core
+Xeon
+P6-based
+NetBurst-based
+Core-based
+Quark
+Tolapai
+x86-64 (64-bit)
+Atom
+SoC
+CE
+Celeron
+D
+Dual-Core
+Pentium
+4
+D
+Extreme Edition
+Dual-Core
+Core
+2
+1st gen
+2nd gen
+3rd gen
+4th gen
+5th gen
+6th gen
+7th gen
+8th gen
+9th gen
+10th gen
+11th gen
+M
+Xeon
+Nehalem-based
+Sandy Bridge-based
+Ivy Bridge-based
+Haswell-based
+Broadwell-based
+Skylake-based
+Other
+CISC
+iAPX 432
+EPIC
+Itanium
+RISC
+i860
+i960
+StrongARM
+XScale
+Related
+Tick tock model
+Process architecture optimization model
+Intel GPUs
+GMA
+Intel HD, UHD, and Iris Graphics
+Xe
+Arc
+PCHs
+SCHs
+ICHs
+PIIXs
+Stratix
+Codenames
+Larrabee
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Intel_Core_2&oldid=1140652760"

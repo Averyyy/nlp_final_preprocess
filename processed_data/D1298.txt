@@ -1,0 +1,161 @@
+Subtype of white blood cell
+LymphocyteA scanning electron microscope (SEM) image of a single human lymphocyteDetailsSystemImmune systemFunctionWhite blood cellIdentifiersMeSHD008214THH2.00.04.1.02002  FMA84065 62863, 84065Anatomical terms of microanatomy[edit on Wikidata]
+A lymphocyte is a type of white blood cell (leukocyte) in the immune system of most vertebrates.[1] Lymphocytes include natural killer cells (which function in cell-mediated, cytotoxic innate immunity), T cells (for cell-mediated, cytotoxic adaptive immunity), and B cells (for humoral, antibody-driven adaptive immunity).[2][3] They are the main type of cell found in lymph, which prompted the name "lymphocyte".[4] Lymphocytes make up between 18% and 42% of circulating white blood cells.[2]High lymphocyte denotes that our system is dealing with an infection or other inflammatory condition.[5]
+Types[edit]
+ A stained lymphocyte surrounded by red blood cells viewed using a light microscope
+ 4D live imaging of T cell nuclear dynamics viewed using holotomography microscopy
+ Giemsa stained lymphocytes in peripheral blood
+The three major types of lymphocyte are T cells, B cells and natural killer (NK) cells.[2] Lymphocytes can be identified by their large nucleus.
+T cells and B cells[edit]
+Main articles: T cell and B cell
+T cells (thymus cells) and B cells (bone marrow- or bursa-derived cells[a]) are the major cellular components of the adaptive immune response. T cells are involved in cell-mediated immunity, whereas B cells are primarily responsible for humoral immunity (relating to antibodies). The function of T cells and B cells is to recognize specific "non-self" antigens, during a process known as antigen presentation. Once they have identified an invader, the cells generate specific responses that are tailored maximally to eliminate specific pathogens or pathogen-infected cells. B cells respond to pathogens by producing large quantities of antibodies which then neutralize foreign objects like bacteria and viruses. In response to pathogens some T cells, called T helper cells, produce cytokines that direct the immune response, while other T cells, called cytotoxic T cells, produce toxic granules that contain powerful enzymes which induce the death of pathogen-infected cells. Following activation, B cells and T cells leave a lasting legacy of the antigens they have encountered, in the form of memory cells. Throughout the lifetime of an animal, these memory cells will "remember" each specific pathogen encountered, and are able to mount a strong and rapid response if the same pathogen is detected again; this is known as acquired immunity.
+Natural killer cells[edit]
+Main article: Natural killer cell
+NK cells are a part of the innate immune system and play a major role in defending the host from tumors and virally infected cells.[2] NK cells modulate the functions of other cells, including macrophages and T cells,[2] and distinguish infected cells and tumors from normal and uninfected cells by recognizing changes of a surface molecule called MHC (major histocompatibility complex) class I. NK cells are activated in response to a family of cytokines called interferons. Activated NK cells release cytotoxic (cell-killing) granules which then destroy the altered cells.[1] They are named "natural killer cells" because they do not require prior activation in order to kill cells which are missing MHC class I.
+Dual expresser lymphocyte   X cell[edit]
+The X lymphocyte is a reported cell type expressing both a B-cell receptor and T-cell receptor and is hypothesized to be implicated in type 1 diabetes.[7][8]  Its existence as a cell type has been challenged by two studies.[9][10] However, the authors of original article pointed to the fact that the two studies have detected X cells by imaging microscopy and FACS as described.[11] Additional studies are obviously required to determine the nature and properties of X cells (also called dual expressers).
+Development[edit]
+ Development of blood cells
+Mammalian stem cells differentiate into several kinds of blood cell within the bone marrow.[12] This process is called haematopoiesis.[13] All lymphocytes originate, during this process, from a common lymphoid progenitor before differentiating into their distinct lymphocyte types. The differentiation of lymphocytes follows various pathways in a hierarchical fashion as well as in a more plastic fashion. The formation of lymphocytes is known as lymphopoiesis. In mammals, B cells mature in the bone marrow, which is at the core of most bones.[14] In birds, B cells mature in the bursa of Fabricius, a lymphoid organ where they were first discovered by Chang and Glick,[14] (B for bursa) and not from bone marrow as commonly believed. T cells migrate to the blood stream and mature in a distinct primary organ, called the thymus. Following maturation, the lymphocytes enter the circulation and peripheral lymphoid organs (e.g. the spleen and lymph nodes) where they survey for invading pathogens and/or tumor cells.
+The lymphocytes involved in adaptive immunity (i.e. B and T cells) differentiate further after exposure to an antigen; they form effector and memory lymphocytes. Effector lymphocytes function to eliminate the antigen, either by releasing antibodies (in the case of B cells), cytotoxic granules (cytotoxic T cells) or by signaling to other cells of the immune system (helper T cells). Memory T cells remain in the peripheral tissues and circulation for an extended time ready to respond to the same antigen upon future exposure; they live weeks to several years, which is very long compared to other leukocytes.[citation needed]
+Characteristics[edit]
+ A scanning electron microscope image of normal circulating human blood showing red blood cells, several types of white blood cells including lymphocytes, a monocyte, a neutrophil and many small disc-shaped platelets
+Microscopically, in a Wright's stained peripheral blood smear, a normal lymphocyte has a large, dark-staining nucleus with little to no eosinophilic cytoplasm. In normal situations, the coarse, dense nucleus of a lymphocyte is approximately the size of a red blood cell (about 7 m in diameter).[12] Some lymphocytes show a clear perinuclear zone (or halo) around the nucleus or could exhibit a small clear zone to one side of the nucleus. Polyribosomes are a prominent feature in the lymphocytes and can be viewed with an electron microscope. The ribosomes are involved in protein synthesis, allowing the generation of large quantities of cytokines and immunoglobulins by these cells.
+It is impossible to distinguish between T cells and B cells in a peripheral blood smear.[12] Normally, flow cytometry testing is used for specific lymphocyte population counts. This can be used to determine the percentage of lymphocytes that contain a particular combination of specific cell surface proteins, such as immunoglobulins or cluster of differentiation (CD) markers or that produce particular proteins (for example, cytokines using intracellular cytokine staining (ICCS)). In order to study the function of a lymphocyte by virtue of the proteins it generates, other scientific techniques like the ELISPOT or secretion assay techniques can be used.[1]
+Typical recognition markers for lymphocytes[15]
+Class
+Function
+Proportion (median, 95% CI)
+Phenotypic marker(s)
+Natural killer cells
+Lysis of virally infected cells and tumour cells
+7% (2 13%)
+CD16 CD56 but not CD3
+T helper cells
+Release cytokines and growth factors that regulate other immune cells
+46% (28 59%)
+TCR , CD3 and CD4
+Cytotoxic T cells
+Lysis of virally infected cells, tumour cells and allografts
+19% (13 32%)
+TCR , CD3 and CD8
+Gamma delta T cells
+Immunoregulation and cytotoxicity
+5% (2 8%)
+TCR  and CD3
+B cells
+Secretion of antibodies
+23% (18 47%)
+MHC class II, CD19 and CD20
+In the circulatory system, they move from lymph node to lymph node.[3][16] This contrasts with macrophages, which are rather stationary in the nodes.
+Lymphocytes and disease[edit]
+This section needs expansion. You can help by adding to it.  (December 2007)
+ Several lymphocytes seen collected around a tuberculous granuloma
+A lymphocyte count is usually part of a peripheral complete blood cell count and is expressed as the percentage of lymphocytes to the total number of white blood cells counted.
+A general increase in the number of lymphocytes is known as lymphocytosis,[17] whereas a decrease is known as lymphocytopenia.
+High[edit]
+An increase in lymphocyte concentration is usually a sign of a viral infection (in some rare case, leukemias are found through an abnormally raised lymphocyte count in an otherwise normal person).[17][18] A high lymphocyte count with a low neutrophil count might be caused by lymphoma. Pertussis toxin (PTx) of Bordetella pertussis, formerly known as lymphocytosis-promoting factor, causes a decrease in the entry of lymphocytes into lymph nodes, which can lead to a condition known as lymphocytosis, with a complete lymphocyte count of over 4000 per  l in adults or over 8000 per  l in children. This is unique in that many bacterial infections illustrate neutrophil-predominance instead.
+Low[edit]
+A low normal to low absolute lymphocyte concentration is associated with increased rates of infection after surgery or trauma.[19]
+One basis for low T cell lymphocytes occurs when the human immunodeficiency virus (HIV) infects and destroys T cells (specifically, the CD4+ subgroup of T lymphocytes, which become helper T cells).[20] Without the key defense that these T cells provide, the body becomes susceptible to opportunistic infections that otherwise would not affect healthy people. The extent of HIV progression is typically determined by measuring the percentage of CD4+ T cells in the patient's blood   HIV ultimately progresses to acquired immune deficiency syndrome (AIDS). The effects of other viruses or lymphocyte disorders can also often be estimated by counting the numbers of lymphocytes present in the blood.
+Tumor-infiltrating lymphocytes[edit]
+Main article: Tumor-infiltrating lymphocyte
+In some cancers, such as melanoma and colorectal cancer, lymphocytes can migrate into and attack the tumor. This can sometimes lead to regression of the primary tumor.
+Lymphocyte-variant hypereosinophilia[edit]
+Main article: Lymphocyte-variant hypereosinophilia
+Blood content[edit]
+ Reference ranges for blood tests of white blood cells, comparing lymphocyte amount (shown in light blue) with other cells
+History[edit]
+Main article: Lymphocyte T-cell immunomodulator  History
+See also[edit]
+Addressin
+Anergy
+Complete blood count
+Cytotoxicity
+Human leukocyte antigen
+Innate lymphoid cell
+Lymphocystivirus
+Lymphoproliferative disorders
+Reactive lymphocyte
+Secretion assay
+Trogocytosis
+All pages with titles containing Lymphocyte
+All pages with titles containing Lymphocytic
+Notes[edit]
+^ The process of B-cell maturation was elucidated in birds and the B most likely means "bursa-derived" referring to the bursa of Fabricius.[6] However, in humans (who do not have that organ), the bone marrow makes B cells, and the B can serve as a reminder of bone marrow.
+References[edit]
+^ a b c Janeway C, Travers P, Walport M, Shlomchik M (2001). Immunobiology (5th ed.). New York and London: Garland Science. ISBN 0-8153-4101-6.
+^ a b c d e Omman, Reeba A.; Kini, Ameet R. (2020). "Leukocyte development, kinetics, and functions".  In Keohane, Elaine M.; Otto, Catherine N.; Walenga, Jeanine N. (eds.). Rodak's Hematology: Clinical Principles and Applications (6th ed.). St. Louis, Missouri: Elsevier. pp. 117 135. ISBN 978-0-323-53045-3.
+^ a b Cohn, Lauren; Hawrylowicz, Catherine; Ray, Anuradha (2014). "Biology of Lymphocytes". Middleton's Allergy: Principles and Practice (8th ed.). Philadelphia: Saunders. pp. 203 214. doi:10.1016/B978-0-323-08593-9.00013-9. ISBN 9780323085939. Retrieved 22 July 2020.
+^ "NCI Dictionary of Cancer Terms". National Cancer Institute. Retrieved 22 July 2020. A type of immune cell that is made in the bone marrow and is found in the blood and in lymph tissue. The two main types of lymphocytes are B lymphocytes and T lymphocytes. B lymphocytes make antibodies, and T lymphocytes help kill tumor cells and help control immune responses. A lymphocyte is a type of white blood cell.
+^ "Lymphocytosis: Definition, Causes, Symptoms & Treatment". Cleveland Clinic. Retrieved 1 April 2023.
+^ "B Cell". Merriam-Webster Dictionary. Encyclopaedia Britannica. Retrieved 28 October 2011.
+^ Ahmed, Rizwan; Omidian, Zahra; Giwa, Adebola; Cornwell, Benjamin; Majety, Neha; Bell, David R.; Lee, Sangyun; Zhang, Hao; Michels, Aaron; Desiderio, Stephen; Sadegh-Nasseri, Scheherazade (30 May 2019). "A Public BCR Present in a Unique Dual-Receptor-Expressing Lymphocyte from Type 1 Diabetes Patients Encodes a Potent T Cell Autoantigen". Cell. 177 (6): 1583 1599.e16. doi:10.1016/j.cell.2019.05.007. ISSN 0092-8674. PMC 7962621. PMID 31150624.
+^ "Newly Discovered Immune Cell Linked to Type 1 Diabetes". Johns Hopkins Medicine Newsroom. 30 May 2019. Retrieved 9 August 2020.
+^ Japp, Alberto (4 February 2021). "TCR+/BCR+ dual-expressing cells and their associated public BCR clonotype are not enriched in type 1 diabetes". Cell. 184 (3): 827 839. doi:10.1016/j.cell.2020.11.035. PMC 8016147. PMID 33545036. S2CID 231809927.
+^ Burel, Julie (13 May 2020). "The Challenge of Distinguishing Cell Cell Complexes from Singlet Cells in Non-Imaging Flow Cytometry and Single-Cell Sorting". Cytometry Part A. 97 (11): 1127 1135. doi:10.1002/cyto.a.24027. PMC 7666012. PMID 32400942.
+^ Ahmed, Rizwan; Omidian, Zahra; Giwa, Adebola; Donner, Thomas; Jie, Chunfa; Hamad, Abdel Rahim A. (4 February 2021). "A reply to "TCR+/BCR+ dual-expressing cells and their associated public BCR clonotype are not enriched in type 1 diabetes"". Cell. 184 (3): 840 843. doi:10.1016/j.cell.2020.11.036. ISSN 1097-4172. PMC 7935028. PMID 33545037.
+^ a b c Abbas AK, Lichtman AH (2003). Cellular and Molecular Immunology (5th ed.). Saunders, Philadelphia. ISBN 0-7216-0008-5.
+^ Monga I, Kaur K, Dhanda S (March 2022). "Revisiting hematopoiesis: applications of the bulk and single-cell transcriptomics dissecting transcriptional heterogeneity in hematopoietic stem cells". Briefings in Functional Genomics. 21 (3): 159 176. doi:10.1093/bfgp/elac002. PMID 35265979.
+^ a b Cooper MD (March 2015). "The early history of B cells". Nature Reviews. Immunology. 15 (3): 191 197. doi:10.1038/nri3801. PMID 25656707.
+^ Berrington JE, Barge D, Fenton AC, Cant AJ, Spickett GP (May 2005). "Lymphocyte subsets in term and significantly preterm UK infants in the first year of life analysed by single platform flow cytometry". Clinical and Experimental Immunology. 140 (2): 289 92. doi:10.1111/j.1365-2249.2005.02767.x. PMC 1809375. PMID 15807853.
+^ Al-Shura, Anika Niambi (2020). "Lymphocytes". Advanced Hematology in Integrated Cardiovascular Chinese Medicine. Elsevier. pp. 41 46. doi:10.1016/b978-0-12-817572-9.00007-0. ISBN 978-0-12-817572-9. S2CID 241913878.
+^ a b "Lymphocytosis: Symptoms, Causes, Treatments". Cleveland Clinic. Retrieved 22 July 2020.
+^ Guilbert, Theresa W.; Gern, James E.; Lemanske, Robert F. (2010). "Infections and Asthma". Pediatric Allergy: Principles and Practice. Elsevier. pp. 363 376. doi:10.1016/b978-1-4377-0271-2.00035-3. ISBN 978-1-4377-0271-2. S2CID 78707217. Lymphocytes are recruited into the upper and lower airways during the early stages of a viral respiratory infection, and it is presumed that these cells help to limit the extent of infection and to clear virus-infected epithelial cells.
+^ Clumeck, Nathan; de Wit, St phane (2010). "Prevention of opportunistic infections". Infectious Diseases. pp. 958 963. doi:10.1016/B978-0-323-04579-7.00090-3. ISBN 9780323045797. Retrieved 5 January 2021.
+^ Wahed, Amer; Quesada, Andres; Dasgupta, Amitava (2020). "Benign white blood cell and platelet disorders". Hematology and Coagulation. Elsevier. pp. 77 87. doi:10.1016/b978-0-12-814964-5.00005-x. ISBN 978-0-12-814964-5. S2CID 241056897. Lymphocytopenia may also be acquired, for example, in patients with HIV infection.
+External links[edit]
+Wikimedia Commons has media related to Lymphocytes.
+Histology image: 01701ooa  Histology Learning System at Boston University
+"Cytotoxic T Lymphocyte". Cell Centered Database.
+"Overcoming the Rejection Factor: MUSC's First Organ Transplant". Waring Historical Library.
+vteLymphocytesB cells
+B1 cell
+Plasmablast
+Plasma
+Memory
+Follicular
+Marginal zone
+Na ve
+Pre-B
+Breg cell
+B10 cell
+Transitional B cell
+Lymphoplasmacytoid cell
+T cells
+Thymocyte
+  (Cytotoxic CD8+
+Helper CD4+ / TFH / Th3 / Th17 / Regulatory)
+Na ve
+Memory T cell
+TCM
+TEM
+TRM
+TVM
+Innate-like T cells
+Natural killer T cell
+ 
+Mucosal associated invariant T cell
+Innate lymphoid cellsNK cells
+Cytokine-induced killer cell
+Lymphokine-activated killer cell
+Null cell
+Adaptive NK cell
+Uterine natural killer cells
+Type 1 innate lymphoid cells
+Type 2 innate lymphoid cells
+Nuocytes
+Type 3 innate lymphoid cells
+LTi cells
+Lymphopoiesis
+Hematopoietic stem cell
+Lymphoblast
+Prolymphocyte
+Authority control: National 
+France
+BnF data
+Germany
+Israel
+United States
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Lymphocyte&oldid=1147666207"

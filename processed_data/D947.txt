@@ -1,0 +1,477 @@
+Mobile phone which is able to capture still photographs and usually also videos
+For the song by The Game, see Camera Phone (song).
+ Camera phone clamped to a tripod
+ Camera phones allow instant, automatic photo sharing. There is no need for a cable or removable card to connect to a desktop or laptop to transfer photos.
+A camera phone is a mobile phone which is able to capture photographs and often record video using one or more built-in digital cameras. It can also send the resulting image wirelessly and conveniently.  The first commercial phone with color camera was the Kyocera Visual Phone VP-210, released in Japan in May 1999.[1]
+Most camera phones are smaller and simpler than the separate digital cameras. In the smartphone era, the steady sales increase of camera phones caused point-and-shoot camera sales to peak about 2010 and decline thereafter.[2] The concurrent improvement of smartphone camera technology, and its other multifunctional benefits, have led to it gradually replacing compact point-and-shoot cameras.[3]
+Most modern smartphones only have a menu choice to start a camera application program and an on-screen button to activate the shutter.[4] Some also have a separate camera button, for quickness and convenience.  A few such as the 2009 Samsung i8000 Omnia II have a two-level shutter button as in dedicated digital cameras.[5]  Some camera phones are designed to resemble separate low-end digital compact cameras in appearance and to some degree in features and picture quality, and are branded as both mobile phones and cameras an example being the 2013 Samsung Galaxy S4 Zoom.
+The principal advantages of camera phones are cost and compactness; indeed for a user who carries a mobile phone anyway, the addition is negligible. Smartphones that are camera phones may run mobile applications to add capabilities such as geotagging and image stitching.  Also, modern smartphones can use their touch screens to direct their camera to focus on a particular object in the field of view, giving even an inexperienced user a degree of focus control exceeded only by seasoned photographers using manual focus.  However, the touch screen, being a general purpose control, lacks the agility of a separate camera's dedicated buttons and dial(s).
+Starting in the mid-2010s, some advanced camera phones feature optical image stabilisation (OIS), larger sensors, bright lenses, 4K video and even optical zoom, for which a few use a physical zoom lens.  Multiple lenses and multi-shot night modes are also familiar.[6]  Since the late 2010s, high-end smartphones typically have multiple lenses with different functions, to make more use of a device's limited physical space. Common lens functions include an ultrawide sensor, a telephoto sensor, a macro sensor, and a depth sensor. Some phone cameras have a label that indicates the lens manufacturer, megapixel count, or features such as autofocus or zoom ability for emphasis, including the Samsung Omnia II (2009), Samsung Galaxy S II (2011), Sony Xperia Z1 (2013) and some successors, Nokia Lumia 1020 (2013), and the Samsung Galaxy S20 (2020).
+Technology[edit]
+Camera[edit]
+Mobile phone cameras typically feature CMOS active-pixel image sensors (CMOS sensors) due to largely reduced power consumption compared to charge-coupled device (CCD) type cameras, which few camera phones use[citation needed].  Some use CMOS back-illuminated sensors, which use even less energy, at higher price than CMOS and CCD.
+The usual fixed-focus lenses and smaller sensors limit performance in poor lighting.  Lacking a physical shutter, some have a long shutter lag. Photoflash by the typical internal LED source illuminates less intensely over a much longer exposure time than a flash strobe, and none has a hot shoe for attaching an external flash. Optical zoom[7] and tripod screws are rare and some also lack a USB connection or a removable memory card.  Most have Bluetooth and WiFi, and can make geotagged photographs.  Some of the more expensive camera phones have only a few of these technical disadvantages, but with bigger image sensors (a few are up to 1", such as the Panasonic Lumix DMC-CM1), their capabilities approach those of low-end point-and-shoot cameras.  The few hybrid camera phones such as Samsung Galaxy S4 Zoom and K Zoom were equipped with real optical zoom lenses.
+ Samsung Galaxy S5 camera module, with floating element group suspended by ceramic bearings and a small magnet
+ Image showing the six molded elements in the Samsung Galaxy S5
+As camera phone technology has progressed, lens design has evolved from a simple double Gauss or Cooke triplet to many molded plastic aspheric lens elements made with varying dispersion and refractive indexes. Some phone cameras also apply distortion (optics), vignetting, and various optical aberration corrections to the image before it is compressed into a JPEG format.
+Optical image stabilization allows longer exposures without blurring, despite trembling.  The earliest known smartphone to feature it on the rear camera is in late 2012 on the Nokia Lumia 920, and the first known front camera to feature one is on the HTC 10 from early 2016.[8][9]
+Few smartphones such as LG initially with the 2014 G3 are equipped with a time-of-flight camera with infrared laser beam assisted auto focus. A thermal imaging camera has initially been implemented in 2016 on the Caterpillar S60.
+High dynamic range imaging merges multiple images with different exposure values for a balanced brightness across the image and was first implemented in early 2010s smartphones such as the Samsung Galaxy S III and iPhone 5. The earliest known smartphone to feature high dynamic range filming is the Sony Xperia Z, 2013, where frames are arrayed by changing the exposure every two lines of pixels to create a spatially varying exposure (SVE).[10][11]
+As of 2019, high-end camera phones can produce video with up to 4K resolution at 60 frames per second for smoothness.[12]
+Zooming[edit]
+Most camera phones have a digital zoom feature, which may allow zooming without quality loss if a lower resolution than the highest image sensor resolution is selected, as it makes use of image sensors' spare resolution. For example, at twice digital zoom, only a quarter of the image sensor resolution is available.  A few have optical zoom, and several have a few cameras with different field of view, combined with digital zoom as a hybrid zoom feature.  For example, the Huawei P30 Pro uses a "periscope" 5x telephoto camera with up to 10x digital zoom, resulting in 50x hybrid zoom.[13]  An external camera can be added, coupled wirelessly to the phone by Wi-Fi.  They are compatible with most smartphones.  Windows Phones can be configured to operate as a camera even if the phone is asleep.
+Physical location[edit]
+When viewed vertically from behind, the rear camera module on some mobile phones is located in the top center, while other mobile phones have cameras located in the upper left corner. The latter has benefits in terms of ergonomy due to the lower likelihood of covering and soiling the lens when held horizontally, as well as more efficient packing of tight physical device space due to neighbouring components not having to be built around the lens.
+Image format and mode[edit]
+Images are usually saved in the JPEG file format. Since the mid-2010s, some high-end camera phones have a RAW photography feature, HDR, and "Bokeh mode". Phones with Android 5.0 Lollipop[14][15] and later versions can install phone apps that provide similar features.
+Since iOS 11 (HEIC), Android 8 (Oreo) (HEIF), Android 10 (HEIC) and Android 12 (AVIF), HEIC and AVIF compression formats in HEIF container format are available.[16][17][18] HEIC support on Android requires hardware support.[18]
+Audio recording[edit]
+Mobile phones with multiple microphones usually allow video recording with stereo audio.  Samsung, Sony, and HTC initially implemented it in 2012 on their Samsung Galaxy S3, Sony Xperia S, and HTC One X.[19][20][21]  Apple implemented stereo audio starting with the 2018 iPhone Xs family and iPhone XR.[22]
+Files and directories[edit]
+Like dedicated (stand-alone) digital cameras, mobile phone camera software usually stores pictures and video files in a directory called DCIM/ in the internal memory, with numbered or dated file names. The former prevents missing out files during file transfers and facilitates counting files, whereas the latter facilitates searching files by date/time, regardless of file attribute resets during transfer and possible lack of in-file metadata date/time information .[23][24]
+Some can store this media in external memory (secure digital card or USB on the go pen drive).
+Multimedia Messaging Service[edit]
+Main article: Multimedia Messaging Service
+ A camera phone sending a photo taken by it using MMS
+Camera phones can share pictures almost instantly and automatically via a sharing infrastructure integrated with the carrier network. Early developers including Philippe Kahn envisioned a technology that would enable service providers to "collect a fee every time anyone snaps a photo".[25] The resulting technologies, Multimedia Messaging Service (MMS) and Sha-Mail, were developed parallel to and in competition to open Internet-based mobile communication provided by GPRS and later 3G networks.
+The first commercial camera phone complete with infrastructure was the J-SH04, made by Sharp Corporation; it had an integrated CCD sensor, with the Sha-Mail (Picture-Mail in Japanese) infrastructure developed in collaboration with Kahn's LightSurf venture, and marketed from 2001 by J-Phone in Japan today owned by Softbank. It was also the world's first cellular mobile camera phone. The first commercial deployment in North America of camera phones was in 2004. The Sprint wireless carriers deployed over one million camera phones manufactured by Sanyo and launched by the PictureMail infrastructure (Sha-Mail in English) developed and managed by LightSurf.
+While early phones had Internet connectivity, working web browsers and email-programs, the phone menu offered no way of including a photo in an email or uploading it to a web site. Connecting cables or removable media that would enable the local transfer of pictures were also usually missing. Modern smartphones have almost unlimited connectivity and transfer options with photograph attachment features.
+External camera[edit]
+During 2003 (as camera phones were gaining popularity), in Europe some phones without cameras had support for MMS and external cameras that could be connected with a small cable or directly to the data port at the base of the phone. The external cameras were comparable in quality to those fitted on regular camera phones at the time, typically offering VGA resolution.
+One of these examples was the Nokia Fun Camera (model number PT-3) announced together with the Nokia 3100 in June 2003.[26] The idea was for it to be used on devices without a built-in camera (connected via the Pop-Port interface) and be able to transfer images taken on the camera (VGA resolution and a flash) directly to the phone to be stored or sent via MMS.[27]
+In 2013-2014 Sony and other manufacturers announced add-on camera modules for smartphones called lens-style cameras.  They have larger sensors and lenses than those in a camera phone but lack a viewfinder, display and most controls.  They can be mounted to an Android or iOS phone or tablet and use its display and controls.  Lens-style cameras include:
+Sony SmartShot QX series, announced and released in mid 2013. They include the DSC-QX100/B,[28] the large Sony ILCE-QX1, and the small Sony DSC-QX30.
+Kodak PixPro smart lens camera series, announced in 2014.[29]
+Vivicam smart lens camera series from Vivitar/Sakar, announced in 2014.[30]
+HTC RE HTC also announced an external camera module for smartphones, which can capture 16 MP still shots and Full HD videos. The RE Module is also waterproof and dustproof, so it can be used in a variety of conditions.[31]
+External cameras for thermal imaging also became available in late 2014.[32]
+Microscope attachments were available from several manufacturers in 2019,[33] as are adapters for connecting an astronomical telescope.[34]
+Limitations[edit]
+Mobile phone form factors are small.  They lack space for a large image sensor and dedicated knobs and buttons for easier ergonomy.
+Controls work by a touchscreen menu system.  The photographer must look at the menu instead of looking at the target.
+Dedicated cameras have a compartment housing the memory card and battery.  For most it is easily accessible by hand, allowing uninterrupted operation when storage or energy is exhausted (hot swapping).  Meanwhile, the battery can be charged externally.  Most mobile phones have a non-replaceable battery and many lack a memory card slot entirely.  Others have a memory card slot inside a tray, requiring a tool for access.
+Mobile phone operating systems are not able to boot immediately like the firmwares of dedicated digital cameras/camcorders,[35] and are prone to interference from processes running in background.
+Dedicated digital cameras, even low-budget ones, are typically equipped with a photoflash capacitor-discharging Xenon flash, larger and by far more powerful than LED lamps found on mobile phones.[36]
+Due to the default orientation of mobile phones being vertical, inexperienced users might intuitively be encouraged to film vertically, making a portrait mode poorly suited to the usual horizontal screens used at home.
+Due to their comparatively thin form factor, smartphones are typically unable to stand upright on their own and must be leaned, whereas dedicated digital cameras and camcorders typically have a flat bottom that lets them stand upright.
+Smartphones lack dedicated stable tripod mounts, and can only be mounted through a less stable device that grips the unit's edges.
+Software[edit]
+Users may use bundled camera software, or install alternative software. Bundled software may be optimized by the vendor for performance, whereas alternative software may offer functionality and controls and customization missing in bundled software.[37]
+The graphical user interface typically features a virtual on-screen shutter button located towards the usual home button and charging port side, and a thumbnail previewing the last photo, and some status icons that may display settings such as selected resolution, scene mode, stabilization, flash, and a battery indicator. The camera software may indicate the estimated number of remaining photographs until exhausted space, the current video file size, and remaining space storage while recording, as done on early-2010s Samsung smartphones. Shortcuts to settings in the camera viewfinder may be customizable.[38][39][40]
+ This layout of the camera viewfinder was first introduced by Apple with iOS 7 in 2013. Towards the late 2010s, several other smartphone vendors have ditched their layouts and implemented variations of this layout.
+In September 2013, Apple introduced a camera viewfinder layout with iOS 7 that would be implemented by several other major vendors towards the late 2010s.  This layout has a circular and usually solid-colour shutter button and a camera mode selector using perpendicular text and separate camera modes for photo and video. Vendors that have ditched their layout to implement variations of Apple's layout include Samsung, Huawei, LG, OnePlus, Xiaomi, and UleFone.[41]
+There may be an option to utilize volume keys for photo, video, or zoom.[42] Specific objects can usually be focused on by tapping on the viewfinder, and exposure may adjust accordingly; there may be an option to capture a photo with each tap.[43]
+Exposure value may be adjustable by swiping vertically after tapping to focus or through a separate menu option. It may be possible to lock focus and exposure by holding the touch for a short time, and exposure value may remain adjustable in this state.[44][45] These gestures may be available while filming and for the front camera.
+Retaining focus also has in the past been implemented through holding the virtual shutter button.[46] Another common use of holding the shutter button is burst shot, where multiple photos are captured in quick succession, with varying resolutions, speeds, and sequential limits among devices, and possibly with an option to adjust between speed and resolution.[47]
+Shutter lag varies depending on computing speed, software implementation, and environmental brightness.[48] A shutter animation such as skeuomorphic aperture diaphragm blades or a simple short black-out may be featured.[49] A haptic (vibration) feedback may be used to signify a captured photograph, which is of use when holding the smartphone in an angle with poor visibility of the screen.[50]
+Lock screens typically allow the user to launch the camera without unlocking to prevent missing moments. This may be implemented through an icon swiped away from. Launching from anywhere may be possible through double-press of power/stand-by or home button, or a dedicated shutter button if present.[51][52][53]
+Camera software on more recent and higher-end smartphones (e.g. Samsung since 2015) allows for more manual control of parameters such as exposure and focus. This was first featured in 2013 on the camera-centric Samsung Galaxy S4 Zoom and Nokia Lumia 1020, but was later expanded among smartphones.[54][55] Few smartphones' bundled camera software such as that of the LG V10 features an image histogram, a feature known from higher-end dedicated cameras.[56]
+Video recording[edit]
+Video recording may be implemented as a separate camera mode, or merged on the first viewfinder page as done since the Samsung Galaxy S4 until the S9.[42][57] Specific resolutions may be implemented as separate camera mode, like Sony has done with 4K (2160p) on the Xperia Z2.[58]
+During video recording, it may be possible to capture still photos, possibly with a higher resolution than the video itself. For example, the Samsung Galaxy S4 captures still photos during video recording at 9.6 Megapixels, which is the largest 16:9 aspect ratio crop of the 13-Megapixel 4:3 image sensor.[38]
+Parameters adjustable during video recording may include flashlight illumination, focus, exposure, light sensitivity (ISO), and white balance.  Some settings may only be adjustable while idle and locked while filming, such as light sensitivity and exposure on the Samsung Galaxy S7.[59][60][61]
+Recording time may be limited by software to fixed durations at specific resolutions, after which recording can be restarted. For example, 2160p (4K) recording is capped to five minutes on Samsung flagship smartphones released before 2016, ten minutes on the Galaxy Note 7, four minutes on the Galaxy Alpha, and six minutes on the HTC One M9. The camera software may temporarily disable recording while a high device temperature is detected.[62]
+"Slow motion" (high frame rate) video may be stored as real-time video which retains the original image sensor frame rate and audio track, or slowed down and muted. While the latter allows slow-motion playback on older video player software which lacks playback speed control, the former can act both as real-time video and as slow-motion video, and is preferable for editing as the playback speed and duration indicated in the video editor are real-life equivalent.[63]
+Settings menu[edit]
+Camera settings may appear as a menu on top of an active viewfinder in the background, or as a separate page, the former of which allows returning to the viewfinder immediately without having to wait for it to initiate again. The settings may appear as a grid or a list.[64] On Apple iOS, some camera settings such as video resolution are located separately in the system settings, outside the camera application.[65]
+The range of selectable resolution levels for photos and videos varies among camera software. There may be settings for frame rate and bit rate, as on the LG V10, where they are implemented independently within a supported pixel rate (product of resolution and frame rate).[60][61]
+When the selected photo or video resolution is below that of the image sensor, digital zooming may allow limited magnification without quality loss by cropping into the image sensor's spare resolution. This is known as "lossless digital zoom". Zooming is typically implemented through pinch and may additionally be controllable through a slider. On early-2010s Samsung Galaxy smartphones, a square visualizes the magnification.
+Other functionality[edit]
+Capturing in both directions
+The ability to take photographs and film from both front and rear cameras simultaneously was first implemented in 2013 on the Samsung Galaxy S4, where the two video tracks are stored picture-in-picture.[42] An implementation with separate video tracks within a file or separate video files is not known yet.
+Voice commands
+Voice commands were first featured in 2012 on the camera software of the Samsung Galaxy S3, and the ability to take a photo after a short countdown initiated by hand gesture was first featured in 2015 on the Galaxy S6.[66][67]
+Camera controls
+Camera software may allow locking and unlocking touch input using the power button to prevent accidentally exiting or otherwise undesirably interfering with the viewfinder while recording video or keeping the camera idle in pocket for quicker access.[68][better source needed]
+Camera software may have an option for automatically capturing a photograph or video when launched.[47]
+"Live photo" / "Motion photo"
+Some smartphones since the mid-2010s have the ability to attach short videos surrounding or following the moment to a photo. Apple has branded this feature as "live photo", and Samsung as "motion photo".[69][70]
+Remote viewfinder
+A "remote viewfinder" feature has been implemented into few smartphones' camera software (Samsung Galaxy S4, S4 Zoom, Note 3, S5, K Zoom, Alpha), where the viewfinder and camera controls are cast to a supported device through WiFi Direct.[71]
+High dynamic range (HDR)
+High-dynamic-range imaging, also referred to as "rich tone", keeps brightness across the image within a visible range.  Camera software may have an option for turning HDR off, to avoid possible shutter lag and ghosting.  Some software allows retaining both HDR and non-HDR variants of the same photo.  HDR may be supported for panorama shots and video recording, if supported by the image sensor.[72][73]
+Visual effects and low light
+The camera effects introduced by Samsung on the Galaxy S3 or S4 including "best photo" which automatically picks a photo and "drama shot" for multiplying moving objects and "eraser" which can remove moving objects, were merged to "shot & more" on the Galaxy S5, allowing retrospectively applying them to a burst of eight images stored in a single file.[74]
+In 2014, HTC implemented several visual effect features as part of their dual-camera setup on the One M8, including weather, 3D tilting, and focus adjustment after capture, branded "uFocus". The last was branded "Selective Focus" by Samsung, additionally with the "pan focus" option to make the entire depth of field appear in focus.[75]
+Huawei has branded a dedicated camera feature for prolonged exposure "light painting", as the long exposure time allows creating trails of objects that emit light.[76] A "handheld night shot" mode tries compositing a picture as clear as possible from many frames captured in a dark environment throughout several seconds. The user is instructed to hold the unit as steady as possible.[77]
+Object tracking
+The earliest known smartphone to feature an autofocus with the ability from dedicated camcorders to track objects is the Galaxy S6.[78]
+Augumented reality
+Starting in 2013 on the Xperia Z1, Sony experimented with real-time augmented reality camera effects such as floating text, virtual plants, volcano, and a dinosaur walking in the scenery.[79] Apple later did similarly in 2017 with the iPhone X.[80]
+Artificial intelligence
+An artificial intelligence that notifies of flaws after each photograph such as blinking eyes, misfocus, blur, and shake, was first implemented in 2018 on the Samsung Galaxy Note 9.[81] Later phones from other manufacturers have more advanced AI features.[82]
+History[edit]
+ The J-SH04, developed by Sharp and released by J-Phone in 2000, was the first mass-market camera phone.
+The camera phone, like many complex systems, is the result of converging and enabling technologies. Compared to digital cameras, a consumer-viable camera in a mobile phone would require far less power and a higher level of camera electronics integration to permit the miniaturization.
+The metal oxide semiconductor (MOS) active pixel sensor (APS) was developed by Tsutomu Nakamura at Olympus in 1985.[83] The complementary MOS (CMOS) active pixel sensor (CMOS sensor) "camera-on-a-chip" was later developed by Eric Fossum and his team in the early 1990s. This was an important step towards realizing the modern camera phone as described in a March 1995 Business Week article. While the first camera phones (e.g. J-SH04) successfully marketed by J-Phone in Japan used charge-coupled device (CCD) sensors rather than CMOS sensors, more than 90% of camera phones sold today[when?] use CMOS image sensor technology.[citation needed]
+Another important enabling factor was advances in data compression, due to the impractically high memory and bandwidth requirements of uncompressed media.[84] The most important compression algorithm is the discrete cosine transform (DCT),[84][85] a lossy compression technique that was first proposed by Nasir Ahmed while he was working at the University of Texas in 1972.[86] Camera phones were enabled by DCT-based compression standards, including the H.26x and MPEG video coding standards introduced from 1988 onwards,[85] and the JPEG image compression standard introduced in 1992.[87][88]
+Experiments[edit]
+There were several early videophones and cameras that included communication capability. Some devices experimented with integration of the device to communicate wirelessly with the Internet, which would allow instant media sharing with anyone anywhere. The DELTIS VC-1100 by Japanese company Olympus was the world's first digital camera with cellular phone transmission capability, revealed in the early 1990s and released in 1994.[89] In 1995, Apple experimented with the Apple Videophone/PDA.[90] There was also a digital camera with cellular phone designed by Shosaku Kawashima of Canon in Japan in May 1997.[91] In Japan, two competing projects were run by Sharp and Kyocera in 1997. Both had cell phones with integrated cameras. However, the Kyocera system was designed as a peer-to-peer video-phone as opposed to the Sharp project which was initially focused on sharing instant pictures. That was made possible when the Sharp devices was coupled to the Sha-mail infrastructure designed in collaboration with American technologist Kahn. The Kyocera team was led by Kazumi Saburi.[citation needed] In 1995, work by James Greenwold of Bureau Of Technical Services, in Chippewa Falls, Wisconsin, was developing a pocket video camera for surveillance purposes. By 1999, the Tardis[92] recorder was in prototype and being used by the government. Bureau Of Technical Services advanced further by the patent No. 6,845,215,B1 on "Body-Carryable, digital Storage medium, Audio/Video recording Assembly".[93]
+A camera phone was patented by Kari-Pekka Wilska, Reijo Paajanen, Mikko Terho and Jari H m l inen, four employees at Nokia, in 1994. Their patent application was filed with the Finnish Patent and Registration Office on May 19, 1994, followed by several filings around the world making it a global family of patent applications. The patent application specifically described the combination as either a separate digital camera connected to a cell phone or as an integrated system with both sub-systems combined in a single unit. Their patent application design included all of the basic functions camera phones implemented for many years: the capture, storage, and display of digital images and the means to transmit the images over the radio frequency channel. On August 12, 1998, the United Kingdom granted patent GB 2289555B and on July 30, 2002, the USPTO granted US Patent 6427078B1 based on the original Finnish Patent and Registration Office application to Wilska, Paajanen, Terho and H m l inen.[94]
+ The photo taken by Philippe Kahn on June 11th, 1997
+On June 11, 1997, Philippe Kahn instantly shared the first pictures from the maternity ward where his daughter Sophie was born. In the hospital waiting room he devised a way to connect his laptop to his digital camera and to his cell phone for transmission to his home computer.[95] This improvised system transmitted his pictures to more than 2,000 family, friends and associates around the world. Kahn's improvised connections augured the birth of instant visual communications.[25][96][97] Kahn's cell phone transmission is the first known publicly shared picture via a cell phone.[98] The Birth of the Camera Phone[99] is a four minute short that reenacts the situation that Philippe Kahn was in.[100]
+Commercialization[edit]
+ 5-Megapixel camera phones introduced in 2007: Nokia N95, LG Viewty, Samsung SGH-G800, Sony Ericsson K850i; they were marketed as having advanced cameras
+The first commercial camera phone was the Kyocera Visual Phone VP-210, released in Japan in May 1999.[101] It was called a "mobile videophone" at the time,[102] and had a 110,000-pixel front-facing camera.[101] It stored up to 20 JPEG digital images, which could be sent over e-mail, or the phone could send up to two images per second over Japan's Personal Handy-phone System (PHS) cellular network.[101] The Samsung SCH-V200, released in South Korea in June 2000, was also one of the first phones with a built-in camera. It had a TFT liquid-crystal display (LCD) and stored up to 20 digital photos at 350,000-pixel resolution. However, it could not send the resulting image over the telephone function, but required a computer connection to access photos.[103] The first mass-market camera phone was the J-SH04, a Sharp J-Phone model sold in Japan in November 2000.[104][103] It could instantly transmit pictures via cell phone telecommunication.[105]
+A Samsung foldable smartphone features multi-camerasAn under-display front-facing camera on a flexible screen
+Cameras on cell phones proved popular right from the start, as indicated by the J-Phone in Japan having had more than half of its subscribers using cell phone cameras in two years. The world soon followed. In 2003, more camera phones were sold worldwide than stand-alone digital cameras largely due to growth in Japan and Korea.[106]  In 2005, Nokia became the world's most sold digital camera brand. In 2006, half of the world's mobile phones had a built-in camera.[citation needed] In 2006, Thuraya released the first satellite phone with an integrated camera. The Thuraya SG-2520 was manufactured by Korean company APSI and ran Windows CE. In 2008, Nokia sold more camera phones than Kodak sold film-based simple cameras, thus becoming the biggest manufacturer of any kind of camera.[citation needed] In 2010, the worldwide number of camera phones totaled more than a billion.[107] Since 2010, most mobile phones, even the cheapest ones, are being sold with a camera. High-end camera phones usually had a relatively good lens and high resolution.
+ The Nokia N8 smartphone is the first Nokia smartphone with a 12-megapixel autofocus lens, it features Carl Zeiss optics with xenon flash. The label indicates the lens manufacturer, megapixel count, aperture, and autofocus ability. Vivo X60 featured the Zeiss co-engineered imaging system
+Higher resolution camera phones started to appear in the 2010s. 12-megapixel camera phones have been produced by at least two companies.[108][109] To highlight the capabilities of the Nokia N8 (Big CMOS Sensor) camera, Nokia created a short film, The Commuter,[110] in October 2010. The seven-minute film was shot entirely on the phone's 720p camera. A 14-megapixel smartphone with 3  optical zoom was announced in late 2010.[111] In 2011, the first phones with dual rear cameras were released to the market but failed to gain traction. Originally, dual rear cameras were implemented as a way to capture 3D content, which was something that electronics manufacturers were pushing back then. Several years later, the release of the iPhone 7 would popularize this concept, but instead using the second lens as a wide angle lens.[112][113][114][115][116][117] In 2012, Nokia announced Nokia 808 PureView. It features a 41-megapixel 1/1.2-inch sensor and a high-resolution f/2.4 Zeiss all-aspherical one-group lens. It also features Nokia's PureView Pro technology, a pixel oversampling technique that reduces an image taken at full resolution into a lower resolution picture, thus achieving higher definition and light sensitivity, and enables lossless zoom. In mid-2013, Nokia announced the Nokia Lumia 1020. In 2014, the HTC One M8 introduced the concept of having a camera as a depth sensor. In late 2016, Apple introduced the iPhone 7 Plus, one of the phones to popularize a dual camera setup. The iPhone 7 Plus included a main 12 MP camera along with a 12 MP telephoto camera which allowed for 2x optical zoom and Portrait Mode for the first time in a smartphone. In early 2018 Huawei released a new flagship phone, the Huawei P20 Pro, with the first triple camera lens setup. Making up its three sensors (co-engineered with Leica) are a 40 megapixel RGB lens, a 20 megapixel monochrome lens, and an 8 megapixel telephoto lens. Some features on the Huawei P20 Pro include 3x optical zoom, and 960 fps slow motion. In late 2018, Samsung released a new mid-range smartphone, the Galaxy A9 (2018) with the world's first quad camera setup. The quadruple camera setup features a primary 24MP f/1.7 sensor for normal photography, an ultra-wide 8MP f/2.4 sensor with a 120 degrees viewing angle, a telephoto 10MP f/2.4 with 2x optical zoom and a 5MP depth sensor for effects such as b`okeh. Nokia 9 PureView was released in 2019 featuring penta-lens camera system.[118]
+ The Huawei Mate 40 RS features penta-camera lenses with Leica optics.
+ The OnePlus 9 features upgraded optics with Hasselblad.
+In 2019, Samsung Electronics announced the Galaxy A80, which has only rear cameras. When the user wants to take a selfie, the cameras automatically slide out of the back and rotate towards the user. This is known as a pop-up camera, and it allows smartphone displays to cover the entire front of the phone body without a notch or a punch hole on the top of the screen. Samsung, Xiaomi, OnePlus, and other manufacturers adopted a system where the camera "pops" out of the phone's body.[119][120] Also in 2019, Samsung developed and began commercialization of 64 and 108-megapixel cameras for phones. The 108 MP sensor was developed in cooperation with Chinese electronics company Xiaomi and both sensors are capable of pixel binning, which combines the signals of 4 or 9 pixels, and makes the 4 or 9 pixels act as a single, larger pixel. A larger pixel can capture more light (resulting in a higher ISO rating and lower image noise).[121][122][123] Under display cameras are under development, which would place a camera under a special display that would allow the camera to see through the display, such as Samsung Galaxy Z Fold 3.[124][125][126][127]
+Manufacturers[edit]
+Major manufacturers of cameras for phones include Sony, Toshiba, ST Micro, Sharp, Omnivision, and Aptina (Now part of ON Semiconductor).[citation needed]
+Social impact[edit]
+See also: Selfie
+ Taking a photograph with a cell phone
+ Taking a photo on a smartphone in landscape mode
+Personal photography allows people to capture and construct personal and group memory, maintain social relationships as well as expressing their identity.[128] The hundreds of millions[129]
+of camera phones sold every year provide the same opportunities, yet these functions are altered and allow for a different user experience. As mobile phones are constantly carried, they allow for capturing moments at any time. Mobile communication also allows for immediate transmission of content (for example via Multimedia Messaging Services), which cannot be reversed or regulated. Brooke Knight observes that "the carrying of an external, non-integrated camera (like a DSLR) always changes the role of the wearer at an event, from participant to photographer".[130] The camera phone user, on the other hand, can remain a participant in whatever moment they photograph. Photos taken on a camera phone serve to prove the physical presence of the photographer.  The immediacy of sharing and the liveness that comes with it allows the photographs shared through camera phones to emphasize their indexing of the photographer.
+While phones have been found useful by tourists and for other common civilian purposes, as they are cheap, convenient, and portable; they have also posed controversy, as they enable secret photography. A user may pretend to be simply talking on the phone or browsing the internet, drawing no suspicion while photographing a person or place in non-public areas where photography is restricted, or against that person's wishes. Camera phones have enabled everyone to exercise freedom of speech by quickly communicating to others what they see with their own eyes. In most democratic free countries, there are no restrictions against photography in public and thus camera phones enable new forms of citizen journalism, fine art photography, and recording one's life experiences for facebooking or blogging.
+Camera phones have also been very useful to street photographers and social documentary photographers as they enable them to take pictures of strangers in the street without them noticing, thus allowing the artist/photographer to get close to subjects and take more lively photos.[131] While most people are suspect of secret photography, artists who do street photography (like Henri Cartier-Bresson did), photojournalists and photographers documenting people in public (like the photographers who documented the Great Depression in 1930s America) must often work unnoticed as their subjects are often unwilling to be photographed or are not aware of legitimate uses of secret photography like those photos that end up in fine art galleries and journalism.
+As a network-connected device, megapixel camera phones are playing significant roles in crime prevention, journalism and business applications as well as individual uses. They can also be used for activities such as voyeurism, invasion of privacy, and copyright infringement. Because they can be used to share media almost immediately, they are a potent personal content creation tool.
+Camera phones limit the "right to be let alone", since this recording tool is always present. A security bug can allow attackers to spy on users through a phone camera.[132]
+In January 2007, New York City Mayor Michael Bloomberg announced a plan to encourage people to use their camera phones to capture crimes happening in progress or dangerous situations and send them to emergency responders. The program enables people to send their images or video directly to 911.[133] The service went live in 2020.[134]
+Camera phones have also been used to discreetly take photographs in museums, performance halls, and other places where photography is prohibited. However, as sharing can be instantaneous, even if the action is discovered, it is too late, as the image is already out of reach, unlike a photo taken by a digital camera that only stores images locally for later transfer. However, as the newer digital cameras support Wi-Fi, a photographer can perform photography with a DSLR and instantly post the photo on the internet through the mobile phone's Wi-Fi and 3G capabilities.
+Apart from street photographers and social documentary photographers or cinematographers, camera phones have also been used successfully by war photographers.[135] The small size of the camera phone allows a war photographer to secretly film the men and women who fight in a war, without them realizing that they have been photographed, thus the camera phone allows the war photographer to document wars while maintaining her or his safety.
+In 2010, in Ireland the annual "RT  60 second short award" was won by 15-year-old Laura Gaynor, who made her winning cartoon, "Piece of Cake" on her Sony Ericsson C510 camera phone.[136][137][138] In 2012, director and writer Eddie Brown Jr.[139] made the reality thriller Camera Phone,[140] one of the first commercial produced movies using camera phones as the story's perspective. The film is a reenactment of an actual case, and the names were changed to protect those involved. Some modern camera phones (in 2013 2014) have big sensors, thus allowing a street photographer or any other kind of photographer to take photos of similar quality to a semi-professional camera.
+Camera as an interaction device[edit]
+The cameras of smartphones are used as input devices in numerous research projects and commercial applications. A commercially successful example is the use of QR codes attached to physical objects. QR codes can be sensed by the phone using its camera and provide an according link to related digital content, usually a URL. Another approach is using camera images to recognize objects. Content-based image analysis is used to recognize physical objects such as advertisement posters[141] to provide information about the object. Hybrid approaches use a combination of un-obtrusive visual markers and image analysis. An example is to estimate the pose of the camera phone to create a real-time overlay for a 3D paper globe.[142]
+Some smartphones can provide an augmented reality overlay for 2D objects[143] and to recognize multiple objects on the phone using a stripped down object recognition algorithm[144] as well as using GPS and compass. A few can translate text from a foreign language.
+[145]
+Auto-geotagging can show where a picture is taken, promoting interactions and allowing a photo to be mapped with others for comparison.
+Smartphones can use their front camera (of lesser performance as compared to rear camera) facing the user for purposes like self-portraiture (selfie) and videoconferencing.[146] A bystander uses his camera phone to record a skateboarder at LES skatepark, 2019
+Laws[edit]
+Main articles: Photography and the law and Legality of recording by civilians
+Camera phones, or more specifically, widespread use of such phones as cameras by the general public, has increased exposure to laws relating to public and private photography. The laws that relate to other types of cameras also apply to camera phones. There are no special laws for camera phones. Enforcing bans on camera phones has proven nearly impossible. They are small and numerous and their use is easy to hide or disguise, making it hard for law enforcement and security personnel to detect or stop use. Total bans on camera phones would also raise questions about freedom of speech and the freedom of the press, since camera phone ban would prevent a citizen or a journalist (or a citizen journalist) from communicating to others a newsworthy event that could be captured with a camera phone.
+From time to time, organizations and places have prohibited or restricted the use of camera phones and other cameras because of the privacy, security, and copyright issues they pose. Such places include the Pentagon, federal and state courts,[147] museums, schools, theaters, and local fitness clubs. Saudi Arabia, in April 2004, banned the sale of camera phones nationwide for a time before reallowing their sale in December 2004 (although pilgrims on the Hajj were allowed to bring in camera phones). There is the occasional anecdote of camera phones linked to industrial espionage and the activities of paparazzi (which are legal but often controversial), as well as some hacking into wireless operators' network.
+Notable events involving camera phones[edit]
+The 2004 Indian Ocean earthquake was the first global news event where the majority of the first day news footage was no longer provided by professional news crews, but rather by citizen journalists, using primarily camera phones.
+On November 17, 2006, during a performance at the Laugh Factory comedy club, comedian Michael Richards was recorded responding to hecklers with racial slurs by a member of the audience using a camera phone. The video was widely circulated in television and internet news broadcasts.
+On December 30, 2006, the execution of former Iraqi dictator Saddam Hussein was recorded by a video camera phone, and made widely available on the Internet. A guard was arrested a few days later.[148]
+Camera phone video and photographs taken in the immediate aftermath of the 7 July 2005 London bombings were featured worldwide. CNN executive Jonathan Klein predicts camera phone footage will be increasingly used by news organizations.
+Camera phone digital images helped to spread the 2009 Iranian election protests.
+Camera phones recorded the BART Police shooting of Oscar Grant.
+Camera phone photography[edit]
+ "Storm is coming", an example of iPhoneography
+Photography produced specifically with phone cameras has become an art form in its own right.[149][150][151][152][153][154] Work in this genre is sometimes referred to as iPhoneography (whether for photographs taken with an iPhone,[155][156][157] or any brand of smart phone).[158][159][160] The movement, though already a few years old, became mainstream with the advent of the iPhone and its App Store which provided better, easier, and more creative tools for people to shoot, process, and share their work.[161]
+Reportedly, the first gallery exhibition to feature iPhoneography exclusively opened on June 30, 2010: "Pixels at an Exhibition" was held in Berkeley, California, organized and curated by Knox Bronson and Rae Douglass.[162] Around the same time, the photographer Damon Winter used Hipstamatic to make photos of the war in Afghanistan.[163][164] A collection of these was published November 21, 2010 in the New York Times in a series titled "A Grunt's Life",[165] earning an international award (3rd) sponsored by RJI, Donald W. Reynolds Journalism Institute.[166] Also in Afghanistan, in 2011, photojournalist David Guttenfelder used an iPhone and the Polarize application.[167] In 2013, National Geographic published a photo feature in which phoneographer Jim Richardson used his iPhone 5s to photograph the Scottish Highlands.[168] A pic taken of golden sunset on Mt Everest using a camera phone (1+ 9Pro) at 5350m from Kalapatthar at -20 C
+Camera phone filmmaking[edit]
+Since they got their video cameras, smartphones came to be widely used for videography.  Filmmakers gradually became interested in their capabilities.[169]  Mobile filmmaking is developing its own aesthetics due to its compactness, portability and its technological limitations that are being overcome every day by new implementations.[170]
+Many filmmakers work with smartphones as the main camera for their films.  Steven Soderbergh's films Unsane[171] and High Flying Bird were shot entirely on iPhone.
+See also[edit]
+Auxiliary memory
+Mobile phone accessories
+Modular smartphone
+Smartwatch
+Video editor
+References[edit]
+^ "Image of kyocera visual phone vp-210, japan, 2008". Science & Society Picture Library. Retrieved 2021-10-12.
+^ "Camera Sales in 2020 Have Plummeted as Much as 54%". PetaPixel. 6 November 2020. Retrieved 2021-05-22.
+^ "StackPath".
+^ "Motorola DROID X vs. HTC Droid Incredible". Phone Arena. Archived from the original on 2011-12-28.
+^ "Review: Samsung Omnia II's Camera". Windows Central. 28 January 2010.
+^ "Top 16 Best Camera Phones For Photography 2019". April 4, 2019. Archived from the original on May 12, 2019. Retrieved May 12, 2019.
+^ Johnson, Joel (October 2009). "Take High-Quality Pics With Your Phone's Low-Quality Camera". Popular Mechanics. Archived from the original on 2010-09-12.
+^ Ferenczi, Peter M. (2013-03-07). "Nokia Lumia 920 Camera Review". DPReview. Retrieved 27 March 2022. It's the first phone with an optically stabilized (OIS) camera, and this is the big low-light news. Note that a number of phones claim "image stabilization" as a feature, but this is not stratospheric ISO abuse and/or waiting for a relatively steady moment to release the shutter.
+^ Rehm, Lars (2016-04-12). "HTC 10 is the first smartphone with OIS in front and rear cameras". DPReview. Retrieved 27 March 2022.
+^ P., Daniel (2013-01-21). "Sony Xperia Z HDR video compilation: less burn, more detail". Phone Arena. Retrieved 2 December 2021.
+^ "Shoot great videos in all conditions with the new HDR functionality in Xperia  Z   Developer World". Sony Developer World. 22 January 2013. Archived from the original on 26 January 2013. Retrieved 2 December 2021.
+^ Adam Ismail (May 11, 2019). "Best Smartphone Cameras 2019". Archived from the original on May 15, 2019. Retrieved May 18, 2019.
+^ Ron Amadeo (March 27, 2019). "New Huawei phone has a 5x optical zoom, thanks to a periscope lens". Archived from the original on November 30, 2019. Retrieved November 20, 2019.
+^ Monckton, Paul. "Android 5.0 Camera Tests Show Update Instantly Improves Every Smartphone". Forbes. Archived from the original on December 18, 2014. Retrieved December 27, 2014.
+^ Rehm, Lars. "Panasonic announces Lumix DMC-CM1 smartphone with 1-inch sensor". Archived from the original on December 18, 2014. Retrieved December 27, 2014.
+^ Snell, Jason (2017-09-20). "iOS 11: HEVC, HEIF, and what you need to know about these new video and photo formats". Macworld. Archived from the original on 2018-11-16. Retrieved 2017-09-30.
+^ "Supported media formats". Android Developers. Retrieved 2022-08-05.
+^ a b "HEIF Imaging". Android Open Source Project. Retrieved 2022-08-05.
+^ "Samsung I9300 Galaxy S III review: S to the third". GSMArena.com. p. 9.
+^ "Sony Xperia S review: NXT of kin". GSMArena.com. p. 6.
+^ "HTC One X review: eXtra special". GSMArena.com. Retrieved 2021-04-02.
+^ "Apple iPhone XS review". GSMArena.com. p. 7.
+^ Hristov, Victor (2018-07-31). "How to see the filename of photo or video on iPhone". Phone Arena.
+^ "Where are images stored on Android? What is the DCIM thumbnails folder? | How to recover". howtorecover.me. 2020-06-22.
+^ a b Parks, Bob (October 2000). "Wired Magazine, The Big Picture - Philippe Kahn". Archived from the original on 2006-03-26. Retrieved 2006-04-20.
+^ "Nokia 3100 Sheds Light on Mobile Personal Expression". www.businesswire.com. June 16, 2003. Archived from the original on November 11, 2018. Retrieved November 10, 2018.
+^ "Nokia Fun Camera PT-3 - Mobile Phone Review - CNET Asia". January 12, 2008. Archived from the original on January 12, 2008.
+^ photobug22 (4 October 2013). "Smartphone Attachable Lens-style Camera - DSCQX100/B Review - Sony US". Sony US. Archived from the original on 4 October 2014.
+^ Crisp, Simon (January 18, 2014). "Kodak smart lens cameras try to take on Sony". Archived from the original on October 6, 2014.
+^ "Sakar shows QX-style, Vivitar-branded modular smart camera". January 14, 2014.
+^ "NEW ARRIVAL: HTC RE Camera". March 20, 2016. Archived from the original on March 29, 2016.
+^ Clark, Don (August 18, 2014). "Add-on thermal imaging". The Wall Street Journal. Archived from the original on January 13, 2017.
+^ Linder, Courtney (2019-11-22). "If You've Ever Wanted a Smartphone Microscope, Now's Your Chance". Popular Mechanics. Retrieved 2020-11-03.
+^ "Equipment reviews". Walton Astronomy Group. Retrieved 2020-11-26.
+^ "Panasonic Lumix DMC-FZ1000 Review". PCMAG.
+^ Angove, Alex (2013-08-15). "Xenon vs LED Flash: what's best for a phone photographers?". www.whistleout.com. Archived from the original on 2013-08-17. Retrieved 2021-04-16.
+^ "Use Different Camera Apps to Improve Photo Quality". Phone Scoop. 2014-04-05. Retrieved 10 January 2022. In general, I was quite pleased with all the images I captured using the FV-5 app. Images were in focus, well-exposed, and had proper white balance. It is a little slow to focus sometimes, and that can affect the outcome depending on the subject. For still lifes, it doesn't matter, but for action shots it might.
+^ a b "Samsung Galaxy S4 review: Supernova   9. Camera". www.gsmarena.com. 2013-03-28. p. 9. Retrieved 8 November 2021.
+^ "Das Samsung Galaxy S5 Tagebuch - Traumflieger.de". www.traumflieger.de. 2014-06-17. Retrieved 25 January 2022.
+^ "Samsung i9000 Galaxy S User manual" (PDF). Samsung Mobile. 2010. pp. 47 56. Retrieved 25 January 2022.
+^ c. f. camera software of Samsung since the Galaxy S10, of Huawei since the P20, of LG since the G8, since the OnePlus 6, of Xiaomi since Redmi Note 5, and of UleFone smartphones released since at least 2017 (as of 2022).
+^ a b c "Samsung Galaxy S4 review: Supernova   Camera". GSMArena.com. 2013-03-28. p. 9. Retrieved 14 November 2021. The viewfinder is handles both still and video capture, so you don't have to switch modes.
+^ "Samsung Galaxy S5 Activate Touch & Shoot within the Camera settings". Solvemix - quick tips, tricks and solutions.
+^ "How to Use Autofocus and Auto Exposure Lock on Your iPhone Camera". www.iphonelife.com. 11 August 2015. Retrieved 15 November 2021.
+^ "How to Adjust Exposure on Galaxy S7   Android Flagship". Android Flagship. 6 October 2016. Retrieved 15 November 2021.
+^ Rehm, Lars (2012-11-01). "Samsung Galaxy S3 Camera Review". DPReview. Retrieved 1 December 2021. You focus by tapping on the screen and you can lock focus by tapping and holding.
+^ a b Sonigra, Mitesh (2013-09-26). "Sony Xperia Z Review: The Fragile yet Beautiful Swimmer". Mobile Jury. p. 2. Archived from the original on 2013-09-30. Retrieved 1 December 2021.
+^ "iPhone 13 review: The one to get?". www.pocket-lint.com. 21 September 2021. Retrieved 1 January 2022. In low-light conditions, we did find there was some lag after pressing the shutter button before Night Mode kicked in, but the results are still good.
+^ "Bring back the iOS 6 camera shutter animation". The iPhone FAQ. 16 February 2016. Retrieved 10 January 2022.
+^ Kim, Eric (7 September 2018). "iPhone 8 Camera Review". Eric Kim Photography. Retrieved 1 January 2022. . I like the haptic response of the phone buzzing a bit when you take a photo. It reminds me of the haptic feedback when you shoot with a camera with a mirror, or with an old film camera.
+^ Samsung Galaxy, Apple iPhone, Sony Xperia, HTC, Open Camera
+^ "How to use the Sony Xperia Z2 camera to take better photos: Background defocus, timeshift burst, manual mode". Expert Reviews. 2014-10-16. Retrieved 8 November 2021.
+^ "How to quickly launch the camera on Samsung Galaxy S6 and Galaxy S6 edge". Android Beat | Android News, Hacks, Apps, Tips & Reviews Blog. 3 April 2015. Retrieved 8 November 2021.
+^ "How To Use Pro Camera Mode On Samsung's Galaxy S7 And S7 Edge". Digital Trends. 25 April 2017. Retrieved 8 November 2021.
+^ "Manual Shutter Speed Adjustment on Galaxy Note 5 and S6 edge+". www.cameradebate.com. 2015-08-19. Retrieved 13 November 2021.
+^ Petric, Dragan (2016-03-11). "LG V10 Review: A Different Kind of Flagship - NotebookReview.com". www.notebookreview.com. Retrieved 25 January 2022.
+^ Kronfli, Basil (29 July 2019). "Samsung Galaxy S10 5G review". digitalcameraworld. Retrieved 14 November 2021.
+^ "Sony Xperia Z2 review". Android Authority. 4 April 2014. Retrieved 14 November 2021.
+^ "Pro mode on Galaxy S7 and Galaxy S7 edge works even when video recording is active". SamMobile.
+^ a b "LG V10 review: Screen play   8. Camera features". GSMArena.com. 2015-11-02. p. 8. Retrieved 24 November 2021.
+^ a b S., Ray (2015-11-05). "LG V10 Review - Camera and Multimedia". Phone Arena. p. 2. Retrieved 24 November 2021.
+^ "Sony Xperia Z2 Prone To Overheating When Recording 4K Video". Cult of Android. 9 April 2014. Retrieved 15 November 2021.
+^ "How do I take pictures by Slow motion mode on Galaxy S6/S6 edge (Hong-Kong version)?". Samsung hk_en.
+^ H, Victor (2014-04-07). "Samsung Galaxy S5 vs Samsung Galaxy S4 - Camera and Multimedia". Phone Arena. p. 3. Retrieved 14 November 2021.
+^ Lynch, Jim (24 November 2015). "iPhone 6s: Enable 4K video recording". CIO. Retrieved 14 November 2021.
+^ Cozma, Nicole (2012-09-07). "Use your voice to take pictures with the Samsung Galaxy S III". CNET. Retrieved 2 December 2021.
+^ "How to use Galaxy S6 camera gesture control?". Gadget Guide Online. 22 May 2015. Retrieved 2 December 2021.
+^ "Tips and Tricks for Samsung Galaxy S". Unp.me. 2010-10-27. Retrieved 25 January 2022. 11. How to lock camera screen. If you press power button while camera is running, the touch screen is locked to prevent unintentional manipulation or re-loading time. This feature is useful for the touch sensitive camera phone. You can toggle by power button and use the back key to close the camera program.
+^ "Live Photos explained: How the new iPhone 6S, 6S Plus and SE camera feature works". Trusted Reviews. 1 October 2015. Retrieved 14 November 2021.
+^ Cipriani, Jason (2016-03-17). "What you need to know about Motion Photo on the Galaxy S7". CNET. Retrieved 14 November 2021.
+^ "What is Remote ViewFinder mode in Samsung Galaxy S5(SM-G900H)? | Samsung Support India". Samsung India. Retrieved 1 December 2021.
+^ Samung Galaxy S4 Zoom (SM-C101) user manual
+^ "iPhone 6s vs. Galaxy S6 vs. Xperia Z5: Monster Brawl". GSMArena.com. 2015-10-23. p. 9. Retrieved 1 December 2021.
+^ "What is the Shot & more camera mode on my Samsung Galaxy S5 and how Do I use it? | Samsung South Africa". Samsung za. 2020-10-20. Retrieved 2021-11-15.
+^ "Samsung Galaxy S5 User Guide". Tom's Guide. 3 October 2018. Retrieved 14 November 2021.
+^ "How to use LIGHT PAINTING to shoot LIGHT TRAILS... [ EMUI 10 TIPS ]". consumer.huawei.com. Retrieved 1 January 2022.
+^ Li, Deng (4 July 2018). "What is Huawei's AIS super night camera technology?- explained, sample shots included". Huawei Central. Retrieved 1 January 2022.
+^ "Samsung Galaxy S6 camera tips and tricks". Android Beat | Android News, Hacks, Apps, Tips & Reviews Blog. 31 July 2015. Retrieved 1 January 2022.
+^ "Sony Xperia Z1 review: A smartphone with a camera-sized sensor". DPReview. 2013-11-01.
+^ Carson, Biz (2017-09-12). "Tim Cook Isn't Wrong: Why The iPhone X Could Change How We Use Phones Forever". Forbes.
+^ Jason Cipriani (2018-08-27). "13 tips and tricks for the Note 9's camera". CNet. Retrieved 2021-12-09.
+^ Shankland, Stephen. "Pixel 6 cameras go all in on AI. Here's the inside story". CNET. Retrieved 2021-12-12.
+^ Matsumoto, Kazuya;  et al. (1985). "A new MOS phototransistor operating in a non-destructive readout mode". Japanese Journal of Applied Physics. 24 (5A): L323. Bibcode:1985JaJAP..24L.323M. doi:10.1143/JJAP.24.L323. S2CID 108450116.
+^ a b Belmudez, Benjamin (2014). Audiovisual Quality Assessment and Prediction for Videotelephony. Springer. pp. 11 13. ISBN 9783319141664.
+^ a b Huang, Hsiang-Cheh; Fang, Wai-Chi (2007). Intelligent Multimedia Data Hiding: New Directions. Springer. p. 41. ISBN 9783540711698. Archived from the original on 2020-02-26. Retrieved 2019-09-15.
+^ Ahmed, Nasir (January 1991). "How I Came Up With the Discrete Cosine Transform". Digital Signal Processing. 1 (1): 4 5. doi:10.1016/1051-2004(91)90086-Z. Archived from the original on 2016-06-10. Retrieved 2019-09-15.
+^ Hudson, Graham; L ger, Alain; Niss, Birger; Sebesty n, Istv n; Vaaben, J rgen (31 August 2018). "JPEG-1 standard 25 years: past, present, and future reasons for a success". Journal of Electronic Imaging. 27 (4): 1. doi:10.1117/1.JEI.27.4.040901.
+^ "What Is a JPEG? The Invisible Object You See Every Day". The Atlantic. 24 September 2013. Archived from the original on 9 October 2019. Retrieved 13 September 2019.
+^ "History of digital camera". 2007-02-19. Archived from the original on February 19, 2007. Retrieved 2016-05-19.
+^ "Apple Prototypes: 5 Products We Never Saw". Tech Weird News. 2006-11-30. Archived from the original on 2011-12-10.
+^ "United States Patent: D405457 - Digital camera with cellular phone and portable computer". Archived from the original on 2016-10-12.
+^ "tardispanel.swf". Archived from the original on December 8, 2013.
+^ "PatentCert.pdf" (PDF). Archived from the original (PDF) on May 2, 2014.
+^ "The device for personal communications, data collection and handling and for PCB". Archived from the original on 2019-12-29.
+^ "A baby girl and the camera phone were born 20 years ago". The Mercury News. 2017-06-08. Retrieved 2021-03-11.
+^ Maney, Kevin (2007-01-23). "Baby's birth foretells "birth" of the cell phone camera   and societal evolution". USA Today. Archived from the original on 2007-10-21. Retrieved 2007-12-25.
+^ Epstein, Sonia (August 2018). "The Birth of the Camera Phone". Archived from the original on 2018-08-07. Retrieved 2018-08-07.
+^ Sullivan, Robert (2011). 100 Photographs That Changed The World. LIFE Books. p. 19. ISBN 978-1-60320-176-6.
+^ "1997: Birth of the Camera Phone | Subconscious Films from Conscious Minds on Vimeo". player.vimeo.com. Retrieved 2023-01-31.
+^ "Witness History - The first photo sent from a phone - BBC Sounds". www.bbc.co.uk. Retrieved 2023-04-02.
+^ a b c "Camera phones: A look back and forward". Computerworld. 11 May 2012. Archived from the original on 9 October 2019. Retrieved 15 September 2019.
+^ "First mobile videophone introduced". CNN. May 18, 1999. Archived from the original on 25 August 2019. Retrieved 15 September 2019.
+^ a b "From J-Phone to Lumia 1020: A complete history of the camera phone". Digital Trends. August 11, 2013. Archived from the original on 14 September 2019. Retrieved 15 September 2019.
+^ "Evolution of the Camera phone: From Sharp J-SH04 to Nokia 808 Pureview". Hoista.net. 2012-02-28. Archived from the original on 2013-07-31. Retrieved 2013-06-21.
+^ "Taking pictures with your phone". BBC News. BBC. 18 September 2001. Archived from the original on 28 August 2017. Retrieved 15 September 2019.
+^ "Strategy Analytics: Camera Phones Outsell Digital Still Cameras Worldwide; NEC, Panasonic and Nokia Lead 25 Million Unit Market". Business Wire. September 25, 2003. Archived from the original on 4 January 2018. Retrieved 17 December 2017.
+^ "Dotty but dashing". The Economist. 8 April 2010. Archived from the original on 5 August 2013.
+^ "Samsung Pixon12 M8910 Price in India - 12 megapixel camera-phone". Newtechnology.co.in. Archived from the original on 2012-04-24. Retrieved 2013-06-21.
+^ "Sony Ericsson Satio   A Phone with Ultimate multimedia experience". Newtechnology.co.in. Archived from the original on 2012-07-14. Retrieved 2013-06-21.
+^ "The Commuter (2010)". IMDb. 26 October 2010. Archived from the original on 17 November 2010.
+^ "Crave". CNET. CBS Interactive. Archived from the original on 2012-04-03.
+^ "Dual, triple, quad camera smartphones: The history running through to the Samsung Galaxy S10". Pocket-lint. February 20, 2019. Archived from the original on April 20, 2020. Retrieved December 26, 2019.
+^ "Take Your Photos to the Next Level With Dual Camera Phones". Lifewire. Archived from the original on 2019-12-26. Retrieved 2019-12-26.
+^ "A Brief History of the Past, Present, and Future of Dual Camera Smartphones". March 2, 2017. Archived from the original on April 17, 2020. Retrieved December 26, 2019.
+^ "A Look at Dual Camera Systems in Smartphones". B&H Explora. Archived from the original on 2019-12-26. Retrieved 2019-12-26.
+^ "Dual, triple, quad camera smartphones: The history running through to the Samsung Galaxy S10". Pocket-lint. Archived from the original on 2020-04-20. Retrieved 2019-12-26.
+^ "Dual cameras in smartphones: 7 little-known facts | Gadgets Now". Gadget Now. Archived from the original on 2019-12-26. Retrieved 2019-12-26.
+^ "Nokia 9 PureView - Full phone specifications". www.gsmarena.com. Archived from the original on 2019-06-06. Retrieved 2019-05-20.
+^ Rayner, Tristan (April 4, 2020). "RIP pop-up selfie cameras. We hardly knew ye". Archived from the original on April 27, 2020. Retrieved May 10, 2020.
+^ Porter, Jon (April 10, 2019). "Samsung's Galaxy A80 is an automated notchless slider with a rotating triple camera". The Verge. Archived from the original on April 12, 2019. Retrieved April 12, 2019.
+^ "Samsung makes industry's first 108 MP smartphone camera sensor for Xiaomi". Archived from the original on 2019-12-08. Retrieved 2019-12-08.
+^ "64-megapixel phone cameras are coming". 8 May 2019. Archived from the original on 2019-05-10. Retrieved 2019-12-08.
+^ "Samsung to Bring Industry's Highest Resolution for Mobile Cameras with New 64Mp ISOCELL Image Sensor". Archived from the original on 2019-12-16. Retrieved 2019-12-08.
+^ "Want under-display cameras? Sorry to burst your bubble, says Xiaomi". Android Central. January 30, 2020.
+^ "Oppo's under-display camera means we can finally stop arguing about notches". December 11, 2019. Archived from the original on April 10, 2020. Retrieved May 10, 2020.
+^ "Hands-on with Oppo's under-display camera prototype". December 11, 2019. Archived from the original on April 28, 2020. Retrieved May 10, 2020.
+^ Lovejoy, Ben (February 28, 2020). "Second proof of concept of under-display camera, but won't come to iPhone soon". 9to5Mac. Archived from the original on March 1, 2020. Retrieved May 10, 2020.
+^ Gye, Lisa (2007) Picture This: The Impact of Mobile Camera Phones on Personal Photographic Practices in Continuum Vol 21 Issue 2. pp 279-288
+^ "Asia-Pacific Camera Phone Market Tops 600 Million Units in 2010, Says New Lyra Report". PRWeb. 10 October 2006. Archived from the original on 5 February 2007.
+^ Brooke A. Knight,  "Performative Pictures: Camera Phones at the Ready," in New Visualities, New Technologies: The New Ecstasy of Communication, ed. J. Macgregor Wise and Hille Koskela (Farnham, Surrey, England: Ashgate, 2012), 162.
+^ Kim, Eric (11 October 2012). "3 Reasons Why You Should Use the iPhone 5 For Street Photography by Mike Avina". Eric Kim Street Photography Blog. Archived from the original on 2014-03-06.
+^ Android flaw allowed attackers to spy on users through phone camera. https://mashable.com/article/google-samsung-android-camera-flaw/.  Archived 2019-11-20 at the Wayback Machine Mashable 2019-11-19
+^ "Textually.org, NY Mayor Bloomberg outlines citizen camphone hotline". January 2007. Archived from the original on 2007-01-27. Retrieved 2007-01-18.
+^ "NYC launches Text-to-911 service after years of delays". Smart Cities Dive. Retrieved 2021-05-16.
+^ Estrin, James (2010-11-21). "Finding the Right Tool to Tell a War Story". The New York Times. Archived from the original on 2014-03-02.
+^ LauraGaynorTV (31 March 2010). "Two Tube -Piece of cake - RTE 60 second short award 2010". Archived from the original on 12 October 2016   via YouTube.
+^ "Life after the Leaving: "You have to be a bit of a chancer."". The Irish Times. Archived from the original on 2016-04-23.
+^ LauraGaynorTV (9 May 2010). "Piece of cake (original mobile version)". Archived from the original on 13 March 2016   via YouTube.
+^ "Eddie Brown Jr". IMDb. Archived from the original on 2012-10-22.
+^ "Camera Phone (2012)". IMDb. 29 September 2012. Archived from the original on 19 October 2012.
+^ Pielot, M.; Henze, N.; Nickel, C.; Menke, C.; Samadi, S.; Boll, S. (2008). "Evaluation of Camera Phone Based Interaction to Access Information Related to Posters" (PDF). Proceedings of Mobile Interaction with the Real World. Archived from the original (PDF) on 2011-07-19.
+^ Sch ning, J.; Rohs, M.; Kr ger, A (2008). "Mobile Interaction with the "Real World"" (PDF). Proceedings of Mobile Interaction with the Real World. Archived from the original (PDF) on 2011-07-19.
+^ Wagner, D.; Reitmayr, G; Mulloni, A; Drummond, T; Schmalstieg, D (2008). "Pose Tracking from Natural Features on Mobile Phones" (PDF). Proceedings of the Symposium on Mixed and Augmented Reality. Archived from the original (PDF) on 2009-06-12.
+^ Henze, N.; Schinke, T.; Boll, S. (2009). "What is that? Object recognition from Natural Features on a mobile Phone" (PDF). Proceedings of Mobile Interaction with the Real World. Archived from the original (PDF) on 2011-07-19.
+^ "Smartphone app to boost translation". Press Association. Jan 14, 2015. Retrieved 26 January 2015.
+^ "Front-Facing Camera". phonescoop.com. Archived from the original on 2012-06-12. Retrieved 2012-07-27.
+^ "Notice from the Clerk". Archived from the original on August 19, 2006.
+^ "Guard at Hanging Blamed for Covert Video of Hussein". washingtonpost.com. Archived from the original on 2008-10-11.
+^ Alshawaf, Eman, 'iPhoneography and New Aesthetics: The Emergence of a Social Visual Communication Through Image based Social Media' DRS2016: Design + Research + Society, Future-Focused Thinking [2016 Design Research Society 50th Anniversary Conference, 27 30 June 2016, Brighton, UK].
+^ Alshawaf, Eiman, 'iPhoneography and Contemporary Image-Making: Examining a New Form of Visual Communication in the Age of Social Media Archived 2019-04-01 at the Wayback Machine' (unpublished Ph.D dissertation, University of Minnesota, 2017).
+^ Chopra-Gant, Mike, 'Pictures or It Didn t Happen: Photo-nostalgia, iPhoneography and the Representation of Everyday Life', Photography and Culture, 9.2 (2016), 121-33, doi:10.1080/17514517.2016.1203632.
+^ De Panbehchi, Maria Lourdes, 'Nostalgia and iPhone Camera Apps: An Ethnographic Visual Approach to iPhoneography Archived 2019-03-31 at the Wayback Machine' (unpublished Ph.D. dissertation, Virginia Commonwealth University, 2016).
+^ Halpern, Megan and Lee Humphreys, 'Iphoneography as an Emergent Art World', New Media & Society, 18 (2014), 62-81, doi:10.1177/1461444814538632
+^ Harrington, Justine, 'Connotations: An Exploration of iPhoneography Archived 2019-04-01 at the Wayback Machine', Art Journal (2012), 109-13.
+^ "Question: What is iPhoneography?". Archived from the original on November 10, 2012.
+^ Roberts, Stephanie (2011). The Art of iphoneography. Pixiq. ISBN 978-1600599231. Retrieved 2019-03-31.
+^ Goldsworthy, Sophie (2011). The Rough Guide to Digital Photography. Rough Guides. pp. 187. ISBN 978-1405381178. Iphoneography.
+^ iPhoneography - How to Create Inspiring Photos with Your Smartphone - Michael Clawson. Apress. 2018-02-05. Archived from the original on 2019-04-01. Retrieved 2019-03-19.
+^ Clawson, Michael, iPhoneography: How to Create Inspiring Photos with Your Smartphone (Apress, 2015), , ISBN 978-1-4842-1756-6, doi:10.1007/978-1-4842-1757-3.
+^ Roberts, Stephanie, The Art of iPhoneography: A Guide to Mobile Creativity (Brooklyn, NY: Pixel Communications, 2011), ISBN 9781600599231.
+^ "How-to: Use the new Camera app in iOS 7". 9to5Mac. 2013-09-20. Archived from the original on 2016-12-30. Retrieved 2019-03-19.
+^ Yawnick, Marty (February 2010). "Review: Pixels at an Exhibition, Giorgi Gallery | Life In LoFi". Life in LoFi: iPhoneography. Archived from the original on 2015-07-09. Retrieved 2016-02-12.
+^ Estrin, James (November 21, 2010). "Finding The Right Tool To Tell A War Story". Archived from the original on January 4, 2014. Retrieved March 6, 2014.
+^ "Hipstamatic War Photography on the Front Page of The New York Times". PetaPixel. 2010-11-23. Archived from the original on 2019-04-01. Retrieved 2019-03-19.
+^ Dao, James (21 November 2010). "Between Firefights, Jokes, Sweat and Tedium". The New York Times. Archived from the original on 24 March 2019. Retrieved 24 March 2019.
+^ "Feature Picture Story". Home   Pictures of the Year. Archived from the original on April 1, 2019. Retrieved March 24, 2019.
+^ Lavoie, Vincent (2012-05-24). "War and the iPhone".  tudes photographiques (29). ISSN 1270-9050. Archived from the original on 2017-07-22. Retrieved 2019-03-31.
+^ "Capturing the Aura of the Scottish Highlands With the iPhone 5s". Photography. 2013-10-07. Archived from the original on 2019-03-31. Retrieved 2019-03-19.
+^ Nihan Gider I kman, A Milestone in Film History: Smartphone Filmmaking. International Journal of Culture and History, Vol. 4, No. 4, December 2018
+^ C. Baker, M. Schleser, and K. Molga,  Aesthetics of mobile media art,  Journal of Media Practice, vol. 10, no. 2-3, 101-122, 2009.
+^ Steven Soderbergh - Unsane exclusive interview. [Online]. Available:https://www.youtube.com/watch?v=n7zC9gfi60E 
+"Best Camera Phones 2021 Overview". Retrieved 2021-01-01.
+External links[edit]
+ Media related to Mobile phones with camera at Wikimedia Commons
+vteMobile phonesMobilenetworks,protocols
+Channel capacity
+Frequencies
+Multi-band
+Network operator
+list
+Roaming
+Signal
+SIM card
+dual SIM
+SIM lock
+Standards comparison
+Tethering
+VoIP
+WAP
+XHTML-MP
+Generations
+Analogue:
+0G
+1G
+Digital:
+2G
+3G
+adoption
+3.5G
+4G
+4.5G
+5G
+6G
+Generaloperation
+Features
+GSM
+services
+History
+Operating system
+Security
+phone cloning
+Telephony
+airplane mode
+Text messaging
+SMS
+MMS
+RCS
+Spam
+Tracking
+Web browsing
+Mobiledevices
+Manufacturers
+3D phone
+Camera phone
+Car phone
+Feature phone
+Projector phone
+Satellite phone
+Smartphone
+Form factors
+Bar
+Flip
+Phablet
+Slider
+Slate
+Smartwatch
+Fold
+Smartphones
+Android devices
+rooting
+BlackBerry 10
+iPhone
+iOS jailbreaking
+Open-source mobile phones
+Symbian devices
+Windows Phone devices
+MobilespecificsoftwareApps
+Development
+Distribution
+Management
+Cloud computing
+Commerce
+Banking
+Marketing
+advertising
+campaigns
+Payments
+contactless
+donating
+Ticketing
+Content
+Blogging
+Email
+Gambling
+Gaming
+Health
+Instant messaging
+Learning
+Music
+News
+Search
+local
+Social
+address book
+Television
+Culture
+Box breaking
+Charms
+Comics
+Dating
+Japanese culture
+Novels
+Ringtones
+silent mode
+Selfie
+Txt-spk
+Wallpaper
+Environmentand health
+BlackBerry thumb
+Driving safety
+Electronic waste
+External power supply
+Mental health from overuse
+Phantom vibration syndrome
+Radiation and health
+Recycling
+Law
+Carrier IQ
+Legality of recording by civilians
+Mobile phones in prison
+Photography and the law
+Telephone tapping
+Texting while driving
+USA use restrictions while driving
+ Telecommunication portal
+ Telephones portal
+ Category
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Camera_phone&oldid=1147813697"

@@ -1,0 +1,64 @@
+Web analytics company based in Portland, Oregon
+WebtrendsTypePrivateIndustryWeb Analytics, Digital MarketingFounded1993[1]HeadquartersPortland, Oregon, U.S.Key peopleJoe Davis, CEOProductsAnalytics, Testing, Targeting, Search and Social Marketing, Remarketing, Streaming Data Delivery, Audience Segmentation
+Webtrends is a private company headquartered in Portland, Oregon, United States. It provides digital analytics, optimization and software related to digital marketing
+and e-commerce.[2] It provides services to approximately 2,000 companies.
+History[edit]
+W. Glen Boyd and Eli Shapira founded the company in 1993 as "e.g. Software".[3]
+NetIQ bought the company in 2001.[4][5] In 2002, NetIQ released a new version of Webtrends Reporting Center (version 5.0).[6] NetIQ sold Webtrends in 2005.[7]
+On October 31, 2007, three corporate vice presidents and the CEO were asked to resign.[8] Although there was initial speculation the company was to be quickly sold to its largest competitor, later reports indicated the change signaled a long-term move.
+In February 2014, the company hired Joe Davis as its new CEO.[9] In May 2014, the company moved its headquarters from the Pacific First Center to the U.S. Bancorp Tower in Downtown Portland.[10][11]
+Impact[edit]
+In 2009, Webtrends launched a transit ad campaign revolving around whether or not cyclists should pay a road tax. The ad asked, "Should Cyclists Pay A Road Tax?".[12] Both drivers and the cycling community reacted strongly to the ad, with strident opinion on both sides of the debate.[13] The aim of the campaign was to demonstrate the ability of the company's Web analytics to track the resulting online commentary around the issue.[13]
+Acquisitions[edit]
+Webtrends acquired ClickShift, an automated optimization product in online advertising, in December 2006.
+[14][15] ClickShift's technology was integrated into Webtrends' Marketing Lab suite, which includes its analytics and marketing warehouse products. The offering was re-branded as Webtrends Dynamic Search.[16] In August 2008, the product was relaunched as Webtrends Ad Director.[17]
+Webtrends acquired Seattle based Widemile, a provider of multivariate testing and targeting on July 30, 2009. The product was rebranded and relaunched as Webtrends Optimize the day the acquisition was made public.[18]
+Webtrends acquired San Francisco based Transpond, a maker of social microsites and applications that can be distributed over the web or Facebook, on August 10, 2010. The product was rebranded as Webtrends Apps at the time of the announcement and was later rebranded as Webtrends Social.[19][20]
+Webtrends acquired Reinvigorate from Culver City, CA based Media Temple Ventures. Reinvigorate developed a real time analytics web product with visit heat mapping technologies. The product was rebranded as Webtrends Reinvigorate[21] and later discontinued.[22]
+Products[edit]
+Webtrends offers a variety of web analytics products and services which focus on the collection and presentation of user behavior data for websites and mobile device applications.
+The New York Times described the company's offerings as "products that analyze spending by Web site visitors."[7]
+The core product, Webtrends Analytics, is available in both software and software as a service (SaaS) models. Over the years, Webtrends has released a number of SaaS products including Webtrends Segments, Webtrends Optimize, Action Center,[23] Webtrends Streams[24] and Webtrends Ads. 
+A 2012 "integration" deal linked WebTrends and Hootsuite.[25]
+Their 2013-released Email remarketing tool helps online marketers deal with in-the-moment data[26] about abandonment of virtual shopping carts by potential customers.[27]
+In February 2015, Webtrends Completed the worldwide rollout of Webtrends Explore, their ad-hoc analytics application.[28][29]
+In 2016, Webtrends announced it would release a new analytics product, Webtrends Infinity Analytics;[30] a year later they sold it to Oracle.[1]
+On 1st August 2018, a management buy-out saw their testing/personalisation offering Webtrends Optimize spin off into its own company.[31] It became headquartered in the UK, and headed up by the former Director of Optimisation Services Matthew Smith, who took the new role of CEO. Following the split, the Optimize product rebranded, re-platformed, and has been operating on its own ever since.
+Data collection[edit]
+Their software uses log file analysis and page tagging. Log analysis reads the files in which the web server records all its transactions. Via page tagging, parameter name value pairs are appended (either automatically by a JavaScript "tag" or manual hand-coding) to the query string of a gif image which resides on a data collection server. When a visitor loads the page in a browser, the browser sends a request to the data collection server so that it may load the gif image. The data collection server receives the request and logs the parameters included in the query string of the gif image.
+The software analyzes and organizes the captured data into reports for each configured 'Profile'. Reports are viewable by various means, most commonly through a web-based graphic user interface or a scheduled emailed export of the report in PDF or csv format. Collected data can also be viewed via raw log file delivery, REST and ODBC queries, and other products which use the Webtrends Data Extraction API. The web-based report presentation interface is highly configurable, allowing a Webtrends administrator to specify what information should be analyzed, where it should be presented, and to whom it should be available for viewing.
+In 2008 the New York Times, which then already owned the International Herald Tribune, used WebTrends to analyze how visitors to the IHT site arrived.  The above data collection process facilitated finding out the importance of search engines.[32]
+References[edit]
+^ a b Malia Spencer (April 4, 2017). "Webtrends sells big data product to Oracle, shrinks downtown workforce". BizJournals. slimmed down its product portfolio   and its workforce   ... last month.
+^ Laurie J. Flynn (January 18, 2001). "NetIQ buying WebTrends". The New York Times. WebTrends .. provides software and services for e-commerce
+^ Aliza Earnshaw (2007-11-01). "Webtrends sale not imminent". bizjournals.com/portland. Retrieved 2011-10-16.
+^ Victoria Shannon (January 18, 2001). "NetIQ Growth". The New York Times. .. would buy WebTrends .. software that monitors corporate Internet traffic.
+^ "NetIQ's WebTrends: Host With the Most". baselinemag.com. 14 August 2002.
+^ "NetIQ releases WebTrends 5.0". Advertising Age. June 21, 2002.
+^ a b News, Bloomberg (March 29, 2005). "Technology Briefing - Deals - NetIQ To Sell WebTrends Unit". The New York Times. {{cite news}}: |last1= has generic name (help)
+^ Aliza Earnshaw (2007-10-31). "Webtrends CEO gone". bizjournals.com/portland. Retrieved 2007-11-03.
+^ "Accounts and people ... Joe Davis joined Webtrends ... chief executive". The New York Times. February 24, 2014.
+^ Mike Rogoway (May 6, 2014). "Webtrends has new digs as it builds new image". The Oregonian. Retrieved May 15, 2014.
+^ Mike Rogoway (April 22, 2013). "Webtrends plans move to 'Big Pink' in downtown Portland". The Oregonian/OregonLive. Retrieved August 19, 2018.
+^ "New full-train MAX ad asks: Should cyclists pay road tax?". The Oregonian. 2009-07-02. Retrieved 2009-07-03.
+^ a b Rogoway, Mike (July 2, 2009). "Ads on bike tax have cyclists fuming". OregonLive.com.
+^ Carol Krol (December 6, 2006). "WebTrends acquires ClickShift". AdAge.com. Retrieved 2019-05-28.
+^ "Webtrends Acquires ClickShift". bizjournals.com/portland. 2006-12-04. Retrieved 2008-01-31.
+^ "Webtrends Buys Optimization Firm ClickShift". MarketingVOX. 2006-12-05. Retrieved 2008-02-07.
+^ "Webtrends appoints new president-CEO". BtoB Online. 2008-08-19. Retrieved 2008-08-21.
+^ "Official Webtrends Company Blog - We acquired Widemile; a leader in multivariate testing, optimization, and targeting". Retrieved 2010-11-25.
+^ "Webtrends Acquires Social Marketing Company Transpond". Retrieved 2010-11-25.
+^ "Webtrends Announces Availability Of New Price-Shattering Social Suite". Retrieved 2011-08-27.
+^ "Webtrends acquires analytics company Reinvigorate". Advertising Age. August 8, 2011.
+^ Matthew Hunt. "Has the plug been pulled on your Reinvigorate service? I didn't get any notice". facebook.com. Hi Matt, unfortunately we no longer offer this service.
+^ "Webtrends Action Center". Microsoft.com.
+^ Caitlin Epstein (2013-01-30). "Webtrends Re-Imagines Digital Marketing With Significant Enhancements to Webtrends Streams". Retrieved 2014-10-27.
+^ "HootSuite integrates with Webtrends for conversion metrics". Advertising Age. October 3, 2012.
+^ "Interview: Webtrends Delivers Marketing via In-The-Moment Analytics". July 1, 2013. Retrieved 2019-05-28.
+^ "Shopping cart abandonment remarketing". 2013.
+^ "Webtrends Marketing Warehouse Now Available As On Premise". Webtrends Explore. This built-in data exploration tool lets you drill into ...
+^ "Webtrends Completes Worldwide Rollout of Webtrends Explore".
+^ "What Is Webtrends Infinity - Webtrends". February 11, 2016.
+^ "Time Flies... 18 Months In | Webtrends Optimize Blog". Webtrends Optimize. 2019-12-31. Retrieved 2020-07-01.
+^ Doreen Carvajal (June 24, 2008). "The Times and I.H.T. Study Web Merger". The New York Times.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Webtrends&oldid=1147636323"

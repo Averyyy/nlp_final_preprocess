@@ -1,0 +1,402 @@
+Standard way to send messages
+Multimedia Messaging Service  (MMS) is a standard way to send messages that include multimedia content to and from a mobile phone over a cellular network. Users and providers may refer to such a message as a PXT, a picture message, or a multimedia message.[1] The MMS standard extends the core SMS (Short Message Service) capability, allowing the exchange of text messages greater than 160 characters in length. Unlike text-only SMS, MMS can deliver a variety of media, including up to forty seconds of video, one image, a slideshow[2] of multiple images, or audio.
+The most common use involves sending photographs from camera-equipped handsets.[citation needed][needs update] Media companies have utilized MMS on a commercial basis as a method of delivering news and entertainment content, and retailers have deployed it as a tool for delivering scannable coupon codes, product images, videos, and other information.
+The 3GPP and WAP groups fostered the development of the MMS standard, which is now continued by the Open Mobile Alliance (OMA).
+Multimedia messaging service was built using the technology of SMS messaging, first developed in 1984[2] as a captive technology which enabled service providers to "collect a fee every time anyone snaps a photo."[3]
+The commercial introduction of MMS started in March 2002.[4]
+Between 2010 and 2013, MMS traffic in the U.S. increased by 70% from 57 billion to 96 billion messages sent.[5] This is due in part to the wide adoption of smartphones.
+Technical description[edit]
+MMS messages are delivered in a different way from SMS. The first step is for the sending device to encode the multimedia content in a fashion similar to sending a MIME message (MIME content formats are defined in the MMS Message Encapsulation specification). The message is then forwarded to the carrier's MMS store and forward server, known as the MMSC (Multimedia Messaging Service Centre). If the receiver is on a carrier different from the sender, then the MMSC acts as a relay, and forwards the message to the MMSC of the recipient's carrier using the Internet.[6]
+Once the recipient's MMSC has received a message, it first determines whether the receiver's handset is "MMS capable" or not.  If it supports the standards for receiving MMS, the content is extracted and sent to a temporary storage server with an HTTP front-end. An SMS "control message" containing the URL of the content is then sent to the recipient's handset to trigger the receiver's WAP browser to open and receive the content from the embedded URL. Several other messages are exchanged to indicate the status of the delivery attempt.[7]  Before delivering content, some MMSCs also include a conversion service that will attempt to modify the multimedia content into a format suitable for the receiver. This is known as "content adaptation".
+If the receiver's handset is not MMS capable, the message is usually delivered to a web-based service from where the content can be viewed from a normal internet browser.  The URL for the content is usually sent to the receiver's phone in a normal text message. This behavior is usually known as a "legacy experience" since content can still be received by the user.
+The method for determining whether a handset is MMS capable is not specified by the standards. A database is usually maintained by the operator, and in it each mobile phone number is marked as being associated with a legacy handset or not. This method is unreliable, however, because customers can independently change their handsets, and many of these databases are not updated dynamically.
+MMS does not utilize operator-maintained "data" plans to distribute multimedia content; they are used only if the user clicks links inside the message.
+E-mail and web-based gateways to the MMS system are common. On the reception side, the content servers can typically receive service requests both from WAP and normal HTTP browsers, so delivery via the web is simple. For sending from external sources to handsets, most carriers allow a MIME encoded message to be sent to the receiver's phone number using a special e-mail address combining the recipient's public phone number and a special domain name, which is typically carrier-specific.
+Challenges[edit]
+There are some challenges with MMS that do not exist with SMS:
+ Handset configuration can cause problems sending and receiving MMS messages.
+Content adaptation:[8] Multimedia content created by one brand of MMS phone may not be entirely compatible with the capabilities of the recipient's MMS phone. In the MMS architecture, the recipient MMSC is responsible for providing for content adaptation (e.g., image resizing, audio codec transcoding, etc.), if this feature is enabled by the mobile network operator.  When content adaptation is supported by a network operator, its MMS subscribers enjoy compatibility with a larger network of MMS users than would otherwise be available.
+Distribution lists: Current MMS specifications do not include distribution lists nor methods by which large numbers of recipients can be conveniently addressed, particularly by content providers, called Value-added service providers (VASPs) in 3GPP. Since most SMSC vendors have adopted FTP as an ad-hoc method by which large distribution lists are transferred to the SMSC prior to being used in a bulk-messaging SMS submission, it is expected[timeframe?] that MMSC vendors will also adopt FTP.
+Bulk messaging: The flow of peer-to-peer MMS messaging involves several over-the-air transactions that become inefficient when MMS is used to send messages to large numbers of subscribers, as is typically the case for VASPs. For example, when one MMS message is submitted to a very large number of recipients, it is possible to receive a delivery report and read-reply report for each and every recipient. Future MMS specification work is likely to optimize and reduce the transactional overhead for the bulk-messaging case.
+Handset configuration: Unlike SMS, MMS requires a number of handset parameters to be set. Poor handset configuration is often blamed as the first point of failure for many users. Service settings are sometimes preconfigured on the handset, but mobile operators are now looking at new device management technologies as a means of delivering the necessary settings for data services (MMS, WAP, etc.) via over-the-air programming (OTA).
+WAP Push: Few mobile network operators offer direct connectivity to their MMSCs for content providers.[citation needed]  This has resulted in many content providers using WAP push as the only method available to deliver 'rich content' to mobile handsets.  WAP push enables 'rich content' to be delivered to a handset by specifying the URL (via binary SMS) of a pre-compiled MMS, hosted on a content provider's web server.  A consequence is that the receiver who pays WAP per kb or minute (as opposed to a flat monthly fee) pays for receiving the MMS, as opposed to only paying for sending one, and also paying a different rate.
+Although the standard does not specify a maximum size for a message, 300 kB and 600 kB are the recommended sizes used by networks[9] for compatibility with MMS 1.2 and MMS 1.3 devices respectively. The limit for the first generation of MMS was 50 kB.[10]
+Interfaces[edit]
+Main article: MMS Architecture
+ MMSC Reference Architecture
+MM1: the 3GPP interface between MMS User Agent and MMS Center (MMSC, the combination of the MMS Relay & Server)
+MM2: the 3GPP interface between MMS Relay and MMS Server
+MM3: the 3GPP interface between MMSC and external servers
+MM4: the 3GPP interface between different MMSCs
+MM5: the 3GPP interface between MMSC and HLR
+MM6: the 3GPP interface between MMSC and user databases
+MM7: the 3GPP interface between MMS VAS applications and MMSC
+MM8: the 3GPP interface between MMSC and the billing systems
+MM9: the 3GPP interface between MMSC and an online charging system
+MM10: the 3GPP interface between MMSC and a message service control function
+MM11: the 3GPP interface between MMSC and an external transcoder
+See also[edit]
+Enhanced Messaging Service (EMS)
+Rich Communication Services (RCS)
+Mobile marketing
+Short code
+Synchronized Multimedia Integration Language
+References[edit]
+^ "How to send a PXT". Vodafone Hutchison Australia Pty Limited. 2015. Archived from the original on 2017-05-10. Retrieved 2016-02-02. PXT is a really easy way to send a picture, sound, video, animation or text to another phone or email address. They're also known as MMS, picture messages or multimedia messages. [...] If you're used to sending TXT messages, sending a PXT is pretty similar.
+^ a b "The History of Multimedia Messaging (MMS) - MMS London". www.mmsworldlondon.com. Archived from the original on 2017-05-04. Retrieved 2016-12-27.
+^ Parks, Bob (October 2000). "Wired Magazine, The Big Picture - Philippe Kahn". Wired. Archived from the original on 2006-03-26. Retrieved 2006-04-20.
+^ Le Bodic, Gwena l (2005). Mobile Messaging Technologies and Services: SMS, EMS and MMS (2nd ed.). John Wiley & Sons. p. 208. ISBN 0-470-01143-2.
+^ "CTIA's Annual Survey Says US Wireless Providers Handled 3.2 Trillion Megabytes of Data Traffic in 2013 for a 120 Percent Increase Over 2012". www.ctia.org. Archived from the original on 2014-07-23. Retrieved 2014-07-29.
+^ "Overview of MMS" Archived 2009-08-27 at the Wayback Machine, mbuni
+^ "Sending MMS Notifications and Content" Archived 2009-09-25 at the Wayback Machine, now.sms
+^ Coulombe, St phane; Guido Grassel (July 2004). "Multimedia Adaptation for the Multimedia Messaging Service". IEEE Communications Magazine. 42 (7): 120 126. doi:10.1109/MCOM.2004.1316543. S2CID 4785100.
+^ "MMS definition", GSM Arena
+^ "MMS Developer's Guide" (PDF). Ericsson Mobility World USA. October 2001. Retrieved May 12, 2021.
+External links[edit]
+Wikimedia Commons has media related to MMS.
+"Multimedia Messaging Service 1.3". Open Mobile Alliance. Retrieved 14 Jan 2009.
+"Consumer Best Practices Guide for Cross-Carrier Mobile Content Programs (United States)" (PDF). Mobile Marketing Association. Archived from the original (PDF) on 17 December 2011. Retrieved 14 Jan 2009.
+Eicher, Richard (13 Jan 2009). "Advances in MMS offer interactive tools to mobile marketers". Mobile Marketer. Retrieved 14 Jan 2009.
+Morrison, Diane See (17 Sep 2008). "BMW MMS Campaign Gets 30 Percent Conversion Rate". mocoNews.net. Archived from the original on 21 September 2008. Retrieved 14 Jan 2009.
+vteMobile phonesMobilenetworks,protocols
+Channel capacity
+Frequencies
+Multi-band
+Network operator
+list
+Roaming
+Signal
+SIM card
+dual SIM
+SIM lock
+Standards comparison
+Tethering
+VoIP
+WAP
+XHTML-MP
+Generations
+Analogue:
+0G
+1G
+Digital:
+2G
+3G
+adoption
+3.5G
+4G
+4.5G
+5G
+6G
+Generaloperation
+Features
+GSM
+services
+History
+Operating system
+Security
+phone cloning
+Telephony
+airplane mode
+Text messaging
+SMS
+MMS
+RCS
+Spam
+Tracking
+Web browsing
+Mobiledevices
+Manufacturers
+3D phone
+Camera phone
+Car phone
+Feature phone
+Projector phone
+Satellite phone
+Smartphone
+Form factors
+Bar
+Flip
+Phablet
+Slider
+Slate
+Smartwatch
+Fold
+Smartphones
+Android devices
+rooting
+BlackBerry 10
+iPhone
+iOS jailbreaking
+Open-source mobile phones
+Symbian devices
+Windows Phone devices
+MobilespecificsoftwareApps
+Development
+Distribution
+Management
+Cloud computing
+Commerce
+Banking
+Marketing
+advertising
+campaigns
+Payments
+contactless
+donating
+Ticketing
+Content
+Blogging
+Email
+Gambling
+Gaming
+Health
+Instant messaging
+Learning
+Music
+News
+Search
+local
+Social
+address book
+Television
+Culture
+Box breaking
+Charms
+Comics
+Dating
+Japanese culture
+Novels
+Ringtones
+silent mode
+Selfie
+Txt-spk
+Wallpaper
+Environmentand health
+BlackBerry thumb
+Driving safety
+Electronic waste
+External power supply
+Mental health from overuse
+Phantom vibration syndrome
+Radiation and health
+Recycling
+Law
+Carrier IQ
+Legality of recording by civilians
+Mobile phones in prison
+Photography and the law
+Telephone tapping
+Texting while driving
+USA use restrictions while driving
+ Telecommunication portal
+ Telephones portal
+ Category
+vteStandards of Open Mobile AllianceStandards
+FUMO
+MMS
+OMA BCAST
+OMA CP
+OMA DM
+OMA DRM
+OMA DS
+OMA IMPS / Wireless Village
+OMA LWM2M
+OMA PoC
+OMA Presence SIMPLE
+OMA SE
+WAP
+WBMP
+WBXML
+WML
+WMLScript
+WSP
+WTP
+XHTML Mobile Profile
+MLP
+SCOMO
+vteTelecommunicationsHistory
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Data compression
+audio
+DCT
+image
+video
+Digital media
+Internet video
+online video platform
+social media
+streaming
+Drums
+Edholm's law
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Information Age
+Information revolution
+Internet
+Mass media
+Mobile phone
+Smartphone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Semiconductor
+device
+MOSFET
+transistor
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+digital
+streaming
+Undersea telegraph line
+Videotelephony
+Whistled language
+Wireless revolution
+Pioneers
+Nasir Ahmed
+Edwin Howard Armstrong
+Mohamed M. Atalla
+John Logie Baird
+Paul Baran
+John Bardeen
+Alexander Graham Bell
+Emile Berliner
+Tim Berners-Lee
+Francis Blake (telephone)
+Jagadish Chandra Bose
+Charles Bourseul
+Walter Houser Brattain
+Vint Cerf
+Claude Chappe
+Yogen Dalal
+Daniel Davis Jr.
+Donald Davies
+Amos Dolbear
+Thomas Edison
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Oliver Heaviside
+Robert Hooke
+Erna Schneider Hoover
+Harold Hopkins
+Gardiner Greene Hubbard
+Internet pioneers
+Bob Kahn
+Dawon Kahng
+Charles K. Kao
+Narinder Singh Kapany
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Robert Metcalfe
+Antonio Meucci
+Samuel Morse
+Jun-ichi Nishizawa
+Charles Grafton Page
+Radia Perlman
+Alexander Stepanovich Popov
+Tivadar Pusk s
+Johann Philipp Reis
+Claude Shannon
+Almon Brown Strowger
+Henry Sutton
+Charles Sumner Tainter
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Thomas A. Watson
+Charles Wheatstone
+Vladimir K. Zworykin
+Transmissionmedia
+Coaxial cable
+Fiber-optic communication
+optical fiber
+Free-space optical communication
+Molecular communication
+Radio waves
+wireless
+Transmission line
+data transmission circuit
+telecommunication circuit
+Network topologyand switching
+Bandwidth
+Links
+Nodes
+terminal
+Network switching
+circuit
+packet
+Telephone exchange
+Multiplexing
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+Concepts
+Communication protocol
+Computer network
+Data transmission
+Store and forward
+Telecommunications equipment
+Types of network
+Cellular network
+Ethernet
+ISDN
+LAN
+Mobile
+NGN
+Public Switched Telephone
+Radio
+Television
+Telex
+UUCP
+WAN
+Wireless network
+Notable networks
+ARPANET
+BITNET
+CYCLADES
+FidoNet
+Internet
+Internet2
+JANET
+NPL network
+Toasternet
+Usenet
+Locations
+Africa
+Americas
+North
+South
+Antarctica
+Asia
+Europe
+Oceania
+(Global telecommunications regulation bodies)
+ Telecommunication portal
+ Category
+ Outline
+ Commons
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Multimedia_Messaging_Service&oldid=1146788606"

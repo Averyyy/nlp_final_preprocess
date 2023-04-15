@@ -1,0 +1,550 @@
+Broadband cellular network technology
+This article is about the mobile internet access standard. For other uses, see 4G (disambiguation).
+Part of a series on theMobile phone generations
+Analog
+0G1G (1.5G)
+Digital
+2G (2.5G, 2.75G, 2.9G)3G (3.5G, 3.75G, 3.9G/3.95G)4G (4G/4.5G,4.5G,4.9G)5G (5.25G)6G
+Mobile telecommunicationsvte
+4G[1] is the fourth generation of broadband cellular network technology, succeeding 3G and preceding 5G. A 4G system must provide capabilities defined by ITU in IMT Advanced. Potential and current applications include amended mobile web access, IP telephony, gaming services, high-definition mobile TV, video conferencing, and 3D television.
+However, in December 2010, the ITU expanded its definition of 4G to include Long Term Evolution (LTE), Worldwide Interoperability for Microwave Access (WiMAX), and Evolved High Speed Packet Access (HSPA+).[2]
+The first-release WiMAX standard was commercially deployed in South Korea in 2006 and has since been deployed in most parts of the world.
+The first-release LTE standard was commercially deployed in Oslo, Norway, and Stockholm, Sweden in 2009, and has since been deployed throughout most parts of the world. However, it has been debated whether the first-release versions should be considered 4G. The 4G wireless cellular standard was defined by the International Telecommunication Union (ITU) and specifies the key characteristics of the standard, including transmission technology and data speeds.
+Each generation of wireless cellular technology has introduced increased bandwidth speeds and network capacity. 4G has speeds of up to 150 Mbit/s download and 50 Mbit/s upload, whereas 3G had a peak speed of 7.2 Mbit/s download and 2 Mbit/s upload.[3]
+As of 2021,[update] 4G technology constitutes 58% of the worldwide mobile telecommunication technologies market.[4]
+Technical overview[edit]
+In November 2008, the International Telecommunication Union-Radio communications sector (ITU-R) specified a set of requirements for 4G standards, named the International Mobile Telecommunications Advanced (IMT-Advanced) specification, setting peak speed requirements for 4G service at 100 megabits per second (Mbit/s)(=12.5 megabytes per second)   for high mobility communication (such as from trains and cars) and 1 gigabit per second (Gbit/s) for low mobility communication (such as pedestrians and stationary users).[5]
+Since the first-release versions of Mobile WiMAX and LTE support much less than 1 Gbit/s peak bit rate, they are not fully IMT-Advanced compliant, but are often branded 4G by service providers. According to operators, a generation of the network refers to the deployment of a new non-backward-compatible technology. On December 6, 2010, ITU-R recognized that these two technologies, as well as other beyond-3G technologies that do not fulfill the IMT-Advanced requirements, could nevertheless be considered "4G", provided they represent forerunners to IMT-Advanced compliant versions and "a substantial level of improvement in performance and capabilities with respect to the initial third generation systems now deployed".[6]
+Mobile WiMAX Release 2 (also known as WirelessMAN-Advanced or IEEE 802.16m) and LTE Advanced
+(LTE-A) are IMT-Advanced compliant backwards compatible versions of the above two systems, standardized during the spring 2011,[citation needed] and promising speeds in the order of 1 Gbit/s. Services were expected in 2013.[needs update]
+As opposed to earlier generations, a 4G system does not support traditional circuit-switched telephony service, but instead relies on all-Internet Protocol (IP) based communication such as IP telephony. As seen below, the spread spectrum radio technology used in 3G systems is abandoned in all 4G candidate systems and replaced by OFDMA multi-carrier transmission and other frequency-domain equalization (FDE) schemes, making it possible to transfer very high bit rates despite extensive multi-path radio propagation (echoes). The peak bit rate is further improved by smart antenna arrays for multiple-input multiple-output (MIMO) communications.
+Background[edit]
+In the field of mobile communications, a "generation" generally refers to a change in the fundamental nature of the service, non-backwards-compatible transmission technology, higher peak bit rates, new frequency bands, wider channel frequency bandwidth in Hertz, and higher capacity for many simultaneous data transfers (higher system spectral efficiency in bit/second/Hertz/site).
+New mobile generations have appeared about every ten years since the first move from 1981 analog (1G) to digital (2G) transmission in 1992. This was followed, in 2001, by 3G multi-media support, spread spectrum transmission and a minimum peak bit rate of 200 kbit/s, in 2011/2012 to be followed by "real" 4G, which refers to all-IP packet-switched networks giving mobile ultra-broadband (gigabit speed) access.
+While the ITU has adopted recommendations for technologies that would be used for future global communications, they do not actually perform the standardization or development work themselves, instead relying on the work of other standard bodies such as IEEE, WiMAX Forum, and 3GPP.
+In the mid-1990s, the ITU-R standardization organization released the IMT-2000 requirements as a framework for what standards should be considered 3G systems, requiring 2000 kbit/s peak bit rate.[7] In 2008, ITU-R specified the IMT Advanced (International Mobile Telecommunications Advanced) requirements for 4G systems.
+The fastest 3G-based standard in the UMTS family is the HSPA+ standard, which has been commercially available since 2009 and offers 21 Mbit/s downstream (11 Mbit/s upstream) without MIMO, i.e. with only one antenna, and in 2011 accelerated up to 42 Mbit/s peak bit rate downstream using either DC-HSPA+ (simultaneous use of two 5 MHz UMTS carriers)[8] or
+2x2 MIMO. In theory speeds up to 672 Mbit/s are possible, but have not been deployed yet. The fastest 3G-based standard in the CDMA2000 family is the EV-DO Rev. B, which is available since 2010 and offers 15.67 Mbit/s downstream.
+Frequencies for 4G LTE networks[edit]
+See here: LTE frequency bands
+IMT-Advanced requirements[edit]
+This article refers to 4G using IMT-Advanced (International Mobile Telecommunications Advanced), as defined by ITU-R. An IMT-Advanced cellular system must fulfill the following requirements:[9]
+Be based on an all-IP packet switched network.
+Have peak data rates of up to approximately 100 Mbit/s for high mobility such as mobile access and up to approximately 1 Gbit/s for low mobility such as nomadic/local wireless access.[5]
+Be able to dynamically share and use the network resources to support more simultaneous users per cell.
+Use scalable channel bandwidths of 5 20 MHz, optionally up to 40 MHz.[5][10]
+Have peak link spectral efficiency of 15 bit/s Hz in the downlink, and 6.75 bit/s Hz in the up link (meaning that 1 Gbit/s in the downlink should be possible over less than 67 MHz bandwidth).
+System spectral efficiency is, in indoor cases, 3 bit/s Hz cell for downlink and 2.25 bit/s Hz cell for up link.[5]
+Smooth handovers across heterogeneous networks.
+In September 2009, the technology proposals were submitted to the International Telecommunication Union (ITU) as 4G candidates.[11] Basically all proposals are based on two technologies:
+LTE Advanced standardized by the 3GPP
+802.16m standardized by the IEEE
+Implementations of Mobile WiMAX and first-release LTE were largely considered a stopgap solution that would offer a considerable boost until WiMAX 2 (based on the 802.16m specification) and LTE Advanced was deployed. The latter's standard versions were ratified in spring 2011.
+The first set of 3GPP requirements on LTE Advanced was approved in June 2008.[12] LTE Advanced was standardized in 2010 as part of Release 10 of the 3GPP specification.
+Some sources consider first-release LTE and Mobile WiMAX implementations as pre-4G or near-4G, as they do not fully comply with the planned requirements of 1 Gbit/s for stationary reception and 100 Mbit/s for mobile.
+Confusion has been caused by some mobile carriers who have launched products advertised as 4G but which according to some sources are pre-4G versions, commonly referred to as 3.9G, which do not follow the ITU-R defined principles for 4G standards, but today can be called 4G according to ITU-R. Vodafone Netherlands for example, advertised LTE as 4G, while advertising  LTE Advanced as their '4G+' service. A common argument for branding 3.9G systems as new-generation is that they use different frequency bands from 3G technologies; that they are based on a new radio-interface paradigm; and that the standards are not backwards compatible with 3G, whilst some of the standards are forwards compatible with IMT-2000 compliant versions of the same standards.
+System standards[edit]
+IMT-2000 compliant 4G standards[edit]
+As of October 2010, ITU-R Working Party 5D approved two industry-developed technologies (LTE Advanced and WirelessMAN-Advanced)[13] for inclusion in the ITU's International Mobile Telecommunications Advanced program (IMT-Advanced program), which is focused on global communication systems that will be available several years from now.
+LTE Advanced[edit]
+Main article: LTE Advanced
+LTE Advanced (Long Term Evolution Advanced) is a candidate for IMT-Advanced standard, formally submitted by the 3GPP organization to ITU-T in the fall 2009, and expected to be released in 2013.[needs update] The target of 3GPP LTE Advanced is to reach and surpass the ITU requirements.[14] LTE Advanced is essentially an enhancement to LTE. It is not a new technology, but rather an improvement on the existing LTE network. This upgrade path makes it more cost effective for vendors to offer LTE and then upgrade to LTE Advanced which is similar to the upgrade from WCDMA to HSPA. LTE and LTE Advanced will also make use of additional spectrums and multiplexing to allow it to achieve higher data speeds. Coordinated Multi-point Transmission will also allow more system capacity to help handle the enhanced data speeds.
+Data speeds of LTE-Advanced
+LTE Advanced
+Peak download
+1000 Mbit/s
+Peak upload
+0500 Mbit/s
+IEEE 802.16m or WirelessMAN-Advanced[edit]
+This section needs to be updated. Please help update this article to reflect recent events or newly available information. (August 2021)
+The IEEE 802.16m or WirelessMAN-Advanced (WiMAX 2) evolution of 802.16e is under development, with the objective to fulfill the IMT-Advanced criteria of 1 Gbit/s for stationary reception and 100 Mbit/s for mobile reception.[15]
+Forerunner versions[edit]
+Long Term Evolution (LTE)[edit]
+Main article: LTE (telecommunication)
+ Telia-branded Samsung LTE modem
+ Huawei 4G+ Dual Band Modem
+The pre-4G 3GPP Long Term Evolution (LTE) technology is often branded "4G   LTE", but the first LTE release does not fully comply with the IMT-Advanced requirements. LTE has a theoretical net bit rate capacity of up to 100 Mbit/s in the downlink and 50 Mbit/s in the uplink if a 20 MHz channel is used   and more if multiple-input multiple-output (MIMO), i.e. antenna arrays, are used.
+The physical radio interface was at an early stage named High Speed OFDM Packet Access (HSOPA), now named Evolved UMTS Terrestrial Radio Access (E-UTRA).
+The first LTE USB dongles do not support any other radio interface.
+The world's first publicly available LTE service was opened in the two Scandinavian capitals, Stockholm (Ericsson and Nokia Siemens Networks systems) and Oslo (a Huawei system) on December 14, 2009, and branded 4G. The user terminals were manufactured by Samsung.[16] As of November 2012, the five publicly available LTE services in the United States are provided by MetroPCS,[17] Verizon Wireless,[18] AT&T Mobility, U.S. Cellular,[19] Sprint,[20] and T-Mobile US.[21]
+T-Mobile Hungary launched a public beta test (called friendly user test) on 7 October 2011, and has offered commercial 4G LTE services since 1 January 2012.[citation needed]
+In South Korea, SK Telecom and LG U+ have enabled access to LTE service since 1 July 2011 for data devices, slated to go nationwide by 2012.[22] KT Telecom closed its 2G service by March 2012 and completed nationwide LTE service in the same frequency around 1.8 GHz by June 2012.
+In the United Kingdom, LTE services were launched by EE in October 2012,[23] by O2 and Vodafone in August 2013,[24] and by Three in December 2013.[25]
+Data speeds of LTE[3]
+LTE
+Peak download
+0150 Mbit/s
+Peak upload
+0050 Mbit/s
+Mobile WiMAX (IEEE 802.16e)[edit]
+The Mobile WiMAX (IEEE 802.16e-2005) mobile wireless broadband access (MWBA) standard (also known as WiBro in South Korea) is sometimes branded 4G, and offers peak data rates of 128 Mbit/s downlink and 56 Mbit/s uplink over 20 MHz wide channels.[citation needed]
+In June 2006, the world's first commercial mobile WiMAX service was opened by KT in Seoul, South Korea.[26]
+Sprint has begun using Mobile WiMAX, as of 29 September 2008, branding it as a "4G" network even though the current version does not fulfill the IMT Advanced requirements on 4G systems.[27]
+In Russia, Belarus and Nicaragua WiMax broadband internet access were offered by a Russian company Scartel, and was also branded 4G, Yota.[28]
+Data speeds of WiMAX
+WiMAX
+Peak download
+0128 Mbit/s
+Peak upload
+0056 Mbit/s
+In the latest version of the standard, WiMax 2.1, the standard has been updated to be not compatible with earlier WiMax standard, and is instead interchangeable with LTE-TDD system, effectively merging WiMax standard with LTE.
+TD-LTE for China market[edit]
+This section possibly contains synthesis of material which does not verifiably mention or relate to the main topic. Relevant discussion may be found on the talk page. (April 2017) (Learn how and when to remove this template message)
+Just as Long-Term Evolution (LTE) and WiMAX are being vigorously promoted in the global telecommunications industry, the former (LTE) is also the most powerful 4G mobile communications leading technology and has quickly occupied the Chinese market. TD-LTE, one of the two variants of the LTE air interface technologies, is not yet mature, but many domestic and international wireless carriers are, one after the other turning to TD-LTE.
+IBM's data shows that 67% of the operators are considering LTE because this is the main source of their future market. The above news also confirms IBM's statement that while only 8% of the operators are considering the use of WiMAX, WiMAX can provide the fastest network transmission to its customers on the market and could challenge LTE.
+TD-LTE is not the first 4G wireless mobile broadband network data standard, but it is China's 4G standard that was amended and published by China's largest telecom operator   China Mobile. After a series of field trials, is expected to be released into the commercial phase in the next two years. Ulf Ewaldsson, Ericsson's vice president said: "the Chinese Ministry of Industry and China Mobile in the fourth quarter of this year will hold a large-scale field test, by then, Ericsson will help the hand." But viewing from the current development trend, whether this standard advocated by China Mobile will be widely recognized by the international market is still debatable.
+Discontinued candidate systems[edit]
+UMB (formerly EV-DO Rev. C)[edit]
+Main article: Ultra Mobile Broadband
+UMB (Ultra Mobile Broadband) was the brand name for a discontinued 4G project within the 3GPP2 standardization group to improve the CDMA2000 mobile phone standard for next generation applications and requirements. In November 2008, Qualcomm, UMB's lead sponsor, announced it was ending development of the technology, favoring LTE instead.[29] The objective was to achieve data speeds over 275 Mbit/s downstream and over 75 Mbit/s upstream.
+Flash-OFDM[edit]
+At an early stage the Flash-OFDM system was expected to be further developed into a 4G standard.
+iBurst and MBWA (IEEE 802.20) systems[edit]
+The iBurst system (or HC-SDMA, High Capacity Spatial Division Multiple Access) was at an early stage considered to be a 4G predecessor. It was later further developed into the Mobile Broadband Wireless Access (MBWA) system, also known as IEEE 802.20.
+Principal technologies in all candidate systems[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2015) (Learn how and when to remove this template message)
+Key features[edit]
+The following key features can be observed in all suggested 4G technologies:
+Physical layer transmission techniques are as follows:[30]
+MIMO: To attain ultra high spectral efficiency by means of spatial processing including multi-antenna and multi-user MIMO
+Frequency-domain-equalization, for example multi-carrier modulation (OFDM) in the downlink or single-carrier frequency-domain-equalization (SC-FDE) in the uplink: To exploit the frequency selective channel property without complex equalization
+Frequency-domain statistical multiplexing, for example (OFDMA) or (single-carrier FDMA) (SC-FDMA, a.k.a. linearly precoded OFDMA, LP-OFDMA) in the uplink: Variable bit rate by assigning different sub-channels to different users based on the channel conditions
+Turbo principle error-correcting codes: To minimize the required SNR at the reception side
+Channel-dependent scheduling: To use the time-varying channel
+Link adaptation: Adaptive modulation and error-correcting codes
+Mobile IP utilized for mobility
+IP-based femtocells (home nodes connected to fixed Internet broadband infrastructure)
+As opposed to earlier generations, 4G systems do not support circuit switched telephony. IEEE 802.20, UMB and OFDM standards[31] lack soft-handover support, also known as cooperative relaying.
+Multiplexing and access schemes[edit]
+This section contains information of unclear or questionable importance or relevance to the article's subject matter. Please help improve this section by clarifying or removing indiscriminate details. If importance cannot be established, the section is likely to be moved to another article, pseudo-redirected, or removed.Find sources: "4G" news  newspapers  books  scholar  JSTOR (May 2010) (Learn how and when to remove this template message)
+Recently, new access schemes like Orthogonal FDMA (OFDMA), Single Carrier FDMA (SC-FDMA), Interleaved FDMA, and Multi-carrier CDMA (MC-CDMA) are gaining more importance for the next generation systems. These are based on efficient FFT algorithms and frequency domain equalization, resulting in a lower number of multiplications per second. They also make it possible to control the bandwidth and form the spectrum in a flexible way. However, they require advanced dynamic channel allocation and adaptive traffic scheduling.
+WiMax is using OFDMA in the downlink and in the uplink. For the LTE (telecommunication), OFDMA is used for the downlink; by contrast, Single-carrier FDMA is used for the uplink since OFDMA contributes more to the PAPR related issues and results in nonlinear operation of amplifiers. IFDMA provides less power fluctuation and thus requires energy-inefficient linear amplifiers. Similarly, MC-CDMA is in the proposal for the IEEE 802.20 standard. These access schemes offer the same efficiencies as older technologies like CDMA. Apart from this, scalability and higher data rates can be achieved.
+The other important advantage of the above-mentioned access techniques is that they require less complexity for equalization at the receiver. This is an added advantage especially in the MIMO environments since the spatial multiplexing transmission of MIMO systems inherently require high complexity equalization at the receiver.
+In addition to improvements in these multiplexing systems, improved modulation techniques are being used. Whereas earlier standards largely used Phase-shift keying, more efficient systems such as 64QAM are being proposed for use with the 3GPP Long Term Evolution standards.
+IPv6 support[edit]
+Unlike 3G, which is based on two parallel infrastructures consisting of circuit switched and packet switched network nodes, 4G is based on packet switching only. This requires low-latency data transmission.
+As IPv4 addresses are (nearly) exhausted,[Note 1] IPv6 is essential to support the large number of wireless-enabled devices that communicate using IP. By increasing the number of IP addresses available, IPv6 removes the need for network address translation (NAT), a method of sharing a limited number of addresses among a larger group of devices, which has a number of problems and limitations. When using IPv6, some kind of NAT is still required for communication with legacy IPv4 devices that are not also IPv6-connected.
+As of June 2009[update], Verizon has posted Specifications [1] that require any 4G devices on its network to support IPv6.[32]
+Advanced antenna systems[edit]
+Main articles: MIMO and Multi-user MIMO
+The performance of radio communications depends on an antenna system, termed smart or intelligent antenna. Recently, multiple antenna technologies are emerging to achieve the goal of 4G systems such as high rate, high reliability, and long range communications. In the early 1990s, to cater for the growing data rate needs of data communication, many transmission schemes were proposed. One technology, spatial multiplexing, gained importance for its bandwidth conservation and power efficiency. Spatial multiplexing involves deploying multiple antennas at the transmitter and at the receiver. Independent streams can then be transmitted simultaneously from all the antennas. This technology, called MIMO (as a branch of intelligent antenna), multiplies the base data rate by (the smaller of) the number of transmit antennas or the number of receive antennas. Apart from this, the reliability in transmitting high speed data in the fading channel can be improved by using more antennas at the transmitter or at the receiver. This is called transmit or receive diversity. Both transmit/receive diversity and transmit spatial multiplexing are categorized into the space-time coding techniques, which does not necessarily require the channel knowledge at the transmitter. The other category is closed-loop multiple antenna technologies, which require channel knowledge at the transmitter.
+Open-wireless Architecture and Software-defined radio (SDR)[edit]
+One of the key technologies for 4G and beyond is called Open Wireless Architecture (OWA), supporting multiple wireless air interfaces in an open architecture platform.
+SDR is one form of open wireless architecture (OWA). Since 4G is a collection of wireless standards, the final form of a 4G device will constitute various standards. This can be efficiently realized using SDR technology, which is categorized to the area of the radio convergence.
+History of 4G and pre-4G technologies[edit]
+The 4G system was originally envisioned by the DARPA, the US Defense Advanced Research Projects Agency.[citation needed] DARPA selected the distributed architecture and end-to-end Internet protocol (IP), and believed at an early stage in peer-to-peer networking in which every mobile device would be both a transceiver and a router for other devices in the network, eliminating the spoke-and-hub weakness of 2G and 3G cellular systems.[33][page needed] Since the 2.5G GPRS system, cellular systems have provided dual infrastructures: packet switched nodes for data services, and circuit switched nodes for voice calls. In 4G systems, the circuit-switched infrastructure is abandoned and only a packet-switched network is provided, while 2.5G and 3G systems require both packet-switched and circuit-switched network nodes, i.e. two infrastructures in parallel. This means that in 4G traditional voice calls are replaced by IP telephony.
+In 2002, the strategic vision for 4G which ITU designated as IMT Advanced was laid out.
+In 2004, LTE was first proposed by NTT DoCoMo of Japan.[34]
+In 2005, OFDMA transmission technology is chosen as candidate for the HSOPA downlink, later renamed 3GPP Long Term Evolution (LTE) air interface E-UTRA.
+In November 2005, KT Corporation demonstrated mobile WiMAX service in Busan, South Korea.[35]
+In April 2006, KT Corporation started the world's first commercial mobile WiMAX service in Seoul, South Korea.[36]
+In mid-2006, Sprint announced that it would invest about US$5 billion in a WiMAX technology buildout over the next few years[37] ($6.72 billion in real terms[38]). Since that time Sprint has faced many setbacks that have resulted in steep quarterly losses. On 7 May 2008, Sprint, Imagine, Google, Intel, Comcast, Bright House, and Time Warner announced a pooling of an average of 120 MHz of spectrum; Sprint merged its Xohm WiMAX division with Clearwire to form a company which will take the name "Clear".
+In February 2007, the Japanese company NTT DoCoMo tested a 4G communication system prototype with 4 4 MIMO called VSF-OFCDM at 100 Mbit/s while moving, and 1 Gbit/s while stationary. NTT DoCoMo completed a trial in which they reached a maximum packet transmission rate of approximately 5 Gbit/s in the downlink with 12 12 MIMO using a 100 MHz frequency bandwidth while moving at 10 km/h,[39] and is planning on releasing the first commercial network in 2010.
+In September 2007, NTT Docomo demonstrated e-UTRA data rates of 200 Mbit/s with power consumption below 100 mW during the test.[40]
+In January 2008, a U.S. Federal Communications Commission (FCC) spectrum auction for the 700 MHz former analog TV frequencies began. As a result, the biggest share of the spectrum went to Verizon Wireless and the next biggest to AT&T.[41] Both of these companies have stated their intention of supporting LTE.
+In January 2008, EU commissioner Viviane Reding suggested re-allocation of 500 800 MHz spectrum for wireless communication, including WiMAX.[42]
+On 15 February 2008, Skyworks Solutions released a front-end module for e-UTRAN.[43][44][45]
+In November 2008, ITU-R established the detailed performance requirements of IMT-Advanced, by issuing a Circular Letter calling for candidate Radio Access Technologies (RATs) for IMT-Advanced.[46]
+In April 2008, just after receiving the circular letter, the 3GPP organized a workshop on IMT-Advanced where it was decided that LTE Advanced, an evolution of current LTE standard, will meet or even exceed IMT-Advanced requirements following the ITU-R agenda.
+In April 2008, LG and Nortel demonstrated e-UTRA data rates of 50 Mbit/s while travelling at 110 km/h.[47]
+On 12 November 2008, HTC announced the first WiMAX-enabled mobile phone, the Max 4G[48]
+On 15 December 2008, San Miguel Corporation, the largest food and beverage conglomerate in southeast Asia, has signed a memorandum of understanding with Qatar Telecom QSC (Qtel) to build wireless broadband and mobile communications projects in the Philippines. The joint-venture formed wi-tribe Philippines, which offers 4G in the country.[49] Around the same time Globe Telecom rolled out the first WiMAX service in the Philippines.
+On 3 March 2009, Lithuania's LRTC announcing the first operational "4G" mobile WiMAX network in Baltic states.[50]
+In December 2009, Sprint began advertising "4G" service in selected cities in the United States, despite average download speeds of only 3 6 Mbit/s with peak speeds of 10 Mbit/s (not available in all markets).[51]
+On 14 December 2009, the first commercial LTE deployment was in the Scandinavian capitals Stockholm and Oslo by the Swedish-Finnish network operator TeliaSonera and its Norwegian brandname NetCom (Norway). TeliaSonera branded the network "4G". The modem devices on offer were manufactured by Samsung (dongle GT-B3710), and the network infrastructure created by Huawei (in Oslo) and Ericsson (in Stockholm). TeliaSonera plans to roll out nationwide LTE across Sweden, Norway and Finland.[52][53] TeliaSonera used spectral bandwidth of 10 MHz, and single-in-single-out, which should provide physical layer net bit rates of up to 50 Mbit/s downlink and 25 Mbit/s in the uplink. Introductory tests showed a TCP throughput of 42.8 Mbit/s downlink and 5.3 Mbit/s uplink in Stockholm.[54]
+On 4 June 2010, Sprint released the first WiMAX smartphone in the US, the HTC Evo 4G.[55]
+On November 4, 2010, the Samsung Craft offered by MetroPCS is the first commercially available LTE smartphone[56]
+On 6 December 2010, at the ITU World Radiocommunication Seminar 2010, the ITU stated that LTE, WiMAX and similar "evolved 3G technologies" could be considered "4G".[6]
+In 2011, Argentina's Claro launched a pre-4G HSPA+ network in the country.
+In 2011, Thailand's Truemove-H launched a pre-4G HSPA+ network with nationwide availability.
+On March 17, 2011, the HTC Thunderbolt offered by Verizon in the U.S. was the second LTE smartphone to be sold commercially.[57][58]
+In February 2012, Ericsson demonstrated mobile-TV over LTE, utilizing the new eMBMS service (enhanced Multimedia Broadcast Multicast Service).[59]
+Since 2009, the LTE-Standard has strongly evolved over the years, resulting in many deployments by various operators across the globe. For an overview of commercial LTE networks and their respective historic development see: List of LTE networks. Among the vast range of deployments, many operators are considering the deployment and operation of LTE networks. A compilation of planned LTE deployments can be found at: List of planned LTE networks.
+Disadvantages[edit]
+4G introduces a potential inconvenience for those who travel internationally or wish to switch carriers.  In order to make and receive 4G voice calls (VoLTE), the subscriber handset must not only have a matching frequency band (and in some cases require unlocking), it must also have the matching enablement settings for the local carrier and/or country.  While a phone purchased from a given carrier can be expected to work with that carrier, making 4G voice calls on another carrier's network (including international roaming) may be impossible without a software update specific to the local carrier and the phone model in question, which may or may not be available (although fallback to 2G/3G for voice calling may still be possible if a 2G/3G network is available with a matching frequency band).[60]
+Beyond 4G research[edit]
+Main article: 5G
+A major issue in 4G systems is to make the high bit rates available in a larger portion of the cell, especially to users in an exposed position in between several base stations. In current research, this issue is addressed by macro-diversity techniques, also known as group cooperative relay, and also by Beam-Division Multiple Access (BDMA).[61]
+Pervasive networks are an amorphous and at present entirely hypothetical concept where the user can be simultaneously connected to several wireless access technologies and can seamlessly move between them (See vertical handoff, IEEE 802.21). These access technologies can be Wi-Fi, UMTS, EDGE, or any other future access technology. Included in this concept is also smart-radio (also known as cognitive radio) technology to efficiently manage spectrum use and transmission power as well as the use of mesh routing protocols to create a pervasive network.
+Past 4G networks[edit]
+This section is about WiMAX & LTE network shutdowns. For shutdowns of HSPA+ (UMTS) networks that are sometimes labeled as 4G, see 3G  Phase out.
+Country
+Network
+Shutdown date
+Standard
+Notes
+ Canada
+Xplore Mobile
+2022-08-31
+LTE
+[62]
+ Jamaica
+Digicel
+2018-10-31
+WiMAX
+[63]
+ Malaysia
+Yes 4G 
+2019-10-01
+WiMAX
+[64][65]
+ Nepal
+Nepal Telecom
+2021-12-??
+WiMAX
+[66]
+ Trinidad and Tobago
+Blink bmobile (TSTT)
+2015-03-03
+WiMAX
+[67]
+ United States
+Sprint
+2016-03-31
+WiMAX
+[68][69]
+T-Mobile (Sprint)
+2022-06-30
+LTE
+[70][71][72]
+See also[edit]
+4G-LTE filter
+Comparison of mobile phone standards
+Comparison of wireless data standards
+Wireless device radiation and health
+Notes[edit]
+^ The exact exhaustion status is difficult to determine, as it is unknown how many unused addresses exist at ISPs, and how many of the addresses that are permanently unused by their owners can still be freed and transferred to others.
+References[edit]
+^ Li, Zhengmao; Wang, Xiaoyun; Zhang, Tongxu (August 11, 2020), "From 5G to 5G+", 5G+, Singapore: Springer Singapore, pp. 19 33, doi:10.1007/978-981-15-6819-0_3, ISBN 978-981-15-6818-3, S2CID 225014477, retrieved August 3, 2022
+^ "ITU says LTE, WiMax and HSPA+ are now officially 4G". phonearena.com. December 18, 2010. Retrieved June 19, 2022.
+^ a b "How fast are 4G and 5G? - Speeds and UK network performance". www.4g.co.uk. Retrieved January 24, 2023.
+^ "Market share of mobile telecommunication technologies worldwide from 2016 to 2025, by generation". Statista. February 2022.
+^ a b c d ITU-R, Report M.2134, Requirements related to technical performance for IMT-Advanced radio interface(s), Approved in November 2008
+^ a b "ITU World Radiocommunication Seminar highlights future communication technologies". International Telecommunication Union. Archived from the original on June 20, 2012. Retrieved December 23, 2010.
+^ "IMT-2000". Network Encyclopedia. September 8, 2019. Retrieved March 4, 2022.
+^ 62 commercial networks support DC-HSPA+, drives HSPA investments LteWorld February 7, 2012
+^ Vilches, J. (April 29, 2010). "Everything You Need To Know About 4G Wireless Technology". TechSpot. Retrieved January 11, 2016.
+^ Rumney, Moray (September 2008). "IMT-Advanced: 4G Wireless Takes Shape in an Olympic Year" (PDF). Agilent Measurement Journal. Archived from the original (PDF) on January 17, 2016.
+^ "2009-12: The way of LTE towards 4G". Nomor Research. Archived from the original on January 17, 2016. Retrieved January 11, 2016.
+^ "3GPP specification: Requirements for further advancements for E-UTRA (LTE Advanced)". 3GPP. Retrieved August 21, 2013.
+^ "ITU paves way for next-generation 4G mobile technologies" (Press release). ITU. October 21, 2010. Archived from the original on July 20, 2011. Retrieved January 6, 2011.
+^ Parkvall, Stefan; Dahlman, Erik; Furusk r, Anders; Jading, Ylva; Olsson, Magnus; W nstedt, Stefan; Zangi, Kambiz (September 21 24, 2008). LTE Advanced   Evolving LTE towards IMT-Advanced (PDF). Vehicular Technology Conference Fall 2008. Ericsson Research. Stockholm. Archived from the original (PDF) on March 7, 2012. Retrieved November 26, 2010.
+^ "The Draft IEEE 802.16m System Description Document" (PDF). ieee802.org. April 4, 2008.
+^ "how to download youtube videos in jio phone   4G/LTE   Ericsson, Samsung Make LTE Connection   Telecom News Analysis". quickblogsoft.blogspot.com. Archived from the original on January 3, 2019. Retrieved January 3, 2019.
+^ "MetroPCS Launches First 4G LTE Services in the United States and Unveils World's First Commercially Available 4G LTE Phone". MetroPCS IR. September 21, 2010. Archived from the original on September 24, 2010. Retrieved April 8, 2011.
+^ Jason Hiner (January 12, 2011). "How AT&T and T-Mobile conjured 4G networks out of thin air". TechRepublic. Retrieved April 5, 2011.
+^ Brian Bennet (April 5, 2012). "Meet U.S. Cellular's first 4G LTE phone: Samsung Galaxy S Aviator". CNet. Retrieved April 11, 2012.
+^ "Sprint 4G LTE Launching in 5 Cities July 15". PC Magazine. June 27, 2012. Retrieved November 3, 2012.
+^ "We have you covered like nobody else". T-Mobile USA. April 6, 2013. Archived from the original on March 29, 2013. Retrieved April 6, 2013.
+^ "SK Telecom and LG U+ launch LTE in Seoul, fellow South Koreans seethe with envy". July 5, 2011. Retrieved July 13, 2011.
+^ "EE launches Superfast 4G and Fibre for UK consumers and businesses today". EE. October 30, 2012. Archived from the original on September 10, 2013. Retrieved August 29, 2013.
+^ Miller, Joe (August 29, 2013). "Vodafone and O2 begin limited roll-out of 4G networks". BBC News. Retrieved August 29, 2013.
+^ Orlowski, Andrew (December 5, 2013). "Three offers free US roaming, confirms stealth 4G rollout". The Register. Retrieved December 6, 2013.
+^ Shukla, Anuradha (October 10, 2011). "Super-Fast 4G Wireless Service Launching in South Korea". Asia-Pacific Business and Technology Report. Archived from the original on November 18, 2011. Retrieved November 24, 2011.
+^ "Sprint announces seven new WiMAX markets, says 'Let AT&T and Verizon yak about maps and 3G coverage'". Engadget. March 23, 2010. Archived from the original on March 25, 2010. Retrieved April 8, 2010.
+^ "UPDATE 1-Russia's Yota drops WiMax in favour of LTE". Reuters. May 21, 2010.
+^ Qualcomm halts UMB project, Reuters, November 13th, 2008
+^ G. Fettweis; E. Zimmermann; H. Bonneville; W. Schott; K. Gosse; M. de Courville (2004). "High Throughput WLAN/WPAN" (PDF). WWRF. Archived from the original (PDF) on February 16, 2008.
+^ "4G standards that lack cooperative relaying". July 5, 2012.
+^ Morr, Derek (June 9, 2009). "Verizon mandates IPv6 support for next-gen cell phones". Retrieved June 10, 2009.
+^ Zheng, P; Peterson, L; Davie, B; Farrel, A (2009). Wireless Networking Complete. Morgan Kaufmann. ISBN 9780123785701.
+^ Alabaster, Jay (August 20, 2012). "Japan's NTT DoCoMo signs up 1 million LTE users in a month, hits 5 million total". Network World. IDG. Archived from the original on December 3, 2013. Retrieved October 29, 2013.
+^ "KT Launches Commercial WiBro Services in South Korea". WiMAX Forum. November 15, 2005. Archived from the original on May 29, 2010. Retrieved June 23, 2010.
+^ "KT's Experience In Development Projects". March 2011.
+^ "4G Mobile Broadband". Sprint. Archived from the original on February 22, 2008. Retrieved March 12, 2008.
+^ 1634 1699: McCusker, J. J. (1997). How Much Is That in Real Money? A Historical Price Index for Use as a Deflator of Money Values in the Economy of the United States: Addenda et Corrigenda (PDF). American Antiquarian Society. 1700 1799: McCusker, J. J. (1992). How Much Is That in Real Money? A Historical Price Index for Use as a Deflator of Money Values in the Economy of the United States (PDF). American Antiquarian Society. 1800 present: Federal Reserve Bank of Minneapolis. "Consumer Price Index (estimate) 1800 ". Retrieved April 16, 2022.
+^ "DoCoMo Achieves 5 Gbit/s Data Speed". NTT DoCoMo Press. February 9, 2007. Archived from the original on September 25, 2008. Retrieved July 1, 2007.
+^ Reynolds, Melanie (September 14, 2007). "NTT DoCoMo develops low power chip for 3G LTE handsets". Electronics Weekly. Archived from the original on September 27, 2011. Retrieved April 8, 2010.
+^ "Auctions Schedule". FCC. Archived from the original on January 24, 2008. Retrieved January 8, 2008.
+^ "European Commission proposes TV spectrum for WiMax". zdnetasia.com. Archived from the original on December 14, 2007. Retrieved January 8, 2008.
+^ "Skyworks Rolls Out Front-End Module for 3.9G Wireless Applications. (Skyworks Solutions Inc.)" (free registration required). Wireless News. February 14, 2008. Retrieved September 14, 2008.
+^ "Wireless News Briefs   February 15, 2008". WirelessWeek. February 15, 2008. Archived from the original on August 19, 2015. Retrieved September 14, 2008.
+^ "Skyworks Introduces Industry's First Front-End Module for 3.9G Wireless Applications". Skyworks press release. February 11, 2008. Retrieved September 14, 2008.
+^ ITU-R Report M.2134,  Requirements related to technical performance for IMT-Advanced radio interface(s),  November 2008.
+^ "Nortel and LG Electronics Demo LTE at CTIA and with High Vehicle Speeds :: Wireless-Watch Community". Archived from the original on June 6, 2008.
+^ "Scartel and HTC Launch World's First Integrated GSM/WiMAX Handset" (Press release). HTC Corporation. November 12, 2008. Archived from the original on November 22, 2008. Retrieved March 1, 2011.
+^ "San Miguel and Qatar Telecom Sign MOU". Archived from the original on February 18, 2009. Retrieved 2009-02-18. San Miguel Corporation, December 15, 2008
+^ "LRTC to Launch Lithuania's First Mobile WiMAX 4G Internet Service" (Press release). WiMAX Forum. March 3, 2009. Archived from the original on June 12, 2010. Retrieved November 26, 2010.
+^ "4G Coverage and Speeds". Sprint. Archived from the original on April 5, 2010. Retrieved November 26, 2010.
+^ "Teliasonera First To Offer 4G Mobile Services". The Wall Street Journal. December 14, 2009. Archived from the original on January 14, 2010.
+^ NetCom.no   NetCom 4G (in English)
+^ "TeliaSonera's 4G Speed Test   looking good". Daily Mobile. Archived from the original on April 19, 2012. Retrieved January 11, 2016.
+^ Anand Lal Shimpi (June 28, 2010). "The Sprint HTC EVO 4G Review". AnandTech. Retrieved March 19, 2011.
+^ "Samsung Craft first LTE handset, launches on MetroPCS". September 21, 2010.
+^ "Verizon launches its first LTE handset". Telegeography.com. March 16, 2011. Retrieved July 31, 2012.
+^ "HTC ThunderBolt is officially Verizon's first LTE handset, come March 17th". Phonearena.com. 2011. Retrieved July 31, 2012.
+^ "demonstrates Broadcast Video/TV over LTE". Ericsson. February 27, 2012. Retrieved July 31, 2012.
+^ "What is VoLTE?". 4g.co.uk. Retrieved May 8, 2019.
+^ IT R&D program of MKE/IITA: 2008-F-004-01  5G mobile communication systems based on beam-division multiple access and relays with group cooperation .
+^ Karadeglija, Anja (July 19, 2022). "Xplore Mobile shut down is a signal for government to 'stop approving telecom mergers'". National Post. Retrieved August 15, 2022.
+^ "4G Broadband". Digicel Jamaica. Archived from the original on August 13, 2020. Retrieved October 30, 2018.
+^ "Yes Introduces the All-New Unlimited Super Postpaid Plans". Yes.my. Retrieved October 1, 2019.
+^ "Yes says goodbye to WiMAX". soyacincau. Retrieved October 1, 2019.
+^ "NTC To End WiMAX Broadband Service This Year". Nepali Telecom. July 12, 2021. Retrieved August 4, 2021.
+^ "Blink introduces 4GLTE, kills WIMAX". Tech News TT. March 3, 2015.
+^ Seifert, Dan (October 9, 2014). "Sprint to finally shut down its WiMAX network late next year". The Verge. Retrieved August 4, 2021.
+^ Kinney, Sean (March 31, 2016). "Today is the last day of Sprint WiMAX service". RCR Wireless. Retrieved August 4, 2021.
+^ "T-Mobile Network Evolution". T-Mobile. Retrieved August 4, 2021.
+^ Dano, Mike. "T-Mobile to shutter Sprint's LTE network on June 30, 2022". Light Reading. Retrieved September 23, 2021.
+^ "Sprint reaches the finishing line: legacy LTE networks switched off by T-Mobile". TeleGeography. July 4, 2022. Retrieved July 5, 2022.
+External links[edit]
+3GPP LTE Encyclopedia
+Nomor Research: Progress on  LTE Advanced  - the new 4G standard
+Brian Woerner (June 20 22, 2001). "Research Directions for Fourth Generation Wireless" (PDF). Proceedings of the 10th International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WET ICE 01). Massachusetts Institute of Technology, Cambridge, MA, USA. Archived from the original (PDF) on January 6, 2006. (118kb)
+Information on 4G mobile services in the UK   Ofcom
+The Scope of 4G Technology: A Review - OM Institute of Technology & Management
+Preceded by3rd Generation (3G)
+ Mobile Telephony Generations 
+Succeeded by5th Generation (5G)
+vteMobile phonesMobilenetworks,protocols
+Channel capacity
+Frequencies
+Multi-band
+Network operator
+list
+Roaming
+Signal
+SIM card
+dual SIM
+SIM lock
+Standards comparison
+Tethering
+VoIP
+WAP
+XHTML-MP
+Generations
+Analogue:
+0G
+1G
+Digital:
+2G
+3G
+adoption
+3.5G
+4G
+4.5G
+5G
+6G
+Generaloperation
+Features
+GSM
+services
+History
+Operating system
+Security
+phone cloning
+Telephony
+airplane mode
+Text messaging
+SMS
+MMS
+RCS
+Spam
+Tracking
+Web browsing
+Mobiledevices
+Manufacturers
+3D phone
+Camera phone
+Car phone
+Feature phone
+Projector phone
+Satellite phone
+Smartphone
+Form factors
+Bar
+Flip
+Phablet
+Slider
+Slate
+Smartwatch
+Fold
+Smartphones
+Android devices
+rooting
+BlackBerry 10
+iPhone
+iOS jailbreaking
+Open-source mobile phones
+Symbian devices
+Windows Phone devices
+MobilespecificsoftwareApps
+Development
+Distribution
+Management
+Cloud computing
+Commerce
+Banking
+Marketing
+advertising
+campaigns
+Payments
+contactless
+donating
+Ticketing
+Content
+Blogging
+Email
+Gambling
+Gaming
+Health
+Instant messaging
+Learning
+Music
+News
+Search
+local
+Social
+address book
+Television
+Culture
+Box breaking
+Charms
+Comics
+Dating
+Japanese culture
+Novels
+Ringtones
+silent mode
+Selfie
+Txt-spk
+Wallpaper
+Environmentand health
+BlackBerry thumb
+Driving safety
+Electronic waste
+External power supply
+Mental health from overuse
+Phantom vibration syndrome
+Radiation and health
+Recycling
+Law
+Carrier IQ
+Legality of recording by civilians
+Mobile phones in prison
+Photography and the law
+Telephone tapping
+Texting while driving
+USA use restrictions while driving
+ Telecommunication portal
+ Telephones portal
+ Category
+vteCellular network standardsList of mobile phone generations0G radio telephones (1946)
+MTS
+IMTS
+Altai
+OLT
+MTA - MTB - MTC - MTD
+AMTS
+Autotel (PALM)
+ARP
+B-Netz
+AMR
+1G (1979)AMPS family
+AMPS - N-AMPS
+TACS - ETACS
+Other
+NMT
+C-450
+Hicap
+Mobitex
+DataTAC
+CT1
+2G (1991)GSM/3GPP family
+GSM
+CSD - HSCSD
+3GPP2 family
+cdmaOne (IS-95)
+AMPS family
+D-AMPS (IS-54 and IS-136)
+Other
+CDPD
+iDEN
+PDC
+PHS
+CT2
+2G transitional(2.5G, 2.75G)GSM/3GPP family
+GPRS
+EDGE/EGPRS - Evolved EDGE
+3GPP2 family
+CDMA2000 1X (TIA/EIA/IS-2000)
+CDMA2000 1X Advanced
+Other
+WiDEN
+DECT
+3G (1998)IMT-2000 (2001)3GPP family
+UMTS
+UTRA-FDD / W-CDMA
+FOMA
+UTRA-TDD LCR / TD-SCDMA
+UTRA-TDD HCR / TD-CDMA
+3GPP2 family
+CDMA2000 1xEV-DO Release 0 (TIA/IS-856)
+3G transitional(3.5G, 3.75G, 3.9G)3GPP family
+HSPA
+HSDPA
+HSUPA
+HSPA+
+DC-HSDPA
+LTE (E-UTRA)
+3GPP2 family
+CDMA2000 1xEV-DO Revision A (TIA/EIA/IS-856-A)
+EV-DO Revision B (TIA/EIA/IS-856-B)
+EV-DO Revision C
+IEEE family
+Mobile WiMAX
+IEEE 802.16e
+Flash-OFDM
+iBurst (IEEE 802.20)
+WiBro
+ETSI family
+HiperMAN
+4G (2009)IMT Advanced (2013)3GPP family
+LTE Advanced (E-UTRA)
+LTE Advanced Pro (4.5G Pro/pre-5G/5G E/4.9G)
+IEEE family
+WiMAX (IEEE 802.16m)
+WiMax 2.1 (LTE-TDD / TD-LTE)
+WiBro
+5G (2018)IMT-2020 (2021)3GPP family
+5G NR
+5G-Advanced
+NR-IIoT
+LTE-M
+NB-IoT
+Other
+DECT-5G
+Related articles
+Cellular networks
+Mobile telephony
+History
+Comparison of standards
+Channel access methods
+FDMA
+OFDMA
+TDMA
+STDMA
+SSMA
+CDMA
+SDMA
+Spectral efficiency comparison table
+Frequency bands
+GSM
+UMTS
+LTE
+5G NR
+CDMA
+Mobile broadband
+Multimedia Broadcast Multicast Service
+NGMN Alliance
+Push-to-talk
+MIMO
+IMS
+VoLTE
+ViLTE
+VoNR
+ViNR
+Wi-Fi Calling
+Osmocom
+ Telecommunication portal Telephones portal
+Retrieved from "https://en.wikipedia.org/w/index.php?title=4G&oldid=1148980228"

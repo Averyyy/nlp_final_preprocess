@@ -1,0 +1,725 @@
+Standard for wireless broadband communication for mobile devices
+"Long-term evolution" redirects here. For the biological concept, see Evolution and E. coli long-term evolution experiment.
+ 
+Part of a series on theMobile phone generations
+Analog
+0G1G (1.5G)
+Digital
+2G (2.5G, 2.75G, 2.9G)3G (3.5G, 3.75G, 3.9G/3.95G)4G (4G/4.5G,4.5G,4.9G)5G (5.25G)6G
+Mobile telecommunicationsvte
+In telecommunications, long-term evolution (LTE) is a standard for wireless broadband communication for mobile devices and data terminals, based on the GSM/EDGE and UMTS/HSPA standards. It improves on those standards' capacity and speed by using a different radio interface and core network improvements.[1][2] LTE is the upgrade path for carriers with both GSM/UMTS networks and CDMA2000 networks. Because LTE frequencies and bands differ from country to country, only multi-band phones can use LTE in all countries where it is supported.
+The standard is developed by the 3GPP (3rd Generation Partnership Project) and is specified in its Release 8 document series, with minor enhancements described in Release 9. LTE is also called 3.95G and has been marketed as 4G LTE and Advanced 4G;[citation needed] but it does not meet the technical criteria of a 4G wireless service, as specified in the 3GPP Release 8 and 9 document series for LTE Advanced. The requirements were set forth by the ITU-R organisation in the IMT Advanced specification; but, because of market pressure and the significant advances that WiMAX, Evolved High Speed Packet Access, and LTE bring to the original 3G technologies, ITU later decided that LTE and the aforementioned technologies can be called 4G technologies.[3] The LTE Advanced standard formally satisfies the ITU-R requirements for being considered IMT-Advanced.[4] To differentiate LTE Advanced and WiMAX-Advanced from current 4G technologies, ITU has defined the latter as "True 4G".[5][6]
+Overview[edit]
+See also: List of LTE networks
+ Telia-branded Samsung LTE modem
+ Huawei 4G+ Modem
+ HTC ThunderBolt, the second commercially available LTE smartphone
+LTE stands for Long-Term Evolution[7] and is a registered trademark owned by ETSI (European Telecommunications Standards Institute) for the wireless data communications technology and a development of the GSM/UMTS standards. However, other nations and companies do play an active role in the LTE project. The goal of LTE was to increase the capacity and speed of wireless data networks using new DSP (digital signal processing) techniques and modulations that were developed around the turn of the millennium. A further goal was the redesign and simplification of the network architecture to an IP-based system with significantly reduced transfer latency compared with the 3G architecture. The LTE wireless interface is incompatible with 2G and 3G networks, so that it must be operated on a separate radio spectrum.
+The idea of base of LTE was first proposed in 1998 ,  with the use of the COFDM radio access technique to replace the CDMA and studying its Terrestrial use in the L band at 1428 MHz (TE)
+In 2004 by Japan's NTT Docomo, with studies on the standard officially commenced in 2005.[8] In May 2007, the LTE/SAE Trial Initiative (LSTI) alliance was founded as a global collaboration between vendors and operators with the goal of verifying and promoting the new standard in order to ensure the global introduction of the technology as quickly as possible.[9][10] The LTE standard was finalized in December 2008, and the first publicly available LTE service was launched by TeliaSonera in Oslo and Stockholm on December 14, 2009, as a data connection with a USB modem. The LTE services were launched by major North American carriers as well, with the Samsung SCH-r900 being the world's first LTE Mobile phone starting on September 21, 2010,[11][12] and Samsung Galaxy Indulge being the world's first LTE smartphone starting on February 10, 2011,[13][14] both offered by MetroPCS, and the HTC ThunderBolt offered by Verizon starting on March 17 being the second LTE smartphone to be sold commercially.[15][16] In Canada, Rogers Wireless was the first to launch LTE network on July 7, 2011, offering the Sierra Wireless AirCard 313U USB mobile broadband modem, known as the "LTE Rocket stick" then followed closely by mobile devices from both HTC and Samsung.[17] Initially, CDMA operators planned to upgrade to rival standards called UMB and WiMAX, but major CDMA operators (such as Verizon, Sprint and MetroPCS in the United States, Bell and Telus in Canada, au by KDDI in Japan, SK Telecom in South Korea and China Telecom/China Unicom in China) have announced instead they intend to migrate to LTE. The next version of LTE is LTE Advanced, which was standardized in March 2011.[18] Services commenced in 2013.[19] Additional evolution known as LTE Advanced Pro have been approved in year 2015.[20]
+The LTE specification provides downlink peak rates of 300 Mbit/s, uplink peak rates of 75 Mbit/s and QoS provisions permitting a transfer latency of less than 5 ms in the radio access network. LTE has the ability to manage fast-moving mobiles and supports multi-cast and broadcast streams. LTE supports scalable carrier bandwidths, from 1.4 MHz to 20 MHz and supports both frequency division duplexing (FDD) and time-division duplexing (TDD). The IP-based network architecture, called the Evolved Packet Core (EPC) designed to replace the GPRS Core Network, supports seamless handovers for both voice and data to cell towers with older network technology such as GSM, UMTS and CDMA2000.[21] The simpler architecture results in lower operating costs (for example, each E-UTRA cell will support up to four times the data and voice capacity supported by HSPA[22]).
+History[edit]
+3GPP standard development timeline[edit]
+ Cellular network standards and generation timeline.
+In 2004, NTT Docomo of Japan proposes LTE as the international standard.[23]
+In September 2006, Siemens Networks (today Nokia Networks) showed in collaboration with Nomor Research the first live emulation of an LTE network to the media and investors. As live applications two users streaming an HDTV video in the downlink and playing an interactive game in the uplink have been demonstrated.[24]
+In February 2007, Ericsson demonstrated for the first time in the world, LTE with bit rates up to 144 Mbit/s[25]
+In September 2007, NTT Docomo demonstrated LTE data rates of 200 Mbit/s with power level below 100 mW during the test.[26]
+In November 2007, Infineon presented the world's first RF transceiver named SMARTi LTE supporting LTE functionality in a single-chip RF silicon processed in CMOS[27][28]
+In early 2008, LTE test equipment began shipping from several vendors and, at the Mobile World Congress 2008 in Barcelona, Ericsson demonstrated the world's first end-to-end mobile call enabled by LTE on a small handheld device.[29] Motorola demonstrated an LTE RAN standard compliant eNodeB and LTE chipset at the same event.
+At the February 2008 Mobile World Congress:
+Motorola demonstrated how LTE can accelerate the delivery of personal media experience with HD video demo streaming, HD video blogging, Online gaming and VoIP over LTE running a RAN standard compliant LTE network & LTE chipset.[30]
+Ericsson EMP (now ST-Ericsson) demonstrated the world's first end-to-end LTE call on handheld[29] Ericsson demonstrated LTE FDD and TDD mode on the same base station platform.
+Freescale Semiconductor demonstrated streaming HD video with peak data rates of 96 Mbit/s downlink and 86 Mbit/s uplink.[31]
+NXP Semiconductors (now a part of ST-Ericsson) demonstrated a multi-mode LTE modem as the basis for a software-defined radio system for use in cellphones.[32]
+picoChip and Mimoon demonstrated a base station reference design. This runs on a common hardware platform (multi-mode / software-defined radio) with their WiMAX architecture.[33]
+In April 2008, Motorola demonstrated the first EV-DO to LTE hand-off   handing over a streaming video from LTE to a commercial EV-DO network and back to LTE.[34]
+In April 2008, LG Electronics and Nortel demonstrated LTE data rates of 50 Mbit/s while travelling at 110 km/h (68 mph).[35]
+In November 2008, Motorola demonstrated industry first over-the-air LTE session in 700 MHz spectrum.[36]
+Researchers at Nokia Siemens Networks and Heinrich Hertz Institut have demonstrated LTE with 100 Mbit/s Uplink transfer speeds.[37]
+At the February 2009 Mobile World Congress:
+Infineon demonstrated a single-chip 65 nm CMOS RF transceiver providing 2G/3G/LTE functionality[38]
+Launch of ng Connect program, a multi-industry consortium founded by Alcatel-Lucent to identify and develop wireless broadband applications.[39]
+Motorola provided LTE drive tour on the streets of Barcelona to demonstrate LTE system performance in a real-life metropolitan RF environment[40]
+In July 2009, Nujira demonstrated efficiencies of more than 60% for an 880 MHz LTE Power Amplifier[41]
+In August 2009, Nortel and LG Electronics demonstrated the first successful handoff between CDMA and LTE networks in a standards-compliant manner[42]
+In August 2009, Alcatel-Lucent receives FCC certification for LTE base stations for the 700 MHz spectrum band.[43]
+In September 2009, Nokia Siemens Networks demonstrated world's first LTE call on standards-compliant commercial software.[44]
+In October 2009, Ericsson and Samsung demonstrated interoperability between the first ever commercial LTE device and the live network in Stockholm, Sweden.[45]
+In October 2009, Alcatel-Lucent's Bell Labs, Deutsche Telekom Innovation Laboratories, the Fraunhofer Heinrich-Hertz Institut and antenna supplier Kathrein conducted live field tests of a technology called Coordinated Multipoint Transmission (CoMP) aimed at increasing the data transmission speeds of LTE and 3G networks.[46]
+In November 2009, Alcatel-Lucent completed first live LTE call using 800 MHz spectrum band set aside as part of the European Digital Dividend (EDD).[47]
+In November 2009, Nokia Siemens Networks and LG completed first end-to-end interoperability testing of LTE.[48]
+On December 14, 2009, the first commercial LTE deployment was in the Scandinavian capitals Stockholm and Oslo by the Swedish-Finnish network operator TeliaSonera and its Norwegian brandname NetCom (Norway). TeliaSonera incorrectly branded the network "4G". The modem devices on offer were manufactured by Samsung (dongle GT-B3710), and the network infrastructure with SingleRAN technology created by Huawei (in Oslo)[49] and Ericsson (in Stockholm). TeliaSonera plans to roll out nationwide LTE across Sweden, Norway and Finland.[50] TeliaSonera used spectral bandwidth of 10 MHz (out of the maximum 20 MHz), and Single-Input and Single-Output transmission. The deployment should have provided a physical layer net bit rates of up to 50 Mbit/s downlink and 25 Mbit/s in the uplink. Introductory tests showed a TCP goodput of 42.8 Mbit/s downlink and 5.3 Mbit/s uplink in Stockholm.[51]
+In December 2009, ST-Ericsson and Ericsson first to achieve LTE and HSPA mobility with a multimode device.[52]
+In January 2010, Alcatel-Lucent and LG complete a live handoff of an end-to-end data call between LTE and CDMA networks.[53]
+In February 2010, Nokia Siemens Networks and Movistar test the LTE in Mobile World Congress 2010 in Barcelona, Spain, with both indoor and outdoor demonstrations.[54]
+In May 2010, Mobile TeleSystems (MTS) and Huawei showed an indoor LTE network at "Sviaz-Expocomm 2010" in Moscow, Russia.[55] MTS expects to start a trial LTE service in Moscow by the beginning of 2011. Earlier, MTS has received a license to build an LTE network in Uzbekistan, and intends to commence a test LTE network in Ukraine in partnership with Alcatel-Lucent.
+At the Shanghai Expo 2010 in May 2010, Motorola demonstrated a live LTE in conjunction with China Mobile. This included video streams and a drive test system using TD-LTE.[56]
+As of 12/10/2010, DirecTV has teamed up with Verizon Wireless for a test of high-speed LTE wireless technology in a few homes in Pennsylvania, designed to deliver an integrated Internet and TV bundle. Verizon Wireless said it launched LTE wireless services (for data, no voice) in 38 markets where more than 110 million Americans live on Sunday, Dec. 5.[57]
+On May 6, 2011, Sri Lanka Telecom Mobitel demonstrated 4G LTE for the first time in South Asia, achieving a data rate of 96 Mbit/s in Sri Lanka.[58]
+Carrier adoption timeline[edit]
+Main article: List of LTE networks
+Most carriers supporting GSM or HSUPA networks can be expected to upgrade their networks to LTE at some stage. A complete list of commercial contracts can be found at:[59]
+August 2009: Telef nica selected six countries to field-test LTE in the succeeding months: Spain, the United Kingdom, Germany and the Czech Republic in Europe, and Brazil and Argentina in Latin America.[60]
+On November 24, 2009: Telecom Italia announced the first outdoor pre-commercial experimentation in the world, deployed in Torino and totally integrated into the 2G/3G network currently in service.[61]
+On December 14, 2009, the world's first publicly available LTE service was opened by TeliaSonera in the two Scandinavian capitals Stockholm and Oslo.
+On May 28, 2010, Russian operator Scartel announced the launch of an LTE network in Kazan by the end of 2010.[62]
+On October 6, 2010, Canadian provider Rogers Communications Inc announced that Ottawa, Canada's national capital, will be the site of LTE trials. Rogers said it will expand on this testing and move to a comprehensive technical trial of LTE on both low- and high-band frequencies across the Ottawa area.[63]
+On May 6, 2011, Sri Lanka Telecom Mobitel successfully demonstrated 4G LTE for the first time in South Asia, achieving a data rate of 96 Mbit/s in Sri Lanka.[64]
+On May 7, 2011, Sri Lankan Mobile Operator Dialog Axiata PLC switched on the first pilot 4G LTE Network in South Asia with vendor partner Huawei and demonstrated a download data speed up to 127 Mbit/s.[65]
+On February 9, 2012, Telus Mobility launched their LTE service initial in metropolitan areas include Vancouver, Calgary, Edmonton, Toronto and the Greater Toronto Area, Kitchener, Waterloo, Hamilton, Guelph, Belleville, Ottawa, Montreal, Qu bec City, Halifax and Yellowknife.[66]
+Telus Mobility has announced that it will adopt LTE as its 4G wireless standard.[67]
+Cox Communications has its first tower for wireless LTE network build-out.[68] Wireless services launched in late 2009.
+In March 2019, the Global Mobile Suppliers Association reported that there were now 717 operators with commercially launched LTE networks (broadband fixed wireless access and or mobile).[69]
+The following is a list of top 10 countries/territories by 4G LTE coverage as measured by OpenSignal.com in February/March 2019.[70][71]
+Rank
+Country/Territory
+Penetration
+1
+ South Korea
+97.5%
+2
+ Japan
+96.3%
+3
+ Norway
+95.5%
+4
+ Hong Kong
+94.1%
+5
+ United States
+93.0%
+6
+ Netherlands
+92.8%
+7
+ Taiwan
+92.8%
+8
+ Hungary
+91.4%
+9
+ Sweden
+91.1%
+10
+ India
+90.9%
+For the complete list of all the countries/territories, see list of countries by 4G LTE penetration.
+LTE-TDD and LTE-FDD[edit]
+Long-Term Evolution Time-Division Duplex (LTE-TDD), also referred to as TDD LTE, is a 4G telecommunications technology and standard co-developed by an international coalition of companies, including China Mobile, Datang Telecom, Huawei, ZTE, Nokia Solutions and Networks, Qualcomm, Samsung, and ST-Ericsson. It is one of the two mobile data transmission technologies of the Long-Term Evolution (LTE) technology standard, the other being Long-Term Evolution Frequency-Division Duplex (LTE-FDD). While some companies refer to LTE-TDD as "TD-LTE" for familiarity with TD-SCDMA, there is no reference to that abbreviation anywhere in the 3GPP specifications.[72][73][74]
+There are two major differences between LTE-TDD and LTE-FDD: how data is uploaded and downloaded, and what frequency spectra the networks are deployed in. While LTE-FDD uses paired frequencies to upload and download data,[75] LTE-TDD uses a single frequency, alternating between uploading and downloading data through time.[76][77] The ratio between uploads and downloads on a LTE-TDD network can be changed dynamically, depending on whether more data needs to be sent or received.[78] LTE-TDD and LTE-FDD also operate on different frequency bands,[79] with LTE-TDD working better at higher frequencies, and LTE-FDD working better at lower frequencies.[80] Frequencies used for LTE-TDD range from 1850 MHz to 3800 MHz, with several different bands being used.[81] The LTE-TDD spectrum is generally cheaper to access, and has less traffic.[79] Further, the bands for LTE-TDD overlap with those used for WiMAX, which can easily be upgraded to support LTE-TDD.[79]
+Despite the differences in how the two types of LTE handle data transmission, LTE-TDD and LTE-FDD share 90 percent of their core technology, making it possible for the same chipsets and networks to use both versions of LTE.[79][82] A number of companies produce dual-mode chips or mobile devices, including Samsung and Qualcomm,[83][84] while operators CMHK and Hi3G Access have developed dual-mode networks in Hong Kong and Sweden, respectively.[85]
+History of LTE-TDD[edit]
+The creation of LTE-TDD involved a coalition of international companies that worked to develop and test the technology.[86] China Mobile was an early proponent of LTE-TDD,[79][87] along with other companies like Datang Telecom[86] and Huawei, which worked to deploy LTE-TDD networks, and later developed technology allowing LTE-TDD equipment to operate in white spaces frequency spectra between broadcast TV stations.[73][88] Intel also participated in the development, setting up a LTE-TDD interoperability lab with Huawei in China,[89] as well as ST-Ericsson,[79] Nokia,[79] and Nokia Siemens (now Nokia Solutions and Networks),[73] which developed LTE-TDD base stations that increased capacity by 80 percent and coverage by 40 percent.[90] Qualcomm also participated, developing the world's first multi-mode chip, combining both LTE-TDD and LTE-FDD, along with HSPA and EV-DO.[84] Accelleran, a Belgian company, has also worked to build small cells for LTE-TDD networks.[91]
+Trials of LTE-TDD technology began as early as 2010, with Reliance Industries and Ericsson India conducting field tests of LTE-TDD in India, achieving 80 megabit-per second download speeds and 20 megabit-per-second upload speeds.[92] By 2011, China Mobile began trials of the technology in six cities.[73]
+Although initially seen as a technology utilized by only a few countries, including China and India,[93] by 2011 international interest in LTE-TDD had expanded, especially in Asia, in part due to LTE-TDD's lower cost of deployment compared to LTE-FDD.[73] By the middle of that year, 26 networks around the world were conducting trials of the technology.[74] The Global LTE-TDD Initiative (GTI) was also started in 2011, with founding partners China Mobile, Bharti Airtel, SoftBank Mobile, Vodafone, Clearwire, Aero2 and E-Plus.[94] In September 2011, Huawei announced it would partner with Polish mobile provider Aero2 to develop a combined LTE-TDD and LTE-FDD network in Poland,[95] and by April 2012, ZTE Corporation had worked to deploy trial or commercial LTE-TDD networks for 33 operators in 19 countries.[85] In late 2012, Qualcomm worked extensively to deploy a commercial LTE-TDD network in India, and partnered with Bharti Airtel and Huawei to develop the first multi-mode LTE-TDD smartphone for India.[84]
+In Japan, SoftBank Mobile launched LTE-TDD services in February 2012 under the name Advanced eXtended Global Platform (AXGP), and marketed as SoftBank 4G (ja). The AXGP band was previously used for Willcom's PHS service, and after PHS was discontinued in 2010 the PHS band was re-purposed for AXGP service.[96][97]
+In the U.S., Clearwire planned to implement LTE-TDD, with chip-maker Qualcomm agreeing to support Clearwire's frequencies on its multi-mode LTE chipsets.[98] With Sprint's acquisition of Clearwire in 2013,[75][99] the carrier began using these frequencies for LTE service on networks built by Samsung, Alcatel-Lucent, and Nokia.[100][101]
+As of March 2013, 156 commercial 4G LTE networks existed, including 142 LTE-FDD networks and 14 LTE-TDD networks.[86]
+As of November 2013, the South Korean government planned to allow a fourth wireless carrier in 2014, which would provide LTE-TDD services,[77] and in December 2013, LTE-TDD licenses were granted to China's three mobile operators, allowing commercial deployment of 4G LTE services.[102]
+In January 2014, Nokia Solutions and Networks indicated that it had completed a series of tests of voice over LTE (VoLTE) calls on China Mobile's TD-LTE network.[103] The next month, Nokia Solutions and Networks and Sprint announced that they had demonstrated throughput speeds of 2.6 gigabits per second using a LTE-TDD network, surpassing the previous record of 1.6 gigabits per second.[104]
+Features[edit]
+See also: E-UTRA
+Much of the LTE standard addresses the upgrading of 3G UMTS to what will eventually be 4G mobile communications technology. A large amount of the work is aimed at simplifying the architecture of the system, as it transitions from the existing UMTS circuit + packet switching combined network, to an all-IP flat architecture system. E-UTRA is the air interface of LTE. Its main features are:
+Peak download rates up to 299.6 Mbit/s and upload rates up to 75.4 Mbit/s depending on the user equipment category (with 4 4 antennas using 20 MHz of spectrum). Five different terminal classes have been defined from a voice-centric class up to a high-end terminal that supports the peak data rates. All terminals will be able to process 20 MHz bandwidth.
+Low data transfer latencies (sub-5 ms latency for small IP packets in optimal conditions), lower latencies for handover and connection setup time than with previous radio access technologies.
+Improved support for mobility, exemplified by support for terminals moving at up to 350 km/h (220 mph) or 500 km/h (310 mph) depending on the frequency
+Orthogonal frequency-division multiple access for the downlink, Single-carrier FDMA for the uplink to conserve power.
+Support for both FDD and TDD communication systems as well as half-duplex FDD with the same radio access technology.
+Support for all frequency bands currently used by IMT systems by ITU-R.
+Increased spectrum flexibility: 1.4 MHz, 3 MHz, 5 MHz, 10 MHz, 15 MHz and 20 MHz wide cells are standardized. (W-CDMA has no option for other than 5 MHz slices, leading to some problems rolling-out in countries where 5 MHz is a commonly allocated width of spectrum so would frequently already be in use with legacy standards such as 2G GSM and cdmaOne.)
+Support for cell sizes from tens of metres radius (femto and picocells) up to 100 km (62 miles) radius macrocells. In the lower frequency bands to be used in rural areas, 5 km (3.1 miles) is the optimal cell size, 30 km (19 miles) having reasonable performance, and up to 100 km cell sizes supported with acceptable performance. In the city and urban areas, higher frequency bands (such as 2.6 GHz in EU) are used to support high-speed mobile broadband. In this case, cell sizes may be 1 km (0.62 miles) or even less.
+Support of at least 200 active data clients (connected users) in every 5 MHz cell.[105]
+Simplified architecture: The network side of E-UTRAN is composed only of eNode Bs.
+Support for inter-operation and co-existence with legacy standards (e.g., GSM/EDGE, UMTS and CDMA2000). Users can start a call or transfer of data in an area using an LTE standard, and, should coverage be unavailable, continue the operation without any action on their part using GSM/GPRS or W-CDMA-based UMTS or even 3GPP2 networks such as cdmaOne or CDMA2000.
+Uplink and downlink Carrier aggregation.
+Packet-switched radio interface.
+Support for MBSFN (multicast-broadcast single-frequency network). This feature can deliver services such as Mobile TV using the LTE infrastructure, and is a competitor for DVB-H-based TV broadcast only LTE compatible devices receives LTE signal.
+Voice calls[edit]
+ cs domLTE CSFB to GSM/UMTS network interconnects
+The LTE standard supports only packet switching with its all-IP network. Voice calls in GSM, UMTS and CDMA2000 are circuit switched, so with the adoption of LTE, carriers will have to re-engineer their voice call network.[106] Four different approaches sprang up:
+Voice over LTE (VoLTE)
+Main article: Voice over LTE
+Circuit-switched fallback (CSFB)
+In this approach, LTE just provides data services, and when a voice call is to be initiated or received, it will fall back to the circuit-switched domain. When using this solution, operators just need to upgrade the MSC instead of deploying the IMS, and therefore, can provide services quickly. However, the disadvantage is longer call setup delay.
+Simultaneous voice and LTE (SVLTE)
+In this approach, the handset works simultaneously in the LTE and circuit switched modes, with the LTE mode providing data services and the circuit switched mode providing the voice service. This is a solution solely based on the handset, which does not have special requirements on the network and does not require the deployment of IMS either. The disadvantage of this solution is that the phone can become expensive with high power consumption.
+Single Radio Voice Call Continuity (SRVCC)
+Main article: SRVCC
+One additional approach which is not initiated by operators is the usage of over-the-top content (OTT) services, using applications like Skype and Google Talk to provide LTE voice service.[107]
+Most major backers of LTE preferred and promoted VoLTE from the beginning. The lack of software support in initial LTE devices, as well as core network devices, however led to a number of carriers promoting VoLGA (Voice over LTE Generic Access) as an interim solution.[108] The idea was to use the same principles as GAN (Generic Access Network, also known as UMA or Unlicensed Mobile Access), which defines the protocols through which a mobile handset can perform voice calls over a customer's private Internet connection, usually over wireless LAN. VoLGA however never gained much support, because VoLTE (IMS) promises much more flexible services, albeit at the cost of having to upgrade the entire voice call infrastructure. VoLTE may require Single Radio Voice Call Continuity (SRVCC) in order to be able to smoothly perform a handover to a 2G or 3G network in case of poor LTE signal quality.[109]
+While the industry has standardized on VoLTE, early LTE deployments requied carriers to introduce circuit-switched fallback as a stopgap measure. When placing or receiving a voice call on a non-VoLTE-enabled network or device, LTE handsets will fall back to old 2G or 3G networks for the duration of the call.
+Enhanced voice quality[edit]
+To ensure compatibility, 3GPP demands at least AMR-NB codec (narrow band), but the recommended speech codec for VoLTE is Adaptive Multi-Rate Wideband, also known as HD Voice. This codec is mandated in 3GPP networks that support 16 kHz sampling.[110]
+Fraunhofer IIS has proposed and demonstrated "Full-HD Voice", an implementation of the AAC-ELD (Advanced Audio Coding  Enhanced Low Delay) codec for LTE handsets.[111] Where previous cell phone voice codecs only supported frequencies up to 3.5 kHz and upcoming wideband audio services branded as HD Voice up to 7 kHz, Full-HD Voice supports the entire bandwidth range from 20 Hz to 20 kHz. For end-to-end Full-HD Voice calls to succeed, however, both the caller and recipient's handsets, as well as networks, have to support the feature.[112]
+Frequency bands[edit]
+See also: LTE frequency bands
+The LTE standard covers a range of many different bands, each of which is designated by both a frequency and a band number:
+North America   600, 700, 850, 1700, 1900, 2300, 2500, 2600, 3500, 5000 MHz (bands 2, 4, 5, 7, 12, 13, 14, 17, 25, 26, 29, 30, 38, 40, 41, 42, 43, 46, 48, 66, 71)
+Latin America and Caribbean   600, 700, 800, 850, 900, 1700, 1800, 1900, 2100, 2300, 2500, 2600, 3500, 5000 MHz (bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 20, 25, 26, 28, 29, 38, 40, 41, 42, 43, 46, 48, 66, 71)
+Europe   450, 700, 800, 900, 1500, 1800, 2100, 2300, 2600, 3500, 3700 MHz (bands 1, 3, 7, 8, 20, 22, 28, 31, 32, 38, 40, 42, 43)[113][114]
+Asia   450, 700, 800, 850, 900, 1500, 1800, 1900, 2100, 2300, 2500, 2600, 3500 MHz (bands 1, 3, 5, 7, 8, 11, 18, 19, 20, 21, 26, 28, 31, 38, 39, 40, 41, 42)[115]
+Africa   700, 800, 850, 900, 1800, 2100, 2500, 2600 MHz (bands 1, 3, 5, 7, 8, 20, 28, 41)[citation needed]
+Oceania (incl. Australia[116][117] and New Zealand[118])   700, 800, 850, 900, 1800, 2100, 2300, 2600 MHz (bands 1, 3, 7, 8, 12, 20, 28, 40)
+As a result, phones from one country may not work in other countries. Users will need a multi-band capable phone for roaming internationally.
+Patents[edit]
+According to the European Telecommunications Standards Institute's (ETSI) intellectual property rights (IPR) database, about 50 companies have declared, as of March 2012, holding essential patents covering the LTE standard.[119] The ETSI has made no investigation on the correctness of the declarations however,[119] so that "any analysis of essential LTE patents should take into account more than ETSI declarations."[120] Independent studies have found that about 3.3 to 5 percent of all revenues from handset manufacturers are spent on standard-essential patents. This is less than the combined published rates, due to reduced-rate licensing agreements, such as cross-licensing.[121][122][123]
+See also[edit]
+4G-LTE filter
+Comparison of wireless data standards
+E-UTRA  the radio access network used in LTE
+HSPA+  an enhancement of the 3GPP HSPA standard
+Flat IP  flat IP architectures in mobile networks
+LTE-A
+LTE-A Pro
+LTE-U
+NarrowBand IoT (NB-IoT)
+Simulation of LTE Networks
+QoS Class Identifier (QCI)   the mechanism used in LTE networks to allocate proper Quality of Service to bearer traffic
+System architecture evolution  the re-architecturing of core networks in LTE
+VoLTE
+WiMAX  a competitor to LTE
+References[edit]
+^ "An Introduction to LTE". 3GPP LTE Encyclopedia. Retrieved December 3, 2010.
+^ "Long Term Evolution (LTE): A Technical Overview" (PDF). Motorola. Retrieved July 3, 2010.
+^ "Newsroom   Press Release". Itu.int. Retrieved October 28, 2012.
+^ "ITU-R Confers IMT-Advanced (4G) Status to 3GPP LTE" (Press release). 3GPP. October 20, 2010. Retrieved May 18, 2012.
+^ pressinfo (October 21, 2009). "Press Release: IMT-Advanced (4G) Mobile wireless broadband on the anvil". Itu.int. Retrieved October 28, 2012.
+^ "Newsroom   Press Release". Itu.int. Retrieved October 28, 2012.
+^ ETSI Long Term Evolution Archived March 3, 2015, at the Wayback Machine page
+^ "Work Plan 3GPP (Release 99)". January 16, 2012. Retrieved March 1, 2012.
+^ "LSTI job complete". Archived from the original on January 12, 2013. Retrieved March 1, 2012.
+^ "LTE/SAE Trial Initiative (LSTI) Delivers Initial Results". November 7, 2007. Retrieved March 1, 2012.
+^ Temple, Stephen (November 18, 2014). "Vintage Mobiles: Samsung SCH-r900   The world's first LTE Mobile (2010)". History of GMS: Birth of the mobile revolution.
+^ "Samsung Craft, the world's first 4G LTE phone, now available at MetroPCS". Unwired View. September 21, 2010. Archived from the original on June 10, 2013. Retrieved April 24, 2013.
+^ "MetroPCS debuts first 4G LTE Android phone, Samsung Galaxy Indulge". Android and Me. February 9, 2011. Retrieved March 15, 2012.
+^ "MetroPCS snags first LTE Android phone". Networkworld.com. Archived from the original on January 17, 2012. Retrieved March 15, 2012.
+^ "Verizon launches its first LTE handset". Telegeography.com. March 16, 2011. Retrieved March 15, 2012.
+^ "HTC ThunderBolt is officially Verizon's first LTE handset, come March 17th". Phonearena.com. Retrieved March 15, 2012.
+^ "Rogers lights up Canada's first LTE network today". CNW Group Ltd. July 7, 2011. Archived from the original on July 16, 2015. Retrieved October 28, 2012.
+^ LTE   An End-to-End Description of Network Architecture and Elements. 3GPP LTE Encyclopedia. 2009.
+^ "AT&T commits to LTE-Advanced deployment in 2013, Hesse and Mead unfazed". Engadget. November 8, 2011. Retrieved March 15, 2012.
+^ "What is LTE-Advanced Pro?". 5g.co.uk. Retrieved June 9, 2019.
+^ LTE   an introduction (PDF). Ericsson. 2009. Archived from the original (PDF) on August 1, 2010.
+^ "Long Term Evolution (LTE)" (PDF). Motorola. Retrieved April 11, 2011.
+^ "The Asahi Shimbun". The Asahi Shimbun. Retrieved June 9, 2019.
+^ "Nomor Research: World's first LTE demonstration". Archived from the original on October 5, 2011. Retrieved August 12, 2008.
+^ "Ericsson demonstrates live LTE at 144Mbps". Archived from the original on August 27, 2009.
+^ "Design". Archived from the original on September 27, 2011.
+^ "Infineon Ships One Billion RF-Transceivers; Introduces Next-Generation LTE Chip". Infineon Technologies. Retrieved June 9, 2019.
+^ "Intel  Mobile Modem Solutions". Intel. Retrieved June 9, 2019.
+^ a b "Ericsson to make World-first demonstration of end-to-end LTE call on handheld devices at Mobile World Congress, Barcelona". Archived from the original on September 9, 2009.
+^ "Motorola Media Center   Press Releases". Motorola. February 7, 2008. Retrieved March 24, 2010.
+^ "Freescale Semiconductor To Demo LTE In Mobile Handsets". InformationWeek.
+^ "Walko, John "NXP powers ahead with programmable LTE modem", EETimes, January 30, 2008".
+^ "Walko, John "PicoChip, MimoOn team for LTE ref design", EETimes, February 4, 2008".
+^ "Motorola Media Center   Press Releases". Motorola. March 26, 2008. Retrieved March 24, 2010.
+^ "Nortel and LG Electronics Demo LTE at CTIA and with High Vehicle Speeds:: Wireless-Watch Community". Archived from the original on June 6, 2008.
+^ "Motorola Media Center     Motorola Demonstrates Industry First Over-the-Air LTE Session in 700 MHz Spectrum". Mediacenter.motorola.com. November 3, 2008. Retrieved March 24, 2010.
+^ "News and events". Nokia. Retrieved June 9, 2019.
+^ "Infineon Introduces Two New RF-Chips for LTE and 3G   SMARTi LU for Highest Data Rates with LTE and SMARTi UEmicro for Lowest Cost 3G Devices". Infineon Technologies. January 14, 2009. Retrieved March 24, 2010.
+^ "MWC: Alcatel-Lucent focusing on cross-industry collaboration". Telephonyonline.com. Retrieved March 24, 2010.
+^ "Motorola Brings LTE to Life on the Streets of Barcelona". Motorola. February 16, 2009. Retrieved March 24, 2010.
+^ "achieves best ever LTE transmitter efficiency". Nujira. July 16, 2009. Archived from the original on July 14, 2011. Retrieved March 24, 2010.
+^ "News Releases: Nortel and LG Electronics Complete World's First 3GPP Compliant Active Handover Between CDMA and LTE Networks". Nortel. August 27, 2009. Archived from the original on July 14, 2011. Retrieved March 24, 2010.
+^ "Alcatel-Lucent gains LTE/700 MHz certification   RCR Wireless News". Rcrwireless.com. August 24, 2009. Archived from the original on September 1, 2009. Retrieved March 24, 2010.
+^ "World's first LTE call on commercial software". Nokia Siemens Networks. September 17, 2009. Retrieved March 24, 2010.
+^ "Vivo Z1 pro Mobile   4G/LTE   Ericsson, Samsung Make LTE Connection   Telecom News Analysis". Light Reading Group. Retrieved March 24, 2010.[permanent dead link]
+^ Lynnette Luna (October 17, 2009). "Alcatel-Lucent says new antenna technology boosts LTE, 3G data speeds". FierceBroadbandWireless. Archived from the original on October 20, 2009. Retrieved March 24, 2010.
+^ "Alcatel-Lucent completes first 800 MHz live LTE call". The Inquirer. January 11, 2010. Archived from the original on November 21, 2009. Retrieved March 24, 2010.{{cite web}}:  CS1 maint: unfit URL (link)
+^ "and LG complete first end-to-end interoperability testing of LTE". Nokia Siemens Networks. November 24, 2009. Retrieved March 24, 2010.
+^ Goldstein, Phil (December 14, 2009). "TeliaSonera launches first commercial LTE network". fiercewireless.com. FierceMarkets. Retrieved October 21, 2011.
+^ "NetCom 4G". Archived from the original on December 20, 2012.  
+^ "Daily Mobile Blog". Archived from the original on April 19, 2012.
+^ "ST-Ericsson". ST-Ericsson. Archived from the original on January 28, 2013. Retrieved March 24, 2010.
+^ "Alcatel-Lucent and LG Electronics Complete a Live Handoff of an End-to-End Data Call Between LTE and CDMA networks". Your Communication News. January 8, 2010. Retrieved March 24, 2010.
+^ "4G Wireless Evolution   Telefonica and Nokia Siemens Demonstrate Live LTE in a Real Network Environment". Mobility Tech Zone. Technology Marketing Corp. (TMCnet). February 15, 2010. Retrieved March 24, 2010.
+^ "MTS and Huawei showcase LTE at Sviaz-Expocomm 2010" (in Russian). Mobile TeleSystems. May 11, 2010. Archived from the original on July 18, 2011. Retrieved May 22, 2010.
+^ "Front Page". The Official Motorola Blog.
+^ "DirecTV Tests LTE With Verizon Wireless".
+^ "SRI LANKA TELECOM MOBITEL RINGS IN 20 SUCCESSFUL YEARS. Well on its way to lead Sri Lanka towards an info-com and knowledge-rich society | Mobitel". www.mobitel.lk.
+^ "LTE Commercial Contracts". Retrieved December 10, 2010.
+^ "Telef nica drives the fourth-generation mobile technology by commissioning six advanced pilot trials" (PDF). Retrieved October 2, 2009.
+^ "Telecom accende la rete mobile di quarta generazione". Il Sole 24 ORE. Retrieved March 24, 2010.
+^ "Scartel to launch "$30-$40m" LTE network in Kazan". Marchmont.ru. Retrieved June 9, 2019.
+^ "Rogers launches first LTE technical trial in Ottawa". reuters.com. October 6, 2010.
+^ "Mobitel, the first in South Asia to successfully demonstrate LTE, achieving a data rate of 96 Mbps". Mobitel. Sri Lanka Telecom. May 6, 2011. Archived from the original on June 21, 2011. Retrieved June 24, 2011.
+^ "Dialog empowers Colombo as South Asia's first 4G LTE powered city". Daily FT. May 9, 2011. Archived from the original on May 12, 2011. Retrieved June 9, 2019.
+^ "About TELUS". Archived from the original on March 14, 2015. Retrieved May 31, 2016.
+^ "reportonbusiness.com: Wireless sales propel Telus results".
+^ "Cox goes with LTE-ready CDMA". Archived from the original on July 26, 2011.
+^ "GSA: LTE-5G Market Statistics  March 2019 Update". Retrieved April 2, 2019.
+^ "The State of Mobile Network Experience- Benchmarking 5G". opensignal.com. May 29, 2019. Retrieved September 6, 2019.
+^ Boyland, Peter (May 2019). "The State of Mobile Network Experience (PDF)" (PDF). Opensignal. Retrieved September 6, 2019.
+^ "Huawei rejects EU dumping, subsidy charges". China Daily (European edition). May 23, 2013. Retrieved January 9, 2014.
+^ a b c d e Michael Kan (January 20, 2011). "Huawei: More Trials of TD-LTE in Asia Expected". PC World. Retrieved December 9, 2013.
+^ a b Liau Yun Qing (June 22, 2011). "China's TD-LTE spreads across globe". ZDNet. Retrieved December 9, 2013.
+^ a b Dan Meyer (February 25, 2013). "MWC 2013: TD-LTE group touts successful global roaming trials". RCR Wireless News. Retrieved December 10, 2013.
+^ Dan Jones (October 16, 2012). "Defining 4G: What the Heck Is LTE TDD?". Light Reading. Retrieved January 9, 2014.
+^ a b Kim Yoo-chul (November 18, 2013). "Gov't to pick 4th mobile carrier". The Korea Times. Retrieved December 10, 2013.
+^ Ian Poole. "LTE-FDD, TDD, TD-LTE Duplex Schemes". Radio-electronics.com. Retrieved January 9, 2014.
+^ a b c d e f g Cian O'Sullivan (10 November 2010). "Nokia developing TD-LTE devices for China Mobile". GoMo News. Archived from the original on 28 March 2014. Retrieved 9 December 2013.
+^ Josh Taylor (December 4, 2012). "Optus to launch TD-LTE 4G network in Canberra". ZDNet. Retrieved January 9, 2014.
+^ Ian Poole. "LTE Frequency Bands & Spectrum Allocations". Radio-electronics.com. Retrieved January 9, 2014.
+^ "MWC 2013: Ericsson and China Mobile demo first dual mode HD VoLTE call based on multi-mode chipsets". Wireless   Wireless Communications For Public Services And Private Enterprises. London, UK: Noble House Media. March 4, 2013. Archived from the original on March 28, 2014. Retrieved January 9, 2014.
+^ Steve Costello (August 2, 2013). "GCF and GTI partner for TD-LTE device certification". Mobile World Live. Retrieved January 9, 2014.
+^ a b c "Qualcomm India's Dr. Avneesh Agrawal on 4G, Snapdragon and more". Digit. February 8, 2013. Retrieved December 10, 2013.
+^ a b "ZTE, China Mobile Hong Kong to construct LTE-TDD network". TT Magazine. July 20, 2012. Retrieved December 10, 2013.
+^ a b c Tan Min (May 7, 2013). "Competitors Try Curbing China Mobile's 4G Urge". Caixin Online. Caixin Media. Retrieved December 10, 2013.
+^ Sophie Curtis (January 4, 2012). "TD-LTE 4G standard gains momentum: ABI Research". Techworld. Retrieved December 10, 2013.
+^ Nick Wood (October 21, 2011). "Huawei trials white spaces TD-LTE kit". Total Telecom. Retrieved December 10, 2013.
+^ "Intel and Huawei set up LTE TDD lab in China". Global Telecoms Business. April 10, 2012. Retrieved December 10, 2013.[permanent dead link]
+^ Sharif Sakr (December 8, 2011). "Nokia Siemens promises better TD-LTE and CDMA coverage, no alarms or surprises". Engadget. Retrieved December 10, 2013.
+^ Kevin Fitchard (July 4, 2013). "Belgium's Accelleran aims to corner the small cell market for that other LTE". GigaOM. Retrieved December 10, 2013.
+^ "Ericsson, Reliance showcases first LTE-TDD ecosystem". The Indian Express. December 2, 2010. Retrieved December 9, 2013.
+^ "Nokia Siemens Networks TD-LTE whitepaper" (PDF). 2010. Archived from the original (PDF) on 11 June 2014. Retrieved 5 March 2014.
+^ "LTE TDD: network plans, commitments, trials, deployments". Telecoms.com. Retrieved December 11, 2013.
+^ "Huawei partners with Aero2 to launch LTE TDD/FDD commercial network". Computer News Middle East. September 21, 2011. Retrieved December 10, 2013.
+^ Sam Byford (February 20, 2012). "SoftBank launching 110Mbps AXGP 4G network in Japan this week". The Verge. Retrieved June 7, 2015.
+^ Zahid Ghadialy (February 21, 2012). "SoftBank launching 110Mbps AXGP 4G network in Japan this week". The 3G4G Blog. Retrieved June 7, 2015.
+^ Phil Goldstein (June 22, 2012). "Report: TD-LTE to power 25% of LTE connections by 2016". FierceWireless. Retrieved December 10, 2013.
+^ Rachel King (July 9, 2013). "Done deal: Sprint now owns 100 percent of Clearwire". ZDNet. Retrieved December 10, 2013.
+^ Kevin Fitchard (October 30, 2013). "What's igniting Spark? A look inside Sprint's super-LTE network". GigaOM. Retrieved December 10, 2013.
+^ Sarah Reedy (July 12, 2013). "Sprint's LTE TDD Future to Boost Current Vendors". Light Reading. Retrieved December 10, 2013.
+^ Richard Lai (December 4, 2013). "China finally grants 4G licenses, but still no iPhone deal for China Mobile". Engadget. Retrieved December 10, 2013.
+^ Ben Munson (January 31, 2014). "China Mobile, NSN Complete Live VoLTE Test on TD-LTE". Wireless Week. Archived from the original on March 5, 2016. Retrieved February 11, 2014.
+^ "NSN and Sprint achieves huge leap in TD-LTE network speeds". TelecomTiger. February 6, 2014. Retrieved February 11, 2014.
+^ "Evolution of LTE". LTE World. Retrieved October 24, 2011.
+^ KG, Rohde & Schwarz GmbH & Co. "Voice and SMS in LTE". www.rohde-schwarz.com. Retrieved June 9, 2019.
+^ Chen, Qunhui (September 2011). "Evolution and Deployment of VoLTE" (PDF). Huawei Communicate Magazine (61). Archived from the original (PDF) on November 8, 2011..
+^ "VoLGA whitepaper" (PDF). Retrieved June 9, 2019.
+^ Incorporated, Qualcomm. "Qualcomm Chipset Powers First Successful VoIP-Over-LTE Call With Single Radio Voice Call Continuity". www.prnewswire.com. Retrieved June 9, 2019.
+^ "LTE delivers superior voice, too" (PDF). Ericsson. Archived from the original (PDF) on September 24, 2015.
+^ "Fraunhofer IIS Demos Full-HD Voice Over LTE On Android Handsets". HotHardware. February 25, 2012. Retrieved June 9, 2019.
+^ "Firm Set to Demo HD Voice over LTE". Archived from the original on June 19, 2013.
+^ "EC makes official recommendation for 790 862 MHz release". October 29, 2009. Retrieved March 11, 2012.
+^ "Europe plans to reserve 800 MHz frequency band for LTE and WiMAX". May 16, 2010. Retrieved March 11, 2012.
+^ "GSMA Intelligence   Research   Hong Kong and Singapore lead LTE charge in Asia-Pacific". www.gsmaintelligence.com. Retrieved June 9, 2019.
+^ "Latest news on technology and innovation". Ericsson. December 5, 2016. Retrieved June 9, 2019.
+^ Taylor, Josh (April 14, 2011). "Optus still evaluating LTE". ZDNet. Archived from the original on March 18, 2012.
+^ "New Zealand 4G LTE launch". February 28, 2013.
+^ a b "Who Owns LTE Patents?". ipeg. March 6, 2012. Archived from the original on March 29, 2014. Retrieved March 10, 2012.
+^ Elizabeth Woyke (September 21, 2011). "Identifying The Tech Leaders In LTE Wireless Patents". Forbes. Retrieved March 10, 2012. Second comment by the author: "Thus, any analysis of essential LTE patents should take into account more than ETSI declarations."
+^ Galetovic, Alexander; Haber, Stephen; Zaretzki, Lew (September 25, 2016). "A New Dataset on Mobile Phone Patent License Royalties". Stanford University: Hoover Institution. Retrieved January 23, 2017.
+^ Mallinson, Keith (August 19, 2015). "On Cumulative mobile-SEP royalties" (PDF). WiseHarbor. Retrieved January 23, 2017.
+^ Sidak, Gregory (2016). "What Aggregate Royalty Do Manufacturers of Mobile Phones Pay to License Standard-Essential Patents" (PDF). The Criterion Journal on Innovation. Retrieved January 19, 2017.
+Further reading[edit]
+Agilent Technologies, LTE and the Evolution to 4G Wireless: Design and Measurement Challenges Archived July 10, 2019, at the Wayback Machine, John Wiley & Sons, 2009 ISBN 978-0-470-68261-6
+Beaver, Paul, "What is TD-LTE?", RF&Microwave Designline, September 2011.
+E. Dahlman, H. Ekstr m, A. Furusk r, Y. Jading, J. Karlsson, M. Lundevall, and S. Parkvall, "The 3G Long-Term Evolution  Radio Interface Concepts and Performance Evaluation", IEEE Vehicular Technology Conference (VTC) 2006 Spring, Melbourne, Australia, May 2006
+Erik Dahlman, Stefan Parkvall, Johan Sk ld, Per Beming, 3G Evolution  HSPA and LTE for Mobile Broadband, 2nd edition, Academic Press, 2008, ISBN 978-0-12-374538-5
+Erik Dahlman, Stefan Parkvall, Johan Sk ld, 4G  LTE/LTE-Advanced for Mobile Broadband, Academic Press, 2011, ISBN 978-0-12-385489-6
+Sajal K. Das, John Wiley & Sons (April 2010): Mobile Handset Design, ISBN 978-0-470-82467-2.
+Sajal K. Das, John Wiley & Sons (April 2016): Mobile Terminal Receiver Design: LTE and LTE-Advanced, ISBN 978-1-1191-0730-9 .
+H. Ekstr m, A. Furusk r, J. Karlsson, M. Meyer, S. Parkvall, J. Torsner, and M. Wahlqvist, "Technical Solutions for the 3G Long-Term Evolution", IEEE Commun. Mag., vol. 44, no. 3, March 2006, pp. 38 45
+Mustafa Ergen, Mobile Broadband: Including WiMAX and LTE, Springer, NY, 2009
+K. Fazel and S. Kaiser, Multi-Carrier and Spread Spectrum Systems: From OFDM and MC-CDMA to LTE and WiMAX, 2nd Edition, John Wiley & Sons, 2008, ISBN 978-0-470-99821-2
+Dan Forsberg, G nther Horn, Wolf-Dietrich Moeller, Valtteri Niemi, LTE Security, Second Edition, John Wiley & Sons Ltd, Chichester 2013, ISBN 978-1-118-35558-9
+Borko Furht, Syed A. Ahson, Long Term Evolution: 3GPP LTE Radio and Cellular Technology, CRC Press, 2009, ISBN 978-1-4200-7210-5
+Chris Johnson, LTE in BULLETS, CreateSpace, 2010, ISBN 978-1-4528-3464-1
+F. Khan, LTE for 4G Mobile Broadband  Air Interface Technologies and Performance, Cambridge University Press, 2009
+Guowang Miao, Jens Zander, Ki Won Sung, and Ben Slimane, Fundamentals of Mobile Data Networks, Cambridge University Press, 2016, ISBN 1107143217
+Stefania Sesia, Issam Toufik, and Matthew Baker, LTE  The UMTS Long Term Evolution: From Theory to Practice, Second Edition including Release 10 for LTE-Advanced, John Wiley & Sons, 2011, ISBN 978-0-470-66025-6
+Gautam Siwach, Dr Amir Esmailpour, "LTE Security Potential Vulnerability and Algorithm Enhancements", IEEE Canadian Conference on Electrical and Computer Engineering (IEEE CCECE), Toronto, Canada, May 2014
+SeungJune Yi, SungDuck Chun, YoungDae lee, SungJun Park, SungHoon Jung, Radio Protocols for LTE and LTE-Advanced, Wiley, 2012, ISBN 978-1-118-18853-8
+Y. Zhou, Z. Lei and S. H. Wong, Evaluation of Mobility Performance in 3GPP Heterogeneous Networks 2014 IEEE 79th Vehicular Technology Conference (VTC Spring), Seoul, 2014, pp. 1 5.
+External links[edit]
+LTE  at Wikipedia's sister projects
+Media from CommonsData from Wikidata
+LTE homepage from the 3GPP website
+LTE Frequently Asked Questions
+LTE Deployment Map
+A Simple Introduction to the LTE Downlink
+LTE-3GPP.info: online LTE messages decoder fully supporting Rel.14
+vteCellular network standardsList of mobile phone generations0G radio telephones (1946)
+MTS
+IMTS
+Altai
+OLT
+MTA - MTB - MTC - MTD
+AMTS
+Autotel (PALM)
+ARP
+B-Netz
+AMR
+1G (1979)AMPS family
+AMPS - N-AMPS
+TACS - ETACS
+Other
+NMT
+C-450
+Hicap
+Mobitex
+DataTAC
+CT1
+2G (1991)GSM/3GPP family
+GSM
+CSD - HSCSD
+3GPP2 family
+cdmaOne (IS-95)
+AMPS family
+D-AMPS (IS-54 and IS-136)
+Other
+CDPD
+iDEN
+PDC
+PHS
+CT2
+2G transitional(2.5G, 2.75G)GSM/3GPP family
+GPRS
+EDGE/EGPRS - Evolved EDGE
+3GPP2 family
+CDMA2000 1X (TIA/EIA/IS-2000)
+CDMA2000 1X Advanced
+Other
+WiDEN
+DECT
+3G (1998)IMT-2000 (2001)3GPP family
+UMTS
+UTRA-FDD / W-CDMA
+FOMA
+UTRA-TDD LCR / TD-SCDMA
+UTRA-TDD HCR / TD-CDMA
+3GPP2 family
+CDMA2000 1xEV-DO Release 0 (TIA/IS-856)
+3G transitional(3.5G, 3.75G, 3.9G)3GPP family
+HSPA
+HSDPA
+HSUPA
+HSPA+
+DC-HSDPA
+LTE (E-UTRA)
+3GPP2 family
+CDMA2000 1xEV-DO Revision A (TIA/EIA/IS-856-A)
+EV-DO Revision B (TIA/EIA/IS-856-B)
+EV-DO Revision C
+IEEE family
+Mobile WiMAX
+IEEE 802.16e
+Flash-OFDM
+iBurst (IEEE 802.20)
+WiBro
+ETSI family
+HiperMAN
+4G (2009)IMT Advanced (2013)3GPP family
+LTE Advanced (E-UTRA)
+LTE Advanced Pro (4.5G Pro/pre-5G/5G E/4.9G)
+IEEE family
+WiMAX (IEEE 802.16m)
+WiMax 2.1 (LTE-TDD / TD-LTE)
+WiBro
+5G (2018)IMT-2020 (2021)3GPP family
+5G NR
+5G-Advanced
+NR-IIoT
+LTE-M
+NB-IoT
+Other
+DECT-5G
+Related articles
+Cellular networks
+Mobile telephony
+History
+Comparison of standards
+Channel access methods
+FDMA
+OFDMA
+TDMA
+STDMA
+SSMA
+CDMA
+SDMA
+Spectral efficiency comparison table
+Frequency bands
+GSM
+UMTS
+LTE
+5G NR
+CDMA
+Mobile broadband
+Multimedia Broadcast Multicast Service
+NGMN Alliance
+Push-to-talk
+MIMO
+IMS
+VoLTE
+ViLTE
+VoNR
+ViNR
+Wi-Fi Calling
+Osmocom
+ Telecommunication portal Telephones portal
+vteWireless video and data distribution methodsRadio
+Digital radio
+Internet radio
+Radio broadcasting
+Satellite radio
+Video
+Amateur television
+Internet television
+Mobile television
+Terrestrial television
+Digital
+Satellite television
+Visual sensor network
+Data
+Mobile broadband
+Satellite Internet access
+Wireless broadband
+Wireless local loop
+Standards
+3GPP family
+Long Term Evolution (LTE)
+5G New Radio
+Multimedia Broadcast Multicast Service (MBMS)
+Digital Video Broadcasting
+Terrestrial (DVB-T)
+Handheld (DVB-H)
+Satellite (DVB-S2)
+IEEE 802 family
+Mobile WiMAX
+Mobile broadband wireless access
+IEEE 802.15.3 (UWB)
+Wi-Fi
+WiMAX
+WRAN
+Advanced Wireless Services (AWS)
+Educational Broadband Service (EBS)
+HomeRF
+Multichannel Video and Data Distribution Service (MVDDS)
+Multipoint Video Distribution System (MVDS)
+Wireless USB
+Technologies
+Local multipoint distribution service (LMDS)
+Multichannel multipoint distribution service (MMDS)
+Related
+Broadcasting
+Ku band
+Microwave
+vteTelecommunicationsHistory
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Data compression
+audio
+DCT
+image
+video
+Digital media
+Internet video
+online video platform
+social media
+streaming
+Drums
+Edholm's law
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Information Age
+Information revolution
+Internet
+Mass media
+Mobile phone
+Smartphone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Semiconductor
+device
+MOSFET
+transistor
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+digital
+streaming
+Undersea telegraph line
+Videotelephony
+Whistled language
+Wireless revolution
+Pioneers
+Nasir Ahmed
+Edwin Howard Armstrong
+Mohamed M. Atalla
+John Logie Baird
+Paul Baran
+John Bardeen
+Alexander Graham Bell
+Emile Berliner
+Tim Berners-Lee
+Francis Blake (telephone)
+Jagadish Chandra Bose
+Charles Bourseul
+Walter Houser Brattain
+Vint Cerf
+Claude Chappe
+Yogen Dalal
+Daniel Davis Jr.
+Donald Davies
+Amos Dolbear
+Thomas Edison
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Oliver Heaviside
+Robert Hooke
+Erna Schneider Hoover
+Harold Hopkins
+Gardiner Greene Hubbard
+Internet pioneers
+Bob Kahn
+Dawon Kahng
+Charles K. Kao
+Narinder Singh Kapany
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Robert Metcalfe
+Antonio Meucci
+Samuel Morse
+Jun-ichi Nishizawa
+Charles Grafton Page
+Radia Perlman
+Alexander Stepanovich Popov
+Tivadar Pusk s
+Johann Philipp Reis
+Claude Shannon
+Almon Brown Strowger
+Henry Sutton
+Charles Sumner Tainter
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Thomas A. Watson
+Charles Wheatstone
+Vladimir K. Zworykin
+Transmissionmedia
+Coaxial cable
+Fiber-optic communication
+optical fiber
+Free-space optical communication
+Molecular communication
+Radio waves
+wireless
+Transmission line
+data transmission circuit
+telecommunication circuit
+Network topologyand switching
+Bandwidth
+Links
+Nodes
+terminal
+Network switching
+circuit
+packet
+Telephone exchange
+Multiplexing
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+Concepts
+Communication protocol
+Computer network
+Data transmission
+Store and forward
+Telecommunications equipment
+Types of network
+Cellular network
+Ethernet
+ISDN
+LAN
+Mobile
+NGN
+Public Switched Telephone
+Radio
+Television
+Telex
+UUCP
+WAN
+Wireless network
+Notable networks
+ARPANET
+BITNET
+CYCLADES
+FidoNet
+Internet
+Internet2
+JANET
+NPL network
+Toasternet
+Usenet
+Locations
+Africa
+Americas
+North
+South
+Antarctica
+Asia
+Europe
+Oceania
+(Global telecommunications regulation bodies)
+ Telecommunication portal
+ Category
+ Outline
+ Commons
+vteInternet accessWired
+Cable
+Dial-up
+DOCSIS
+DSL
+Ethernet
+FTTx
+G.hn
+HD-PLC
+HomePlug
+HomePNA
+IEEE 1901
+ISDN
+MoCA
+PON
+Power-line
+Broadband
+Wireless PAN
+Bluetooth
+Li-Fi
+Wireless USB
+Wireless LAN
+Wi-Fi
+Long range wireless
+5G NR
+DECT
+EVDO
+GPRS
+HSPA
+iBurst
+LTE
+MMDS
+Muni Wi-Fi
+Satellite
+UMTS-TDD
+WiMAX
+WiBro
+Authority control: National 
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=LTE_(telecommunication)&oldid=1144780476"

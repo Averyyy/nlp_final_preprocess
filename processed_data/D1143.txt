@@ -1,0 +1,321 @@
+System used by the ancient Mayan civilization to represent numbers and dates
+ Maya numerals
+400s
+20s
+1s
+33
+429
+5125
+Part of a series onNumeral systems
+Place-value notation
+Hindu-Arabic numerals
+Western Arabic
+Eastern Arabic
+Bengali
+Devanagari
+Gujarati
+Gurmukhi
+Odia
+Sinhala
+Tamil
+Malayalam
+Telugu
+Kannada
+Dzongkha
+Tibetan
+Balinese
+Burmese
+Javanese
+Khmer
+Lao
+Mongolian
+Sundanese
+Thai
+East Asian systems
+Contemporary
+Chinese
+Suzhou
+Hokkien
+Japanese
+Korean
+Vietnamese
+Historic
+Counting rods
+Tangut
+Other systems
+History
+Ancient
+Babylonian
+Post-classical
+Cistercian
+Mayan
+Muisca
+Pentadic
+Quipu
+Rumi
+Contemporary
+Cherokee
+Kaktovik (I upiaq)
+By radix/base
+Common radices/bases
+2
+3
+4
+5
+6
+8
+10
+12
+16
+20
+60
+(table)
+Non-standard radices/bases
+Bijective (1)
+Signed-digit (balanced ternary)
+Mixed (factorial)
+Negative
+Complex (2i)
+Non-integer ( )
+Asymmetric
+Sign-value notation
+Non-alphabetic
+Aegean
+Attic
+Brahmi
+Chuvash
+Egyptian
+Etruscan
+Kharosthi
+Prehistoric counting
+Proto-cuneiform
+Roman
+Tally marks
+Alphabetic
+Abjad
+Armenian
+Alphasyllabic
+Ak arapall 
+ ryabha a
+Ka apay di
+Coptic
+Cyrillic
+Ge ez
+Georgian
+Glagolitic
+Greek
+Hebrew
+List of numeral systemsvte
+The Mayan numeral system was the system to represent numbers and calendar dates in the Maya civilization. It was a vigesimal (base-20) positional numeral system. The numerals are made up of three symbols: zero (a shell),[1] one (a dot) and five (a bar). For example, thirteen is written as three dots in a horizontal row above two horizontal bars; sometimes it is also written as three vertical dots to the left of two vertical bars. With these three symbols, each of the twenty vigesimal digits could be written.
+Numbers after 19 were written vertically in powers of twenty. The Maya used powers of twenty, just as the Hindu Arabic numeral system uses powers of ten.[2] For example, thirty-three would be written as one dot, above three dots atop two bars. The first dot represents "one twenty" or "1 20", which is added to three dots and two bars, or thirteen. Therefore, (1 20) + 13 = 33. Upon reaching 202 or 400, another row is started (203 or 8000, then 204 or 160,000, and so on). The number 429 would be written as one dot above one dot above four dots and a bar, or (1 202) + (1 201) + 9 = 429.
+Other than the bar and dot notation, Maya numerals were sometimes illustrated by face type glyphs or pictures. The face glyph for a number represents the deity associated with the number. These face number glyphs were rarely used, and are mostly seen on some of the most elaborate monumental carvings.
+Addition and subtraction[edit]
+Adding and subtracting numbers below 20 using Maya numerals is very simple.
+Addition is performed by combining the numeric symbols at each level:
+If five or more dots result from the combination, five dots are removed and replaced by a bar. If four or more bars result, four bars are removed and a dot is added to the next higher row. This also means that the value of 1 bar is 5.
+Similarly with subtraction, remove the elements of the subtrahend symbol from the minuend symbol:
+If there are not enough dots in a minuend position, a bar is replaced by five dots. If there are not enough bars, a dot is removed from the next higher minuend symbol in the column and four bars are added to the minuend symbol which is being worked on.
+Modified vigesimal system in the Maya calendar[edit]
+ Detail showing in the right columns glyphs from La Mojarra Stela 1.  The left column uses Maya  or 156 CE. The "Long Count" portion of the Maya calendar uses a variation on the strictly numerals to show a Long Count date of 8.5.16.9.7  vigesimal numbering. In the second position, only the digits up to 17 are used, and the place value of the third position is not 20 20 = 400, as would otherwise be expected, but 18 20 = 360 so that one dot over two zeros signifies 360.  Presumably, this is because 360 is roughly the number of days in a year. (The Maya had however a quite accurate estimation of 365.2422 days for the solar year at least since the early Classic era.)[3] Subsequent positions use all twenty digits and the place values continue as 18 20 20 = 7,200 and 18 20 20 20 = 144,000, etc.
+Every known example of large numbers in the Maya system uses this 'modified vigesimal' system, with the third position representing multiples of 18 20. It is reasonable to assume, but not proven by any evidence, that the normal system in use was a pure base-20 system.[4]
+Origins[edit]
+Several Mesoamerican cultures used similar numerals and base-twenty systems and the Mesoamerican Long Count calendar requiring the use of zero as a place-holder. The earliest long count date (on Stela 2 at Chiapa de Corzo, Chiapas) is from 36 BC.[5]
+Since the eight earliest Long Count dates appear outside the Maya homeland,[6] it is assumed that the use of zero and the Long Count calendar predated the Maya, and was possibly the invention of the Olmec. Indeed, many of the earliest Long Count dates were found within the Olmec heartland. However, the Olmec civilization had come to an end by the 4th century BC, several centuries before the earliest known Long Count dates which suggests that zero was not an Olmec discovery.
+Unicode[edit]
+Main article: Mayan Numerals (Unicode block)
+Mayan numerals codes in Unicode comprise the block 1D2E0 to 1D2F3
+Mayan Numerals[1][2]Official Unicode Consortium code chart (PDF)
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+U+1D2Ex
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U+1D2Fx
+ 
+ 
+ 
+ 
+Notes
+1.^ As of Unicode version 15.0
+2.^ Grey areas indicate non-assigned code points
+See also[edit]
+Kaktovik numerals, a similar system from another culture, created in the late 20th century.
+References[edit]
+^ "mathematics - Was the symbol post-classical Mayans used to represent zero really derived from a depiction of a turtle shell?". History Stack Exchange. Retrieved 2021-09-30.
+^ Saxakali (1997). "Maya Numerals". Archived from the original on 2006-07-14. Retrieved 2006-07-29.
+^ Kallen, Stuart A. (1955). The Mayans. San Diego, CA: Lucent Books, Inc. pp. 56. ISBN 1-56006-757-8.
+^ Anderson, W. French.  Arithmetic in Maya Numerals.  American Antiquity, vol. 36, no. 1, 1971, pp. 54 63
+^ No long count date actually using the number 0 has been found before the 3rd century, but since the long count system would make no sense without some placeholder, and since Mesoamerican glyphs do not typically leave empty spaces, these earlier dates are taken as indirect evidence that the concept of 0 already existed at the time.
+^ Diehl, Richard (2004). The Olmecs: America's First Civilization. London: Thames & Hudson. p. 186. ISBN 0-500-02119-8. OCLC 56746987.
+Further reading[edit]
+Coe, Michael D. (1987). The Maya (4th edition (revised) ed.). London; New York: Thames & Hudson. ISBN 0-500-27455-X. OCLC 15895415.
+D az D az, Ruy (December 2006). "Apuntes sobre la aritm tica Maya" (online reproduction). Educere (in Spanish). T chira, Venezuela: Universidad de los Andes. 10 (35): 621 627. ISSN 1316-4910. OCLC 66480251.
+Davidson, Luis J.  The Maya Numerals.  Mathematics in School, vol. 3, no. 4, 1974, pp. 7 7
+Thompson, J. Eric S. (1971). Maya Hieroglyphic ting; An Introduction. Civilization of the American Indian Series, No. 56 (3rd ed.). Norman: University of Oklahoma Press. ISBN 0-8061-0447-3. OCLC 275252.
+External links[edit]
+Wikimedia Commons has media related to Maya numerals.
+Maya numerals converter - online converter from decimal numeration to Maya numeral notation.
+Anthropomorphic Maya numbers - online story of number representations.
+BabelStone Mayan Numerals - free font for Unicode Mayan numeral characters.
+vteMaya civilizationHistory
+Preclassic Maya
+Classic Maya collapse
+Spanish conquest
+Chiapas
+Guatemala
+Pet n
+Yucat n
+Topics
+Architecture
+E-Group
+Triadic pyramid
+Twin-pyramid complex
+Revival
+Art
+Graffiti
+Ceramics
+Cities
+Cuisine
+Dance
+Economy
+Trade
+Maritime trade
+Languages
+Classic
+Script
+List
+Mayanist
+Medicine
+Music
+Mythology
+Numerals
+People
+Sites
+Stelae
+Textiles
+Warfare
+Society
+Childhood
+Women
+Midwifery
+Religion
+Priesthood
+Sacrifice
+Human sacrifice
+Death rituals
+Social classes
+Ajaw
+Rulers
+Households
+Calendar
+Ajaw
+Baktun
+Haab 
+K atun
+K in
+Tun
+Tzolk in
+Winal
+Literature
+Annals of the Cakchiquels
+Chilam Balam
+Codices
+Dresden
+Grolier
+Madrid
+Paris
+Popol Vuh
+Rabinal Ach 
+Ritual of the Bacabs
+Songs of Dzitbalche
+T tulo C oyoi
+T tulo de Totonicap n
+Deities
+Classic
+Bacab
+Chaac
+Death gods
+God L
+Goddess I
+Hero Twins
+Howler monkey gods
+Itzamna
+Ixchel
+Jaguar gods
+K awiil
+Kinich Ahau
+Maize god
+Mam
+Moon goddess
+Yopaat
+Post-Classic
+Acat
+Ah-Muzen-Cab
+Akna
+Chin
+Ixtab
+Kukulkan
+Yum Kaax
+Popol Vuh
+Awilix
+Camazotz
+Hun Hunahpu
+Huracan
+Jacawitz
+Q uq umatz
+Tohil
+Vucub Caquix
+Xmucane and Xpiacoc
+Xquic
+Zipacna
+Kings
+B alaj Chan K awiil
+Ha  K in Xook
+Itzam K an Ahk II
+K ak  Tiliw Chan Yopaat
+K inich Janaab  Pakal
+K inich Yat Ahk II
+K inich Yax K uk  Mo 
+K inich Yo nal Ahk I
+Uaxaclajuun Ub aah K awiil
+Yo nal Ahk III
+Yuknoom Ch een II
+Yuknoom Yich aak K ahk 
+Queens
+Lady Eveningstar
+Lady of Itzan
+Lady of Tikal
+Lady Xoc
+Sak K uk 
+Wak Chanil Ajaw
+Yohl Ik nal
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Maya_numerals&oldid=1145363127"

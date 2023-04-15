@@ -1,0 +1,286 @@
+Mammalian protein found in Homo sapiens
+CRPAvailable structuresPDBOrtholog search: PDBe RCSB List of PDB id codes1B09, 1GNH, 1LJ7, 3L2Y, 3PVN, 3PVOIdentifiersAliasesCRP, PTX1, C-reactive protein, pentraxin-related, C-Reactive ProteinExternal IDsOMIM: 123260 MGI: 88512 HomoloGene: 128039 GeneCards: CRP Gene location (Human)Chr.Chromosome 1 (human)[1]Band1q23.2Start159,712,289 bp[1]End159,714,589 bp[1]Gene location (Mouse)Chr.Chromosome 1 (mouse)[2]Band1 H3|1 80.13 cMStart172,525,622 bp[2]End172,660,598 bp[2]RNA expression patternBgeeHumanMouse (ortholog)Top expressed inright lobe of liverislet of Langerhansgallbladderbody of pancreaspancreatic epithelial cellright coronary arterypancreatic ductal cellcanal of the cervixright lunggastric mucosaTop expressed inleft lobe of liversexually immature organismvas deferensthymusepididymisdigastric musclepancreasduodenumuterusislet of LangerhansMore reference expression dataBioGPSMore reference expression dataGene ontologyMolecular function
+low-density lipoprotein particle receptor binding
+calcium ion binding
+virion binding
+complement component C1q complex binding
+protein binding
+metal ion binding
+low-density lipoprotein particle binding
+choline binding
+identical protein binding
+Cellular component
+extracellular region
+extracellular space
+Biological process
+negative regulation of lipid storage
+positive regulation of superoxide anion generation
+positive regulation of gene expression
+inflammatory response
+acute-phase response
+negative regulation of macrophage derived foam cell differentiation
+opsonization
+defense response to Gram-positive bacterium
+complement activation, classical pathway
+innate immune response
+Sources:Amigo / QuickGOOrthologsSpeciesHumanMouseEntrez140112944EnsemblENSG00000132693ENSMUSG00000037942UniProtP02741P14847RefSeq (mRNA)NM_000567NM_001329057NM_001329058NM_001382703NM_007768RefSeq (protein)NP_000558NP_001315986NP_001315987NP_001369632NP_031794Location (UCSC)Chr 1: 159.71   159.71 MbChr 1: 172.53   172.66 MbPubMed search[3][4]WikidataView/Edit HumanView/Edit Mouse
+C-reactive protein (CRP) is an annular (ring-shaped) pentameric protein found in blood plasma, whose circulating concentrations rise in response to inflammation. It is an acute-phase protein of hepatic origin that increases following interleukin-6 secretion by macrophages and T cells. Its physiological role is to bind to lysophosphatidylcholine expressed on the surface of dead or dying cells (and some types of bacteria) in order to activate the complement system via C1q.[5]
+CRP is synthesized by the liver[6] in response to factors released by macrophages and fat cells (adipocytes).[7] It is a member of the pentraxin family of proteins.[6] It is not related to C-peptide (insulin) or protein C (blood coagulation). C-reactive protein was the first pattern recognition receptor (PRR) to be identified.[8]
+History[edit]
+Discovered by Tillett and Francis in 1930,[9] it was initially thought that CRP might be a pathogenic secretion since it was elevated in a variety of illnesses, including cancer.[6] The later discovery of hepatic synthesis (made in the liver) demonstrated that it is a native protein.[10][11][12] Initially, CRP was measured using the quellung reaction which gave a positive or a negative result. More precise methods nowadays use dynamic light scattering after reaction with CRP-specific antibodies.[13]
+Nomenclature[edit]
+CRP was so named because it was first identified as a substance in the serum of patients with acute inflammation that reacted with the cell wall  polysaccharide (C-polysaccharide) of pneumococcus.[14]
+Genetics and structure[edit]
+The CRP gene is located on chromosome 1 (1q23.2[15]). It is a member of the small pentraxins family. The monomer has 224 amino acids[16] and molecular mass of 25,106 Da. The complete protein, composed of five monomers, has a total mass of approximately 120,000 Da.  In serum, it assembles into stable pentameric structure with a discoid shape.[17]
+Function[edit]
+CRP binds to the phosphocholine expressed on the surface of bacterial cells such as pneumococcus bacteria. This activates the complement system, promoting phagocytosis by macrophages, which clears necrotic and apoptotic cells and bacteria.[18]>[13]
+This so-called acute phase response occurs as a result of increasing concentrations of IL-6, which is produced by macrophages[6] as well as adipocytes[7] in response to a wide range of acute and chronic inflammatory conditions such as bacterial, viral, or fungal infections; rheumatic and other inflammatory diseases; malignancy; and tissue injury and necrosis. These conditions cause release of interleukin-6 and other cytokines that trigger the synthesis of CRP and fibrinogen by the liver.
+CRP binds to phosphocholine on micro-organisms. It is thought to assist in complement binding to foreign and damaged cells and enhances phagocytosis by macrophages (opsonin-mediated phagocytosis), which express a receptor for CRP. It plays a role in innate immunity as an early defense system against infections.[13]
+Serum levels[edit]
+C-reactive proteinPurposeDetection of inflammation in body.[19]Test ofThe amount of CRP in the blood.[19]
+Measurement methods[edit]
+Traditional CRP measurement only detected CRP in the range of 10 to 1,000 mg/L, whereas high sensitivity CRP (hs-CRP) detects CRP in the range of 0.5 to 10 mg/L.[20] hs-CRP can detect cardiovascular disease risk when in excess of 3 mg/L, whereas below 1 mg/L would be low risk.[21] Traditional CRP measurement is faster and less costly than hs-CRP, and can be adequate for some applications, such as monitoring hemodialysis patients.[22]
+Normal[edit]
+In healthy adults, the normal concentrations of CRP varies between 0.8 mg/L and 3.0 mg/L. However, some healthy adults show elevated CRP at 10 mg/L. CRP concentrations also increase with age, possibly due to subclinical conditions. There is also no seasonal variations of CRP concentrations. Gene polymorphism of interleukin-1 family, interleukin 6, and polymorphic GT repeat of the CRP gene do affect the usual CRP concentrations when a person does not have any medical illnesses.[6] The plasma half-life of CRP is 19 hours, and is constant in all medical conditions.[citation needed]
+Acute inflammation[edit]
+When there is a stimulus, the CRP level can increase 10,000-fold from less than 50  g/L to more than 500 mg/L. Its concentration can increase to 5 mg/L by 6 hours and peak at 48 hours. Therefore, the only factor that affects the blood CRP concentration is its production rate, which increases with inflammation, infection, trauma, necrosis, malignancy, and allergic reactions. Other inflammatory mediators that can increase CRP are TGF beta 1, and tumor necrosis factor alpha. In acute inflammation, CRP can increase as much as 50 to 100 mg/L within 4 to 6 hours in mild to moderate inflammation or an insult such as skin infection, cystitis, or bronchitis[clarification needed]. It can double every 8 hours and reaches its peak at 36 to 50 hours following injury or inflammation. CRP between 100 and 500 mg/L is considered highly predictive of inflammation due to bacterial infection.  Once inflammation subsides, CRP level falls quickly because of its relatively short half-life.[13]
+Metabolic inflammation[edit]
+CRP concentrations between 2 and 10 mg/L are considered as metabolic inflammation: metabolic pathways that cause arteriosclerosis[23] and type II diabetes mellitus[24]
+Clinical significance[edit]
+Diagnostic use[edit]
+CRP is used mainly as an inflammation marker. Apart from liver failure, there are few known factors that interfere with CRP production.[6] Interferon alpha inhibits CRP production from liver cells which may explain the relatively low levels of CRP found during viral infections compared to bacterial infections [25][26]
+Measuring and charting CRP values can prove useful in determining disease progress or the effectiveness of treatments. ELISA, immunoturbidimetry, nephelometry, radial immunodiffusion[27][21][clarification needed]
+low: hs-CRP level under 1.0 mg/L
+average: between 1.0 and 3.0 mg/L
+high: above 3.0 mg/L
+Normal levels increase with aging.[28] Higher levels are found in late pregnant women, mild inflammation and viral infections (10 40 mg/L), active inflammation, bacterial infection (40 200 mg/L), severe bacterial infections and burns (>200 mg/L).[29]
+CRP cut-off levels indicating bacterial from non-bacterial illness can vary due to co-morbidities such as malaria, HIV and malnutrition and the stage of disease presentation.[30]
+CRP is a more sensitive and accurate reflection of the acute phase response than the ESR[31] (erythrocyte sedimentation rate). ESR may be normal while CRP is elevated. CRP returns to normal more quickly than ESR in response to therapy.[citation needed]
+Cardiovascular disease[edit]
+Recent research suggests that patients with elevated basal levels of CRP are at an increased risk of diabetes,[32][33] hypertension and cardiovascular disease. A study of over 700 nurses showed that those in the highest quartile of trans fat consumption had blood levels of CRP that were 73% higher than those in the lowest quartile.[34] Although one group of researchers indicated that CRP may be only a moderate risk factor for cardiovascular disease,[35] this study (known as the Reykjavik Study) was found to have some problems for this type of analysis related to the characteristics of the population studied, and there was an extremely long follow-up time, which may have attenuated the association between CRP and future outcomes.[36] Others have shown that CRP can exacerbate ischemic necrosis in a complement-dependent fashion and that CRP inhibition can be a safe and effective therapy for myocardial and cerebral infarcts; so far, this has been demonstrated in animal models only.[37]
+It has been hypothesized that patients with high CRP levels might benefit from use of statins. This is based on the JUPITER trial that found that elevated CRP levels without hyperlipidemia benefited. Statins were selected because they have been proven to reduce levels of CRP.[6][38] Studies comparing effect of various statins in hs-CRP revealed similar effects of different statins.[39][40] A subsequent trial however failed to find that CRP was useful for determining statin benefit.[41]
+In a meta-analysis of 20 studies involving 1,466 patients with coronary artery disease, CRP levels were found to be reduced after exercise interventions. Among those studies, higher CRP concentrations or poorer lipid profiles before beginning exercise were associated with greater reductions in CRP.[42]
+To clarify whether CRP is a bystander or active participant in atherogenesis, a 2008 study compared people with various genetic CRP variants. Those with a high CRP due to genetic variation had no increased risk of cardiovascular disease compared to those with a normal or low CRP.[43] A study published in 2011 shows that CRP is associated with lipid responses to low-fat and high-polyunsaturated fat diets.[44]
+Coronary heart disease risk[edit]
+Arterial damage results from white blood cell invasion and inflammation within the wall. CRP is a general marker for inflammation and infection, so it can be used as a very rough proxy for heart disease risk. Since many things can cause elevated CRP, this is not a very specific prognostic indicator.[45][46] Nevertheless, a level above 2.4 mg/L has been associated with a doubled risk of a coronary event compared to levels below 1 mg/L;[6] however, the study group in this case consisted of patients who had been diagnosed with unstable angina pectoris; whether elevated CRP has any predictive value of acute coronary events in the general population of all age ranges remains unclear. Currently, C-reactive protein is not recommended as a cardiovascular disease screening test for average-risk adults without symptoms.[47]
+The American Heart Association and U.S. Centers for Disease Control and Prevention have defined risk groups as follows:[48][21]
+Low Risk: less than 1.0 mg/L
+Average risk: 1.0 to 3.0 mg/L
+High risk: above 3.0 mg/L
+But hs-CRP is not to be used alone and should be combined with elevated levels of cholesterol, LDL-C, triglycerides, and glucose level. Smoking, hypertension and diabetes also increase the risk level of cardiovascular disease.
+Fibrosis and inflammation[edit]
+Scleroderma, polymyositis, and dermatomyositis elicit little or no CRP response.[citation needed] CRP levels also tend not to be elevated in SLE unless serositis or synovitis is present. Elevations of CRP in the absence of clinically significant inflammation can occur in kidney failure. CRP level is an independent risk factor for atherosclerotic disease. Patients with high CRP concentrations are more likely to develop stroke, myocardial infarction, and severe peripheral vascular disease.[49] Elevated level of CRP can also be observed in inflammatory bowel disease (IBD), including Crohn's disease and ulcerative colitis.[31][unreliable medical source]
+High levels of CRP has been associated to point mutation Cys130Arg in the APOE gene, coding for apolipoprotein E, establishing a link between lipid values and inflammatory markers modulation.[50][unreliable medical source?]
+Cancer[edit]
+The role of inflammation in cancer is not well understood. Some organs of the body show greater risk of cancer when they are chronically inflamed.[51]  While there is an association between increased levels of C-reactive protein and risk of developing cancer, there is no association between genetic polymorphisms influencing circulating levels of CRP and cancer risk.[52]
+In a 2004 prospective cohort study on colon cancer risk associated with CRP levels, people with colon cancer had higher average CRP concentrations than people without colon cancer.[53] It can be noted that the average CRP levels in both groups were well within the range of CRP levels usually found in healthy people. However, these findings may suggest that low inflammation level can be associated with a lower risk of colon cancer, concurring with previous studies that indicate anti-inflammatory drugs could lower colon cancer risk.[54]
+Obstructive sleep apnea[edit]
+C-reactive protein (CRP), a marker of systemic inflammation, is also increased in obstructive sleep apnea (OSA).  CRP and interleukin-6 (IL-6) levels were significantly higher in patients with OSA compared to obese control subjects.[55] Patients with OSA have higher plasma CRP concentrations that increased corresponding to the severity of their apnea-hypopnea index score.  Treatment of OSA with CPAP (continuous positive airway pressure) significantly alleviated the effect of OSA on CRP and IL-6 levels.[55]
+Rheumatoid arthritis[edit]
+In the context of RA, CRP is one of the acute phase reactants, whose assessment is defined as part of the joint 2010 ACR/EULAR classification criteria for RA with abnormal levels accounting for a single point within the criteria [56] Higher levels of CRP are associated with more severe disease and a higher likelihood of radiographic progression. Rheumatoid arthritis associated antibodies together with 14-3-3  YWHAH have been reported to complement CRP in predicting clinical and radiographic outcomes in patients with recent onset inflammatory polyarthritis.[57] Elevated levels of CRP appear to be associated with common comorbidities including cardiovascular disease, metabolic syndrome, diabetes and interstitial lung (pulmonary) disease. Mechanistically, CRP also appears to influence osteoclast activity leading to bone resorption and also stimulates RANKL expression in peripheral blood monocytes.[58]
+It has previously been speculated that single-nucleotide polymorphisms in the CRP gene may affect clinical decision-making based on CRP in rheumatoid arthritis, e.g. DAS28 (Disease Activity Score 28 joints). A recent study showed that CRP genotype and haplotype were only marginally associated with serum CRP levels and without any association to the DAS28 score.[59] Thus, that DAS28, which is the core parameter for inflammatory activity in RA, can be used for clinical decision-making without adjustment for CRP gene variants.[citation needed]
+Viral infections[edit]
+Increased blood CRP levels were higher in people with avian flu H7N9 compared to those with H1N1 (more common) influenza,[60] with a review reporting that severe H1N1 influenza had elevated CRP.[61] In 2020, people infected with COVID-19 in Wuhan, China had elevated CRP.[62][63][64]
+Additional images[edit]
+C-reactive protein
+C-reactive protein
+References[edit]
+^ a b c GRCh38: Ensembl release 89: ENSG00000132693 - Ensembl, May 2017
+^ a b c GRCm38: Ensembl release 89: ENSMUSG00000037942 - Ensembl, May 2017
+^ "Human PubMed Reference:". National Center for Biotechnology Information, U.S. National Library of Medicine.
+^ "Mouse PubMed Reference:". National Center for Biotechnology Information, U.S. National Library of Medicine.
+^ Thompson D, Pepys MB, Wood SP (February 1999). "The physiological structure of human C-reactive protein and its complex with phosphocholine". Structure. 7 (2): 169 77. doi:10.1016/S0969-2126(99)80023-9. PMID 10368284.
+^ a b c d e f g h Pepys MB, Hirschfield GM (June 2003). "C-reactive protein: a critical update". The Journal of Clinical Investigation. 111 (12): 1805 12. doi:10.1172/JCI18921. PMC 161431. PMID 12813013.
+^ a b Lau DC, Dhillon B, Yan H, Szmitko PE, Verma S (May 2005). "Adipokines: molecular links between obesity and atheroslcerosis". American Journal of Physiology. Heart and Circulatory Physiology. 288 (5): H2031 41. doi:10.1152/ajpheart.01058.2004. PMID 15653761.
+^ Mantovani A, Garlanda C, Doni A, Bottazzi B (January 2008). "Pentraxins in innate immunity: from C-reactive protein to the long pentraxin PTX3". Journal of Clinical Immunology. 28 (1): 1 13. doi:10.1007/s10875-007-9126-7. PMID 17828584. S2CID 20300531.
+^ Tillett WS, Francis T (September 1930). "Serological reactions in pneumonia with a nonprotein somatic fraction of pneumococcus". The Journal of Experimental Medicine. 52 (4): 561 71. doi:10.1084/jem.52.4.561. PMC 2131884. PMID 19869788.
+^ Kennelly PJ, Murray RF, Rodwell VW, Botham KM (2009). Harper's illustrated biochemistry. McGraw-Hill Medical. ISBN 978-0-07-162591-3.
+^ Pincus MR, McPherson RA, Henry JB (2007). Henry's clinical diagnosis and management by laboratory methods. Saunders Elsevier. ISBN 978-1-4160-0287-1.
+^ Ratey JJ, Noskin GA, Braun R, Hanley EN Jr, McInnes IB, Ruddy S (2008). Kelley's Textbook of Rheumatology: 2-Volume Set, Expert Consult: Online and Print (Textbook of Rheumatology (Kelley's)(2 Vol)). Philadelphia: Saunders. ISBN 978-1-4160-3285-4.
+^ a b c d Bray C, Bell LN, Liang H, Haykal R, Kaiksow F, Mazza JJ, Yale SH (December 2016). "Erythrocyte Sedimentation Rate and C-reactive Protein Measurements and Their Relevance in Clinical Medicine" (PDF). Wisconsin Medical Journal (WMJ). 115 (6): 317 21. PMID 29094869.
+^ Mold C, Nakayama S, Holzer TJ, Gewurz H, Du Clos TW (November 1981). "C-reactive protein is protective against Streptococcus pneumoniae infection in mice". The Journal of Experimental Medicine. 154 (5): 1703 8. doi:10.1084/jem.154.5.1703. PMC 2186532. PMID 7299351.
+^ "CRP C-reactive protein [Homo sapiens]". Entrez Gene. National Center for Biotechnology Information (NCBI), U.S. National Library of Medicine.
+^ "#CAA39671". NCBI Entrez Protein.
+^ "Human C-reactive protein complexed with phosphocholine". Protein Data Bank in Europe.
+^ Enocsson H, Karlsson J, Li HY, Wu Y, Kushner I, Wetter  J, Sj wall C (December 2021). "The Complex Role of C-Reactive Protein in Systemic Lupus Erythematosus". Journal of Clinical Medicine. 10 (24): 5837. doi:10.3390/jcm10245837. PMC 8708507. PMID 34945133.
+^ a b "C-Reactive Protein (CRP)". Lab Tests Online. Retrieved 2019-12-23.
+^ Knight ML (February 18, 2015). "The Application of High-Sensitivity C-Reactive Protein in Clinical Practice: A 2015 Update". Cardiovascular. U.S. Pharmacist. Retrieved 2020-12-28.
+^ a b c Pearson TA, Mensah GA, Alexander RW, Anderson JL (2003). "Markers of inflammation and cardiovascular disease: application to clinical and public health practice: A statement for healthcare professionals from the Centers for Disease Control and Prevention and the American Heart Association". Circulation. 107 (3): 499 511. doi:10.1161/01.cir.0000052939.59093.45. PMID 12551878.
+^ Helal I, Zerelli L, Krid M, Kheder A (2012). "Comparison of C-reactive protein and high-sensitivity C-reactive protein levels in patients on hemodialysis" (PDF). Saudi Journal of Kidney Disease and Transplantation. 23 (3): 477 483. PMID 22569431. Archived from the original (PDF) on 2021-12-09. Retrieved 2020-12-28.
+^ Nilsson J (August 2005). "CRP--marker or maker of cardiovascular disease?". Arteriosclerosis, Thrombosis, and Vascular Biology. 25 (8): 1527 1528. doi:10.1161/01.ATV.0000174796.81443.3f. PMID 16055753.
+^ Wang X, Bao W, Liu J, Ouyang YY, Wang D, Rong S,  et al. (January 2013). "Inflammatory markers and risk of type 2 diabetes: a systematic review and meta-analysis". Diabetes Care. 36 (1): 166 175. doi:10.2337/dc12-0702. PMC 3526249. PMID 23264288.
+^ Enocsson H, Sj wall C, Skogh T, Eloranta ML, R nnblom L, Wetter  J (December 2009). "Interferon-alpha mediates suppression of C-reactive protein: explanation for muted C-reactive protein response in lupus flares?". Arthritis and Rheumatism. 60 (12): 3755 60. doi:10.1002/art.25042. PMID 19950271.
+^ Enocsson H, Gullstrand B, Eloranta ML, Wetter  J, Leonard D, R nnblom L, Bengtsson AA, Sj wall C (2020). "C-Reactive Protein Levels in Systemic Lupus Erythematosus Are Modulated by the Interferon Gene Signature and CRP Gene Polymorphism rs1205". Frontiers in Immunology. 11: 622326. doi:10.3389/fimmu.2020.622326. PMC 7876312. PMID 33584722.
+^ Gr tzmeier S, von Schenck H (March 1989). "Four immunochemical methods for measuring C-reactive protein in plasma compared". Clinical Chemistry. 35 (3): 461 463. doi:10.1093/clinchem/35.3.461. PMID 2493344.
+^ Thomas, Lothar, Labor und Diagnose. TH-Books, Frankfurt, 2008, p. 1010
+^ Chew KS (April 2012). "What's new in Emergencies Trauma and Shock? C-reactive protein as a potential clinical biomarker for influenza infection: More questions than answers". Journal of Emergencies, Trauma, and Shock. 5 (2): 115 7. doi:10.4103/0974-2700.96477. PMC 3391832. PMID 22787338.
+^ Dittrich S, Tadesse BT, Moussy F, Chua A, Zorzet A, T ngd n T,  et al. (2016-08-25).  Yansouni C (ed.). "Target Product Profile for a Diagnostic Assay to Differentiate between Bacterial and Non-Bacterial Infections and Reduce Antimicrobial Overuse in Resource-Limited Settings: An Expert Consensus". PLOS ONE. 11 (8): e0161721. Bibcode:2016PLoSO..1161721D. doi:10.1371/journal.pone.0161721. PMC 4999186. PMID 27559728.
+^ a b Liu S, Ren J, Xia Q, Wu X, Han G, Ren H, Yan D, Wang G, Gu G, Li J (December 2013). "Preliminary case-control study to evaluate diagnostic values of C-reactive protein and erythrocyte sedimentation rate in differentiating active Crohn's disease from intestinal lymphoma, intestinal tuberculosis and Behcet's syndrome". The American Journal of the Medical Sciences. 346 (6): 467 72. doi:10.1097/MAJ.0b013e3182959a18. PMID 23689052. S2CID 5173681.
+^ Pradhan AD, Manson JE, Rifai N, Buring JE, Ridker PM (July 2001). "C-reactive protein, interleukin 6, and risk of developing type 2 diabetes mellitus". JAMA. 286 (3): 327 34. doi:10.1001/jama.286.3.327. PMID 11466099.
+^ Dehghan A, Kardys I, de Maat MP, Uitterlinden AG, Sijbrands EJ, Bootsma AH,  et al. (March 2007). "Genetic variation, C-reactive protein levels, and incidence of diabetes". Diabetes. 56 (3): 872 8. doi:10.2337/db06-0922. PMID 17327459.
+^ Lopez-Garcia E, Schulze MB, Meigs JB, Manson JE, Rifai N, Stampfer MJ,  et al. (March 2005). "Consumption of trans fatty acids is related to plasma biomarkers of inflammation and endothelial dysfunction". The Journal of Nutrition. 135 (3): 562 6. doi:10.1093/jn/135.3.562. PMID 15735094.
+^ Danesh J, Wheeler JG, Hirschfield GM, Eda S, Eiriksdottir G, Rumley A,  et al. (April 2004). "C-reactive protein and other circulating markers of inflammation in the prediction of coronary heart disease". The New England Journal of Medicine. 350 (14): 1387 97. doi:10.1056/NEJMoa032804. PMID 15070788.
+^ Koenig, Wolfgang (2006). "C-reactive protein - a critical cardiovascular risk marker". CRPhealth.com.
+^ Pepys MB, Hirschfield GM, Tennent GA, Gallimore JR, Kahan MC, Bellotti V,  et al. (April 2006). "Targeting C-reactive protein for the treatment of cardiovascular disease". Nature. 440 (7088): 1217 21. Bibcode:2006Natur.440.1217P. doi:10.1038/nature04672. PMID 16642000. S2CID 4324584.
+^ Ridker PM, Danielson E, Fonseca FA, Genest J, Gotto AM, Kastelein JJ,  et al. (November 2008). "Rosuvastatin to prevent vascular events in men and women with elevated C-reactive protein". The New England Journal of Medicine. 359 (21): 2195 207. doi:10.1056/NEJMoa0807646. PMID 18997196.
+^ Sindhu S, Singh HK, Salman MT, Fatima J, Verma VK (October 2011). "Effects of atorvastatin and rosuvastatin on high-sensitivity C-reactive protein and lipid profile in obese type 2 diabetes mellitus patients". Journal of Pharmacology & Pharmacotherapeutics. 2 (4): 261 5. doi:10.4103/0976-500X.85954. PMC 3198521. PMID 22025854.
+^ Jialal I, Stein D, Balis D, Grundy SM, Adams-Huet B, Devaraj S (April 2001). "Effect of hydroxymethyl glutaryl coenzyme a reductase inhibitor therapy on high sensitive C-reactive protein levels". Circulation. 103 (15): 1933 5. doi:10.1161/01.CIR.103.15.1933. PMID 11306519.
+^ Heart Protection Study Collaborative Group, Emberson J, Bennett D, Link E, Parish S, Danesh J, Armitage J, Collins R (February 2011). "C-reactive protein concentration and the vascular benefits of statin therapy: an analysis of 20,536 patients in the Heart Protection Study". Lancet. 377 (9764): 469 76. doi:10.1016/S0140-6736(10)62174-5. PMC 3042687. PMID 21277016.
+^ Swardfager W, Herrmann N, Cornish S, Mazereeuw G, Marzolini S, Sham L, Lanct t KL (April 2012). "Exercise intervention and inflammatory markers in coronary artery disease: a meta-analysis". American Heart Journal. 163 (4): 666 76.e1 3. doi:10.1016/j.ahj.2011.12.017. PMID 22520533.
+^ Zacho J, Tybjaerg-Hansen A, Jensen JS, Grande P, Sillesen H, Nordestgaard BG (October 2008). "Genetically elevated C-reactive protein and ischemic vascular disease". The New England Journal of Medicine. 359 (18): 1897 908. doi:10.1056/NEJMoa0707402. PMID 18971492.
+^ St-Onge MP, Zhang S, Darnell B, Allison DB (April 2009). "Baseline serum C-reactive protein is associated with lipid responses to low-fat and high-polyunsaturated fat diets". The Journal of Nutrition. 139 (4): 680 3. doi:10.3945/jn.108.098251. PMC 2666362. PMID 19297430.
+^ Lloyd-Jones DM, Liu K, Tian L, Greenland P (July 2006). "Narrative review: Assessment of C-reactive protein in risk prediction for cardiovascular disease". Annals of Internal Medicine. 145 (1): 35 42. doi:10.7326/0003-4819-145-1-200607040-00129. PMID 16818927.
+^ Bower JK, Lazo M, Juraschek SP, Selvin E (October 2012). "Within-person variability in high-sensitivity C-reactive protein". Archives of Internal Medicine. 172 (19): 1519 21. doi:10.1001/archinternmed.2012.3712. PMC 3613132. PMID 22945505.
+^ Goldman L (2011). Goldman's Cecil Medicine (24th ed.). Philadelphia: Elsevier Saunders. pp. 54. ISBN 978-1437727883.
+^ "hs-CRP". Retrieved June 3, 2013.
+^ Clearfield MB (September 2005). "C-reactive protein: a new risk assessment tool for cardiovascular disease". The Journal of the American Osteopathic Association. 105 (9): 409 16. PMID 16239491. Archived from the original on 2012-01-10. Retrieved 2013-02-10.
+^ Sidore C, Busonero F, Maschio A, Porcu E, Naitza S, Zoledziewska M,  et al. (November 2015). "Genome sequencing elucidates Sardinian genetic architecture and augments association analyses for lipid and blood inflammatory markers". Nature Genetics. 47 (11): 1272 1281. doi:10.1038/ng.3368. PMC 4627508. PMID 26366554.
+^ Lu H, Ouyang W, Huang C (April 2006). "Inflammation, a key event in cancer development". Molecular Cancer Research. 4 (4): 221 33. doi:10.1158/1541-7786.MCR-05-0261. PMID 16603636.
+^ Allin KH, Nordestgaard BG (2011). "Elevated C-reactive protein in the diagnosis, prognosis, and cause of cancer". Critical Reviews in Clinical Laboratory Sciences. 48 (4): 155 70. doi:10.3109/10408363.2011.599831. PMID 22035340. S2CID 40322991.
+^ Erlinger TP, Platz EA, Rifai N, Helzlsouer KJ (February 2004). "C-reactive protein and the risk of incident colorectal cancer". JAMA. 291 (5): 585 90. doi:10.1001/jama.291.5.585. PMID 14762037.
+^ Baron JA, Cole BF, Sandler RS, Haile RW, Ahnen D, Bresalier R,  et al. (March 2003). "A randomized trial of aspirin to prevent colorectal adenomas". The New England Journal of Medicine. 348 (10): 891 9. doi:10.1056/NEJMoa021735. PMID 12621133.
+^ a b Latina JM, Estes NA, Garlitski AC (2013). "The Relationship between Obstructive Sleep Apnea and Atrial Fibrillation: A Complex Interplay". Pulmonary Medicine. 2013: 1 11. doi:10.1155/2013/621736. PMC 3600315. PMID 23533751.
+^ Kay J, Upchurch KS. ACR/EULAR 2010 rheumatoid arthritis classification criteria. Rheumatology (Oxford). 2012 Dec;51 Suppl 6:vi5-9. doi: 10.1093/rheumatology/kes279. PMID 23221588.
+^ Carrier N, Marotta A, Brum-Fernanades AJ, Liang P, Masetto A, Menard H, Maksymowcych WP, Boire G (Feb 2016). "Serum levels of 14-3-3  protein supplement C-reactive protein and rheumatoid arthritis-associated antibodies to predict clinical and radiographic outcomes in a prospective cohort of patients with recent-onset inflammatory polyarthritis". Arthritis Research & Therapy. 18 (37): 37. doi:10.1186/s13075-016-0935-z. PMC 4736641. PMID 26832367. S2CID 1926353.
+^ Pope J, Choy E (February 2021). "C-reactive protein and implications in rheumatoid arthritis and associated comorbidities". Semin Arthritis Rheum. 51 (1): 219 229. doi:10.1016/j.semarthrit.2020.11.005. PMID 33385862. S2CID 230108148.
+^ Ammitzb ll CG, Steffensen R, B gsted M, H rslev-Petersen K, Hetland ML, Junker P,  et al. (October 2014). "CRP genotype and haplotype associations with serum C-reactive protein level and DAS28 in untreated early rheumatoid arthritis patients". Arthritis Research & Therapy. 16 (5): 475. doi:10.1186/s13075-014-0475-3. PMC 4247621. PMID 25359432.
+^ Wu W, Shi D, Fang D, Guo F, Guo J, Huang F,  et al. (March 2016). "A new perspective on C-reactive protein in H7N9 infections". Int J Infect Dis. 44: 31 36. doi:10.1016/j.ijid.2016.01.009. PMID 26809124.
+^ Vasileva D, Badawi A (January 2019). "C-reactive protein as a biomarker of severe H1N1 influenza". Inflamm Res. 68 (1): 39 46. doi:10.1007/s00011-018-1188-x. PMC 6314979. PMID 30288556.
+^ Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J,  et al. (February 7, 2020). "Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China". JAMA. 323 (11): 1061 1069. doi:10.1001/jama.2020.1585. PMC 7042881. PMID 32031570.
+^ Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y,  et al. (February 15, 2020). "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study". Lancet. 395 (10223): 507 513. doi:10.1016/S0140-6736(20)30211-7. PMC 7135076. PMID 32007143.
+^ Zhang J, Zhou L, Yang Y, Peng W, Wang W, Chen X (February 2020). "Therapeutic and triage strategies for 2019 novel coronavirus disease in fever clinics". Lancet Respiratory Medicine. 8 (3): e11 e12. doi:10.1016/S2213-2600(20)30071-0. PMC 7159020. PMID 32061335.
+External links[edit]
+MedlinePlus Encyclopedia: C-reactive protein
+Inflammation, Heart Disease and Stroke: The Role of C-Reactive Protein (American Heart Association)
+C-Reactive+Protein at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+CRP: analyte monograph - The Association for Clinical Biochemistry and Laboratory Medicine
+George Vrousgos, N.D. - Southern Cross University Archived 2020-02-18 at the Wayback Machine
+Human CRP genome location and CRP gene details page  in the UCSC Genome Browser.
+Overview of all the structural information available in the PDB for UniProt: P02741 (C-reactive protein) at the PDBe-KB.
+vtePDB gallery
+1b09: HUMAN C-REACTIVE PROTEIN COMPLEXED WITH PHOSPHOCHOLINE
+1gnh: HUMAN C-REACTIVE PROTEIN
+1lj7: Crystal structure of calcium-depleted human C-reactive protein from perfectly twinned data
+vteBlood tests for infectious diseaseBacterial infection
+syphilis
+Venereal Disease Research Laboratory test
+rapid plasma reagin
+Wassermann test
+Fluorescent treponemal antibody absorption test
+Abelin reaction
+Rickettsia
+Weil Felix test
+Helicobacter
+HelicoCARE direct
+Streptococcus
+Anti-streptolysin O
+Viral infection
+HIV testing
+Branched DNA assay
+mChip
+Epstein Barr virus
+Heterophile antibody test
+Dengue fever
+NS1 antigen test
+measles
+Warthin Finkeldey cell
+Inclusion bodies
+Downie bodies
+B type inclusion
+Orthopoxvirus inclusion bodies
+rabies
+Negri bodies
+Cowdry bodies
+yellow fever
+Councilman body
+Tzanck test
+Protozoan infection
+toxoplasmosis
+Sabin Feldman dye test
+malaria
+Diagnosis of malaria
+Sch ffner's dots
+Bloodstream infections
+Blood culture
+Viremia
+Fungemia
+Parasitemia
+Algaemia
+General
+C-reactive protein
+Procalcitonin
+vteGlobular proteinsSerum globulinsAlpha globulinsserpins:
+alpha-1 (Alpha 1-antichymotrypsin, Alpha 1-antitrypsin)
+alpha-2 (Alpha 2-antiplasmin)
+Antithrombin (Heparin cofactor II)
+carrier proteins:
+alpha-1 (Transcortin)
+alpha-2 (Ceruloplasmin)
+Retinol binding protein
+other:
+alpha-1 (Orosomucoid)
+alpha-2 (alpha-2-Macroglobulin, Haptoglobin)
+Beta globulinscarrier proteins:
+Sex hormone-binding globulin
+Transferrin
+other:
+Angiostatin
+Hemopexin
+Beta-2 microglobulin
+Factor H
+Plasminogen
+Properdin
+Gamma globulin
+Immunoglobulins
+Other
+Fibronectin (fFN: Fetal fibronectin)
+Macroglobulin/Microglobulin
+Transcobalamin
+Edestin
+Other globulins
+Beta-lactoglobulin
+Lactoferrin
+Thyroglobulin
+Alpha-lactalbumin
+11S globulin family
+7S seed storage protein
+AlbuminsEgg white
+Conalbumin
+Ovalbumin
+Avidin
+Serum albumin
+Human serum albumin
+Bovine serum albumin
+Prealbumin
+Other
+C-reactive protein
+Lactalbumin (Alpha-lactalbumin)
+Parvalbumin
+Ricin
+Vitamin D-binding protein
+Extracellular matrix protein 1
+see also disorders of globin and globulin proteins
+vteAcute-phase proteinsAmyloid
+SAP
+SAA
+Other positive
+Alpha 1-antichymotrypsin
+Alpha 1-antitrypsin
+Alpha 2-macroglobulin
+C-reactive protein
+Ceruloplasmin
+C3
+Ferritin
+Fibrin
+Haptoglobin
+Hemopexin
+Orosomucoid
+Negative
+Serum albumin
+Transferrin
+Authority control: National 
+France
+BnF data
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=C-reactive_protein&oldid=1138426893"

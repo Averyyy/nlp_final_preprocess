@@ -1,0 +1,193 @@
+Light passing through successive filters
+This article includes a list of general references, but it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations. (January 2012) (Learn how and when to remove this template message)
+ Subtractive color mixing
+ An 1877 color photo by Louis Ducos du Hauron, a French pioneer of color photography. The overlapping subtractive yellow, cyan and red (magenta) image elements can be seen clearly along the edges of the image.
+Subtractive color or subtractive color mixing predicts the spectral power distribution of light after it passes through successive layers of partially absorbing media. This idealized model is the essential principle of how dyes and inks are used in color printing and photography where the perception of color is elicited after white light passes through microscopic "stacks" of partially absorbing media allowing some wavelengths of light to reach the eye and not others.
+Process[edit]
+The subtractive color mixing model predicts the resultant spectral power distribution of light filtered through overlaid partially absorbing materials on a reflecting or transparent surface. Each layer partially absorbs some wavelengths of light from the illumination spectrum while letting others pass through, resulting in a colored appearance. The resultant spectral power distribution is predicted by sequentially taking the product of the spectral power distributions of the incoming light and transmissivity at each filter.[1]
+RYB[edit]
+ An RYB color wheel
+Main article: RYB color model
+RYB (red, yellow, blue) is the traditional set of primary colors used for mixing pigments. It is used in art and art education, particularly in painting. It predated modern scientific color theory.
+Red, yellow, and blue are the primary colors of the RYB color "wheel".  The secondary colors, violet (or purple), orange, and green (VOG) make up another triad, conceptually formed by mixing equal amounts of red and blue, red and yellow, and blue and yellow, respectively.
+ Classification of pigment colors
+The RYB primary colors became the foundation of 18th-century theories of color vision as the fundamental sensory qualities blended in the perception of all physical colors and equally in the physical mixture of pigments or dyes. These theories were enhanced by 18th-century investigations of a variety of purely psychological color effects, in particular, the contrast between "complementary" or opposing hues produced by color afterimages and in the contrasting shadows in colored light. These ideas and many personal color observations were summarized in two founding documents in color theory: the Theory of Colors (1810) by the German poet and government minister Johann Wolfgang von Goethe, and The Law of Simultaneous Color Contrast (1839) by the French industrial chemist Michel-Eug ne Chevreul.
+In late 19th and early to mid-20th-century commercial printing, use of the traditional RYB terminology persisted even though the more versatile CMY (cyan, magenta, yellow) triad had been adopted, with the cyan sometimes referred to as "process blue" and the magenta as "process red".
+CMY and CMYK color models and printing processes[edit]
+Main articles: CMY color model and CMYK color model
+ Cyan, magenta and yellow color filters
+In color printing, the usual primary colors are cyan, magenta and yellow (CMY). Cyan is the complement of red, meaning that the cyan serves as a filter that absorbs red. The amount of cyan applied to a white sheet of paper controls how much of the red in white light will be reflected back from the paper. Ideally, the cyan is completely transparent to green and blue light and has no effect on those parts of the spectrum. Magenta is the complement of green, and yellow the complement of blue. Combinations of different amounts of the three can produce a wide range of colors with good saturation.
+In inkjet color printing and typical mass production photomechanical printing processes, a black ink K (Key) component is included, resulting in the CMYK color model. The black ink serves to cover unwanted tints in dark areas of the printed image, which result from the imperfect transparency of commercially practical CMY inks; to improve image sharpness, which tends to be degraded by imperfect registration of the three color elements; and to reduce or eliminate consumption of the more expensive color inks where only black or gray is required.
+Purely photographic color processes almost never include a K component, because in all common processes the CMY dyes used are much more perfectly transparent, there are no registration errors to camouflage, and substituting a black dye for a saturated CMY combination, a trivial prospective cost-benefit at best, is technologically impractical in non-electronic analog photography.
+See also[edit]
+Additive color
+Color mixing
+Color motion picture film
+Color space
+Color theory
+Primary color
+Wikimedia Commons has media related to Subtractive colors.
+References[edit]
+^ Levoy, Marc. "Additive versus subtractive color mixing". graphics.stanford.edu. Retrieved 4 November 2020. On the other hand, if you reflect light from a colored surface, or if you place a colored filter in front of a light, then some of the wavelengths present in the light may be partially or fully absorbed by the colored surface or filter. If we characterize the light as an SPD, and we characterize absorption by the surface or filter using a spectrum of reflectivity or transmissivity, respectively, i.e. the percentage of light reflected or transmitted at each wavelength, then the SPD of the outgoing light can be computed by multiplying the two spectra. This multiplication is (misleadingly) called subtractive mixing.
+Further reading[edit]
+Berns, Roy S. (2000). Billmeyer and Saltzman's Principles of Color Technology, 3rd edition. Wiley, New York. ISBN 0-471-19459-X.
+Stroebel, Leslie, John Compton, Ira Current, and Richard Zakia (2000). Basic Photographic Materials and Processes, 2nd edition. Focal Press, Boston. ISBN 0-240-80405-8.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+Wyszecki, G nther & W. S. Stiles (1982). Colour Science: Concept and Methods, Quantitative Data and Formulae. Wiley, New York. ISBN 0-471-02106-7.
+External links[edit]
+Stanford University CS 178 interactive Flash demo  comparing additive and subtractive color mixing.
+vteColor topicsColor scienceColor physics
+Electromagnetic spectrum
+Light
+Rainbow
+Visible
+Spectral colors
+Chromophore
+Structural coloration
+Animal coloration
+Color of chemicals
+Water
+Spectral power distribution
+Colorimetry
+Color perception
+Metamerism
+Color blindness
+Achromatopsia
+Dichromacy
+Evolution of color vision
+Color vision test
+Tetrachromacy
+Opponent process
+Afterimage
+Unique hues
+Impossible colors
+Chromesthesia
+Sonochromatism
+Color task
+Color code
+Color constancy
+Color temperature
+The dress
+Color psychology
+Color symbolism
+Color preferences
+L scher color test
+Kruithof curve
+Political color
+National colors
+Chromophobia
+Chromotherapy
+Color reproduction
+Color photography
+Color balance
+Color cast
+Digital image processing
+Color management
+Color printing
+Multi-primary color display
+Quattron
+Color model
+additive
+RGB
+subtractive
+CMYK
+Color space
+Color mapping
+ColorphilosophyColor scheme
+Color tool
+Monochromatic colors
+Complementary colors
+Analogous colors
+Achromatic colors (Neutral)
+Polychromatic colors
+Light-on-dark
+Web colors
+Tinctures in heraldry
+Color theory
+Color mixing
+Primary color
+Secondary color
+Tertiary color
+Chromaticity
+Color solid
+Color wheel
+Color triangle
+Color analysis (art)
+Color realism (art style)
+On Vision and Colours (Schopenhauer)
+Theory of Colours (Goethe)
+Color termsBasic terms
+Blue
+Green
+Red
+Yellow
+Pink
+Purple
+Orange
+Black
+Gray
+White
+Brown
+Cultural differences
+Linguistic relativity and the color naming debate
+Blue green distinction in language
+Color history
+Blue in culture
+Color in Chinese culture
+Traditional colors of Japan
+Human skin color
+Color dimensions
+Hue
+Dichromatism
+Colorfulness
+Pastel colors
+Luminance
+Lightness
+Darkness
+Brightness
+Iridescence
+Fluorescence
+Grayscale
+Tint, shade and tone
+Colororganizations
+Pantone
+Color Marketing Group
+Color Association of the United States
+International Colour Authority
+International Commission on Illumination (CIE)
+International Color Consortium
+International Colour Association
+Lists
+List of colors: A F
+List of colors: G M
+List of colors: N Z
+List of colors (compact)
+List of colors by shade
+List of color palettes
+List of color spaces
+List of Crayola crayon colors
+history
+Color chart
+List of RAL colors
+List of web colors
+Shades of:
+Red
+Orange
+Yellow
+Green
+Cyan
+Blue
+Violet
+Purple
+Magenta
+Pink
+Brown
+White
+Gray
+Black
+Related
+Vision
+Qualia
+Lighting
+ Category
+ Index
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Subtractive_color&oldid=1124390419"

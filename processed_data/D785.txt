@@ -1,0 +1,634 @@
+Chess piece
+White pawnBlack pawn
+The pawn ( ,  ) is the most numerous and weakest piece in the game of chess. It may move one vacant square directly forward, it may move two vacant squares directly forward on its first move, and it may capture one square diagonally forward. Each player begins a game with eight pawns, one on each square of their second rank. The white pawns start on a2 through h2; the black pawns start on a7 through h7.
+Individual pawns are referred to by the file on which they stand. For example, one speaks of "White's f-pawn" or "Black's b-pawn". Alternatively, they can be referred to by the piece which stood on that file at the beginning of the game, e.g. "White's king bishop's pawn" or "Black's queen knight's pawn". It is also common to refer to a rook's pawn, meaning any pawn on the a- or h-files, a knight's pawn (on the b- or g-files), a bishop's pawn (on the c- or f-files), a queen's pawn (on the d-file), a king's pawn (on the e-file), and a central pawn (on the d- or e-files).
+The pawn historically represents soldiers or infantry, or more particularly, armed peasants or pikemen.[1]
+This article uses algebraic notation to describe chess moves.
+Placement and movement[edit]
+abcdefgh8877665544332211abcdefgh Initial placement of the pawns
+abcdefgh8877665544332211abcdefgh A pawn can move to the square directly in front of itself if that square is not occupied. A pawn on its starting rank has the option of moving two squares in one turn.
+Each player begins the game with eight pawns placed along their second rank.
+A pawn may move by vertically advancing to a vacant square ahead. The first time a pawn moves, it has the additional option of vertically advancing two squares, provided that both squares are vacant. Unlike other pieces, the pawn can only move forwards. In the second diagram, the pawn on c4 can move to c5; the pawn on e2 can move to either e3 or e4.
+Capturing[edit]
+ Example of regular capturing
+abcdefgh8877665544332211abcdefgh The pawn may capture either the rook or the knight, but not the bishop, which blocks the pawn from moving directly forward.
+ Example of capturing en passant
+abcdefgh8877665544332211abcdefgh The black pawn has just moved from c7 to c5. The white pawn can capture it en passant by moving to c6.
+Unlike other pieces, the pawn does not capture in the same way that it moves. A pawn captures by moving diagonally forward one square to the left or right (see diagram), either replacing an enemy piece on its square or capturing en passant.
+An en passant capture can occur after a pawn makes a move of two squares and the square it passes over is attacked by an enemy pawn. The enemy pawn is entitled to capture the moved pawn "in passing" as if the latter had advanced only one square. The capturing pawn moves to the square over which the moved pawn passed (see diagram), and the moved pawn is removed from the board. The option to capture the moved pawn en passant must be exercised on the move immediately following the double-step pawn advance, or it is lost for the remainder of the game. The en passant capture is the only capture in chess in which the capturing piece does not replace the captured piece on the same square.[2]
+Promotion[edit]
+Main article: Promotion (chess)
+A pawn that advances to its last rank is promoted to a queen, rook, bishop, or knight of the same color. The pawn is replaced by the new piece on the same move. The choice of promotion is not limited to pieces that have been captured; thus, a player could, in theory, have as many as nine queens, ten rooks, ten bishops, or ten knights on the board. Promotion to a queen is also known as queening and to any other piece as underpromotion. Underpromotion is most often to a knight, typically to execute a checkmate or a fork to gain a significant material advantage, among other reasons. Underpromotion to rook or bishop is used to avoid or induce stalemate or for humorous reasons.
+While some chess sets include an extra queen of each color, most standard sets do not come with additional pieces, so the physical piece used to replace a promoted pawn on the board is usually one that was previously captured. In informal games, when the correct piece is not available, an additional queen is often indicated by inverting a previously captured rook or by placing two pawns on the same square. In tournament games, however, this is not acceptable; in the former case, it may result in the arbiter ruling that the upturned piece is in fact a rook.[3]
+Strategy[edit]
+Pawn structure[edit]
+Main article: Pawn structure
+abcdefgh8877665544332211abcdefgh Locked pawn chains in the French Defense after 1.e4 e6 2.d4 d5 3.e5
+The pawn structure, the configuration of pawns on the chessboard, mostly determines the strategic flavor of a game. While other pieces can usually be moved to more favorable positions if they are temporarily badly placed, a poorly positioned pawn is limited in its movement and often cannot be so relocated.
+Because pawns capture diagonally and can be blocked from moving straight forward, opposing pawns can become locked in diagonal pawn chains of two or more pawns of each color, where each player controls squares of one color. In the diagram, Black and White have locked their d- and e-pawns.
+Here, White has a long-term space advantage. White will have an easier time than Black in finding good squares for their pieces, particularly with an eye to the kingside. Black, in contrast, suffers from a bad bishop on c8, which is prevented by the black pawns from finding a good square or helping out on the kingside. On the other hand, White's central pawns are somewhat overextended and vulnerable to attack. Black can undermine the white pawn chain with an immediate ...c5 and perhaps a later ...f6.
+Isolated pawn[edit]
+Main article: Isolated pawn
+abcdefgh8877665544332211abcdefgh Black has an isolated pawn on d5.
+Pawns on adjacent files can support each other in attack and defense. A pawn which has no friendly pawns in adjacent files is an isolated pawn. The square in front of an isolated pawn may become an enduring weakness. Any piece placed directly in front not only blocks the advance of that pawn but also cannot be driven away by other pawns.
+In the diagram, Black has an isolated pawn on d5. If all the pieces except the kings and pawns were removed, the weakness of that pawn might prove fatal to Black in the endgame. In the middlegame, however, Black has slightly more freedom of movement than White and may be able to trade off the isolated pawn before an endgame ensues.
+Passed pawn[edit]
+Main article: Passed pawn
+ From Fine & Benko
+abcdefgh8877665544332211abcdefgh White wins with either side to move.
+A pawn which cannot be blocked or captured by enemy pawns in its advance to promotion is a passed pawn. In the diagram, White has a protected passed pawn on c5 and Black has an outside passed pawn on h5. Because endgames are often won by the player who can promote a pawn first, having a passed pawn in an endgame can be decisive  especially a protected passed pawn (a passed pawn that is protected by a pawn). In this vein, a pawn majority, a greater number of pawns belonging to one player on one side of the chessboard, is strategically important because it can often be converted into a passed pawn.
+The diagrammed position might appear roughly equal, because each side has a king and three pawns, and the positions of the kings are about equal. In truth, White wins this endgame on the strength of the protected passed pawn, regardless which player moves first. The black king cannot be on both sides of the board at once  to defend the isolated h-pawn and to stop White's c-pawn from advancing to promotion. Thus White can capture the h-pawn and then win the game.[4]
+Doubled pawn[edit]
+Main article: Doubled pawns
+abcdefgh8877665544332211abcdefgh Black has doubled c-pawns.
+After a capture with a pawn, a player may end up with two pawns on the same file, called doubled pawns. Doubled pawns are substantially weaker than pawns which are side by side, because they cannot defend each other, they usually cannot both be defended by adjacent pawns, and the front pawn blocks the advance of the back one. In the diagram, Black is playing at a strategic disadvantage due to the doubled c-pawns.
+There are situations where doubled pawns confer some advantage, typically when the guarding of consecutive squares in a file by the pawns prevents an invasion by the opponent's pieces.
+Pawns which are both doubled and isolated are typically a tangible weakness. A single piece or pawn in front of doubled isolated pawns blocks both of them, and cannot be easily dislodged. It is rare for a player to have three pawns in a file, i.e. tripled pawns.
+Wrong rook pawn[edit]
+Main article: Wrong rook pawn
+In chess endgames with a bishop, a rook pawn may be the wrong rook pawn, depending on the square-color of the bishop. This causes some positions to be draws that would otherwise be wins.
+History[edit]
+The pawn has its origins in the oldest version of chess, chaturanga, and it is present in all other significant versions of the game as well. In chaturanga, this piece could move one square directly forward and could capture one square diagonally forward.
+In medieval chess, as an attempt to make the pieces more interesting, each pawn was given the name of a commoner's occupation:[5]
+Gambler and other "lowlifes", also messengers (in the left-most file, that direction being literally sinister)
+City guard or policeman (in front of the left-side knight, as knights trained city guards in real life)[6]
+Innkeeper (in front of the left-side bishop)
+Doctor (in front of the queen)
+Merchant/money changer (in front of the king)
+Weaver/clerk (in front of the right-side bishop, as they worked for bishops)
+Blacksmith (in front of the right-side knight, as they cared for the horses)
+Worker/farmer (in front of the right-side rook, as they worked for castles)[7]
+The most famous example of this is found in the second book ever printed in the English language, The Game and Playe of the Chesse. Purportedly, this book, printed by William Caxton,[8] was viewed to be as much a political commentary on society as a chess book.[7]
+The ability to move two spaces and the related ability to capture en passant were introduced in 15th-century Europe;[9] the en passant capture spread to various regions throughout its history. The en passant capture intends to prevent a pawn on its initial square from safely bypassing a square controlled by an enemy pawn. The rule for promotion has changed throughout its history.
+Etymology and word usage[edit]
+ Illustration by Peter Newell. "The chessmen were walking about, two and two!" (Through the Looking-Glass, and What Alice Found There by Lewis Carroll, 1871). Most of the main characters are represented as chess pieces in the chess-themed story, with Alice, the main protagonist, represented as a pawn.
+The term pawn is derived from the Old French word paon, which comes from the Medieval Latin term for "foot soldier" and is cognate with peon. In most other languages, the word for pawn is similarly derived from paon, its Latin ancestor or some other word for foot soldier. In some languages the pawn is named after a term for "peasant" or "farmer", reflecting how the lower orders were conscripted as footsoldiers in wartime: Hungarian paraszt, Slovene kmet, German Bauer, Danish/Norwegian/Swedish bonde, Latvian bandinieks.[10] In Irish, the term fichill n, a diminutive of ficheall ("chess") is sometimes used, though the term "ceithearnach" ("foot soldier") is also used. In Thai the pawn is called   (b ia), which signifies a cowrie shell or a coin of little value. In Turkish the pawn is called piyon, borrowed from the French word Pion in the 19th century.
+Outside of the game of chess, "pawn" is often taken to mean "one who is manipulated to serve another's purpose".[11][12] Because the pawn is the weakest piece, it is often used metaphorically to indicate unimportance or outright disposability, only having utility in the ability to be controlled; for example, "She's only a pawn in their game."
+Overview of chess piece names
+Language
+Pawn
+Translation
+Afrikaans
+(P) Pion
+Albanian
+(U) Ushtari
+soldier
+Arabic
+    /   (baidaq / `askar )
+pawn / soldier
+Azerbaijani
+P Piyada
+foot soldier
+Armenian
+    (Zinvor)
+soldier
+Basque
+(P) Peoia
+pawn
+Belarusian (Tara kievica)
+( )  
+pawn
+Bengali
+B   /   (bo e /  oinno)
+Walker/Troop
+Bulgarian
+( )  
+foot soldier
+Catalan
+(P) pe 
+Chinese
+(P)   (b ng)
+soldier
+Czech
+(P) p ec
+foot soldier
+Danish
+(B) bonde
+peasant
+Dutch
+(pi) pion
+English
+(P) pawn
+Esperanto
+(P) peono
+Estonian[13]
+(E) ettur
+forwarder
+Finnish
+(S) sotilas
+soldier
+French
+(P) pion
+Galician
+(P) pe n
+foot soldier
+Georgian
+    (paiki)
+pawn
+German[14]
+(B) Bauer
+peasant / farmer
+Greek
+( )   (pi ni)
+pawn
+Hindi
+(P)    (py d )
+infantryman
+Hebrew
+  (Regli)
+foot soldier
+Hausa
+(P) soja
+soldier
+Hungarian
+(Gy) gyalog / paraszt
+footman / peasant
+Icelandic
+(P) pe 
+pawn
+Ido
+(P) piono
+Indonesian
+(P) pion
+Interslavic
+(P) p ak
+infantryman
+Irish
+(F) fichill n / ceithearnach
+little chess piece / kern
+Italian
+(P) pedone
+foot soldier
+Japanese
+(P)   (p n)
+Javanese
+(P) pion
+Kannada
+     (paadaati)
+foot soldier
+Kazakh
+( )   (peshka) / ( )   (sarbaz)
+foot soldier / warrior
+Korean
+(P)   (pon)
+Latin
+(P) pedes / pedo
+foot soldier
+Latvian
+(B) bandinieks
+peasant
+Lithuanian
+(P) p stininkas
+pawn
+Lojban
+(S) sonci
+soldier
+Luxembourgish
+(B) Bauer
+farmer
+Macedonian
+P   /  
+infantryman / pawn
+Malayalam
+(P)   /   (kaalal / padayaali)
+foot soldier
+Marathi
+(P)    (py de)
+foot soldier
+Mongolian
+( )   (h )
+boy
+Norwegian Bokm l
+(B) bonde
+peasant
+Norwegian Nynorsk
+(B) bonde
+peasant
+Odia
+P    (s inik )
+soldier
+Oromo
+Persian
+ /   / 
+soldier
+Polish
+(P) pionek / pion
+pawn
+Portuguese
+(P) pe o
+foot soldier
+Romanian
+(P) pion
+Russian
+( )   (peshka)
+Scottish Gaelic
+(P) p n
+pawn
+Serbo-Croatian
+(P) pje ak / pion / pijun (( )   /   /  )
+pedestrian / pawn
+Northern Sotho
+S Seit hirelet o
+Sicilian
+(P) pidinu
+foot soldier
+Slovak
+(P) pe iak
+infantryman / pawn
+Slovene
+(P) kmet
+farmer
+Spanish
+(P) pe n
+foot soldier
+Swedish
+(B) bonde
+peasant
+Tamil
+(P)   /    (k l  / cipp y)
+foot soldier / sepoy
+Telugu
+   (ba u)
+soldier
+Thai
+( )    (b a)
+menial
+Turkish
+(P) er / piyon
+soldier / pawn
+Ukrainian
+( )   /   (pishak / pishka)
+foot soldier
+Urdu
+  (py dah)
+Vietnamese
+t t
+soldier
+Welsh
+(G) gwerinwr
+peasant
+Quotations[edit]
+"The pawn is the soul of chess. ... the Pawns. They are the very Life of the Game. They alone form the Attack and the Defense; on their good or bad Situation depends the Gain or Loss of the Party." Fran ois-Andr  Danican Philidor, 1749.[15]
+Unicode[edit]
+Main article: Chess symbols in Unicode
+Unicode defines two codepoints for a pawn:
+  U+2659 White Chess Pawn (HTML &#9817;)
+  U+265F Black Chess Pawn (HTML &#9823;)
+See also[edit]
+Backward pawn
+Chess piece
+Chess piece relative value
+Connected pawns
+Doubled pawns
+Isolated pawn
+King and pawn versus king endgame
+Passed pawn
+Pawn structure
+Notes[edit]
+^ Titanic. "Chess Pieces and their Meanings". The Whyville Times. Retrieved 19 September 2015.
+^ Hooper & Whyld (1996), pp. 124 25. en passant.
+^ Mike Klein, Controversial Finish To Canadian Championship -- Update Archived 2020-11-09 at the Wayback Machine, chess.com, 12 July, 2017
+^ (Fine & Benko 2003:56)
+^ "The history of the chess pieces". Library.thinkquest.org. Archived from the original on 2012-12-01. Retrieved 2013-08-12.
+^ The Bachelors: Pawns in Duchamp's Great Game Archived March 13, 2008, at the Wayback Machine
+^ a b "The United States Chess Federation". Main.uschess.org. 2013-01-23. Retrieved 2013-08-12.
+^ "The Project Gutenberg eBook of A Short History of English Printing, by Henry R. Plomer". Gutenberg.org. 2007-01-18. Retrieved 2013-08-12.
+^ (Hooper & Whyld 1992:124)
+^ Zusne, Leonard (2008-07-30). Latvian-English Dictionary: Volume I A - M. ISBN 9781477163108.
+^ "Definition of PAWN". www.merriam-webster.com. Retrieved 2022-12-15.
+^ "pawn". The Free Dictionary.
+^ The Estonian chess terms were coined by Ado Grenzstein.
+^ "Handbook". www.fide.com. Retrieved 22 March 2019. The pieces bear the names: Koenig, Dame, Turm, Laeufer, Springer, Bauer
+^ (Euwe & Hooper 1959:1)
+References[edit]
+Barden, Leonard (1980), Play better chess with Leonard Barden, Octopus Books Limited, p. 11, ISBN 0-7064-0967-1
+Brace, Edward R. (1977), An Illustrated Dictionary of Chess, Hamlyn Publishing Group, p. 213, ISBN 1-55521-394-4
+Euwe, Max; Hooper, David (1959), A Guide to Chess Endings, Dover (1976 reprint), ISBN 0-486-23332-4
+Fine, Reuben; Benko, Pal (2003), Basic Chess Endings (1941) (revised ed.), McKay, ISBN 0-8129-3493-8
+Hooper, David; Whyld, Kenneth (1996) [First pub. 1992], "pawn", The Oxford Companion to Chess (2nd ed.), Oxford University Press, p. 294, ISBN 0-19-280049-3
+External links[edit]
+Wikimedia Commons has media related to Chess pawns.
+Piececlopedia: Pawn by Hans Bodlaender and Fergus Duniho, The Chess Variant Pages
+vteChess piecesOrthodox pieces
+Bishop
+King
+Knight
+Pawn
+Queen
+Rook
+Fairy pieces
+Alfil
+Amazon
+Berolina pawn
+Camel
+Dabbaba
+Empress
+Ferz
+Giraffe
+Grasshopper
+Mann
+Nightrider
+Princess
+Wazir
+Zebra
+Related
+Chess set
+Hippogonal
+Piece point values
+vteChessOutline
+Chess theory
+Chess titles
+Grandmaster
+Computer chess
+glossary
+matches
+engines
+software
+Correspondence chess
+FIDE
+Glossary
+Online chess
+Premove
+Internet chess server
+list
+Rating system
+world rankings
+norms
+Variants
+List
+World records
+Equipment
+Chess set
+chessboard
+Dubrovnik chess set
+Staunton chess set
+Chess pieces
+King
+Queen
+Rook
+Bishop
+Knight
+Pawn
+Fairy
+Chess clock
+Chess table
+Score sheets
+History
+Timeline
+Versus de scachis
+G ttingen manuscript
+Charlemagne chessmen
+Lewis chessmen
+Romantic chess
+Hypermodernism
+Soviet chess school
+Top player comparison
+Geography of chess
+Africa
+South Africa
+China
+Europe
+Armenia
+Spain
+India
+Notable games
+List of chess players
+amateurs
+female
+grandmasters
+Women in chess
+Chess museums
+Bobby Fischer Center
+G kyay Association Chess Museum
+World Chess Hall of Fame
+Rules
+Castling
+Cheating in chess
+Check
+Checkmate
+Draw
+by agreement
+Fifty-move rule
+Perpetual check
+Stalemate
+Threefold repetition
+En passant
+Pawn promotion
+Time control
+Fast chess
+Touch-move rule
+White and Black
+Terms
+Blunder
+Chess notation
+algebraic
+descriptive
+PGN
+annotation symbols
+symbols in Unicode
+Fianchetto
+Gambit
+Key square
+King walk
+Open file
+Half-open file
+Outpost
+Pawns
+backward
+connected
+doubled
+isolated
+passed
+Swindle
+Tempo
+Transposition
+Trap
+Tactics
+Artificial castling
+Battery
+Alekhine's gun
+Block
+Checkmate patterns
+Combination
+Decoy
+Deflection
+Desperado
+Discovered attack
+Double check
+Fork
+Interference
+Overloading
+Pawn storm
+Pin
+Sacrifice
+Queen sacrifice
+Skewer
+Undermining
+Windmill
+X-ray
+Zwischenzug
+Strategy
+Compensation
+Exchange
+the exchange
+Initiative
+first-move advantage
+Middlegame
+Pawn structure
+Hedgehog
+Isolated Queen's Pawn
+Mar czy Bind
+Piece values
+Prophylaxis
+School of chess
+OpeningsFlank opening
+Benko Opening
+Bird's Opening
+Dunst Opening
+English Opening
+Grob's Attack
+Larsen's Opening
+Zukertort Opening
+King's Indian Attack
+R ti Opening
+King's Pawn Game
+Alekhine's Defense
+Caro Kann Defense
+French Defense
+Modern Defense
+Nimzowitsch Defense
+Open Game
+Four Knights Game
+Giuoco Piano
+Italian Game
+King's Gambit
+Petrov's Defense
+Philidor Defense
+Ponziani Opening
+Ruy Lopez
+Semi-Italian Opening
+Scotch Game
+Two Knights Defense
+Vienna Game
+Owen's Defense
+Pirc Defense
+Austrian Attack
+Scandinavian Defense
+Sicilian Defence
+Alapin
+Dragon/Accelerated Dragon
+Najdorf
+Scheveningen
+Queen's Pawn Game
+Colle System
+Dutch Defense
+English Defence
+Indian Defense
+Benoni Defense
+Modern Benoni
+Bogo-Indian Defense
+Catalan Opening
+Gr nfeld Defense
+King's Indian Defense
+Nimzo-Indian Defense
+Old Indian Defense
+Queen's Indian Defense
+London System
+Richter Veresov Attack
+Queen's Gambit
+Accepted
+Declined
+Slav Defense
+Semi-Slav Defense
+Chigorin Defense
+Torre Attack
+Trompowsky Attack
+Other
+List of openings
+theory table
+List of chess gambits
+Irregular
+Bongcloud Attack
+Fool's mate
+Scholar's mate
+Endgames
+Bishop and knight checkmate
+King and pawn vs king
+Opposite-colored bishops
+Pawnless endgame
+Queen and pawn vs queen
+Queen vs pawn
+Rook and bishop vs rook
+Rook and pawn vs rook
+Lucena position
+Philidor position
+Strategy
+fortress
+opposition
+Tarrasch rule
+triangulation
+Zugzwang
+Study
+Tablebase
+Two knights endgame
+Wrong bishop
+Wrong rook pawn
+Tournaments
+List of strong chess tournaments
+Chess Olympiad
+Women
+World Chess Championship
+List
+Candidates Tournament
+Chess World Cup
+FIDE Grand Prix
+Other world championships
+Women
+Team
+Rapid
+Blitz
+Junior
+Youth
+Senior
+Amateur
+Chess composition
+Solving
+Computer chess championships
+CCC
+CSVN
+North American
+TCEC
+WCCC
+WCSCC
+Art and media
+Ca ssa
+Chess aesthetics
+Chess in the arts
+early literature
+film
+novels
+paintings
+poetry
+short stories
+Chess books
+opening books
+endgame literature
+Chess libraries
+Chess newspaper columns
+Chess periodicals
+Related
+Chess boxing
+Chess club
+Chess composer
+Chess problem
+glossary
+joke chess
+Chess prodigy
+Deep Blue
+Simultaneous exhibition
+Solving chess
+ Chess portal
+Category
+Authority control: National 
+Germany
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pawn_(chess)&oldid=1146249961"

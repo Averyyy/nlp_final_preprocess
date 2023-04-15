@@ -1,0 +1,134 @@
+Test to determine whether a user is human
+This article may need to be rewritten to comply with Wikipedia's quality standards, as it feels like an essay criticising CAPTCHA. You can help. The talk page may contain suggestions. (November 2022)
+ This CAPTCHA (Version 1) of "smwm" obscures its message from computer interpretation by twisting the letters and adding a slight background color gradient.
+A CAPTCHA (/ k p.t / KAP-ch , a contrived acronym for "Completely Automated Public Turing test to tell Computers and Humans Apart"[1]) is a type of challenge response test used in computing to determine whether the user is human.[2]
+The term was coined in 2003 by Luis von Ahn, Manuel Blum, Nicholas J. Hopper, and John Langford.[3] The most common type of CAPTCHA (displayed as Version 1.0) was first invented in 1997 by two groups working in parallel. This form of CAPTCHA requires entering a sequence of letters or numbers in a distorted image. Because the test is administered by a computer, in contrast to the standard Turing test that is administered by a human, a CAPTCHA is sometimes described as a reverse Turing test.[4] Many websites use it to prevent bot spamming and raiding, it works well, and it is widely used. Most websites use hCaptcha or reCAPTCHA.[5][6] It takes the average person approximately 10 seconds to solve a typical CAPTCHA.[7]
+History
+Since the 1980s-1990s, users have wanted to make text illegible to computers.[8] The first such people were hackers, posting about sensitive topics to Internet forums they thought were being automatically monitored on keywords. To circumvent such filters, they replaced a word with look-alike characters. HELLO could become |-|3|_|_() or )-(3 0, and others, such that a filter could not detect all of them. This later became known as leetspeak.[9]
+One of the earliest commercial uses of CAPTCHAs was in the Gausebeck Levchin test. In 2000, idrive.com began to protect its signup page[10] with a CAPTCHA and prepared to file a patent.[8] In 2001, PayPal used such tests as part of a fraud prevention strategy in which they asked humans to "retype distorted text that programs have difficulty recognizing."[11] PayPal cofounder and CTO Max Levchin helped commercialize this use.
+A popular deployment of CAPTCHA technology, reCAPTCHA, was acquired by Google in 2009.[12] In addition to preventing bot fraud for its users, Google used reCAPTCHA and CAPTCHA technology to digitize the archives of The New York Times and books from Google Books in 2011.[13]
+Invention
+Eran Reshef, Gili Raanan and Eilon Solan[14] who worked at Sanctum on Application Security Firewall first patented CAPTCHA in 1997. Their patent application details that "The invention is based on applying human advantage in applying sensory and cognitive skills to solving simple problems that prove to be extremely hard for computer software. Such skills include, but are not limited to processing of sensory information such as identification of objects and letters within a noisy graphical environment".
+Positives
+CAPTCHAs' purpose is to prevent spam on websites, such as promotion spam, registration spam, and data scraping, and bots are less likely to abuse websites with  spamming if those websites use CAPTCHA.  Many websites use CAPTCHA to prevent bot raiding, and it works effectively. CAPTCHA's design is that humans can complete CAPTCHAs, while most robots can't.[15] New CAPTCHAs look at the user's behaviour on the internet, to prove that they are a human.[16] A normal CAPTCHA test only appears if the user acts like a bot, such as when they request webpages, or click links too fast.
+Characteristics
+CAPTCHAs are automated, requiring little human maintenance or intervention to administer, producing benefits in cost and reliability.[17]
+The algorithm used to create the CAPTCHA must be public, though it may be covered by a patent. This is done to demonstrate that breaking it requires the solution to a difficult problem in the field of artificial intelligence (AI) rather than just the discovery of the (secret) algorithm, which could be obtained through reverse engineering or other means.[18]
+Modern text-based CAPTCHAs are designed such that they require the simultaneous use of three separate abilities invariant recognition, segmentation, and parsing to complete the task.[19]
+Invariant recognition refers to the ability to recognize letters despite a large amount of variation in their shapes.[20]
+Segmentation is the ability to separate one letter from another, made difficult in CAPTCHAs.
+Context: The CAPTCHA must be understood holistically to correctly identify each character.[21]
+Each of these problems poses a significant challenge for a computer, even in isolation. These three techniques make CAPTCHAs hard.[22]
+Whilst primarily used for security reasons, CAPTCHAs can also serve as a benchmark task for artificial intelligence technologies. According to an article by Ahn, Blum and Langford,[23] "any program that passes the tests generated by a CAPTCHA can be used to solve a hard unsolved AI problem."[24] They argue that the advantages of using hard AI problems as a means for security are twofold. Either the problem goes unsolved and there remains a reliable method for distinguishing humans from computers, or the problem is solved and a difficult AI problem is resolved along with it.[23]
+Accessibility
+See also: Web accessibility
+ Many websites require typing a CAPTCHA when creating an account to prevent spam.
+CAPTCHAs based on reading text   or other visual-perception tasks   prevent blind or visually impaired users from accessing the protected resource.[25] However, CAPTCHAs do not have to be visual. Any hard artificial intelligence problem, such as speech recognition, can be used as CAPTCHA. Some implementations of CAPTCHAs permit users to opt for an audio CAPTCHA, such as reCAPTCHA, though a 2011 paper demonstrated a technique for defeating the popular schemes at the time.[26]
+Blind or visually impaired people have problems with CAPTCHAs.[27] Because CAPTCHAs are designed to be unreadable by machines, common assistive technology tools such as screen readers cannot interpret them. Since sites may use CAPTCHAs as part of the initial registration process, or even every login, this challenge can block access. In certain jurisdictions, site owners could become targets of litigation if they are using CAPTCHAs that discriminate against certain people with disabilities. For example, a CAPTCHA may make a site incompatible with Section 508 in the United States.
+The use of CAPTCHA thus excludes a small percentage of users from using significant subsets of such common Web-based services as PayPal, Gmail, Orkut, Yahoo!, many forum and weblog systems, etc.[28]
+Even for individuals who aren't blind, new generations of graphical CAPTCHAs, designed to overcome sophisticated recognition software, can be very hard or impossible to read.[29]
+A method of improving CAPTCHA to ease the work with it was proposed by ProtectWebForm and named "Smart CAPTCHA".[30] Developers are advised to combine CAPTCHA with JavaScript. Since it is hard for most bots to parse and execute JavaScript, a combinatory method which fills the CAPTCHA fields and hides both the image and the field from human eyes was proposed.[31]
+One alternative method involves displaying to the user a simple mathematical equation and requiring the user to enter the solution as verification. Although these are much easier to defeat using software, they are suitable for scenarios where graphical imagery is not appropriate, and they provide a much higher level of accessibility for blind users than the image-based CAPTCHAs. These are sometimes referred to as MAPTCHAs (M = "mathematical"). However, these may be difficult for users with a cognitive disorder, such as dyscalculia.[32]
+Challenges such as a logic puzzle, or trivia question can also be used as a CAPTCHA. There is research into their resistance against countermeasures.[33]
+Circumvention
+Two main ways to bypass CAPTCHA include using cheap human labor to recognize them, and using machine learning to build an automated solver.[34] According to former Google "click fraud czar" Shuman Ghosemajumder, there are numerous services which solve CAPTCHAs automatically.[35]
+Machine learning-based attacks
+There was not a systematic methodology for designing or evaluating early CAPTCHAs.[22] As a result, there were many instances in which CAPTCHAs were of a fixed length and therefore automated tasks could be constructed to successfully make educated guesses about where segmentation should take place. Other early CAPTCHAs contained limited sets of words, which made the test much easier to game. Still others[example  needed] made the mistake of relying too heavily on background confusion in the image. In each case, algorithms were created that were successfully able to complete the task by exploiting these design flaws. However, light changes to the CAPTCHA could thwart them. Modern CAPTCHAs like reCAPTCHA rely on present variations of characters that are collapsed together, making them hard to segment, and they have warded off automated tasks.[36]
+ An example of a reCAPTCHA challenge from 2007, containing the words "following finding". The waviness and horizontal stroke were added to increase the difficulty of breaking the CAPTCHA with a computer program.
+ A CAPTCHA usually has a text box directly underneath where the user should fill out the text that they see. In this case, "sclt ..was here".
+In October 2013, artificial intelligence company Vicarious claimed that it had developed a generic CAPTCHA-solving algorithm that was able to solve modern CAPTCHAs with character recognition rates of up to 90%.[37] However, Luis von Ahn, a pioneer of early CAPTCHA and founder of reCAPTCHA, said: "It's hard for me to be impressed since I see these every few months." 50 similar claims to that of Vicarious had been made since 2003.[38]
+In August 2014 at Usenix WoOT conference, Bursztein et al. presented the first generic CAPTCHA-solving algorithm based on reinforcement learning and demonstrated its efficiency against many popular CAPTCHA schemas.[36]
+In October 2018 at ACM CCS'18 conference, Ye et al. presented a deep learning-based attack that could consistently solve all 11 text captcha schemes used by the top-50 popular websites in 2018. An effective CAPTCHA solver can be trained using as few as 500 real CAPTCHAs.[39]
+Human labor
+It is possible to subvert CAPTCHAs by relaying them to a sweatshop of human operators who are employed to decode CAPTCHAs. A 2005 paper from a W3C working group said that they could verify hundreds per hour.[25] In 2010, the University of California at San Diego conducted a large scale study of CAPTCHA farms. The retail price for solving one million CAPTCHAs was as low as $1,000.[40]
+Another technique consists of using a script to re-post the target site's CAPTCHA as a CAPTCHA to the attacker's site, which unsuspecting humans visit and solve within a short while for the script to use.[41][42]
+In 2023, the generative AI chatbot ChatGPT, tricked a TaskRabbit worker to solve a CAPTCHA by telling the worker it was not a robot and had impaired vision.[43]
+Outsourcing to paid services
+There are multiple Internet companies like 2Captcha and DeathByCaptcha that offer human and machine backed CAPTCHA solving services for as low as US$0.50 per 1000 solved CAPTCHAs.[44] These services offer APIs and libraries that enable users to integrate CAPTCHA circumvention into the tools that CAPTCHAs were designed to block in the first place.[45]
+Insecure implementation
+Howard Yeend has identified two implementation issues with poorly designed CAPTCHA systems:[46] reusing the session ID of a known CAPTCHA image, and CAPTCHAs residing on shared servers.
+Sometimes, if part of the software generating the CAPTCHA is client-side (the validation is done on a server but the text that the user is required to identify is rendered on the client side), then users can modify the client to display the un-rendered text. Some CAPTCHA systems use MD5 hashes stored client-side, which may leave the CAPTCHA vulnerable to a brute-force attack.[47]
+Alternative CAPTCHAs
+Some researchers have proposed alternatives including image recognition CAPTCHAs which require users to identify simple objects in the images presented. The argument in favor of these schemes is that tasks like object recognition are more complex to perform than text recognition and therefore should be more resilient to machine learning based attacks.
+Chew et al. published their work in the 7th International Information Security Conference, ISC'04, proposing three different versions of image recognition CAPTCHAs, and validating the proposal with user studies. It is suggested that one of the versions, the anomaly CAPTCHA, is best with 100% of human users being able to pass an anomaly CAPTCHA with at least 90% probability in 42 seconds.[48] Datta et al. published their paper in the ACM Multimedia '05 Conference, named IMAGINATION (IMAge Generation for INternet AuthenticaTION), proposing a systematic way to image recognition CAPTCHAs. Images are distorted so image recognition approaches cannot recognise them.[49]
+Microsoft (Jeremy Elson, John R. Douceur, Jon Howell, and Jared Saul) claim to have developed Animal Species Image Recognition for Restricting Access (ASIRRA) which ask users to distinguish cats from dogs. Microsoft had a beta version of this for websites to use.[50] They claim "Asirra is easy for users; it can be solved by humans 99.6% of the time in under 30 seconds. Anecdotally, users seemed to find the experience of using Asirra much more enjoyable than a text-based CAPTCHA." This solution was described in a 2007 paper to Proceedings of 14th ACM Conference on Computer and Communications Security (CCS).[51] It was closed in October 2014.[52]
+See also
+Defense strategy (computing)
+NuCaptcha
+Proof of personhood
+Proof-of-work system
+reCAPTCHA
+References
+^ "What is CAPTCHA?". Google Support. Google Inc. Archived from the original on 6 August 2020. Retrieved 9 September 2022. CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) is a [...]
+^ "The reCAPTCHA Project   Carnegie Mellon University CyLab". www.cylab.cmu.edu. Archived from the original on 27 October 2017. Retrieved 13 January 2017.
+^ von Ahn, Luis; Blum, Manuel; Hopper, Nicholas J.; Langford, John (May 2003). "CAPTCHA: Using Hard AI Problems for Security" (PDF). Advances in Cryptology   EUROCRYPT 2003. EUROCRYPT 2003: International Conference on the Theory and Applications of Cryptographic Techniques. Lecture Notes in Computer Science. Vol. 2656. pp. 294 311. doi:10.1007/3-540-39200-9_18. ISBN 978-3-540-14039-9. Archived (PDF) from the original on 4 May 2019. Retrieved 30 August 2019.
+^ Mayumi Takaya; Yusuke Tsuruta2; Akihiro Yamamura1. "Reverse Turing Test using Touchscreens and CAPTCHA " (PDF). Akita University. Archived (PDF) from the original on 22 August 2017. Retrieved 10 January 2019.
+^ "Websites using hCaptcha". trends.builtwith.com. Archived from the original on 10 November 2022. Retrieved 10 November 2022.
+^ Sulgrove, Jonathan (7 July 2022). "reCAPTCHA: What It Is and Why You Should Use It on Your Website - TSTS". Twin State Technical Services. Archived from the original on 10 November 2022. Retrieved 10 November 2022.
+^ Bursztein, Elie; Bethard, Steven; Fabry, Celine; Mitchell, John C.; Jurafsky, Dan (2010). "How Good are Humans at Solving CAPTCHAs? A Large Scale Evaluation" (PDF). Proceedings of the 2010 IEEE Symposium on Security and Privacy: 399 413. CiteSeerX 10.1.1.164.7848. doi:10.1109/SP.2010.31. ISBN 978-1-4244-6894-2. S2CID 14204454. Archived (PDF) from the original on 8 August 2018. Retrieved 30 March 2018.
+^ a b "idrive turing patent application". Archived from the original on 15 March 2023. Retrieved 19 May 2017.
+^ "h2g2   An Explanation of l33t Speak   Edited Entry". h2g2. Archived from the original on 6 September 2011. Retrieved 3 June 2015.
+^ "idrive turing signup page". Google Drive. Archived from the original on 15 March 2023. Retrieved 19 May 2017.
+^ Stringham, Edward P (2015). Private Governance : creating order in economic and social life. Oxford University Press. p. 105. ISBN 978-0-19-936516-6. OCLC 5881934034.
+^ "Teaching computers to read: Google acquires reCAPTCHA". Google Official Blog. Archived from the original on 31 August 2019. Retrieved 29 October 2018.
+^ Gugliotta, Guy (28 March 2011). "Deciphering Old Texts, One Woozy, Curvy Word at a Time". The New York Times. Archived from the original on 17 November 2017. Retrieved 29 October 2018.
+^ US 2005/0114705 A1, Reshef, Eran; Raanan, Gil & Solan, Eilon, "Method and system for discriminating a human action from a computerized action", published 26 May 2005  Archived 24 February 2019 at the Wayback Machine
+^ Stec, Albert (12 June 2022). "What is CAPTCHA and How Does It Work? | Baeldung on Computer Science". www.baeldung.com. Archived from the original on 1 November 2022. Retrieved 1 November 2022.
+^ "What is a CAPTCHA?". Cloudflare. 1 November 2022. Archived from the original on 27 October 2022. Retrieved 1 November 2022.
+^ "How CAPTCHAs work | What does CAPTCHA mean?". Cloudflare. Archived from the original on 27 October 2022. Retrieved 27 October 2022.
+^ Justie, Brian (2020). "Little history of CAPTCHA". Internet Histories. 5: 30 47. doi:10.1080/24701475.2020.1831197. S2CID 228834122.
+^ Chellapilla, Kumar; Larson, Kevin; Simard, Patrice; Czerwinski, Mary. "Designing Human Friendly Human Interaction Proofs (HIPs)" (PDF). Microsoft Research. Archived from the original (PDF) on 10 April 2015.
+^ Karimi-Rouzbahani, Hamid; Bagheri, Nasour; Ebrahimpour, Reza (31 October 2017). "Invariant object recognition is a personalized selection of invariant features in humans, not simply explained by hierarchical feed-forward vision models". Scientific Reports. 7 (1): 14402. Bibcode:2017NatSR...714402K. doi:10.1038/s41598-017-13756-8. ISSN 2045-2322. PMC 5663844. PMID 29089520.
+^ "Making CAPTCHAs Expensive Again: If You're Using Text-Based CAPTCHAs, You're Doing It Wrong | Tripwire". www.tripwire.com. Archived from the original on 28 October 2022. Retrieved 28 October 2022.
+^ a b Bursztein, Elie; Martin, Matthieu; Mitchell, John C. (2011). "Text-based CAPTCHA Strengths and Weaknesses". ACM Computer and Communication Security 2011 (CSS'2011). Archived from the original on 24 November 2015. Retrieved 5 April 2016.
+^ a b von Ahn, Luis; Blum, Manuel; Hopper, Nicholas J.; Langford, John (2003). "CAPTCHA: Using Hard AI Problems for Security" (PDF). Advances in Cryptology   EUROCRYPT 2003. Lecture Notes in Computer Science. Vol. 2656. pp. 294 311. doi:10.1007/3-540-39200-9_18. ISBN 978-3-540-14039-9. Archived (PDF) from the original on 4 May 2019. Retrieved 30 August 2019.
+^ Moy G, N Jones and C Harkless (2004) "Distortion estimation techniques in solving visual CAPTCHAs Archived 29 July 2020 at the Wayback Machine", Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition.
+^ a b May, Matt (23 November 2005). "Inaccessibility of CAPTCHA". W3C. Archived from the original on 21 May 2012. Retrieved 27 April 2015.
+^ Bursztein, Elie; Beauxis, Romain; Perito, Hristo; Paskov, Daniele; fabry, Celine; Mitchell, John C. (2011). "The failure of noise-based non-continuous audio captchas". IEEE Symposium on Security and Privacy (S&P), 2011: 19 31. doi:10.1109/SP.2011.14. ISBN 978-1-4577-0147-4. S2CID 6933726. Archived from the original on 16 April 2016. Retrieved 5 April 2016.
+^ Shea, Michael (19 November 2015). "CAPTCHA: Spambots, eBooks and the Turing Test". The Skinny. Archived from the original on 27 January 2016. Retrieved 9 January 2016.
+^ "Inaccessibility of CAPTCHA". www.w3.org. Archived from the original on 4 November 2020. Retrieved 31 October 2020.
+^ "Why are CAPTCHAs so hard to read?". Quora. Archived from the original on 15 March 2023. Retrieved 27 October 2022.
+^ "Smart Captcha". Protect Web Form .COM. 8 October 2006. Archived from the original on 4 November 2016. Retrieved 15 September 2017.
+^ "Invisible reCAPTCHA". Google Developers. Archived from the original on 16 January 2020. Retrieved 28 October 2022.
+^ "Inaccessibility of CAPTCHA". www.w3.org. Archived from the original on 27 October 2022. Retrieved 27 October 2022.
+^ Gao, Song; Mohamed, Manar; Saxena, Nitesh; Zhang, Chengcui (23 June 2017). "Emerging-Image Motion CAPTCHAs: Vulnerabilities of Existing Designs, and Countermeasures". IEEE Transactions on Dependable and Secure Computing (Website) (1st ed.). 16 (6): 1040 1053. doi:10.1109/TDSC.2017.2719031. ISSN 1941-0018. S2CID 41097185.
+^ Jakobsson, Markus (August 2012). The death of the Internet. Archived from the original on 15 October 2014. Retrieved 4 April 2016.
+^ Ghosemajumder, Shuman (8 December 2015). "The Imitation Game: The New Frontline of Security". InfoQ. InfoQ. Archived from the original on 23 March 2019. Retrieved 8 December 2015.
+^ a b Bursztein, Elie; Aigrain, Johnathan; Mosciki, Angelika; Michell, John C. (August 2014). The End is Nigh: Generic Solving of Text-based CAPTCHAs. WoOT 2014: Usenix Workshop on Offensive Security. Archived from the original on 16 April 2016. Retrieved 5 April 2016.
+^ Summers, Nick. "Vicarious claims its AI software can crack up to 90% of CAPTCHAs offered by Google, Yahoo and PayPal". TNW. Archived from the original on 15 September 2018. Retrieved 19 June 2018.
+^ Hof, Robert. "AI Startup Vicarious Claims Milestone In Quest To Build A Brain: Cracking CAPTCHA". Forbes. Archived from the original on 15 September 2018. Retrieved 25 August 2017.
+^ "Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach" (PDF). 25th ACM Conference on Computer and Communications Security (CCS), 2018. doi:10.1145/3243734.3243754. S2CID 53106794. Archived (PDF) from the original on 29 October 2020. Retrieved 16 March 2020. {{cite journal}}: Cite journal requires |journal= (help)
+^ Motoyama, Marti; Levchenko, Kirill; Kanich, Chris; McCoy, Damon; Geoffrey, Voelker; Savage, Stefan (August 2010). Re: CAPTCHAs-Understanding CAPTCHA-Solving Services in an Economic Context.s (PDF). USENIX Security Symposium, 2010. Archived (PDF) from the original on 29 May 2016. Retrieved 5 April 2016.
+^ Doctorow, Cory (27 January 2004). "Solving and creating captchas with free porn". Boing Boing. Archived from the original on 9 February 2006. Retrieved 27 April 2015.
+^ "Hire People To Solve CAPTCHA Challenges". Petmail Design. 21 July 2005. Archived from the original on 18 September 2020. Retrieved 27 April 2015.
+^ Hurler, Kevin. "Chat-GPT Pretended to Be Blind and Tricked a Human Into Solving a CAPTCHA". Gizmodo. Retrieved 11 April 2023.
+^ "Top 10 Captcha Solving Services Compared". Archived from the original on 15 December 2018. Retrieved 10 December 2018.
+^ "How Cybercriminals Bypass CAPTCHA". www.f5.com. Archived from the original on 27 October 2022. Retrieved 27 October 2022.
+^ Yeend, Howard (2005). "Breaking CAPTCHAs Without Using OCR". (pureMango.co.uk). Archived from the original on 25 June 2017. Retrieved 22 August 2006.
+^ "CTFtime.org / #kksctf open 2019 / Kackers blockchained notes / Writeup". ctftime.org. Archived from the original on 27 October 2022. Retrieved 27 October 2022.
+^ "Image Recognition CAPTCHAs" (PDF). Cs.berkeley.edu. Archived from the original (PDF) on 10 May 2013. Retrieved 28 September 2013.
+^ "Imagination Paper". Infolab.stanford.edu. Archived from the original on 2 October 2013. Retrieved 28 September 2013.
+^ "Asirra is a human interactive proof that asks users to identify photos of cats and dogs". Microsoft. Archived from the original on 15 December 2008.
+^ "Asirra: A CAPTCHA that Exploits Interest-Aligned Manual Image Categorization". Microsoft. Archived from the original on 15 December 2008. Retrieved 15 September 2017.
+^ "Microsoft's Asirra project closed". Archived from the original on 12 January 2009.
+Further references
+von Ahn, L;  M. Blum and J. Langford. (2004) "Telling humans and computers apart (automatically)". Communications of the ACM, 47(2):57 60.
+External links
+CAPTCHA  at Wikipedia's sister projects
+Definitions from WiktionaryMedia from CommonsTextbooks from WikibooksData from WikidataDocumentation from MediaWiki
+CAPTCHA at Curlie
+Verification of a human in the loop, or Identification via the Turing Test, Moni Naor, 1996.
+Inaccessibility of CAPTCHA: Alternatives to Visual Turing Tests on the Web, a W3C Working Group Note.
+CAPTCHA History from PARC.
+Reverse Engineering CAPTCHAs Abram Hindle, Michael W. Godfrey, Richard C. Holt, 2009-08-24
+Authority control International
+FAST
+National
+France
+BnF data
+Germany
+Israel
+United States
+Other
+IdRef
+Retrieved from "https://en.wikipedia.org/w/index.php?title=CAPTCHA&oldid=1149369078"

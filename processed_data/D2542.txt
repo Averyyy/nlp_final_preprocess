@@ -1,0 +1,286 @@
+Controlling component of a fire alarm system
+For other uses, see Fire alarm (disambiguation).
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article may contain an excessive amount of intricate detail that may interest only a particular audience. Please help by spinning off or relocating any relevant information, and removing excessive detail that may be against Wikipedia's inclusion policy. (June 2017) (Learn how and when to remove this template message)
+The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (December 2010) (Learn how and when to remove this template message)
+ (Learn how and when to remove this template message)
+ A complex fire alarm control panel (top) and graphic annunciator (bottom)
+ A single-zone alarm control panel
+A fire alarm control panel (FACP),  fire alarm control unit (FACU), fire indicator panel (FIP), or simply fire alarm panel is the controlling component of a fire alarm system. The panel receives information from devices designed to detect and report fires, monitors their operational integrity, and provides for automatic control of equipment, and transmission of information necessary to prepare the facility for fire based on a predetermined sequence. The panel may also supply electrical energy to operate any associated initiating device, notification appliance, control, transmitter, or relay. There are four basic types of panels: coded panels, conventional panels, addressable panels, and multiplex systems.
+Coded panels[edit]
+Coded panels were the earliest type of central fire alarm control, and were made during the 1800s to the 1970s. A coded panel is similar in many ways to a modern conventional panel (described below), except each zone was connected to its own code wheel (i.e. an alarm in zone 1 would sound code 1-2-4 [through the bells or horns in the building], while zone 2 would sound 1-2-5), which, depending on the way the panel was set up, would either do sets of four rounds of code until the initiating pull station was reset (similar to a coded pull station), or run continuously until the panel itself was reset. 
+Large panels could take up an entire wall in a mechanical room, with dozens of code wheels. Lists of codes had to be maintained, sometimes with  copies posted above pull stations (this setup is commonly seen in older wings of hospitals). Smaller panels could be set up in one of two ways. Most of the time, the panel would only have one zone, and therefore, only one code. Common one-zone codes were 4-4-0 and 17-0-0 (which is similar to the 120 bpm March Time setting used on later panels; this in turn has been replaced with an interrupted four-count uniform temporal code 3 pattern used since 1996). 
+Alternatively, the panel could be made with no code wheels, using only what was called the gong relay. Normally, this would be used in a system with coded pull stations to re-transmit the coding strikes from the pulls. However, it could also be used as its own zone, with the connected horns or bells sounding continuously instead of in a particular code. These panels are not common today, but can sometimes be found in older buildings such as those on college campuses or hospitals.
+Classic electromechnical coded panels using relays and coded interruptor wheels are functionally obsolete, and have been largely replaced.
+Conventional panels[edit]
+ A small alarm control panel (San Francisco, US)
+ A small alarm control panel (Russia)
+"Conventional" panels have been around ever since electronic components became small enough to make them viable replacements for the historic electromechanical control panels.  Conventional panels are used less frequently in large buildings than in the past,  but are still seen on smaller projects such as small schools, stores, restaurants, and apartment buildings.
+A conventional fire alarm control panel employs one or more electrical signalling circuits (each a pair of wires), connected to initiating devices (usually smoke detectors, heat detectors, duct detectors, manual pull stations, and sometimes flame detectors) wired in parallel. These sensors are designed to dramatically decrease the circuit resistance (a "closed" state) when the environmental conditions on any sensor exceed a predetermined trigger threshold. In a conventional fire alarm system, the information density or resolution is limited to the number of such individual wired circuits installed.
+To facilitate location and control of fire within a building, the structure usually is subdivided into distinct identified areas or zones. Floors of a multi-storey building are one type of zone boundary. A very simple system may have a small number of zones.
+An Initiating Device Circuit (known as a Signalling Line Circuit (SLC) in addressable systems) connected to multiple devices within the same "zone" of protection, effectively provides 3 distinct states of information about the zone to the panel: Normal, Trouble, or Alarm. The state of each initiating device circuit within a zone displays at the fire alarm control panel using visible indications, such as a flashing LED/light or an LCD display.
+The panel may employ a graphical representation of the zone boundaries on a floor plan (zone map) using textual descriptions, illuminated icons, illuminated sections, or illuminated points on the map corresponding to initiating circuits connected to the fire alarm control panel. Annunciators that display this way are called graphic annunciators.
+An important output of any alarm control panel is the Notification Appliance Circuit (NAC). This signal triggers alarm horns, strobe lights, and whatever other notification appliances are used to alert building occupants of an alarm condition.
+Larger systems and increasing demand for finer diagnostic detail beyond broad area location and control functions expanded the control by zone strategy of conventional systems by providing multiple initiating circuits within a common zone, each exclusively connected to a particular type of initiating device, or group of devices. This arrangement forms a device-type-by-zone matrix whose information is particularly suited to a tabular annunciator. In multistorey buildings employing a tabular annunciator, for example: rows of indicators define the floors horizontally in their stacked relationship and the type of device installed on that floor displays as columns of indicators vertically aligned through each floor. The intersection of the floor and device indicators provides the combined information. The density of information however remains a function of the number of circuits employed.
+Even larger systems and demands for finer diagnostic and location detail led to the introduction of addressable fire alarm systems, with each addressable device providing specific information about its state while sharing a common communication circuit. Annunciation and location strategies for the most part remain relatively unchanged.
+Multiplex system panels[edit]
+Multiplex systems, a sort of transition between conventional and modern addressable systems, were often used in large buildings and complexes from the mid to late 1970s into the late 1980s. Early on, these systems were programmed to function as large conventional systems. Gradually, later installations began to feature components and features of modern addressable systems. These systems were often capable of controlling more than a building's fire alarm system (i.e. HVAC, security, electronic door locks, etc.) without any type of alarm or trouble condition present. While the main panel was the brains of the system and could be used to access certain functions, fire alarm controls were usually accessed through transponders. These were smaller conventional panels programmed to "communicate" the status of part of the system to the main panel, and which also could be used to access basic fire alarm control functions.
+Addressable panels[edit]
+ Addressable control panels (Israel)
+ Addressable control panel (Germany)
+Addressable panels are usually more advanced than their conventional counterparts, with much greater information capacity and control flexibility. Addressable fire alarm panels were introduced by many manufacturers during the microcontroller boom in the mid 1980s.
+Signalling Line Circuits (SLC)[edit]
+Addressable Fire Alarm Control Panel  employ one or more Signalling Line Circuits - usually referred to as loops or SLC loops - ranging between one and thirty. Depending on the protocol used, a Signaling Line Circuit can monitor and control uo to several hundred devices. Some protocols permit any mix of detectors and input/output modules, while other protocols have 50% of channel capacity restricted to detectors/sensors and 50% restricted to input/output modules. Each SLC polls the devices connected, which can number from a few devices to several hundred, depending on the manufacturer.  Large systems may have multiple Signalling Line Circuits.[1][2]
+Each device on an SLC has its own unique address, and thus the panel knows the state of each individual device connected to it. Common addressable input (initiating) devices include
+Smoke detectors
+Heat detectors (Rate of Rise and Fixed Temperature)
+Manual call points or manual pull stations
+Notification appliances
+Responders
+Fire sprinkler system inputs
+Switch status
+Flow control
+Pressure
+Isolate
+Standard switches
+Monitor modules
+Addressable output devices include
+(Warning System/Bell) relays
+Door holder relays
+Auxiliary (control function) relays
+Control modules
+Relay modules
+Output devices are used to control a variety of functions such as
+Switching fans on or off
+Closing/opening doors
+Activating fire suppression systems
+Activating notification appliances
+Shutting down industrial equipment
+Recalling elevators to a safe exit floor
+Activating another fire alarm panel or communicator
+Mapping[edit]
+Also known as "cause and effect", mapping is the process of activating outputs depending on which inputs have been activated. Traditionally, when an input device is activated, a certain output device (or relay) is activated. As time has progressed, more and more advanced techniques have become available, often with large variations in style between different companies.
+Zones[edit]
+ This map display can be interpreted quickly (Germany)
+Zones are usually made by dividing a building or area into different sections. Then depending on the specific zone, a certain number and type of device is added to the zone to perform its given job. Zones are a requirement of the National Building Code in Canada, and zones must be labelled and include red LEDs for fire zones, with amber LEDs for supervisory and trouble. The LED indicators are in addition to an LCD display, although this requirement is waived if the LCD has 8 or more lines of characters. Isolators[further explanation needed] are also required when wiring departs a zone and enters a new zone such as floor to floor and between firewalls.
+Groups[edit]
+Groups contain multiple output devices such as relays. This allows a single input, such as a smoke detector or alarm pull station to have only one output programmed to a group, which then maps to multiple outputs or relays. This enables an installer to simplify programming by having many inputs map to the same outputs, and be able to change them all at once, and also allows mapping to more outputs than the programming space for a single detector/input allows.
+Boolean logic[edit]
+This is the part of a fire panel that may have the largest variation between different panels. This capability allows a panel to be programmed to detect fairly complex inputs. For instance, a panel could be programmed to notify the fire department only if more than one device has activated. It can also be used for staged evacuation procedures in conjunction with timers.
+Networking of panels[edit]
+ A newer Simplex 4010 (left) is interconnected with an older Simplex 4208 panel
+The principle of networking involves connecting several panels together to form an integrated system. Inputs on one panel may activate outputs on another for example, or the network may allow monitoring of many systems.  Networking is often used in situations where one panel is not large enough, or in multiple-building situations.  Networking is also an effective way to decouple systems to reduce the risk of a large portion of a facility going offline at any time due to system failure or maintenance requirements.  Sub-networks can be created using either hardware or software architectures. Networked systems normally are more costly and involve additional training and system configuration for successful implementation.
+Although quasi-standards exist allowing panels from different manufacturers to be networked with each other, they are not always supported by all companies. One of the most common protocols used is BACnet, which is already common for various type of industrial networks. Typical interconnected systems to the Fire Alarm Control Panel include HVAC, Building Automation Controllers, Security/Access Control, or Elevator Controllers. The Arcnet protocol has been used for years in industrial applications, and is also used for networking Fire Alarm Control Panels.
+More recently, some panels are being networked with standard Ethernet, but this is not yet very common.[when?]  Many organizations choose to create their own proprietary protocol, which has the added benefit of allowing them to do anything they like, allowing the technology to progress further. However, a bridging layer between the proprietary network and BACnet is usually available.[citation needed]
+Networking may be used to allow a number of different panels to be monitored by one centralized graphical monitoring system.
+Releasing panels[edit]
+Releasing panels are capable of using solenoids to disperse fire-fighting chemical agents such as Halon or water from piping located throughout a building. A releasing panel usually will have a manual abort switch to abort an accidental release which could damage property or equipment. Releasing capability can be part of both addressable or conventional panels.
+Other auxiliary panels[edit]
+Other types of fire alarm control panels include voice evacuation panels, which are panels designed to provide outputs for speakers in the system when the main panel does not already have built-in voice evacuation ability. Another type are Notification Appliance Circuit (NAC) extenders (also called power supplies) usually meant for powering more notification appliances than the main panel could normally power, though sometimes NAC extenders are also used for synchronization of the alarms.
+Alarm monitoring[edit]
+In nearly every state in the US, the International Building Code requires fire alarm and sprinkler systems to be monitored by an approved supervising station.
+A fire alarm system consists of a computer-based control connected to a central station. The majority of fire alarm systems installed in the US are monitored by a UL listed or FM Global approved supervising station.
+These systems will generally have a top level map of the entire site, with various building levels displayed. The user (most likely a security guard) can progress through the different stages. From top level site   building plan   floor plan   zone plan, or however else the building's security system is organized.
+Many of these systems have touch screens, but most users tend to prefer a mouse (and a normal monitor), as it is quite easy for a touch screen to become misaligned and for mistakes to be made. With the advent of the optical mouse, this is now a very viable option.
+System functions[edit]
+ A police officer resets a fire alarm control panel (Virginia, US)
+There are many control functions on a fire alarm panel. Some of these are:
+System reset[edit]
+This resets the panel after an alarm condition.  All initiating devices are reset, (except for pull stations which must be reset manually) and the panel is cleared of any alarm conditions.  If an initiating device is still in alarm after the system is reset, such as a smoke detector continuing to sense smoke or a manual pull station still in an activated position, another alarm will be initiated, or in some cases the panel will refuse to reset until all the alarms have been reset/cleared.  A system reset is often required to clear supervisory conditions.  A system reset does not usually clear trouble conditions;  most trouble conditions will clear automatically when conditions are returned to normal.
+Acknowledge[edit]
+This function (also abbreviated as "ACK") is used to manually acknowledge an abnormal situation such as an alarm, trouble, or supervisory signal. This usually stops the panel "piezo" from sounding, and makes the activated (flashing) LED turn on steady ("go solid"). This also cancels the auto-evacuation timer (3 5 minutes depending on occupancy type) from advancing from first stage to second stage evacuation.
+Signal silence[edit]
+Depending on the configuration of the alarm system, this function (also known as "alarm silence" or "audible silence") will either deactivate the system's notification appliances completely, or will silence only the audible signals while strobe lights/visuals continue to operate (the latter condition is known as "audible silence"). Signal silence allows for easier verbal communication amongst emergency responders while responding to an alarm. This can also be used during building construction as a method of preliminary test, before the final full system test. Signal silence is usually used right after the emergency has been dealt with, and the building is ready to be reoccupied again. A system reset usually is done soon after.
+Lamp test[edit]
+This button (also known as "flash test") is still used on many panels to check the condition of the indicator lights (LEDs) themselves. A "Lamp Test" button is required by code on multi-zone panels installed in Canada. Many panels also do an automatic lamp test when the system is reset.
+Walk test[edit]
+A "walk test" is a method of testing many fire alarm devices in a system, which saves time and requires fewer technicians at the location. Using "walk test", a single technician can simply walk around the building and activate any device they would like. Doing so will send a signal to the panel, which will either pulse the Notification Appliance Circuit (NAC) a certain number of times to indicate the zone on which the device is wired to, or simply sound the notification appliances for a few seconds, then automatically reset. A "silent walk test" will only flash the alarm light on the panel, thus not sounding the signals.
+Drill[edit]
+On panels that have this function, the drill function (also known as "manual evacuation") activates the system's notification appliances (NAC), often for purposes of conducting a fire drill.  Using the drill function, a remote alarm is normally not transmitted to the fire department or monitoring center, as the auxiliary relays for this function are not activated.  However, building personnel often notify these agencies in advance anyway, in case an alarm is inadvertently transmitted.
+Class change[edit]
+This button, or input terminals connected to an external timer switch, will sound the notification appliances briefly in a different cadence from the fire alarm sequence. It is used to signify class change or lesson breaks in schools, and allows the fire alarm system to be used instead of a separate class bell system. This ensures pupils are familiar with the sound of the alarm, and means the notification appliance circuits are tested several times a day. 
+Panel indicators[edit]
+ This basic 8-zone fire alarm control panel has many of the classic LED indicators
+Many panels today have the capability of alerting building personnel of a situation which could develop into a potentially serious problem. Fire alarm panels indicate an abnormal condition via a solid or flashing LED. Most panels also contain a small sounder, called a "piezo", used in conjunction with the visual alert. A number of indicators are described below, but not all fire alarm panels have all of these indicators.
+Alarm[edit]
+Also known as "Fire" or "General Alarm". This indicator is lit when an alarm condition exists in the system, initiated by smoke detectors, heat detectors, sprinkler flow switches, manual pull stations, manual call points, or otherwise.  Along with the indicator on the panel, notification appliances, such as horns and strobes, are also activated via the Notification Appliance Circuit (NAC), signalling to building occupants that they must evacuate.  In an alarm condition, the fire alarm panel indicates where the alarm originated.  The alarm panel can be reset once the device which initiated the alarm has been reset, such as returning the handle of a manual pull station to its normal position.
+Silenced[edit]
+Also known as "Signals Silenced" or "Alarm Silenced", this indicator is used in conjunction with the "Alarm" indicator.  It indicates that the fire alarm panel is still in an alarm condition, but that notification appliances (NACs) have been silenced.  While the alarm is silenced, other functions in an alarm condition continue to operate, such as emergency service for elevators, stairway pressurization, and ventilation functions.  A new alarm initiation signal while the alarm is silenced will take the panel out of Silence and reactivate the notification appliances.
+Drill[edit]
+Also known as "Manual Evacuation" or "Evacuate". On panels containing this function, the "Drill" indicator shows that the alarm condition was activated from the fire alarm panel, often in order to conduct a fire drill.  When an alarm is initiated for a drill, the fire department or monitoring company is usually not notified automatically.
+Prealarm[edit]
+This LED is often used in conjunction with a two-stage system, in which the panel requires two devices to be activated (and/or a predetermined time limit to run out after one device is activated) in order to go into full alarm. This is mostly used in areas where false alarms are a common problem, or in large applications (such as hospitals) where evacuating the entire building would not be efficient. The prealarm LED is lit when one device has tripped. The prealarm LED may also be used if an addressable smoke detector registers low levels of smoke in the detection chamber, but not enough to trigger a full alarm.[3] Depending on the system's layout, the Notification Appliance Circuit (NAC) may or may not activate for prealarm conditions. In a two-stage system, the NACs are typically coded to a special first-stage coding, or in some situations where a loud alarm signal could be disruptive, chimes will activate. If there is a voice evacuation system, it will usually instruct building occupants to await further instructions while the alarm is being investigated.
+Trouble[edit]
+Also known as "Fault" or "Defect". When held steady or flashing, it means that a trouble condition exists on the panel.  Trouble conditions are often activated by a contaminated smoke detector or an electrical problem within the system.  Trouble conditions are also activated by a zone being disabled, a circuit or NAC being disabled, low power on the backup battery, disabling of a notification appliance, ground faults, or short or open circuits.  Usually the alarm panel's sounder will activate if a trouble condition exists, though older systems would sometimes activate a bell or other audible signal connected to the panel.  In a trouble condition, the panel displays the zone or devices causing the condition. Usually, the "Trouble" indicator goes out automatically when the situation causing the trouble condition is rectified; however in some systems the panel must be manually reset to clear the trouble alarm. Some panels have more specific indicators such as "Trouble-PSU" which shows when the panel itself is compromised, and "Trouble-Bell" or "NAC Trouble" ("Sounder Fault" on UK panels) which shows that the notification appliances are not functioning or connected correctly. On most panels, an acknowledge button is pressed to turn off the panel's sounder.
+Supervisory[edit]
+This signal indicates that a portion of the building's fire protection system has been disabled (such as a fire sprinkler control valve being closed, and consequently a sprinkler tamper switch being activated), or less frequently, that a lower-priority initiating device has been triggered (such as a duct smoke detector). Depending on the system's design, the supervisory point may be latching, meaning the panel must be reset to clear the supervisory condition, or non-latching, meaning the indicator automatically goes out when the condition has cleared. However, some panels require a manual reset regardless of whether the supervisory point is latching or non-latching.
+AC Power[edit]
+Also known as "Normal".  When this (usually green) indicator is lit, power is being provided to the system from the building's electrical system, and not from the backup battery.  When an AC power condition changes, the Trouble indicator comes on and the AC power indicator either goes off or starts flashing ,and the panel alerts building personnel of a power failure. If the AC power indicator is lit without any other indicators also lit, then the system is in a normal non-alarm condition. If no LEDs are lit, there is no power source feeding the panel.
+DC Power[edit]
+This is used to tell the operator that the panel's DC power (batteries) is being charged or used. While relying on DC backup power, the system remains in a fault condition.
+High Rate[edit]
+This LED is on when the battery charger is in the high rate charge state, in which the charger voltage is boosted to charge batteries faster after they have been depleted.
+History[edit]
+This section needs expansion. You can help by adding to it.  (March 2023)
+See also[edit]
+Fire alarm system
+Active fire protection
+EN 54 Fire detection and fire alarm systems in the EU.
+Burglary alarm
+References[edit]
+^ "1.2 Features and Options". Fire Alarm Control Panel: MS9600/MS9600E (PDF). Fire-Lite Alarms. 2003-07-09. Archived from the original (PDF) on 2009-11-22. Retrieved 2009-05-15.
+^ "ZX5Se Multi-protocol Fire Alarm Control Panel" (PDF). Morley-IAS. 2003. Archived from the original (PDF) on March 21, 2012. Retrieved 2009-05-15.
+^ Wire-Free Protection Ltd.
+Wikimedia Commons has media related to Fire alarm control panels.
+vteFire protectionFundamental concepts
+Backdraft
+Boiling liquid expanding vapor explosion (BLEVE)
+Combustibility and flammability
+Conflagration
+Dangerous goods (HAZMAT)
+Deflagration
+Detonation
+Dust explosion
+Enthalpy of vaporization
+Explosive
+Fire class
+Fire control
+Fire loading
+Fire point
+Fire triangle
+Flammability diagram
+Flammability limit
+Flammable liquid
+Flashover
+Flash point
+Friction loss
+Gas leak
+Heat transfer
+K-factor (fire protection)
+Pyrolysis
+Spontaneous combustion
+Structure fire
+Thermal radiation
+Water pressure
+Technology
+Active fire protection
+Automatic fire suppression
+Condensed aerosol fire suppression
+Detonation flame arrester
+External water spray system
+Fire bucket
+Fire prevention
+Fire protection
+Fire retardant
+Fire-retardant fabric
+Fire retardant gel
+Fire-safe polymers
+Fire safety
+Fire sprinkler system
+Fire suppression system
+Firefighting foam
+Flame arrester
+Flame retardant
+Flashback arrestor
+Fusible link
+Gaseous fire suppression
+Hypoxic air technology for fire prevention
+Inerting system
+Intumescent
+Passive fire protection
+Personal protective equipment (PPE)
+Relief valve
+Spark arrestor
+Tank blanketing
+Vehicle fire suppression system
+Building design
+Annulus (firestop)
+Area of refuge
+Booster pump
+Compartmentalization (fire protection)
+Crash bar
+Electromagnetic door holder
+Electromagnetic lock
+Emergency exit
+Emergency light
+Exit sign
+Fire curtain
+Fire cut
+Fire damper
+Fire door
+Fire escape
+Fire extinguisher
+Fire hose
+Fire hydrant
+Fire pump
+Fire sprinkler
+Firestop
+Firestop pillow
+Firewall (construction)
+Grease duct
+Heat and smoke vent
+Occupancy
+Packing (firestopping)
+Penetrant (mechanical, electrical, or structural)
+Penetration (firestop)
+Pressurisation ductwork
+Safety glass
+Smoke control
+Smoke damper
+Smoke exhaust ductwork
+Smokeproof enclosure
+Standpipe (firefighting)
+Fire alarm systems
+Aspirating smoke detector
+Carbon monoxide detector
+Circuit integrity
+Explosive gas leak detector
+Fire alarm call box
+Fire alarm control panel
+Fire alarm notification appliance
+Fire drill
+Flame detector
+Heat detector
+Manual fire alarm activation
+Smoke detector
+Professions, trades,and services
+Duct cleaning
+Fire insurance
+Fire protection engineering
+Fireproofing
+Fire-resistance rating
+Fire Safety Evaluation System (FSES)
+Fire test
+Kitchen exhaust cleaning
+Listing and approval use and compliance
+Sprinkler fitting
+Industry organizations
+Fire Equipment Manufacturers' Association (FEMA)
+Institution of Fire Engineers (IFE)
+National Council of Examiners for Engineering and Surveying (NCEES)
+National Fire Protection Association (NFPA)
+Society of Fire Protection Engineers  (SFPE)
+Underwriters Laboratories (UL)
+Standards
+CE marking
+EN 3
+EN 54
+EN 16034
+Flame spread
+GHS hazard statements
+GHS precautionary statements
+Life Safety Code (NFPA 101)
+List of R-phrases
+List of S-phrases
+Safety data sheet
+UL 94
+Awards
+Arthur B. Guise Medal
+Harry C. Bigglestone Award
+See also
+Template:Fire
+Template:Firefighting
+Template:HVAC
+ Category
+ Commons
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Fire_alarm_control_panel&oldid=1144286507"

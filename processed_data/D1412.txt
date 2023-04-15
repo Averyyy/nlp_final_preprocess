@@ -1,0 +1,350 @@
+Business process improvement technique
+Not to be confused with Sigma 6 (disambiguation) or 5S (methodology).
+Part of a series of articles onMachine industry
+Manufacturing methods
+Batch production
+Job production
+Flow production
+Lean manufacturing
+Agile manufacturing
+Industrial technologies
+PLM
+RCM
+TPM
+VDM
+QRM
+TOC
+Six Sigma
+TQM
+ZD
+Information and communication
+ISA-88
+ISA-95
+ERP
+IEC 62264
+B2MML
+Process control
+PLC
+DCS
+SCADA
+vte
+Six Sigma (6 ) is a set of techniques and tools for process improvement. It was introduced by American engineer Bill Smith while working at Motorola in 1986.[1][2]
+Six Sigma strategies seek to improve manufacturing quality by identifying and removing the causes of defects and minimizing variability in manufacturing and business processes. This is done by using empirical and statistical quality management methods and by hiring people who serve as Six Sigma experts. Each Six Sigma project follows a defined methodology and has specific value targets, such as reducing pollution or increasing customer satisfaction.
+The term Six Sigma originates from statistical quality control, a reference to the fraction of a normal curve that lies within six standard deviations of the mean, used to represent a defect rate.
+History[edit]
+Motorola pioneered Six Sigma, setting a "six sigma" goal for its manufacturing business. It registered Six Sigma as a service mark on June 11, 1991 (U.S. Service Mark 1,647,704); on December 28, 1993, it registered Six Sigma as a trademark. In 2005 Motorola attributed over $17 billion in savings to Six Sigma.[3]
+Honeywell and General Electric were also early adopters of Six Sigma. As GE's CEO, in 1995 Jack Welch made it central to his business strategy.[4] In 1998 GE announced $350 million in cost savings thanks to Six Sigma, which was an important factor in the spread of Six Sigma (this figure later grew to more than $1 billion).[5] By the late 1990s, about two thirds of the Fortune 500 organizations had begun Six Sigma initiatives with the aim of reducing costs and improving quality.[6]
+In recent years[update], some practitioners have combined Six Sigma ideas with lean manufacturing to create a methodology named Lean Six Sigma.[7] The Lean Six Sigma methodology views lean manufacturing, which addresses process flow and waste issues, and Six Sigma, with its focus on variation and design, as complementary disciplines aimed at promoting "business and operational excellence".[7]
+In 2011, the International Organization for Standardization (ISO) published the first standard "ISO 13053:2011" defining a Six Sigma process.[8] Other standards have been created mostly by universities or companies with Six Sigma first-party certification programs.
+Etymology[edit]
+ Normal distribution underlies the statistical assumptions of Six Sigma. At 0,   (mu) marks the mean, with the horizontal axis showing distance from the mean, denoted in units of standard deviation (represented as   or sigma). The greater the standard deviation, the larger the spread of values; for the green curve,   = 0 and   = 1. The upper and lower specification limits (USL and LSL) are at a distance of 6  from the mean. Normal distribution means that values far away from the mean are extremely unlikely approximately 1 in a billion too low, and the same too high. Even if the mean were to move right or left by 1.5 standard deviations (also known as a 1.5 sigma shift, colored red and blue), there is still a safety cushion.
+The term Six Sigma comes from statistics, specifically from the field of statistical quality control, which evaluates process capability. Originally, it referred to the ability of manufacturing processes to produce a very high proportion of output within specification. Processes that operate with "six sigma quality" over the short term are assumed to produce long-term defect levels below 3.4 defects per million opportunities (DPMO).  The 3.4 dpmo is based on a "shift" of   1.5 sigma explained by Mikel Harry. This figure is based on the tolerance in the height of a stack of discs.[9][10]
+Specifically, say that there are six standard deviations represented by the Greek letter   (sigma) between the mean represented by   (mu) and the nearest specification limit. As process standard deviation goes up, or the mean of the process moves away from the center of the tolerance, fewer standard deviations will fit between the mean and the nearest specification limit, decreasing the sigma number and increasing the likelihood of items outside specification. According to a calculation method employed in process capability studies, this means that practically no[failed verification] items will fail to meet specifications.[9]
+One should also note that the calculation of sigma levels for a process data is independent of the data being normally distributed. In one of the criticisms of Six Sigma, practitioners using this approach spend a lot of time transforming data from non-normal to normal using transformation techniques. It must be said that sigma levels can be determined for process data that has evidence of non-normality.[9]
+Doctrine[edit]
+ Six Sigma symbol
+Six Sigma asserts that:
+Continuous efforts to achieve stable and predictable process results (e.g., by reducing process variation) are of vital importance to business success.
+Manufacturing and business processes have characteristics that can be defined, measured, analyzed, improved, and controlled.
+Achieving sustained quality improvement requires commitment from the entire organization, particularly from top-level management.
+Features that set Six Sigma apart from previous quality-improvement initiatives include:
+Focus on achieving measurable and quantifiable financial returns
+Emphasis on management leadership and support
+Commitment to making decisions on the basis of verifiable data and statistical methods rather than assumptions and guesswork
+In fact, lean management and Six Sigma share similar methodologies and tools, including the fact that both were influenced by Japanese business culture. However, lean management primarily focuses on eliminating waste through tools that target organizational efficiencies while integrating a performance improvement system, while Six Sigma focuses on eliminating defects and reducing variation. Both systems are driven by data, though Six Sigma is much more dependent on accurate data.[citation needed]
+Six Sigma's implicit goal is to improve all processes but not necessarily to the 3.4 DPMO level. Organizations need to determine an appropriate sigma level for each of their most important processes and strive to achieve these. As a result of this goal, it is incumbent on management of the organization to prioritize areas of improvement.
+Methodologies[edit]
+Six Sigma projects follow two project methodologies, inspired by W. Edwards Deming's Plan Do Study Act Cycle, each with five phases.[6]
+DMAIC ("duh-may-ick", /d . me . k/) is used for projects aimed at improving an existing business process
+DMADV ("duh-mad-vee", /d . m d.vi/) is used for projects aimed at creating new product or process designs
+DMAIC[edit]
+ DMAIC's five steps
+Main article: DMAIC
+The DMAIC project methodology has five phases:
+ Define the system, the voice of the customer and their requirements, and the project goals, specifically.
+ Measure key aspects of the current process and collect relevant data; calculate the "as-is" process capability
+ Analyze the data to investigate and verify cause and effect. Determine what the relationships are, and attempt to ensure that all factors have been considered. Seek out the root cause of the defect under investigation.
+ Improve or optimize the current process based upon data analysis using techniques such as design of experiments, poka yoke or mistake proofing, and standard work to create a new, future state process. Set up pilot runs to establish process capability.
+ Control the future state process to ensure that any deviations from the target are corrected before they result in defects. Implement control systems such as statistical process control, production boards, visual workplaces, and continuously monitor the process. This process is repeated until the desired quality level is obtained.
+Some organizations add a Recognize step at the beginning, which is to recognize the right problem to work on, thus yielding an RDMAIC methodology.[11]
+DMADV[edit]
+ DMADV's five steps
+Main article: DFSS
+Also known as DFSS ("Design For Six Sigma"), the DMADV methodology's five phases are:[6]
+ Define design goals that are consistent with customer demands and the enterprise strategy.
+ Measure and identify CTQs (characteristics that are Critical To Quality), measure product capabilities, production process capability, and measure risks.
+ Analyze to develop and design alternatives
+ Design an improved alternative, best suited per analysis in the previous step
+ Verify the design, set up pilot runs, implement the production process and hand it over to the process owner(s).
+Professionalization[edit]
+One key innovation of Six Sigma involves professionalizing quality management. Prior to Six Sigma, quality management was largely relegated to the production floor and to statisticians in a separate quality department. Formal Six Sigma programs adopt an elite ranking terminology similar to martial arts systems like judo to define a hierarchy (and career path) that spans business functions and levels.
+Six Sigma identifies several roles for successful implementation:[12]
+Executive Leadership includes the CEO and other members of top management. They are responsible for setting up a vision for Six Sigma implementation. They also empower other stakeholders with the freedom and resources to transcend departmental barriers and overcome resistance to change.[13]
+Champions take responsibility for Six Sigma implementation across the organization. The Executive Leadership draws them from upper management. Champions also act as mentors to Black Belts.
+Master Black Belts, identified by Champions, act as in-house coaches on Six Sigma. They devote all of their time to Six Sigma, assisting Champions and guiding Black Belts and Green Belts. In addition to statistical tasks, they ensure that Six Sigma is applied consistently across departments and job functions.
+Black Belts operate under Master Black Belts to apply Six Sigma to specific projects. They also devote all of their time to Six Sigma. They primarily focus on Six Sigma project execution and special leadership with special tasks, whereas Champions and Master Black Belts focus on identifying projects/functions for Six Sigma.
+Green Belts are the employees who take up Six Sigma implementation along with their other job responsibilities, operating under the guidance of Black Belts.
+According to proponents, special training is needed for all of these practitioners to ensure that they follow the methodology and use the data-driven approach correctly.[14]
+Some organizations use additional belt colors, such as "yellow belts", for employees that have basic training in Six Sigma tools and generally participate in projects, and "white belts" for those locally trained in the concepts but do not participate in the project team. "Orange belts" are also mentioned to be used for special cases.[15]
+Certification[edit]
+Main article: List of Six Sigma certification organizations
+General Electric and Motorola developed certification programs as part of their Six Sigma implementation. Following this approach, many organizations in the 1990s started offering Six Sigma certifications to their employees. In 2008 Motorola University later co-developed with Vative and the Lean Six Sigma Society of Professionals a set of comparable certification standards for Lean Certification.[6][16] Criteria for Green Belt and Black Belt certification vary; some companies simply require participation in a course and a Six Sigma project.[16] There is no standard certification body, and different certifications are offered by various quality associations for a fee.[17][18][self-published source] The American Society for Quality, for example, requires Black Belt applicants to pass a written exam and to provide a signed affidavit stating that they have completed two projects or one project combined with three years' practical experience in the body of knowledge.[16][19]
+Tools and methods[edit]
+Within the individual phases of a DMAIC or DMADV project, Six Sigma uses many established quality-management tools that are also used outside Six Sigma. The following table shows an overview of the main methods used.
+5 Whys
+Statistical and fitting tools
+Analysis of variance
+General linear model
+ANOVA Gauge R&R
+Regression analysis
+Correlation
+Scatter diagram
+Chi-squared test
+Axiomatic design
+Business Process Mapping/Check sheet
+Cause & effects diagram (also known as fishbone or Ishikawa diagram)
+Control chart/Control plan (also known as a swimlane map)/Run charts
+Cost benefit analysis
+CTQ tree
+Design of experiments/Stratification
+Histograms/Pareto analysis/Pareto chart
+Pick chart/Process capability/Rolled throughput yield
+Quality Function Deployment (QFD)
+Quantitative marketing research through use of Enterprise Feedback Management (EFM) systems
+Root cause analysis
+SIPOC analysis (Suppliers, Inputs, Process, Outputs, Customers)
+COPIS analysis (Customer centric version/perspective of SIPOC)
+Taguchi methods/Taguchi Loss Function
+Value stream mapping
+Software[edit]
+Main article: List of Six Sigma software packages
+Role of the 1.5 sigma shift[edit]
+Experience has shown that processes usually do not perform as well in the long term as they do in the short term.[9] As a result, the number of sigmas that will fit between the process mean and the nearest specification limit may well drop over time, compared to an initial short-term study.[9] To account for this real-life increase in process variation over time, an empirically based 1.5 sigma shift is introduced into the calculation.[9][20]  Mikel Harry, the creator of Six Sigma, based the 1.5 sigma shift on the height of a stack of discs.  He called this "Benderizing". He claimed that based on his stack, all processes shift 1.5 sigma every 50 samples.  According to this idea, a process that fits 6 sigma between the process mean and the nearest specification limit in a short-term study will in the long term fit only 4.5 sigma   either because the process mean will move over time, or because the long-term standard deviation of the process will be greater than that observed in the short term, or both.[9]
+Hence the widely accepted definition of a six sigma process is a process that produces 3.4 defective parts per million opportunities (DPMO). This is based on the fact that a process that is normally distributed will have 3.4 parts per million outside the limits, when the limits are six sigma from the "original" mean of zero and the process mean is then shifted by 1.5 sigma (and therefore, the six sigma limits are no longer symmetrical about the mean).[9] The former six sigma distribution, when under the effect of the 1.5 sigma shift, is commonly referred to as a 4.5 sigma process. The failure rate of a six sigma distribution with the mean shifted 1.5 sigma is not equivalent to the failure rate of a 4.5 sigma process with the mean-centered on zero.[9] This allows for the fact that special causes may result in a deterioration in process performance over time and is designed to prevent underestimation of the defect levels likely to be encountered in real-life operation.[9]
+The role of the sigma shift is mainly academic. The purpose of six sigma is to generate organizational performance improvement. It is up to the organization to determine, based on customer expectations, what the appropriate sigma level of a process is. The purpose of the sigma value is as a comparative figure to determine whether a process is improving, deteriorating, stagnant or non-competitive with others in the same business. Six Sigma (3.4 DPMO) is not the goal of all processes.
+Sigma levels[edit]
+ A control chart showing a process that experienced a 1.5 sigma drift in the process mean toward the upper specification limit starting at midnight. Control charts help identify when a process should be investigated in order to find and eliminate special-cause variation.
+See also: Three sigma rule
+The table below gives long-term DPMO values corresponding to various short-term sigma levels.[21][22]
+These figures assume that the process mean will shift by 1.5 sigma toward the side with the critical specification limit. In other words, they assume that after the initial study determining the short-term sigma level, the long-term Cpk value will turn out to be 0.5 less than the short-term Cpk value. So, now for example, the DPMO figure given for 1 sigma assumes that the long-term process mean will be 0.5 sigma beyond the specification limit (Cpk =  0.17), rather than 1 sigma within it, as it was in the short-term study (Cpk = 0.33). Note that the defect percentages indicate only defects exceeding the specification limit to which the process mean is nearest. Defects beyond the far specification limit are not included in the percentages.
+The formula used here to calculate the DPMO is thus
+DPMO
+=
+1
+,
+000
+,
+000
+ 
+(
+1
+ 
+ 
+(
+level
+ 
+1.5
+)
+)
+{\displaystyle {\text{DPMO}}=1,000,000\cdot (1-\phi ({\text{level}}-1.5))}
+Sigma level
+Sigma (with 1.5  shift)
+DPMO
+Percent defective
+Percentage yield
+Short-term Cpk
+Long-term Cpk
+1
+ 0.5
+691,462
+69%
+31%
+0.33
+ 0.17
+2
+0.5
+308,538
+31%
+69%
+0.67
+0.17
+3
+1.5
+66,807
+6.7%
+93.3%
+1.00
+0.5
+4
+2.5
+6,210
+0.62%
+99.38%
+1.33
+0.83
+5
+3.5
+233
+0.023%
+99.977%
+1.67
+1.17
+6
+4.5
+3.4
+0.00034%
+99.99966%
+2.00
+1.5
+7
+5.5
+0.019
+0.0000019%
+99.9999981%
+2.33
+1.83
+Six Sigma in Practice[edit]
+Main article: List of Six Sigma companies
+Six Sigma mostly finds application in large organizations.[5] According to industry consultants like Thomas Pyzdek and John Kullmann, companies with fewer than 500 employees are less suited to Six Sigma or need to adapt the standard approach to making it work for them.[5] Six Sigma, however, contains a large number of tools and techniques that work well in small to mid-size organizations. The fact that an organization is not big enough to be able to afford black belts does not diminish its ability to make improvements using this set of tools and techniques. The infrastructure described as necessary to support Six Sigma is a result of the size of the organization rather than a requirement of Six Sigma itself.[5]
+Manufacturing[edit]
+After its first application at Motorola in the late 1980s, other internationally recognized firms currently recorded high number of savings after applying Six Sigma. Examples include Johnson & Johnson, with $600 million of reported savings, Texas Instruments, which saved over $500 million as well as Telef nica, which reported  30 million in savings in the first 10 months; Sony and Boeing also reported successfully reducing waste.[23]
+Engineering and construction[edit]
+Although companies have considered common quality control and process improvement strategies, there's still a need for more reasonable and effective methods as all the desired standards and client satisfaction have not always been reached. There is still a need for an essential analysis that can control the factors affecting concrete cracks and slippage between concrete and steel. After conducting a case study on Tinjin Xianyi Construction Technology, it was found that construction time and construction waste were reduced by 26.2% and 67% accordingly after adopting Six Sigma. Similarly, Six Sigma implementation was studied at one of the largest engineering and construction companies in the world: Bechtel Corporation, where after an initial investment of $30 million in a Six Sigma program that included identifying and preventing rework and defects, over $200 million were saved.[23]
+Finance[edit]
+Six Sigma has played an important role by improving the accuracy of allocation of cash to reduce bank charges, automatic payments, improving the accuracy of reporting, reducing documentary credit defects, reducing check collection defects, and reducing variation in collector performance.
+For example, Bank of America announced in 2004 that Six Sigma had helped it increase customer satisfaction by 10.4% and decrease customer issues by 24%; similarly, American Express eliminated non-received renewal credit cards. Other financial institutions that have adopted Six Sigma include GE Capital and JPMorgan Chase, where customer satisfaction was the main objective.[23]
+Supply chain[edit]
+In the supply-chain field, it is important to ensure that products are delivered to clients at the right time while preserving high-quality standards. By changing the schematic diagram for the supply chain, Six Sigma can ensure quality control on products (defect-free) and guarantee delivery deadlines, the two main issues in the supply chain.[24]
+Healthcare[edit]
+This is a sector that has been highly matched with this doctrine for many years because of the nature of zero tolerance for mistakes and potential for reducing medical errors involved in healthcare.[25][26] The goal of Six Sigma in healthcare is broad and includes reducing the inventory of equipment that brings extra costs, altering the process of healthcare delivery in order to make it more efficient and refining reimbursements. A study at the MD Anderson Cancer Center, which recorded an increase in examinations with no additional machines of 45% and a reduction in patients' preparation time of 40 minutes; from 45 minutes to 5 minutes in multiple cases.[23]
+Lean Six Sigma was adopted in 2003 at Stanford hospitals and was introduced at Red Cross hospitals in 2002.[27]
+Criticism[edit]
+While there are many advocates for a Six Sigma approach for the reasons stated above, more than half of projects are unsuccessful: in 2010, the Wall Street Journal reported that more than 60% of projects fail.[28]  A review of academic literature [29] found 34 common failure factors in 56 papers on Lean, Six Sigma, and LSS from 1995-2013. Among them are (summarized):
+Lack of top management attitude, commitment, and involvement; lack of leadership and vision
+Lack of training and education; lack of resources (financial, technical, human, etc.)
+Poor project selection and prioritization; weak link to strategic objectives of the organization
+Resistance to culture change; Poor communication; Lack of consideration of the human factors
+Lack of awareness of the benefits of Lean/Six Sigma; Lack of technical understanding of tools, techniques, and practices
+Others have provided other criticisms.
+Lack of originality[edit]
+Quality expert Joseph M. Juran described Six Sigma as "a basic version of quality improvement", stating that "there is nothing new there. It includes what we used to call facilitators. They've adopted more flamboyant terms, like belts with different colors. I think that concept has merit to set apart, to create specialists who can be very helpful. Again, that's not a new idea. The American Society for Quality long ago established certificates, such as for reliability engineers."[30]
+Inadequate for complex manufacturing[edit]
+Quality expert Philip B. Crosby pointed out that the Six Sigma standard does not go far enough customers deserve defect-free products every time.[31] For example, under the Six Sigma standard, semiconductors, which require the flawless etching of millions of tiny circuits onto a single chip, are all defective.[32]
+Role of consultants[edit]
+The use of "Black Belts" as itinerant change agents has fostered an industry of training and certification. Critics have argued there is overselling of Six Sigma by too great a number of consulting firms, many of which claim expertise in Six Sigma when they have only a rudimentary understanding of the tools and techniques involved or the markets or industries in which they are acting.[33]
+Potential negative effects[edit]
+A Fortune article stated that "of 58 large companies that have announced Six Sigma programs, 91% have trailed the S&P 500 since". The statement was attributed to "an analysis by Charles Holland of consulting firm Qualpro (which espouses a competing quality-improvement process)".[34] The summary of the article is that Six Sigma is effective at what it is intended to do, but that it is "narrowly designed to fix an existing process" and does not help in "coming up with new products or disruptive technologies."[35][36]
+Over-reliance on statistics[edit]
+More direct criticism is the "rigid" nature of Six Sigma with its over-reliance on methods and tools. In most cases, more attention is paid to reducing variation and searching for any significant factors, and less attention is paid to developing robustness in the first place (which can altogether eliminate the need for reducing variation).[37] The extensive reliance on significance testing and use of multiple regression techniques increase the risk of making commonly unknown types of statistical errors or mistakes. A possible consequence of Six Sigma's array of p-value misconceptions is the false belief that the probability of a conclusion being in error can be calculated from the data in a single experiment without reference to external evidence or the plausibility of the underlying mechanism.[38] One of the most serious but all-too-common misuses of inferential statistics is to take a model that was developed through exploratory model building and subject it to the same sorts of statistical tests that are used to validate a model that was specified in advance.[39]
+Another comment refers to the oft-mentioned Transfer Function, which seems to be a flawed theory if looked at in detail.[40] Since significance tests were first popularized many objections have been voiced by prominent and respected statisticians. The volume of criticism and rebuttal has filled books with language seldom used in the scholarly debate of a dry subject.[41][42][43][44] Much of the first criticism was already published more than 40 years ago (see Statistical hypothesis testing  Criticism).
+In a 2006 issue USA Army Logistician an article critical of Six Sigma noted: "The dangers of a single paradigmatic orientation (in this case, that of technical rationality) can blind us to values associated with double-loop learning and the learning organization, organization adaptability, workforce creativity and development, humanizing the workplace, cultural awareness, and strategy making."[45]
+Nassim Nicholas Taleb considers risk managers little more than "blind users" of statistical tools and methods.[46] He states that statistics is fundamentally incomplete as a field as it cannot predict the risk of rare events something Six Sigma is especially concerned with. Furthermore, errors in prediction are likely to occur as a result of ignorance of or distinction between epistemic and other uncertainties. These errors are the biggest in time variant (reliability) related failures.[47]
+1.5 sigma shift[edit]
+The statistician Donald J. Wheeler has dismissed the 1.5 sigma shift as "goofy" because of its arbitrary nature.[48] Its universal applicability is seen as doubtful.
+The 1.5 sigma shift has also become contentious because it results in stated "sigma levels" that reflect short-term rather than long-term performance: a process that has long-term defect levels corresponding to 4.5 sigma performance is, by Six Sigma convention, described as a "six sigma process".[9][49] The accepted Six Sigma scoring system thus cannot be equated to actual normal distribution probabilities for the stated number of standard deviations, and this has been a key bone of contention over how Six Sigma measures are defined.[49] The fact that it is rarely explained that a "6 sigma" process will have long-term defect rates corresponding to 4.5 sigma performance rather than actual 6 sigma performance has led several commentators to express the opinion that Six Sigma is a confidence trick.[9]
+Stifling creativity in research[edit]
+According to John Dodge, editor in chief of Design News, the use of Six Sigma is inappropriate in a research environment.  Dodge states[50] "excessive metrics, steps, measurements and Six Sigma's intense focus on reducing variability water down the discovery process.  Under Six Sigma, the free-wheeling nature of brainstorming and the serendipitous side of discovery is stifled."  He concludes "there's general agreement that freedom in basic or pure research is preferable while Six Sigma works best in incremental innovation when there's an expressed commercial goal."
+A BusinessWeek article says that James McNerney's introduction of Six Sigma at 3M had the effect of stifling creativity and reports its removal from the research function. It cites two Wharton School professors who say that Six Sigma leads to incremental innovation at the expense of blue skies research.[51] This phenomenon is further explored in the book Going Lean, which describes a related approach known as lean dynamics and provides data to show that Ford's 6 Sigma program did little to change its fortunes.[52]
+Lack of documentation[edit]
+One criticism voiced by Yasar Jarrar and Andy Neely from the Cranfield School of Management's Centre for Business Performance is that while Six Sigma is a powerful approach, it can also unduly dominate an organization's culture; and they add that much of the Six Sigma literature   in a remarkable way (six-sigma claims to be evidence, scientifically based)   lacks academic rigor:
+One final criticism, probably more to the Six Sigma literature than concepts, relates to the evidence for Six Sigma s success. So far, documented case studies using the Six Sigma methods are presented as the strongest evidence for its success. However, looking at these documented cases, and apart from a few that are detailed from the experience of leading organizations like GE and Motorola, most cases are not documented in a systemic or academic manner. In fact, the majority are case studies illustrated on websites, and are, at best, sketchy. They provide no mention of any specific Six Sigma methods that were used to resolve the problems. It has been argued that by relying on the Six Sigma criteria, management is lulled into the idea that something is being done about quality, whereas any resulting improvement is accidental (Latzko 1995). Thus, when looking at the evidence put forward for Six Sigma's success, mostly by consultants and people with vested interests, the question that begs to be asked is: are we making a true improvement with Six Sigma methods or just getting skilled at telling stories? Everyone seems to believe that we are making true improvements, but there is some way to go to document these empirically and clarify the causal relations.  [37]
+See also[edit]
+Design for Six Sigma  Approach to design supporting Six Sigma
+DMAIC  Data-driven improvement cycle used for improving and optimizing business processes
+Kaizen  Japanese concept referring to continuous improvement   a philosophical focus on continuous improvement of processes
+Lean Six Sigma  Methodology of systematically removing waste
+Lean manufacturing  Lean methodology used to improve production time by reducing wastes
+Management fad  Pejorative term for organizational practice
+Quality management  Process to provide consistent fitness for use of product or service
+Total productive maintenance  Maintenance management methodology
+Total quality management  Approach to business improvement.
+W. Edwards Deming  American engineer and statistician (1900 1993)
+References[edit]
+^ "The Inventors of Six Sigma". Archived from the original on 2005-11-06. Retrieved 2006-01-29.
+^ Tennant, Geoff (2001). SIX SIGMA: SPC and TQM in Manufacturing and Services. Gower Publishing, Ltd. p. 6. ISBN 0-566-08374-4.
+^ "About Motorola University". Archived from the original on 2005-12-22. Retrieved 2006-01-28.
+^ "Six Sigma: Where is it now?". 24 June 2003. Retrieved 2008-05-22.
+^ a b c d Dusharme, Dirk. "Six Sigma Survey: Breaking Through the Six Sigma Hype". Quality Digest.
+^ a b c d De Feo, Joseph A.; Barnard, William (2005). JURAN Institute's Six Sigma Breakthrough and Beyond   Quality Performance Breakthrough Methods. Tata McGraw-Hill Publishing Company Limited. ISBN 0-07-059881-9.
+^ a b Walshe, Kieran; Harvey, Gill; Jas, Pauline (15 November 2010). Connecting Knowledge and Performance in Public Services: From Knowing to Doing. Cambridge University Press. p. 175. ISBN 978-0-521-19546-1. Retrieved 2011-08-22.
+^ "ISO 13053:2011". ISO.
+^ a b c d e f g h i j k l Tennant, Geoff (2001). SIX SIGMA: SPC and TQM in Manufacturing and Services. Gower Publishing, Ltd. p. 25. ISBN 0-566-08374-4.
+^ "Motorola University Six Sigma Dictionary". Archived from the original on 2006-01-28. Retrieved 2006-01-29.
+^ Webber, Larry; Wallace, Michael (15 December 2006). Quality Control for Dummies. For Dummies. pp. 42 43. ISBN 978-0-470-06909-7. Retrieved 2012-05-16.
+^ Harry, Mikel; Schroeder, Richard (2000). Six Sigma. Random House, Inc. ISBN 0-385-49437-8.
+^ "Six sigma support from upper management". 6sigma.us. Retrieved March 11, 2015.
+^ Bertels, Thomas (2003) Rath & Strong's Six Sigma Leadership Handbook. John Wiley and Sons. pp 57 83 ISBN 0-471-25124-0.
+^ Harry, Mikel J.; Mann, Prem S.; De Hodgins, Ofelia C.; Hulbert, Richard L.; Lacke, Christopher J. (20 September 2011). Practitioner's Guide to Statistics and Lean Six Sigma for Process Improvements. John Wiley and Sons. pp. 30 . ISBN 978-1-118-21021-5. Retrieved 2011-11-15.
+^ a b c Keller, Paul A.; Keller, Paul (16 December 2010). Six Sigma Demystified. McGraw-Hill Professional. p. 40. ISBN 978-0-07-174679-3. Retrieved 2011-09-20.
+^ Webber, Larry; Wallace, Michael (15 December 2006). Quality Control for Dummies. For Dummies. pp. 292 . ISBN 978-0-470-06909-7. Retrieved 2011-09-20.
+^ Coryea, R. Leroy; Cordy, Carl E.; Coryea, LeRoy R. (27 January 2006). Champion's Practical Six Sigma Summary. Xlibris Corporation. p. 65. ISBN 978-1-4134-9681-9. Retrieved 2011-09-20.[self-published source]
+^ "Certification   ASQ". Milwaukee, Wisconsin: American Society for Quality. Archived from the original on 2009-12-17. Retrieved 2011-09-09.
+^ Harry, Mikel J. (1988). The Nature of six sigma quality. Rolling Meadows, Illinois: Motorola University Press. p. 25. ISBN 978-1-56946-009-2.
+^ Gygi, Craig; DeCarlo, Neil; Williams, Bruce (2005). Six Sigma for Dummies. Hoboken, NJ: Wiley Publishing, Inc. pp. Front inside cover, 23. ISBN 0-7645-6798-5.
+^ El-Haik, Basem; Suh, Nam P. (2005-04-15). Axiomatic Quality. John Wiley and Sons. p. 10. ISBN 978-0-471-68273-8.
+^ a b c d Kwak, Young Hoon; Anbari, Frank T. (2006). "Benefits, obstacles, and future of six sigma approach". Technovation. 26 (5 6): 708 715. doi:10.1016/j.technovation.2004.10.003.
+^ Dasgupta, Tirthankar (2003-05-01). "Using the six-sigma metric to measure and improve the performance of a supply chain". Total Quality Management & Business Excellence. 14 (3): 355 366. doi:10.1080/1478336032000046652. ISSN 1478-3363. S2CID 34848457.
+^ Cascini, Egidio. Sei Sigma per Docenti in 14 Capitoli (PDF). RCE Multimedia.
+^ Celegato, Alessandro (2017). "IN MEMORY OF EGIDIO CASCINI" (PDF). Statistica Applicata: Italian Journal of Applied Statistics. 29: 107 110.
+^ "Lean Six Sigma in Healthcare" (PDF). www.researchgate.net/publication/7034272. Journal for Healthcare Quality   March 2006. Retrieved 22 August 2020.
+^ Chakravorty, Satya (January 25, 2010). "Where process-improvement projects go wrong". The Wall Street Journal. Retrieved May 23, 2021.
+^ Albliwi, S.; Antony, J.; Halim Lim, S.A.; van der Wiele, T. (2014). "Critical failure factors of Lean Six Sigma: a systematic literature review". International Journal of Quality & Reliability Management. 31 (9): 1012 1030. doi:10.1108/IJQRM-09-2013-0147.
+^ Paton, Scott M. (August 2002). "Juran: A Lifetime of Quality". Quality Digest. 22 (8): 19 23. Retrieved 2009-04-01.
+^ Crosby, Philip B. (1999). Quality and Me: Lessons from an Evolving Life. San Francisco: Jossey-Bass. p. 159. OCLC 40444566. Quality is measured by the price of nonconformance, not by indexes.
+^ Crosby, Philip B. (1996). Quality Is Still Free: Making Quality Certain in Uncertain Times. New York: McGraw-Hill. p. xiv. OCLC 32820340. The nonconformance situation semiconductor suppliers found recently emerged from embracing the standard of "Six Sigma."  This permits 3.4 defects per million components. Why anyone would want to do that is beyond me. But they are now paying the price.  When even ordinary chips contain a million or more components, such a standard means that they are all defective.
+^ Lean Six Sigma: Cost Reduction Strategies, Ade Asefeso MCIPS MBA (2012)
+^ Morris, Betsy (11 July 2006). "Tearing up the Jack Welch playbook". Fortune. Retrieved 2006-11-26.
+^ Richardson, Karen (7 January 2007). "The 'Six Sigma' Factor for Home Depot". Wall Street Journal Online. Retrieved 2007-10-15.
+^ Ficalora, Joe; Costello, Joe. "Wall Street Journal SBTI Rebuttal" (PDF). Sigma Breakthrough Technologies, Inc. Archived from the original (PDF) on 2007-10-25. Retrieved 2007-10-15.
+^ a b "Six Sigma Friend or Foe" (PDF). Retrieved 2012-02-10.
+^ "Twelve P-value misconceptions" (PDF).
+^ "important".
+^ "y-FX". Archived from the original on 2013-06-20.
+^ Harlow, Lisa Lavoie; Stanley A. Mulaik; James H. Steiger, eds. (1997). What If There Were No Significance Tests?. Lawrence Erlbaum Associates. ISBN 978-0-8058-2634-0.
+^ Morrison, Denton; Henkel, Ramon, eds. (2006) [1970]. The Significance Test Controversy. AldineTransaction. ISBN 0-202-30879-0.
+^ McCloskey, Deirdre N.; Ziliak, Stephen T. (2008). The Cult of Statistical Significance: How the Standard Error Costs Us Jobs, Justice, and Lives. University of Michigan Press. ISBN 978-0-472-05007-9.
+^ Chow, Siu L. (1997). Statistical Significance: Rationale, Validity and Utility. ISBN 0-7619-5205-5.
+^ Paparone, Dr. Christopher R. "Army Logistician (A Values-Based Critique of Lean and Six Sigma as a Management Ideology)". Almc.army.mil. Retrieved 2012-02-10.
+^ The fourth quadrant: a map of the limits of statistics [9.15.08] Nassim Nicholas Taleb, An Edge Original Essay
+^ "Special Workshop on Risk Acceptance and Risk Communication" (PDF). Stanford University. 26 27 March 2007.
+^ Wheeler, Donald J. (2004). The Six Sigma Practitioner's Guide to Data Analysis. SPC Press. p. 307. ISBN 978-0-945320-62-3.
+^ a b *Pande, Peter S.; Neuman, Robert P.; Cavanagh, Roland R. (2001). The Six Sigma Way: How GE, Motorola, and Other Top Companies are Honing Their Performance. New York: McGraw-Hill Professional. p. 229. ISBN 0-07-135806-4. key bones of contention amongst the statistical experts about how Six Sigma measures are defined.
+^ Dodge, John (10 December 2007). "3M Shelves Six Sigma in R&D". Design News. Archived from the original on 2010-03-05. Retrieved 2013-04-02.
+^ Hindo, Brian (6 June 2007). "At 3M, a struggle between efficiency and creativity". Business Week. Archived from the original on June 9, 2007. Retrieved 2007-06-06.
+^ Ruffa, Stephen A. (2008). Going Lean: How the Best Companies Apply Lean Manufacturing Principles to Shatter Uncertainty, Drive Innovation, and Maximize Profits. AMACOM (a division of American Management Association). ISBN 978-0-8144-1057-8.
+Further reading[edit]
+Wikimedia Commons has media related to Six Sigma.
+Wikiquote has quotations related to Six Sigma.
+Adams, Cary W.; Gupta, Praveen; Wilson, Charles E. (2003). Six Sigma Deployment. Burlington, MA: Butterworth-Heinemann. ISBN 0-7506-7523-3. OCLC 50693105.
+Breyfogle, Forrest W. III (1999). Implementing Six Sigma: Smarter Solutions Using Statistical Methods. New York, NY: John Wiley & Sons. ISBN 0-471-26572-1. OCLC 50606471.
+De Feo, Joseph A.; Barnard, William (2005). JURAN Institute's Six Sigma Breakthrough and Beyond   Quality Performance Breakthrough Methods. New York, NY: McGraw-Hill Professional. ISBN 0-07-142227-7. OCLC 52937531.
+Hahn, G. J., Hill, W. J., Hoerl, R. W. and Zinkgraf, S. A. (1999) The Impact of Six Sigma Improvement-A Glimpse into the Future of Statistics, The American Statistician, Vol. 53, No. 3, pp. 208 215.
+Keller, Paul A. (2001). Six Sigma Deployment: A Guide for Implementing Six Sigma in Your Organization. Tucson, AZ: Quality Publishing. ISBN 0-930011-84-8. OCLC 47942384.
+Pande, Peter S.; Neuman, Robert P.; Cavanagh, Roland R. (2001). The Six Sigma Way: How GE, Motorola, and Other Top Companies are Honing Their Performance. New York, NY: McGraw-Hill Professional. ISBN 0-07-135806-4. OCLC 647006794. Pande Six Sigma Way.
+Pyzdek, Thomas & Paul A. Keller (2009). The Six Sigma Handbook, Third Edition. New York, NY: McGraw-Hill. ISBN 978-0-07-162338-4. OCLC 51194565.
+Snee, Ronald D.; Hoerl, Roger W. (2002). Leading Six Sigma: A Step-by-Step Guide Based on Experience with GE and Other Six Sigma Companies. Upper Saddle River, NJ: FT Press. ISBN 0-13-008457-3. OCLC 51048423.
+Taylor, Gerald (2008). Lean Six Sigma Service Excellence: A Guide to Green Belt Certification and Bottom Line Improvement. New York, NY: J. Ross Publishing. ISBN 978-1-60427-006-8. OCLC 271773742.
+Tennant, Geoff (2001). SIX SIGMA: SPC and TQM in Manufacturing and Services. Aldershot, UK: Gower Publishing, Ltd. ISBN 0-566-08374-4. OCLC 44391556.
+vteSix Sigma toolsDefine phase
+Project charter
+Voice of the customer
+Value stream mapping
+SIPOC
+Measure phase
+Business process mapping
+Process capability
+Pareto chart
+Analyse phase
+Root cause analysis
+Failure mode and effects analysis
+Multi-vari chart
+Improve phase
+Design of experiments
+Kaizen
+Control phase
+Control plan
+Statistical process control
+5S
+Poka-yoke
+DMAIC
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Six_Sigma&oldid=1149054518"

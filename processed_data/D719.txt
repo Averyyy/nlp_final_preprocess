@@ -1,0 +1,636 @@
+Netbook computer line by Asus
+Asus Eee PCDeveloperAsusTypeNetbookOperating systemLinux (Xandros)Windows (XP, 7, 8.1)CPUIntel (Celeron, Atom)AMD (AMD Fusion)
+The ASUS Eee PC was a netbook computer line from Asus, and a part of the ASUS Eee product family. At the time of its introduction in late 2007, it was noted for its combination of a lightweight, Linux-based operating system, solid-state drive (SSD), and relatively low cost. Newer models added the options of Microsoft Windows operating system and rotating media hard disk drives (HDD), and initially retailed for up to 500 euros.[1]
+The first Eee PC was a milestone in the personal computer business,[2] launching the netbook category of small, low-cost laptops in the West (in Japan, subnotebooks had long been a staple in computing). According to Asus, the name Eee derives from "the three Es", an abbreviation of its advertising slogan for the device: "Easy to learn, Easy to work, Easy to play".[3]
+In January 2013, ASUS officially ended production of their Eee PC series, citing declining sales due to consumers favoring tablets and Ultrabooks over netbooks.[4][5] However, they subsequently restarted the line with the release of the EeeBook series in 2015.[6]
+History[edit]
+Eee 700 series[edit]
+ Black 700 series unit side view showing the SD card reader, two USB ports, the VGA output and the Kensington Security Slot
+ASUS announced two Eee PC models at Computex Taipei 2007: the 701 and the 1001.[7] The 701 base model Eee PC 4G was released on 16 October 2007 in Taiwan. Three additional models followed.
+Both the price and the size of the device are small in comparison with similar ultra-mobile PCs. The Eee series is a response to the XO-1 notebook from the One Laptop per Child initiative.[citation needed] At the Intel Developer Forum 2007, Asus demonstrated the Classmate PC and the Eee PC, and listed specifications for four models of the Eee PC.
+In some countries, the products have the marketing names EeePC 8G, 4G, 4G Surf, and 2G Surf, though in other countries the machines are still designated by the model numbers 700 and 701. The 4G Surf uses socketed RAM but some revisions do not have a door to access the slot.[8]
+ASUS released a version of the Eee PC with Microsoft Windows XP pre-installed in January 2008. In Japan, the version is known as the 4G-X.
+Some early 700-series models drained the battery approximately 10% per day when the unit was completely powered off and not plugged in, thus emptying the battery even when not in use.[9]
+User modifications[edit]
+Some users of the 701 physically modified the machine to replace the 4 GB solid state drive.[10]
+The 8 GB versions of the 700 series leave the SSD area on the motherboard empty and connect their SSD as an internal PCI Express Mini Card. Replacing the SSD requires only an SSD compatible with the connector. The SSD area on the motherboard may also be used to install other devices, accommodate physically larger SSDs, or even hard-solder an SSD salvaged from a 2 GB or 4 GB 700 model. As this requires only soldering on a new device without removing an old one, the risk of doing so may be acceptable to some users.
+Eee 900 series[edit]
+ White 900 series
+The Eee 900 series was launched in Hong Kong on 16 April 2008, and in the UK on 1 May 2008 for  329 (approximately 410   or 650 US$ including VAT). It was launched in the US on 12 May 2008. The Eee 900 series dimensions are a little larger than the 70x models measuring 225   165   35 mm (WxDxH) (8.8"   6.5"   1.4") and weighing around 1 kg (2.2 lb). The machine has a multi-touch touchpad allowing two-finger scroll and zoom via a "pinch" gesture, and is available with Linux and/or MS Windows XP configurations, depending on the market.
+The Intel Atom version is named the EeePC 900a and comes with an 8GB or 16 GB SSD. Some of these Eee PCs also have a 4 GB SSD installed similarly to that in the 701 for a total storage space of 20GB. Those that do not are named the Asus EEE 900 16G. The MS Windows XP version is named the EeePC 900 Win and also comes in two versions: one with a total storage of 12 GB (one 4 GB SSD and one 8 GB SSD) and one with 16 GB (on a single SSD). The Linux 20G version is sold for the same price as the MS Windows 12G version. In the case of the 16G EEEs, the MS Windows version costs more than the Linux version.
+The Windows version comes with Microsoft Works and Windows Live Suite preinstalled. It also includes StarSuite 8. The machines are otherwise identical to each other with 1 GB of RAM, an 8.9-inch (226 mm) 1024 600 LCD and a 1.3-megapixel webcam. This model has the same Intel Celeron CPU as the Eee PC 700, running at its full 900 MHz clock speed (rather than the 630 MHz speed seen in the Eee PC 700).
+Other Eee 90x models[edit]
+On 3 June 2008, Asus unveiled the Eee 901 at Computex Taipei. It was a revision of the 900 series with a different chassis. The 901 features an Intel Atom Diamondville CPU clocked at 1.6 GHz, an "expanded" battery (listed as 6-cell), and "Super Hybrid Engine" software for power management which will provide a battery life of 4.2-7.8 hours. Bluetooth and 802.11n Wi-Fi are also included. The 901 uses the Intel 945GME chipset, meeting the requirements for MS Windows Vista or 7 Aero. The 901 is otherwise similar to the 900, shipping in Linux or MS Windows XP configurations with flash memory storage of different sizes. It was discovered that the Eee 901 has capacity for a "3GCard" upgrade.[11]
+The Eee PC 900D has 8GB flash memory and Windows XP preinstalled.
+The Eee PC 904HD was one of the first Eee PC models which features an 80 GB HDD instead of an SSD. It features an Intel Celeron M running at 900 MHz and gets power from a 6-cell battery. Like other Eee PC 90x models, it features 802.11 b/g WLAN and a 1.3M pixel webcam. MS Windows XP comes pre-installed.
+The Eee PC 904HA's dimensions are 266 mm(W)   191.2 mm(D)   28.5 mm~ 38 mm(H). The 8.9-inch screen has a native resolution size of 1024 600 pixels (WSVGA). The CPU is an Intel Atom N270 @ 1.6 GHz, and the standard model came with 1 GB DDR2 RAM occupying the single memory slot. The 160 GB Hard Disk Drive had Microsoft Windows XP Home pre-installed. Also standard are the 6-cell battery, the 1.3M pixel webcam and integrated microphone, and both ethernet and Wi-Fi 802.11 b/g network connections.[12]
+The Eee PC 900A features almost the same specs as the Eee PC 901 (except the primary SSD, Bluetooth, 1.3M pixel webcam and the 6-cell battery, that has been replaced by a 4-cell battery), but in a case nearly the same as used in the Eee PC 900 model.
+On 17 June 2009, Asus released the Disney Netpal (Eee PC MK90), which is similar to the Eee 90x models.[13]
+Battery controversy[edit]
+There was some controversy regarding the battery supplied with the EeePC 900. Versions pre-released to many non-UK journalists and reviewers were equipped with a 5800 mAh battery, but the first retail versions in Hong Kong, the United Kingdom and Singapore were shipped with a smaller, 4400 mAh (76% of that capacity) battery, which commentators note has led to a great variation in the machine's battery life in reviews,[14] in some cases as much as 90 minutes.[15] As a result of the objections to this, Asus provided a free battery replacement program in Hong Kong and Singapore, and ran a paid-for battery exchange program in the UK.
+Asus has stated that the smaller battery is "presently the standard battery supplied in the UK" and "the default standard battery pack for Asus Eee PC 900 worldwide". Asus provided a battery exchange to all UK Eee PC 900 customers for  10, and released a firmware update which claimed to extend battery life by 30 minutes ("BIOS 0601: Updated all battery discharge tables to extend battery life").
+In Australia and Italy, the situation was reversed: Reviewers received EeePC 900 systems fitted with the 4400 mAh battery but the retail models were equipped with the 5800 mAh battery. Customers of Media Markt in Italy received the EeePC 900 at the beginning of sales (May/June) with a 5800 mAh battery and later (June/July) with a 4400 mAh battery.
+Best Buy's custom variants of the 1000HD and 900A also both include a 4400 mAh battery.
+Part of the above problem extends from the fact that the entire range was substantially more successful than Asus had originally anticipated. Currently, Asus has several large complexes scattered throughout Taiwan and China, with the largest in the city of Suzhou (China), being the size of eight football fields. Upon the unexpected success of the range, Asus factories worked around the clock to keep up supply and further development. Consequently, even within Asus testing labs in Taipei, many variations were found within test models. Generally, however, Asus does inform reviewers that the final retail model may contain different features from those offered in the review model.
+Eee PC 1000 series[edit]
+ Black 1000 series; 1000HD model shown
+The 1000 series launched at Computex Taipei on 3 June 2008.[16] It featured a new 10-inch (254 mm) screen and a 1.6 GHz Intel Atom CPU, although built-in power management software can increase the speed to 1.7 GHz. The 1000 model shipped with Linux, an 8 GB SSD and a 32 GB SSD (totalling 40 GB); the 1000H model shipped with Windows XP Home or Linux and an 80 or 160 GB SATA HDD. Both the 1000 and the 1000H support up to 2 GB of DDR2 RAM of 667 MHz clock speed. The 1000 has a rated battery life of 4.2 7.5 hours, while the 1000H is rated for 3.2 7 hours.[17] It also offers a keyboard that is 92% the size of generic notebooks, aiming to make it more comfortable to type. Like the Eee PC 901, the new machines feature 802.11n Wi-Fi and Bluetooth. WiMAX is not currently supported.
+The 1000HD (released in September 2008) is a slightly cheaper version of the 1000 series. It features the same specifications as the 1000H, except it uses a 900 MHz Celeron CPU chip.
+The 1000HA (released in October 2008) also costs less than the 1000H, but has the same Intel Atom 1.6 GHz CPU, a 160 GB HDD, and 1 GB of RAM. It also has wireless and on some models, Bluetooth.
+The 1000XPH has the same Intel Atom 1.6 GHz CPU, an 80 GB HDD, and 1 GB of RAM. Other amenities include 10/100 LAN and 802.11 b/g Wireless LAN adapters, an integrated webcam, but no Bluetooth. The 1000HG features a Huawei 3G-Modem.
+In February 2009, Asus unveiled the 1000HE, using the new Intel Atom 280 processor, with a 10-inch LED-lit display at 1024x600 physical but 1024x768 virtual, 6-cell battery with an advertised 9.5 hours of battery life, 160 GB HDD running at 5400RPM, Bluetooth, 802.11n wireless networking, 1.3-megapixel camera, and revised keyboard similar to Apple's keyboards.
+Although the screen resolution on the 1000 series is 1024x600, it has pixel mapping (memory addressing) which covers a virtual 1024x768 desktop. One could choose with a simple Fn key combination what graphics mode to operate in: either 800x600, 1024x600 (native resolution), virtual 1024x768 compressed (vertically compressed into 600 space), and 1024x768 with panning. The latter mode would display only 660 vertical pixels at a time, but as the pointer approached the top or bottom of the screen the display content would shift the "hidden" pixels into view to better display certain websites. It also freed more screen real estate for other tasks, such as web browsing or office applications, by allowing the user to move some things, like the top empty grey window frame area (otherwise wasted) off-screen. A similar panning effect can be achieved on other Linux systems using xrandr.
+ Asus 1005HA-V, with "seashell" design; the screen hinges to sit behind the base
+At CeBIT 2009, Asus unveiled the 10-inch EEE 1005HA, introducing the new design concept "Seashell".[18]
+The 1005HA comes in three models. From least to most expensive, they are the 1005HA-B, the 1005HA-V and the 1005HA-P. The 1005HA-B has a removable 3-cell battery with a rated 4-hour life per charge, a 1.3-megapixel camera, and uses the N270 processor. At the higher end, the 1005HA-P has a removable 6-cell, 5600 mAh, 63 Wh battery with rated 10.5 hour battery life, a 1.3-megapixel camera and uses the N280 processor. There is also a 1005HA-H model, sold in Poland, equipped with a 6-cell battery, an N270 processor and a 0.3-megapixel camera.[19]
+Asus officially announced the first Eee with Nvidia Ion graphics, the 1201N , on 19 November 2009, later replaced by the 1201PN and 1201NL and the 1215N, with a more powerful Atom D525 dual-core processor and Ion 2 graphics.
+The 1215 series then saw the release of the 1215B,[20] which came with an E-450/E-350/C30/C50/C60[21] processor, a "Zacate" APU. The 1215B has USB 3.0 ports, as well as a CPU and BIOS that support full hardware virtualization in both Linux (via KVM, Xen, VirtualBox, VMware) and Windows (via XP mode, VirtualBox, VMware). The 1215B is the first of the Eee PC line of computers that supports virtualization. The 1215B was subsequently replaced by the upgraded 1225B,[22] which replaced the E350 APU of the previous model with the E-450 APU which provides a minor speed bump to the CPU and turbocore for the GPU.
+Eee 1025c and 1025ce[edit]
+These were released in 2012 and described as the last in the line of the Asus Eee PC series. With only 1 GB memory, standard USB2 ports and sluggish performance, these were not especially notable releases other than for their exceptional battery life.[23] Other reported problems are the lack of a hatch to access the memory, so RAM cannot be upgraded without breaking open the case; also, there is a single mono speaker rather than dual stereo speakers.
+Eee 1015 series[edit]
+In 2013 Asus restarted the Eee PC series[24] with the 1015E models, some of which are on Windows 8 and some on Ubuntu Linux. These come with 2 GB memory and USB3 ports.
+The 1015E fixes some of the problems with the 1025C by using a faster processor, 2GB memory and stereo speakers. The RAM is soldered in place and cannot be upgraded. Due to improved performance, the battery life is shorter than that of the 1025 series. It is possible to reduce the processor clock speed to increase battery life.
+EeeBook[edit]
+Further Information: Asus EeeBook
+In 2014 Asus relaunched the Eee PC with the EeeBook lineup of computers, starting with the X205TA model.[6] By 2017 the EeeBook lineup was succeeded by the Asus VivoBook E Series. Some EeeBook laptops were rebranded to VivoBook E Series laptops; the EeeBook E202 was rebranded to the VivoBook E202, ending the EeeBook lineup again. The EeeBook lineup consists of the E202 (E202SA), E502 (E502SA and E502MA) and X205 (X205TA).
+Hardware[edit]
+ Asus Eee PC 701, with fountain pen for scale, running Ubuntu Netbook Edition
+Rechargeable CMOS battery[edit]
+Asus Eee PC series models 1005ha, 1005hab, 1008ha, and others use Varta ML1220  or equivalent Maxell, Sanyo and Panasonic ML1220 lithium ion coin cell rechargeable batteries, terminated with a two-pin Molex connector plug.[25]
+Processor[edit]
+Eee PC models have typically used netbook specific processors or ultra-low voltage versions of mainstream processors. The earliest Eee PC models used a 900 MHz Intel Celeron M processor underclocked to 630 MHz. Later models shipped with Intel Atom and AMD Fusion processors.
+Display[edit]
+The Eee PC 700 has an 800 480 pixel, 7 inch (178 mm) display, measured diagonally. The screen does not cover the entire space within the lid; instead it is flanked on the sides by stereo speakers, and above by the (optional) camera in the trim at the top. The Eee PC 900 and 901 come with a 1024 600 pixel 8.9-inch (226 mm) display, almost filling the lid.
+Later models came with 10 inch to 12.1 inch displays and up to 1366 768 resolution.
+With all models, an external display can be supported through a standard VGA connector. On some early models this connector lacks the screws to secure it to the Eee PC, which some consider a safety precaution. The manufacturer does not give any specifications on maximum resolution and display configuration (mirroring, extended desktop), but most models can handle an external display at native resolution of 1440 1050, and even 1600 900, although performance starts to slow down. Models that ship with Xandros do not have access to the full capacity of the external VGA output by default, allowing only 'mirroring'. Users must reconfigure their xorg.conf file, or install a more recent OS to allow the higher resolution output.
+ Asus Eee PC 1215P Seashell with Intel dual-core cpu (N 570) and a 12.1" HD display
+The EEE PC900 has a tendency for the display to fail with black blobs due to air leakage. This is repairable but depending on exact replacement unit sometimes needs the eight-pin EEPROM moved from the old display to the new one, and a single track linked to regain picture and brightness control after the new one is fitted.[26]
+Keyboard[edit]
+On a normal, full size computer keyboard, the 10 keys Q P measure 190 mm (7.48 in). The 700 and 900 series are equipped with similar keyboards, 82% of the size of a generic one, meaning that the Q P keys measure 155 mm (6.10 in). The 1000 series, as it fits in a more spacious case, has 92% of a full size keyboard, where the Q P keys measure 175 mm (6.89 in).
+Some Eee PC lines such as the 1000HE and 1215s uses the island-style keyboard, similar to keyboards used in Apple computers and Sony's VAIO series, where the keys are reminiscent of Scrabble tiles, being spaced apart and raised from the surface below.
+Storage[edit]
+ Removable 8 GB SSD in Eee PC
+The early model Eee PCs use a solid-state drive for storage (instead of a hard drive), which consumes less power when in use, allows the device to boot faster, generates no noise, and is less susceptible to mechanical shock damage than hard drives. A downside of SSD storage (flash memory) is that an individual sector can be written only about 200,000 times. This problem can be partially mitigated by intelligent wear leveling, resulting in a MTBF similar to conventional platter-based hard drives.
+The SSDs used in early Eee PCs also had extremely poor random write performance; the S101 does not have this problem.[27]
+In the 2 GB and 4 GB models of the 700 series of the Eee PC, the SSD is permanently soldered to the board. In the 8 GB model, the SSD is a card connected via the internal PCI Express Mini Card connector, leaving the original SSD area on the motherboard empty.
+The Eee PC 900 comes with a removable PCI Express Mini SSD module, with or without four additional 1 GB memory chips soldered on the main board. Different models come with different-sized SSDs. One Linux version has 4 GB, a MS Windows XP version has 8 GB, and all remaining ones, MS Windows XP or Linux, have 16 GB.
+The Eee PC 1000 contains a fast 8 GB internal SSD and a slower 32 GB internal flash drive.[citation needed]
+Some models, such as the 1000H and 904HD, do not have a SSD, and instead have a SATA internal hard drive of either 80 or 160 GB, which can be upgraded by the user.
+All Eee PC models also include a memory card reader, supporting SD, SDHC and MMC cards for additional storage, while the Eee PC S101 also has support for Memorystick and MS-PRO.[28]
+Eee PC 1004DN is the first model with a Super-Multi optical disc drive (ODD) that reads and writes data to DVD or compact disc.
+Memory[edit]
+Most early Eee PCs use 533/667 MHz DDR2 SDRAM via a standard SO-DIMM module, which can be swapped out. The 700 and 701SDX have RAM soldered to the motherboard. Other models (like the white 4GS-W010) lacked memory access panels and required disassembly to upgrade memory.[29]
+Later models, such as the black model EEEPC 4G SURF (4GS-PK008), and newer white models (4GS-W010), have a removable panel on the underside that allows the user to change the RAM without fully disassembling the system.
+Asus reverted to soldering RAM directly onto the mainboard in their later releases of the Eee PC range. The Asus technical data for the 1025c and 1025ce models is seen as erroneous by certain online retailers offering RAM upgrades.[30]
+Cooling[edit]
+In an EE380 talk,[31][32] an Asus engineer mentioned that the Eee PC uses the keyboard shielding as a heat sink to absorb the heat generated by the processor. Three chips need heatsinking, and this is achieved by heat-conductive adhesive pads which sit between the chip heatsink flats and the keyboard shield and connect them thermally. It is important to ensure that the heatsink pads are replaced correctly after maintenance such as cleaning or replacing the fan. The Eee PC has a fan and vents to cool off the system.
+Operating systems (software user environment)[edit]
+Most Eee PC models were shipped with either Windows XP or a Linux distribution called Xandros. Later models (e.g. 1015E) ship with Windows 7 Starter or Linux Ubuntu installed.
+Users have tried to install various other operating systems on Eee PCs. The following are known to work on most models:
+Linux, especially Lubuntu, Debian,[33] Alpine,[34] Salix, SliTaz, PepperMint <6, Bodhi 4.x, and other Linuxes still available in 32bit and employing an interface (environment) with a small memory-footprint
+ChromeOS and Android x86[35]
+Mac OS X: v10.4, v10.5 and v10.6[36][37][38]
+Microsoft Windows XP[39]
+EasyPeasy Linux (custom for the eeePC, now discontinued but still available for download)
+Windows Vista,[40] 7, 8, 8.1 and 10
+Some of the above operating systems, while they may have been available, and some barely worked sluggishly, are no longer up to date. Some have even been discontinued or now only offer 64bit versions which are not compatible with the eeePC series.
+Specifications[edit]
+Eee PC models[41]
+Component
+700 (2G Surf)
+701 (4G Surf)
+701 (4G)[I]
+701SD
+702 8G
+900
+900 16G
+900SD
+900HD
+900A
+901
+MK90H
+904HD
+1000HD
+1000H
+1000HA
+1000
+1002HA
+1000HE
+1005HA-P
+1008HA
+1101HA
+1201HA
+1201N
+1215b
+1025c
+1215N
+Display
+Diagonal
+7 in (17.8 cm)
+8.9 in (22.6 cm)
+10.2 in (25.9 cm)
+11.6 in (29.5 cm)
+12.1 in (30.7 cm)
+Resolution (pixels pixels)
+800 480 (WVGA)
+1024 600 (WSVGA)
+1024 600 (WSVGA)
+1366 768 (WXGA)
+1366 768 (WXGA)
+Type
+TFT LCD with LED backlight
+Storage
+SSD soldered (GB)
+2
+4
+4
+4
+8
+8 or 4 (US) or 0 (US/DE)
+4 (removable)
+8 (removable)
+SSD removable (GB)
+8
+8 (Windows XP) or 16 (Linux)
+16
+Only insertable if WLAN removed
+16 or 8 (DE), 0 (US), or 4 (US)
+8 (Windows XP) or 16 (Windows XP/Linux)
+32
+HDD (GB)
+30 external in some markets
+160
+160
+80[16]
+80 or 160
+160
+160
+250 / 320
+CPU
+Model
+Intel Celeron-M ULV 353
+Intel Atom N270 (45 nm Diamondville, Socket 437 FCBG8A)
+Intel Celeron-M ULV 353
+Intel Atom N270 (45 nm Diamondville, Socket 437 FCBG8A)[16]
+Intel Atom N280 (45 nm Diamondville, Socket 437 FCBG8A)
+Intel Atom Z520
+Intel Atom N330
+C-50 or E-350
+Frequency (MHz)
+800 @ 571
+900
+900 @ 630 (70 MHz   9)
+900
+1600
+900 @ 630 (70 MHz   9)
+1600
+1660
+1330
+1600
+1000 or 1600
+1800
+L1 cache
+32 kB
+2 x 32 kB - 8-way set associative
+L2 cache
+512 kB - 8-way set associative
+2   512 kB - 8-way set associative
+Memory (GB)
+Default amount
+0.5
+0.5
+1
+1 (Windows XP), 1 or 2 (Linux)
+1
+1 (Windows XP), 1 or 2 (Linux)
+1
+1
+2
+2
+and type
+DDR2-400 onboard
+DDR2-533/667
+DDR2-400, supports 533/667
+DDR2-400, supports 533
+DDR2-400, supports 533/667
+DDR2-533/667
+DDR2-667/800
+DDR3-1333
+DDR3-SDRAM
+Sockets (max. upgrade)
+soldered RAM
+1 (2 GB)
+Not upgradeable
+1 (2 GB)
+1 (4 GB)
+2 (4 GB)
+2 (8 Gb)
+Graphics
+Integrated GMA 900 (SMA), VGA port (up to 1600 1280 pixels)
+Integrated GMA 950
+Integrated GMA 900
+Integrated GMA 950
+Integrated GMA 500
+Nvidia Ion
+Integrated Radeon HD 6250 GPU
+NVIDIA Ion 2
+Chipset
+Intel 910GML
+Intel 915GM/GMS, 910GML Express
+Intel 945GSE
+Intel 910GML + ICH6M
+Intel 945GSE + ICH7M
+Intel 945GSE + ICH7M
+Intel Poulsbo US15W
+Nvidia Ion
+Fusion Controller
+Battery
+Cells
+4
+6
+4
+6
+2
+6
+4
+6
+6
+Capacity (Ah)
+4.4
+4.4 or 5.2
+4.4
+4.4 or 5.8
+6.6
+6.6
+4.2
+8.7
+Voltage (V)
+7.4
+7.4
+7.4
+7.4 or 7.2
+7.4
+7.4
+7.4
+Approx. run time (h:m)
+2:45
+Unknown or 3:30
+No info or 3:30
+4:15 7:45
+4:15 7:45
+5:00
+9:30
+6
+Type
+Li-ion
+Li-ion
+Lithium-polymer
+Lithium-Ion (Li-Ion)
+Camera (Mpixels)
+No
+No
+0.3
+0.3
+0.3
+1.3
+1.3
+0.3
+0.3
+0.3, or none
+1.3
+1.3
+0.3 or 1.3 (on HA models)
+1.3
+0.3
+Size (mm)
+Width
+225
+248
+265.9
+264
+266
+Depth
+165
+170
+175.3
+173
+191.3
+181
+191.2
+Height
+~21 35
+~20 38
+22.9
+c. 24 28.7
+38.1
+27.6
+c. 28.5-38
+Weight (g)
+922
+990
+1,140
+1,100
+1,400
+1,450
+1,330
+1,200
+1,450
+1,460
+1.64
+Network adapters
+LAN (Mbit/s)
+10/100 (Attansic L2)
+10/100
+10/100/1000
+10/100
+WiFi (802.11)
+b/g mini PCI-E card (Atheros- or Ralink-based).
+b/g/n mini PCI-E card  Eee PC 901/1000: Ralink RT2860.
+b/g/n
+b/g/n mini PCI-E card  Broadcom BCM4313
+broadcom 47xx
+Bluetooth
+No
+Yes
+No
+Yes
+No
+Yes
+Yes
+Yes
+OS
+Linux
+Xandros[II] running KDE and IceWM
+No
+Xandros[II]
+No
+Xandros[II]
+No
+Yes
+No
+Windows
+Windows XP Home Edition
+Windows 7 Home Premium/Starter Edition
+Other
+Audio
+Realtek ALC662 Hi-Definition Audio 5.1 codec; built-in stereo speakers; built-in microphone
+Connectors
+3   USB 2.0 ports (except model 1005PX (=? 1000HA or 1005HA ?; 1001 on mother board and 1005PX on the back sticker (doesn't have bluetooth either)) : only 2 ports), MMC/SD (HC) card reader, Ethernet port, modem port (non-functional, empty), microphone input, headphone jack, AC power jack, VGA out, Kensington lock slot.
+Colors
+Pearl white (pure white for Surf models) or galaxy black; lush green, sky blue, blush pink (spring 2008)
+Expansion
+2   PCI Express Mini Card connectors: 1 occupied by the wireless network card; 1 empty, accessible on some models from opening on back of unit, which supports only Asus-approved SSD expansion units. The second PCIE connection is unavailable on many current-generation Eee PCs and some older models.
+^I.  In the UK, the Eee is also promoted as the RM Asus Minibook, which is targeted at students; however, the unit itself is no different.
+^II.  701 4G (non-Surf) late releases have Windows XP pre-installed without Microsoft Works and Windows Live Suite, excluding the disc, or either Xandros OS pre-installed.[citation needed]
+Configurations[edit]
+ The 700 series units were shipped in three colors besides black and white.
+ EeePC in its case
+Naming of the 700 series of models of the device appears to relate to the size of installed SSD, camera, and battery size. The Eee PC Surf models include the 4400 mAh battery pack and no webcam, while the non-Surf models have the 5200 mAh battery pack and a webcam installed. The model numbers (700, 701) may still be the same as has been seen on pre-production samples. Asus may offer upgrades for the SSD storage via the empty Mini PCIe slot, which has been shown to be labeled FLASH_CON in take-apart photos of the 4G. When a Mini PCIe card is inserted into the spare empty slot, the internal SSD is disabled, making the device unable to boot from the original SSD.[42] There are also signal lines for a USB port on the Mini PCIe pins which have been used to connect various USB devices internally. Some 701 models with serial numbers starting at 7B do not have a second mini PCIe slot soldered onto the motherboard, though the circuit traces and solder pads remain.[43][44]
+In the 70x series, the pre-installed Xandros operating system has a Linux kernel with a kernel option set limiting the detected RAM size to a maximum of 1 GB, even if a larger RAM module is installed. The actual capacity is shown in full in the BIOS setup and under other OSes. However, it is possible to recompile the kernel with support for more RAM.
+The 900 and later laptops had the kernel pre-configured to support up to 4 GB of memory address space.
+Fanbase and continued use[edit]
+The ASUS Eee PC series of netbooks still attract a small crowd of people who need an affordable, lightweight and tiny netbook for traveling. Due to their lack of powerful processors and modern compatibility, however, they are nearing little to no use today due to being replaced by Chromebooks and other cheaper alternatives.[citation needed]
+See also[edit]
+Wikimedia Commons has media related to Eee PC.
+Asus EeeBox PC
+Unofficial Reddit-based fanpage
+Asus Eee Top
+CMOS battery
+Comparison of netbooks
+Comparison of netbook-oriented Linux distributions
+Internet appliance
+Rechargeable battery
+References[edit]
+^ "Asus Eee PC 1215 Series". Notebook check. Retrieved 27 September 2011.
+^ Michael Copeland (14 October 2008). "Disruptors: The 'netbook' revolution". Fortune. Retrieved 1 November 2017.
+^ "Asus Eee PC". Asus. 2008. Archived from the original on 9 April 2008. Retrieved 10 April 2008.
+^ Spurbeck, Jared (3 January 2013). "Acer and Asus to Stop Making Netbooks". Yahoo!. Archived from the original on 7 January 2013. Retrieved 13 January 2013.
+^ Condliffe, Jeff (2 January 2013). "Asus and Acer: The Netbook Is Dead". Gizmodo. Retrieved 13 February 2013.
+^ a b Krawczyk, Konrad (3 September 2014). "Asus' goofiest name returns in the EeeBook X205, a $200 Windows 8.1 notebook". Retrieved 27 December 2014.
+^ "Asus unveils ultra-low-cost Linux laptop". Linux Devices. 6 June 2007. Archived from the original on 9 July 2007. Retrieved 11 July 2007.
+^ "Asus Eee Surf memory upgrade". Flickr.
+^ "OSNews.com". Retrieved 15 July 2015.
+^ Extreme modding: replacing the 4 GB internal SSD of Eee 701 with a 16 GB SD card, Gadget Mix, archived from the original on 30 August 2013.
+^ Swinburne, Richard (17 June 2008). "Asus Eee PC 901 Dissected". Bit-tech. Retrieved 4 September 2010.
+^ ASUS. "Eee PC 904HA Specifications".
+^ "ASUS inexplicably releases a Disney netbook". 16 June 2009. Retrieved 19 November 2011.
+^ "Eee PC 900 owners find weaker batteries than those used by reviewers". Engadget.com. Archived from the original on 13 August 2010. Retrieved 4 September 2010.
+^ "Asus Eee PC 900 Full Review, Laptop Reviews on CNET.co.uk". Reviews.cnet.co.uk. Retrieved 4 September 2010.
+^ a b c "Asus announces 10in, HDD-equipped Eee PC". Archived from the original on 29 April 2009. Retrieved 3 June 2008.
+^ "Asus Eee PC 1000H Review, Specs". Laptops Tech. Archived from the original on 15 December 2013. Retrieved 10 December 2013.
+^ M ssig, Florian (3 March 2009). "Eee-PC-Parade". c't (in German). Germany: Heise.de. Retrieved 14 October 2011.
+^ "ASUS Eee PC Comparison List". event.asus.com. Retrieved 23 August 2010.
+^ Girbea, Andrei (11 March 2011). "Asus EEE PC 1215B review   impressive mini laptop". Archived from the original on 22 March 2013.
+^ "Eee PC 1215B - Laptops - ASUS Global". ASUS Global.
+^ "Eee PC 1225B - Laptops - ASUS Global". ASUS Global.
+^ "Amazon.com: J. Buist "is just a guy with an opinion"'s review of ASUS 1025C-MU17-BK 10.1-Inch Netbook (Black)". amazon.com. Retrieved 15 July 2015.
+^ alexander. "ASUS debuts Eee PC 1015E". hitechreview.com. Retrieved 15 July 2015.
+^ "Amazon.com: NEW CMOS RTC Battery ASUS EEE PC 1008HA 1005HAB Dimension: 12.5 x 2mm: Computers & Accessories". amazon.com. Retrieved 15 July 2015.
+^ "Asus Eee PC 900 Laptop Troubleshooting". iFixit.
+^ "ASUS EEE S101 SSD performance   not too shabby [netbook]". Gadget mix. Archived from the original on 19 March 2012.
+^ "Asus Eee S101 Review". ApoTheTech. Retrieved 25 February 2009.
+^ "Asus EEEPC Tips and Tricks:Hardware". Serban Ghita. 2 January 2008. Archived from the original on 21 January 2009. Retrieved 3 January 2008.
+^ "GoGoDigital offers RAM upgrades on the Asus 1025 netbook". GoGoDigital. 4 March 2013. Archived from the original on 3 June 2013. Retrieved 4 March 2013.
+^ "The Next Big Thing The Challenges of Producing Small Form Factors: The Asus Eee PC". Stanford University. 14 May 2008. Archived from the original on 29 May 2008. Retrieved 15 May 2008.
+^ video archive
+^ "DebianEeePC - Debian Wiki". wiki.debian.org.
+^ "Assembly Nights". ratfactor.com. Retrieved 19 August 2022.
+^ "Building Android for the Asus Eee PC 701". Androidx86.org. 18 January 2009. Archived from the original on 17 September 2010. Retrieved 23 August 2010.
+^ "How to run Mac OS X 10.4 Tiger on the Asus EeePC". Tangient LLC. Archived from the original on 23 August 2010. Retrieved 23 August 2010.
+^ "How to Install Mac OS X 5.5 Leopard on the Asus EeePc 1000h". Archived from the original on 13 August 2011. Retrieved 7 September 2011.
+^ "How to Install Mac OS X 10.6 Snow Leopard on the Asus EeePc 1000h". Archived from the original on 27 November 2011. Retrieved 7 September 2011.
+^ "Installing Windows XP on Asus Eee PC". EeeGuides. 29 November 2007. Archived from the original on 29 December 2007. Retrieved 29 November 2007.
+^ "Installing Windows Vista on Asus Eee PC". EeeGuides. 1 December 2007. Archived from the original on 30 December 2007. Retrieved 1 December 2007.
+^ "Asus Eee PC Comparison List". Event.asus.com. Retrieved 4 September 2010.
+^ "Modding the Asus 701 (Eee)". WordPress. 20 November 2007. Archived from the original on 22 November 2007. Retrieved 20 November 2007.
+^ "New Eee PC netbooks Missing Mini-PCIe Connector". ApoTheTech. Retrieved 2 December 2007.
+^ "It's True: New Batch of Eee PC's Missing Mini-PCIe Connector". EeeUser.com. 2 December 2007. Archived from the original on 4 December 2007. Retrieved 3 December 2007.
+vteAsusProductsComputersEee
+Eee PC
+Eee T91
+EeeBook
+EeeBox PC
+Eee Keyboard
+ZenBook
+ZenBook
+Tablets
+Fonepad
+Amplify Tablet
+Transformer
+Memo Pad
+Asus Google Nexus 7
+2012
+2013
+VivoTab Note 8
+SmartphonesZenFone
+ZenFone
+ZenFone 2
+ZenFone 3
+ZenFone 4
+ZenFone 5
+ZenFone 6
+ZenFone 7
+ZenFone 8
+ZenFone 9
+ROG
+ROG Phone
+II
+3
+5
+5s
+6
+7
+Other
+PadFone
+v70
+Others
+Media Bus
+Q-Connector
+ Category
+ Commons
+vteNetbooks
+Acer Aspire One
+Asus Eee PC
+Classmate PC
+CloudBook
+Dell Inspiron Mini
+Doel
+ECS G10IL
+Elonex ONE
+Gateway LT31
+Gdium
+Gigabyte M912
+HP Mini/Mini-Note
+MSI Wind
+Nanobook
+Noahpad
+OLPC XO-1
+One A110
+Samsung N130/N140 NC10/NC20
+Skytone Alpha-400
+Sony VAIO M series
+Sony VAIO W series
+Tianhua GX-1C
+VIA OpenBook
+PAC-nBook 1
+Comparison of netbooks
+Netbook manufacturers
+Comparison of netbook-oriented Linux distributions
+vte(non-Android) Linux-powered devicesComputers,componentsNettops
+Aleutia
+Eee Box
+fit-PC
+Lemote
+Linutop
+ThinCan
+Zonbu
+Netbooks
+Acer Aspire One
+Averatec Buddy
+Classmate PC
+CloudBook
+ECS G10IL
+Eee PC
+Elonex ONE/ONEt
+Gigabyte M912
+HP Mini 1000/2133
+Inspiron Mini
+Doel
+MSI Wind
+NanoBook
+Noahpad
+OLPC
+One A110
+Pinebook
+OpenBook
+Skytone Alpha-400
+Tianhua GX-1C
+Tablets
+Aakash
+Adam
+JooJoo
+LeapPad Explorer
+Librem
+WeTab
+Networking
+Asus Routers
+BT Home Hub
+Buffalo AirStation
+Junxion Box
+Linksys WRT54G series
+Netgear DG834G
+Picotux
+Killer NIC
+Storage
+Buffalo LinkStation / TeraStation
+Drobo
+Linksys NSLU2
+QNAP
+Synology Inc.
+WD My Book
+Other
+BeagleBoard
+Chumby
+DragonBox Pyra
+Gumstix
+HP Dev One
+Librem
+Nvidia Drive
+Nvidia Jetson
+Palm Foleo
+Pandora
+Raspberry Pi
+SheevaPlug
+Stanley
+Asus Tinker Board
+IBM LinuxONE
+AccessoriesMultimedia
+DBox2
+Dreambox
+Hauppauge MediaMVP
+Neuros OSD
+TiVo
+Vu+
+Roku Digital Video Player
+Sonos
+Handhelds
+Amazon Kindle
+Archos PMA400
+ILiad
+Leapfrog Didj
+Leapster Explorer
+Nokia 770 / N800 / N810 / N900
+Pepper Pad
+Zaurus
+Sony Reader
+Zipit
+Ben NanoNote
+Phones 
+Jolla
+Motorola A1200 / A1210 / A1600 / A760 / E680i / MOTO VE66 / PEBL U9 / RAZR2 V8 / ROKR E2 / E6 / E8 / EM30 / EM35 / Z6 / ZINE ZN5 / ZN200
+Neo 1973 / FreeRunner
+Nokia N900 / N950 / N9
+Palm Pixi / Pre / Pre 2 / HP Pre 3 / Veer
+Samsung Vodafone 360 H1 / Vodafone 360 M1
+Samsung Wave S8500 / Wave II S8530 / Wave 3 S8600 / Wave 723 / Wave 575 / Wave 525 / Wave Y
+Samsung Z1 / Z2 / Z3 / Z4
+Librem 5
+PinePhone / Pro
+Consoles
+DragonBox Pyra
+GP2X
+Wiz
+CAANOO
+mylo
+Pandora
+Dingoo A320
+GCW Zero
+Steam Deck
+Historic
+Cherrypal
+Simputer
+  Excluding Android devices.
+Authority control: National 
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Asus_Eee_PC&oldid=1146184169"

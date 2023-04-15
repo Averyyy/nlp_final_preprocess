@@ -1,0 +1,631 @@
+E-book file format
+For publications that are accessed electronically, see Electronic article.
+Electronic Publication (EPUB)Filename extension
+.epubInternet media type
+application/epub+zipMagic numberPK\x03\x04 (Zip)Developed byInternational Digital Publishing Forum (IDPF)Initial releaseSeptember 2007; 15 years ago (2007 -09)Latest release3.2May 15, 2019; 3 years ago (2019-05-15)[1] Type of formate-book file formatContained byOEBPS Container Format (OCF; Zip)Extended fromOpen eBook, XHTML, CSS, DTBookStandardISO/IEC TS 30135Open format?YesWebsitewww.w3.org/publishing/epub32/
+EPUB is an e-book file format that uses the ".epub" file extension. The term is short for electronic publication and is sometimes styled ePub. EPUB is supported by many e-readers, and compatible software is available for most smartphones, tablets, and computers. EPUB is a technical standard published by the International Digital Publishing Forum (IDPF). It became an official standard of the IDPF in September 2007, superseding the older Open eBook (OEB) standard.[2]
+The Book Industry Study Group endorses EPUB 3 as the format of choice for packaging content and has stated that the global book publishing industry should rally around a single standard.[3] The EPUB format is implemented as an archive file consisting of XHTML files carrying the content, along with images and other supporting files. EPUB is the most widely supported vendor-independent XML-based e-book format; that is, it is supported by almost all hardware readers.[4]
+History[edit]
+A successor to the Open eBook Publication Structure, EPUB 2.0 was approved in October 2007,[5] with a maintenance update (2.0.1) approved in September 2010.[6]
+The EPUB 3.0 specification became effective in October 2011, superseded by a minor maintenance update (3.0.1) in June 2014.[7] New major features include support for precise layout or specialized formatting (Fixed Layout Documents), such as for comic books,[8] and MathML support. The current version of EPUB is 3.2, effective May 8, 2019.[9] The (text of) format specification underwent reorganization[10] and clean-up; format supports remotely hosted resources and new font formats (WOFF 2.0 and SFNT)[11] and uses more pure HTML and CSS.[12]
+In May 2016 IDPF members approved World Wide Web Consortium (W3C) merger,[13] "to fully align the publishing industry and core Web technology".[14]
+Version 2.0.1[edit]
+EPUB 2.0 was approved in October 2007, with a maintenance update (2.0.1) intended to clarify and correct errata in the specifications being approved in September 2010.[6] EPUB version 2.0.1 consists of three specifications:
+Open Publication Structure (OPS) 2.0.1, contains the formatting of its content.[15]
+Open Packaging Format (OPF) 2.0.1, describes the structure of the .epub file in XML.[16]
+Open Container Format (OCF) 2.0.1, collects all files as a ZIP archive.[17]
+EPUB internally uses XHTML or DTBook (an XML standard provided by the DAISY Consortium) to represent the text and structure of the content document, and a subset of CSS to provide layout and formatting. XML is used to create the document manifest, table of contents, and EPUB metadata. Finally, the files are bundled in a zip file as a packaging format.
+Open Publication Structure 2.0.1[edit]
+An EPUB file uses XHTML 1.1 (or DTBook) to construct the content of a book as of version 2.0.1. This is different from previous versions (OEBPS 1.2 and earlier), which used a subset of XHTML. There are, however, a few restrictions on certain elements. The mimetype for XHTML documents in EPUB is application/xhtml+xml.[15][a]
+Styling and layout are performed using a subset of CSS 2.0, referred to as OPS Style Sheets. This specialized syntax requires that reading systems support only a portion of CSS properties and adds a few custom properties. Custom properties include oeb-page-head, oeb-page-foot, and oeb-column-number. Font-embedding can be accomplished using the @font-face property, as well as including the font file in the OPF's manifest (see below). The mimetype for CSS documents in EPUB is text/css.[15][b]
+EPUB also requires that PNG, JPEG, GIF, and SVG images be supported using the mimetypes image/png, image/jpeg, image/gif, image/svg+xml. Other media types are allowed, but creators must include alternative renditions using supported types.[15] For a table of all required mimetypes, see Section 1.3.7 of the specification.
+Unicode is required, and content producers must use either UTF-8 or UTF-16 encoding.[15] This is to support international and multilingual books. However, reading systems are not required to provide the fonts necessary to display every Unicode character, though they are required to display at least a placeholder for characters that cannot be displayed fully.[15]
+An example skeleton of an XHTML file for EPUB looks like this:
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+    <title>Pride and Prejudice</title>
+    <link rel="stylesheet" href="css/main.css" type="text/css" />
+  </head>
+  <body>
+    ...
+  </body>
+</html>
+Open Packaging Format 2.0.1[edit]
+The OPF specification's purpose is to "[define] the mechanism by which the various components of an OPS publication are tied together and provides additional structure and semantics to the electronic publication".[16] This is accomplished by two XML files with the extensions .opf and .ncx.
+.opf file
+The OPF file, traditionally named content.opf, houses the EPUB book's metadata, file manifest, and linear reading order. This file has a root element package and four child elements: metadata, manifest, spine, and guide. Furthermore, the package node must have the unique-identifier attribute. The .opf file's mimetype is application/oebps-package+xml.[16]
+The metadata element contains all the metadata information for a particular EPUB file. Three metadata tags are required (though many more are available): title, language, and identifier. title contains the title of the book, language contains the language of the book's contents in RFC 3066 format or its successors, such as the newer RFC 4646 and identifier contains a unique identifier for the book, such as its ISBN or a URL. The identifier's id attribute should equal the unique-identifier attribute from the package element.[16][c]
+The manifest element lists all the files contained in the package. Each file is represented by an item element, and has the attributes id, href, media-type. All XHTML (content documents), stylesheets, images or other media, embedded fonts, and the NCX file should be listed here. Only the .opf file itself, the container.xml, and the mimetype files should not be included.[16]
+The spine element lists all the XHTML content documents in their linear reading order. Also, any content document that can be reached through linking or the table of contents must be listed as well. The toc attribute of spine must contain the id of the NCX file listed in the manifest. Each itemref element's idref is set to the id of its respective content document.[16]
+The guide element is an optional element for the purpose of identifying fundamental structural components of the book. Each reference element has the attributes type, title, href. Files referenced in href must be listed in the manifest, and are allowed to have an element identifier (e.g. #figures in the example).[16][d]
+An example OPF file:
+<?xml version="1.0"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Pride and Prejudice</dc:title>
+    <dc:language>en</dc:language>
+    <dc:identifier id="BookId" opf:scheme="ISBN">123456789X</dc:identifier>
+    <dc:creator opf:file-as="Austen, Jane" opf:role="aut">Jane Austen</dc:creator>
+  </metadata>
+  <manifest>
+    <item id="chapter1" href="chapter1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="appendix" href="appendix.xhtml" media-type="application/xhtml+xml"/>
+    <item id="stylesheet" href="style.css" media-type="text/css"/>
+    <item id="ch1-pic" href="ch1-pic.png" media-type="image/png"/>
+    <item id="myfont" href="css/myfont.otf" media-type="application/x-font-opentype"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter1" />
+    <itemref idref="appendix" />
+  </spine>
+  <guide>
+    <reference type="loi" title="List Of Illustrations" href="appendix.xhtml#figures" />
+  </guide>
+</package>
+.ncx file
+The NCX file (Navigation Control file for XML), traditionally named toc.ncx, contains the hierarchical table of contents for the EPUB file. The specification for NCX was developed for Digital Talking Book (DTB), is maintained by the DAISY Consortium, and is not a part of the EPUB specification. The NCX file has a mimetype of application/x-dtbncx+xml.
+Of note here is that the values for the docTitle, docAuthor, and meta name="dtb:uid" elements should match their analogs in the OPF file. Also, the meta name="dtb:depth" element is set equal to the depth of the navMap element. navPoint elements can be nested to create a hierarchical table of contents. navLabel's content is the text that appears in the table of contents generated by reading systems that use the .ncx. navPoint's content element points to a content document listed in the manifest and can also include an element identifier (e.g. #section1).[16][18]
+A description of certain exceptions to the NCX specification as used in EPUB is in Section 2.4.1 of the specification. The complete specification for NCX can be found in Section 8 of the Specifications for the Digital Talking Book.[18]
+An example .ncx file:
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+"http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+<!-- The following four metadata items are required for all NCX documents,
+including those that conform to the relaxed constraints of OPS 2.0 -->
+    <meta name="dtb:uid" content="123456789X"/> <!-- same as in .opf -->
+    <meta name="dtb:depth" content="1"/> <!-- 1 or higher -->
+    <meta name="dtb:totalPageCount" content="0"/> <!-- must be 0 -->
+    <meta name="dtb:maxPageNumber" content="0"/> <!-- must be 0 -->
+  </head>
+  <docTitle>
+    <text>Pride and Prejudice</text>
+  </docTitle>
+  <docAuthor>
+    <text>Austen, Jane</text>
+  </docAuthor>
+  <navMap>
+    <navPoint class="chapter" id="chapter1" playOrder="1">
+      <navLabel><text>Chapter 1</text></navLabel>
+      <content src="chapter1.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
+Open Container Format 2.0.1[edit]
+An EPUB file is a group of files that conform to the OPS/OPF standards and are wrapped in a ZIP file.[19] The OCF specifies how to organize these files in the ZIP, and defines two additional files that must be included.
+The mimetype file must be a text document in ASCII that contains the string application/epub+zip. It must also be uncompressed, unencrypted, and the first file in the ZIP archive. This file provides a more reliable way for applications to identify the mimetype of the file than just the .epub extension.[17]
+Also, there must be a folder named META-INF, which contains the required file container.xml. This XML file points to the file defining the contents of the book. This is the OPF file, though additional alternative rootfile elements are allowed.[17]
+Apart from mimetype and META-INF/container.xml, the other files (OPF, NCX, XHTML, CSS and images files) are traditionally put in a directory named OEBPS.
+An example file structure:
+--ZIP Container--
+mimetype
+META-INF/
+  container.xml
+OEBPS/
+  content.opf
+  chapter1.xhtml
+  ch1-pic.png
+  css/
+    style.css
+    myfont.otf
+An example container.xml, given the above file structure:
+<?xml version="1.0" encoding="UTF-8" ?>
+<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
+  <rootfiles>
+    <rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/>
+  </rootfiles>
+</container>
+Version 3.0.1[edit]
+The EPUB 3.0 Recommended Specification was approved on 11 October 2011. On June 26, 2014 EPUB 3.0.1 was approved as a minor maintenance update to EPUB 3.0. EPUB 3.0 supersedes the previous release 2.0.1.[e]
+EPUB 3 consists of a set of four specifications:[20]
+EPUB Publications 3.0, which defines publication-level semantics and overarching conformance requirements for EPUB Publications
+EPUB Content Documents 3.0, which defines profiles of XHTML, SVG and CSS for use in the context of EPUB Publications
+EPUB Open Container Format (OCF) 3.0, which defines a file format and processing model for encapsulating a set of related resources into a single-file (ZIP) EPUB Container.
+EPUB Media Overlays 3.0, which defines a format and a processing model for synchronization of text and audio
+The EPUB 3.0 format was intended to address the following criticisms:
+While good for text-centric books, EPUB was rather unsuitable for publications that require precise layout or specialized formatting, such as comic books.[8]
+A major issue hindering the use of EPUB for most technical publications was the lack of support for equations formatted as MathML. They were included as bitmap or SVG images, precluding proper handling by screen readers and interaction with computer algebra systems. Support for MathML is included in the EPUB 3.0 specification.
+Other criticisms of EPUB were the specification's lack of detail on linking within or between EPUB books, and its lack of a specification for annotation. Such linking is hindered by the use of a ZIP file as the container for EPUB. Furthermore, it was unclear if it would be better to link by using EPUB's internal structural markup (the OPF specification mentioned above) or directly to files through the ZIP's file structure.[21] The lack of a standardized way to annotate EPUB books led to difficulty in sharing and transferring annotations and therefore limited the use scenarios of EPUB, particularly in educational settings, because it cannot provide a level of interactivity comparable to the web.[22]
+On June 26, 2014, the IDPF published EPUB 3.0.1 as a final Recommended Specification.[23]
+In November 2014, EPUB 3.0 was published by the ISO/IEC as ISO/IEC TS 30135 (parts 1-7).[24]
+In January 2020, EPUB 3.0.1 was published by the ISO/IEC as ISO/IEC 23736 (parts 1-6).[25]
+Version 3.2[edit]
+EPUB 3.2 was announced in 2018,[26] and the final specification was released in 2019.[27] A notable change is the removal of a specialized subset of CSS, enabling the use of non-epub-prefixed properties. The references to HTML and SVG standards are also updated to "newest version available", as opposed to a fixed version in time.[28]
+Features[edit]
+The format and many readers support the following:
+Reflowable document: optimize text for a particular display
+Fixed-layout content:[29] pre-paginated content can be useful for certain kinds of highly designed content, such as illustrated books intended only for larger screens, such as tablets.[30]
+Like an HTML web site, the format supports inline raster and vector images, metadata, and CSS styling.
+Page bookmarking
+Passage highlighting and notes
+A library that stores books and can be searched
+Re-sizable fonts, and changeable text and background colors
+Support for a subset of MathML[31]
+Better analytical support with compatible platforms[32]
+Digital rights management can contain digital rights management (DRM) as an optional layer[33]
+Digital rights management[edit]
+An EPUB file can optionally contain DRM as an additional layer, but it is not required by the specifications.[33] In addition, the specification does not name any particular DRM system to use, so publishers can choose a DRM scheme to their liking. However, future versions of EPUB (specifically OCF) may specify a format for DRM.[17]
+The EPUB specification does not enforce or suggest a particular DRM scheme. This could affect the level of support for various DRM systems on devices and the portability of purchased e-books. Consequently, such DRM incompatibility may segment the EPUB format along the lines of DRM systems, undermining the advantages of a single standard format and confusing the consumer.[34][35][36][37][38][39]
+DRMed EPUB files must contain a file called rights.xml within the META-INF directory at the root level of the ZIP container.[17][clarification needed]
+Adoption[edit]
+EPUB is widely used on software readers such as Google Play Books on Android and Apple Books on iOS and macOS and Amazon Kindle's e-readers, but not by associated apps for other platforms. iBooks also supports the proprietary iBook format, which is based on the EPUB format but depends upon code from the iBooks app to function.[40]
+EPUB is a popular format for electronic data interchange because it can be an open format and is based on HTML, as opposed to Amazon's proprietary format for Kindle readers. Popular EPUB producers of public domain and open licensed content include Project Gutenberg, Standard Ebooks, PubMed Central, SciELO and others.
+In 2022, Amazon's Send-to-Kindle service removed support for its own Kindle File Format in favor of EPUB.[41][42]
+Security and privacy concerns[edit]
+EPUB requires readers to support the HTML5, JavaScript, CSS, SVG formats, making EPUB readers use the same technology as web browsers.
+Such formats are associated with various types of security issues and privacy-breaching behaviors e.g. Web beacons, CSRF, XSHM due to their complexity and flexibility.
+Such vulnerabilities can be used to implement web tracking and cross-device tracking on EPUB files.[43][44][45]
+Security researchers also identified attacks leading to local files and other user data being uploaded.[46][47]
+The "EPUB 3.1 Overview" document provides a security warning:[48]
+Authors need to be aware that scripting in an EPUB Publication can create security considerations that are different from scripting within a Web browser. For example, typical same-origin policies are not applicable to content that has been downloaded to a user's local system. Therefore, it is strongly encouraged that scripting be limited to container constrained contexts.
+EPUB also requires PNG, JPEG and GIF.
+Implementation[edit]
+An EPUB file is an archive that contains, in effect, a website. It includes HTML files, images, CSS style sheets, and other assets. It also contains metadata. EPUB 3.2 is the latest version. By using HTML5, publications can contain video, audio, and interactivity, just like websites in web browsers.[30]
+Container[edit]
+An EPUB publication is delivered as a single file. This file is an unencrypted zipped archive containing a set of interrelated resources.[49]
+An OCF (Open Container Format) Abstract Container defines a file system model for the contents of the container. The file system model uses a single common root directory for all contents in the container. All (non-remote) resources for publications are in the directory tree headed by the container's root directory, though EPUB mandates no specific file system structure for this. The file system model includes a mandatory directory named META-INF that is a direct child of the container's root directory. META-INF stores container.xml.
+The first file in the archive must be the mimetype file. It must be unencrypted and uncompressed so that non-ZIP utilities can read the mimetype. The mimetype file must be an ASCII file that contains the string "application/epub+zip". This file provides a more reliable way for applications to identify the mimetype of the file than just the .epub extension.[49]
+An example file structure:
+--ZIP Container--
+mimetype
+META-INF/
+  container.xml
+OEBPS/
+  content.opf
+  chapter1.xhtml
+  ch1-pic.png
+  css/
+    style.css
+    myfont.otf
+  toc.ncx
+There must be a META-INF directory containing container.xml. This file points to the file defining the contents of the book, the OPF file, though additional alternative rootfile elements are allowed.[49] Apart from mimetype and META-INF/container.xml, the other files (OPF, NCX, XHTML, CSS and images files) are traditionally put in a directory named OEBPS. An example container.xml:
+<?xml version="1.0" encoding="UTF-8" ?>
+<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
+  <rootfiles>
+    <rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/>
+  </rootfiles>
+</container>
+Publication[edit]
+The ePUB container must contain:[50]
+At least one content document.
+One navigation document.
+One package document listing all publication resources. This file should use the file extension .opf. It contains metadata, a manifest, fallback chains, bindings, and a spine. This is an ordered sequence of ID references defining the default reading order.
+The ePUB container may contain:
+Style sheets
+Pronunciation Lexicon Specification (PLS) documents
+Media overlay documents
+Contents[edit]
+Content documents include[51] HTML 5 content, navigation documents, SVG documents, scripted content documents, and fixed layout documents.
+Contents also include CSS and PLS documents. Navigation documents supersede the NCX grammar used in EPUB 2.
+Media overlays[edit]
+Books with synchronized audio narration are created in EPUB 3 by using media overlay documents to describe the timing for the pre-recorded audio narration and how it relates to the EPUB Content Document markup. The file format for Media Overlays is defined as a subset of SMIL.[52]
+Software[edit]
+EPUB reader software exists for all major computing platforms, such as Adobe Digital Editions and calibre on desktop platforms, Google Play Books and Aldiko on Android and iOS, and Apple Books on macOS and iOS. There is also cross-platform editor software for creating EPUB files, including the open source programs calibre and Sigil.
+Most modern web browsers also support EPUB reader plugins. The Microsoft Edge browser had EPUB reader capability built in until September 2019.[53]
+Reading software[edit]
+See also: Comparison of Android e-reader software and Category:EPUB readers
+The following software can read and display EPUB files.
+Reading systems and software[19]
+Software
+License
+Platform
+DRM formats supported
+Notes
+Adobe Digital Editions
+Proprietary
+Microsoft Windows, Apple Mac OS X, Android, iOS
+Adobe Content Server
+Requires online activation for EPUB files with DRM.
+Aldiko
+Proprietary
+Android
+Adobe Content Server
+Supports EPUB for Android devices.
+Apple Books
+Proprietary
+OS X, iOS
+FairPlay[54]
+Supports EPUB 2 and EPUB 3. Books not readable directly on computers other than Macs.
+Bluefire Reader
+Proprietary
+Apple iOS, Android
+Adobe Content Server
+Supports EPUB for Android and iOS devices.
+calibre
+GPL
+Windows, OS X, Linux
+None
+Primarily for library management, conversion, and transferring to devices, it includes an EPUB reader and editor. "About". Calibre.
+FBReader
+Proprietary[55]
+Windows, Linux, Android, PDAs, OS X
+None
+Foliate
+GPL
+Linux
+None
+Supports also Mobi, AZW(3)
+Google Play Books
+Proprietary
+Web application, Android, Apple iOS
+Lektz DRM
+Supports downloading purchased books as EPUB and/or PDF.
+Kitabu
+Proprietary
+OS X
+None
+Supports ePub3, ePub2, fixed layout.
+Kobo
+Proprietary
+Windows, OS X, Android, Apple iOS, Kobo eReader Software,
+Adobe Content Server
+Supports EPUB 2 and EPUB 3.
+Lector
+GPL
+Linux
+None
+Supports also Mobi, AZW(3/4), CBR/CBZ, PDF, DjVu, FB2
+Lektz Readers
+Proprietary
+Web application, Google Android, OS X, iOS, Windows
+Lektz
+eBook Readers for PDF, ePUB/2 and ePUB3 providing uniform experience across different platforms - iOS, Android, Windows PC, Mac Desktop and Web.
+MuPDF
+AGPL
+Unix-like, Windows, Android, iOS
+Libby
+Proprietary
+Windows, Android, Apple macOS, iOS, iPadOS
+Free app for eBooks and audiobooks from local libraries.
+Lucifox
+GPL
+Windows, OS X, Linux
+None
+Ebook reader add-on with annotations for Firefox. Supports open standard ebooks in EPUB 3- and EPUB 2 format and retrieval of books from OPDS book catalogues. (Development discontinued January 2017)
+Okular
+GPL
+Windows, OS X, Linux
+Snapplify
+Proprietary
+All Web browsers, Apple iOS, Android
+Adobe Content Server Snapplify SnappSafe DRM
+Supports downloading purchased books as EPUB and/or PDF. Supports PDF, ePUB2 and ePUB3 standard of e-books.
+Sora
+Proprietary
+Windows, Android, Apple macOS, iOS, iPadOS
+Free app for eBooks and audiobooks from schools.
+STDU Viewer
+Freeware
+Windows
+Supports many documents format including EPUB.
+Sumatra PDF (based on MuPDF)
+GPL
+Windows
+Adobe Content Server
+Supports EPUB for devices.
+xochitl
+Proprietary[56]
+Codex
+None
+GUI for the reMarkable and reMarkable 2 Paper Tablets
+Creation software[edit]
+The following software can create EPUB files.
+Creation software
+Software
+License
+Platform
+Notes
+ABBYY FineReader
+Proprietary
+Microsoft Windows
+Version 11 exports to EPUB format.
+Abiword
+GPL
+FreeBSD, Linux, Windows
+Support EPUB 2.0 format export since 2.9.1 release[57]
+Adobe InDesign
+Proprietary
+Windows, OS X
+Exports to EPUB format. Versions prior to 5.5 create EPUBs that require significant editing to pass ePubCheck or ePubPreFlight. As from InDesign CC 2014, InDesign can export in ePub3 fixed-layout format.
+Adobe RoboHelp
+Unknown
+Windows
+Online documentation tool that supports export to EPUB format
+Atlantis Word Processor
+Shareware
+Windows, Portable app
+Converts any document to EPUB; supports multilevel TOCs, font embedding, and batch conversion.
+Booktype
+GPL
+Web
+Book production platform that outputs to many formats, including EPUB. The platform can import content in various formats and supports collaborative editing.
+calibre
+GPL
+Windows, OS X, FreeBSD, Linux
+Conversion software and e-book organizer. Allows plugins, including for editing EPUB files; there is for instance a plugin to merge several EPUB files into one.[58]
+eLML
+Unknown
+Windows, OS X, FreeBSD, Linux
+The eLesson Markup Language is a platform-independent XML-based open-source framework to create eLearning content. It supports various output formats like SCORM, HTML, PDF and also eBooks based on the EPUB format.
+Feedbooks
+Unknown
+Web
+Free cloud service for downloading public domain works and for self-publishing.
+Help & Manual
+Proprietary
+Windows
+Single source publishing tool that generates EPUB amongst several other documentation formats.
+HelpNDoc
+Free for personal use, commercial otherwise.
+Windows
+Help authoring tool that generates EPUB files and other formats.
+iBooks Author
+Proprietary
+OS X
+Desktop publishing and page layout application. Free from Apple. Can export .ibooks format, which is a proprietary format based on EPUB.[59] There are restrictions on the commercial distribution of works created with iBooks in the .ibooks format.[60] These restrictions apply to the .ibooks format only[61] and it can be argued that a file renamed to .epub is not distributed in the .ibooks format.
+iStudio Publisher
+Proprietary
+OS X
+Desktop publishing and page layout application.
+LibreOffice Writer
+Mozilla Public License, GNU Lesser General Public License
+Windows, OS X, Linux
+Text processor with a functionality to export as EPUB3 format since version 6.0. Also allowed to export as EPUB format via installing extension, such as eLaix.[62]
+Lulu.com
+Proprietary
+Web
+Converts .doc, .docx, or PDF manuscripts to an EPUB so that they may be sold on the Website in question.
+Madcap Flare
+Proprietary
+Windows
+Single source publishing tool that can export content as EPUB.
+oXygen XML Editor
+Proprietary
+OS X, Windows, FreeBSD, Linux
+oXygen XML editor is the first tool that supports creating, transforming, and validating the documents that comprise the EPUB package.
+Pages
+Proprietary
+Mac OS X
+Word processor that can export to EPUB format
+Pages
+Proprietary
+Apple iOS
+Word processor for mobile devices that can export to EPUB format
+Pandoc
+GPLv2
+Unix-like, Windows
+Can convert to and from EPUB versions 2 and 3
+Playwrite
+Proprietary
+OS X
+Native EPUB-based word processor. Native to EPUB 3 with EPUB 2 compatibility.
+QuarkXPress
+Proprietary
+OS X, Windows
+Desktop publishing tool, page layout application. Exports also to the EPUB format.
+Serif PagePlus
+Proprietary
+Windows
+Desktop publishing program that can export to the EPUB 2 and EPUB 3 format. Comes with built-in output conversion profiles for targeting specific devices, as well as generic devices. Also includes pre-tested blank eBook templates, or can open and edit existing PDF files and publish as EPUB.
+Scrivener
+Proprietary
+Windows, OS X
+Program for writers. Includes organization capabilities for fiction writers. Publishes to multiple formats.
+Sigil
+GPL
+Windows, FreeBSD, Linux, OS X
+Can open and edit EPUB books, instead of just converting from other formats to EPUB. Since version 0.7, supports embedding video or audio in EPUB.[63]
+eXeLearning
+GPL
+Windows, Linux, OS X
+Can be used to create educational interactive Web content, HTML5, IMS, SCORM and EPUB3 books[64]
+Mellel
+Proprietary
+OS X
+Word processor application, can export its documents to EPUB[65]
+Google Docs
+Proprietary
+Web
+Cloud word processor, can export to EPUB.
+Notes[edit]
+^  For a table of the required XHTML modules and a description of the restrictions, see "Section 2.2", ePub OPS 2.0.1 (specification draft), IDPF.
+^  For a table of supported properties and detailed information, see "Section 3.0", ePub OPS 2.0.1 (specification draft), IDPF.
+^  For a full listing of metadata, see "Section 2.2", ePub OPF 2.0.1 (specification draft), IDPF.
+^  A list of possible values for type is in "Section 2.6", ePub OPDF 2.0.1 (specification draft), IDPF.
+^  Detailed descriptions of the differences between 3.0 and 2.0.1 can be found on ePub 3.0 spec changes, IDPF.
+References[edit]
+^ "EPUB 3.2 specification". IDPF. Retrieved February 27, 2022.
+^ "OPS 2.0 Elevated to Official IDPF Standard". IDPF. eBooklyn. Oct 15, 2007.
+^ "Endorsement of EPUB 3". BISG. Book Industry Study Group. 2012-08-06. Archived from the original on 2016-04-17. Retrieved 2020-05-05.
+^ "The Different Ebook Formats Explained: EPUB, MOBI, AZW, IBA, and More". 27 July 2018.
+^ "Older Versions of EPUB". International Digital Publishing Forum. Archived from the original on 2017-08-31. Retrieved 2017-05-10.
+^ a b "1.1 EPUB Revision History". IDPF. 11 October 2011.
+^ "EPUB 3.0". International Digital Publishing Forum. Archived from the original on 2012-04-17. Retrieved 2017-01-12.
+^ a b Rothman, David (July 27, 2008). "The ePub torture test: Starring 'Three Shadows,' a graphic novel". TeleRead: Bring the E-Books Home.
+^ "EPUB 3.2". World Wide Web Consortium (W3C). Retrieved 2021-02-20.
+^ "EPUB 3.1 Changes from EPUB 3.0.1". IDPF. Retrieved 2017-01-12.
+^ "EPUB 3.1 Changes from EPUB 3.0.1". IDPF. Retrieved 2017-01-12.
+^ "EPUB 3.1 Changes from EPUB 3.0.1". IDPF. Retrieved 2017-01-12.
+^ "IDPF Members Approve W3C Merger". Publishing Perspectives. 9 November 2016.
+^ "World Wide Web Consortium (W3C) and International Digital Publishing Forum (IDPF) Explore Plans to Combine". W3C.
+^ a b c d e f "Open Publication Structure (OPS) 2.0.1   Recommended Specification". IDPF. September 4, 2010. Retrieved February 21, 2011.
+^ a b c d e f g h "Open Packaging Format (OPF) 2.0.1   Recommended Specification". IDPF. September 4, 2010. Retrieved February 21, 2011.
+^ a b c d e "Open Container Format (OCF) 2.0.1   Recommended Specification". IDPF. September 4, 2010. Retrieved February 21, 2011.
+^ a b "Specifications for the Digital Talking Book". NISO. April 21, 2005. Archived from the original on August 31, 2009. Retrieved October 9, 2009.
+^ a b "EPUB 101" (PDF). eBook Technologies. Retrieved 10 July 2014.
+^ "EPUB 3 Overview Draft". EPUB 3 Working Group. IDPF. 11 October 2011. Archived from the original on 15 April 2012. Retrieved 11 October 2011.
+^ "Links, pointers, bookmarks, highlights: How should .epub do it?". FrontMatters. BookGlutton. March 29, 2008.
+^ Rothman, David (November 5, 2007). "'Social annotation and the marketplace of ideas': Time for an IDPF annotation standard for books and other e-pubs!". TeleRead: Bring the E-Books Home. Archived from the original on January 13, 2013. Retrieved October 8, 2009.
+^ EPUB 3.0.1 Changes, IDPF, retrieved July 8, 2014.
+^ EPUB 3.0 Published as ISO Technical Specification, IDPF, retrieved August 28, 2018.
+^ New and Emerging Specs and Standards (March 2020), NISO, retrieved April 11, 2020.
+^ "EPUB 3.2 Rationale". GitHub. 11 April 2020. Retrieved 2020-05-07.
+^ "EPUB 3.2". W3C. Retrieved 2020-05-07.
+^ "EPUB 3.2 Changes". www.w3.org.
+^ "Fixed-Layout Properties". International Digital Publishing Forum. Retrieved 11 September 2015.
+^ a b "Understanding EPUB 3". EPUBZone. International Digital Publishing Forum. Retrieved 11 September 2015.
+^ "Embedded MathML". IDPF. Retrieved 12 September 2015.
+^ "Top 9 Reasons To Convert Your PDF eBook To ePUB3". OneRead.{{cite web}}:  CS1 maint: url-status (link)
+^ a b "Digital Book Standards FAQs". IDPF. November 20, 2006. Archived from the original on 2009-09-03.
+^ Gelles, David (January 29, 2010). "Walls close in on e-book garden". The Financial Times.
+^ Rothman, David (August 13, 2009). "Adobe-DRMed ePub isn't 'open': Why the New York Times urgently needs to clarify its Sony eBook Store article". TeleRead: Bring the E-Books Home. Archived from the original on October 14, 2009.
+^ Biba, Paul (December 21, 2009). "Does the Nook use its own incompatible DRM scheme?". TeleRead: Bring the E-Books Home. Archived from the original on December 28, 2009. Retrieved January 29, 2010.
+^ Biba, Paul (January 28, 2010). "iPad adds to the DRM mess? Apple ebook DRM exclusive to Apple hardware". TeleRead: Bring the E-Books Home. Archived from the original on February 2, 2010. Retrieved January 29, 2010.
+^ Kendrick, James (January 28, 2010). "Who Really Needs an iPad?". JK On The Run.
+^ Dickson, Dave (January 27, 2010). "EPUB, iPad and Content Interoperability". Digital Editions. Adobe.
+^ Arnold Kim (January 19, 2012). "New iBooks not technically in epub format". MacRumors.
+^ Michael Cavacini (2022-05-04). "Amazon Kindle Will Support EPUB Books, Abandoning MOBI Format". michaelcavacini.com. Retrieved 2022-05-04.
+^ "Learn About Sending Documents to Your Kindle Library". Amazon. Archived from the original on January 25, 2022. Retrieved 2022-05-04.
+^ "EPUB javascript security".
+^ "How to detect malicious EPUB".
+^ "Hacker finds holes in Amazon Google EPUB services".
+^ "This book reads you   exploiting services and readers that support the ePub book format".
+^ "Is your ePub reader secure enough?". 16 May 2017.
+^ "EPUB overview".
+^ a b c "EPUB Open Container Format (OCF) 3.0   Recommended Specification". IDPF. Retrieved 11 September 2015.
+^ "EPUB Publications". IDPF. Retrieved 12 September 2015.
+^ "EPUB Content Documents". IDPF. Retrieved 12 September 2015.
+^ "EPUB Media Overlays". IDPF. Retrieved 12 September 2015.
+^ Casserly, Martyn. "How to read epub files on your laptop or PC". Tech Advisor. Retrieved 2020-12-31.
+^ Pham, Alex (February 15, 2010). "Apple to wrap digital books in FairPlay copy protection". The Los Angeles Times.
+^ "FBReader for Android". 10 July 2011.
+^ "reMarkable Wiki: xochitl". 9 April 2023.
+^ 2.9.1 release notes, Abi source.
+^ JimmXinu. "GUI Plugin: EpubMerge". MobileRead Forums. Retrieved 24 February 2012.
+^ Bott, Ed (January 22, 2012). "How Apple is sabotaging an open standard for digital books". ZDNet. Retrieved January 30, 2012.
+^ "iBooks Author FAQ". Apple. March 23, 2012. Retrieved April 26, 2012.
+^ "Apple iBooks Author FAQ". Apple. March 23, 2012. Retrieved April 26, 2012.
+^ "eLaix", Extension center, Libre Office.
+^ Sigil dev.
+^ eXeLearning.
+^ Mellel.
+External links[edit]
+ISO/IEC TS 30135-1:2014 - EPUB3   Part 1: EPUB3 Overview
+IDPF EPUB Validator (Github-repository)
+vteEbooksFormats
+ePub
+FictionBook
+CBR/CBZ
+Kindle File Format
+Mobipocket
+PDF
+Plain text
+IBA
+ReadingDevices
+Amazon Kindle
+Barnes & Noble Nook
+Bookeen
+Elonex ebook
+enTourage eDGe
+Hanlin eReader
+iPad
+iRiver Story
+Kobo eReader
+Onyx Boox
+Plastic Logic Reader
+PocketBook eReader
+Rocket eBook
+SoftBook
+Smartphones
+Tablets
+Software
+Adobe Acrobat
+Adobe Digital Editions
+Aldiko
+Apple Books (iBooks)
+Aquafadas
+Blio
+Bluefire Reader
+Calibre
+FBReader
+Foliate
+Google Play Books
+Kindle app
+Kitabu
+Kobo
+Lector
+Lektz
+Lucifox
+Microsoft Reader
+MuPDF
+Okular
+OverDrive Media Console
+Snapplify
+STDU Viewer
+Sumatra PDF
+Editing
+ABBYY FineReader
+AbiWord
+Adobe InDesign
+Adobe RoboHelp
+Aquafadas
+Atlantis Word Processor
+Booktype
+Calibre
+Calligra Author
+Collabora Online
+eXeLearning
+Help & Manual
+HelpNDoc
+iBooks Author
+iStudio Publisher
+LaTeX
+LibreOffice
+MadCap Flare
+Oxygen XML Editor
+PagePlus
+Pages
+QuarkXPress
+Scrivener
+Sigil
+Writer2epub
+VendorsCommercial
+Apple Books Store
+Amazon Kindle Store
+Baen Free Library
+Barnes & Noble
+Booktrack
+BookWalker
+Feedbooks
+Google
+Google Play
+Google Books
+Jarir.com
+Kobo Bookstore
+Sony Reader Store
+Smashwords
+Noncommercial
+Aozora Bunko
+Faded Page
+HathiTrust
+Internet Archive
+Project Gutenberg
+Australia
+Canada
+Standard Ebooks
+Wikisource
+Related
+Academic journal publishing reform
+Books
+Braille e-book
+Comparison of ebook readers
+Comparison of iOS ebook reader software
+Comparison of Android ebook reader software
+E-book lending
+Electronic publishing
+iBooks Author Conference
+International Digital Publishing Forum
+Kindle single
+OPDS
+Reflowable document
+Self-publishing
+Semantic publishing
+Authority control: National 
+Germany
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=EPUB&oldid=1149024260"

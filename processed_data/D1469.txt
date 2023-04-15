@@ -1,0 +1,88 @@
+Type of medical classification
+This article is about the system of medical classification. For procedural code as used in computer programming, see Procedural programming.
+Procedure codes are a sub-type of medical classification used to identify specific surgical, medical, or diagnostic interventions. The structure of the codes will depend on the classification; for example some use a numerical system, others alphanumeric.
+Examples of procedure codes[edit]
+International[edit]
+International Classification of Primary Care (ICPC-2), as well as procedure codes; ICPC-2 also contains diagnosis codes, reasons for encounter (RFE), and process of care.
+International Classification of Procedures in Medicine (ICPM) and International Classification of Health Interventions (ICHI)[1]
+SNOMED CT
+North American[edit]
+Canadian Classification of Health Interventions (CCI) (used in Canada. Replaced CCP.) [2]
+Current Dental Terminology (CDT)
+Healthcare Common Procedure Coding System (including Current Procedural Terminology) (for outpatient use; used in United States)
+ICD-10 Procedure Coding System (ICD-10-PCS) (for inpatient use; used in United States)
+ICD-9-CM Volume 3 (subset of ICD-9-CM) (formerly used in United States prior to the introduction of the ICD-10-PCS)
+Nursing Interventions Classification (NIC) (used in United States) [3]
+Nursing Minimum Data Set (NMDS)
+Nursing Outcomes Classification (NOC)
+European[edit]
+Classification des Actes M dicaux (CCAM) (used in France)[4]
+Classificatie van verrichtingen (Dutch)
+Geb hrenordnung f r  rzte (GO ) (Germany)
+Nomenclature des prestations de sant  de l'institut national d'assurance maladie invalidit  (Belgium)
+NOMESCO, the Nordic Medico-Statistical Committee, maintains codebooks for medical, surgical and radiological procedures termed NCMP, NCSP and NCRP respectively. They are used in member states of the Nordic Council, and to some extent in the Baltic states.
+OPCS-4 (used by the NHS in England)[5]
+OPS-301 (adaptation of ICPM used in Germany)
+Read codes, used in United Kingdom General Practice
+TARMED (Switzerland)
+Other[edit]
+Australian Classification of Health Interventions (ACHI)[6]
+See also[edit]
+Diagnosis code
+Medical classification
+Chargemaster
+References[edit]
+^ "WHO / International Classification of Health Interventions (ICHI)". World Health Organization. Retrieved 2011-06-14.
+^ "CCI to replace ICD-9 in Canada". CODING AND BILLING SALARY. May 9, 2016.
+^ "CNC - NIC Overview | College of Nursing - The University of Iowa". nursing.uiowa.edu.
+^ ccam.sante.fr Archived October 16, 2005, at the Wayback Machine
+^ "Home".
+^ fhs.usyd.edu.au Archived June 20, 2005, at the Wayback Machine
+vteMedical classificationTopographical codes
+Terminologia
+TA
+TH
+TE
+SNOMED T axis
+MeSH A axis
+Diagnostic codesgeneral:
+ICD
+11
+10
+9
+ICPC-2
+DRC
+NANDA
+Read codes
+SNOMED D axis
+specialized:
+ICD-O
+ICSD
+ICHD
+ILDS
+DSM
+IV
+5
+BPA
+CCMD-3
+OSIICS
+Procedural codes
+HCPCS (CPT, Level 2)
+ICD
+10 PCS
+9-CM Volume 3
+ICHI
+NIC
+SNOMED P axis
+OPS-301
+Read codes/OPCS-4
+CCAM
+LOINC
+Pharmaceutical codes
+ATC
+NDC
+SNOMED C axis
+DIN
+Outcomes codes
+NOC
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Procedure_code&oldid=1086970691"

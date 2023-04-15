@@ -1,0 +1,615 @@
+Enteric, rod shaped, gram-negative bacterium
+"E. coli" redirects here. For the protozoan commensal, see Entamoeba coli. For the grey whale, see Eschrichtius robustus.
+This article is about Escherichia coli as a species. For E. coli in medicine, see Pathogenic Escherichia coli. For E. coli in molecular biology, see Escherichia coli (molecular biology).
+Escherichia coli
+Scientific classification 
+Domain:
+Bacteria
+Phylum:
+Pseudomonadota
+Class:
+Gammaproteobacteria
+Order:
+Enterobacterales
+Family:
+Enterobacteriaceae
+Genus:
+Escherichia
+Species:
+E. coli
+Binomial name
+Escherichia coli(Migula 1895)Castellani and Chalmers 1919
+Synonyms
+Bacillus coli communis Escherich 1885
+Escherichia coli (/ r ki   ko la /),[1][2] also known as E. coli (/ i   ko la /),[2] is a Gram-negative, facultative anaerobic, rod-shaped, coliform bacterium of the genus Escherichia that is commonly found in the lower intestine of warm-blooded organisms.[3][4] Most E. coli strains are harmless, but some serotypes (EPEC, ETEC etc.) can cause serious food poisoning in their hosts, and are occasionally responsible for food contamination incidents that prompt product recalls.[5][6] Most strains do not cause disease in humans and are part of the normal microbiota of the gut; such strains are harmless or even beneficial to humans (although these strains tend to be less studied than the pathogenic ones).[7] For example, some strains of E. coli benefit their hosts by producing vitamin K2[8] or by preventing the colonization of the intestine by pathogenic bacteria. These mutually beneficial relationships between E. coli and humans are a type of mutualistic biological relationship   where both the humans and the E. coli are benefitting each other.[9][10] E. coli is expelled into the environment within fecal matter. The bacterium grows massively in fresh faecal matter under aerobic conditions for three days, but its numbers decline slowly afterwards.[11]
+E. coli and other facultative anaerobes constitute about 0.1% of gut microbiota,[12] and fecal oral transmission is the major route through which pathogenic strains of the bacterium cause disease. Cells are able to survive outside the body for a limited amount of time, which makes them potential indicator organisms to test environmental samples for fecal contamination.[13][14] A growing body of research, though, has examined environmentally persistent E. coli which can survive for many days and grow outside a host.[15]
+The bacterium can be grown and cultured easily and inexpensively in a laboratory setting, and has been intensively investigated for over 60 years. E. coli is a chemoheterotroph whose chemically defined medium must include a source of carbon and energy.[16] E. coli is the most widely studied prokaryotic model organism, and an important species in the fields of biotechnology and microbiology, where it has served as the host organism for the majority of work with recombinant DNA. Under favourable conditions, it takes as little as 20 minutes to reproduce.[17]
+Biology and biochemistry
+ Model of successive binary fission in E. coli
+Type and morphology
+E. coli is a Gram-negative, facultative anaerobe, nonsporulating coliform bacterium.[18]  Cells are typically rod-shaped, and are about 2.0  m long and 0.25 1.0 m in diameter, with a cell volume of 0.6 0.7 m3.[19][20][21]  Antibiotics can effectively treat E. coli infections outside the digestive tract and most intestinal infections but are not used to treat intestinal infections by one strain of these bacteria.[22] The flagella which allow the bacteria to swim have a peritrichous arrangement.[23] It also attaches and effaces to the microvilli of the intestines via an adhesion molecule known as intimin.[24]
+Metabolism
+E. coli can live on a wide variety of substrates and uses mixed acid fermentation in anaerobic conditions, producing lactate, succinate, ethanol, acetate, and carbon dioxide. Since many pathways in mixed-acid fermentation produce hydrogen gas, these pathways require the levels of hydrogen to be low, as is the case when E. coli lives together with hydrogen-consuming organisms, such as methanogens or sulphate-reducing bacteria.[25]
+In addition, E. coli's metabolism can be rewired to solely use CO2 as the source of carbon for biomass production. In other words, this obligate heterotroph's metabolism can be altered to display autotrophic capabilities by heterologously expressing carbon fixation genes as well as formate dehydrogenase and conducting laboratory evolution experiments. This may be done by using formate to reduce electron carriers and supply the ATP required in anabolic pathways inside of these synthetic autotrophs.[26]
+E. coli have three native glycolytic pathways: EMPP, EDP, and OPPP. The EMPP employs ten enzymatic steps to yield two pyruvates, two ATP, and two NADH per glucose molecule  while OPPP serves as an oxidation route for NADPH synthesis. Although the EDP is the more thermodynamically favourable of the three pathways, E. coli do not use the EDP for glucose metabolism, relying mainly on the EMPP and the OPPP. The EDP mainly remains inactive except for during growth with gluconate.[27]
+Catabolite repression
+When growing in the presence of a mixture of sugars, bacteria will often consume the sugars sequentially through a process known as catabolite repression. By repressing the expression of the genes involved in metabolizing the less preferred sugars, cells will usually first consume the sugar yielding the highest growth rate, followed by the sugar yielding the next highest growth rate, and so on. In doing so the cells ensure that their limited metabolic resources are being used to maximize the rate of growth. The well-used example of this with E. coli involves the growth of the bacterium on glucose and lactose, where E. coli will consume glucose before lactose. Catabolite repression has also been observed in E. coli in the presence of other non-glucose sugars, such as arabinose and xylose, sorbitol, rhamnose, and ribose. In E. coli, glucose catabolite repression is regulated by the phosphotransferase system, a multi-protein phosphorylation cascade that couples glucose uptake and metabolism.[28]
+Culture growth
+Optimum growth of E. coli occurs at 37 C (99 F), but some laboratory strains can multiply at temperatures up to 49 C (120 F).[29] E. coli grows in a variety of defined laboratory media, such as lysogeny broth, or any medium that contains glucose, ammonium phosphate monobasic, sodium chloride, magnesium sulfate, potassium phosphate dibasic, and water. Growth can be driven by aerobic or anaerobic respiration, using a large variety of redox pairs, including the oxidation of pyruvic acid, formic acid, hydrogen, and amino acids, and the reduction of substrates such as oxygen, nitrate, fumarate, dimethyl sulfoxide, and trimethylamine N-oxide.[30] E. coli is classified as a facultative anaerobe. It uses oxygen when it is present and available. It can, however, continue to grow in the absence of oxygen using fermentation or anaerobic respiration. Respiration type is managed in part by the arc system.  The ability to continue growing in the absence of oxygen is an advantage to bacteria because their survival is increased in environments where water predominates.[16]
+ Redistribution of fluxes between the three primary glucose catabolic pathways: EMPP (red), EDP (blue), and OPPP (orange) via the knockout of pfkA and overexpression of EDP genes (edd and eda).
+Cell cycle
+Main article: Cell cycle
+The bacterial cell cycle is divided into three stages.  The B period occurs between the completion of cell division and the beginning of DNA replication.  The C period encompasses the time it takes to replicate the chromosomal DNA.  The D period refers to the stage between the conclusion of DNA replication and the end of cell division.[31]  The doubling rate of E. coli is higher when more nutrients are available.  However, the length of the C and D periods do not change, even when the doubling time becomes less than the sum of the C and D periods.  At the fastest growth rates, replication begins before the previous round of replication has completed, resulting in multiple replication forks along the DNA and overlapping cell cycles.[32]
+The number of replication forks in fast growing E. coli typically follows 2n (n = 1, 2 or 3). This only happens if replication is initiated simultaneously from all origins of replications, and is referred to as synchronous replication. However, not all cells in a culture replicate synchronously. In this case cells do not have multiples of two replication forks. Replication initiation is then referred to being asynchronous.[33] However, asynchrony can be caused by mutations to for instance DnaA[33] or DnaA initiator-associating protein DiaA.[34]
+Although E. coli reproduces by binary fission the two supposedly identical cells produced by cell division are functionally asymmetric with the old pole cell acting as an aging parent that repeatedly produces rejuvenated offspring.[35] When exposed to an elevated stress level, damage accumulation in an old E. coli lineage may surpass its immortality threshold so that it arrests division and becomes mortal.[36] Cellular aging is a general process, affecting prokaryotes and eukaryotes alike.[36]
+Genetic adaptation
+E. coli and related bacteria possess the ability to transfer DNA via bacterial conjugation or transduction, which allows genetic material to spread horizontally through an existing population. The process of transduction, which uses the bacterial virus called a bacteriophage,[37] is where the spread of the gene encoding for the Shiga toxin from the Shigella bacteria to E. coli helped produce E. coli O157:H7, the Shiga toxin-producing strain of E. coli.
+Diversity
+E. coli encompasses an enormous population of bacteria that exhibit a very high degree of both genetic and phenotypic diversity. Genome sequencing of many isolates of E. coli and related bacteria shows that a taxonomic reclassification would be desirable. However, this has not been done, largely due to its medical importance,[38] and E. coli remains one of the most diverse bacterial species: only 20% of the genes in a typical E. coli genome is shared among all strains.[39]
+In fact, from the more constructive point of view, the members of genus Shigella (S. dysenteriae, S. flexneri, S. boydii, and S. sonnei) should be classified as E. coli strains, a phenomenon termed taxa in disguise.[40] Similarly, other strains of E. coli (e.g. the K-12 strain commonly used in recombinant DNA work) are sufficiently different that they would merit reclassification.
+A strain is a subgroup within the species that has unique characteristics that distinguish it from other strains. These differences are often detectable only at the molecular level; however, they may result in changes to the physiology or lifecycle of the bacterium. For example, a strain may gain pathogenic capacity, the ability to use a unique carbon source, the ability to take upon a particular ecological niche, or the ability to resist antimicrobial agents. Different strains of E. coli are often host-specific, making it possible to determine the source of fecal contamination in environmental samples.[13][14] For example, knowing which E. coli strains are present in a water sample allows researchers to make assumptions about whether the contamination originated from a human, another mammal, or a bird. A colony of E. coli growing
+Serotypes
+ E. coli on sheep blood agar.
+Main article: Pathogenic Escherichia coli  Serotypes
+A common subdivision system of E. coli, but not based on evolutionary relatedness, is by serotype, which is based on major surface antigens (O antigen: part of lipopolysaccharide layer; H: flagellin; K antigen: capsule), e.g. O157:H7).[41] It is, however, common to cite only the serogroup, i.e. the O-antigen. At present, about 190 serogroups are known.[42] The common laboratory strain has a mutation that prevents the formation of an O-antigen and is thus not typeable.
+Genome plasticity and evolution
+ E. coli growing on basic cultivation media.
+Like all lifeforms, new strains of E. coli evolve through the natural biological processes of mutation, gene duplication, and horizontal gene transfer; in particular, 18% of the genome of the laboratory strain MG1655 was horizontally acquired since the divergence from Salmonella.[43] E. coli K-12 and E. coli B strains are the most frequently used varieties for laboratory purposes. Some strains develop traits that can be harmful to a host animal. These virulent strains typically cause a bout of diarrhea that is often self-limiting in healthy adults but is frequently lethal to children in the developing world.[44] More virulent strains, such as O157:H7, cause serious illness or death in the elderly, the very young, or the immunocompromised.[44][45]
+The genera Escherichia and Salmonella diverged around 102 million years ago (credibility interval: 57 176 mya), an event unrelated to the much earlier (see Synapsid) divergence of their hosts: the former being found in mammals and the latter in birds and reptiles.[46] This was followed by a split of an Escherichia ancestor into five species (E. albertii, E. coli, E. fergusonii, E. hermannii, and E. vulneris). The last E. coli ancestor split between 20 and 30 million years ago.[47]
+The long-term evolution experiments using E. coli, begun by Richard Lenski in 1988, have allowed direct observation of genome evolution over more than 65,000 generations in the laboratory.[48] For instance, E. coli typically do not have the ability to grow aerobically with citrate as a carbon source, which is used as a diagnostic criterion with which to differentiate E. coli from other, closely, related bacteria such as Salmonella. In this experiment, one population of E. coli unexpectedly evolved the ability to aerobically metabolize citrate, a major evolutionary shift with some hallmarks of microbial speciation. Scanning electron micrograph of an E. coli colony.
+In the microbial world, a relationship of predation can be established similar to that observed in the animal world. Considered, it has been seen that E. coli is the prey of multiple generalist predators, such as Myxococcus xanthus. In this predator-prey relationship, a parallel evolution of both species is observed through genomic and phenotypic modifications, in the case of E. coli the modifications are modified in two aspects involved in their virulence such as mucoid production (excessive production of exoplasmic acid alginate ) and the suppression of the OmpT gene, producing in future generations a better adaptation of one of the species that is counteracted by the evolution of the other, following a co-evolutionary model demonstrated by the Red Queen hypothesis.[49]
+Neotype strain
+E. coli is the type species of the genus (Escherichia) and in turn Escherichia is the type genus of the family Enterobacteriaceae, where the family name does not stem from the genus Enterobacter + "i" (sic.) + "aceae", but from "enterobacterium" + "aceae" (enterobacterium being not a genus, but an alternative trivial name to enteric bacterium).[50][51][52]
+The original strain described by Escherich is believed to be lost, consequently a new type strain (neotype) was chosen as a representative: the neotype strain is U5/41T,[53] also known under the deposit names DSM 30083,[54] ATCC 11775,[55] and NCTC 9001,[56] which is pathogenic to chickens and has an O1:K1:H7 serotype.[57] However, in most studies, either O157:H7, K-12 MG1655, or K-12 W3110 were used as a representative E. coli. The genome of the type strain has only lately been sequenced.[53]
+Phylogeny of E. coli strains
+This section's factual accuracy may be compromised due to out-of-date information. The reason given is: Cladogram uses an OR extension of Sims & Kim 2011, which is outdated anyways and should be replaced by Meier-Kolthoff et al. 2014 (fig 6).. Relevant discussion may be found on the talk page. Please help update this article to reflect recent events or newly available information. (January 2021)
+Many strains belonging to this species have been isolated and characterised. In addition to serotype (vide supra), they can be classified according to their phylogeny, i.e. the inferred evolutionary history, as shown below where the species is divided into six groups as of 2014.[58][59] Particularly the use of whole genome sequences yields highly supported phylogenies.[53] The phylogroup structure remains robust to newer methods and sequences, which sometimes adds newer groups, giving 8 or 14 as of 2023.[60][61]
+The link between phylogenetic distance ("relatedness") and pathology is small,[53] e.g. the O157:H7 serotype strains, which form a clade ("an exclusive group") group E below are all enterohaemorragic strains (EHEC), but not all EHEC strains are closely related. In fact, four different species of Shigella are nested among E. coli strains (vide supra), while E. albertii and E. fergusonii are outside this group. Indeed, all Shigella species were placed within a single subspecies of E. coli in a phylogenomic study that included the type strain.[53] All commonly used research strains of E. coli belong to group A and are derived mainly from Clifton's K-12 strain ( + F+; O16) and to a lesser degree from d'Herelle's "Bacillus coli" strain (B strain; O7).
+There have been multiple proposals to revise the taxonomy to match phylogeny.[53] However, all these proposals need to face the fact that Shigella remains a widely used name in medicine and find ways to reduce any confusion that can stem from renaming.[62]
+Salmonella enterica
+E. albertii
+E. fergusonii
+Group B2
+E. coli SE15 (O150:H5. Commensal)
+E. coli E2348/69 (O127:H6. Enteropathogenic)
+E. coli ED1a O81 (Commensal)
+E. coli CFT083 (O6:K2:H1. UPEC)
+E. coli APEC O1 (O1:K12:H7. APEC
+E. coli UTI89 O18:K1:H7. UPEC)
+E. coli S88  (O45:K1. Extracellular pathogenic)
+E. coli F11
+E. coli 536
+Group D
+E. coli UMN026 (O17:K52:H18. Extracellular pathogenic)
+E. coli (O19:H34. Extracellular pathogenic)
+E. coli (O7:K1. Extracellular pathogenic)
+Group E
+E. coli EDL933 (O157:H7  EHEC)
+E. coli Sakai (O157:H7 EHEC)
+E. coli EC4115 (O157:H7 EHEC)
+E. coli TW14359 (O157:H7 EHEC)
+Shigella
+Shigella dysenteriae
+Shigella sonnei
+Shigella boydii
+Shigella flexneri
+Group B1
+E. coli E24377A (O139:H28. Enterotoxigenic)
+E. coli E110019
+E. coli 11368 (O26:H11. EHEC)
+E. coli 11128 (O111:H-. EHEC)
+E. coli IAI1 O8 (Commensal)
+E. coli 53638 (EIEC)
+E. coli SE11 (O152:H28. Commensal)
+E. coli B7A
+E. coli 12009 (O103:H2. EHEC)
+E. coli GOS1 (O104:H4 EAHEC) German 2011 outbreak
+E. coli E22
+E. coli Oslo O103
+E. coli 55989 (O128:H2. Enteroaggressive)
+Group A
+E. coli HS (O9:H4. Commensal)
+E. coli ATCC8739 (O146. Crook's E.coli used in phage work in the 1950s)
+K 12 strain derivatives
+E. coli K-12 W3110 (O16.   F  "wild type" molecular biology strain)
+E. coli K-12 DH10b (O16. high electrocompetency molecular biology strain)
+E. coli K-12 DH1  (O16. high chemical competency molecular biology strain)
+E. coli K-12 MG1655 (O16.   F  "wild type" molecular biology strain)
+E. coli BW2952 (O16. competent molecular biology strain)
+E. coli 101-1 (O? H?. EAEC)
+B strain derivatives
+E. coli B REL606 (O7. high competency molecular biology strain)
+E. coli BL21-DE3 (O7. expression molecular biology strain with T7 polymerase for pET system)
+Genomics
+ An image of E. coli using early electron microscopy.
+The first complete DNA sequence of an E. coli genome (laboratory strain K-12 derivative MG1655) was published in 1997. It is a circular DNA molecule 4.6 million base pairs in length, containing 4288 annotated protein-coding genes (organized into 2584 operons), seven ribosomal RNA (rRNA) operons, and 86 transfer RNA (tRNA) genes. Despite having been the subject of intensive genetic analysis for about 40 years, many of these genes were previously unknown. The coding density was found to be very high, with a mean distance between genes of only 118 base pairs. The genome was observed to contain a significant number of transposable genetic elements, repeat elements, cryptic prophages, and bacteriophage remnants.[63]
+More than three hundred complete genomic sequences of Escherichia and Shigella species are known. The genome sequence of the type strain of E. coli was added to this collection before 2014.[53] Comparison of these sequences shows a remarkable amount of diversity; only about 20% of each genome represents sequences present in every one of the isolates, while around 80% of each genome can vary among isolates.[39] Each individual genome contains between 4,000 and 5,500 genes, but the total number of different genes among all of the sequenced E. coli strains (the pangenome) exceeds 16,000. This very large variety of component genes has been interpreted to mean that two-thirds of the E. coli pangenome originated in other species and arrived through the process of horizontal gene transfer.[64]
+Gene nomenclature
+See also: Gene nomenclature  Bacterial genetic nomenclature
+Genes in E. coli are usually named in accordance with the uniform nomenclature proposed by Demerec et al.[65] Gene names are 3-letter acronyms that derive from their function (when known) or mutant phenotype and are italicized. When multiple genes have the same acronym, the different genes are designated by a capital later that follows the acronym and is also italicized. For instance, recA is named after its role in homologous recombination plus the letter A. Functionally related genes are named recB, recC, recD etc. The proteins are named by uppercase acronyms, e.g. RecA, RecB, etc. When the genome of E. coli strain K-12 substr. MG1655 was sequenced, all known or predicted protein-coding genes were numbered (more or less) in their order on the genome and abbreviated by b numbers, such as b2819 (= recD). The "b" names were created after Fred Blattner, who led the genome sequence effort.[63] Another numbering system was introduced with the sequence of another E. coli K-12 substrain, W3110, which was sequenced in Japan and hence uses numbers starting by JW... (Japanese W3110), e.g. JW2787 (= recD).[66]  Hence, recD = b2819 = JW2787. Note, however, that most databases have their own numbering system, e.g. the EcoGene database[67]  uses EG10826 for recD. Finally, ECK numbers are specifically used for alleles in the MG1655 strain of E. coli K-12.[67] Complete lists of genes and their synonyms can be obtained from databases such as EcoGene or Uniprot.
+Proteomics
+Proteome
+The genome sequence of E. coli predicts 4288 protein-coding genes, of which 38 percent initially had no attributed function. Comparison with five other sequenced microbes reveals ubiquitous as well as narrowly distributed gene families; many families of similar genes within E. coli are also evident. The largest family of paralogous proteins contains 80 ABC transporters. The genome as a whole is strikingly organized with respect to the local direction of replication; guanines, oligonucleotides possibly related to replication and recombination, and most genes are so oriented. The genome also contains insertion sequence (IS) elements, phage remnants, and many other patches of unusual composition indicating genome plasticity through horizontal transfer.[63]
+Several studies have experimentally investigated the proteome of E. coli. By 2006, 1,627 (38%) of the predicted proteins (open reading frames, ORFs) had been identified experimentally.[68] Mateus et al. 2020 detected 2,586 proteins with at least 2 peptides (60% of all proteins).[69]
+Post-translational modifications (PTMs)
+Although much fewer bacterial proteins seem to have post-translational modifications (PTMs) compared to eukaryotic proteins, a substantial number of proteins are modified in E. coli. For instance, Potel et al. (2018) found 227 phosphoproteins of which 173 were phosphorylated on histidine. Interestingly, the majority of phosphorylated amino acids were serine (1,220 sites) with only 246 sites on histidine and 501 phosphorylated threonines and 162 tyrosines.[70]
+Interactome
+The interactome of E. coli has been studied by affinity purification and mass spectrometry (AP/MS) and by analyzing the binary interactions among its proteins.
+Protein complexes. A 2006 study purified 4,339 proteins from cultures of strain K-12 and found interacting partners for 2,667 proteins, many of which had unknown functions at the time.[71] A 2009 study found 5,993 interactions between proteins of the same E. coli strain, though these data showed little overlap with those of the 2006 publication.[72]
+Binary interactions. Rajagopala et al. (2014) have carried out systematic yeast two-hybrid screens with most E. coli proteins, and found a total of 2,234 protein-protein interactions.[73] This study also integrated genetic interactions and protein structures and mapped 458 interactions within 227 protein complexes.
+Normal microbiota
+E. coli belongs to a group of bacteria informally known as coliforms that are found in the gastrointestinal tract of warm-blooded animals.[50] E. coli normally colonizes an infant's gastrointestinal tract within 40 hours of birth, arriving with food or water or from the individuals handling the child.  In the bowel, E. coli adheres to the mucus of the large intestine. It is the primary facultative anaerobe of the human gastrointestinal tract.[74] (Facultative anaerobes are organisms that can grow in either the presence or absence of oxygen.) As long as these bacteria do not acquire genetic elements encoding for virulence factors, they remain benign commensals.[75]
+Therapeutic use
+Due to the low cost and speed with which it can be grown and modified in laboratory settings, E. coli is a popular expression platform for the production of recombinant proteins used in therapeutics. One advantage to using E. coli over another expression platform is that E. coli naturally does not export many proteins into the periplasm, making it easier to recover a protein of interest without cross-contamination.[76] The E. coli K-12 strains and their derivatives (DH1, DH5 , MG1655, RV308 and W3110) are the strains most widely used by the biotechnology industry.[77] Nonpathogenic E. coli strain Nissle 1917 (EcN), (Mutaflor) and E. coli O83:K24:H31 (Colinfant)[78][79]) are used as probiotic agents in medicine, mainly for the treatment of various gastrointestinal diseases,[80] including inflammatory bowel disease.[81] It is thought that the EcN strain might impede the growth of opportunistic pathogens, including Salmonella and other coliform enteropathogens, through the production of microcin proteins the production of siderophores.[82]
+Role in disease
+Main article: Pathogenic Escherichia coli
+Most E. coli strains do not cause disease, naturally living in the gut,[83] but virulent strains can cause gastroenteritis, urinary tract infections, neonatal meningitis, hemorrhagic colitis, and Crohn's disease.[citation needed] Common signs and symptoms include severe abdominal cramps, diarrhea, hemorrhagic colitis, vomiting, and sometimes fever. In rarer cases, virulent strains are also responsible for bowel necrosis (tissue death) and perforation without progressing to hemolytic-uremic syndrome, peritonitis, mastitis, sepsis, and Gram-negative pneumonia. Very young children are more susceptible to develop severe illness, such as hemolytic uremic syndrome; however, healthy individuals of all ages are at risk to the severe consequences that may arise as a result of being infected with E. coli.[74][84][85][86]
+Some strains of E. coli, for example O157:H7, can produce Shiga toxin (classified as a bioterrorism agent). The Shiga toxin causes inflammatory responses in target cells of the gut, leaving behind lesions which result in the bloody diarrhea that is a symptom of a Shiga toxin-producing E. coli (STEC) infection. This toxin further causes premature destruction of the red blood cells, which then clog the body's filtering system, the kidneys, in some rare cases (usually in children and the elderly) causing hemolytic-uremic syndrome (HUS), which may lead to kidney failure and even death. Signs of hemolytic uremic syndrome include decreased frequency of urination, lethargy, and paleness of cheeks and inside the lower eyelids. In 25% of HUS patients, complications of nervous system occur, which in turn causes strokes.  In addition, this strain causes the buildup of fluid (since the kidneys do not work), leading to edema around the lungs, legs, and arms.  This increase in fluid buildup especially around the lungs impedes the functioning of the heart, causing an increase in blood pressure.[87][85][86]
+Uropathogenic E. coli (UPEC) is one of the main causes of urinary tract infections.[88] It is part of the normal microbiota in the gut and can be introduced in many ways. In particular for females, the direction of wiping after defecation (wiping back to front) can lead to fecal contamination of the urogenital orifices. Anal intercourse can also introduce this bacterium into the male urethra, and in switching from anal to vaginal intercourse, the male can also introduce UPEC to the female urogenital system.
+Enterotoxigenic E. coli (ETEC) is the most common cause of traveler's diarrhea, with as many as 840 million cases worldwide in developing countries each year. The bacteria, typically transmitted through contaminated food or drinking water, adheres to the intestinal lining, where it secretes either of two types of enterotoxins, leading to watery diarrhea. The rate and severity of infections are higher among children under the age of five, including as many as 380,000 deaths annually.[89]
+In May 2011, one E. coli strain, O104:H4, was the subject of a bacterial outbreak that began in Germany. Certain strains of E. coli are a major cause of foodborne illness. The outbreak started when several people in Germany were infected with enterohemorrhagic E. coli (EHEC) bacteria, leading to hemolytic-uremic syndrome (HUS), a medical emergency that requires urgent treatment. The outbreak did not only concern Germany, but also 15 other countries, including regions in North America.[90] On 30 June 2011, the German Bundesinstitut f r Risikobewertung (BfR) (Federal Institute for Risk Assessment, a federal institute within the German Federal Ministry of Food, Agriculture and Consumer Protection) announced that seeds of fenugreek from Egypt were likely the cause of the EHEC outbreak.[91]
+Some studies have demonstrated an absence of E. coli in the gut flora of subjects with the metabolic disorder Phenylketonuria. It is hypothesized that the absence of these normal bacterium impairs the production of the key vitamins B2 (riboflavin) and K2 (menaquinone)   vitamins which are implicated in many physiological roles in humans such as cellular and bone metabolism   and so contributes to the disorder.[92]
+Carbapenem-resistant E. coli (carbapenemase-producing E. coli) that are resistant to the carbapenem class of antibiotics, considered the drugs of last resort for such infections. They are resistant because they produce an enzyme called a carbapenemase that disables the drug molecule.[93]
+Incubation period
+The time between ingesting the STEC bacteria and feeling sick is called the "incubation period". The incubation period is usually 3 4 days after the exposure, but may be as short as 1 day or as long as 10 days. The symptoms often begin slowly with mild belly pain or non-bloody diarrhea that worsens over several days. HUS, if it occurs, develops an average 7 days after the first symptoms, when the diarrhea is improving.[94]
+Diagnosis
+Diagnosis of infectious diarrhea and identification of antimicrobial resistance is performed using a stool culture with subsequent antibiotic sensitivity testing. It requires a minimum of 2 days and maximum of several weeks to culture gastrointestinal pathogens.  The sensitivity (true positive) and specificity (true negative) rates for stool culture vary by pathogen, although a number of human pathogens can not be cultured. For culture-positive samples, antimicrobial resistance testing takes an additional 12 24 hours to perform.
+Current point of care molecular diagnostic tests can identify E. coli and antimicrobial resistance in the identified strains much faster than culture and sensitivity testing. Microarray-based platforms can identify specific pathogenic strains of E. coli and E. coli-specific AMR genes in two hours or less with high sensitivity and specificity, but the size of the test panel (i.e., total pathogens and antimicrobial resistance genes) is limited. Newer metagenomics-based infectious disease diagnostic platforms are currently being developed to overcome the various limitations of culture and all currently available molecular diagnostic technologies.
+Treatment
+The mainstay of treatment is the assessment of dehydration and replacement of fluid and electrolytes. Administration of antibiotics has been shown to shorten the course of illness and duration of excretion of enterotoxigenic E. coli (ETEC) in adults in endemic areas and in traveller's diarrhea, though the rate of resistance to commonly used antibiotics is increasing and they are generally not recommended.[95] The antibiotic used depends upon susceptibility patterns in the particular geographical region. Currently, the antibiotics of choice are fluoroquinolones or azithromycin, with an emerging role for rifaximin. Oral rifaximin, a semisynthetic rifamycin derivative, is an effective and well-tolerated antibacterial for the management of adults with non-invasive traveller's diarrhea. Rifaximin was significantly more effective than placebo and no less effective than ciprofloxacin in reducing the duration of diarrhea. While rifaximin is effective in patients with E. coli-predominant traveller's diarrhea, it appears ineffective in patients infected with inflammatory or invasive enteropathogens.[96]
+Prevention
+ETEC is the type of E. coli that most vaccine development efforts are focused on. Antibodies against the LT and major CFs of ETEC provide protection against LT-producing, ETEC-expressing homologous CFs. Oral inactivated vaccines consisting of toxin antigen and whole cells, i.e. the licensed recombinant cholera B subunit (rCTB)-WC cholera vaccine Dukoral, have been developed. There are currently no licensed vaccines for ETEC, though several are in various stages of development.[97] In different trials, the rCTB-WC cholera vaccine provided high (85 100%) short-term protection. An oral ETEC vaccine candidate consisting of rCTB and formalin inactivated E. coli bacteria expressing major CFs has been shown in clinical trials to be safe, immunogenic, and effective against severe diarrhoea in American travelers but not against ETEC diarrhoea in young children in Egypt. A modified ETEC vaccine consisting of recombinant E. coli strains over-expressing the major CFs and a more LT-like hybrid toxoid called LCTBA, are undergoing clinical testing.[98][99]
+Other proven prevention methods for E. coli transmission include handwashing and improved sanitation and drinking water, as transmission occurs through fecal contamination of food and water supplies. Additionally, thoroughly cooking meat and avoiding consumption of raw, unpasteurized beverages, such as juices and milk are other proven methods for preventing E. coli. Lastly, cross-contamination of utensils and work spaces should be avoided when preparing food.[100]
+Model organism in life science research
+Main article: Escherichia coli in molecular biology
+ Escherichia coli bacterium, 2021, Illustration by David S. Goodsell, RCSB Protein Data BankThis painting shows a cross-section through an Escherichia coli cell. The characteristic two-membrane cell wall of gram-negative bacteria is shown in green, with many lipopolysaccharide chains extending from the surface and a network of cross-linked peptidoglycan strands between the membranes. The genome of the cell forms a loosely-defined "nucleoid", shown here in yellow, and interacts with many DNA-binding proteins, shown in tan and orange. Large soluble molecules, such as ribosomes (colored in reddish purple), mostly occupy the space around the nucleoid.
+ Helium ion microscopy image showing T4 phage infecting E. coli. Some of the attached phage have contracted tails indicating that they have injected their DNA into the host. The bacterial cells are ~ 0.5  m wide.[101]
+Because of its long history of laboratory culture and ease of manipulation, E. coli plays an important role in modern biological engineering and industrial microbiology.[102] The work of Stanley Norman Cohen and Herbert Boyer in E. coli, using plasmids and restriction enzymes to create recombinant DNA, became a foundation of biotechnology.[103]
+E. coli is a very versatile host for the production of heterologous proteins,[104] and various protein expression systems have been developed which allow the production of recombinant proteins in E. coli. Researchers can introduce genes into the microbes using plasmids which permit high level expression of protein, and such protein may be mass-produced in industrial fermentation processes. One of the first useful applications of recombinant DNA technology was the manipulation of E. coli to produce human insulin.[105]
+Many proteins previously thought difficult or impossible to be expressed in E. coli in folded form have been successfully expressed in E. coli. For example, proteins with multiple disulphide bonds may be produced in the periplasmic space or in the cytoplasm of mutants rendered sufficiently oxidizing to allow disulphide-bonds to form,[106] while proteins requiring post-translational modification such as glycosylation for stability or function have been expressed using the N-linked glycosylation system of Campylobacter jejuni engineered into E. coli.[107][108][109]
+Modified E. coli cells have been used in vaccine development, bioremediation, production of biofuels,[110] lighting, and production of immobilised enzymes.[104][111]
+Strain K-12 is a mutant form of E. coli that over-expresses the enzyme Alkaline Phosphatase (ALP).[112] The mutation arises due to a defect in the gene that constantly codes for the enzyme. A gene that is producing a product without any inhibition is said to have constitutive activity. This particular mutant form is used to isolate and purify the aforementioned enzyme.[112]
+Strain OP50 of Escherichia coli is used for maintenance of Caenorhabditis elegans cultures.
+Strain JM109 is a mutant form of E. coli that is recA and endA deficient. The strain can be utilized for blue/white screening when the cells carry the fertility factor episome.[113] Lack of recA decreases the possibility of unwanted restriction of the DNA of interest and lack of endA inhibit plasmid DNA decomposition. Thus, JM109 is useful for cloning and expression systems.
+Model organism
+E. coli is frequently used as a model organism in microbiology studies. Cultivated strains (e.g. E. coli K12) are well-adapted to the laboratory environment, and, unlike wild-type strains, have lost their ability to thrive in the intestine. Many laboratory strains lose their ability to form biofilms.[114][115] These features protect wild-type strains from antibodies and other chemical attacks, but require a large expenditure of energy and material resources. E. coli is often used as a representative microorganism in the research of novel water treatment and sterilisation methods, including photocatalysis. By standard plate count methods, following sequential dilutions, and growth on agar gel plates, the concentration of viable organisms or CFUs (Colony Forming Units), in a known volume of treated water can be evaluated, allowing the comparative assessment of materials performance.[116]
+In 1946, Joshua Lederberg and Edward Tatum first described the phenomenon known as bacterial conjugation using E. coli as a model bacterium,[117] and it remains the primary model to study conjugation.[118] E. coli was an integral part of the first experiments to understand phage genetics,[119] and early researchers, such as Seymour Benzer, used E. coli and phage T4 to understand the topography of gene structure.[120] Prior to Benzer's research, it was not known whether the gene was a linear structure, or if it had a branching pattern.[121]
+E. coli was one of the first organisms to have its genome sequenced; the complete genome of E. coli K12 was published by Science in 1997.[63]
+From 2002 to 2010, a team at the Hungarian Academy of Science created a strain of Escherichia coli called MDS42, which is now sold by Scarab Genomics of Madison, WI under the name of "Clean Genome E. coli",[122] where 15% of the genome of the parental strain (E. coli K-12 MG1655) were removed to aid in molecular biology efficiency, removing IS elements, pseudogenes and phages, resulting in better maintenance of plasmid-encoded toxic genes, which are often inactivated by transposons.[123][124][125] Biochemistry and replication machinery were not altered.
+By evaluating the possible combination of nanotechnologies with landscape ecology, complex habitat landscapes can be generated with details at the nanoscale.[126] On such synthetic ecosystems, evolutionary experiments with E. coli have been performed to study the spatial biophysics of adaptation in an island biogeography on-chip.
+In other studies, non-pathogenic E. coli has been used as a model microorganism towards understanding the effects of simulated microgravity (on Earth) on the same.[127][128]
+Uses in biological computing
+Since 1961, scientists proposed the idea of genetic circuits used for computational tasks.  Collaboration between biologists and computing scientists has allowed designing digital logic gates on the metabolism of E. coli. As Lac operon is a two-stage process, genetic regulation in the bacteria is used to realize computing functions. The process is controlled at the transcription stage of DNA into messenger RNA.[129]
+Studies are being performed attempting to program E. coli to solve complicated mathematics problems, such as the Hamiltonian path problem.[130]
+A computer to control protein production of E. coli within yeast cells has been developed.[131] A method has also been developed to use bacteria to behave as an LCD screen.[132][133]
+In July 2017, separate experiments with E. coli published on Nature showed the potential of using living cells for computing tasks and storing information.[134] A team formed with collaborators of the Biodesign Institute at Arizona State University and Harvard s Wyss Institute for Biologically Inspired Engineering developed a biological computer inside E. coli that responded to a dozen inputs. The team called the computer "ribocomputer", as it was composed of ribonucleic acid.[135][136] Meanwhile, Harvard researchers probed that is possible to store information in bacteria after successfully archiving images and movies in the DNA of living E. coli cells.[137][138]  In 2021, a team led by biophysicist Sangram Bagh realized a study with E. coli to solve 2   2 maze problems to probe the principle for distributed computing among cells.[139][140]
+History
+In 1885, the German-Austrian pediatrician Theodor Escherich discovered this organism in the feces of healthy individuals. He called it Bacterium coli commune because it is found in the colon. Early classifications of prokaryotes placed these in a handful of genera based on their shape and motility (at that time Ernst Haeckel's classification of bacteria in the kingdom Monera was in place).[99][141][142]
+Bacterium coli was the type species of the now invalid genus Bacterium when it was revealed that the former type species ("Bacterium triloculare") was missing.[143] Following a revision of Bacterium, it was reclassified as Bacillus coli by Migula in 1895[144] and later reclassified in the newly created genus Escherichia, named after its original discoverer, by Aldo Castellani and Albert John Chalmers.[145]
+In 1996, the world's worst to date outbreak of E. coli food poisoning occurred in Wishaw, Scotland, killing 21 people.[146][147] This death toll was exceeded in 2011, when the 2011 Germany E. coli O104:H4 outbreak, linked to organic fenugreek sprouts, killed 53 people.
+Uses
+E. coli has several practical uses besides its use as a vector for genetic experiments and processes. For example, E. coli can be used to generate synthetic propane and recombinant human growth hormone.[148][149]
+See also
+Bacteriological water analysis
+BolA-like protein family
+Carbon monoxide-releasing molecules
+Contamination control
+Dam dcm strain
+Eijkman test
+Fecal coliform
+International Code of Nomenclature of Bacteria
+List of strains of Escherichia coli
+Mannan oligosaccharide-based nutritional supplements
+Overflow metabolism
+T4 rII system
+References
+^ "coli". Oxford English Dictionary (Online ed.). Oxford University Press. (Subscription or participating institution membership required.)
+^ a b Wells, J. C. (2000) Longman Pronunciation Dictionary. Harlow [England], Pearson Education Ltd.
+^ Tenaillon O, Skurnik D, Picard B, Denamur E (March 2010). "The population genetics of commensal Escherichia coli". Nature Reviews. Microbiology. 8 (3): 207 17. doi:10.1038/nrmicro2298. PMID 20157339. S2CID 5490303.
+^ Singleton P (1999). Bacteria in Biology, Biotechnology and Medicine (5th ed.). Wiley. pp. 444 54. ISBN 978-0-471-98880-9.
+^ "Escherichia coli". CDC National Center for Emerging and Zoonotic Infectious Diseases. Retrieved 2 October 2012.
+^ Vogt RL, Dippold L (2005). "Escherichia coli O157:H7 outbreak associated with consumption of ground beef, June July 2002". Public Health Reports. 120 (2): 174 78. doi:10.1177/003335490512000211. PMC 1497708. PMID 15842119.
+^ Martinson JNV, Walk ST (2020). "Escherichia coli residency in the gut of healthy human adults". EcoSal Plus. 9 (1). doi:10.1177/003335490512000211. PMC 7523338. PMID 32978935.
+^ Bentley R, Meganathan R (September 1982). "Biosynthesis of vitamin K (menaquinone) in bacteria". Microbiological Reviews. 46 (3): 241 80. doi:10.1128/ecosalplus.ESP-0003-2020. PMC 281544. PMID 6127606.
+^ Hudault S, Guignot J, Servin AL (July 2001). "Escherichia coli strains colonising the gastrointestinal tract protect germfree mice against Salmonella typhimurium infection". Gut. 49 (1): 47 55. doi:10.1136/gut.49.1.47. PMC 1728375. PMID 11413110.
+^ Reid G, Howard J, Gan BS (September 2001). "Can bacterial interference prevent infection?". Trends in Microbiology. 9 (9): 424 28. doi:10.1016/S0966-842X(01)02132-1. PMID 11553454.
+^ Russell JB, Jarvis GN (April 2001). "Practical mechanisms for interrupting the oral-fecal lifecycle of Escherichia coli". Journal of Molecular Microbiology and Biotechnology. 3 (2): 265 72. PMID 11321582.
+^ Eckburg PB, Bik EM, Bernstein CN, Purdom E, Dethlefsen L, Sargent M,  et al. (June 2005). "Diversity of the human intestinal microbial flora". Science. 308 (5728): 1635 38. Bibcode:2005Sci...308.1635E. doi:10.1126/science.1110591. PMC 1395357. PMID 15831718.
+^ a b Feng P, Weagant S, Grant M (1 September 2002). "Enumeration of Escherichia coli and the Coliform Bacteria". Bacteriological Analytical Manual (8th ed.). FDA/Center for Food Safety & Applied Nutrition. Archived from the original on 19 May 2009. Retrieved 25 January 2007.
+^ a b Thompson A (4 June 2007). "E. coli Thrives in Beach Sands". Live Science. Retrieved 3 December 2007.
+^ Montealegre MC, Roy S, B ni F, Hossain MI, Navab-Daneshmand T, Caduff L,  et al. (December 2018). "Risk Factors for Detection, Survival, and Growth of Antibiotic-Resistant and Pathogenic Escherichia coli in Household Soils in Rural Bangladesh". Applied and Environmental Microbiology. 84 (24): e01978 18. Bibcode:2018ApEnM..84E1978M. doi:10.1128/AEM.01978-18. PMC 6275341. PMID 30315075.
+^ a b Tortora G (2010). Microbiology: An Introduction. San Francisco, CA: Benjamin Cummings. pp. 85 87, 161, 165. ISBN 978-0-321-55007-1.
+^ "Bacteria". Microbiologyonline. Archived from the original on 27 February 2014. Retrieved 27 February 2014.
+^ "Escherichia coli". Redorbit. 15 April 2011. Retrieved 27 November 2013.
+^ "Facts about E. coli: dimensions, as discussed in bacteria: Diversity of structure of bacteria". Encyclopaedia Britannica. Retrieved 25 June 2015.
+^ Yu AC, Loo JF, Yu S, Kong SK, Chan TF (January 2014). "Monitoring bacterial growth using tunable resistive pulse sensing with a pore-based technique". Applied Microbiology and Biotechnology. 98 (2): 855 62. doi:10.1007/s00253-013-5377-9. PMID 24287933. S2CID 2956197.
+^ Kubitschek HE (January 1990). "Cell volume increase in Escherichia coli after shifts to richer media". Journal of Bacteriology. 172 (1): 94 101. doi:10.1128/jb.172.1.94-101.1990. PMC 208405. PMID 2403552.
+^ "Escherichia coli Infections   Infections". MSD Manual Consumer Version. Retrieved 6 October 2021.
+^ Darnton NC, Turner L, Rojevsky S, Berg HC (March 2007). "On torque and tumbling in swimming Escherichia coli". Journal of Bacteriology. 189 (5): 1756 64. doi:10.1128/JB.01501-06. PMC 1855780. PMID 17189361.
+^ "E. coli O157 in North America   microbewiki".
+^ Madigan MT, Martinko JM (2006). Brock Biology of microorganisms (11th ed.). Pearson. ISBN 978-0-13-196893-6.
+^ Gleizer S, Ben-Nissan R, Bar-On YM, Antonovsky N, Noor E, Zohar Y,  et al. (November 2019). "2". Cell. 179 (6): 1255 1263.e12. doi:10.1016/j.cell.2019.11.009. PMC 6904909. PMID 31778652.
+^ Hollinshead WD, Rodriguez S, Martin HG, Wang G, Baidoo EE, Sale KL,  et al. (10 October 2016). "pfk mutants". Biotechnology for Biofuels. 9 (1): 212. doi:10.1186/s13068-016-0630-y. PMC 5057261. PMID 27766116.
+^ Ammar EM, Wang X, Rao CV (January 2018). "Regulation of metabolism in Escherichia coli during growth on mixtures of the non-glucose sugars: arabinose, lactose, and xylose". Scientific Reports. 8 (1): 609. Bibcode:2018NatSR...8..609A. doi:10.1038/s41598-017-18704-0. PMC 5766520. PMID 29330542.
+^ Fotadar U, Zaveloff P, Terracio L (2005). "Growth of Escherichia coli at elevated temperatures". Journal of Basic Microbiology. 45 (5): 403 04. doi:10.1002/jobm.200410542. PMID 16187264. S2CID 44876092.
+^ Ingledew WJ, Poole RK (September 1984). "The respiratory chains of Escherichia coli". Microbiological Reviews. 48 (3): 222 71. doi:10.1128/MMBR.48.3.222-271.1984. PMC 373010. PMID 6387427.
+^ Wang JD, Levin PA (November 2009). "Metabolism, cell growth and the bacterial cell cycle". Nature Reviews. Microbiology. 7 (11): 822 27. doi:10.1038/nrmicro2202. PMC 2887316. PMID 19806155.
+^ Cooper S, Helmstetter CE (February 1968). "Chromosome replication and the division cycle of Escherichia coli B/r". Journal of Molecular Biology. 31 (3): 519 40. doi:10.1016/0022-2836(68)90425-7. PMID 4866337.
+^ a b Skarstad K, Boye E, Steen HB (July 1986). "Timing of initiation of chromosome replication in individual Escherichia coli cells". The EMBO Journal. 5 (7): 1711 7. doi:10.1002/j.1460-2075.1986.tb04415.x. PMC 1166998. PMID 3527695.
+^ Ishida T, Akimitsu N, Kashioka T, Hatano M, Kubota T, Ogata Y,  et al. (October 2004). "DiaA, a novel DnaA-binding protein, ensures the timely initiation of Escherichia coli chromosome replication". The Journal of Biological Chemistry. 279 (44): 45546 55. doi:10.1074/jbc.M402762200. PMID 15326179.
+^ Stewart EJ, Madden R, Paul G, Taddei F (February 2005). "Aging and death in an organism that reproduces by morphologically symmetric division". Plos Biology. 3 (2): e45. doi:10.1371/journal.pbio.0030045. PMC 546039. PMID 15685293.
+^ a b Proenca AM, Rang CU, Qiu A, Shi C, Chao L (May 2019). "Cell aging preserves cellular immortality in the presence of lethal levels of damage". Plos Biology. 17 (5): e3000266. doi:10.1371/journal.pbio.3000266. PMC 6532838. PMID 31120870.
+^ Br ssow H, Canchaya C, Hardt WD (September 2004). "Phages and the evolution of bacterial pathogens: from genomic rearrangements to lysogenic conversion". Microbiology and Molecular Biology Reviews. 68 (3): 560 602, table of contents. doi:10.1128/MMBR.68.3.560-602.2004. PMC 515249. PMID 15353570.
+^ Krieg NR, Holt JG, eds. (1984). Bergey's Manual of Systematic Bacteriology. Vol. 1 (First ed.). Baltimore: The Williams & Wilkins Co. pp. 408 20. ISBN 978-0-683-04108-8.
+^ a b Lukjancenko O, Wassenaar TM, Ussery DW (November 2010). "Comparison of 61 sequenced Escherichia coli genomes". Microbial Ecology. 60 (4): 708 20. doi:10.1007/s00248-010-9717-3. PMC 2974192. PMID 20623278.
+^ Lan R, Reeves PR (September 2002). "Escherichia coli in disguise: molecular origins of Shigella". Microbes and Infection. 4 (11): 1125 32. doi:10.1016/S1286-4579(02)01637-4. PMID 12361912.
+^ Orskov I, Orskov F, Jann B, Jann K (September 1977). "Serology, chemistry, and genetics of O and K antigens of Escherichia coli". Bacteriological Reviews. 41 (3): 667 710. doi:10.1128/MMBR.41.3.667-710.1977. PMC 414020. PMID 334154.
+^ Stenutz R, Weintraub A, Widmalm G (May 2006). "The structures of Escherichia coli O-polysaccharide antigens". FEMS Microbiology Reviews. 30 (3): 382 403. doi:10.1111/j.1574-6976.2006.00016.x. PMID 16594963.
+^ Lawrence JG, Ochman H (August 1998). "Molecular archaeology of the Escherichia coli genome". Proceedings of the National Academy of Sciences of the United States of America. 95 (16): 9413 17. Bibcode:1998PNAS...95.9413L. doi:10.1073/pnas.95.16.9413. PMC 21352. PMID 9689094.
+^ a b Nataro JP, Kaper JB (January 1998). "Diarrheagenic Escherichia coli". Clinical Microbiology Reviews. 11 (1): 142 201. doi:10.1128/CMR.11.1.142. PMC 121379. PMID 9457432.
+^ Viljanen MK, Peltola T, Junnila SY, Olkkonen L, J rvinen H, Kuistila M, Huovinen P (October 1990). "Outbreak of diarrhoea due to Escherichia coli O111:B4 in schoolchildren and adults: association of Vi antigen-like reactivity". Lancet. 336 (8719): 831 34. doi:10.1016/0140-6736(90)92337-H. PMID 1976876. S2CID 23087850.
+^ Battistuzzi FU, Feijao A, Hedges SB (November 2004). "A genomic timescale of prokaryote evolution: insights into the origin of methanogenesis, phototrophy, and the colonization of land". BMC Evolutionary Biology. 4: 44. doi:10.1186/1471-2148-4-44. PMC 533871. PMID 15535883.
+^ Lecointre G, Rachdi L, Darlu P, Denamur E (December 1998). "Escherichia coli molecular phylogeny using the incongruence length difference test". Molecular Biology and Evolution. 15 (12): 1685 95. doi:10.1093/oxfordjournals.molbev.a025895. PMID 9866203.
+^ Holmes B (9 June 2008). "Bacteria make major evolutionary shift in the lab". New Scientist. Archived from the original on 28 August 2008.
+^ Nair RR, Vasse M, Wielgoss S, Sun L, Yu YN, Velicer GJ (September 2019). "Bacterial predator-prey coevolution accelerates genome evolution and selects on virulence-associated prey defences". Nature Communications. 10 (1): 4301. Bibcode:2019NatCo..10.4301N. doi:10.1038/s41467-019-12140-6. PMC 6754418. PMID 31541093.
+^ a b Brenner DJ, Krieg NR, Staley JT (26 July 2005) [1984 (Williams & Wilkins)].  Garrity GM (ed.). The Gammaproteobacteria. Bergey's Manual of Systematic Bacteriology. Vol. 2B (2nd ed.). New York: Springer. p. 1108. ISBN 978-0-387-24144-9. British Library no. GBA561951.
+^ Euz by JP (April 1997). "List of Bacterial Names with Standing in Nomenclature: a folder available on the Internet". International Journal of Systematic Bacteriology. 47 (2): 590 2. doi:10.1099/00207713-47-2-590. PMID 9103655.
+^ "Conservation of the family name Enterobacteriaceae, of the name of the type genus, and designation of the type species". International Bulletin of Bacteriological Nomenclature and Taxonomy. 8 (1): 73 74. 1 January 1958. doi:10.1099/0096266X-8-1-73.
+^ a b c d e f g Meier-Kolthoff JP, Hahnke RL, Petersen J, Scheuner C, Michael V, Fiebig A,  et al. (2013). "Complete genome sequence of DSM 30083(T), the type strain (U5/41(T)) of Escherichia coli, and a proposal for delineating subspecies in microbial taxonomy". Standards in Genomic Sciences. 9: 2. doi:10.1186/1944-3277-9-2. PMC 4334874. PMID 25780495.
+^ "Details: DSM-30083". dsmz.de. Retrieved 10 January 2017.
+^ "Escherichia coli (Migula) Castellani and Chalmers ATCC 11775&tra". atcc.org. Archived from the original on 4 December 2012. Retrieved 10 January 2017.
+^ "Escherichia". LPSN. Retrieved 6 February 2011.
+^ "Escherichia coli (Migula 1895) Castellani and Chalmers 1919". JCM Catalogue.
+^ Sims GE, Kim SH (May 2011). "Whole-genome phylogeny of Escherichia coli/Shigella group by feature frequency profiles (FFPs)". Proceedings of the National Academy of Sciences of the United States of America. 108 (20): 8329 34. Bibcode:2011PNAS..108.8329S. doi:10.1073/pnas.1105168108. PMC 3100984. PMID 21536867.
+^ Brzuszkiewicz E, Th rmer A, Schuldes J, Leimbach A, Liesegang H, Meyer FD,  et al. (December 2011). "Genome sequence analyses of two isolates from the recent Escherichia coli outbreak in Germany reveal the emergence of a new pathotype: Entero-Aggregative-Haemorrhagic Escherichia coli (EAHEC)". Archives of Microbiology. 193 (12): 883 91. doi:10.1007/s00203-011-0725-6. PMC 3219860. PMID 21713444.
+^ Koh XP, Shen Z, Woo CF, Yu Y, Lun HI, Cheung SW,  et al. (2022). "Genetic and Ecological Diversity of Escherichia coli and Cryptic Escherichia Clades in Subtropical Aquatic Environments". Frontiers in Microbiology. 13: 811755. doi:10.3389/fmicb.2022.811755. PMC 8891540. PMID 35250929.
+^ Abram K, Udaondo Z, Bleker C, Wanchai V, Wassenaar TM, Robeson MS, Ussery DW (January 2021). "Mash-based analyses of Escherichia coli genomes reveal 14 distinct phylogroups". Communications Biology. 4 (1): 117. doi:10.1038/s42003-020-01626-5. PMC 7838162. PMID 33500552.
+^ Cobo-Sim n M, Hart R, Ochman H (January 2023). "Escherichia Coli: What Is and Which Are?". Molecular Biology and Evolution. 40 (1): msac273. doi:10.1093/molbev/msac273. PMC 9830988. PMID 36585846.
+^ a b c d Blattner FR, Plunkett G, Bloch CA, Perna NT, Burland V, Riley M,  et al. (September 1997). "The complete genome sequence of Escherichia coli K-12". Science. 277 (5331): 1453 62. doi:10.1126/science.277.5331.1453. PMID 9278503.
+^ Zhaxybayeva O, Doolittle WF (April 2011). "Lateral gene transfer". Current Biology. 21 (7): R242 46. doi:10.1016/j.cub.2011.01.045. PMID 21481756. S2CID 14499247.
+^ Demerec M, Adelberg EA, Clark AJ, Hartman PE (July 1966). "A proposal for a uniform nomenclature in bacterial genetics". Genetics. 54 (1): 61 76. doi:10.1093/genetics/54.1.61. PMC 1211113. PMID 5961488.
+^ Hayashi K, Morooka N, Yamamoto Y, Fujita K, Isono K, Choi S,  et al. (2006). "Highly accurate genome sequences of Escherichia coli K-12 strains MG1655 and W3110". Molecular Systems Biology. 2: 2006.0007. doi:10.1038/msb4100049. PMC 1681481. PMID 16738553.
+^ a b Zhou J, Rudd KE (January 2013). "EcoGene 3.0". Nucleic Acids Research. 41 (Database issue): D613 24. doi:10.1093/nar/gks1235. PMC 3531124. PMID 23197660.
+^ Han MJ, Lee SY (June 2006). "The Escherichia coli proteome: past, present, and future prospects". Microbiology and Molecular Biology Reviews. 70 (2): 362 439. doi:10.1128/MMBR.00036-05. PMC 1489533. PMID 16760308.
+^ Mateus A, Hevler J, Bobonis J, Kurzawa N, Shah M, Mitosch K,  et al. (December 2020). "The functional proteome landscape of Escherichia coli". Nature. 588 (7838): 473 478. Bibcode:2020Natur.588..473M. doi:10.1038/s41586-020-3002-5. PMC 7612278. PMID 33299184.
+^ Potel CM, Lin MH, Heck AJ, Lemeer S (March 2018). "Widespread bacterial protein histidine phosphorylation revealed by mass spectrometry-based proteomics". Nature Methods. 15 (3): 187 190. doi:10.1038/nmeth.4580. hdl:1874/362159. PMID 29377012. S2CID 3367416.
+^ Arifuzzaman M, Maeda M, Itoh A, Nishikata K, Takita C, Saito R,  et al. (May 2006). "Large-scale identification of protein-protein interaction of Escherichia coli K-12". Genome Research. 16 (5): 686 91. doi:10.1101/gr.4527806. PMC 1457052. PMID 16606699.
+^ Hu P, Janga SC, Babu M, D az-Mej a JJ, Butland G, Yang W,  et al. (April 2009).  Levchenko A (ed.). "Global functional atlas of Escherichia coli encompassing previously uncharacterized proteins". PLOS Biology. 7 (4): e96. doi:10.1371/journal.pbio.1000096. PMC 2672614. PMID 19402753.
+^ Rajagopala SV, Sikorski P, Kumar A, Mosca R, Vlasblom J, Arnold R,  et al. (March 2014). "The binary protein-protein interaction landscape of Escherichia coli". Nature Biotechnology. 32 (3): 285 90. doi:10.1038/nbt.2831. PMC 4123855. PMID 24561554.
+^ a b Todar K. "Pathogenic E. coli". Online Textbook of Bacteriology. University of Wisconsin Madison Department of Bacteriology. Retrieved 30 November 2007.
+^ Evans Jr DJ, Evans DG. "Escherichia Coli". Medical Microbiology, 4th edition. The University of Texas Medical Branch at Galveston. Archived from the original on 2 November 2007. Retrieved 2 December 2007.
+^ Guerrero Montero I, Dolata KM, Schl ter R, Malherbe G, Sievers S, Z hlke D,  et al. (January 2019). "Comparative proteome analysis in an Escherichia coli CyDisCo strain identifies stress responses related to protein production, oxidative stress and accumulation of misfolded protein". Microbial Cell Factories. 18 (1): 19. doi:10.1186/s12934-019-1071-7. PMC 6350376. PMID 30696436.
+^ Selas Casti eiras T, Williams SG, Hitchcock AG, Smith DC (August 2018). "E. coli strain engineering for the production of advanced biopharmaceutical products". FEMS Microbiology Letters. 365 (15). doi:10.1093/femsle/fny162. PMID 29982628. S2CID 51602230.
+^ Wassenaar TM (September 2016). "E. coli". European Journal of Microbiology & Immunology. 6 (3): 147 61. doi:10.1556/1886.2016.00029. PMC 5063008. PMID 27766164.
+^ Lodinov -Z dn kov  R, Cukrowska B, Tlaskalova-Hogenova H (July 2003). "Oral administration of probiotic Escherichia coli after birth reduces frequency of allergies and repeated infections later in life (after 10 and 20 years)". International Archives of Allergy and Immunology. 131 (3): 209 11. doi:10.1159/000071488. PMID 12876412. S2CID 19686481.
+^ Grozdanov L, Raasch C, Schulze J, Sonnenborn U, Gottschalk G, Hacker J, Dobrindt U (August 2004). "Analysis of the genome structure of the nonpathogenic probiotic Escherichia coli strain Nissle 1917". Journal of Bacteriology. 186 (16): 5432 41. doi:10.1128/JB.186.16.5432-5441.2004. PMC 490877. PMID 15292145.
+^ Kamada N, Inoue N, Hisamatsu T, Okamoto S, Matsuoka K, Sato T,  et al. (May 2005). "Nonpathogenic Escherichia coli strain Nissle1917 prevents murine acute and chronic colitis". Inflammatory Bowel Diseases. 11 (5): 455 63. doi:10.1097/01.MIB.0000158158.55955.de. PMID 15867585. S2CID 23386584.
+^ Charbonneau MR, Isabella VM, Li N, Kurtz CB (April 2020). "Developing a new class of engineered live bacterial therapeutics to treat human diseases". Nature Communications. 11 (1): 1738. Bibcode:2020NatCo..11.1738C. doi:10.1038/s41467-020-15508-1. PMC 7142098. PMID 32269218.
+^ "E. coli". mayoclinic.org   Mayo Clinic. Retrieved 10 January 2017.
+^ Lim JY, Yoon J, Hovde CJ (January 2010). "A brief overview of Escherichia coli O157:H7 and its plasmid O157". Journal of Microbiology and Biotechnology. 20 (1): 5 14. doi:10.4014/jmb.0908.08007. PMC 3645889. PMID 20134227.
+^ a b "E. coli". World Health Organization. 7 February 2018.
+^ a b "E. coli Infection". U.S. Centers for Disease Control and Prevention. 15 June 2018. Archived from the original on 1 February 2014.
+^ "Hemolytic uremic syndrome (HUS)". Mayo Clinic.
+^ "Uropathogenic Escherichia coli: The Pre-Eminent Urinary Tract Infection Pathogen". Nova publishers. Archived from the original on 2 December 2013. Retrieved 27 November 2013.
+^ Croxen MA, Law RJ, Scholz R, Keeney KM, Wlodarska M, Finlay BB (October 2013). "Recent advances in understanding enteric pathogenic Escherichia coli". Clinical Microbiology Reviews. 26 (4): 822 80. doi:10.1128/CMR.00022-13. PMC 3811233. PMID 24092857.
+^ "Outbreaks of E. coli O104:H4 infection: update 29". WHO. 7 July 2011. Archived from the original on 8 August 2011.
+^ "Samen von Bockshornklee mit hoher Wahrscheinlichkeit f r EHEC O104:H4 Ausbruch verantwortlich in English: Fenugreek seeds with high probability for EHEC O104: H4 responsible outbreak" (PDF) (in German). Bundesinstitut f r Risikobewertung (BfR) (Federal Institute for Risk Assessment). 30 June 2011. Retrieved 17 July 2011.
+^ Al-Zyoud W, Nasereddin A, Aljarajrah H, Saket M (November 2019). "Escherichia coli in children with phenylketonuria". New Microbes and New Infections. 32: 100616. doi:10.1016/j.nmni.2019.100616. PMC 6859276. PMID 31763047.
+^ Ghaith DM, Mohamed ZK, Farahat MG, Aboulkasem Shahin W, Mohamed HO (March 2019). "Colonization of intestinal microbiota with carbapenemase-producing Enterobacteriaceae in paediatric intensive care units in Cairo, Egypt". Arab Journal of Gastroenterology. 20 (1): 19 22. doi:10.1016/j.ajg.2019.01.002. PMID 30733176. S2CID 73444389.
+^ "General Information| E.coli". U.S. Centers for Disease Control and Prevention. Retrieved 19 April 2017.
+^ US Centers for Disease Control and Prevention. "Enterotoxigenic E. coli (ETEC)". Retrieved 21 July 2016.
+^ Al-Abri SS, Beeching NJ, Nye FJ (June 2005). "Traveller's diarrhoea". The Lancet. Infectious Diseases. 5 (6): 349 60. doi:10.1016/S1473-3099(05)70139-0. PMID 15919621.
+^ Bourgeois AL, Wierzba TF, Walker RI (June 2016). "Status of vaccine research and development for enterotoxigenic Escherichia coli". Vaccine. 34 (26): 2880 86. doi:10.1016/j.vaccine.2016.02.076. PMID 26988259.
+^ Svennerholm AM (February 2011). "From cholera to enterotoxigenic Escherichia coli (ETEC) vaccine development". The Indian Journal of Medical Research. 133 (2): 188 96. PMC 3089050. PMID 21415493.
+^ a b Farrar J, Hotez P, Junghanss T, Kang G, Lalloo D, White NJ, eds. (2013). Manson's Tropical Diseases (23rd ed.). Oxford: Elsevier/Saunders. ISBN 978-0702053061.
+^ "General Information- E.coli". Centers for Disease Control and Prevention. Retrieved 25 May 2017.
+^ Lepp nen M, Sundberg LR, Laanto E, de Freitas Almeida GM, Papponen P, Maasilta IJ (August 2017). "Imaging Bacterial Colonies and Phage-Bacterium Interaction at Sub-Nanometer Resolution Using Helium-Ion Microscopy". Advanced Biosystems. 1 (8): e1700070. doi:10.1002/adbi.201700070. PMID 32646179. S2CID 90960276.
+^ Lee SY (March 1996). "High cell-density culture of Escherichia coli". Trends in Biotechnology. 14 (3): 98 105. doi:10.1016/0167-7799(96)80930-9. PMID 8867291.
+^ Russo E (January 2003). "The birth of biotechnology". Nature. 421 (6921): 456 57. Bibcode:2003Natur.421..456R. doi:10.1038/nj6921-456a. PMID 12540923. S2CID 4357773.
+^ a b Cornelis P (October 2000). "Expressing genes in different Escherichia coli compartments". Current Opinion in Biotechnology. 11 (5): 450 54. doi:10.1016/S0958-1669(00)00131-2. PMID 11024362.
+^ Tof I (1994). "Recombinant DNA Technology in the Synthesis of Human Insulin". Little Tree Pty. Ltd. Retrieved 30 November 2007.
+^ Bessette PH, Aslund F, Beckwith J, Georgiou G (November 1999). "Efficient folding of proteins with multiple disulfide bonds in the Escherichia coli cytoplasm". Proceedings of the National Academy of Sciences of the United States of America. 96 (24): 13703 08. Bibcode:1999PNAS...9613703B. doi:10.1073/pnas.96.24.13703. PMC 24128. PMID 10570136.
+^ Ihssen J, Kowarik M, Dilettoso S, Tanner C, Wacker M, Th ny-Meyer L (August 2010). "Production of glycoprotein vaccines in Escherichia coli". Microbial Cell Factories. 9 (61): 61. doi:10.1186/1475-2859-9-61. PMC 2927510. PMID 20701771.
+^ Wacker M, Linton D, Hitchen PG, Nita-Lazar M, Haslam SM, North SJ,  et al. (November 2002). "N-linked glycosylation in Campylobacter jejuni and its functional transfer into E. coli". Science. 298 (5599): 1790 93. Bibcode:2002Sci...298.1790W. doi:10.1126/science.298.5599.1790. PMID 12459590.
+^ Huang CJ, Lin H, Yang X (March 2012). "Industrial production of recombinant therapeutics in Escherichia coli and its recent advancements". Journal of Industrial Microbiology & Biotechnology. 39 (3): 383 99. doi:10.1007/s10295-011-1082-9. PMID 22252444. S2CID 15584320.
+^ Summers R (24 April 2013). "Bacteria churn out first ever petrol-like biofuel". New Scientist. Retrieved 27 April 2013.
+^ Halverson, Nic (15 August 2013). "Bacteria-Powered Light Bulb Is Electricity-Free". Archived from the original on 25 May 2016. Retrieved 22 October 2013.
+^ a b Ninfa AJ, Ballou DP (2009). Fundamental Laboratory Approaches for Biochemistry and Biotechnology. Wiley. p. 230. ISBN 978-0470087664.
+^ Cui Y, Zhou P, Peng J, Peng M, Zhou Y, Lin Y, Liu L (May 2008). "Cloning, sequence analysis, and expression of cDNA coding for the major house dust mite allergen, Der f 1, in Escherichia coli". Brazilian Journal of Medical and Biological Research = Revista Brasileira de Pesquisas Medicas e Biologicas. 41 (5): 380 388. doi:10.1590/s0100-879x2008000500006. PMID 18545812.
+^ Fux CA, Shirtliff M, Stoodley P, Costerton JW (February 2005). "Can laboratory reference strains mirror "real-world" pathogenesis?". Trends in Microbiology. 13 (2): 58 63. doi:10.1016/j.tim.2004.11.001. PMID 15680764.
+^ Vidal O, Longin R, Prigent-Combaret C, Dorel C, Hooreman M, Lejeune P (May 1998). "Isolation of an Escherichia coli K-12 mutant strain able to form biofilms on inert surfaces: involvement of a new ompR allele that increases curli expression". Journal of Bacteriology. 180 (9): 2442 49. doi:10.1128/JB.180.9.2442-2449.1998. PMC 107187. PMID 9573197.
+^ Hanaor D, Michelazzi M, Chenu J, Leonelli C, Sorrell CC (December 2011). "The effects of firing conditions on the properties of electrophoretically deposited titanium dioxide films on graphite substrates". Journal of the European Ceramic Society. 31 (15): 2877 85. arXiv:1303.2757. doi:10.1016/j.jeurceramsoc.2011.07.007. S2CID 93406448.
+^ Lederberg J, Tatum EL (October 1946). "Gene recombination in Escherichia coli" (PDF). Nature. 158 (4016): 558. Bibcode:1946Natur.158..558L. doi:10.1038/158558a0. PMID 21001945. S2CID 1826960. Source: National Library of Medicine   The Joshua Lederberg Papers
+^ Biological Activity of Crystal. p. 169.
+^ Susman M (March 1995). "The Cold Spring Harbor Phage Course (1945 1970): a 50th anniversary remembrance". Genetics. 139 (3): 1101 06. doi:10.1093/genetics/139.3.1101. PMC 1206443. PMID 7768426. Archived from the original on 16 September 2006.
+^ Benzer S (March 1961). "On the Topography of the Genetic Fine Structure". Proceedings of the National Academy of Sciences of the United States of America. 47 (3): 403 15. Bibcode:1961PNAS...47..403B. doi:10.1073/pnas.47.3.403. PMC 221592. PMID 16590840.
+^ "Facts about E.Coli". Encyclopedia of Life. Retrieved 27 November 2013.
+^ "Scarab Genomics LLC. Company web site".
+^ Umenhoffer K, Feh r T, Balik  G, Ayaydin F, P sfai J, Blattner FR, P sfai G (May 2010). "Reduced evolvability of Escherichia coli MDS42, an IS-less cellular chassis for molecular and synthetic biology applications". Microbial Cell Factories. 9: 38. doi:10.1186/1475-2859-9-38. PMC 2891674. PMID 20492662.
+^ P sfai G, Plunkett G, Feh r T, Frisch D, Keil GM, Umenhoffer K,  et al. (May 2006). "Emergent properties of reduced-genome Escherichia coli". Science. 312 (5776): 1044 46. Bibcode:2006Sci...312.1044P. doi:10.1126/science.1126439. PMID 16645050. S2CID 43287314.
+^ Kolisnychenko V, Plunkett G, Herring CD, Feh r T, P sfai J, Blattner FR, P sfai G (April 2002). "Engineering a reduced Escherichia coli genome". Genome Research. 12 (4): 640 47. doi:10.1101/gr.217202. PMC 187512. PMID 11932248.
+^ Keymer JE, Galajda P, Muldoon C, Park S, Austin RH (November 2006). "Bacterial metapopulations in nanofabricated landscapes". Proceedings of the National Academy of Sciences of the United States of America. 103 (46): 17290 95. Bibcode:2006PNAS..10317290K. doi:10.1073/pnas.0607971103. PMC 1635019. PMID 17090676.
+^ Tirumalai MR, Karouia F, Tran Q, Stepanov VG, Bruce RJ, Ott M, Pierson DL, Fox GE (May 2017). "The adaptation of Escherichia coli cells grown in simulated microgravity for an extended period is both phenotypic and genomic". NPJ Microgravity. 3 (15): 15. doi:10.1038/s41526-017-0020-1. PMC 5460176. PMID 28649637.
+^ Tirumalai MR, Karouia F, Tran Q, Stepanov VG, Bruce RJ, Ott M, Pierson DL, Fox GE (January 2019). "Evaluation of acquired antibiotic resistance in Escherichia coli exposed to long-term low-shear modeled microgravity and background antibiotic exposure". mBio. 10 (e02637-18). doi:10.1128/mBio.02637-18. PMC 6336426. PMID 30647159.
+^ Hayes B (6 February 2017). "Computing Comes to Life". American Scientist. Retrieved 28 November 2021.
+^ Baumgardner J, Acker K, Adefuye O, Crowley ST, Deloache W, Dickson JO,  et al. (July 2009). "Solving a Hamiltonian Path Problem with a bacterial computer". Journal of Biological Engineering. 3: 11. doi:10.1186/1754-1611-3-11. PMC 2723075. PMID 19630940.
+^ Milias-Argeitis A, Summers S, Stewart-Ornstein J, Zuleta I, Pincus D, El-Samad H,  et al. (November 2011). "In silico feedback for in vivo regulation of a gene expression circuit". Nature Biotechnology. 29 (12): 1114 1116. doi:10.1038/nbt.2018. PMC 4565053. PMID 22057053.
+^ Sawyer E. "Computer Controlled Yeast and an E. coli LCD Screen | Bio 2.0 | Learn Science at Scitable". www.nature.com. Retrieved 28 November 2021.
+^ Prindle A, Samayoa P, Razinkov I, Danino T, Tsimring LS, Hasty J (December 2011). "A sensing array of radically coupled genetic 'biopixels'". Nature. 481 (7379): 39 44. doi:10.1038/nature10722. PMC 3259005. PMID 22178928.
+^ Waltz E (23 August 2017). "Biocomputer and Memory Built Inside Living Bacteria". IEEE Spectrum. Retrieved 28 November 2021.
+^ Waltz E (26 July 2017). "Complex Biological Computer Commands Living Cells". IEEE Spectrum. Retrieved 28 November 2021.
+^ Green AA, Kim J, Ma D, Silver PA, Collins JJ, Yin P (August 2017). "Complex cellular logic computation using ribocomputing devices". Nature. 548 (7665): 117 121. Bibcode:2017Natur.548..117G. doi:10.1038/nature23271. PMC 6078203. PMID 28746304.
+^ Waltz E (12 July 2017). "Scientists Store Video Data in the DNA of Living Organisms". IEEE Spectrum. Retrieved 28 November 2021.
+^ Shipman SL, Nivala J, Macklis JD, Church GM (July 2017). "CRISPR-Cas encoding of a digital movie into the genomes of a population of living bacteria". Nature. 547 (7663): 345 349. Bibcode:2017Natur.547..345S. doi:10.1038/nature23017. PMC 5842791. PMID 28700573.
+^ Sarkar K, Chakraborty S, Bonnerjee D, Bagh S (October 2021). "Distributed Computing with Engineered Bacteria and Its Application in Solving Chemically Generated 2   2 Maze Problems". ACS Synthetic Biology. 10 (10): 2456 2464. doi:10.1021/acssynbio.1c00279. PMID 34543017. S2CID 237583555.
+^ Roberts S (9 November 2021). "An E. coli biocomputer solves a maze by sharing the work". MIT Technology Review. Retrieved 27 November 2021.
+^ Haeckel E (1867). Generelle Morphologie der Organismen. Reimer, Berlin. ISBN 978-1-144-00186-3.
+^ Escherich T (1885). "Die Darmbakterien des Neugeborenen und S uglinge". Fortschr. Med. 3: 515 22.
+^ Breed RS, Conn HJ (May 1936). "The Status of the Generic Term Bacterium Ehrenberg 1828". Journal of Bacteriology. 31 (5): 517 18. doi:10.1128/JB.31.5.517-518.1936. PMC 543738. PMID 16559906.
+^ Migula W (1895). "Bacteriaceae (Stabchenbacterien)".  In Engerl A, Prantl K (eds.). Die Naturlichen Pfanzenfamilien, W. Engelmann, Leipzig, Teil I, Abteilung Ia. pp. 20 30.
+^ Castellani A, Chalmers AJ (1919). Manual of Tropical Medicine (3rd ed.). New York: Williams Wood and Co.
+^ "Sheriff criticises E. Coli butcher". BBC News. 19 August 1998.
+^ "The butcher who lied". HeraldScotland. Retrieved 15 October 2021.
+^ Song H, Jiang J, Wang X, Zhang J (March 2017). "High purity recombinant human growth hormone (rhGH) expression in Escherichia coli under phoA promoter". Bioengineered. 8 (2): 147 153. doi:10.1080/21655979.2016.1212137. PMC 5398570. PMID 27459425.
+^ Kallio P, P sztor A, Thiel K, Akhtar MK, Jones PR (September 2014). "An engineered pathway for the biosynthesis of renewable propane". Nature Communications. 5 (1): 4731. Bibcode:2014NatCo...5.4731K. doi:10.1038/ncomms5731. PMC 4164768. PMID 25181600.
+Databases and external links
+Wikispecies has information related to Escherichia coli.
+Wikimedia Commons has media related to Escherichia coli.
+EcoCyc   literature-based curation of the entire genome, and of transcriptional regulation, transporters, and metabolic pathways
+Membranome database provides information about single-pass transmembrane proteins from E. coli and several other organisms
+E. coli statistics
+E. coli Infection | Causes & Risk Factors
+Bacteriome Archived 26 November 2010 at the Wayback Machine E. coli interaction database
+EcoGene (genome database and website dedicated to Escherichia coli K-12 substrain MG1655)
+EcoSal Continually updated Web resource based on the classic ASM Press publication Escherichia coli and Salmonella: Cellular and Molecular Biology
+ECODAB The structure of the O-antigens that form the basis of the serological classification of E. coli
+Coli Genetic Stock Center Strains and genetic information on E. coli K-12
+PortEco (formerly EcoliHub)   NIH-funded comprehensive data resource for E. coli K-12 and its phage, plasmids, and mobile genetic elements
+EcoliWiki is the community annotation component of PortEco
+RegulonDB RegulonDB is a model of the complex regulation of transcription initiation or regulatory network of the cell E. coli K-12.
+Uropathogenic Escherichia coli (UPEC)
+AlignACE Matrices that search for additional binding sites in the E. coli genomic sequence
+E. coli on Protein Data Bank
+vteEscherichia coliOutbreaks
+1993 Jack in the Box
+1996 Odwalla
+2000 Walkerton
+2005 South Wales (O157)
+2006 North American (spinach; O157:H7)
+2006 North American (multiple; O157:H7)
+2009 United Kingdom
+2011 Germany (O104:H4)
+2015 United States
+2023 United States E. coli outbreak
+Genes
+CPS operon
+DnaG
+Fis
+FNR regulon
+OmpT
+RecBCD
+RpoE
+RpoF
+RpoN
+RpoS
+Strains
+Enteroaggregative 
+Enterohemorrhagic
+Enteroinvasive
+Enterotoxigenic
+O104:H21
+O104:H4
+O121
+O157:H7
+Verotoxin-producing
+Related
+Aerobactin
+Coliform index
+Long-term evolution experiment
+EcoCyc
+Molecular biology
+Hok/sok system
+LacUV5
+Min System
+Pathogenic
+EnvZ/OmpR
+Rho factor
+T4 rII system
+Theodor Escherich
+vteMajor model organisms in genetics
+Lambda phage
+E. coli
+Chlamydomonas
+Tetrahymena
+Budding yeast
+Fission yeast
+Neurospora
+Maize
+Arabidopsis
+Medicago truncatula
+C. elegans
+Drosophila
+Xenopus
+Zebrafish
+Rat
+Mouse
+vtePseudomonadota-associated Gram-negative bacterial infections RickettsialesRickettsiaceae/(Rickettsioses)Typhus
+Rickettsia typhi
+Murine typhus
+Rickettsia prowazekii
+Epidemic typhus, Brill Zinsser disease, Flying squirrel typhus
+SpottedfeverTick-borne
+Rickettsia rickettsii
+Rocky Mountain spotted fever
+Rickettsia conorii
+Boutonneuse fever
+Rickettsia japonica
+Japanese spotted fever
+Rickettsia sibirica
+North Asian tick typhus
+Rickettsia australis
+Queensland tick typhus
+Rickettsia honei
+Flinders Island spotted fever
+Rickettsia africae
+African tick bite fever
+Rickettsia parkeri
+American tick bite fever
+Rickettsia aeschlimannii
+Rickettsia aeschlimannii infection
+Mite-borne
+Rickettsia akari
+Rickettsialpox
+Orientia tsutsugamushi
+Scrub typhus
+Flea-borne
+Rickettsia felis
+Flea-borne spotted fever
+Anaplasmataceae
+Ehrlichiosis: Anaplasma phagocytophilum
+Human granulocytic anaplasmosis, Anaplasmosis
+Ehrlichia chaffeensis
+Human monocytotropic ehrlichiosis
+Ehrlichia ewingii
+Ehrlichiosis ewingii infection
+HyphomicrobialesBrucellaceae
+Brucella abortus
+Brucellosis
+Bartonellaceae
+Bartonellosis: Bartonella henselae
+Cat-scratch disease
+Bartonella quintana
+Trench fever
+Either B. henselae or B. quintana
+Bacillary angiomatosis
+Bartonella bacilliformis
+Carrion's disease, Verruga peruana
+ NeisserialesM+
+Neisseria meningitidis/meningococcus
+Meningococcal disease, Waterhouse Friderichsen syndrome, Meningococcal septicaemia
+M 
+Neisseria gonorrhoeae/gonococcus
+Gonorrhea
+ungrouped:
+Eikenella corrodens/Kingella kingae
+HACEK
+Chromobacterium violaceum
+Chromobacteriosis infection
+Burkholderiales
+Burkholderia pseudomallei
+Melioidosis
+Burkholderia mallei
+Glanders
+Burkholderia cepacia complex
+Bordetella pertussis/Bordetella parapertussis
+Pertussis
+ Enterobacteriales(OX )Lac+
+Klebsiella pneumoniae
+Rhinoscleroma, Pneumonia
+Klebsiella granulomatis
+Granuloma inguinale
+Klebsiella oxytoca
+Escherichia coli: Enterotoxigenic
+Enteroinvasive
+Enterohemorrhagic
+O157:H7
+O104:H4
+Hemolytic-uremic syndrome
+Enterobacter aerogenes/Enterobacter cloacae
+Slow/weak
+Serratia marcescens
+Serratia infection
+Citrobacter koseri/Citrobacter freundii
+Lac H2S+
+Salmonella enterica
+Typhoid fever, Paratyphoid fever, Salmonellosis
+H2S 
+Shigella dysenteriae/sonnei/flexneri/boydii
+Shigellosis, Bacillary dysentery
+Proteus mirabilis/Proteus vulgaris
+Yersinia pestis
+Plague/Bubonic plague
+Yersinia enterocolitica
+Yersiniosis
+Yersinia pseudotuberculosis
+Far East scarlet-like fever
+PasteurellalesHaemophilus:
+H. influenzae
+Haemophilus meningitis
+Brazilian purpuric fever
+H. ducreyi
+Chancroid
+H. parainfluenzae
+HACEK
+Pasteurella multocida
+Pasteurellosis
+Actinobacillus
+Actinobacillosis
+Aggregatibacter actinomycetemcomitans
+HACEK
+Legionellales
+Legionella pneumophila/Legionella longbeachae
+Legionnaires' disease
+Coxiella burnetii
+Q fever
+Thiotrichales
+Francisella tularensis
+Tularemia
+Vibrionaceae
+Vibrio cholerae
+Cholera
+Vibrio vulnificus
+Vibrio parahaemolyticus
+Vibrio alginolyticus
+Plesiomonas shigelloides
+Pseudomonadales
+Pseudomonas aeruginosa
+Pseudomonas infection
+Moraxella catarrhalis
+Acinetobacter baumannii
+Xanthomonadaceae
+Stenotrophomonas maltophilia
+Cardiobacteriaceae
+Cardiobacterium hominis
+HACEK
+Aeromonadales
+Aeromonas hydrophila/Aeromonas veronii
+Aeromonas infection
+ Campylobacterales
+Campylobacter jejuni
+Campylobacteriosis, Guillain Barr  syndrome
+Helicobacter pylori
+Peptic ulcer, MALT lymphoma, Gastric cancer
+Helicobacter cinaedi
+Helicobacter cellulitis
+Taxon identifiers
+Wikidata: Q25419
+Wikispecies: Escherichia coli
+BacDive: 4907
+CoL: 3BGTD
+EoL: 972688
+EPPO: ESCHCO
+GBIF: 6110934
+iNaturalist: 450837
+IRMNG: 10032107
+ISC: 83003
+ITIS: 285
+LPSN: escherichia-coli
+NCBI: 562
+NZOR: 49a48ad0-ff55-43ba-a3c1-e28c387daa73
+WoRMS: 422817
+Authority control International
+FAST
+National
+Spain
+France
+BnF data
+Germany
+Israel
+United States
+Japan
+Czech Republic
+Other
+IdRef
+2
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Escherichia_coli&oldid=1149468231"

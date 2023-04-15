@@ -1,0 +1,554 @@
+Robotic vehicle for Mars surface exploration
+This article is about autonomous exploration vehicles. For crewed vehicles on Mars, see Crewed Mars rover.
+ NASA's Curiosity rover, selfie, 2015
+A Mars rover is a motor vehicle designed to travel on the surface of Mars. Rovers have several advantages over stationary landers: they examine more territory, they can be directed to interesting features, they can place themselves in sunny positions to weather winter months, and they can advance the knowledge of how to perform very remote robotic vehicle control. They serve a different purpose than orbital spacecraft like Mars Reconnaissance Orbiter. A more recent development is the Mars helicopter.
+As of May 2021[update], there have been six successful robotically operated Mars rovers; the first five, managed by the American NASA Jet Propulsion Laboratory, were (by date of Mars landing): Sojourner (1997), Spirit (2004 2010), Opportunity (2004 2018), Curiosity (2012 present), and Perseverance (2021 present). The sixth, managed by the China National Space Administration, is Zhurong (2021 present).
+On January 24, 2016, NASA reported that then current studies on Mars by Opportunity  and Curiosity would be searching for evidence of ancient life, including a biosphere based on autotrophic, chemotrophic or chemolithoautotrophic microorganisms, as well as ancient water, including fluvio-lacustrine environments (plains related to ancient rivers or lakes) that may have been habitable.[1][2][3][4][5] The search for evidence of habitability, taphonomy (related to fossils), and organic carbon on Mars is now a primary NASA objective.[1][6]
+The Soviet probes, Mars 2 and Mars 3, were physically tethered probes; Sojourner was dependent on the Mars Pathfinder base station for communication with Earth; Opportunity, Spirit and Curiosity were on their own. As of February 2023, Curiosity is still active, while Spirit, Opportunity, and Sojourner completed their missions before losing contact. On February 18, 2021, Perseverance, the newest American Mars rover, successfully landed.  On May 14, 2021, China's Zhurong became the first non-American rover to successfully operate on Mars.
+Missions[edit]
+See also: List of missions to Mars
+Multiple rovers have been dispatched to Mars:
+ Zhurong rover and lander captured by HiRISE from NASA's MRO on 6 June 2021
+Active[edit]
+ Curiosity of the Mars Science Laboratory (MSL) mission by NASA, was launched November 26, 2011[7][8] and landed at the Aeolis Palus plain near Aeolis Mons (informally "Mount Sharp")[9][10][11][12] in Gale Crater on August 6, 2012.[13][14][15] The Curiosity rover is still operational as of February 2023.
+ Perseverance, NASA rover based on the successful Curiosity design. Launched with the Mars 2020 mission on July 30, 2020, it landed on February 18, 2021.[16] It carried the Mars Helicopter Ingenuity attached to its belly.
+ Zhurong launched with the Tianwen-1 CNSA Mars mission on July 23, 2020, landed on May 14, 2021 in the southern region of Utopia Planitia, and deployed on May 22, 2021, while dropping a remote selfie camera on 1 June, 2021.[17][18] As of February 2023, it is suspected that Zhurong has failed to wake up after the Mars winter and its mission has ended.[19]
+Past[edit]
+ Sojourner disembarks Mars Pathfinder base station lander on the surface of planet Mars
+ Sojourner rover, Mars Pathfinder, landed successfully on July 4, 1997. Communications were lost on September 27, 1997. Sojourner had traveled a distance of just over 100 meters (330 ft).[20]
+ Spirit (MER-A), Mars Exploration Rover (MER), launched on June 10, 2003,[21] and landed on January 4, 2004. Nearly 6 years after the original mission limit, Spirit had covered a total distance of 7.73 km (4.80 mi) but its wheels became trapped in sand.[22] The last communication received from the rover was on March 22, 2010, and NASA ceased attempts to re-establish communication on May 25, 2011.[23]
+ Opportunity (MER-B), Mars Exploration Rover, launched on July 7, 2003[21] and landed on January 25, 2004. Opportunity surpassed the previous records for longevity at 5,352 sols (5498 Earth days from landing to mission end; 15 Earth years or 8 Martian years) and covered 45.16 km (28.06 mi). The rover sent its last status on 10 June 2018 when a global 2018 Mars dust storm blocked the sunlight needed to recharge its batteries.[24] After hundreds of attempts to reactivate the rover, NASA declared the mission complete on February 13, 2019.
+Failed[edit]
+ Mars 2, PrOP-M rover, 1971, Mars 2 landing failed taking Prop-M with it. The Mars 2 and 3 spacecraft from the Soviet Union had identical 4.5 kg Prop-M rovers. They were to move on skis while connected to the landers with cables.[25]
+ Mars 3, PrOP-M rover, landed successfully on December 2, 1971. 4.5 kilograms (9.9 lb) rover tethered to the Mars 3 lander. Lost when the Mars 3 lander stopped communicating about 110 seconds after landing.[25] The loss of communication may have been due to the extremely powerful Martian dust storm taking place at the time or an issue with the Mars 3 orbiter's ability to relay communications.
+Planned[edit]
+   The European-Russian ExoMars rover Rosalind Franklin was confirmed technically ready for launch in March 2022 and planned to launch in September 2022, but due to the suspension of cooperation with Roscosmos this is delayed and a fast-track study was started to determine alternative launch options.[26]
+Proposed[edit]
+  The JAXA Melos rover was supposed to be launched in 2022. JAXA has not given an update since 2015.
+ NASA Mars Geyser Hopper
+ ISRO has proposed a Mars rover as part of Mangalyaan-3, its third Mars mission in 2030.[27]
+Undeveloped[edit]
+Marsokhod was proposed to be a part of Russian Mars 96 mission.
+Astrobiology Field Laboratory, proposed in the 2000-2010 period as a follow on to MSL.[28]
+Mars Astrobiology Explorer-Cacher (MAX-C), cancelled 2011[29][30]
+Mars Surveyor 2001 rover[31]
+Mars Tumbleweed Rover, a spherical wind-propelled rover.[32][33]
+In 2018, a kind of cushion-air rover was proposed,[34] which in contrast with traditional hovercraft does not use blowers to pressurize the gas in the chamber but rather uses stored pressurized CO2 obtained from a freezing process which does not require mechanical compression.[35]
+Timeline of rover surface operations[edit]
+Examples of instruments[edit]
+ Curiosity's (MSL) rover "hand" featuring a suite of instruments on a rotating "wrist". Mount Sharp is in the background (September 8, 2012).
+ Opportunity's first self-portrait including the camera mast on Mars(February 14 20, 2018 / sols 4998 5004). It was taken with its microscopic imager instrument.
+Examples of instruments onboard landed rovers include:
+Alpha particle X-ray spectrometer (MPF + MER + MSL)
+CheMin (MSL)
+Chemistry and Camera complex (MSL)
+Dynamic Albedo of Neutrons (MSL)
+Hazcam (MER + MSL + M20)
+MarsDial (MER + MSL + M20)
+Materials Adherence Experiment (MPF)
+MIMOS II (MER)
+Mini-TES (MER)
+Mars Hand Lens Imager (MSL)
+Navcam (MER + MSL + M20+TW1)
+Pancam (MER)
+Rock Abrasion Tool (MER)
+Radiation assessment detector (MSL)
+Rover Environmental Monitoring Station (MSL)
+Sample Analysis at Mars (MSL)
+EDL cameras on Rover (MSL + M20+TW1)
+Cachecam (M20)
+Mastcam-Z (M20)
+MEDA (M20)
+Microphones (M20+TW1)
+MOXIE (M20)
+PIXL (M20)
+RIMFAX (M20)
+SHERLOC (M20)
+SuperCam (M20)
+Remote Camera (TW1)
+Mars landing locations[edit]
+ (view   discuss) Interactive image map of the global topography of Mars, overlain with locations of Mars Lander and Rover sites. Hover your mouse over the image to see the names of over 60 prominent geographic features, and click to link to them. Coloring of the base map indicates relative elevations, based on data from the Mars Orbiter Laser Altimeter on NASA's Mars Global Surveyor. Whites and browns indicate the highest elevations (+12 to +8 km); followed by pinks and reds (+8 to +3 km); yellow is 0 km; greens and blues are lower elevations (down to  8 km). Axes are latitude and longitude; Polar regions are noted. (See also: Mars map;  Mars Memorials map / list) (  Active ROVER    Inactive    Active LANDER    Inactive    Future )
+  Beagle 2 (2003)
+Curiosity (2012)  
+ Deep Space 2 (1999)  
+ InSight (2018)  
+ Mars 2 (1971)  
+   Mars 3 (1971)
+ Mars 6 (1973)  
+ Polar Lander (1999)  
+  Opportunity (2004)
+  Perseverance (2021) 
+   Phoenix (2008)
+Schiaparelli EDM (2016)   
+  Sojourner (1997)
+Spirit (2004)  
+ Zhurong (2021) 
+Viking 1 (1976)  
+Viking 2 (1976)  
+ Mars Landing Sites (December 16, 2020)
+NASA Mars rover goals[edit]
+Circa the 2010s, NASA had established certain goals for the rover program.
+NASA distinguishes between "mission" objectives and "science" objectives. Mission objectives are related to progress in space technology and development processes. Science objectives are met by the instruments during their mission in space.
+The science instruments are chosen and designed based on the science objectives and goals. The primary goal of the Spirit and Opportunity rovers was to investigate "the history of water on Mars".[36]
+The four science goals of NASA's long-term Mars Exploration Program are:
+Determine whether life ever arose on Mars
+Characterize the climate of Mars
+Characterize the geology of Mars
+Prepare for human exploration of Mars[37]
+ Panorama of Husband Hill taken by the Spirit rover (November 2005)
+Gallery[edit]
+Mars rovers
+Sojourner rover on Mars
+Comparison of wheels: Mars Sojourner rover, MER, MSL
+Comparison (2008): MER, Sojourner rover, MSL
+Comparison (2011): MER, Sojourner rover, humans, MSL
+ Opportunity rover later visited its heat shield impact site; it was ejected during the rover's descent and impacted the surface separately.
+ Comparison of the distances travelled by various Mars rovers
+See also[edit]
+Astrobiology
+Comparison of embedded computer systems on board the Mars rovers
+Crewed Mars rover
+InSight lander
+List of artificial objects on Mars
+List of missions to Mars
+List of rovers on extraterrestrial bodies
+Mars Exploration Rover
+Mars-Grunt
+Mars Pathfinder
+Mars Reconnaissance Orbiter
+2001 Mars Odyssey
+Moon rover
+Lunar Roving Vehicle
+Radiation hardening
+Scientific information from the Mars Exploration Rover mission
+References[edit]
+^ a b Grotzinger, John P. (January 24, 2014). "Introduction to Special Issue - Habitability, Taphonomy, and the Search for Organic Carbon on Mars". Science. 343 (6169): 386 387. Bibcode:2014Sci...343..386G. doi:10.1126/science.1249944. PMID 24458635.
+^ Various (January 24, 2014). "Special Issue - Table of Contents - Exploring Martian Habitability". Science. 343 (6169): 345 452. Retrieved 24 January 2014.{{cite journal}}:  CS1 maint: uses authors parameter (link)
+^ Various (January 24, 2014). "Special Collection - Curiosity - Exploring Martian Habitability". Science. Retrieved January 24, 2014.{{cite journal}}:  CS1 maint: uses authors parameter (link)
+^ Grotzinger, J.P. et al. (January 24, 2014). "A Habitable Fluvio-Lacustrine Environment at Yellowknife Bay, Gale Crater, Mars". Science. 343 (6169): 1242777. Bibcode:2014Sci...343A.386G. CiteSeerX 10.1.1.455.3973. doi:10.1126/science.1242777. PMID 24324272. S2CID 52836398.{{cite journal}}:  CS1 maint: uses authors parameter (link)
+^ "Planetary Scientists Have Created a Map of Mars' Entire Ancient River Systems". Universe Today. 2020-12-30. Retrieved 2020-12-31.
+^ Changela, Hitesh G.; Chatzitheodoridis, Elias; Antunes, Andre; Beaty, David; Bouw, Kristian; Bridges, John C.; Capova, Klara Anna; Cockell, Charles S.; Conley, Catharine A.; Dadachova, Ekaterina; Dallas, Tiffany D. (December 2021). "Mars: new insights and unresolved questions". International Journal of Astrobiology. 20 (6): 394 426. arXiv:2112.00596. Bibcode:2021IJAsB..20..394C. doi:10.1017/S1473550421000276. ISSN 1473-5504. S2CID 244773061.
+^ "Mars Science Laboratory Launch". 26 November 2011. Retrieved 2011-11-26.
+^ "NASA Launches Super-Size Rover to Mars: 'Go, Go!'". New York Times. Associated Press. 26 November 2011. Retrieved 2011-11-26.
+^ USGS (16 May 2012). "Three New Names Approved for Features on Mars". USGS. Archived from the original on 28 July 2012. Retrieved 28 May 2012.
+^ NASA Staff (27 March 2012). "'Mount Sharp' on Mars Compared to Three Big Mountains on Earth". NASA. Retrieved 31 March 2012.
+^ Agle, D. C. (28 March 2012). "'Mount Sharp' On Mars Links Geology's Past and Future". NASA. Retrieved 31 March 2012.
+^ Staff (29 March 2012). "NASA's New Mars Rover Will Explore Towering 'Mount Sharp'". Space.com. Retrieved 30 March 2012.
+^ Webster, Guy; Brown, Dwayne (22 July 2011). "NASA's Next Mars Rover To Land At Gale Crater". NASA JPL. Archived from the original on 2012-06-07. Retrieved 2011-07-22.
+^ Chow, Dennis (22 July 2011). "NASA's Next Mars Rover to Land at Huge Gale Crater". Space.com. Retrieved 2011-07-22.
+^ Amos, Jonathan (22 July 2011). "Mars rover aims for deep crater". BBC News. Retrieved 2011-07-22.
+^ "Nasa's Perseverance rover lands on Mars". BBC News. 18 February 2021. Retrieved 2021-02-18.
+^ Gebhardt, Chris (February 10, 2021). "China, with Tianwen-1, begins tenure at Mars with successful orbital arrival".
+^ "First Chinese Mars probe successfully landed with a rover". www.golem.de.
+^ Holland, Martin (2023-02-22). "Chinas Mars-Rover Zhurong: Seit September nicht bewegt, wohl von Staub bedeckt". heise.de (in German). Heise. Retrieved 2023-02-22.
+^ "Sojourner". Archived from the original on 2015-03-20.
+^ a b "Mars Exploration". 10 August 2012. Retrieved 2012-08-10.
+^ Boyle, Alan. "Good moves on Mars". MSNBC. Archived from the original on 2010-01-23. Retrieved 2010-01-22.
+^ "NASA Concludes Attempts To Contact Mars Rover Spirit". NASA. May 24, 2011. Archived from the original on September 28, 2011.
+^ "Mars Exploration Rover Mission: All Opportunity Updates". mars.nasa.gov. Retrieved 31 October 2018.
+^ a b 
+"Mars 2 Lander". NASA NSSDC. Retrieved 2008-06-25.
+^ "Rover ready   next steps for ExoMars". www.esa.int. Retrieved 2022-04-23.
+^ Neeraj Srivastava; S. Vijayan; Amit Basu Sarbadhikari (2022-09-27), "Future Exploration of the Inner Solar System: Scope and the Focus Areas", Planetary Sciences Division (PSDN), Physical Research Laboratory   via ISRO Facebook Panel Discussion, Mars Orbiter Mission National Meet
+^ "NASA - Missions to Mars". nasa.gov. October 15, 2006. Archived from the original on 2006-10-15.
+^ de Selding, Peter B. (20 April 2011). "ESA Halts Work on ExoMars Orbiter and Rover". Space News. Archived from the original on May 24, 2012. Retrieved 2011-04-21.
+^ Svitak, Amy (18 April 2011). "U.S., Europe Plan Single-rover Mars Mission for 2018". Space News. Archived from the original on May 24, 2012. Retrieved 2011-04-21.
+^ "NASA - NSSDCA - Spacecraft - Details".
+^ Kimberly W. Land (May 13, 2003). "A new way to explore the surface of Mars". NASA. Retrieved 2011-04-04.
+^ The Tumbleweed Rover is on a Roll. Anna Heiney, KSC NASA. 11 March 2004.
+^ Arias, Francisco. J (2018). "CO2-Cushion Vehicle for Mars. An Alternative Locomotion for Exploration Rovers". 2018 Joint Propulsion Conference. 54nd AIAA/SAE/ASEE Joint Propulsion Conference Cincinnati, OH, Propulsion and Energy, (AIAA 2018 4492). doi:10.2514/6.2018-4492. ISBN 978-1-62410-570-8. S2CID 240375295.
+^ Arias, Francisco. J (2018). "A Method of Attaining High Pressurized Vessels in Space, the Moon and With Particular Reference to Mars". 2018 International Energy Conversion Engineering Conference. 54nd AIAA/SAE/ASEE Joint Propulsion Conference Cincinnati, OH, Propulsion and Energy, (AIAA 2018 4688). doi:10.2514/6.2018-4488. ISBN 978-1-62410-571-5. S2CID 240369235.
+^ "Mars Exploration Rover Mission: Overview". marsrovers.nasa.gov. Archived from the original on 2012-08-28. Retrieved 2008-06-25.
+^ "Mars Exploration Rover Mission: Science   Looking for signs of past water on Mars". marsrovers.nasa.gov. Archived from the original on 2008-05-22. Retrieved 2008-06-25.
+External links[edit]
+NASA official Mars Rover website
+Mars Pathfinder Gallery (NASA)
+All Rovers on Mars
+vteMars roversPast missions
+PrOP-M  
+Sojourner
+Mars Pathfinder
+Spirit and Opportunity
+Mars Exploration Rover
+timeline
+Current missions
+Curiosity
+Mars Science Laboratory
+timeline
+Perseverance
+Mars 2020
+timeline
+Zhurong
+Tianwen-1
+Planned missions
+Rosalind Franklin
+ExoMars
+Related
+Rover embedded computers
+Crewed Mars rover
+Lunar rover
+Lunar Roving Vehicle
+Missions are ordered by launch date. Sign   indicates failure en route or before intended mission data returned.
+vteNASAPolicy and historyHistory(creation)
+NACA (1915)
+National Aeronautics and Space Act (1958)
+Space Task Group (1958)
+Paine (1986)
+Rogers (1986)
+Ride (1987)
+Space Exploration Initiative (1989)
+Augustine (1990)
+U.S. National Space Policy (1996)
+CFUSAI (2002)
+CAIB (2003)
+Vision for Space Exploration (2004)
+Aldridge (2004)
+Augustine (2009)
+General
+Space Race
+Administrator and Deputy Administrator
+Chief Scientist
+Astronaut Corps
+Ranks and positions
+Chief
+Budget
+NASA research
+spinoff technologies
+NASA TV
+NASA Social
+Launch Services Program
+Mercury Control Center
+Manned Space Flight Network
+Kennedy Space Center
+Vehicle Assembly Building
+Launch Complex 39
+Launch Complex 48
+Launch Control Center
+Operations and Checkout Building
+Johnson Space Center
+Mission Control
+Lunar Sample Laboratory
+Human spaceflightprogramsPast
+X-15 (suborbital)
+Mercury
+Gemini
+Apollo
+Skylab
+Apollo Soyuz (with the Soviet space program)
+Space Shuttle
+Shuttle Mir (with Roscosmos State Corporation)
+Constellation
+Current
+International Space Station
+Commercial Orbital Transportation Services
+Commercial Crew
+Orion
+Artemis
+Lunar Gateway
+Robotic programsPast
+Hitchhiker
+Mariner
+Mariner Mark II
+MESUR
+Mars Surveyor '98
+New Millennium
+Lunar Orbiter
+Pioneer
+Planetary Observer
+Ranger
+Surveyor
+Viking
+Project Prometheus
+Mars Exploration
+Mars Exploration Rover
+Current
+Living With a Star
+Lunar Precursor Robotic Program
+Earth Observing System
+Great Observatories program
+Explorers
+Voyager
+Discovery
+New Frontiers
+Solar Terrestrial Probes
+Commercial Lunar Payload Services
+SIMPLEx
+Individual featured missions(human and robotic)Past
+Apollo 11
+COBE
+Mercury 3
+Mercury-Atlas 6
+Magellan
+Pioneer 10
+Pioneer 11
+Galileo
+timeline
+GALEX
+GRAIL
+WMAP
+Space Shuttle
+Spitzer Space Telescope
+Sojourner rover
+Spirit rover
+LADEE
+MESSENGER
+Aquarius
+Cassini
+Dawn
+Kepler space telescope
+Opportunity rover
+timeline
+observed
+RHESSI
+Currentlyoperating
+Mars Reconnaissance Orbiter
+2001 Mars Odyssey
+New Horizons
+International Space Station
+Hubble Space Telescope
+Swift
+THEMIS
+Mars Exploration Rover
+Curiosity rover
+timeline
+InSight
+GOES 14
+Lunar Reconnaissance Orbiter
+GOES 15
+Van Allen Probes
+Solar Dynamics Observatory
+Juno
+Mars Science Laboratory
+timeline
+NuSTAR
+Voyager 1
+Voyager 2
+WISE
+MAVEN
+MMS
+OSIRIS-REx
+Transiting Exoplanet Survey Satellite
+Mars 2020
+Perseverance rover
+Ingenuity helicopter
+Ingenuity flights
+timeline
+James Webb Space Telescope
+timeline
+Future
+Joint Polar Satellite System
+NISAR
+Europa Clipper
+Nancy Grace Roman Space Telescope
+Communicationsand navigation
+Near Earth Network
+Space Network
+Deep Space Network (Goldstone
+Madrid
+Canberra
+Space Flight Operations Facility)
+Deep Space Atomic Clock
+NASA lists
+Astronauts
+by name
+by year
+Gemini astronauts
+Apollo astronauts
+Space Shuttle crews
+NASA aircraft
+NASA missions
+uncrewed missions
+Apollo missions
+Space Shuttle missions
+United States rockets
+NASA cancellations
+NASA cameras on spacecraft
+NASA imagesand artwork
+Earthrise
+The Blue Marble
+Family Portrait
+Pale Blue Dot
+Pillars of Creation
+Mystic Mountain
+Solar System Family Portrait
+The Day the Earth Smiled
+Fallen Astronaut
+Deep fields
+Lunar plaques
+Pioneer plaques
+Voyager Golden Record
+Apollo 11 goodwill messages
+NASA insignia
+Gemini and Apollo medallions
+Mission patches
+Hubble anniversary images
+Related
+"We choose to go to the Moon"
+Apollo 8 Genesis reading
+Apollo 15 postal covers incident
+Space Mirror Memorial
+The Astronaut Monument
+Lunar sample displays
+U.S. Astronaut Hall of Fame
+Space program on U.S. stamps
+Apollo 17 Moon mice
+Moon tree
+Other primates in space
+NASA International Space Apps Challenge
+Astronauts Day
+ Category
+ Commons
+vteSpacecraft missions to Mars
+List of missions to Mars
+List of Mars orbiters
+List of artificial objects on Mars
+ActiveOrbiters
+2001 Mars Odyssey
+Mars Express
+Mars Reconnaissance Orbiter
+timeline
+MAVEN
+ExoMars Trace Gas Orbiter
+Hope
+Tianwen-1 orbiter
+Rovers
+Curiosity
+Mars Science Laboratory
+timeline
+Perseverance
+Mars 2020
+timeline
+Zhurong
+Aircraft
+Ingenuity helicopter
+flights
+Mars 2020
+    PastFlybys
+Mars 1 
+Mariner 4
+Zond 2 
+Mariner 6 and 7
+Mars 6
+Mars 7
+Rosetta
+Dawn
+Mars Cube One (MarCO)
+Orbiters
+Mars 2
+Mars 3
+Mariner 9
+Mars 4 
+Mars 5
+Viking program
+Viking 1
+Viking 2
+Phobos program
+Phobos 1 
+Phobos 2 
+Mars Observer 
+Mars Global Surveyor
+Nozomi 
+Mars Climate Orbiter 
+Mangalyaan
+Landers
+Mars 2 
+Mars 3 
+Mars 6 
+Mars 7 
+Viking 1
+Viking 2
+Mars Pathfinder
+Mars Polar Lander  / Deep Space 2 
+Beagle 2 
+Phoenix
+ExoMars Schiaparelli 
+InSight
+Tianwen-1 lander
+Rovers
+PrOP-M 
+Sojourner
+Mars Exploration Rover
+Spirit
+Opportunity
+timeline
+Failedlaunches
+Mars 1M No.1
+1M No.2
+2MV-4 No.1
+2MV-3 No.1
+Mariner 3
+Mars 2M No.521
+2M No.522
+Mariner 8
+Mars 3MS No.170
+Mars 96
+Fobos-Grunt / Yinghuo-1
+FuturePlanned
+Psyche (2023, flyby in 2024)
+Mangalyaan-2 (2024)
+Europa Clipper (2024, flyby in 2025)
+Martian Moons eXploration (MMX) (2024)
+EscaPADE (2024)
+Tera-hertz Explorer (TEREX) (mid 2020s)
+Kazachok (mid 2020s)
+ExoMars (2028)
+Rosalind Franklin
+Proposed
+Biological Oxidant and Life Detection
+DePhine
+Icebreaker Life
+Mars Base Alpha
+Mars Exploration Ice Mapper
+Mars Geyser Hopper
+Mars-Grunt
+Mars Micro Orbiter
+MELOS rover
+MetNet
+Next Mars Orbiter
+PADME
+Phootprint
+Sky-Sailor
+Cancelledproposals
+Aerial Regional-scale Environmental Survey
+Astrobiology Field Laboratory
+Beagle 3
+Marsokhod
+Mars 4NM & 5NM
+Mars 5M (Mars-79)
+Mars-Aster
+Mars Astrobiology Explorer-Cacher (MAX-C)
+Mars One
+Mars Surveyor Lander
+Mars Telecommunications Orbiter
+NetLander
+Northern Light
+Red Dragon
+Sample Collection for Investigation of Mars (SCIM)
+Vesta
+Voyager Mars
+ExplorationConcepts
+Flyby
+Orbiter
+Landing
+Rover
+Aircraft
+Sample return (Mars Sample Retrieval lander, Earth Return Orbiter, Mars Ascent Vehicle, Mars Sample Retrieval Helicopters)
+Human mission
+Permanent settlement
+Colonization
+Terraforming
+Strategies
+Mars Scout Program
+Mars Exploration Program
+Mars Exploration Joint Initiative
+Mars Next Generation
+Advocacy
+The Mars Project
+The Case for Mars
+Inspiration Mars
+Mars Institute
+Mars Society
+Mars race
+Missions are ordered by launch date. Sign   indicates failure en route or before intended mission data returned.
+Portals: Solar System Spaceflight
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Mars_rover&oldid=1147645224"

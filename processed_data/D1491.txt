@@ -1,0 +1,275 @@
+Solid, liquid or gel used to grow microorganisms or cells
+ An agar plate   an example of a bacterial growth medium*: Specifically, it is a streak plate; the orange lines and dots are formed by bacterial colonies.
+A growth medium or culture medium is a solid, liquid, or semi-solid designed to support the growth of a population of microorganisms or cells via the process of cell proliferation[1] or small plants like the moss Physcomitrella patens.[2] Different types of media are used for growing different types of cells.[3]
+The two major types of growth media are those used for cell culture, which use specific cell types derived from plants or animals, and those used for microbiological culture, which are used for growing microorganisms such as bacteria or fungi. The most common growth media for microorganisms are nutrient broths and agar plates; specialized media are sometimes required for microorganism and cell culture growth.[1] Some organisms, termed fastidious organisms, require specialized environments due to complex nutritional requirements. Viruses, for example, are obligate intracellular parasites and require a growth medium containing living cells.
+Types[edit]
+ US Food and Drug Administration scientist tests for Salmonella
+ A culture of salmonella bacteria
+The most common growth media for microorganisms are nutrient broths (liquid nutrient medium) or lysogeny broth medium. Liquid media are often mixed with agar and poured via a sterile media dispenser into Petri dishes to solidify. These agar plates provide a solid medium on which microbes may be cultured. They remain solid, as very few bacteria are able to decompose agar (the exception being some species in the genera: Cytophaga, Flavobacterium, Bacillus, Pseudomonas, and Alcaligenes). Bacteria grown in liquid cultures often form colloidal suspensions.[4][5]
+The difference between growth media used for cell culture and those used for microbiological culture is that cells derived from whole organisms and grown in culture often cannot grow without the addition of, for instance, hormones or growth factors which usually occur in vivo.[6] In the case of animal cells, this difficulty is often addressed by the addition of blood serum or a synthetic serum replacement to the medium. In the case of microorganisms, no such limitations exist, as they are often unicellular organisms. One other major difference is that animal cells in culture are often grown on a flat surface to which they attach, and the medium is provided in a liquid form, which covers the cells. In contrast, bacteria such as Escherichia coli may be grown on solid or in liquid media.
+An important distinction between growth media types is that of defined versus undefined media.[1] A defined medium will have known quantities of all ingredients. For microorganisms, they consist of providing trace elements and vitamins required by the microbe and especially defined carbon and nitrogen sources. Glucose or glycerol are often used as carbon sources, and ammonium salts or nitrates as inorganic nitrogen sources. An undefined medium has some complex ingredients, such as yeast extract or casein hydrolysate, which consist of a mixture of many chemical species in unknown proportions. Undefined media are sometimes chosen based on price and sometimes by necessity   some microorganisms have never been cultured on defined media.
+A good example of a growth medium is the wort used to make beer. The wort contains all the nutrients required for yeast growth, and under anaerobic conditions, alcohol is produced. When the fermentation process is complete, the combination of medium and dormant microbes, now beer, is ready for consumption.
+The main types are
+cultural media
+minimal media
+selective media
+differential media
+transport media
+indicator media
+Culture media[edit]
+Culture media contain all the elements that most bacteria need for growth and are not selective, so they are used for the general cultivation and maintenance of bacteria kept in laboratory culture collections.
+ Physcomitrella patens plants growing axenically on agar plates (Petri dish, 9 cm diameter)
+An undefined medium (also known as a basal or complex medium) contains:
+a carbon source such as glucose
+water
+various salts
+a source of amino acids and nitrogen (e.g. beef, yeast extract)
+This is an undefined medium because the amino-acid source contains a variety of compounds; the exact composition is unknown.
+A defined medium (also known as chemically defined medium or synthetic medium) is a medium in which
+all the chemicals used are known
+no yeast, animal, or plant tissue is present
+Examples of nutrient media:
+nutrient agar
+plate count agar
+trypticase soy agar
+Minimal media[edit]
+A defined medium that has just enough ingredients to support growth is called a "minimal medium". The number of ingredients that must be added to a minimal medium varies enormously depending on which microorganism is being grown.[7] Minimal media are those that contain the minimum nutrients possible for colony growth, generally without the presence of amino acids, and are often used by microbiologists and geneticists to grow "wild-type" microorganisms. Minimal media can also be used to select for or against recombinants or exconjugants.
+Minimal medium typically contains:
+a carbon source, which may be a sugar such as glucose, or a less energy-rich source such as succinate
+various salts, which may vary among bacteria species and growing conditions; these generally provide essential elements such as magnesium, nitrogen, phosphorus, and sulfur to allow the bacteria to synthesize protein and nucleic acids
+water
+Supplementary minimal media are minimal media that also contains a single selected agent, usually an amino acid or a sugar. This supplementation allows for the culturing of specific lines of auxotrophic recombinants.
+Selective media[edit]
+ Blood-free, charcoal-based selective medium agar (CSM) for isolation of Campylobacter
+ Blood agar plates are often used to diagnose infection. On the right is a positive Staphylococcus culture; on the left is a positive Streptococcus culture.
+Selective media are used for the growth of only selected microorganisms. For example, if a microorganism is resistant to a certain antibiotic, such as ampicillin or tetracycline, then that antibiotic can be added to the medium to prevent other cells, which do not possess the resistance, from growing. Media lacking an amino acid such as proline in conjunction with E. coli unable to synthesize it were commonly used by geneticists before the emergence of genomics to map bacterial chromosomes.
+Selective growth media are also used in cell culture to ensure the survival or proliferation of cells with certain properties, such as antibiotic resistance or the ability to synthesize a certain metabolite. Normally, the presence of a specific gene or an allele of a gene confers upon the cell the ability to grow in the selective medium. In such cases, the gene is termed a marker.
+Selective growth media for eukaryotic cells commonly contain neomycin to select cells that have been successfully transfected with a plasmid carrying the neomycin resistance gene as a marker. Gancyclovir is an exception to the rule, as it is used to specifically kill cells that carry its respective marker, the Herpes simplex virus thymidine kinase.
+ Four types of agar plate demonstrating differential growth depending on bacterial metabolism
+Examples of selective media:
+Eosin methylene blue contains dyes that are toxic for Gram-positive bacteria. It is the selective and differential medium for coliforms.
+YM (yeast extract agar) has a low pH, deterring bacterial growth.
+MEA (malt extract agar) has a low pH, deterring bacterial growth.
+MacConkey agar is for Gram-negative bacteria.
+Hektoen enteric agar is selective for Gram-negative bacteria.
+HIS-selective medium is a type cell culture medium that lacks the amino acid histidine.
+Mannitol salt agar is selective for gram-positive bacteria and differential for mannitol.
+Xylose lysine deoxycholate is selective for Gram-negative bacteria.
+Buffered charcoal yeast extract agar is selective for certain gram-negative bacteria, especially Legionella pneumophila.
+Baird-Parker agar is for gram-positive staphylococci.
+Sabouraud agar is selective to certain fungi due to its low pH (5.6) and high glucose concentration (3 4%).
+DRBC (dichloran rose bengal chloramphenicol agar) is a selective medium for the enumeration of moulds and yeasts in foods. Dichloran and rose bengal restrict the growth of mould colonies, preventing overgrowth of luxuriant species and assisting accurate counting of colonies.[8]
+MMN (Modified Melin-Norkrans) medium and BAF medium are used for ectomycorrhizal fungi.[9][10]
+Differential media[edit]
+ UTI agar is a chromogenic medium for differentiation of main microorganisms that cause urinary tract infections (UTIs).
+Differential or indicator media distinguish one microorganism type from another growing on the same medium.[11] This type of media uses the biochemical characteristics of a microorganism growing in the presence of specific nutrients or indicators (such as neutral red, phenol red, eosin y, or methylene blue) added to the medium to visibly indicate the defining characteristics of a microorganism. These media are used for the detection of microorganisms and by molecular biologists to detect recombinant strains of bacteria.
+Examples of differential media:
+Blood agar (used in strep tests) contains bovine heart blood that becomes transparent in the presence of  -hemolytic organisms such as Streptococcus pyogenes and Staphylococcus aureus.
+Eosin methylene blue is differential for lactose fermentation.
+Granada medium is selective and differential for Streptococcus agalactiae (group B streptococcus) which grows as distinctive red colonies in this medium.
+MacConkey agar is differential for lactose fermentation.
+Mannitol salt agar is differential for mannitol fermentation.
+X-gal plates are differential for lac operon mutants.
+Transport media[edit]
+Transport media should fulfill these criteria:
+Temporary storage of specimens being transported to the laboratory for cultivation
+Maintain the viability of all organisms in the specimen without altering their concentration
+Contain only buffers and salt
+Lack of carbon, nitrogen, and organic growth factors so as to prevent microbial multiplication
+Transport media used in the isolation of anaerobes must be free of molecular oxygen.
+Examples of transport media:
+Thioglycolate broth is for strict anaerobes.
+Stuart transport medium is a non-nutrient soft agar gel containing a reducing agent to prevent oxidation, and charcoal to neutralize.
+Certain bacterial inhibitors are used for gonococci, and buffered glycerol saline for enteric bacilli.
+Venkataraman Ramakrishna (VR) medium is used for V. cholerae.
+Enriched media[edit]
+Enriched media contain the nutrients required to support the growth of a wide variety of organisms, including some of the more fastidious ones. They are commonly used to harvest as many different types of microbes as are present in the specimen. Blood agar is an enriched medium in which nutritionally rich whole blood supplements the basic nutrients. Chocolate agar is enriched with heat-treated blood (40 45 C or 104 113 F), which turns brown and gives the medium the color for which it is named.[citation needed]
+Physiological relevance[edit]
+The choice of culture medium might affect the physiological relevance of findings from tissue culture experiments, especially for metabolic studies.[12] In addition, the dependence of a cell line on a metabolic gene was shown to be affected by the media type.[13] When performing a study involving several cell lines, utilizing a uniform culture media for all cell lines might reduce the bias in the generated datasets. Using a growth medium that better represents the physiological levels of nutrients can improve the physiological relevance of in vitro studies and recently such media types, as Plasmax[14] and human plasma-like medium (HPLM),[15] were developed.
+See also[edit]
+Cell culture
+Impedance microbiology
+Modified Chee's medium
+References[edit]
+^ a b c Madigan M, Martinko J, eds. (2005). Brock Biology of Microorganisms (11th ed.). Prentice Hall. ISBN 0-13-144329-1.
+^ Birgit Hadeler, Sirkka Scholz, Ralf Reski (1995). "Gelrite and agar differently influence cytokinin-sensitivity of a moss". Journal of Plant Physiology (146): 369 371.{{cite journal}}:  CS1 maint: uses authors parameter (link)
+^ Ryan KJ, Ray CG, eds. (2004). Sherris Medical Microbiology (4th ed.). McGraw Hill. ISBN 0-8385-8529-9.
+^ Hans G nter Schlegel (1993). General Microbiology. Cambridge University. p. 459. ISBN 978-0-521-43980-0. Retrieved 6 August 2013.
+^ Parija, Shubhash Chandra (1 January 2009). Textbook of Microbiology & Immunology. Elsevier India. p. 45. ISBN 978-81-312-2163-1. Retrieved 6 August 2013.
+^ Cooper, GM (2000). "Tools of Cell Biology". The Cell: A Molecular Approach. Washington, D.C: ASM Press. ISBN 0-87893-106-6.
+^ Catherine A. Ingraham, John L. Ingraham (2000). Introduction to Microbiology.
+^ Corry, Janet E. L.; Curtis, G. D. W.; Baird, Rosamund M., eds. (1995-01-01). "Dichloran rose bengal chloramphenicol (DRBC) agar". Progress in Industrial Microbiology. Elsevier. 34: 303 305. doi:10.1016/s0079-6352(05)80036-0. ISBN 9780444814982. Retrieved 2020-04-20.
+^ Islam, Ferzana; Ohga, Shoji (2013-03-12). "Effects of Media Formulation on the Growth and Morphology of Ectomycorrhizae and Their Association with Host Plant". International Scholarly Research Notices. 2013: e317903. doi:10.1155/2013/317903.
+^ Chaitali Bhattacharya; Alok Adholeya. "Showcasing Ectomycorrhizal Culture". bookstore.teri.res.in. Retrieved 2023-02-04.
+^ Washington, JA (1996). "Principles of Diagnosis".  In Baron, S;  et al. (eds.). Baron's Medical Microbiology (4th ed.). Univ of Texas Medical Branch. ISBN 0-9631172-1-1.
+^ Lagziel S, GottliebE, Shlomi T (2020). "Mind your media". Nature Metabolism. 2 (12): 1369 1372. doi:10.1038/s42255-020-00299-y. PMID 33046912. S2CID 222319735.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+^ Lagziel S, Lee WD, Shlomi T (2019). "Inferring cancer dependencies on metabolic genes from large-scale genetic screens". BMC Biology. 17 (1): 37. doi:10.1186/s12915-019-0654-4. PMC 6489231. PMID 31039782.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+^ Vande Voorde J, Ackermann T, Pfetzer N, Sumpton D, Mackay G, Kalna G;  et al. (2019). "Improving the metabolic fidelity of cancer models with a physiological cell culture medium". Science Advances. 5 (1): eaau7314. Bibcode:2019SciA....5.7314V. doi:10.1126/sciadv.aau7314. PMC 6314821. PMID 30613774.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+^ Cantor JR, Abu-Remaileh M, Kanarek N, Freinkman E, Gao X, Louissaint A;  et al. (2017). "Physiologic Medium Rewires Cellular Metabolism and Reveals Uric Acid as an Endogenous Inhibitor of UMP Synthase". Cell. 169 (2): 258 272.e17. doi:10.1016/j.cell.2017.03.023. PMC 5421364. PMID 28388410.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+External links[edit]
+"The Nutrient Requirements of Cells"
+vteGrowth media / agar platesSelective mediaGram positiveActinomycetota
+Mycobacterium tuberculosis
+L wenstein Jensen medium
+Middlebrook 7H9 Broth
+Middlebrook 7H10 Agar
+Middlebrook 7H11 Agar
+Mycoplasma pneumoniae
+Eaton's agar
+Bacillota
+Corynebacterium diphtheriae
+Hoyle's agar
+Enterococcus
+Bile esculin agar
+Lactobacillus
+MRS agar
+Lactococcus
+M17 agar
+Staphylococcus
+Mannitol salt agar
+Baird-Parker agar
+Vogel Johnson agar
+Gram negativeAlphaproteobacteria
+Brucella
+Brucella agar
+Farrell's medium
+Betaproteobacteria
+Neisseria
+Thayer Martin agar
+New York City agar
+Gammaproteobacteria
+Bordetella
+Bordet Gengou agar
+Enterobacteriaceae
+VRBD agar
+Haemophilus influenzae/Legionella pneumophila
+Buffered charcoal yeast extract agar
+Pseudomonas aeruginosa
+Cetrimide agar
+Salmonella
+XLT agar
+DCA agar
+Salmonella/Shigella
+XLD agar
+Differential media
+Lactose fermenting gram negative
+MacConkey agar/Sorbitol-MacConkey agar
+Eosin methylene blue
+Hektoen enteric agar
+sulfur
+Bismuth sulfite agar
+Fungal media
+BAF agar
+Czapek medium
+Dermatophyte test medium
+MMN medium
+Potato dextrose agar
+Sabouraud agar
+YM
+Nonselective media
+Blood agar
+Chocolate agar
+Letheen broth
+Nutrient agar
+Plate count agar
+Other/ungrouped media
+Brain heart infusion
+C.D.V agar
+Cystine lactose electrolyte-deficient agar
+Cystine tryptic agar
+Endo agar
+Lauryl tryptose broth
+Lysine iron agar
+Lysogeny broth
+Mueller Hinton agar/PNP agar
+R2A agar
+Simmons' citrate agar
+Trypticase soy agar
+Tryptic soy broth
+TSI slant
+vteTechniques in clinical microbiologyIsolationand cultureIsolation techniques
+Asepsis
+Streak plate
+Selective media
+Cultures by body site
+Blood culture
+Genital culture
+Sputum culture
+Throat culture
+Urine culture
+Wound culture
+Cultures by organism
+Bacterial culture
+Fungal culture
+Viral culture
+Identificationand testingManual testing: basic techniques
+Colonial morphology
+Hemolysis
+Staining
+Gram stain
+Acid-fast stain
+Giemsa stain
+India ink stain
+Ziehl Neelsen stain
+Wet prep
+Rapid tests
+Oxidase
+Catalase
+Indole
+PYR
+Manual testing:biochemical and immunologic tests
+ALA test
+Amino acid decarboxylase test
+Bile solubility test
+CAMP test
+Citrate test
+Coagulase test
+DNAse test
+IMViC
+KOH test
+Methyl red test
+Nitrite test
+ONPG test
+Oxidative/fermentation glucose test
+Phenylalanine deaminase test
+Reverse CAMP test
+Salt tolerance test
+Sulfide indole motility test
+Triple sugar iron test
+Urease test
+rapid
+Voges Proskauer test
+X and V factor test
+Bacitracin susceptibility test
+Optochin susceptibility test
+Novobiocin susceptibility test
+Lancefield grouping
+RPR test
+Automated and point-of-care testing
+Analytical profile index
+MALDI-TOF
+Polymerase chain reaction
+VITEK system
+Rapid strep test
+Monospot test
+Antibiotic susceptibility testing
+Beta-lactamase test
+Disk diffusion test
+Etest
+McFarland standards
+Minimum inhibitory concentration
+Equipment
+Agar plate
+Growth medium
+Anaerobic jar
+Gas-pak
+Durham tube
+Biosafety cabinet
+Incubator
+Inoculation loop
+Inoculation needle
+Authority control: National 
+Israel
+United States
+Japan
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Growth_medium&oldid=1138548641"

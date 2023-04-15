@@ -1,0 +1,1115 @@
+Collection of multimedia related APIs on Microsoft platforms
+"DX9" redirects here. For the synthesizer, see Yamaha DX9.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "DirectX" news  newspapers  books  scholar  JSTOR (April 2016) (Learn how and when to remove this template message)
+DirectXDeveloper(s)MicrosoftInitial releaseSeptember 30, 1995; 27 years ago (1995-09-30)Stable release12 Ultimate API
+   /    October 5, 2021; 18 months ago (2021-10-05)
+Operating systemMicrosoft Windows, Windows Phone 8, Dreamcast,[1] Xbox, Xbox 360, Xbox One, Xbox Series X and Series S, Linux (Gallium Nine) (DirectX 12 only, Exclusive to Windows Subsystem for Linux),,[2]TypeAPI
+Microsoft DirectX is a collection of application programming interfaces (APIs) for handling tasks related to multimedia, especially game programming and video, on Microsoft platforms. Originally, the names of these APIs all began with "Direct", such as Direct3D, DirectDraw, DirectMusic, DirectPlay, DirectSound, and so forth. The name DirectX was coined as a shorthand term for all of these APIs (the X standing in for the particular API names) and soon became the name of the collection. When Microsoft later set out to develop a gaming console, the X was used as the basis of the name Xbox to indicate that the console was based on DirectX technology.[3] The X initial has been carried forward in the naming of APIs designed for the Xbox such as XInput and the Cross-platform Audio Creation Tool (XACT), while the DirectX pattern has been continued for Windows APIs such as Direct2D and DirectWrite.
+Direct3D (the 3D graphics API within DirectX) is widely used in the development of video games for Microsoft Windows and the Xbox line of consoles. Direct3D is also used by other software applications for visualization and graphics tasks such as CAD/CAM engineering. As Direct3D is the most widely publicized component of DirectX, it is common to see the names "DirectX" and "Direct3D" used interchangeably.
+The DirectX software development kit (SDK) consists of runtime libraries in redistributable binary form, along with accompanying documentation and headers for use in coding. Originally, the runtimes were only installed by games or explicitly by the user. Windows 95 did not launch with DirectX, but DirectX was included with Windows 95 OEM Service Release 2.[4] Windows 98 and Windows NT 4.0 both shipped with DirectX, as has every version of Windows released since. The SDK is available as a free download. While the runtimes are proprietary, closed-source software, source code is provided for most of the SDK samples. Starting with the release of Windows 8 Developer Preview, DirectX SDK has been integrated into Windows SDK.[5]
+Development history[edit]
+In late 1994, Microsoft was ready to release Windows 95, its next operating system. An important factor in the value consumers would place on it was the programs that would be able to run on it. Microsoft employee Alex St. John had been in discussions with various game developers asking how likely they would be to bring their MS-DOS games to Windows 95, and found the responses mostly negative; programmers had found that the Windows environment did not provide the necessary features which were available under MS-DOS using BIOS routines or direct hardware access.[6] There were also strong fears of compatibility; a notable case of this was from Disney's Animated Storybook: The Lion King which was based on the WinG programming interface.[7] Due to numerous incompatible graphics drivers from new Compaq computers that were not tested with the WinG interface which came bundled with the game, it crashed so frequently on many desktop systems that parents had flooded Disney's call-in help lines.[8][9]
+St. John recognized the resistances for game development under Windows would be a limitation, and recruited two additional engineers, Craig Eisler and Eric Engstrom, to develop a better solution to get more programmers to develop games for Windows. The project was codenamed the Manhattan Project, like the World War II project of the same name, and the idea was to displace the Japanese-developed video game consoles with personal computers running Microsoft's operating system.[8] It had initially used the radiation symbol as its logo but Microsoft asked the team to change the logo.[8] Management did not agree to the project as they were already writing off Windows as a gaming platform, but the three committed towards this project's development.[9] Their rebellious nature led Brad Silverberg, the senior vice president of Microsoft's office products, to name the trio the "Beastie Boys".[10]
+Most of the work by the three was done among other assigned projects starting near the end of 1994.[9] Within four months and with input from several hardware manufacturers, the team had developed the first set of application programming interfaces (APIs) which they presented at the 1995 Game Developers Conference.[9] The SDK included libraries implementing DirectDraw for bit-mapped graphics,[11] DirectSound for audio,[12] and DirectPlay for communication between players over a network.[13] Furthermore, an extended joystick API already present in Windows 95 was documented for the first time as DirectInput,[14] while a description of how to implement the immediate start of the installation procedure of a software title after inserting its CD-ROM, a feature called AutoPlay, was also part of the SDK.[15] The "Direct" part of the library was so named as these routines bypassed existing core Windows 95 routines and accessed the computer hardware only via a hardware abstraction layer (HAL).[16] Though the team had named it the "Game SDK" (software development kit), the name "DirectX" came from one journalist that had mocked the naming scheme of the various libraries. The team opted to continue to use that naming scheme and call the project DirectX.[8]
+The first version of DirectX was released in September 1995 as the Windows Games SDK. Its DirectDraw component was the Win32 replacement for the DCI[17] and WinG APIs for Windows 3.1.[18] DirectX allowed all versions of Microsoft Windows, starting with Windows 95, to incorporate high-performance multimedia. Eisler wrote about the frenzy to build DirectX 1 through 5 in his blog.[19]
+To get more developers on board DirectX, Microsoft approached id Software's John Carmack and offered to port Doom and Doom 2 from MS-DOS to DirectX, free of charge, with id retaining all publishing rights to the game. Carmack agreed, and Microsoft's Gabe Newell led the porting project. The first game was released as Doom 95 in August 1996, the first published DirectX game. Microsoft promoted the game heavily with Bill Gates appearing in ads for the title.[8]
+DirectX 2.0 became a component of Windows itself with the releases of Windows 95 OSR2 and Windows NT 4.0 in mid-1996. Since Windows 95 was itself still new and few games had been released for it, Microsoft engaged in heavy promotion of DirectX to developers who were generally distrustful of Microsoft's ability to build a gaming platform in Windows. Alex St. John, the evangelist for DirectX, staged an elaborate event at the 1996 Computer Game Developers Conference which game developer Jay Barnson described as a Roman theme, including real lions, togas, and something resembling an indoor carnival.[20] It was at this event that Microsoft first introduced Direct3D, and demonstrated multiplayer MechWarrior 2 being played over the Internet.
+The DirectX team faced the challenging task of testing each DirectX release against an array of computer hardware and software. A variety of different graphics cards, audio cards, motherboards, CPUs, input devices, games, and other multimedia applications were tested with each beta and final release. The DirectX team also built and distributed tests that allowed the hardware industry to confirm that new hardware designs and driver releases would be compatible with DirectX.
+Prior to DirectX Microsoft had added OpenGL to their Windows NT platform.[21] OpenGL had been designed as a cross-platform, window system independent software interface to graphics hardware by Silicon Graphics, Inc. to bring 3D graphics programming into the mainstream of application programming. Besides it could also be used for 2D graphics and imaging and was controlled by the Architectural Review Board (ARB) which included Microsoft.[22][23] Direct3D was intended to be a Microsoft controlled alternative to OpenGL, focused initially on game use. As 3D gaming grew game developers were discovering that OpenGL could be used effectively for game development.[24] At that point a "battle" began between supporters of the cross-platform OpenGL and the Windows-only Direct3D.[25] Incidentally, OpenGL was supported at Microsoft by the DirectX team. If a developer chose to use the OpenGL 3D graphics API in computer games, the other APIs of DirectX besides Direct3D were often combined with OpenGL because OpenGL does not include all of DirectX's functionality (such as sound or joystick support).
+In a console-specific version, DirectX was used as a basis for Microsoft's Xbox, Xbox 360 and Xbox One console API. The API was developed jointly between Microsoft and Nvidia, which developed the custom graphics hardware used by the original Xbox. The Xbox API was similar to DirectX version 8.1, but is non-updateable like other console technologies. The Xbox was code named DirectXbox, but this was shortened to Xbox for its commercial name.[26]
+In 2002, Microsoft released DirectX 9 with support for the use of much longer shader programs than before with pixel and vertex shader version 2.0. Microsoft has continued to update the DirectX suite since then, introducing Shader Model 3.0 in DirectX 9.0c, released in August 2004.
+As of April 2005, DirectShow was removed from DirectX and moved to the Microsoft Platform SDK instead.
+DirectX has been confirmed to be present in Microsoft's Windows Phone 8.[27]
+Real-time raytracing was announced as DXR in 2018. Support for compiling HLSL to SPIR-V was also added in the DirectX Shader Compiler the same year.[28]
+Components[edit]
+DirectX is composed of multiple APIs:
+Direct3D (D3D): Real-time 3D rendering API
+DXGI: Enumerates adapters and monitors and manages swap chains for Direct3D 10 and later.
+Direct2D: 2D graphics API
+DirectWrite: Text rendering API
+DirectCompute: API for general-purpose computing on graphics processing units
+DirectX Diagnostics (DxDiag): A tool for diagnosing and generating reports on components related to DirectX, such as audio, video, and input drivers
+XACT3: High-level audio API
+XAudio2: Low-level audio API
+DirectX Raytracing (DXR): Real-time raytracing API
+DirectStorage: GPU-oriented file I/O API
+DirectML: GPU-accelerated machine learning and artificial intelligence API
+Microsoft has deprecated the following components:
+DirectX Media: Consists of:
+DirectAnimation for 2D/3D[29] web animation, DirectShow for multimedia playback and streaming media
+DirectX Media Objects: Support for streaming objects such as encoders, decoders, and effects (Deprecated in favor of Media Foundation Transforms; MFTs)[30]
+DirectX Transform for web interactivity, and Direct3D Retained Mode for higher level 3D graphics
+DirectX plugins for audio signal processing
+DirectX Video Acceleration for accelerated video playback (Deprecated in favor of Media Foundation)
+DirectDraw: 2D graphics API (Deprecated in favor of Direct2D)
+DirectInput: Input API for interfacing with keyboards, mice, joysticks, and game controllers (Deprecated after version 8 in favor of XInput for Xbox 360 controllers or standard WM_INPUT window message processing for keyboard and mouse input)
+DirectPlay: Network API for communication over a local-area or wide-area network (Deprecated after version 8 in favor of Games for Windows Live and Xbox Live)
+DirectSound: Audio API (Deprecated since DirectX 8 in favor of XAudio2 and XACT3)
+DirectSound3D (DS3D): 3D sounds API (Deprecated since DirectX 8 in favor of XAudio2 and XACT3)
+DirectMusic: Components for playing soundtracks authored in DirectMusic Producer (Deprecated since DirectX 8 in favor of XAudio2 and XACT3)
+DirectX functionality is provided in the form of COM-style objects and interfaces. Additionally, while not DirectX components themselves, managed objects have been built on top of some parts of DirectX, such as Managed Direct3D[31] and the XNA graphics library[32] on top of Direct3D 9.
+Microsoft distributes debugging tool for DirectX called "PIX".[33]
+Versions[edit]
+DirectX 9[edit]
+See also: Direct3D  Direct3D 9This section needs expansion. You can help by adding to it.  (October 2018)
+DirectX 9 was released in 2002 for Windows 98, Me, and XP, and currently is supported by all subsequent versions. Microsoft continues to make changes in DirectX 9.0c, causing support to be dropped for some of the aforementioned operating systems. As of January 2007, Windows 2000 or XP is required. This also introduced Shader Model 2.0 containing Pixel Shader 2.0 and Vertex Shader 2.0. Windows XP SP2 and newer include DirectX 9.0c,[34] but may require a newer DirectX runtime redistributable installation for DirectX 9.0c applications compiled with the February 2005 DirectX 9.0 SDK or newer.
+DirectX 10[edit]
+See also: Direct3D 10
+ Microsoft DirectX 10 logo wordmark
+A major update to DirectX API, DirectX 10 ships with and is only available with Windows Vista (launched in late 2006) and later. Previous versions of Windows such as Windows XP are not able to run DirectX 10-exclusive applications. Rather, programs that are run on a Windows XP system with DirectX 10 hardware simply resort to the DirectX 9.0c code path, the latest available for Windows XP computers.[35]
+Changes for DirectX 10 were extensive. Many former parts of DirectX API were deprecated in the latest DirectX SDK and are preserved for compatibility only: DirectInput was deprecated in favor of XInput, DirectSound was deprecated in favor of the Cross-platform Audio Creation Tool system (XACT) and additionally lost support for hardware accelerated audio, since the Vista audio stack renders sound in software on the CPU. The DirectPlay DPLAY.DLL was also removed and was replaced with dplayx.dll; games that rely on this DLL must duplicate it and rename it to dplay.dll.
+In order to achieve backwards compatibility, DirectX in Windows Vista contains several versions of Direct3D:[36]
+Direct3D 9: emulates Direct3D 9 behavior as it was on Windows XP. Details and advantages of Vista's Windows Display Driver Model are hidden from the application if WDDM drivers are installed. This is the only API available if there are only XP graphic drivers (XDDM) installed, after an upgrade to Vista for example.
+Direct3D 9Ex (known internally during Windows Vista development as 9.0L or 9.L): allows full access to the new capabilities of WDDM (if WDDM drivers are installed) while maintaining compatibility for existing Direct3D applications. The Windows Aero user interface relies on D3D 9Ex.
+Direct3D 10: Designed around the new driver model in Windows Vista and featuring a number of improvements to rendering capabilities and flexibility, including Shader Model 4.
+Direct3D 10.1 is an incremental update of Direct3D 10.0 which shipped with, and required, Windows Vista Service Pack 1, which was released in February 2008.[37] This release mainly sets a few more image quality standards for graphics vendors, while giving developers more control over image quality.[38] It also adds support for cube map arrays, separate blend modes per-MRT, coverage mask export from a pixel shader, ability to run pixel shader per sample, access to multi-sampled depth buffers[39] and requires that the video card supports Shader Model 4.1 or higher and 32-bit floating-point operations. Direct3D 10.1 still fully supports Direct3D 10 hardware, but in order to utilize all of the new features, updated hardware is required.[40]
+DirectX 11[edit]
+See also: Direct3D 11
+ Microsoft DirectX 11 logo wordmark
+Microsoft unveiled DirectX 11 at the Gamefest 08 event in Seattle. The Final Platform Update launched for Windows Vista on October 27, 2009, which was a week after the initial release of Windows 7, which launched with Direct3D 11 as a base standard. 
+Major scheduled features including GPGPU support (DirectCompute), and Direct3D 11 with tessellation support[41][42] and improved multi-threading support to assist video game developers in developing games that better utilize multi-core processors.[43] Parts of the new API such as multi-threaded resource handling can be supported on Direct3D 9/10/10.1-class hardware. Hardware tessellation and Shader Model 5.0 require Direct3D 11 supporting hardware.[44] Microsoft has since released the Direct3D 11 Technical Preview.[45] Direct3D 11 is a strict superset of Direct3D 10.1   all hardware and API features of version 10.1 are retained, and new features are added only when necessary for exposing new functionality. This helps to keep backwards compatibility with previous versions of DirectX.
+Four updates for DirectX 11 were released:
+DirectX 11.1 is included in Windows 8. It supports WDDM 1.2 for increased performance, features improved integration of Direct2D (now at version 1.1), Direct3D, and DirectCompute, and includes DirectXMath, XAudio2, and XInput libraries from the XNA framework. It also features stereoscopic 3D support for gaming and video.[46] DirectX 11.1 was also partially backported to Windows 7, via the Windows 7 platform update.[47][48]
+DirectX 11.2 is included in Windows 8.1 (including the RT version) and Windows Server 2012 R2.[49] It added some new features to Direct2D like geometry realizations.[50] It also added swap chain composition, which allows some elements of the scene to be rendered at lower resolutions and then composited via hardware overlay with other parts rendered at higher resolution.[51]
+DirectX 11.X is a superset of DirectX 11.2 running on the Xbox One.[52] It actually includes some features, such as draw bundles, that were later announced as part of DirectX 12.[53]
+DirectX 11.3 was announced along with DirectX 12 at GDC and released in 2015. It is meant to complement DirectX 12 as a higher-level alternative.[54] It is included with Windows 10.[49]
+DirectX 12[edit]
+See also: Direct3D 12
+DirectX 12 was announced by Microsoft at GDC on March 20, 2014, and was officially launched alongside Windows 10 on July 29, 2015.
+The primary feature highlight for the new release of DirectX was the introduction of advanced low-level programming APIs for Direct3D 12 which can reduce driver overhead. Developers are now able to implement their own command lists and buffers to the GPU, allowing for more efficient resource utilization through parallel computation. Lead developer Max McMullen stated that the main goal of Direct3D 12 is to achieve "console-level efficiency on phone, tablet and PC".[55] The release of Direct3D 12 comes alongside other initiatives for low-overhead graphics APIs including AMD's Mantle for AMD graphics cards, Apple's Metal for iOS and macOS and Khronos Group's cross-platform Vulkan.
+Multiadapter support will feature in DirectX 12 allowing developers to utilize multiple GPUs on a system simultaneously; multi-GPU support was previously dependent on vendor implementations such as AMD CrossFireX or NVIDIA SLI.[56][57][58][59]
+Implicit Multiadapter support will work in a similar manner to previous versions of DirectX where frames are rendered alternately across linked GPUs of similar compute-power.
+Explicit Multiadapter will provide two distinct API patterns to developers. Linked GPUs will allow DirectX to view graphics cards in SLI or CrossFireX as a single GPU and use the combined resources; whereas Unlinked GPUs will allow GPUs from different vendors to be utilized by DirectX, such as supplementing the dedicated GPU with the integrated GPU on the CPU, or combining AMD and NVIDIA cards. However, elaborate mixed multi-GPU setups requires significantly more attentive developer support.
+DirectX 12 is supported on all Fermi and later Nvidia GPUs, on AMD's GCN-based chips and on Intel's Haswell and later processors' graphics units.[60]
+At SIGGRAPH 2014, Intel released a demo showing a computer generated asteroid field, in which DirectX 12 was claimed to be 50 70% more efficient than DirectX 11 in rendering speed and CPU power consumption.[61][62]
+Ashes of the Singularity was the first publicly available game to utilize DirectX 12. Testing by Ars Technica in August 2015 revealed slight performance regressions in DirectX 12 over DirectX 11 mode for the Nvidia GeForce 980 Ti, whereas the AMD Radeon R9 290x achieved consistent performance improvements of up to 70% under DirectX 12, and in some scenarios the AMD outperformed the more powerful Nvidia under DirectX 12. The performance discrepancies may be due to poor Nvidia driver optimizations for DirectX 12, or even hardware limitations of the card which was optimized for DirectX 11 serial execution; however, the exact cause remains unclear.[63]
+The performance improvements of DirectX 12 on the Xbox are not as substantial as on the PC.[64]
+In March 2018, DirectX Raytracing (DXR) was announced, capable of real-time ray-tracing on supported hardware,[65] and the DXR API was added in the Windows 10 October 2018 update.
+In 2019 Microsoft announced the arrival of DirectX 12 to Windows 7 but only as a plug-in for certain game titles.[66]
+DirectX 12 Ultimate[edit]
+Microsoft revealed DirectX 12 Ultimate in March 2020. DirectX 12 Ultimate will unify to a common library on both Windows 10 computers and the Xbox Series X and other ninth-generation Xbox consoles. Among the new features in Ultimate includes DirectX Raytracing 1.1, Variable Rate Shading, which gives programmers control over the level of detail of shading depending on design choices, Mesh Shaders, and Sampler Feedback.[67][68]
+Version history[edit]
+Release timelineMajor releases1995DirectX 11996DirectX 2DirectX 31997DirectX 51998DirectX 61999DirectX 72000DirectX 820012002DirectX 92003200420052006DirectX 10200720082009DirectX 11201020112012201320142015DirectX 1220162017201820192020DirectX 12 Ultimate
+DirectX versions
+Version
+Release date
+Notes
+Major
+Minor
+Number
+1
+1.0
+4.02.0095
+September 30, 1995
+Initially released as Windows Game SDK, replacing WinG for Windows 95 onwards
+2
+2.0
+1996
+Was shipped only with a few 3rd party applications
+2.0a
+4.03.00.1096
+June 5, 1996
+Windows 95 OSR2 and Windows NT 4.0 exclusive
+3
+3.0
+4.04.00.0068
+September 15, 1996
+ 
+4.04.00.0069
+1996
+Later package of DirectX 3.0 included Direct3D 4.04.00.0069
+3.0a
+4.04.00.0070
+December 1996
+Windows NT 4.0 SP3 (and above)Third 3.0 version and last supported version for Windows NT 4.0
+3.0b
+4.04.00.0070
+December 1996
+This was a very minor update to 3.0a that fixed a cosmetic problem with the Japanese version of Windows 95
+4
+4.0
+Never released
+DirectX 4 was never released. Raymond Chen of Microsoft explained in his book, The Old New Thing, that after DirectX 3 was released, Microsoft began developing versions 4 and 5 at the same time. Version 4 was to be a shorter-term release with small features, whereas version 5 would be a more substantial release. The lack of interest from game developers in the features stated for DirectX 4 resulted in it being shelved, and the large amount of documents that already distinguished the two new versions resulted in Microsoft choosing to not re-use version 4 to describe features intended for version 5.[69][70]
+5
+5.0
+4.05.00.0155 (RC55)
+August 4, 1997
+Available as a beta for Windows 2000 that would install on Windows NT 4.0
+5.2
+4.05.01.1600 (RC00)
+May 5, 1998
+DirectX 5.2 release for Windows 95
+4.05.01.1998 (RC0)
+June 25, 1998
+Windows 98 exclusive
+6
+6.0
+4.06.00.0318 (RC3)
+August 7, 1998[71]
+Windows CE as implemented on Dreamcast and other devices
+6.1
+4.06.02.0436 (RC0)
+February 3, 1999[72]
+6.1a
+4.06.03.0518 (RC0)
+May 5, 1999[73]
+Windows 98 Second Edition exclusive. This is last version that runs on 486 or older CPU.
+7
+7.0
+4.07.00.0700 (RC1)
+September 22, 1999[74][75]
+4.07.00.0700
+February 17, 2000
+Windows 2000 exclusive
+7.0a
+December 17, 1999
+Released only for Windows 95 to 98[76][77]
+4.07.00.0716 (RC0)
+March 8, 2000
+4.07.00.0716 (RC1)
+2000
+7.1
+4.07.01.3000 (RC1)
+September 14, 2000[78]
+Windows Me exclusive. Last version to have built-in RGB software rendering support
+8
+8.0
+4.08.00.0400 (RC10)
+November 10, 2000[79]
+8.0a
+4.08.00.0400 (RC14)
+January 24, 2001[80]
+Second 8.0 version, last supported version for Windows 95 and last version to have software rendering support in dxdiag.exe
+8.1
+4.08.01.0810
+October 25, 2001
+Windows XP, Windows XP SP1, Windows Server 2003 and Xbox exclusive
+4.08.01.0881 (RC7)
+November 8, 2001
+This version is for the down level operating systems (Windows 98, Windows Me and Windows 2000)
+8.1a
+4.08.01.0901 (RC?)
+2002
+This release includes an update to Direct3D (D3d8.dll)
+8.1b
+4.08.01.0901 (RC7)
+June 25, 2002
+This update includes a fix to DirectShow on Windows 2000 (Quartz.dll)
+8.2
+4.08.02.0134 (RC0)
+2002
+Same as the DirectX 8.1b but includes DirectPlay 8.2
+9
+9.0
+4.09.00.0900 (RC4)
+December 19, 2002
+Periodic hybrid 32-bit/64-bit updates were released for DirectX 9, starting from 4.09.00.0904 (RC0 for DX 9.0c) in October 2004, released bimonthly until August 2007, and quarterly thereafter. The last periodic update was released in June 2010[81]
+9.0a
+4.09.00.0901 (RC6)
+March 26, 2003
+9.0b
+4.09.00.0902 (RC2)
+August 13, 2003
+9.0c[82]
+July 22, 2004
+First 9.0c version and last supported version for Windows 98[83]
+4.09.00.0903
+Windows XP SP2 exclusive
+4.09.00.0904 (RC0)
+August 4, 2004[73]
+April 7, 2006
+Third 9.0c version and last supported version for Windows Me[83]
+December 8, 2006
+Fourth 9.0c version and last supported version for Windows 98 Second Edition[83]
+4.09.00.0904
+August 6, 2004 / April 21, 2008*
+Xbox 360, Windows XP SP2, SP3*, Windows Server 2003 SP1 and Windows Server 2003 R2
+February 5, 2010
+Last supported version for Windows 2000[83]
+June 7, 2010
+Final 9.0c version and last supported version for Windows XP[84]
+10
+10
+6.00.6000.16386
+November 30, 2006
+Windows Vista exclusive
+10.1
+6.00.6001.18000
+February 4, 2008
+Windows Vista SP1, Windows Server 2008Includes Direct3D 10.1
+6.00.6002.18005
+April 28, 2009
+Windows Vista SP2, Windows Server 2008 SP2Includes Direct3D 10.1
+11
+11
+6.01.7600.16385
+October 22, 2009
+Windows 7, Windows Server 2008 R2
+6.00.6002.18107
+October 27, 2009
+Windows Vista SP2 and Windows Server 2008 SP2, through the Platform Update for Windows Vista and Windows Server 2008[85]
+6.01.7601.17514
+February 16, 2011
+Windows 7 SP1, Windows Server 2008 R2 SP1
+11.1
+6.02.9200.16384
+August 1, 2012
+Windows 7 SP1 (partially), Windows 8, Windows RT, Windows Server 2012
+11.2
+6.03.9600.16384
+October 18, 2013
+Windows 8.1, Windows RT, Windows Server 2012 R2, Xbox One
+12
+12
+10.00.10240.16384
+July 29, 2015
+Windows 10, Xbox One
+10.00.15063.0000
+March 20, 2017
+Windows 10, Depth Bounds Testing and Programmable MSAA added[86][87]
+10.00.17763.0000
+November 20, 2019
+Direct3D 12 only for Windows 7 SP1, via a dedicated source code package for app developers[88][89]
+10.00.17763.0001
+October 2, 2018
+Windows 10, DirectX Raytracing support added[90]
+10.00.18362.0116
+May 19, 2019
+Windows 10, Variable Rate Shading (VRS) support added[91]
+10.00.19041.0928
+November 10, 2020
+Windows 10, Xbox Series X, Ultimate
+10.00.22000.1000
+October 5, 2021
+Windows 11, Added native refresh rate switching[92] and improved graphics capabilities to Windows Subsystem for Linux[93]
+The version number as reported by Microsoft's DxDiag tool (version 4.09.0000.0900 and higher) use the x.xx.xxxx.xxxx format for version numbers. However, the DirectX and Windows XP MSDN page claims that the registry always has been in the x.xx.xx.xxxx format. Therefore, when the above table lists a version as '4.09.00.0904' Microsoft's DxDiag tool may have it as '4.09.0000.0904'.[94]
+Compatibility[edit]
+Various releases of Windows have included and supported various versions of DirectX, allowing newer versions of the operating system to continue running applications designed for earlier versions of DirectX until those versions can be gradually phased out in favor of newer APIs, drivers, and hardware.[95]
+APIs such as Direct3D and DirectSound need to interact with hardware, and they do this through a device driver. Hardware manufacturers have to write these drivers for a particular DirectX version's device driver interface (or DDI), and test each individual piece of hardware to make them DirectX compatible. Some hardware devices have only DirectX compatible drivers (in other words, one must install DirectX in order to use that hardware). Early versions of DirectX included an up-to-date library of all of the DirectX compatible drivers currently available. This practice was stopped however, in favor of the web-based Windows Update driver-update system, which allowed users to download only the drivers relevant to their hardware, rather than the entire library.
+Prior to DirectX 10, DirectX runtime was designed to be backward compatible with older drivers, meaning that newer versions of the APIs were designed to interoperate with older drivers written against a previous version's DDI. The application programmer had to query the available hardware capabilities using a complex system of "cap bits" each tied to a particular hardware feature. Direct3D 7 and earlier would work on any version of the DDI, Direct3D 8 requires a minimum DDI level of 6 and Direct3D 9 requires a minimum DDI level of 7.[96]
+However, the Direct3D 10 runtime in Windows Vista cannot run on older hardware drivers due to the significantly updated DDI, which requires a unified feature set and abandons the use of "cap bits".
+Direct3D 10.1 introduces "feature levels" 10_0 and 10_1, which allow use of only the hardware features defined in the specified version of Direct3D API. Direct3D 11 adds level 11_0 and "10 Level 9" - a subset of the Direct3D 10 API designed to run on Direct3D 9 hardware, which has three feature levels (9_1, 9_2 and 9_3) grouped by common capabilities of "low", "med" and "high-end" video cards; the runtime directly uses Direct3D 9 DDI provided in all WDDM drivers. Feature level 11_1 has been introduced with Direct3D 11.1.
+.NET Framework[edit]
+In 2002, Microsoft released a version of DirectX compatible with the Microsoft .NET Framework, thus allowing programmers to take advantage of DirectX functionality from within .NET applications using compatible languages such as managed C++ or the use of the C# programming language. This API was known as "Managed DirectX" (or MDX for short), and claimed to operate at 98% of performance of the underlying native DirectX APIs. In December 2005, February 2006, April 2006, and August 2006, Microsoft released successive updates to this library, culminating in a beta version called Managed DirectX 2.0. While Managed DirectX 2.0 consolidated functionality that had previously been scattered over multiple assemblies into a single assembly, thus simplifying dependencies on it for software developers, development on this version has subsequently been discontinued, and it is no longer supported. The Managed DirectX 2.0 library expired on October 5, 2006.
+During the GDC 2006, Microsoft presented the XNA Framework, a new managed version of DirectX (similar but not identical to Managed DirectX) that is intended to assist development of games by making it easier to integrate DirectX, HLSL and other tools in one package. It also supports the execution of managed code on the Xbox 360. The XNA Game Studio Express RTM was made available on December 11, 2006, as a free download for Windows XP. Unlike the DirectX runtime, Managed DirectX, XNA Framework or the Xbox 360 APIs (XInput, XACT etc.) have not shipped as part of Windows. Developers are expected to redistribute the runtime components along with their games or applications.
+No Microsoft product including the latest XNA releases provides DirectX 10 support for the .NET Framework.
+The other approach for DirectX in managed languages is to use third-party libraries like:
+SlimDX, an open source library for DirectX programming on the .NET Framework
+SharpDX,[97][98] which is an open source project delivering the full DirectX API for .NET on all Windows platforms, allowing the development of high performance game, 2D and 3D graphics rendering as well as real-time sound applications
+DirectShow.NET for the DirectShow subset
+Windows API CodePack for .NET Framework, which is an open source library from Microsoft.
+Alternatives[edit]
+There are alternatives to the DirectX family of APIs, with OpenGL, its successor Vulkan, Metal and Mantle having the most features comparable to Direct3D. Examples of other APIs include SDL, Allegro, OpenMAX, OpenML, OpenAL, OpenCL, FMOD, SFML etc. Many of these libraries are cross-platform or have open codebases. There are also alternative implementations that aim to provide the same API, such as the one in Wine. Furthermore, the developers of ReactOS are trying to reimplement DirectX under the name "ReactX".
+See also[edit]
+ActiveX
+Comparison of OpenGL and Direct3D
+Direct3D
+DirectX plugin
+DxDiag
+Graphics Device Interface (GDI)
+Graphics pipeline
+Simple DirectMedia Layer
+Timeout Detection and Recovery
+Vulkan
+Gallery[edit]
+DirectX 1.0 8.2 logo
+DirectX 9.0 logo
+DirectX 12 Ultimate logo
+References[edit]
+^ "Dreamcast Technical Pages". June 1999.
+^ "Microsoft Announces Direct3D 12 For Linux / WSL2". May 19, 2020.
+^ "Microsoft: The meaning of Xbox - The Economist". The Economist. November 24, 2005.
+^ "DirectX Help". computerhope.com.
+^ "Where is the DirectX SDK?". microsoft.com. Microsoft.
+^ DeMaria, Rusel (2019). "11. The Manhattan Project". GAME OF X V.2. CRC Press. Windows needs to support; ...   Page flipping   Vertical blank synchronization   Tight sound mixing   Tight synchronization of sound and video events   Raw blting performance   Ability to set graphic mode ...
+^ Kelly, Christopher (June 1, 1995). "Video for Windows and WinG". Dr. Dobb's Journal. Retrieved August 9, 2022. Lion King software, for example, is a WinToon app. ... Like WinToon, this example uses WinG for drawing on the DIB.
+^ a b c d e Willetts, Samual (July 27, 2020). "How DirectX defined PC gaming... with help from a shotgun-toting Bill Gates". PC Gamer. Retrieved December 7, 2020.
+^ a b c d Craddock, David (November 14, 2020). "Bet on Black: How Microsoft and Xbox Changed Pop Culture, Part 1 - Chapter 8: Power of X". Shacknews. Retrieved December 7, 2020.
+^ Haggarty, James (December 9, 2020). "Microsoft Misfit Helped Lead Company Into Game Market". The Wall Street Journal. Retrieved December 9, 2020.
+^ "Introduction". DirectDraw Application Programming Interface. Microsoft. April 20, 1995.
+^ "Introduction". DirectSound Application Programming Interface. Microsoft. April 20, 1995.
+^ "Introduction". DirectPlay Application Programming Interface. Microsoft. April 20, 1995.
+^ "Chapter 3: Joystick API Reference". DirectInput Application Programming Interface. Microsoft. April 20, 1995.
+^ "What is AutoPlay?". Building AutoPlay-Enabled CD-ROM Titles and Games. Microsoft. November 1, 1994.
+^ "Architectural Overview". DirectDraw Application Programming Interface. Microsoft. April 20, 1995.
+^ "54 What is DCI?". stason.org.
+^ Raskin, Robin (August 1995). "Pity the Poor Developer". PC Magazine. Retrieved August 7, 2022.
+^ Craig Eisler's blog post about the frenzy to build DirectX 1 through 5 on craig.theeislers.com
+^ Jay Barnson (July 13, 2006). "Tales of the Rampant Coyote". Archived from the original on July 17, 2006.
+^ Miller, Michael J. (December 1994). "System Software WINNER Microsoft Windows NT Workstation, Version 3.5". PC Magazine. Retrieved August 13, 2022.
+^ Kilgard, Mark (December 2008). "OpenGL's Design Philosophy (slide)". SlideShare. Retrieved August 14, 2022.
+^ Kilgard, Mark J. (1996). OpenGL Programming for the X Window System. Addison-Wesley. pp. 1 6.
+^ Berkes, Otto (April 12, 2015). "DirectX". Otto Berkes  weblog. Retrieved August 17, 2022.
+^ Hecker, Chris (April 1997). "An Open Letter to Microsoft: Do the Right Thing for the 3D Game Industry" (PDF). Game Developer Magazine. Archived (PDF) from the original on January 26, 2021. Retrieved August 29, 2022.
+^ J. Allard, PC Pro Interview Archived 2007-10-11 at the Wayback Machine, April 2004
+^ "Windows Phone 8 adds DirectX, native development, easier app porting". June 20, 2012. Retrieved June 23, 2012.
+^ "Add the HLSL-spirv cookbook. (#1618)". GitHub. October 23, 2018.{{cite web}}:  CS1 maint: url-status (link)
+^ 3D Animation of SPACE FIGHTER by DIRECT ANIMATION[permanent dead link]
+^ "DirectX Media Objects". DirectShow. Microsoft Docs. June 5, 2019. DMOs have been superseded by Media Foundation Transforms (MFTs).
+^ "DirectX 9: Using the Managed Direct3D Graphics API in .NET". microsoft.com. Microsoft.
+^ "Microsoft.Xna.Framework.Graphics Namespace". microsoft.com. Microsoft.
+^ "PIX".
+^ "Programming Guide for the DirectX SDK". msdn.microsoft.com. Archived from the original on October 18, 2010. Retrieved January 11, 2022.
+^ "DirectX Frequently Asked Questions". microsoft.com. Microsoft.
+^ Chuck Walbourn (August 2009). "Graphics APIs in Windows". MSDN. Retrieved October 3, 2009.
+^ Albanesius, Chloe (August 29, 2007). "Microsoft Unleashes First Service Pack for Vista". PC Magazine. Archived from the original on March 19, 2008. Retrieved August 29, 2007.
+^ "Microsoft Presents DirectX 10.1 Details at SIGGRAPH". August 7, 2007. Retrieved August 27, 2007.
+^ "Learn Network Inspire" (PDF). AMD. Archived from the original (PDF) on April 10, 2012. Retrieved December 30, 2012.
+^ "DirectX 10.1 Requires No New GPU". Windows Vista: The Complete Guide. March 5, 2008. Archived from the original on October 29, 2007. Retrieved March 5, 2008.
+^ "What's next for DirectX? A DirectX 11 overview   A DirectX 11 overview". Elite Bastards. September 1, 2008. Archived from the original on September 4, 2008. Retrieved September 4, 2008.
+^ "DirectX 11: A look at what's coming". bit-tech.net. September 17, 2008.
+^ Windows 7 and D3D 11 release date Archived 2011-10-09 at the Wayback Machine
+^ "MSDN Blogs". msdn.com. Microsoft.
+^ "Download DirectX Software Development Kit from Official Microsoft Download Center". microsoft.com. Microsoft.
+^ "Windows 8 Developer Preview Guide" (PDF). Archived from the original (PDF) on October 7, 2011.
+^ "Platform Update for Windows 7 (Windows)". Msdn.microsoft.com. Retrieved August 9, 2014.
+^ Pooya Eimandar (2013). DirectX 11.1 Game Programming. Packt Publishing Ltd. p. 45. ISBN 978-1-84969-481-0.
+^ a b "How to install the latest version of DirectX". Microsoft Support. Microsoft. Retrieved October 27, 2017.
+^ "Geometry Realizations Overview". microsoft.com. Microsoft.
+^ Bennett Sorbo (June 26, 2013). "What's New in Direct3D 11.2". Channel9 - BUILD 2013. around 20:00.
+^ "Microsoft officially turns down Mantle". semiaccurate.com. October 16, 2013.
+^ Chris Tector's segment of http://channel9.msdn.com/Blogs/DirectX-Developer-Blog/DirectX-Evolving-Microsoft-s-Graphics-Platform (starting approx. 18 minute in.)
+^ Smith, Ryan (September 18, 2014). "Microsoft Details Direct3D 11.3 & 12 New Rendering Features". AnandTech. Retrieved November 6, 2014.
+^ McMullen, Max (April 2, 2014). "Direct3D 12 API Preview". Channel 9. Microsoft.
+^ Moore, Bo (May 5, 2015). "DirectX 12 will be able to use your integrated GPU to improve performance". PC Gamer. Future US. Retrieved August 22, 2015.
+^ Michaud, Scott (May 4, 2015). "BUILD 2015: The Final DirectX 12 Reveal". PC Perspective. PC Perspective. Archived from the original on September 5, 2015. Retrieved August 22, 2015.
+^ Langley, Bryan (July 29, 2015). "Windows 10 and DirectX 12 released!". MSDN DirectX Developer Blog. Microsoft. Archived from the original on August 2, 2015. Retrieved August 22, 2015.
+^ Yeung, Andrew (April 30, 2015). "DirectX 12 Multiadapter: Lighting up dormant silicon and making it work for you". MSDN DirectX Developer Blog. Microsoft. Archived from the original on August 20, 2015. Retrieved August 22, 2015.
+^ Ryan Smith. "AnandTech - Microsoft Announces DirectX 12: Low Level Graphics Programming Comes To DirectX". anandtech.com.
+^ Yeung, Andrew (August 13, 2014). "DirectX 12   High Performance and High Power Savings". DirectX Developer Blog. Microsoft. Archived from the original on August 13, 2014. Retrieved November 6, 2014.
+^ Lauritzen, Andrew (August 11, 2014). "SIGGRAPH 2014: DirectX 12 on Intel". Developer Zone. Intel.
+^ Walton, Mark (August 19, 2015). "DirectX 12 tested: An early win for AMD, and disappointment for Nvidia". Ars Technica UK. Retrieved August 19, 2015.
+^ "Xbox One chief warns gamers not to expect dramatic improvements from DirectX 12 - ExtremeTech". ExtremeTech. Retrieved September 30, 2014.
+^ "Announcing Microsoft DirectX Raytracing!". Microsoft. March 19, 2018.
+^ "Microsoft ports DirectX 12 to Windows 7, giving some older PC games a performance boost". PCWorld. March 13, 2019. Retrieved April 17, 2019.
+^ "Announcing DirectX 12 Ultimate". Microsoft. March 19, 2020. Retrieved March 20, 2020.
+^ Kerr, Chris (March 20, 2020). "Microsoft launches DirectX 12 Ultimate to support next-gen graphics". Gamasutra. Retrieved March 20, 2020.
+^ Chen, Raymond (2006). "Etymology and History". The Old New Thing (1st ed.). Pearson Education. p. 330. ISBN 0-321-44030-7.
+^ "What happened to DirectX 4? - The Old New Thing - Site Home - MSDN Blogs". Blogs.msdn.com. January 22, 2004. Retrieved December 30, 2012.
+^ "Microsoft Ships Final Release of DirectX 6.0". Microsoft.com. August 7, 1998. Archived from the original on August 26, 2015. Retrieved July 19, 2019.
+^ "Microsoft Ships DirectX 6.1". Microsoft.com. February 3, 1999. Archived from the original on August 26, 2015. Retrieved July 19, 2019.
+^ a b "Microsoft DirectX   Frequently Asked Questions". ActiveWin.com. Archived from the original on February 10, 2003. Retrieved August 30, 2019.
+^ "Microsoft Ships Final Release of DirectX 7.0". Microsoft.com. September 22, 1999. Archived from the original on July 19, 2019. Retrieved July 19, 2019.
+^ Paul Thurrott (September 21, 1999). "Microsoft releases DirectX 7.0". ITProToday. Archived from the original on April 17, 2019. Retrieved July 19, 2019.
+^ "Download Center: DirectX / Version - 7.0a". Microsoft.com. Archived from the original on April 8, 2000. Retrieved July 20, 2019.
+^ Maarten Goldstein (December 18, 1999). "DirectX 7A released". Shacknews. Archived from the original on July 20, 2019. Retrieved July 20, 2019.
+^ Paul Thurrott (September 14, 2000). "Windows Millennium Edition (Windows Me) Review". ITProToday. Archived from the original on June 13, 2018. Retrieved July 21, 2019.
+^ Admin (November 10, 2000). "DirectX 8 leaks out". Geek.com. Archived from the original on July 12, 2016. Retrieved July 20, 2019.
+^ "DirectX 8.0a Redist". Microsoft.com. January 24, 2001. Archived from the original on March 31, 2001. Retrieved July 20, 2019.
+^ "Download DirectX End-User Runtimes (June 2010) from Official Microsoft Download Center". microsoft.com. Microsoft.
+^ "Download DirectX End-User Runtime Web Installer from Official Microsoft Download Center". microsoft.com. Microsoft.
+^ a b c d "MicroSoft DirectX Downloads for Windows (Win95, Win98, Win98SE, WinME, Win2000, WinXP) - complete release history including DirectX1, DirectX2, DirectX3, DirectX5, DirecX6, DirecX7, DirecX8, DirecX9". falconfly.3dfx.pl. Retrieved August 5, 2018.
+^ "Report: No DirectX 10 For Windows XP". GameDeveloper. May 30, 2006. Retrieved December 23, 2021.
+^ "Microsoft upgrades Windows Vista with DirectX 11". pcgameshardware.com. September 15, 2009. Archived from the original on March 31, 2016. Retrieved September 15, 2009.
+^ "What's New in Windows 10, build 15063 - UWP applications".
+^ "Announcing new DirectX 12 features". November 7, 2017.
+^ "NuGet Gallery | Microsoft.Direct3D.D3D12On7 1.1.0".
+^ "DirectX-Specs".
+^ "DirectX Raytracing and the Windows 10 October 2018 Update". October 2, 2018.
+^ "Variable Rate Shading: A scalpel in a world of sledgehammers". March 18, 2019.
+^ "Dynamic refresh rate   Get the best of both worlds". June 28, 2021.
+^ "WSL Graphics Architecture". X.Org Developers Conference 2020. Archived from the original on October 8, 2021. Retrieved October 8, 2021.
+^ "DirectX and Windows XP". Archived from the original on January 18, 2008.
+^ "Which version of DirectX is on your PC?". support.microsoft.com. Retrieved September 30, 2020.
+^ MSN. "Minimum DDI requirements". Microsoft. Retrieved August 2, 2012.
+^ "SharpDX - Managed DirectX". Retrieved September 30, 2014.
+^ "sharpdx/SharpDX". GitHub. Retrieved September 30, 2014.
+External links[edit]
+Microsoft's DirectX developer site
+DirectX at Curlie
+The State of DirectX 10 - Image Quality & Performance
+vteMicrosoft Windows components
+APIs
+Architecture
+9x
+NT
+Booting process
+9x
+NT
+Games
+Managementtools
+App Installer
+Command Prompt
+Control Panel
+Device Manager
+Disk Cleanup
+Drive Optimizer
+Driver Verifier
+DirectX Diagnostic Tool
+Event Viewer
+IExpress
+Management Console
+Netsh
+Performance Monitor
+Recovery Console
+Resource Monitor
+Settings
+Sysprep
+System Configuration
+System File Checker
+System Information
+System Policy Editor
+System Restore
+Task Manager
+Windows Error Reporting
+Windows Ink
+Windows Installer
+PowerShell
+Windows Update
+Windows Insider
+WinRE
+WMI
+Apps
+3D Viewer
+Clock
+Calculator
+Calendar
+Camera
+Character Map
+Clipchamp
+Cortana
+Edge
+Fax and Scan
+Feedback Hub
+Get Help
+Magnifier
+Mail
+Maps
+Messaging
+Media Player
+Windows 11
+Movies & TV
+Mobility Center
+Money
+Narrator
+Notepad
+OneDrive
+OneNote
+Paint
+Paint 3D
+People
+Phone Link
+Photos
+Quick Assist
+Snipping Tool
+Speech Recognition
+Skype
+Sports
+Start
+Sticky Notes
+Store
+Tips
+Voice Recorder
+Weather
+WordPad
+Xbox
+Shell
+Action Center
+Aero
+AutoPlay
+AutoRun
+ClearType
+Explorer
+Search
+Indexing Service
+IFilter
+Saved search
+Namespace
+Special folder
+Start menu
+Taskbar
+Task View
+Windows spotlight
+Windows XP visual styles
+Services
+Service Control Manager
+BITS
+CLFS
+Multimedia Class Scheduler
+Shadow Copy
+Task Scheduler
+Error Reporting
+Wireless Zero Configuration
+File systems
+CDFS
+DFS
+exFAT
+IFS
+FAT
+NTFS
+Hard link
+links
+Mount Point
+Reparse point
+TxF
+EFS
+ReFS
+UDF
+Server
+Active Directory
+Domains
+DNS
+Group Policy
+Roaming user profiles
+Folder redirection
+Distributed Transaction Coordinator
+MSMQ
+Windows Media Services
+Active DRM Services
+IIS
+WSUS
+SharePoint
+Network Access Protection
+PWS
+DFS Replication
+Print Services for UNIX
+Remote Desktop Services
+Remote Differential Compression
+Remote Installation Services
+Windows Deployment Services
+System Resource Manager
+Hyper-V
+Server Core
+Architecture
+Boot Manager
+Console
+CSRSS
+Desktop Window Manager
+Portable Executable
+EXE
+DLL
+Enhanced Write Filter
+Graphics Device Interface
+Hardware Abstraction Layer
+I/O request packet
+Imaging Format
+Kernel Transaction Manager
+Library files
+Logical Disk Manager
+LSASS
+MinWin
+NTLDR
+Ntoskrnl.exe
+Object Manager
+Open XML Paper Specification
+Registry
+Resource Protection
+Security Account Manager
+Server Message Block
+Shadow Copy
+SMSS
+System Idle Process
+USER
+WHEA
+Winlogon
+WinUSB
+Security
+Security and Maintenance
+AppLocker
+BitLocker
+Credential Guard
+Data Execution Prevention
+Defender
+Family features
+Kernel Patch Protection
+Mandatory Integrity Control
+Protected Media Path
+User Account Control
+User Interface Privilege Isolation
+Windows Firewall
+Compatibility
+COMMAND.COM
+Windows Subsystem for Linux
+WoW64
+API
+Active Scripting
+WSH
+VBScript
+JScript
+COM
+ActiveX
+ActiveX Document
+COM Structured storage
+DCOM
+OLE
+OLE Automation
+Transaction Server
+DirectX
+Native
+.NET
+Universal Windows Platform
+WinAPI
+Windows Mixed Reality
+Windows Runtime
+WinUSB
+Games
+Solitaire Collection
+Surf
+DiscontinuedGames
+3D Pinball
+Chess Titans
+FreeCell
+Hearts
+InkBall
+Hold 'Em
+Purble Place
+Spider Solitaire
+Solitaire
+Tinker
+Apps
+ActiveMovie
+Anytime Upgrade
+Address Book
+Backup and Restore
+Cardfile
+CardSpace
+CD Player
+Chat
+Contacts
+Desktop Gadgets
+Diagnostics
+DriveSpace
+DVD Maker
+Easy Transfer
+Fax
+Food & Drink
+Groove Music
+Help and Support Center
+Health & Fitness
+HyperTerminal
+Imaging
+Internet Explorer
+Journal
+Media Center
+Meeting Space
+Messaging
+Messenger
+Mobile Device Center
+Movie Maker
+MSN Dial-up
+NetMeeting
+NTBackup
+Outlook Express
+Pay
+Phone Companion
+Photo Gallery
+Photo Viewer
+Program Manager
+Steps Recorder
+Syskey
+Travel
+WinHelp
+Write
+Others
+ScanDisk
+File Protection
+Media Control Interface
+MS-DOS 7
+Next-Generation Secure Computing Base
+POSIX subsystem
+HPFS
+Interix
+Video for Windows
+Virtual DOS machine
+Windows on Windows
+Windows SideShow
+Windows Services for UNIX
+Windows System Assessment Tool
+Windows To Go
+WinFS
+Spun off toMicrosoft Store
+DVD Player
+File Manager
+Hover!
+Mahjong
+Minesweeper
+ Category
+ List
+vteMicrosoft development toolsDevelopmentenvironmentsVisual Studio
+Code
+Express
+Team System Profiler
+Tools for Applications
+Tools for Office
+Others
+Blend
+Expression Web
+FxCop
+GW-BASIC
+MACRO-80
+Macro Assembler
+MSBuild
+Pascal
+QuickBASIC
+QBasic
+QuickC
+Robotics Developer Studio
+Roslyn
+SharePoint Designer
+FrontPage
+Small Basic
+WebMatrix
+Windows App SDK
+Windows App Studio
+Windows SDK
+CLR Profiler
+ILAsm
+Native Image Generator
+WinDiff
+XAMLPad
+Languages
+Dynamics AX
+BASIC
+Visual Basic
+legacy
+VB.NET
+VBA
+VBScript
+Bosque
+Visual C++
+C++/CX
+C++/CLI
+Managed C++
+C++/WinRT
+C#
+C/AL
+Dafny
+Dexterity
+F#
+F*
+Visual FoxPro
+Java
+J++
+J#
+JavaScript
+TypeScript
+JScript
+IronPython
+IronRuby
+Lean
+P
+Power Fx
+PowerShell
+Project Verona
+Q#
+Small Basic
+VPL
+XAML
+APIs andframeworksNative
+Windows API
+Silverlight
+XNA
+DirectX
+Managed DirectX
+UWP
+Xbox Development Kit
+Windows Installer
+WinUI
+.NET
+ASP.NET
+Core
+AJAX
+Dynamic Data
+MVC
+Razor
+Web Forms
+ADO.NET
+Entity Framework
+MAUI
+CardSpace
+Communication Foundation
+Identity Foundation
+LINQ
+Presentation Foundation
+Workflow Foundation
+Device drivers
+WDK
+WDF
+KMDF
+UMDF
+Windows HLK
+WDM
+DatabaseSQL Server
+Express
+Compact
+Management Studio
+Business Intelligence Development Studio
+MSDE
+SQL services
+Analysis
+Reporting
+Integration
+Notification
+Other
+Visual FoxPro
+Microsoft Access
+Access Database Engine
+Extensible Storage Engine
+Source control
+Visual SourceSafe
+Team Foundation Version Control
+Testing anddebugging
+CodeView
+OneFuzz
+Script Debugger
+WinDbg
+xUnit.net
+Delivery
+Active Setup
+ClickOnce
+npm
+NuGet
+vcpkg
+Web Platform Installer
+Windows Installer
+WiX
+Windows Package Manager
+Microsoft Store
+ Category
+vteMicrosoft APIs and frameworksGraphics
+Desktop Window Manager
+Direct2D
+Direct3D
+D3D (extensions)
+GDI / GDI+
+WPF
+Silverlight
+WinUI
+Windows Color System
+Windows Image Acquisition
+Windows Imaging Component
+DirectX Graphics Infrastructure (DXGI)
+Windows Advanced Rasterization Platform
+WinG
+Audio
+DirectMusic
+DirectSound
+DirectX plugin
+XACT
+Speech API
+XAudio2
+Multimedia
+DirectX
+Media Objects
+Video Acceleration
+Xinput
+DirectInput
+DirectShow
+Image Mastering API
+Managed DirectX
+Media Foundation
+XNA
+Windows Media
+Video for Windows
+Web
+MSHTML
+RSS Platform
+JScript
+VBScript
+BHO
+XDR
+SideBar Gadgets
+TypeScript
+Data access
+Data Access Components (MDAC)
+ADO
+ADO.NET
+ODBC
+OLE DB
+Extensible Storage Engine
+Entity Framework
+Sync Framework
+Access Database Engine
+MSXML
+OPC
+Networking
+Winsock
+LSP
+Winsock Kernel
+Filtering Platform
+NDIS
+Windows Rally
+BITS
+P2P API
+MSMQ
+MS MPI
+DirectPlay
+Communication
+Messaging API
+Telephony API
+WCF
+Administration andmanagement
+Win32 console
+Windows Script Host
+WMI (extensions)
+PowerShell
+Task Scheduler
+Offline Files
+Shadow Copy
+Windows Installer
+Error Reporting
+Event Log
+Common Log File System
+Component model
+COM
+COM+
+ActiveX
+Distributed Component Object Model
+.NET Framework
+Libraries
+Framework Class Library
+Microsoft Foundation Classes (MFC)
+Active Template Library (ATL)
+Windows Template Library (WTL)
+Device drivers
+WDM
+WDF
+KMDF
+UMDF
+WDDM
+NDIS
+UAA
+BDA
+VxD
+Security
+Crypto API
+CAPICOM
+Windows CardSpace
+Data Protection API
+Security Support Provider Interface (SSPI)
+.NET
+ASP.NET
+ADO.NET
+Remoting
+Silverlight
+TPL
+WCF
+WCS
+WPF
+WF
+Software factories
+EFx Factory
+Enterprise Library
+Composite UI
+CCF
+CSF
+IPC
+MSRPC
+Dynamic Data Exchange (DDE)
+Remoting
+WCF
+Accessibility
+Active Accessibility
+UI Automation
+Text and multilingualsupport
+DirectWrite
+Text Services Framework
+Text Object Model
+Input method editor
+Language Interface Pack
+Multilingual User Interface
+Uniscribe
+vteVideo game products by MicrosoftXbox seriesXbox
+Controller
+Games
+World Collection
+Technical specifications
+Xbox 360
+Launch
+Technical problems
+Applications
+Controller
+Accessories
+HD DVD Player
+Wireless Headset
+Wireless Racing Wheel
+Xbox Live Vision
+Games
+Backward compatible
+Kinect Fun Labs
+Technical specifications
+Xbox One
+Applications
+Xbox Wireless Controller
+special editions
+Accessories
+Games
+Best-selling
+Xbox One X enhanced
+Backward compatible
+Xbox Series X/S
+Xbox Wireless Controller
+special editions
+Games
+Backward compatible
+Others
+System software
+Kinect
+Adaptive Controller
+Xbox app
+games
+Platinum Hits
+Windows
+Games for Windows
+games
+GFWL
+games
+Microsoft SideWinder
+Games included with Windows
+Other platforms
+Xbox on Windows Phone
+Zune games
+Online services
+Avatars
+Games Store
+Xbox network/Xbox Live
+Arcade
+Indie Games
+Anywhere
+Xbox Game Pass
+Xbox Cloud Gaming
+Windows Games on Demand games
+Mixer
+MSN Games
+Game Room
+Games
+Promotions
+OurColony
+Official Xbox Magazine
+Xbox Exhibition
+"X" Show
+Summer of Arcade
+Developer tools
+DirectX
+Xbox Development Kit
+XNA
+Game Studio
+ID@Xbox
+Xbox Game Studios
+343 Industries
+The Coalition
+The Initiative
+Compulsion Games
+Double Fine
+InXile Entertainment
+Mojang Studios
+Ninja Theory
+Obsidian Entertainment
+Playground Games
+Rare
+Turn 10 Studios
+Undead Labs
+ZeniMax Media
+Alpha Dog Games
+Arkane Studios
+Bethesda Softworks
+Bethesda Game Studios
+Austin
+Dallas
+id Software
+MachineGames
+Tango Gameworks
+ZeniMax Online Studios
+Authority control: National 
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=DirectX&oldid=1147825479"

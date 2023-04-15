@@ -1,0 +1,157 @@
+Electrical connector
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Mini-DIN connector" news  newspapers  books  scholar  JSTOR (November 2009) (Learn how and when to remove this template message)
+This article's lead section may be too short to adequately summarize the key points. Please consider expanding the lead to provide an accessible overview of all important aspects of the article. (June 2021)
+ (Learn how and when to remove this template message)
+The plug or male connectors shown, as visible when unplugged looking into the connector. Pin numbering for the plugs is from left to right, bottom row to top row. Pin 1 is on the lower left, and the highest pin number is on the upper right
+ PS/2 socket pin numbering: note that the male plug numbering is a mirror image, with numbers going from right to left.
+The mini-DIN connectors are a family of multi-pin electrical connectors used in a variety of applications. Mini-DIN is similar to the larger, older DIN connector.
+Design[edit]
+ Color-coded PS/2 connection ports (purple for keyboards and green for mice) on the rear of a personal computer
+ An S-video connector: because this is a female connector, Pin 1 is at lower right
+Mini-DIN connectors are 9.5 millimetres (3 8 in) in diameter and come in seven patterns, with the number of pins from three to nine. Each pattern is keyed in such a way that a plug with one pattern cannot be mated with any socket of another pattern. They are each drastically different from the other, with no simultaneously and directly overlapping similarities in (1) pin arrangement, (2) square key size and position, (3) circular shielding metal skirt notches and metallic additions: in this they differ from the nonstandard mini-DIN connectors which may have directly overlapping characteristics to each other or to the standard mini-DIN connectors.[original research?]
+Notable usage[edit]
+Some notable examples of standard mini-DIN connectors include:
+Mini-DIN-3 connectors were used in early implementations of Apple LocalTalk.
+Mini-DIN-4 connectors are used for S-video, and were used for Apple Desktop Bus.
+Mini-DIN-6 connectors were used for IBM PC compatible PS/2 keyboard and mouse ports and for Acorn Archimedes keyboards (prior to the A7000, these were proprietary, while A7000 and later devices were standardised PS/2).
+Mini-DIN-8 connectors were used for Sun Microsystems[1] keyboard and mouse ports, as well as for serial printer, modem, and Apple[2] LocalTalk connections. It was also used as the game pad connector for the PC Engine video game system and its variants (except the TurboGrafx-16 USA variant, which used a full sized DIN-8). The connector was used by the controller peripheral for the Philips CD-i video game system.[3] Furthermore, some devices by Keithley Instruments feature it, too.
+Mini-DIN-9 connectors were used for Acorn Archimedes Quadrature Mice and Microsoft InPort Bus Mice (not interchangeable). It is also used as the Audio/Video output port of Sega Genesis/Mega Drive gaming consoles on Model 2 variants, as well as their 32X addon.
+Mini-DIN-7 and Mini-DIN-9 connectors have been used for a variety of audio and video applications. Also, iRobot Roomba Vacuum cleaning robots use a Mini-DIN-7 to expose an interface for custom sensing and control.
+Mini-DIN-6 and Mini-DIN-8 connectors are frequently used in ham radio applications to interface with computers for data packet communications and radio programming.
+Non-standard connectors[edit]
+The plug or male connector are shown, as visible when unplugged; female sockets are mirror images
+Several non-standard sockets are designed to mate with standard mini-DIN plugs. These connectors provide extra conductors, and are used to save space by combining functions in one connector that would otherwise require two standard connectors.
+Other non-standard connectors mate only with their matching connectors, and are mini-DIN connectors only in the sense of sharing the 9.5 mm plug body. These mini-DIN style plugs are not approved by the Deutsches Institut f r Normung, the German standards body, and many applications could be considered proprietary. The Sega Saturn uses a 10-pin non-standard connector.
+ A non-standard, 7-pin socket (female) variant compatible with an S-Video Mini-DIN-4 plug (male)
+Other non-standard connectors[edit]
+JVC Mini-DIN 8
+Allen-Bradley Micrologix PLC Mini-DIN 8
+Beyerdynamic microphone connector
+Some 3-pin and 4-pin DC power connectors look similar enough to Mini-DIN connectors to be erroneously referred to as "Mini-DIN" connectors sometimes.
+See also[edit]
+DC connector#Snap and lock DC power connectors
+References[edit]
+^ Stokely, Celeste (2005). "Serial Port & Cable Pinouts". sunhelp.org. Archived from the original on 2013-05-15. Retrieved 2013-10-08.
+^ "Mini DIN-8: Serial pinouts for Hayes modems". support.apple.com. Feb 19, 2012. Retrieved 2013-10-08.
+^ The CD-i Controller Interface
+vteAudio and video connectorsAnalog audio
+Banana plug
+Binding post
+D-subminiature
+Euroblock
+DIN
+Mini-DIN
+Jack plug
+RCA
+Speaker spring terminal
+Speakon
+XLR
+Digital audio
+BNC
+D-sub
+S/PDIF
+TOSLINK
+XLR
+Video
+BNC
+Component RGB
+Component YPbPr
+Composite video
+D-Terminal
+DB13W3
+DFP
+DIN
+Mini-DIN
+DMS-59
+LFH
+DVI
+Mini-DVI
+Micro-DVI
+RCA
+S-Video
+UDI
+VGA
+Mini-VGA
+Audio and video
+ADC
+Belling-Lee
+EVC
+Type F
+HDBaseT
+HDMI
+DisplayPort
+mDP
+MHL (superMHL)
+Minijack
+P&D
+PDMI
+SCART
+Visual charts
+List of video connectors
+General-purpose
+Thunderbolt
+USB
+vteAudio and video interfaces and connectorsAudio onlyAnalog
+Interface: PC System Design Guide
+Connectors: TRS 3.5 mm
+Interface: Balanced audio
+Connectors: TRS 6.53 mm
+XLR
+Digital
+Interface: S/PDIF
+Connectors: RCA jack (coaxial)
+TOSLINK (optical)
+BNC
+Interface: AES3 (AES/EBU)
+Connectors: RCA jack
+XLR
+TOSLINK (optical)
+BNC
+Video onlyAnalog
+Interface: VGA
+Connectors: DB-15
+DVI-A
+Interface: Composite
+Connectors: RCA jack yellow
+Interface: S-Video
+Connectors: Mini-DIN 4 Pin
+Interface: Component
+Connectors: RCA jacks   3
+Interface: Composite
+S-Video, and Component
+Connectors: VIVO using Mini-DIN 9 Pin
+Digital and  analog
+Interface: DVI
+Connectors: DVI-I/DVI-D
+Video and audioDigital
+Interface: HDMI
+Connectors: HDMI connector
+Interface: DisplayPort
+Connectors: DisplayPort connector
+Interface: HDBaseT
+Connectors: 8P8C connector
+vteDeutsches Institut f r NormungDIN standards
+DIN 1025
+DIN 1451
+DIN 1530
+DIN 5008
+DIN 5009
+DIN 31635
+DIN 41612
+DIN 43700
+DIN 4420
+DIN 47100
+DIN 62056
+DIN 72552
+Engschrift
+ISO 216
+Committees
+Municipal Services Standards Committee
+Connectors
+DIN connector
+Mini-DIN connector
+Multimedia extension connector
+Rails
+DIN rail
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Mini-DIN_connector&oldid=1136809236"

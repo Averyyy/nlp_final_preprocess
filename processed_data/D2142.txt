@@ -1,0 +1,165 @@
+This article is about the Duramax V8. For the Duramax 6-cylinder, see Isuzu 6H engine.
+Motor vehicle engine
+Duramax Diesel engineDuramax LMLOverviewManufacturerDMAX Ltd.Production2001   presentLayoutConfiguration90  V8Displacement6.6 L; 402.7 cu in (6,599 cc)Cylinder bore4.0551 in (103.0 mm)Piston stroke3.8976 in (99.0 mm)Block materialCast gray ironHead materialAluminumValvetrainOHV 4 valves x cyl.Timing drive systemGearsCompression ratio16.8:1, 17.5:1CombustionTurbochargerGarrett variable-geometry vane with intercoolerFuel systemHigh-pressure common-rail direct injectionManagementBoschFuel typeDieselCooling systemWater-cooledOutputPower output250 550 hp (186 410 kW)Torque output460 1,050 lb ft (624 1,424 N m)EmissionsEmissions target standardEPAEmissions control technologyOxidizing catalyst, DPF, EGRChronologyPredecessor6.2 and 6.5 L Detroit Diesel
+The Duramax V8 engine is a family of 6.6 liter diesel V8 engines produced by DMAX, a joint venture between General Motors and Isuzu in Moraine, Ohio. The Duramax block and heads are supplied from reliable vendors of General Motors. This engine was initially installed in 2001 Chevrolet and GMC trucks, and has since become an option in pickups, vans, and medium-duty trucks. In 2006, production at Moraine was reportedly limited to approximately 200,000 engines per year.[1] On May 9, 2007, DMAX announced the production of the 1,000,000th Duramax V8 at its Moraine facility,[1] followed by the 2,000,000th on March 24, 2017.[2]
+Engine RPO Codes[edit]
+LB7[edit]
+RPO LB7 (engine code "1") was first introduced in 2001 and continued until early-2004. It is a 32-valve design with high-pressure common-rail direct injection and an experimental composite design cylinder head.
+The following trucks use the LB7:
+Chevrolet Kodiak/GMC Topkick
+Chevrolet Silverado/GMC Sierra HD
+Specifications[edit]
+Block / Head: Cast Iron / Aluminum
+Compression: 17.5:1
+Injection: Direct; Bosch high pressure common-rail
+Power / Torque: 300 hp (224 kW) at 3,100 rpm 520 lb ft (705 N m) at 1,800 rpm
+The LLY was introduced in 2004 and replaced the LB7 completely mid-year
+LLY[edit]
+The LLY (internally called the 8GF1) (engine code "2") is a 6.6 L; 403.9 cu in (6,619 cc) turbocharged engine which debuted in mid-2004 and continued until the end of 2005 (except the Hummer H1 in 2006). It is a 32-valve design with high-pressure common-rail direct injection and aluminum cylinder heads. The LLY was GM's first attempt to implement emissions requirements on their diesel trucks. To meet this goal, they turned to a newly developed Garrett turbocharger with a variable geometry vane system and installed an EGR Valve. Learning from problems with injectors in the previous LB7, GM changed the valve covers to allow access to the injectors without having to remove the valve covers, saving significant labor costs if injector replacement became necessary.
+The following trucks used the LLY engine:
+2006-only Hummer H1 Alpha
+Chevrolet Silverado/GMC Sierra HD
+Specifications[edit]
+[3]
+Block / Head: Cast gray iron / Cast aluminum
+Compression: 17.5:1
+Injection: Bosch High Pressure Common-rail
+Power / Torque: 310 bhp (231 kW) at 3000 rpm / 520 lb ft (705 N m) at 1600 rpm
+Head casting is 8gf1
+Block casting is #22351021213
+LLY/LBZ[edit]
+There are two VIN codes for the LBZ. The first is VIN 2 produced in late 2005 and early 2006. The VIN 2 engine is mechanically and physically the same as the VIN D engine but utilizes LLY engine tuning due to the LBZ tuning taking longer to be EPA certified and placed into production.
+The second is VIN D. This was introduced in 2006 and continued into 2007 sold only in the "classic" body style. It has an improved engine computer tune that produces increased power and torque over the 2005 LLY version of the engine. First appearance of the Duramax in the Express/Savana vans. The LBZ is one of the more sought after Duramax engines due to its strength, reliability, and being pre-emissions (DPF appeared on the next generation LMM in 2007).
+Changes include:
+Cylinder block casting and machining changes strengthen the bottom of the cylinder bores to support increased power and torque
+Upgraded main bearing material increases durability
+Revised piston design lowers compression ratio to 16.8:1 from 17.5:1
+Piston pin bore diameter increased for increased strength
+Connecting rod   I   section is thicker for increased strength
+Cylinder heads revised to accommodate lower compression and reduced cylinder firing pressure
+Maximum injection pressure increased from 23,000 psi (1,585.8 bar) to more than 26,000 psi (1,792.6 bar)
+Fuel delivered via higher-pressure pump, fuel rails, distribution lines and all-new, seven-hole fuel injectors
+Fuel injectors spray directly onto glow plugs, providing faster, better-quality starts and more complete cold-start combustion for reduced emissions
+Improved glow plugs heat up faster through an independent controller
+Revised variable-geometry turbocharger is aerodynamically more efficient to help deliver smooth and immediate response and lower emissions
+Air induction system re-tuned to enhance quietness
+EGR has larger cooler to bring more exhaust into the system
+First application of new, 32-bit E35 controller, which adjusts and compensates for the fuel flow to bolster efficiency and reduce emissions
+LBZ applications:
+Chevrolet Silverado HD
+Chevrolet Kodiak
+GMC Sierra HD
+GMC TopKick
+LLY applications:
+Chevrolet Silverado HD
+Chevrolet Kodiak
+GMC Sierra HD
+Chevrolet Express full-size (reduced power output mated to a 4L85E transmission)
+GMC Savana full-size (reduced power output mated to a 4L85E transmission)
+Specifications[edit]
+[3]
+Block / Head: Cast gray iron / Cast aluminum
+Compression: 16.8:1
+Injection: Bosch High Pressure Common-rail
+Power / Torque:
+Code
+Years
+Power output
+Torque
+Redline
+LB7 (Chevrolet Silverado 2500HD / 3500 Classic (auto trans),GMC Sierra 2500HD / 3500 Classic (auto trans))
+2001 2004
+300 bhp (224 kW)@ 3200 rpm
+520 lb ft (705 N m)@ 1600 rpm
+3450 rpm
+LLY (Chevrolet Kodiak Medium Duty (LRX option),GMC TopKick Medium Duty (LRX option),Hummer H1 Alpha)
+2004 2005
+310 bhp (231 kW)@ 3000 rpm
+520 lb ft (705 N m)@ 1600 rpm
+3200 rpm
+LBZ(Chevrolet Kodiak Medium Duty (LPD option),GMC TopKick Medium Duty (LPD))
+2006 2007
+605 lb ft (820 N m)@ 1600 rpm
+LLY (Chevrolet Express, GMC Savana)
+250 bhp (186 kW)@ 3200 rpm
+460 lb ft (624 N m)@ 1600 rpm
+3450 rpm
+LMM[edit]
+ Allison 1000 attached to Duramax 6.6 Diesel
+The LMM (engine code "6") debuted part way through 2007 and ended production with the start of the 2011 calendar year and is mated to the 6-speed Allison transmission. The LMM was the only Duramax offered for model years 2007 2010.[4] A version was used in the Trident Iceni.[5]
+Specifications[edit]
+[6][7]
+Block / Head: Cast gray iron / Cast aluminum
+Compression: 16.8:1
+Injection: Bosch High Pressure Common Rail with CP3.3 Injection Pump
+Power / Torque: 365 bhp (272 kW) at 3200 rpm / 660 lb ft (895 N m) at 1600 rpm
+Code
+Years
+Power output
+Torque
+Redline
+LML (Chevrolet Silverado HD, GMC Sierra HD)
+2011 2016
+397 bhp (296 kW)@ 3000 rpm
+765 lb ft (1,037 N m)@ 1600 rpm
+3450 rpm
+LMM (Chevrolet Silverado HD, GMC Sierra HD)
+2007 2010
+365 bhp (272 kW)@ 3200 rpm
+660 lb ft (895 N m)@ 1600 rpm
+LMM (Chevrolet Kodiak Medium Duty (LYE option),GMC TopKick Medium Duty (LYE option))
+330 bhp (246 kW)@ 3000 rpm
+620 lb ft (841 N m)@ 1600 rpm
+3250 rpm
+LMM (Chevrolet Kodiak Medium Duty (LRX option),GMC TopKick Medium Duty (LRX option))
+300 bhp (224 kW)@ 3000 rpm
+520 lb ft (705 N m)@ 1600 rpm
+LMM (Chevrolet Express, GMC Savana)
+250 bhp (186 kW)@ 3200 rpm
+460 lb ft (624 N m)@ 1600 rpm
+3450 rpm
+2011 2016
+260 bhp (194 kW)@ 3100 rpm
+525 lb ft (712 N m)@ 1600 rpm
+Emission controls:
+Additional combustion control, including an even more efficient variable-geometry turbocharging system, cooled (enhanced) exhaust gas recirculation (EGR) and closed crankcase ventilation to reduce nitrogen oxides (NOx)
+Additional exhaust control, including oxidizing catalyst and new diesel particulate filter (DPF) to reduce soot and particulate matter
+Increased-capacity cooling system
+New engine control software
+Use of low-ash engine oil (CJ-4)
+Applications:
+2007  Chevrolet Silverado HD[8]
+2007  GMC Sierra HD
+Chevrolet Kodiak
+GMC Topkick
+Chevrolet Express/GMC Savana
+LGH[edit]
+The 6.6L Duramax diesel engine (VIN code "L") is used on 2010 interim and 2011 Chevrolet Express and GMC Savana vans and 2011 Chevrolet Silverado/GMC Sierra HD trucks with RPO ZW9 (chassis cabs or trucks with pickup box delete). The LGH engine is rated at 335 bhp (250 kW) at 3100 rpm and 685 lb ft (929 N m) at 1600 rpm. Similar to the LML this engine also uses a DPF and DEF system to meet emission standards.
+LML[edit]
+The 6.6L RPO LML (VIN code "8") is the 2011 2016 version of the Isuzu/GM Duramax V8 diesel engine. It is a further advanced version of the LMM engine with the majority of the changes addressing a required drastic reduction in engine emissions. Some mechanical aspects of the engine, such as piston oil flow design for improved temperature control and oil pump design, were also improved to enhance durability even further.
+The LML engine was significantly updated for 2011 to provide improved exhaust emissions that comply with the new federal emission standards for diesel engines, provide better engine rigidity and further noise reduction. New 29,000 PSI piezo injectors, a complete fuel system-hardening to tolerate up to 20% biodiesel mixtures and urea injection (to reduce nitrogen oxides) with a 5.3 gallon urea tank are updating the fuel and emissions systems. This engine has a fuel injector in the exhaust tract, to allow raw fuel injection during the particulate filter recycling routine. The RPO LML engine is rated at 397 hp (296 kW) at 3000 rpm and 765 lb ft (1,037 N m) of torque at 1600 rpm.[9]
+L5P[edit]
+The L5P Duramax is the latest version of the Duramax V8 diesel engine.(engine code Y) Introduced in the 2017 model year it is the most powerful diesel engine GM has produced with 445 hp (332 kW) at 2,800 rpm and 910 lb ft (1,234 N m) at 1,600 rpm. Design spec performance can exceed 550 bhp (410 kW) at 3050 rpm and 1,050 lb ft (1,424 N m) at 1975 rpm.
+L5D[edit]
+The L5D Duramax is a downrated version of the L5P for the Chevy Silverado MD and International CV trucks (Class 4, 5, and 6). The L5D was downrated to increase reliability and reduce downtime. The L5D was introduced in 2018 for the 2019 model year Chevy Silverado MD and International CV trucks. Specifications for the L5D are 350 hp (261 kW) at 2600 RPM and 700 lb ft (949 N m) at 1600 RPM.
+See also[edit]
+Wikimedia Commons has media related to Duramax engines.
+List of GM engines
+Allison 1000 transmission
+References[edit]
+^ a b "GM celebrates one-millionth Duramax diesel". Archived from the original on May 14, 2007. Retrieved May 9, 2007.
+^ "2 Millionth Duramax Diesel Engine Rolls off the Line". 24 March 2017.
+^ a b 2007 LLY LBZ spec sheet[permanent dead link]
+^ DuramaxHub (2016). "Duramax Engine Identification: Duramax Engine ID by VIN number". Retrieved 14 December 2016.
+^ Korzeniewski, Jeremy (20 August 2008). "Trident diesel sports car not vaporware, still sounds too good to be true". Autoblog. Retrieved 14 December 2016.
+^ GM Media. "2007 Chevrolet Silverado 3500HD Specifications". Retrieved 14 December 2016.
+^ 2009 GMC Sierra HD engine curve[permanent dead link]
+^ 2007 CHEVROLET SILVERADO AND GMC SIERRA HEAVY-DUTY PICKUPS DELIVER THE CAPABILITY FOR ANY TASK Archived 2007-03-03 at archive.today
+^ General Motors (10 March 2010). "GMC's 2011 Heavy-Duty Trucks Build On Proven Strong Heritage With New Duramax 6.6L Turbo Diesel Engines".
+External links[edit]
+LML DURAMAX
+Duramax home page
+DMAX, Ltd. home page
+Duramax Diesel Specs
+Duramax timeline
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Duramax_V8_engine&oldid=1141506276"

@@ -1,0 +1,1761 @@
+Schematic of a machine tapBelow is a comprehensive drill and tap size chart for all drills and taps, imperial and metric, up to 36.5 millimetres (1.44 in) in diameter.
+In manufactured parts, holes with female screw threads are often needed; they accept male screws to facilitate the building and fastening of a finished assembly. One of the most common ways to produce such threaded holes is to drill a hole of appropriate size with a drill bit and then tap it with a tap. Each standard size of female screw thread has one or several corresponding drill bit sizes that are within the range of appropriate size slightly larger than the minor diameter of the mating male thread, but smaller than its pitch and major diameters. Such an appropriately sized drill is called a tap drill for that size of thread, because it is a correct drill to be followed by the tap. Many thread sizes have several possible tap drills, because they yield threads of varying thread depth between 50% and 100%. Usually thread depths of 60% to 75% are desired.
+People frequently use a chart such as this to determine the proper tap drill for a certain thread size or the proper tap for an existing hole.
+Rules of thumb[edit]
+Regarding the proportion of tap drill to thread major diameter, for standard V threads (ISO V thread and UTS V thread), there are several rules of thumb with strong predictive power:
+A good tap drill is 85% (  2 pp) of major diameter for coarse threads, and 90% (  2 pp) of major diameter for fine threads.
+For metric V threads, the concept of major minus pitch (i.e., the major or widest diameter of the intended screw in millimeters minus the pitch of the threads of that screw in millimeters per thread) yields a good tap drill diameter. The major minus pitch technique also works for inch-based threads, but you must first calculate the pitch by converting the fraction of threads-per-inch (TPI) into a decimal. For example, a screw with a pitch of 1/20 in (20 threads per inch) has a pitch of 0.050 in and a 1 13 in pitch (13 threads per inch) has a pitch of 0.077 in.  Your result will only land near a tap drill size (not directly on one).
+For both of these rules of thumb (85%/90% and major minus pitch), the tap drill size yielded is not necessarily the only possible one, but it is a good one for general use.
+The 85% and 90% rules works best in the range of 1 4 1 in (6.4 25.4 mm), the sizes most important on many shop floors. Some sizes outside that range have different ratios.
+Below, these guidelines are explored with examples.
+Examples[edit]
+A good tap drill is 85% (  2 pp) of major diameter for coarse threads, and  a good tap drill is 90% (  2 pp) of major diameter for fine threads.[1]
+Example (inch, coarse): For size 7 16 (this is the diameter of the intended screw in fraction form)-14 (this is the number of threads per inch; 14 is considered coarse), 0.437 in   0.85 = 0.371 in. Therefore, a size 7 16 screw (7 16   0.437) with 14 threads per inch (coarse) needs a tap drill with a diameter of about 0.371 inches.
+The drill sizes that are near this are letter U (0.368 in; 84.2%), 9.5 mm (0.374 in; 85.6%), and 3 8 in (0.375 in; 85.8%); any of these will work well.
+Example (inch, fine): For 7 16-20 (same diameter as the previous example, but this time with 20 threads per inch, which is considered fine), 0.437 in   0.90 = 0.393 in (i.e., if the threads are to be fine, then a slightly larger diameter drill bit should be used before tapping the hole for the screw).
+The drill sizes that are near this are 25 64 (0.391 in; 89.4%), 10 mm (0.393 in; 90%), and letter X (0.397 in; 90.8%); any of these will work well.
+Example (metric, coarse): For M7.0 1.0 (an intended screw with a diameter of 7.0 mm and a pitch of 1 mm between each thread, which is considered coarse), 7.0 mm   0.85 = 5.95 mm.
+The drill sizes that are near this are 15 64 in (85%), 6.0 mm (85.7%), and 6.1 mm (87.1%); any of these will work well.
+Example (metric, fine): For M7.0 0.5, 7.0 mm   0.90 = 6.30.
+The drill sizes that are near this are 6.3 mm (90%), 1 4 in (90.7%), 6.4 mm (91.4%), and 6.5 mm (92.9%); any of these will work well.
+For metric V threads, major minus pitch yields a good tap drill diameter.
+Example (metric, coarse): For M7.0   1.0, 7.0   1.0 = 6.0
+Example (metric, fine): For M7.0   0.5, 7.0   0.5 = 6.5
+(The 85% coarse, 90% fine guideline, within its effective range, matches this in net effect)
+The major minus pitch also works for inch-based threads, but you must first determine the pitch by looking at the number of treads per inch (TPI; for example, 1 20 = 0.050 and 1 13   0.077), and your result will only land near a tap drill size (not directly on one).
+Example (inch coarse): For 7 16-14, 1 in   14 = 0.071 in; 0.437 in   0.071 in = 0.366 in;
+The drill sizes that are near this are 9.3 mm (0.366 in) and letter U (0.368 in). In addition, 9.5 mm (0.374 in), and 3 8 in (0.375 in) will work well, although major minus pitch by itself does not tell you this; but the 85%   2 pp guideline supports it.
+Example (inch fine): For 7 16-20, 1 in   20 = 0.050 in; 0.437 in   0.050 in = 0.387 in;
+The drill sizes that are near this are letter W (0.386 in) and 25 64 in (0.391 in). In addition, 10 mm (0.393 in), and letter X (0.397 in) will work well, although major minus pitch by itself does not tell you this; but the 90%   2 pp guideline supports it.
+For both of these rules of thumb (85%/90% and major minus pitch), the tap drill size yielded is not necessarily the only possible one, but it is a good one for general use.
+Example (metric coarse): For M7.0 1.0, major minus pitch yields 6.0, but 6.1 also works well.
+Example (metric fine): For M7.0 0.5, major minus pitch yields 6.5, which at 92.9% happens to be an example that pushes over the outer bound of the 90%   2 pp, but major minus pitch is still valid, although smaller drills (6.3 mm, 1 4, 6.4 mm) will work well.
+Chart[edit]
+This list is incomplete; you can help by adding missing items.  (August 2008)
+This article's factual accuracy is disputed. Relevant discussion may be found on the talk page. Please help to ensure that disputed statements are reliably sourced. (May 2012) (Learn how and when to remove this template message)
+ Inch-sized drills, increments of 1 64 in.
+ Drills in the number (1 80) and letter (A Z) series which are specified in decimal inches.
+ Standard metric drill sizes.
+ Standard metric drill sizes used for metric taps of the size indicated in the tap size column.
+Drill bit diameter
+Fractional size
+Drill wire gauge[2][3]
+Tap size[4][5][6]
+Clearance
+Thread depth [7][8] (%)
+Outer diameter
+(mm, 4 d.p.)
+(in, 5 d.p.)
+(in)
+Close fit[9]
+Free fit[10]
+0.0483
+0.00190
+107
+0.0500
+0.00197
+0.0584
+0.00230
+106
+0.0686
+0.00270
+105
+0.0787
+0.00310
+104
+0.0889
+0.00350
+103
+0.0991
+0.00390
+102
+0.1000
+0.00394
+0.1092
+0.00430
+101
+0.1194
+0.00470
+100
+0.1295
+0.00510
+99
+0.1397
+0.00550
+98
+0.1499
+0.00590
+97
+0.1600
+0.00630
+96
+0.1702
+0.00670
+95
+0.1803
+0.00710
+94
+0.1905
+0.00750
+93
+0.2007
+0.00790
+92
+0.2000
+0.00787
+0.2108
+0.00830
+91
+0.2210
+0.00870
+90
+0.2311
+0.00910
+89
+0.2413
+0.00950
+88
+0.2500
+0.00984
+Drill bit diameter
+Fractional size
+Drill wire gauge[2][3]
+Tap size[4][5][6]
+Clearance
+Thread depth [11][8] (%)
+Outer diameter
+(mm, 4 d.p.)
+(in, 5 d.p.)
+(in)
+Close fit[9]
+Free fit[10]
+0.2540
+0.01000
+87
+0.2667
+0.01050
+86
+0.2794
+0.01100
+85
+0.2921
+0.01150
+84
+0.3000
+0.01181
+0.3048
+0.01200
+83
+0.3175
+0.01250
+82
+0.3302
+0.01300
+81
+0.3429
+0.01350
+80
+0.3500
+0.01378
+0.3680
+0.01449
+79
+0.3969
+0.01563
+1 64
+#0000-160 
+0.02400 in
+0.021 in
+0.4000
+0.01575
+0.4064
+0.01600
+78
+0.4200
+0.01654
+0.4400
+0.01732
+0.4500
+0.01772
+0.4572
+0.01800
+77
+0.4600
+0.01811
+0.4800
+0.01890
+0.5000
+0.01969
+0.5080
+0.02000
+76
+0.5334
+0.02100
+75
+0.5500
+0.02165
+Drill bit diameter
+Fractional size
+Drill wire gauge[2][3]
+Tap size[4][5][6]
+Clearance
+Thread depth [12][8] (%)
+Outer diameter
+(mm, 4 d.p.)
+(in, 5 d.p.)
+(in)
+Close fit[9]
+Free fit[10]
+0.5715
+0.02250
+74
+0.6000
+0.02362
+0.6096
+0.02400
+73
+0.6350
+0.02500
+72
+0.6500
+0.02559
+0.6604
+0.02600
+71
+#000-120 
+0.03700 in
+0.7000
+0.02756
+0.7112
+0.02800
+70
+0.7417
+0.02920
+69
+0.7500
+0.02953
+0.7874
+0.03100
+68
+0.7938
+0.03125
+1 32
+0.8000
+0.03150
+0.8128
+0.03200
+67
+0.8382
+0.03300
+66
+0.8500
+0.03346
+0.8890
+0.03500
+65
+#00-90 
+0.05200 in
+0.9000
+0.03543
+0.9144
+0.03600
+64
+0.9398
+0.03700
+63
+0.9500
+0.03740
+0.9652
+0.03800
+62
+0.9906
+0.03900
+61
+1.0000
+0.03937
+1.0160
+0.04000
+60
+Drill bit diameter
+Fractional size
+Drill wire gauge[2][3]
+Tap size[4][5][6]
+Clearance
+Thread depth [13][8] (%)
+Outer diameter
+(mm, 4 d.p.)
+(in, 5 d.p.)
+(in)
+Close fit[9]
+Free fit[10]
+1.0414
+0.04100
+59
+1.0500
+0.04134
+1.0668
+0.04200
+58
+1.0922
+0.04300
+57
+1.1000
+0.04331
+1.1500
+0.04528
+1.1811
+0.04650
+56
+1.1906
+0.04688
+3 64
+#0-80
+0.06350 in
+0.07000 in
+1.2000
+0.04724
+1.2500
+0.04921
+1.3000
+0.05118
+1.3208
+0.05200
+55
+1.3500
+0.05315
+1.3970
+0.05500
+54
+1.4000
+0.05512
+1.4500
+0.05709
+1.5000
+0.05906
+1.5113
+0.05950
+53
+#1-64, #1-72
+0.07600 in
+0.08100 in
+1.5500
+0.06102
+1.5875
+0.06250
+1 16
+1.6000
+0.06299
+M2 0.4
+2.2 mm
+1.6129
+0.06350
+52
+1.6500
+0.06496
+1.7000
+0.06693
+1.7018
+0.06700
+51
+#2-56
+0.08900 in
+0.09600 in
+1.7500
+0.06890
+M2.2 0.45
+2.25 mm
+Drill bit diameter
+Fractional size
+Drill wire gauge[2][3]
+Tap size[4][5][6]
+Clearance
+Thread depth [14][8] (%)
+Outer diameter
+(mm, 4 d.p.)
+(in, 5 d.p.)
+(in)
+Close fit[9]
+Free fit[10]
+1.7780
+0.07000
+50
+#2-56, #2-64
+0.08900 in
+0.09600 in
+1.8000
+0.07087
+1.8500
+0.07283
+1.8542
+0.07300
+49
+1.9000
+0.07480
+1.9304
+0.07600
+48
+1.9500
+0.07677
+1.9600
+0.07717
+#3-48
+0.10400 in
+0.11000 in
+81
+1.9700
+0.07756
+#3-48
+0.10400 in
+0.11000 in
+79
+1.9844
+0.07813
+5 64
+#3-48
+0.10400 in
+0.11000 in
+78
+1.9939
+0.07850
+47
+#3-48
+0.10400 in
+0.11000 in
+76
+2.0000
+0.07874
+#3-48
+0.10400 in
+0.11000 in
+75
+2.0100
+0.07913
+#3-48
+0.10400 in
+0.11000 in
+74
+2.0200
+0.07953
+#3-48
+0.10400 in
+0.11000 in
+72
+2.0300
+0.07992
+#3-48
+0.10400 in
+0.11000 in
+71
+2.0400
+0.08031
+#3-48#3-56
+0.10400 in
+0.11000 in
+6981
+2.0500
+0.08071
+#3-48#3-56M2.5 0.45
+0.10400 in 
+0.11000 in 
+6879 
+2.0574
+0.08100
+46
+#3-48#3-56
+0.10400 in
+0.11000 in
+6677
+2.0700
+0.08150
+#3-48#3-56
+0.10400 in
+0.11000 in
+6575
+2.0828
+0.08200
+45
+#3-48#3-56
+0.10400 in
+0.11000 in
+6674
+2.0900
+0.08228
+#3-48#3-56
+0.10400 in
+0.11000 in
+6272
+2.1000
+0.08268
+#3-48#3-56
+0.10400 in
+0.11000 in
+6070
+2.1100
+0.08307
+#3-48#3-56
+0.10400 in
+0.11000 in
+5969
+2.1200
+0.08346
+#3-56
+0.10400 in
+0.11000 in
+67
+2.1300
+0.08386
+#3-56
+0.10400 in
+0.11000 in
+65
+2.1400
+0.08425
+#3-56
+0.10400 in
+0.11000 in
+63
+2.1500
+0.08465
+#3-56M2.5 0.35
+0.10400 in
+0.11000 in
+62
+2.1600
+0.08504
+#3-56
+0.10400 in
+0.11000 in
+60
+2.1700
+0.08543
+#3-56
+0.10400 in
+0.11000 in
+59
+2.1844
+0.08600
+44
+#4-36
+0.11600 in
+0.12850 in
+81
+2.1900
+0.08622
+#4-40
+0.11600 in
+0.12850 in
+81
+2.2000
+0.08661
+#4-40
+0.11600 in
+0.12850 in
+78
+2.2100
+0.08701
+#4-40
+0.11600 in
+0.12850 in
+77
+2.2200
+0.08740
+#4-40
+0.11600 in
+0.12850 in
+76
+2.2300
+0.08780
+#4-40
+0.11600 in
+0.12850 in
+75
+2.2400
+0.08819
+#4-40
+0.11600 in
+0.12850 in
+73
+2.2500
+0.08858
+#4-40
+0.11600 in
+0.12850 in
+72
+2.2600
+0.08898
+#4-40
+0.11600 in
+0.12850 in
+71
+2.2606
+0.08900
+43
+#4-40
+0.11600 in
+0.12850 in
+71
+2.2700
+0.08937
+#4-40
+0.11600 in
+0.12850 in
+70
+2.2800
+0.08976
+#4-40
+0.11600 in
+0.12850 in
+68
+2.2900
+0.09016
+#4-40#4-48
+0.11600 in
+0.12850 in
+6781
+2.3000
+0.09055
+#4-40#4-48
+0.11600 in
+0.12850 in
+6679
+2.3100
+0.09094
+#4-40#4-48
+0.11600 in
+0.12850 in
+6578
+2.3200
+0.09134
+#4-40#4-48
+0.11600 in
+0.12850 in
+6476
+2.3300
+0.09173
+#4-40#4-48
+0.11600 in
+0.12850 in
+6375
+2.3400
+0.09213
+#4-40#4-48
+0.11600 in
+0.12850 in
+6174
+2.3500
+0.09252
+#4-40#4-48
+0.11600 in
+0.12850 in
+6072
+2.3749
+0.09350
+42
+#4-48
+0.11600 in
+0.12850 in
+69
+2.3813
+0.09375
+3 32
+2.4000
+0.09449
+2.4384
+0.09600
+41
+2.4500
+0.09646
+2.4892
+0.09800
+40
+2.5000
+0.09843
+M3 0.5
+3.2 mm
+75
+2.5273
+0.09950
+39
+#5-40
+0.12850 in
+0.13600 in
+78
+2.5781
+0.10150
+38
+#5-40
+0.12850 in
+0.13600 in
+72
+2.6000
+0.10236
+2.6416
+0.10400
+37
+#5-44
+0.12850 in
+0.13600 in
+71
+2.7000
+0.10630
+2.7051
+0.10650
+36
+#6-32
+0.14400 in
+0.14950 in
+77
+0.14 in
+2.7500
+0.10827
+2.7781
+0.10938
+7 64
+2.7940
+0.11000
+35
+2.8000
+0.11024
+2.8194
+0.11100
+34
+2.8702
+0.11300
+33
+#6-40
+0.1563 in
+0.14 in
+2.9000
+0.11417
+M3.5 0.6
+2.9464
+0.11600
+32
+3.0000
+0.11811
+3.0480
+0.12000
+31
+#6-48
+3.1000
+0.12205
+3.1750
+0.12500
+1 8
+3.2000
+0.12598
+3.2500
+0.12795
+3.2639
+0.12850
+30
+3.3000
+0.12992
+M4 0.7
+4.10 mm
+75
+3.4000
+0.13386
+3.4544
+0.13600
+29
+#8-32
+0.16950 in
+0.17700 in
+69
+3.5000
+0.13780
+M4 0.5
+4.10 mm
+60
+3.5687
+0.14050
+28
+3.5719
+0.14063
+9 64
+3.6000
+0.14173
+3.6576
+0.14400
+27
+3.7000
+0.14567
+3.7338
+0.14700
+26
+3.7500
+0.14764
+3.7973
+0.14950
+25
+#10-24
+0.19600 in
+0.20100 in
+75
+3.8000
+0.14961
+3.8608
+0.15200
+24
+3.9000
+0.15354
+3.9116
+0.15400
+23
+3.9688
+0.15625
+5 32
+3.9878
+0.15700
+22
+4.0000
+0.15748
+4.0386
+0.15900
+21
+#10-32
+0.1960 in
+0.2010 in
+4.0894
+0.16100
+20
+4.1000
+0.16142
+4.2000
+0.16535
+M5 0.8
+5.10 mm
+75
+4.2164
+0.16600
+19
+4.2500
+0.16732
+4.3053
+0.16950
+18
+4.3656
+0.17188
+11 64
+4.3942
+0.17300
+17
+4.4000
+0.17323
+4.4958
+0.17700
+16
+#12-24
+0.22100 in
+0.22800 in
+72
+4.5000
+0.17717
+4.5720
+0.18000
+15
+4.6000
+0.18110
+4.6228
+0.18200
+14
+4.6990
+0.18500
+13
+4.7000
+0.18504
+4.7500
+0.18701
+4.7625
+0.18750
+3 16
+4.8000
+0.18898
+4.8006
+0.18900
+12
+4.8514
+0.19100
+11
+4.9000
+0.19291
+4.9149
+0.19350
+10
+4.9784
+0.19600
+9
+5.0000
+0.19685
+M6 1.0
+6.10 mm
+75
+5.0546
+0.19900
+8
+5.1000
+0.20079
+5.1054
+0.20100
+7
+1 4-20
+0.25700 in
+0.26600 in
+72
+5.1594
+0.20313
+13 64
+5.1816
+0.20400
+6
+5.2000
+0.20472
+M6 0.75 [15]
+6.10 mm
+60
+5.2197
+0.20550
+5
+5.2500
+0.20669
+5.3000
+0.20866
+5.3086
+0.20900
+4
+5.4000
+0.21260
+5.4102
+0.21300
+3
+1 4-28
+0.25700 in
+0.26600 in
+80
+5.5000
+0.21654
+1 4-28
+0.25700 in
+0.26600 in
+70
+5.5563
+0.21875
+7 32
+1 4-281 4-32(1 4-32 UNEF for glow plugs)
+0.25700 in
+0.26600 in
+68
+5.6000
+0.22047
+1 4-28
+0.25700 in
+0.26600 in
+63
+5.6134
+0.22100
+2
+1 4-28
+0.25700 in
+0.26600 in
+60
+5.7000
+0.22441
+5.7500
+0.22638
+5.7912
+0.22800
+1
+5.8000
+0.22835
+5.9000
+0.23228
+5.9436
+0.23400
+A
+5.9531
+0.23438
+15 64
+6.0000
+0.23622
+6.0452
+0.23800
+B
+6.1000
+0.24016
+M7 1.0
+75
+6.1468
+0.24200
+C
+6.2000
+0.24409
+6.2484
+0.24600
+D
+6.2500
+0.24606
+6.3000
+0.24803
+6.3500
+0.25000
+1 4
+E
+6.4000
+0.25197
+6.5000
+0.25591
+M7 0.5
+6.5278
+0.25700
+F
+5 16-18
+0.32300 in
+0.33200 in
+77
+6.6000
+0.25984
+6.6294
+0.26100
+G
+6.7000
+0.26378
+6.7469
+0.26563
+17 64
+5 16-18
+74
+6.7500
+0.26575
+6.7564
+0.26600
+H
+6.8000
+0.26772
+6.9000
+0.27165
+M8 1.25
+75
+6.9088
+0.27200
+I
+5 16-24
+0.32300 in
+0.33200 in
+75
+7.0000
+0.27559
+7.0358
+0.27700
+J
+5 16-18
+50
+7.1000
+0.27953
+M8 1.0
+75
+7.1374
+0.28100
+K
+7.1438
+0.28125
+9 32
+5 16-32
+7.2000
+0.28346
+7.2500
+0.28543
+7.3000
+0.28740
+7.3660
+0.29000
+L
+7.4000
+0.29134
+7.4930
+0.29500
+M
+7.5000
+0.29528
+7.5406
+0.29688
+19 64
+7.6000
+0.29921
+7.6708
+0.30200
+N
+7.7000
+0.30315
+7.7500
+0.30512
+7.8000
+0.30709
+7.9000
+0.31102
+7.9375
+0.31250
+5 16
+3 8-16
+0.38600 in
+0.39700 in
+77
+8.0000
+0.31496
+8.0264
+0.31600
+O
+8.1000
+0.31890
+8.2000
+0.32283
+8.2042
+0.32300
+P
+8.2500
+0.32480
+8.3000
+0.32677
+8.3344
+0.32813
+21 64
+8.4000
+0.33071
+8.4328
+0.33200
+Q
+3 8-24
+0.38600 in
+0.39700 in
+79
+8.5000
+0.33465
+M10 1.5
+8.6000
+0.33858
+8.6106
+0.33900
+R
+8.7000
+0.34252
+8.7313
+0.34375
+11 32
+8.7500
+0.34449
+M10 1.25
+8.8000
+0.34646
+8.8392
+0.34800
+S
+8.9000
+0.35039
+9.0000
+0.35433
+M10 1.0(spark plug)
+9.0932
+0.35800
+T
+9.1000
+0.35827
+9.1281
+0.35938
+23 64
+9.2000
+0.36220
+9.2500
+0.36417
+9.3000
+0.36614
+9.3472
+0.36800
+U
+7 16-14
+0.45310 in
+0.46870 in
+75
+9.4000
+0.37008
+9.5000
+0.37402
+9.5250
+0.37500
+3 8
+9.5758
+0.37700
+V
+9.6000
+0.37795
+9.7000
+0.38189
+9.7500
+0.38386
+9.8000
+0.38583
+9.8044
+0.38600
+W
+9.9000
+0.38976
+9.9219
+0.39063
+25 64
+7 16-20
+0.45313 in
+0.46785 in
+72
+10.0000
+0.39370
+10.0838
+0.39700
+X
+10.2616
+0.40400
+Y
+10.3188
+0.40625
+13 32
+7 16-40
+10.4902
+0.41300
+Z
+10.5000
+0.41339
+M12 1.75
+75
+10.7000
+0.42126
+M12 1.5
+75
+10.7156
+0.42188
+27 64
+1 2-13
+0.51563 in
+0.53125 in
+78
+10.900
+0.42913
+M12 1.25(spark plug)
+11.0000
+0.43307
+11.1125
+0.43750
+7 16
+11.5000
+0.45276
+11.5094
+0.45313
+29 64
+1 2-20
+0.51563 in
+0.53125 in
+72
+11.9063
+0.46875
+15 32
+9 16-12
+0.56250 in
+87
+12.0000
+0.47244
+12.2000
+0.48031
+M14 2
+75
+12.3031
+0.48438
+31 64
+9 16-12
+0.56250 in
+68
+12.5000
+0.49213
+12.7000
+0.50000
+1 2
+9 16-18
+0.56250 in
+87
+M14 1.5
+75
+12.8000
+0.50393
+M14 1.25(spark plug)
+13.0000
+0.51181
+13.0969
+0.51563
+33 64
+9 16-18
+0.56250 in
+65
+13.4938
+0.53125
+17 32
+5 8-11
+0.62500 in
+79
+13.5000
+0.53150
+13.8906
+0.54688
+35 64
+5 8-11
+0.62500 in
+66
+14.0000
+0.55118
+14.2000
+0.55906
+M16 2
+75
+14.2875
+0.56250
+9 16
+5 8-18
+0.62500 in
+87
+14.5000
+0.57087
+14.6844
+0.57813
+37 64
+5 8-18
+0.62500 in
+65
+14.7000
+0.57874
+M16 1.5
+75
+15.0000
+0.59055
+15.0813
+0.59375
+19 32
+15.4781
+0.60938
+39 64
+15.5000
+0.61024
+15.8750
+0.62500
+5 8
+16.0000
+0.62992
+16.2719
+0.64063
+41 64
+3 4-10
+84
+16.5000
+0.64961
+16.6688
+0.65625
+21 32
+3 4-10
+72
+16.8000
+0.66141
+M18 1.5(spark plug)
+17.0000
+0.66929
+17.0656
+0.67188
+43 64
+17.4625
+0.68750
+11 16
+3 4-16
+77
+17.5000
+0.68898
+17.8594
+0.70313
+45 64
+18.0000
+0.70866
+18.2563
+0.71875
+23 32
+18.5000
+0.72835
+18.6531
+0.73438
+47 64
+19.0000
+0.74803
+19.0500
+0.75000
+3 4
+19.4469
+0.76563
+49 64
+7 8-9
+76
+19.5000
+0.76772
+19.8438
+0.78125
+25 32
+7 8-9
+65
+20.0000
+0.78740
+20.2406
+0.79688
+51 64
+7 8-14
+84
+20.5000
+0.80709
+20.6375
+0.81250
+13 16
+7 8-14
+67
+21.0000
+0.82677
+21.0344
+0.82813
+53 64
+7 8-18 NS(spark plug)
+21.4313
+0.84375
+27 32
+21.5000
+0.84646
+21.8281
+0.85938
+55 64
+1-8
+87
+22.0000
+0.86614
+22.2250
+0.87500
+7 8
+1-8
+77
+22.5000
+0.88583
+22.6219
+0.89063
+57 64
+1-8
+67
+23.0000
+0.90551
+23.0188
+0.90625
+29 32
+1-12
+87
+23.4156
+0.92188
+59 64
+1-121-14
+7284
+23.5000
+0.92520
+23.8125
+0.93750
+15 16
+1-14
+67
+24.0000
+0.94488
+24.2094
+0.95313
+61 64
+24.5000
+0.96457
+24.6063
+0.96875
+31 32
+1+1 8-7
+84
+25.0000
+0.98425
+25.0031
+0.98438
+63 64
+1+1 8-7
+76
+25.4000
+1.00000
+1
+1+1 8-7
+67
+25.5000
+1.00394
+25.7969
+1.01563
+1+1 64
+26.0000
+1.02362
+26.1938
+1.03125
+1+1 32
+1+1 8-12
+87
+26.5000
+1.04331
+26.5906
+1.04688
+1+3 64
+1+1 8-12
+72
+26.9875
+1.06250
+1+1 16
+27.0000
+1.06299
+27.5000
+1.08268
+28.0000
+1.10236
+28.1781
+1.10938
+1+7 64
+1+1 4-7
+76
+28.5000
+1.12205
+28.5750
+1.12500
+1+1 8
+1+1 4-7
+67
+29.0000
+1.14173
+29.3688
+1.15625
+1+5 32
+1+1 4-12
+87
+29.5000
+1.16142
+29.7656
+1.17188
+1+11 64
+1+1 4-12
+72
+30.0000
+1.18110
+30.1625
+1.18750
+1+3 16
+1+3 8-6
+87
+30.5000
+1.20079
+30.5594
+1.20313
+1+13 64
+1+3 8-6
+79
+30.9563
+1.21875
+1+7 32
+1+3 8-6
+72
+31.0000
+1.22047
+31.3531
+1.23438
+1+15 64
+1+3 8-6
+65
+31.5000
+1.24016
+32.0000
+1.25984
+32.5000
+1.27953
+32.5438
+1.28125
+1+9 32
+1+3 8-12
+87
+32.9406
+1.29688
+1+19 64
+1+3 8-12
+72
+33.0000
+1.29921
+33.3375
+1.31250
+1+5 16
+1+1 2-6
+87
+33.5000
+1.31890
+33.7344
+1.32813
+1+21 64
+1+1 2-6
+79
+34.0000
+1.33858
+34.1313
+1.34375
+1+11 32
+1+1 2-6
+72
+34.5000
+1.35827
+34.5281
+1.35938
+1+23 64
+1+1 2-6
+65
+35.0000
+1.37795
+35.5000
+1.39764
+35.7188
+1.40625
+1+13 32
+1+1 2-12
+87
+36.0000
+1.41732
+36.1156
+1.42188
+1+27 64
+1+1 2-12
+72
+36.5000
+1.43701
+ If theoretical thread percentage not given, assume 75%   10% Theoretical percentage of thread should not be relied upon for threads of included angles other than 60 degrees.
+ See http://www.newmantools.com/taps/micro.htm for more information.
+See also[edit]
+AN thread
+British standard pipe thread
+British Association screw threads
+British Standard Whitworth
+Drill bit sizes, a similar page including center drill sizes
+ISO metric screw thread
+National pipe thread
+Taps and dies
+United States Standard thread
+Unified Thread Standard
+References[edit]
+^ "Drill Bit Size Charts and Rule of Thumb".
+^ a b c d e "Continuous Drill Bit Sizes". Archived from the original on 19 July 2006. Retrieved 29 August 2006.
+^ a b c d e "Decimal Equivalents". Ohio State University. Archived from the original on 2 September 2006. Retrieved 29 August 2006. {{cite web}}: External link in |work= (help)
+^ a b c d e "Tap Drill Sizes and Calculator". newmantools.com. Retrieved 4 August 2006. {{cite web}}: External link in |work= (help)
+^ a b c d e "Tap Drill Sizes for Universal and M-Profile Screw Threads". precisiontwistdrill.com. Retrieved 4 August 2006. {{cite web}}: External link in |work= (help)
+^ a b c d e "NC, NF, NEF to one inch in diameter". Sizes.com. Archived from the original on 29 September 2006. Retrieved 1 September 2006. {{cite web}}: External link in |work= (help)
+^ "High performance taps" (PDF). guhring.com. Retrieved 7 October 2010. {{cite web}}: External link in |publisher= (help)
+^ a b c d e "Tap Drill Sizes". widell.com. Archived from the original on 14 November 2006. Retrieved 1 September 2006. {{cite web}}: External link in |work= (help)
+^ a b c d e "Tap & Clearance Drills For Common Screws". Small Parts Inc. Retrieved 7 October 2010. {{cite web}}: External link in |work= (help)[dead link]
+^ a b c d e "Tap Drill Sizes". efunda.com. Retrieved 4 August 2006. {{cite web}}: External link in |work= (help)
+^ "High performance taps" (PDF). guhring.com. Retrieved 7 October 2010. {{cite web}}: External link in |publisher= (help)
+^ "High performance taps" (PDF). guhring.com. Retrieved 7 October 2010. {{cite web}}: External link in |publisher= (help)
+^ "High performance taps" (PDF). guhring.com. Retrieved 7 October 2010. {{cite web}}: External link in |publisher= (help)
+^ "High performance taps" (PDF). guhring.com. Retrieved 7 October 2010. {{cite web}}: External link in |publisher= (help)
+^ http://www.littlemachineshop.com/reference/tapdrillsizes.pdf[bare URL PDF]
+External links[edit]
+Tap Drill Sizes
+Metric Tap Drill Sizes
+Tap and drill chart
+BTA Drill Tube Reference Chart
+vteMetalworkingvteMachining and computingComputer-aidedengineering
+2.5D
+CAD
+CAM
+G-code
+Numerical control (NC and CNC)
+Stewart platform
+Drilling andthreading
+Die head
+Drill
+Drill bit
+Drill bit shank
+Drill bit sizes
+Drilling
+List of drill and tap sizes
+Tap and die
+Tap wrench
+Threading
+Grinding andlapping
+Abrasive
+Abrasive machining
+Angle grinder
+Bench grinder
+Coated abrasive
+Cylindrical grinder
+Diamond plate
+Flick grinder
+Grinding
+Grinding dresser
+Grinding machine
+Grinding wheel
+Jig grinder
+Lapping
+Sanding
+Sharpening stone
+Spark testing
+Surface grinder
+Tool and cutter grinder
+Machining
+Boring
+Broaching
+Electrical discharge machining
+Electrochemical machining
+Electron-beam machining
+End mill
+Engraving
+Facing
+Hobbing
+Jig borer
+Machine tool
+Machining
+Metal lathe
+Milling
+Milling cutter
+Pantograph
+Photochemical machining
+Planer
+Reamer
+Rotary transfer machine
+Shaper
+Skiving
+Turning
+Ultrasonic machining
+Machine tools
+Angle plate
+Chuck
+Collet
+Fixture
+Indexing head
+Jig
+Lathe center
+Machine taper
+Magnetic switchable device
+Mandrel
+Rotary table
+Wiggler
+Terminology
+Cutting fluid
+Machining vibrations
+Speeds and feeds
+Swarf
+Tolerance
+Tool and die making
+Tramp oil
+Workpiece
+Casting
+Fabrication
+Forming
+Jewellery
+Machining
+Metallurgy
+Smithing
+Tools and terminology
+Welding
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_drill_and_tap_sizes&oldid=1096665177"

@@ -1,0 +1,111 @@
+One hundredth of a percent ( )
+This article is about the financial term. It is not to be confused with the electronic term Bias point.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Basis point" news  newspapers  books  scholar  JSTOR (May 2010) (Learn how and when to remove this template message)
+ per ten thousand signIn UnicodeU+2031   PER TEN THOUSAND SIGN (&pertenk;)RelatedSee alsoU+0025 % PERCENT SIGNU+2030   PER MILLE SIGN (per thousand)
+A basis point (often abbreviated as bp, often pronounced as "bip" or "beep"[1]) is one hundredth of 1 percentage point. The related term permyriad means one hundredth of 1 percent. Changes of interest rates are often stated in basis points. If an interest rate of 10% increased by 1 bp, it changed to 10.01%.
+Definition[edit]
+ Visualisation of 1%, 1 , 1 , 1 pcm and 1 ppm as fractions of the large block (larger version) 
+1 basis point (bp) = (a difference of) 1  or 0.01% or 0.1  or 10 4 or 1/10,000 or 0.0001.
+10 bp = (a difference of) 0.1% or 1  or 10 .
+100 bp = (a difference of) 1% or 10  or 100 .
+Basis points are used as a convenient unit of measurement in contexts where percentage differences of less than 1% are discussed. The most common example is interest rates, where differences in interest rates of less than 1% per year are usually meaningful to talk about. For example, a difference of 0.10 percentage points is equivalent to a change of 10 basis points (e.g., a 4.67% rate increases by 10 basis points to 4.77%). In other words, an increase of 100 basis points means a rise by 1 percentage point.
+Like percentage points, basis points avoid the ambiguity between relative and absolute discussions about interest rates by dealing only with the absolute change in numeric value of a rate. For example,  if a report says there has been a "1% increase" from a 10% interest rate, this could refer to an increase either from 10% to 10.1% (relative, 1% of 10%), or from 10% to 11% (absolute, 1% plus 10%).  However, if the report says there has been a "100 basis point increase" from a 10% interest rate, then the interest rate of 10% has increased by 1.00% (the absolute change) to an 11% rate.
+It is common practice in the financial industry to use basis points to denote a rate change in a financial instrument, or the difference (spread) between two interest rates, including the yields of fixed-income securities.
+Since certain loans and bonds may commonly be quoted in relation to some index or underlying security, they will often be quoted as a spread over (or under) the index. For example, a loan that bears interest of 0.50% per annum above the London Interbank Offered Rate (LIBOR) is said to be 50 basis points over LIBOR, which is commonly expressed as "L+50bps" or simply "L+50".
+The term "basis point" has its origins in trading the "basis" or the spread between two interest rates.  Since the basis is usually small, these are quoted multiplied up by 10,000, and hence a "full point" movement in the "basis" is a basis point.  Contrast with pips in FX forward markets.
+Expense ratios of investment funds are often quoted in basis points.[2]
+Permyriad[edit]
+A related concept is one part per ten thousand, 1/10,000. The same unit is also (rarely) called a permyriad, literally meaning "for (every) myriad (ten thousand)".[3][4]  If used interchangeably with basis point, the permyriad is potentially confusing because an increase of one basis point to a 10 basis point value is generally understood to mean an increase to 11 basis points; not an increase of one part in ten thousand, meaning an increase to 10.001 basis points. This is akin to the difference between percentage and percentage point. 
+Unicode[edit]
+A permyriad is written with U+2031   PER TEN THOUSAND SIGN (&pertenk;)[5] which looks like a percent sign % with three zeroes to the right of the slash. (It can be regarded as a stylized form of the four zeros in the denominator of "1/10,000", although it originates as a natural extension of the percent % and permille   signs.)
+Related units[edit]
+Percentage point difference of 1 part in 100
+Percentage (%) 1 part in 100
+Per mille ( ) 1 part in 1,000
+Per cent mille (pcm) 1 part in 100,000
+Parts per million (ppm) 1 part in 1,000,000
+See also[edit]
+Parts-per notation
+Per-unit system
+Percent point function
+Tick size
+References[edit]
+^ "Beep". Investopedia.
+^ Constable, Simon (September 4, 2013). "What Is a Basis Point and Why Is It So Important?". Wall Street Journal. Dow Jones. Archived from the original on 2016-10-09. Retrieved 2017-04-22. Investors also refer to basis points when discussing the cost of mutual funds and exchange-traded funds. Typically, fund expenses are expressed as an annual percentage of assets. For instance, the "Investor" share class of Vanguard Total Stock Market Index, the largest stock mutual fund, has expenses of 0.17%, or 17 basis points.When people compare fund expenses, they measure the difference in basis points. A fund with expenses of 0.45% is said to be five basis points more expensive than one with a 0.40% ratio.
+^ "myriad". www.merriam-webster.com. Retrieved 9 April 2018.
+^ "myriad". Dictionary.com. Retrieved 9 April 2018.
+^ "General Punctuation" (PDF). The Unicode Consortium. Retrieved 17 Sep 2011.
+External links[edit]
+ Media related to Basis point at Wikimedia Commons
+vtePunctuation marks and other typographical marks or symbols
+ space 
+ , comma 
+ : colon 
+ ; semicolon 
+ hyphen 
+ ' apostrophe 
+ prime 
+ . full stop 
+ & ampersand 
+ @ at sign 
+ ^ caret 
+ / slash 
+ \ backslash 
+ ellipsis 
+ * asterisk 
+ asterism 
+ * * * dinkus 
+ - hyphen-minus 
+ dash 
+ = double hyphen 
+ ? question mark 
+ ! exclamation mark 
+ interrobang 
+ inverted ! and ? 
+ irony punctuation 
+ # number sign 
+ numero sign 
+ ordinal indicator 
+ % percent sign 
+ per mille 
+ basis point 
+ degree symbol 
+ diameter sign 
+ + plus and minus signs 
+ multiplication sign 
+ division sign 
+ ~ tilde 
+ plus minus sign 
+ _ underscore 
+ tie 
+ | vertical bar 
+ bullet 
+ interpunct 
+ copyright symbol 
+ copyleft 
+ sound recording copyright 
+ registered trademark 
+ SM service mark symbol 
+ TM trademark symbol 
+ ' ' " " quotation mark 
+ guillemet 
+ ( ) [ ] { } bracket 
+ ditto mark 
+ dagger 
+ hedera/floral heart 
+ manicule 
+ lozenge 
+ pilcrow (paragraph mark) 
+ reference mark 
+ section mark 
+Version of this table as a sortable list
+Currency symbols
+Diacritics (accents)
+Logic symbols
+Math symbols
+Whitespace
+Chinese punctuation
+Hebrew punctuation
+Japanese punctuation
+Korean punctuation
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Basis_point&oldid=1138846640"

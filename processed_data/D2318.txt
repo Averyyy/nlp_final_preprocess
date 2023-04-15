@@ -1,0 +1,295 @@
+Albumin found in human blood
+ALBAvailable structuresPDBOrtholog search: PDBe RCSB List of PDB id codes1AO6, 1BJ5, 1BKE, 1BM0, 1E78, 1E7A, 1E7B, 1E7C, 1E7E, 1E7F, 1E7G, 1E7H, 1E7I, 1GNI, 1GNJ, 1H9Z, 1HA2, 1HK1, 1HK2, 1HK3, 1HK4, 1HK5, 1N5U, 1O9X, 1TF0, 1UOR, 1YSX, 2BX8, 2BXA, 2BXB, 2BXC, 2BXD, 2BXF, 2BXG, 2BXH, 2BXI, 2BXK, 2BXL, 2BXM, 2BXN, 2BXO, 2BXP, 2BXQ, 2I2Z, 2I30, 2VDB, 2VUE, 2VUF, 2XSI, 2XVQ, 2XVU, 2XVV, 2XVW, 2XW0, 2XW1, 2YDF, 3A73, 3B9L, 3B9M, 3CX9, 3JQZ, 3JRY, 3LU6, 3LU7, 3LU8, 3SQJ, 3TDL, 3UIV, 4E99, 4EMX, 4G03, 4G04, 4HGK, 4HGM, 4IW1, 4IW2, 4K2C, 4L8U, 4L9K, 4L9Q, 4LA0, 4LB9, 4LB2, 2N0X, 2ESG, 4S1Y, 4N0F, 4Z69, 4N0U, 4K71, 2BXE, 4BKE, 5IJF, 5ID7, 5IFO, 5FUOIdentifiersAliasesALB, blood albumin, ANALBA, FDAH, PRO0883, PRO0903, PRO1341, albumin, Serum albumin, HSA, FDAHTExternal IDsOMIM: 103600 MGI: 87991 HomoloGene: 405 GeneCards: ALB Gene location (Human)Chr.Chromosome 4 (human)[1]Band4q13.3Start73,397,114 bp[1]End73,421,482 bp[1]Gene location (Mouse)Chr.Chromosome 5 (mouse)[2]Band5 E1|5 44.7 cMStart90,608,756 bp[2]End90,624,461 bp[2]RNA expression patternBgeeHumanMouse (ortholog)Top expressed inliverright lobe of liverbody of pancreaskidneykidney tubuleislet of Langerhansglomerulusmetanephric glomerulusrenal medullabody of stomachTop expressed ingallbladderleft lobe of liveratrioventricular valveabdominal wallsexually immature organismupper lipwhite adipose tissuestomachthoracic diaphragmsubcutaneous adipose tissueMore reference expression dataBioGPSMore reference expression dataGene ontologyMolecular function
+DNA binding
+oxygen binding
+chaperone binding
+metal ion binding
+antioxidant activity
+protein binding
+identical protein binding
+pyridoxal phosphate binding
+copper ion binding
+lipid binding
+toxic substance binding
+fatty acid binding
+exogenous protein binding
+Cellular component
+cytoplasm
+Golgi apparatus
+blood microparticle
+myelin sheath
+extracellular region
+endoplasmic reticulum
+extracellular exosome
+platelet alpha granule lumen
+nucleus
+extracellular space
+endoplasmic reticulum lumen
+protein-containing complex
+Biological process
+sodium-independent organic anion transport
+hemolysis by symbiont of host erythrocytes
+cellular response to starvation
+platelet degranulation
+negative regulation of apoptotic process
+receptor-mediated endocytosis
+maintenance of mitochondrion location
+retina homeostasis
+bile acid and bile salt transport
+negative regulation of programmed cell death
+cellular oxidant detoxification
+high-density lipoprotein particle remodeling
+post-translational protein modification
+transport
+negative regulation of protein oligomerization
+Sources:Amigo / QuickGOOrthologsSpeciesHumanMouseEntrez21311657EnsemblENSG00000163631ENSMUSG00000029368UniProtP02768P07724RefSeq (mRNA)NM_000477NM_009654RefSeq (protein)NP_000468NP_033784Location (UCSC)Chr 4: 73.4   73.42 MbChr 5: 90.61   90.62 MbPubMed search[3][4]WikidataView/Edit HumanView/Edit Mouse
+Human serum albumin is the serum albumin found in human blood. It is the most abundant protein in human blood plasma; it constitutes about half of serum protein. It is produced in the liver. It is soluble in water, and it is monomeric.[citation needed]
+Albumin transports hormones, fatty acids, and other compounds, buffers pH, and maintains oncotic pressure, among other functions.
+Albumin is synthesized in the liver as preproalbumin, which has an N-terminal peptide that is removed before the nascent protein is released from the rough endoplasmic reticulum. The product, proalbumin, is in turn cleaved in the Golgi apparatus to produce the secreted albumin.
+The reference range for albumin concentrations in serum is approximately 35 50 g/L (3.5 5.0 g/dL).[5]  It has a serum half-life of approximately 21 days.[6] It has a molecular mass of 66.5 kDa.
+The gene for albumin is located on chromosome 4 in locus 4q13.3 and mutations in this gene can result in anomalous proteins. The human albumin gene is 16,961 nucleotides long from the putative 'cap' site to the first poly(A) addition site. It is split into 15 exons that are symmetrically placed within the 3 domains thought to have arisen by triplication of a single primordial domain.
+Human serum albumin (HSA) is a highly water-soluble globular monomeric plasma protein with a relative molecular weight of 67 KDa, consisting of 585 amino acid residues, one sulfhydryl group and 17 disulfide bridges. Among nanoparticulate carriers, HSA nanoparticles have long been the center of attention in the pharmaceutical industry due to their ability to bind to various drug molecules, great stability during storage and in vivo usage, no toxicity and antigenicity, biodegradability, reproducibility, scale up of the production process and a better control over release properties. In addition, significant amounts of drug can be incorporated into the particle matrix because of the large number of drug binding sites on the albumin molecule.[7]
+Function[edit]
+Maintains oncotic pressure
+Transports thyroid hormones
+Transports other hormones, in particular, ones that are fat-soluble
+Transports fatty acids ("free" fatty acids) to the liver and to myocytes for utilization of energy
+Transports unconjugated bilirubin
+Transports many drugs; serum albumin levels can affect the half-life of drugs.  Competition between drugs for albumin binding sites may cause drug interaction by increasing the free fraction of one of the drugs, thereby affecting potency.
+Competitively binds calcium ions (Ca2+)
+Serum albumin, as a negative acute-phase protein, is down-regulated in inflammatory states. As such, it is not a valid marker of nutritional status; rather, it is a marker of an inflammatory state
+Prevents photodegradation of folic acid
+Prevent pathogenic effects of Clostridioides difficile toxins[8]
+Measurement[edit]
+Serum albumin is commonly measured by recording the change in absorbance upon binding to a dye such as bromocresol green or bromocresol purple.[9]
+Reference ranges[edit]
+The normal range of human serum albumin in adults (> 3 y.o.) is 3.5 5.0  g/dL (35 50 g/L). For children less than three years of age, the normal range is broader, 2.9 5.5 g/dL.[10]
+Low albumin (hypoalbuminemia) may be caused by liver disease, nephrotic syndrome, burns, protein-losing enteropathy, malabsorption, malnutrition, late pregnancy, artefact, genetic variations and malignancy.[citation needed]
+High albumin (hyperalbuminemia) is almost always caused by dehydration. In some cases of retinol (Vitamin A) deficiency, the albumin level can be elevated to high-normal values (e.g., 4.9 g/dL) because retinol causes cells to swell with water. (This is also the reason too much Vitamin A is toxic.)[11]
+This swelling also likely occurs during treatment with 13-cis retinoic acid (isotretinoin), a pharmaceutical for treating severe acne, amongst other conditions. In lab experiments it has been shown that all-trans retinoic acid down regulates human albumin production.[12]
+Pathology[edit]
+Hypoalbuminemia[edit]
+Hypoalbuminemia means low blood albumin levels.[13] This can be caused by:
+Liver disease; cirrhosis of the liver is most common
+Excess excretion by the kidneys (as in nephrotic syndrome)
+Excess loss in bowel (protein-losing enteropathy, e.g., M n trier's disease)
+Burns (plasma loss in the absence of skin barrier)
+Redistribution (hemodilution [as in pregnancy], increased vascular permeability or decreased lymphatic clearance)
+Acute disease states (referred to as a negative acute-phase protein)[14]
+Malnutrition and wasting[15]
+Mutation causing analbuminemia (very rare)
+Anorexia nervosa (most common cause in adolescents)
+In clinical medicine, hypoalbuminemia significantly correlates with a higher mortality rates in several conditions such as heart failure, post-surgery, COVID-19.[16][17][18]
+Hyperalbuminemia[edit]
+Hyperalbuminemia is an increased concentration of albumin in the blood.[19] Typically, this condition is due to dehydration.[19]  Hyperalbuminemia has also been associated with high protein diets.[20]
+Medical use[edit]
+Human albumin solution (HSA) is available for medical use, usually at concentrations of 5 25%.
+Human albumin is often used to replace lost fluid and help restore blood volume in trauma, burns and surgery patients. There is no strong medical evidence that albumin administration (compared to saline) saves lives for people who have hypovolaemia or for those who are critically ill due to burns or hypoalbuminaemia.[21] It is also not known if there are people who are critically ill that may benefit from albumin.[21] Therefore, the Cochrane Collaboration recommends that it should not be used, except in clinical trials.[21][22]
+In acoustic droplet vaporization (ADV), albumin is sometimes used as a surfactant.  ADV has been proposed as a cancer treatment by means of occlusion therapy.[23]
+Human serum albumin may be used to potentially reverse drug/chemical toxicity by binding to free drug/agent.[24]
+Human albumin may also be used in treatment of decompensated cirrhosis.[25]
+Human serum albumin has been used as a component of a frailty index.[15]
+Glycation[edit]
+It has been known for a long time that human blood proteins like hemoglobin[26]  and serum albumin[27][28] may undergo a slow non-enzymatic glycation, mainly by formation of a Schiff base between  -amino groups of lysine (and sometimes arginine) residues and glucose molecules in blood (Maillard reaction). This reaction can be inhibited in the presence of antioxidant agents.[29] Although this reaction may happen normally,[27] elevated glycoalbumin is observed in diabetes mellitus.[28]
+Glycation has the potential to alter the biological structure and function of the serum albumin protein.[30][31][32][33]
+Moreover, the glycation can result in the formation of Advanced Glycation End-Products (AGE), which result in abnormal biological effects. Accumulation of AGEs leads to tissue damage via alteration of the structures and functions of tissue proteins, stimulation of cellular responses, through receptors specific for AGE-proteins, and generation of reactive oxygen intermediates. AGEs also react with DNA, thus causing mutations and DNA transposition. Thermal processing of proteins and carbohydrates brings major changes in allergenicity. AGEs are antigenic and represent many of the important neoantigens found in cooked or stored foods.[34] They also interfere with the normal product of nitric oxide in cells.[35]
+Although there are several lysine and arginine residues in the serum albumin structure, very few of them can take part in the glycation reaction.[28][36]
+Oxidation[edit]
+The albumin is the predominant protein in most body fluids, its Cys34 represents the largest fraction of free thiols within body. The albumin Cys34 thiol exists in both reduced and oxidized forms.[37] In plasma of healthy young adults, 70 80% of total HSA contains the free sulfhydryl group of Cys34 in a reduced form or mercaptoalbumin (HSA-SH).[38] However, in pathological states characterized by oxidative stress and during the aging process, the oxidized form, or non-mercaptoalbumin (HNA), could predominate.[39] The albumin thiol reacts with radical hydroxyl (.OH), hydrogen peroxide (H2O2) and the reactive nitrogen species as peroxynitrite (ONOO.), and have been shown to oxidize Cys34 to sulfenic acid derivate (HSA-SOH), it can be recycled to mercapto-albumin; however at high concentrations of reactive species leads to the irreversible oxidation to sulfinic (HSA-SO2H) or sulfonic acid (HSA-SO3H) affecting its structure.[40]  Presence of reactive oxygen species (ROS), can induce irreversible structural damage and alter protein activities.[citation needed]
+Loss via kidneys[edit]
+In the healthy kidney, albumin's size and negative electric charge exclude it from excretion in the glomerulus. This is not always the case, as in some diseases including diabetic nephropathy, which can sometimes be a complication of uncontrolled or of longer term diabetes  in which proteins can cross the glomerulus. The lost albumin can be detected by a simple urine test.[41] Depending on the amount of albumin lost, a patient may have normal renal function, microalbuminuria, or albuminuria.
+Interactions[edit]
+Human serum albumin has been shown to interact with FCGRT.[42]
+It might also interact with a yet-unidentified albondin (gp60), a certain pair of gp18/gp30, and some other proteins like osteonectin, hnRNPs, calreticulin, cubilin, and megalin.[43]
+See also[edit]
+Bovine serum albumin
+Serum albumin
+References[edit]
+^ a b c GRCh38: Ensembl release 89: ENSG00000163631 - Ensembl, May 2017
+^ a b c GRCm38: Ensembl release 89: ENSMUSG00000029368 - Ensembl, May 2017
+^ "Human PubMed Reference:". National Center for Biotechnology Information, U.S. National Library of Medicine.
+^ "Mouse PubMed Reference:". National Center for Biotechnology Information, U.S. National Library of Medicine.
+^ "Harmonisation of Reference Intervals" (PDF). pathologyharmony.co.uk. Pathology Harmony. Archived from the original (PDF) on 2 August 2013. Retrieved 23 June 2013.
+^ "Hypoalbuminemia: Background, Pathophysiology, Etiology". Medscape Reference. 2019-11-10. Retrieved 2019-12-22.
+^ Kouchakzadeh H, Shojaosadati SA, Shokri F (September 2014). "Efficient loading and entrapment of tamoxifen in human serum albumin based nanoparticulate delivery system by a modified desolvation technique". Chemical Engineering Research and Design. 92 (9): 1681 1692. doi:10.1016/j.cherd.2013.11.024.
+^ di Masi A, Leboffe L, Polticelli F, Tonon F, Zennaro C, Caterino M,  et al. (September 2018). "Human Serum Albumin Is an Essential Component of the Host Defense Mechanism Against Clostridium difficile Intoxication". The Journal of Infectious Diseases. 218 (9): 1424 1435. doi:10.1093/infdis/jiy338. PMID 29868851.
+^ "Albumin: analyte monograph" (PDF). Association for Clinical Biochemistry and Laboratory Medicine. Archived from the original (PDF) on 13 November 2012. Retrieved 23 June 2013.
+^ "Normal Ranges for Common Laboratory Tests". Archived from the original on 2013-01-14. Retrieved 2007-12-06.{{cite web}}:  CS1 maint: bot: original URL status unknown (link) Rush University
+^ Pasantes-Morales H, Wright CE, Gaull GE (December 1984). "Protective effect of taurine, zinc and tocopherol on retinol-induced damage in human lymphoblastoid cells". The Journal of Nutrition. 114 (12): 2256 2261. doi:10.1093/jn/114.12.2256. PMID 6502269.
+^ Masaki T, Matsuura T, Ohkawa K, Miyamura T, Okazaki I, Watanabe T, Suzuki T (July 2006). "All-trans retinoic acid down-regulates human albumin gene expression through the induction of C/EBPbeta-LIP". The Biochemical Journal. 397 (2): 345 353. doi:10.1042/BJ20051863. PMC 1513275. PMID 16608438.
+^ Anderson DM (2000). Dorland's illustrated medical dictionary (29th ed.). Philadelphia [u.a.]: Saunders. p. 860. ISBN 978-0721682617.
+^ Zerbato V, Sanson G, De Luca M, Di Bella S, di Masi A, Caironi P,  et al. (2022-04-20). "The Impact of Serum Albumin Levels on COVID-19 Mortality". Infectious Disease Reports. 14 (3): 278 286. doi:10.3390/idr14030034. ISSN 2036-7449. PMC 9149867. PMID 35645213.
+^ a b Green P, Woglom AE, Genereux P, Daneault B, Paradis JM, Schnell S,  et al. (September 2012). "The impact of frailty status on survival after transcatheter aortic valve replacement in older adults with severe aortic stenosis: a single-center experience". JACC. Cardiovascular Interventions. 5 (9): 974 981. doi:10.1016/j.jcin.2012.06.011. PMC 3717525. PMID 22995885.
+^ Uthamalingam S, Kandala J, Daley M, Patvardhan E, Capodilupo R, Moore SA, Januzzi JL (December 2010). "Serum albumin and mortality in acutely decompensated heart failure". American Heart Journal. 160 (6): 1149 1155. doi:10.1016/j.ahj.2010.09.004. PMID 21146671.
+^ Xu R, Hao M, Zhou W, Liu M, Wei Y, Xu J, Zhang W (August 2022). "Preoperative hypoalbuminemia in patients undergoing cardiac surgery: a meta-analysis". Surgery Today. doi:10.1007/s00595-022-02566-9. PMID 35933630. S2CID 251369303.
+^ Zerbato V, Sanson G, De Luca M, Di Bella S, di Masi A, Caironi P,  et al. (April 2022). "The Impact of Serum Albumin Levels on COVID-19 Mortality". Infectious Disease Reports. 14 (3): 278 286. doi:10.3390/idr14030034. PMC 9149867. PMID 35645213.
+^ a b Busher JT (1990). "Chapter 101: Serum Albumin and Globulin".  In Walker HK, Hall WD, Hurst JW (eds.). Clinical methods : the history, physical, and laboratory examinations (3rd ed.). Boston: Butterworths. ISBN 978-0409900774. PMID 21250048.
+^ Mutlu EA, Keshavarzian A, Mutlu GM (June 2006). "Hyperalbuminemia and elevated transaminases associated with high-protein diet". Scandinavian Journal of Gastroenterology. 41 (6): 759 760. doi:10.1080/00365520500442625. PMID 16716979. S2CID 21264934.
+^ a b c Roberts I, Blackhall K, Alderson P, Bunn F, Schierhout G (November 2011). "Human albumin solution for resuscitation and volume expansion in critically ill patients". The Cochrane Database of Systematic Reviews. 2011 (11): CD001208. doi:10.1002/14651858.CD001208.pub4. hdl:2299/5243. PMC 7055200. PMID 22071799.
+^ Yu YT, Liu J, Hu B, Wang RL, Yang XH, Shang XL,  et al. (July 2021). "Expert consensus on the use of human serum albumin in critically ill patients". Chinese Medical Journal. 134 (14): 1639 1654. doi:10.1097/CM9.0000000000001661. PMC 8318641. PMID 34397592.
+^ Lo AH, Kripfgans OD, Carson PL, Rothman ED, Fowlkes JB (May 2007). "Acoustic droplet vaporization threshold: effects of pulse duration and contrast agent". IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. 54 (5): 933 946. doi:10.1109/tuffc.2007.339. PMID 17523558. S2CID 11983041.
+^ Ascenzi P, Leboffe L, Toti D, Polticelli F, Trezza V (August 2018). "Fipronil recognition by the FA1 site of human serum albumin". Journal of Molecular Recognition. 31 (8): e2713. doi:10.1002/jmr.2713. PMID 29656610. S2CID 4894574.
+^ Caraceni P, Riggio O, Angeli P, Alessandria C, Neri S, Foschi FG,  et al. (June 2018). "Long-term albumin administration in decompensated cirrhosis (ANSWER): an open-label randomised trial". Lancet. 391 (10138): 2417 2429. doi:10.1016/S0140-6736(18)30840-7. hdl:2108/208667. PMID 29861076. S2CID 44120418.
+^ Rahbar S (October 1968). "An abnormal hemoglobin in red cells of diabetics". Clinica Chimica Acta; International Journal of Clinical Chemistry. 22 (2): 296 298. doi:10.1016/0009-8981(68)90372-0. PMID 5687098.
+^ a b Day JF, Thorpe SR, Baynes JW (February 1979). "Nonenzymatically glucosylated albumin. In vitro preparation and isolation from normal human serum". The Journal of Biological Chemistry. 254 (3): 595 597. doi:10.1016/S0021-9258(17)37845-6. PMID 762083.
+^ a b c Iberg N, Fl ckiger R (October 1986). "Nonenzymatic glycosylation of albumin in vivo. Identification of multiple glycosylated sites". The Journal of Biological Chemistry. 261 (29): 13542 13545. doi:10.1016/S0021-9258(18)67052-8. PMID 3759977.
+^ Jakus V, Hrnciarov  M, C rsky J, Krahulec B, Rietbrock N (1999). "Inhibition of nonenzymatic protein glycation and lipid peroxidation by drugs with antioxidant activity". Life Sciences. 65 (18 19): 1991 1993. doi:10.1016/S0024-3205(99)00462-2. PMID 10576452.
+^ Mohamadi-Nejad A, Moosavi-Movahedi AA, Hakimelahi GH, Sheibani N (September 2002). "Thermodynamic analysis of human serum albumin interactions with glucose: insights into the diabetic range of glucose concentration". The International Journal of Biochemistry & Cell Biology. 34 (9): 1115 1124. doi:10.1016/S1357-2725(02)00031-6. PMID 12009306.
+^ Shaklai N, Garlick RL, Bunn HF (March 1984). "Nonenzymatic glycosylation of human serum albumin alters its conformation and function". The Journal of Biological Chemistry. 259 (6): 3812 3817. doi:10.1016/S0021-9258(17)43168-1. PMID 6706980.
+^ Mendez DL, Jensen RA, McElroy LA, Pena JM, Esquerra RM (December 2005). "The effect of non-enzymatic glycation on the unfolding of human serum albumin". Archives of Biochemistry and Biophysics. 444 (2): 92 99. doi:10.1016/j.abb.2005.10.019. PMID 16309624.
+^ Mohamadi-Nejada A, Moosavi-Movahedi AA, Safariana S, Naderi-Maneshc MH, Ranjbarc B, Farzamid B, Mostafavie H, Larijanif MB, Hakimelahi GH (July 2002). "The thermal analysis of nonezymatic glycosylation of human serum albumin: differential scanning calorimetry and circular dichroism studies". Thermochimica Acta. 389 (1 2): 141 151. doi:10.1016/S0040-6031(02)00006-0.
+^ Ka ska U, Boraty ski J (2002). "Thermal glycation of proteins by D-glucose and D-fructose". Archivum Immunologiae et Therapiae Experimentalis. 50 (1): 61 66. PMID 11916310.
+^ Rojas A, Romay S, Gonz lez D, Herrera B, Delgado R, Otero K (February 2000). "Regulation of endothelial nitric oxide synthase expression by albumin-derived advanced glycosylation end products". Circulation Research. 86 (3): E50 E54. doi:10.1161/01.RES.86.3.e50. PMID 10679490.
+^ Garlick RL, Mazer JS (May 1983). "The principal site of nonenzymatic glycosylation of human serum albumin in vivo". The Journal of Biological Chemistry. 258 (10): 6142 6146. doi:10.1016/S0021-9258(18)32384-6. PMID 6853480.
+^ Kawakami A, Kubota K, Yamada N, Tagami U, Takehana K, Sonaka I,  et al. (July 2006). "Identification and characterization of oxidized human serum albumin. A slight structural change impairs its ligand-binding and antioxidant functions". The FEBS Journal. 273 (14): 3346 3357. doi:10.1111/j.1742-4658.2006.05341.x. PMID 16857017. S2CID 12844381.
+^ Turell L, Carballal S, Botti H, Radi R, Alvarez B (April 2009). "Oxidation of the albumin thiol to sulfenic acid and its implications in the intravascular compartment". Brazilian Journal of Medical and Biological Research = Revista Brasileira de Pesquisas Medicas e Biologicas. 42 (4): 305 311. doi:10.1590/s0100-879x2009000400001. PMID 19330257.
+^ Rosas-D az M, Camarillo-Cadena M, Hern ndez-Arana A, Ram n-Gallegos E, Medina-Navarro R (June 2015). "Antioxidant capacity and structural changes of human serum albumin from patients in advanced stages of diabetic nephropathy and the effect of the dialysis". Molecular and Cellular Biochemistry. 404 (1 2): 193 201. doi:10.1007/s11010-015-2378-2. PMID 25758354. S2CID 6718332.
+^ Matsuyama Y, Terawaki H, Terada T, Era S (August 2009). "Albumin thiol oxidation and serum protein carbonyl formation are progressively enhanced with advancing stages of chronic kidney disease". Clinical and Experimental Nephrology. 13 (4): 308 315. doi:10.1007/s10157-009-0161-y. PMID 19363646. S2CID 20886185.
+^ "Microalbumin Urine Test". WebMD.
+^ Chaudhury C, Mehnaz S, Robinson JM, Hayton WL, Pearl DK, Roopenian DC, Anderson CL (February 2003). "The major histocompatibility complex-related Fc receptor for IgG (FcRn) binds albumin and prolongs its lifespan". The Journal of Experimental Medicine. 197 (3): 315 322. doi:10.1084/jem.20021829. PMC 2193842. PMID 12566415.
+^ Merlot AM, Kalinowski DS, Richardson DR (2014). "Unraveling the mysteries of serum albumin-more than just a serum protein". Frontiers in Physiology. 5: 299. doi:10.3389/fphys.2014.00299. PMC 4129365. PMID 25161624.
+Further reading[edit]
+Komatsu T, Nakagawa A, Curry S, Tsuchida E, Murata K, Nakamura N, Ohno H (September 2009). "The role of an amino acid triad at the entrance of the heme pocket in human serum albumin for O(2) and CO binding to iron protoporphyrin IX". Organic & Biomolecular Chemistry. 7 (18): 3836 3841. doi:10.1039/b909794e. PMID 19707690.
+Milojevic J, Raditsis A, Melacini G (November 2009). "Human serum albumin inhibits Abeta fibrillization through a "monomer-competitor" mechanism". Biophysical Journal. 97 (9): 2585 2594. Bibcode:2009BpJ....97.2585M. doi:10.1016/j.bpj.2009.08.028. PMC 2770600. PMID 19883602.
+Silva AM, Hider RC (October 2009). "Influence of non-enzymatic post-translation modifications on the ability of human serum albumin to bind iron. Implications for non-transferrin-bound iron speciation". Biochimica et Biophysica Acta. 1794 (10): 1449 1458. doi:10.1016/j.bbapap.2009.06.003. PMID 19505594.
+Otosu T, Nishimoto E, Yamashita S (February 2010). "Multiple conformational state of human serum albumin around single tryptophan residue at various pH revealed by time-resolved fluorescence spectroscopy". Journal of Biochemistry. 147 (2): 191 200. doi:10.1093/jb/mvp175. PMID 19884191.
+Blindauer CA, Harvey I, Bunyan KE, Stewart AJ, Sleep D, Harrison DJ,  et al. (August 2009). "Structure, properties, and engineering of the major zinc binding site on human albumin". The Journal of Biological Chemistry. 284 (34): 23116 23124. doi:10.1074/jbc.M109.003459. PMC 2755717. PMID 19520864.
+Ju rez J, L pez SG, Camb n A, Taboada P, Mosquera V (July 2009). "Influence of electrostatic interactions on the fibrillation process of human serum albumin". The Journal of Physical Chemistry B. 113 (30): 10521 10529. doi:10.1021/jp902224d. PMID 19572666.
+Fu BL, Guo ZJ, Tian JW, Liu ZQ, Cao W (August 2009). "[Advanced glycation end products induce expression of PAI-1 in cultured human proximal tubular epithelial cells through NADPH oxidase dependent pathway]". Xi Bao Yu Fen Zi Mian Yi Xue Za Zhi = Chinese Journal of Cellular and Molecular Immunology. 25 (8): 674 677. PMID 19664386.
+Ascenzi P, di Masi A, Coletta M, Ciaccio C, Fanali G, Nicoletti FP,  et al. (November 2009). "Ibuprofen impairs allosterically peroxynitrite isomerization by ferric human serum heme-albumin". The Journal of Biological Chemistry. 284 (45): 31006 31017. doi:10.1074/jbc.M109.010736. PMC 2781501. PMID 19734142.
+Sowa ME, Bennett EJ, Gygi SP, Harper JW (July 2009). "Defining the human deubiquitinating enzyme interaction landscape". Cell. 138 (2): 389 403. doi:10.1016/j.cell.2009.04.042. PMC 2716422. PMID 19615732.
+Curry S (August 2002). "Beyond expansion: structural studies on the transport roles of human serum albumin". Vox Sanguinis. 83 (Suppl 1): 315 319. doi:10.1111/j.1423-0410.2002.tb05326.x. PMID 12617161. S2CID 44482133.
+Guo S, Shi X, Yang F, Chen L, Meehan EJ, Bian C, Huang M (September 2009). "Structural basis of transport of lysophospholipids by human serum albumin". The Biochemical Journal. 423 (1): 23 30. doi:10.1042/BJ20090913. PMID 19601929.
+de Jong PE, Gansevoort RT (2009). "Focus on microalbuminuria to improve cardiac and renal protection". Nephron Clinical Practice. 111 (3): c204-10, discussion c211. doi:10.1159/000201568. PMID 19212124.
+Page TA, Kraut ND, Page PM, Baker GA, Bright FV (September 2009). "Dynamics of loop 1 of domain I in human serum albumin when dissolved in ionic liquids". The Journal of Physical Chemistry B. 113 (38): 12825 12830. doi:10.1021/jp904475v. PMID 19711930.
+Roche M, Rondeau P, Singh NR, Tarnus E, Bourdon E (June 2008). "The antioxidant properties of serum albumin". FEBS Letters. 582 (13): 1783 1787. doi:10.1016/j.febslet.2008.04.057. PMID 18474236. S2CID 5364683.
+Wyatt AR, Wilson MR (February 2010). "Identification of human plasma proteins as major clients for the extracellular chaperone clusterin". The Journal of Biological Chemistry. 285 (6): 3532 3539. doi:10.1074/jbc.M109.079566. PMC 2823492. PMID 19996109.
+Cui FL, Yan YH, Zhang QZ, Qu GR, Du J, Yao XJ (February 2010). "A study on the interaction between 5-Methyluridine and human serum albumin using fluorescence quenching method and molecular modeling". Journal of Molecular Modeling. 16 (2): 255 262. doi:10.1007/s00894-009-0548-4. PMID 19588173. S2CID 9042021.
+Caridi G, Dagnino M, Simundic AM, Miler M, Stancic V, Campagnoli M,  et al. (March 2010). "Albumin Benkovac (c.1175 A > G; p.Glu392Gly): a novel genetic variant of human serum albumin". Translational Research. 155 (3): 118 119. doi:10.1016/j.trsl.2009.10.001. PMID 20171595.
+Deeb O, Rosales-Hern ndez MC, G mez-Castro C, Gardu o-Ju rez R, Correa-Basurto J (February 2010). "Exploration of human serum albumin binding sites by docking and molecular dynamics flexible ligand-protein interactions". Biopolymers. 93 (2): 161 170. doi:10.1002/bip.21314. PMID 19785033.
+Karahan SC, Koramaz I, Altun G, U ar U, Topba  M, Mente e A, Kopuz M (2010). "Ischemia-modified albumin reduction after coronary bypass surgery is associated with the cardioprotective efficacy of cold-blood cardioplegia enriched with N-acetylcysteine: a preliminary study". European Surgical Research. 44 (1): 30 36. doi:10.1159/000262324. PMID 19955769. S2CID 26699371.
+Jin C, Lu L, Zhang RY, Zhang Q, Ding FH, Chen QJ, Shen WF (October 2009). "Association of serum glycated albumin, C-reactive protein and ICAM-1 levels with diffuse coronary artery disease in patients with type 2 diabetes mellitus". Clinica Chimica Acta; International Journal of Clinical Chemistry. 408 (1 2): 45 49. doi:10.1016/j.cca.2009.07.003. PMID 19615354.
+External links[edit]
+Human Albumin structure in the Protein data bank
+Human Serum Albumin Archived 2006-04-24 at the Wayback Machine on the Human Protein Reference Database Archived 2006-04-24 at the Wayback Machine
+Albumin binding prediction
+Albumin at Lab Tests Online
+Albumin: analyte monograph from the Association for Clinical Biochemistry and Laboratory Medicine
+Overview of all the structural information available in the PDB for UniProt: P02768 (Serum albumin) at the PDBe-KB.
+vtePDB gallery
+1ao6: CRYSTAL STRUCTURE OF HUMAN SERUM ALBUMIN
+1bj5: HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTIC ACID
+1bke: HUMAN SERUM ALBUMIN IN A COMPLEX WITH MYRISTIC ACID AND TRI-IODOBENZOIC ACID
+1bm0: CRYSTAL STRUCTURE OF HUMAN SERUM ALBUMIN
+1e78: CRYSTAL STRUCTURE OF HUMAN SERUM ALBUMIN
+1e7a: CRYSTAL STRUCTURE OF HUMAN SERUM ALBUMIN COMPLEXED WITH THE GENERAL ANESTHETIC PROPOFOL
+1e7b: CRYSTAL STRUCTURE OF HUMAN SERUM ALBUMIN COMPLEXED WITH THE GENERAL ANESTHETIC HALOTHANE
+1e7c: HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTIC ACID AND THE GENERAL ANESTHETIC HALOTHANE
+1e7e: HUMAN SERUM ALBUMIN COMPLEXED WITH DECANOIC ACID (CAPRIC ACID)
+1e7f: HUMAN SERUM ALBUMIN COMPLEXED WITH DODECANOIC ACID (LAURIC ACID)
+1e7g: HUMAN SERUM ALBUMIN COMPLEXED WITH TETRADECANOIC ACID (MYRISTIC ACID) HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTIC ACID
+1e7h: HUMAN SERUM ALBUMIN COMPLEXED WITH HEXADECANOIC ACID (PALMITIC ACID)
+1e7i: HUMAN SERUM ALBUMIN COMPLEXED WITH OCTADECANOIC ACID (STEARIC ACID)
+1gni: HUMAN SERUM ALBUMIN COMPLEXED WITH CIS-9-OCTADECENOIC ACID (OLEIC ACID)
+1gnj: HUMAN SERUM ALBUMIN COMPLEXED WITH CIS-5,8,11,14-EICOSATETRAENOIC ACID (ARACHIDONIC ACID)
+1h9z: HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTIC ACID AND THE R-(+) ENANTIOMER OF WARFARIN
+1ha2: HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTIC ACID AND THE S-(-) ENANTIOMER OF WARFARIN
+1hk1: HUMAN SERUM ALBUMIN COMPLEXED WITH THYROXINE (3,3',5,5'-TETRAIODO-L-THYRONINE)
+1hk2: HUMAN SERUM ALBUMIN MUTANT R218H COMPLEXED WITH THYROXINE (3,3',5,5'-TETRAIODO-L-THYRONINE)
+1hk3: HUMAN SERUM ALBUMIN MUTANT R218P COMPLEXED WITH THYROXINE (3,3',5,5'-TETRAIODO-L-THYRONINE)
+1hk4: HUMAN SERUM ALBUMIN COMPLEXED WITH THYROXINE (3,3',5,5'-TETRAIODO-L-THYRONINE) AND MYRISTIC ACID (TETRADECANOIC ACID)
+1hk5: HUMAN SERUM ALBUMIN MUTANT R218H COMPLEXED WITH THYROXINE (3,3',5,5'-TETRAIODO-L-THYRONINE) AND MYRISTIC ACID (TETRADECANOIC ACID)
+1n5u: X-RAY STUDY OF HUMAN SERUM ALBUMIN COMPLEXED WITH HEME
+1o9x: HUMAN SERUM ALBUMIN COMPLEXED WITH TETRADECANOIC ACID (MYRISTIC ACID) AND HEMIN
+1tf0: Crystal structure of the GA module complexed with human serum albumin
+1uor: X-RAY STUDY OF RECOMBINANT HUMAN SERUM ALBUMIN. PHASES DETERMINED BY MOLECULAR REPLACEMENT METHOD, USING LOW RESOLUTION STRUCTURE MODEL OF TETRAGONAL FORM OF HUMAN SERUM ALBUMIN
+1ysx: Solution structure of domain 3 from human serum albumin complexed to an anti-apoptotic ligand directed against Bcl-xL and Bcl-2
+2bx8: HUMAN SERUM ALBUMIN COMPLEXED WITH AZAPROPAZONE
+2bxa: HUMAN SERUM ALBUMIN COMPLEXED WITH 3-CARBOXY-4-METHYL-5-PROPYL-2-FURANPROPANOIC ACID (CMPF)
+2bxb: HUMAN SERUM ALBUMIN COMPLEXED WITH OXYPHENBUTAZONE
+2bxc: HUMAN SERUM ALBUMIN COMPLEXED WITH PHENYLBUTAZONE
+2bxd: HUMAN SERUM ALBUMIN COMPLEXED WITH WARFARIN
+2bxe: HUMAN SERUM ALBUMIN COMPLEXED WITH DIFLUNISAL
+2bxf: HUMAN SERUM ALBUMIN COMPLEXED WITH DIAZEPAM
+2bxg: HUMAN SERUM ALBUMIN COMPLEXED WITH IBUPROFEN
+2bxh: HUMAN SERUM ALBUMIN COMPLEXED WITH INDOXYL SULFATE
+2bxi: HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTATE AND AZAPROPAZONE
+2bxk: HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTATE, AZAPROPAZONE AND INDOMETHACIN
+2bxl: HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTATE AND 3,5-DIIODOSALICYLIC ACID
+2bxm: HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTATE AND INDOMETHACIN
+2bxn: HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTATE AND IODIPAMIDE
+2bxo: HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTATE AND OXYPHENBUTAZONE
+2bxp: HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTATE AND PHENYLBUTAZONE
+2bxq: HUMAN SERUM ALBUMIN COMPLEXED WITH MYRISTATE, PHENYLBUTAZONE AND INDOMETHACIN
+2i2z: Human serum albumin complexed with myristate and aspirin
+2i30: Human serum albumin complexed with myristate and salicylic acid
+vteGlobular proteinsSerum globulinsAlpha globulinsserpins:
+alpha-1 (Alpha 1-antichymotrypsin, Alpha 1-antitrypsin)
+alpha-2 (Alpha 2-antiplasmin)
+Antithrombin (Heparin cofactor II)
+carrier proteins:
+alpha-1 (Transcortin)
+alpha-2 (Ceruloplasmin)
+Retinol binding protein
+other:
+alpha-1 (Orosomucoid)
+alpha-2 (alpha-2-Macroglobulin, Haptoglobin)
+Beta globulinscarrier proteins:
+Sex hormone-binding globulin
+Transferrin
+other:
+Angiostatin
+Hemopexin
+Beta-2 microglobulin
+Factor H
+Plasminogen
+Properdin
+Gamma globulin
+Immunoglobulins
+Other
+Fibronectin (fFN: Fetal fibronectin)
+Macroglobulin/Microglobulin
+Transcobalamin
+Edestin
+Other globulins
+Beta-lactoglobulin
+Lactoferrin
+Thyroglobulin
+Alpha-lactalbumin
+11S globulin family
+7S seed storage protein
+AlbuminsEgg white
+Conalbumin
+Ovalbumin
+Avidin
+Serum albumin
+Human serum albumin
+Bovine serum albumin
+Prealbumin
+Other
+C-reactive protein
+Lactalbumin (Alpha-lactalbumin)
+Parvalbumin
+Ricin
+Vitamin D-binding protein
+Extracellular matrix protein 1
+see also disorders of globin and globulin proteins
+vteAcute-phase proteinsAmyloid
+SAP
+SAA
+Other positive
+Alpha 1-antichymotrypsin
+Alpha 1-antitrypsin
+Alpha 2-macroglobulin
+C-reactive protein
+Ceruloplasmin
+C3
+Ferritin
+Fibrin
+Haptoglobin
+Hemopexin
+Orosomucoid
+Negative
+Serum albumin
+Transferrin
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Human_serum_albumin&oldid=1145193791"

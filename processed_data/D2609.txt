@@ -1,0 +1,680 @@
+Line of longitude, at which longitude is defined to be 0 
+"Prime Meridian" redirects here. For Earth's prime meridian, often called the Prime Meridian, see IERS Reference Meridian. For the historical meridian it is based on, see Prime meridian (Greenwich).
+0 class=notpageimage| Modern IERS Reference Meridian on Earth
+A prime meridian is an arbitrary meridian (a line of longitude) in a geographic coordinate system at which longitude is defined to be 0 . Together, a prime meridian and its anti-meridian (the 180th meridian in a 360 -system) form a great circle. This great circle divides a spheroid, like Earth, into two hemispheres: the Eastern Hemisphere and the Western Hemisphere (for an east-west notational system). For Earth's prime meridian, various conventions have been used or advocated in different regions throughout history.[1] Earth's current international standard prime meridian is the IERS Reference Meridian. It is derived, but differs slightly, from the Greenwich Meridian, the previous standard.[2]
+ Gerardus Mercator in his Atlas Cosmographicae (1595) used a prime meridian somewhere close to 25 W, passing just to the west of Santa Maria Island in the Azores in the Atlantic Ocean. His 180th meridian runs along the Strait of Ani n (Bering Strait)
+A prime meridian for a planetary body not tidally locked (or at least not in synchronous rotation) is entirely arbitrary, unlike an equator, which is determined by the axis of rotation. However, for celestial objects that are tidally locked (more specifically, synchronous), their prime meridians are determined by the face always inward of the orbit (a planet facing its star, or a moon facing its planet), just as equators are determined by rotation.
+Longitudes for the Earth and Moon are measured from their prime meridian (at 0 ) to 180  east and west. For all other Solar System bodies, longitude is measured from 0  (their prime meridian) to 360 . West longitudes are used if the rotation of the body is prograde (or 'direct', like Earth), meaning that its direction of rotation is the same as that of its orbit. East longitudes are used if the rotation is retrograde.[3]
+History[edit]
+See also: History of longitude
+ Ptolemy's 1st projection, redrawn under Maximus Planudes around 1300, using a prime meridian through the Canary Islands west of Africa, at the left-hand edge of the map. (The obvious central line shown here is the junction of two sheets).
+The notion of longitude for Greeks was developed by the Greek Eratosthenes (c. 276  195 BCE) in Alexandria, and Hipparchus (c. 190  120 BCE) in Rhodes, and applied to a large number of cities by the geographer Strabo (64/63 BCE  c. 24 CE). But it was Ptolemy (c. 90  168 CE) who first used a consistent meridian for a world map in his Geographia.
+Ptolemy used as his basis the "Fortunate Isles", a group of islands in the Atlantic, which are usually associated with the Canary Islands (13  to 18 W), although his maps correspond more closely to the Cape Verde islands (22  to 25  W). The main point is to be comfortably west of the western tip of Africa (17.5  W) as negative numbers were not yet in use. His prime meridian corresponds to 18  40' west of Winchester (about 20 W) today.[1] At that time the chief method of determining longitude was by using the reported times of lunar eclipses in different countries.
+One of the earliest known descriptions of standard time in India appeared in the 4th century CE astronomical treatise Surya Siddhanta. Postulating a spherical earth, the book described the thousands years old customs of the prime meridian, or zero longitude, as passing through Avanti, the ancient name for the historic city of Ujjain, and Rohitaka, the ancient name for Rohtak (28 54 N 76 38 E  /  28.900 N 76.633 E  / 28.900; 76.633  (Rohitaka (Rohtak))), a city near the Kurukshetra.[4][better source needed]
+ William Grigg's facsimile of the 1529 Spanish Padron Real, from the copy made by Diogo Ribeiro and held by the Vatican Library.
+Ptolemy's Geographia was first printed with maps at Bologna in 1477, and many early globes in the 16th century followed his lead. But there was still a hope that a "natural" basis for a prime meridian existed. Christopher Columbus reported (1493) that the compass pointed due north somewhere in mid-Atlantic, and this fact was used in the important Treaty of Tordesillas of 1494, which settled the territorial dispute between Spain and Portugal over newly discovered lands. The Tordesillas line was eventually settled at 370 leagues (2,193 kilometers, 1,362 statute miles, or 1,184 nautical miles) west of Cape Verde.[a] This is shown in the copies of Spain's Padron Real made by Diogo Ribeiro in 1527 and 1529. S o Miguel Island (25.5 W) in the Azores was still used for the same reason as late as 1594 by Christopher Saxton, although by then it had been shown that the zero magnetic deviation line did not follow a line of longitude.[8]
+ 1571 Africa map by Abraham Ortelius, with Cape Verde as its prime meridian.
+ 1682 map of East Asia by Giacomo Cantelli, with Cape Verde as its prime meridian; Japan is thus located around 180  E.
+In 1541, Mercator produced his famous 41 cm terrestrial globe and drew his prime meridian precisely through Fuerteventura (14 1'W) in the Canaries. His later maps used the Azores, following the magnetic hypothesis. But by the time that Ortelius produced the first modern atlas in 1570, other islands such as Cape Verde were coming into use. In his atlas longitudes were counted from 0  to 360 , not 180 W to 180 E as is usual today. This practice was followed by navigators well into the 18th century.[9] In 1634, Cardinal Richelieu used the westernmost island of the Canaries, El Hierro, 19  55' west of Paris, as the choice of meridian. The geographer Delisle decided to round this off to 20 , so that it simply became the meridian of Paris disguised.[10]
+In the early 18th century the battle was on to improve the determination of longitude at sea, leading to the development of the marine chronometer by John Harrison. But it was the development of accurate star charts, principally by the first British Astronomer Royal, John Flamsteed between 1680 and 1719 and disseminated by his successor Edmund Halley, that enabled navigators to use the lunar method of determining longitude more accurately using the octant developed by Thomas Godfrey and John Hadley.[11]
+In the 18th century most countries in Europe adapted their own prime meridian, usually through their capital, hence in France the Paris meridian was prime, in Germany it was the Berlin meridian, in Denmark the Copenhagen meridian, and in United Kingdom the Greenwich meridian.
+Between 1765 and 1811, Nevil Maskelyne published 49 issues of the Nautical Almanac based on the meridian of the Royal Observatory, Greenwich. "Maskelyne's tables not only made the lunar method practicable, they also made the Greenwich meridian the universal reference point. Even the French translations of the Nautical Almanac retained Maskelyne's calculations from Greenwich   in spite of the fact that every other table in the Connaissance des Temps considered the Paris meridian as the prime."[12]
+In 1884, at the International Meridian Conference in Washington, D.C., 22 countries voted to adopt the Greenwich meridian as the prime meridian of the world.[13] The French argued for a neutral line, mentioning the Azores and the Bering Strait, but eventually abstained and continued to use the Paris meridian until 1911.
+The current international standard Prime Meridian is the IERS Reference Meridian. The  International Hydrographic Organization adopted an early version of the IRM in 1983 for all nautical charts.[14] It was adopted for air navigation by the International Civil Aviation Organization on 3 March 1989.[15]
+International prime meridian[edit]
+Since 1984, the international standard for the  Earth's prime meridian is the IERS Reference Meridian. Between 1884 and 1984, the meridian of Greenwich was the world standard. These meridians are physically very close to each other.
+Prime meridian at Greenwich[edit]
+ Markings of the Greenwich meridian at the Royal Observatory, Greenwich.
+Main article: Prime meridian (Greenwich)
+In October 1884 the Greenwich Meridian was selected by delegates (forty-one delegates representing twenty-five nations) to the International Meridian Conference held in Washington, D.C., United States to be the common zero of longitude and standard of time reckoning throughout the world.[16][b]
+The position of the historic prime meridian, based at the Royal Observatory, Greenwich, was established by Sir George Airy in 1851. It was defined by the location of the Airy Transit Circle ever since the first observation he took with it.[18] Prior to that, it was defined by a succession of earlier transit instruments, the first of which was acquired by the second Astronomer Royal, Edmond Halley in 1721. It was set up in the extreme north-west corner of the Observatory between Flamsteed House and the Western Summer House. This spot, now subsumed into Flamsteed House, is roughly 43 metres to the west of the Airy Transit Circle, a distance equivalent to roughly 2 seconds of longitude.[19] It was Airy's transit circle that was adopted in principle (with French delegates, who pressed for adoption of the Paris meridian abstaining) as the Prime Meridian of the world at the 1884 International Meridian Conference.[20][21]
+All of these Greenwich meridians were located via an astronomic observation from the surface of the Earth, oriented via a plumb line along the direction of gravity at the surface. This astronomic Greenwich meridian was disseminated around the world, first via the lunar distance method, then by chronometers carried on ships, then via telegraph lines carried by submarine communications cables, then via radio time signals. One remote longitude ultimately based on the Greenwich meridian using these methods was that of the North American Datum 1927 or NAD27, an ellipsoid whose surface best matches mean sea level under the United States.
+IERS Reference Meridian[edit]
+Main article: IERS Reference Meridian
+Beginning in 1973 the International Time Bureau and later the International Earth Rotation and Reference Systems Service changed from reliance on optical instruments like the Airy Transit Circle to techniques such as lunar laser ranging, satellite laser ranging, and very-long-baseline interferometry. The new techniques resulted in the IERS Reference Meridian, the plane of which passes through the centre of mass of the Earth. This differs from the plane established by the Airy transit, which is affected by vertical deflection (the local vertical is affected by influences such as nearby mountains).  The change from relying on the local vertical to using a meridian based on the centre of the Earth caused the modern prime meridian to be 5.3  east of the astronomic Greenwich prime meridian through the Airy Transit Circle. At the latitude of Greenwich, this amounts to 102 metres.[22] This was officially accepted by the Bureau International de l'Heure (BIH) in 1984 via its BTS84 (BIH Terrestrial System) that later became WGS84 (World Geodetic System 1984) and the various International Terrestrial Reference Frames (ITRFs).
+Due to the movement of Earth's tectonic plates, the line of 0  longitude along the surface of the Earth has slowly moved toward the west from this shifted position by a few centimetres; that is, towards the Airy Transit Circle (or the Airy Transit Circle has moved toward the east, depending on your point of view) since 1984 (or the 1960s). With the introduction of satellite technology, it became possible to create a more accurate and detailed global map. With these advances there also arose the necessity to define a reference meridian that, whilst being derived from the Airy Transit Circle, would also take into account the effects of plate movement and variations in the way that the Earth was spinning.[23]
+As a result, the IERS Reference Meridian was established and is commonly used to denote the Earth's prime meridian (0  longitude) by the International Earth Rotation and Reference Systems Service, which defines and maintains the link between longitude and time. Based on observations to satellites and celestial compact radio sources (quasars) from various coordinated stations around the globe, Airy's transit circle drifts northeast about 2.5 centimetres per year relative to this Earth-centred 0  longitude.
+It is also the reference meridian of the Global Positioning System operated by the United States Department of Defense, and of WGS84 and its two formal versions, the ideal International Terrestrial Reference System (ITRS) and its realization, the International Terrestrial Reference Frame (ITRF).[24][25][c] A current convention on the Earth uses the line of longitude 180  opposite the IRM as the basis for the International Date Line.
+List of places[edit]
+Map all coordinates using: OpenStreetMap 
+Download coordinates as: KML
+On Earth, starting at the North Pole and heading south to the South Pole, the IERS Reference Meridian (as of 2016) passes through:
+Co-ordinates(approximate)
+Country, territory or sea
+Notes
+90 0 N 0 0 E  /  90.000 N 0.000 E  / 90.000; 0.000  (North Pole)
+Arctic Ocean
+85 46 N 0 0 E  /  85.767 N 0.000 E  / 85.767; 0.000  (EEZ of Greenland (Denmark))
+Exclusive Economic Zone (EEZ) of Greenland (Denmark)
+81 39 N 0 0 E  /  81.650 N 0.000 E  / 81.650; 0.000  (Greenland Sea)
+Greenland Sea
+80 29 N 0 0 E  /  80.483 N 0.000 E  / 80.483; 0.000  (EEZ of Svalbard (Norway))
+EEZ of Svalbard (Norway)
+76 11 N 0 0 E  /  76.183 N 0.000 E  / 76.183; 0.000  (International waters)
+International waters
+73 44 N 0 0 E  /  73.733 N 0.000 E  / 73.733; 0.000  (EEZ of Jan Mayen)
+EEZ of Jan Mayen (Norway)
+72 53 N 0 0 E  /  72.883 N 0.000 E  / 72.883; 0.000  (Norwegian Sea)
+Norwegian Sea
+69 7 N 0 0 E  /  69.117 N 0.000 E  / 69.117; 0.000  (International waters)
+International waters
+64 42 N 0 0 E  /  64.700 N 0.000 E  / 64.700; 0.000  (EEZ of Norway)
+EEZ of Norway
+63 29 N 0 0 E  /  63.483 N 0.000 E  / 63.483; 0.000  (EEZ of Great Britain)
+EEZ of Great Britain
+61 0 N 0 0 E  /  61.000 N 0.000 E  / 61.000; 0.000  (North Sea)
+North Sea
+53 46 N 0 0 E  /  53.767 N 0.000 E  / 53.767; 0.000  (United Kingdom)
+ United Kingdom
+From Tunstall in East Riding to Peacehaven, passing through Greenwich
+50 47 N 0 0 E  /  50.783 N 0.000 E  / 50.783; 0.000  (English Channel)
+English Channel
+EEZ of Great Britain
+50 14 N 0 0 E  /  50.233 N 0.000 E  / 50.233; 0.000  (EEZ of France)
+English Channel
+EEZ of France
+49 20 N 0 0 E  /  49.333 N 0.000 E  / 49.333; 0.000  (France)
+ France
+From Villers-sur-Mer to Gavarnie
+42 41 N 0 0 E  /  42.683 N 0.000 E  / 42.683; 0.000  (Spain)
+ Spain
+From Cilindro de Marbor  to Castell n de la Plana
+39 56 N 0 0 E  /  39.933 N 0.000 E  / 39.933; 0.000  (Mediterranean Sea)
+Mediterranean Sea
+Gulf of Valencia; EEZ of Spain
+38 52 N 0 0 E  /  38.867 N 0.000 E  / 38.867; 0.000  (Spain)
+ Spain
+From El Verger to Calp
+38 38 N 0 0 E  /  38.633 N 0.000 E  / 38.633; 0.000  (Mediterranean Sea)
+Mediterranean Sea
+EEZ of Spain
+37 1 N 0 0 E  /  37.017 N 0.000 E  / 37.017; 0.000  (EEZ of Algeria)
+Mediterranean Sea
+EEZ of Algeria
+35 50 N 0 0 E  /  35.833 N 0.000 E  / 35.833; 0.000  (Algeria)
+ Algeria
+From Stidia to Algeria-Mali border near Bordj Badji Mokhtar
+21 52 N 0 0 E  /  21.867 N 0.000 E  / 21.867; 0.000  (Mali)
+ Mali
+Passing through Gao
+15 00 N 0 0 E  /  15.000 N 0.000 E  / 15.000; 0.000  (Burkina Faso)
+ Burkina Faso
+11 7 N 0 0 E  /  11.117 N 0.000 E  / 11.117; 0.000  (Togo)
+ Togo
+For about 600 m
+11 6 N 0 0 E  /  11.100 N 0.000 E  / 11.100; 0.000  (Ghana)
+ Ghana
+For about 16 km
+10 58 N 0 0 E  /  10.967 N 0.000 E  / 10.967; 0.000  (Togo)
+ Togo
+For about 39 km
+10 37 N 0 0 E  /  10.617 N 0.000 E  / 10.617; 0.000  (Ghana)
+ Ghana
+From the Togo-Ghana border near Bunkpurugu to TemaPassing through Lake Volta at 7 46 N 0 0 E  /  7.767 N 0.000 E  / 7.767; 0.000  (Lake Volta)
+5 37 N 0 0 E  /  5.617 N 0.000 E  / 5.617; 0.000  (EEZ of Ghana in Atlantic Ocean)
+Atlantic Ocean
+EEZ of Ghana
+1 58 N 0 0 E  /  1.967 N 0.000 E  / 1.967; 0.000  (International waters)
+International waters
+0 0 N 0 0 E  /  0.000 N 0.000 E  / 0.000; 0.000  (Equator)
+Passing through the Equator (see Null Island)
+51 43 S 0 0 E  /  51.717 S 0.000 E  / -51.717; 0.000  (EEZ of Bouvet Island)
+EEZ of Bouvet Island (Norway)
+57 13 S 0 0 E  /  57.217 S 0.000 E  / -57.217; 0.000  (International waters)
+International waters
+60 0 S 0 0 E  /  60.000 S 0.000 E  / -60.000; 0.000  (Southern Ocean)
+Southern Ocean
+International waters
+69 36 S 0 0 E  /  69.600 S 0.000 E  / -69.600; 0.000  (Antarctica)
+Antarctica
+Queen Maud Land, claimed by  Norway
+90 0 S 0 0 E  /  90.000 S 0.000 E  / -90.000; 0.000  (Amundsen Scott South Pole Station)
+Antarctica
+Amundsen Scott South Pole Station, South Pole
+Prime meridian on other planetary bodies[edit]
+See also: Longitude (planets)
+"Prime meridian (planets)" redirects here. Not to be confused with Central meridian (planets).
+As on the Earth, prime meridians must be arbitrarily defined. Often a landmark such as a crater is used; other times a prime meridian is defined by reference to another celestial object, or by magnetic fields.
+The prime meridians of the following planetographic systems have been defined:
+Two different heliographic coordinate systems are used on the Sun. The first is the Carrington heliographic coordinate system. In this system, the prime meridian passes through the center of the solar disk as seen from the Earth on 9 November 1853, which is when the English astronomer Richard Christopher Carrington started his observations of sunspots.[26] The second is the Stonyhurst heliographic coordinates system, originated at Stonyhurst Observatory.
+In 1975 the prime meridian of Mercury was defined[27][28] to be 20  east of the crater Hun Kal.[29]
+Defined[30] in 1992, the prime meridian of Venus passes through the central peak in the crater Ariadne.[31]
+The prime meridian of the Moon lies directly in the middle of the face of the moon visible from Earth and passes near the crater Bruce.
+The prime meridian of Mars was established in 1971[32] and passes through the center of the crater Airy-0, although it is fixed by the longitude of the Viking 1 lander, which is defined to be 47.95137 W.[33]
+Jupiter has several coordinate systems because its cloud tops the only part of the planet visible from space rotate at different rates depending on latitude.[34] It is unknown whether Jupiter has any internal solid surface that would enable a more Earth-like coordinate system. System I and System II coordinates are based on atmospheric rotation, and System III coordinates use Jupiter's magnetic field. The prime meridians of Jupiter's four Galilean moons were established in 1979.[35]
+Like Jupiter, Neptune is a gas giant, so any surface is obscured by clouds. The prime meridian of its largest moon, Triton, was established in 1991.[36]
+Titan is the largest moon of Saturn and, like the Earth's moon, always has the same face towards Saturn, and so the middle of that face is 0 longitude.
+Pluto's prime meridian is defined as the meridian passing through the center of the face that is always towards Charon, its largest moon, as the two are tidally locked to each other. Charon's prime meridian is similarly defined as the meridian always facing directly toward Pluto.
+List of historic prime meridians on Earth[edit]
+Locality
+Modern longitude
+Meridian name
+Image
+Comment
+Bering Strait
+168 30' W
+168 class=notpageimage| 168th meridian west
+Offered in 1884 as possibility for a neutral prime meridian by Pierre Janssen at the International Meridian Conference[37]
+Washington, D.C.
+77 03 56.07  W (1897) or 77 04 02.24  W (NAD 27)[clarification needed] or 77 04 01.16  W (NAD 83)
+New Naval Observatory meridian
+77 class=notpageimage| 77th meridian west
+Washington, D.C.
+77 02 48.0  W, 77 03 02.3 , 77 03 06.119  W or 77 03 06.276  W (both presumably NAD 27). If NAD27, the latter would be 77 03 05.194  W (NAD 83)
+Old Naval Observatory meridian
+77 class=notpageimage| 77th meridian west
+Washington, D.C.
+77 02 11.56299  W (NAD 83),[38] 77 02 11.55811  W (NAD 83),[39] 77 02 11.58325  W (NAD 83)[40] (three different monuments originally intended to be on the White House meridian)
+White House meridian
+77 class=notpageimage| 77th meridian west
+Washington, D.C.
+77 00 32.6  W (NAD 83)
+Capitol meridian
+77 class=notpageimage| 77th meridian west
+Philadelphia
+75  10' 12  W
+75 class=notpageimage| 75th meridian west
+[41][42]
+Rio de Janeiro
+43  10' 19  W
+43 class=notpageimage| 43rd meridian west
+[43]
+Fortunate Isles / Azores
+25  40' 32  W
+25 class=notpageimage| 25th meridian west
+Used until the Middle Ages, proposed as one possible neutral meridian by Pierre Janssen at the International Meridian Conference[44]
+El Hierro (Ferro),  Canary Islands
+18  03' W,  later redefined as  17  39' 46  W
+Ferro meridian
+18 class=notpageimage| 18th meridian west
+[45]
+Tenerife
+16  38' 22" W
+Tenerife meridian
+16 class=notpageimage| 16th meridian west
+Rose to prominence with Dutch cartographers and navigators after they abandoned the idea of a magnetic meridian[46]
+Lisbon
+9  07' 54.862  W
+9 class=notpageimage| 9th meridian west
+[47]
+Cadiz
+6  17' 35.4" W
+Cadiz meridian
+6 class=notpageimage| 6th meridian west
+Royal Observatory in southeast tower of Castillo de la Villa, used 1735 1850 by Spanish Navy.[48][49]
+Madrid
+3  41' 16.58  W
+3 class=notpageimage| 3rd meridian west
+[47]
+Kew
+0  00' 19.0  W
+Prime Meridian (prior to Greenwich)
+0 class=notpageimage| Prime meridian
+Located at King George III's Kew Observatory
+Greenwich
+0  00' 05.33  W
+United Kingdom Ordnance Survey Zero Meridian
+0 class=notpageimage| Prime meridian
+Bradley Meridian[19]
+Greenwich
+0  00' 05.3101  W
+Greenwich meridian
+0 class=notpageimage| Prime meridian
+Airy Meridian[19]
+Greenwich
+0  00' 00.00 
+IERS Reference Meridian
+0 class=notpageimage| Prime meridian
+Paris
+2  20' 14.025  E
+Paris meridian
+2 class=notpageimage| 2nd meridian east
+Brussels
+4  22' 4.71  E
+4 class=notpageimage| 4th meridian east
+[47]
+Antwerp
+4  24' E
+Antwerp meridian
+4 class=notpageimage| 4th meridian east
+Amsterdam
+4  53' E
+4 class=notpageimage| 4th meridian east
+Through the Westerkerk in Amsterdam; used to define the legal time in the Netherlands from 1909 to 1937[50]
+Pisa
+10  24' E
+10 class=notpageimage| 10th meridian east
+[41]
+Oslo (Kristiania)
+10  43' 22.5  E
+10 class=notpageimage| 10th meridian east
+[41][42]
+Florence
+11 15' E
+Florence meridian
+11 class=notpageimage| 11th meridian east
+Used in the Peters projection, 180  from a meridian running through the Bering Strait
+Rome
+12  27' 08.4  E
+Meridian of Monte Mario
+12 class=notpageimage| 12th meridian east
+Used in Roma 40 Datum[51]
+Copenhagen
+12  34' 32.25  E
+12 class=notpageimage| 12th meridian east
+Rundet rn[52]
+Naples
+14  15' E
+14 class=notpageimage| 14th meridian east
+[44]
+Pressburg
+17  06' 03  E
+Meridianus Posoniensis
+17 class=notpageimage| 17th meridian east
+Used by S muel Mikoviny
+Stockholm
+18  03' 29.8  E
+18 class=notpageimage| 18th meridian east
+At the Stockholm Observatory[47]
+Buda
+19  03' 37  E
+Meridianu(s) Budense
+19 class=notpageimage| 19th meridian east
+Used between 1469 and 1495; introduced by Regiomontanus, used by Marcin Bylica, Galeotto Marzio, Mikl s Erd lyi (1423 1473), Johannes Tolhopff (c. 1445 1503), Johannes Muntz. Set in the royal castle (and observatory) of Buda.[d]
+Krak w
+19  57' 21.43  E
+Krak w meridian
+19 class=notpageimage| 19th meridian east
+at the Old Krak w Observatory at the  niadecki' College; mentioned also in Nicolaus Copernicus's work On the Revolutions of the Heavenly Spheres.
+Warsaw
+21  00' 42  E
+Warsaw meridian
+21 class=notpageimage| 21st meridian east
+[47]
+V rad
+21  55' 16  E
+Tabulae Varadienses
+21 class=notpageimage| 21st meridian east
+[56] Between 1464 and 1667, a prime meridian was set in the Fortress of Oradea (Varadinum at the time) by Georg von Peuerbach.[57] In his logbook Columbus stated, he had one copy of Tabulae Varadienses (Tabula Varadiensis or Tabulae directionum) on board to calculate the actual meridian based on the position of the Moon, in correlation to V rad. Amerigo Vespucci also recalled, how was he acquired the knowledge to calculate meridians by means of these tables.[58]
+Alexandria
+29  53' E
+Meridian of Alexandria
+29 class=notpageimage| 29th meridian east
+The meridian of Ptolemy's Almagest.
+Saint Petersburg
+30  19' 42.09  E
+Pulkovo meridian
+30 class=notpageimage| 30th meridian east
+Great Pyramid of Giza
+31  08' 03.69  E
+31 class=notpageimage| 31st meridian east
+1884[59]
+Jerusalem
+35  13' 47.1  E
+35 class=notpageimage| 35th meridian east
+[42]
+Mecca
+39  49' 34  E
+39 class=notpageimage| 39th meridian east
+See also Mecca Time
+Approx. 59  E
+59 class=notpageimage| 59th meridian east
+Maimonides[60] calls this point    , "the middle of the habitation", i.e. the habitable hemisphere. Evidently this was a convention accepted by Arab geographers of his day.
+Ujjain
+75  47' E
+75 class=notpageimage| 75th meridian east
+Used from 4th century CE Indian astronomy and calendars(see also Time in India).[61]
+Kyoto
+136  14' E
+136 class=notpageimage| 136th meridian east
+Used in 18th and 19th (officially 1779 1871) century Japanese maps. Exact place unknown, but in "Kairekisyo" in Nishigekkoutyou-town in Kyoto, then the capital.[citation needed]
+~ 180
+180 class=notpageimage| 180th meridian
+Opposite of Greenwich, proposed 13 October 1884 on the International Meridian Conference by Sandford Fleming[44]
+See also[edit]
+1st meridian east  Line of longitude
+1st meridian west  Line of longitude
+180th meridian  Line of longitude
+Null Island  Cartographical (only) marker at 0 N, 0 E
+Notes[edit]
+^  These figures use the legua n utica (nautical league) of four Roman miles totalling 5.926 km (3.682 mi), which was used by Spain during the 15th, 16th, and 17th centuries for navigation.[5] In 1897 Henry Harrise noted that Jaime Ferrer, the expert consulted by King Ferdinand and Queen Isabella, stated that a league was four miles of six stades each.[6] Modern scholars agree that the geographic stade was the Roman or Italian stade, not any of several other Greek stades, supporting these figures.[7] Harrise is in the minority when he uses the stade of 192.27 m (630.8 ft) marked within the stadium at Olympia, Greece, resulting in a league (32 stades) of 6.153 km (3.823 mi), 3.8% larger.
+^ Voting took place on 13 October and the resolutions were adopted on 22 October 1884.[17] The modern prime meridian, the IERS Reference Meridian, is placed very near this meridian.[13]
+^ The astronomic latitude of the Royal Observatory is 51 28'38"N whereas its latitude on the European Terrestrial Reference Frame (1989) datum is 51 28'40.1247"N.
+^ When Tolhopff handed over his book, titled Stellarium (1480),[53]  to King Matthias Corvinus, he emphasized that he had used the meridian of Buda for his calculations. The German physician, Johannes M ntz used it the same way in his 1495 calendar. However, in the second edition, he used the Vienna meridian.[54][55]
+References[edit]
+^ a b Norgate & Norgate 2006.
+^ "What is the Prime Meridian and why is it in Greenwich?". Royal Museums Greeenwich. Archived from the original on 13 December 2021. Retrieved 13 December 2021. The IRM is the only meridian that may now be described as the prime meridian of the world, as it defines 0  longitude by international agreement. The IRM passes 102.5 metres to the east of the historic Prime Meridian of the World at the latitude of the Airy Transit Circle here. The entire Observatory and the historic Prime Meridian now lie to the west of the true prime meridian.
+^ Archimal, B. A. (2015), Report of the IAU Working Group on Cartographic Coordinates and Rotational Elements: 2015 (PDF), p. 27 of 46, archived (PDF) from the original on 6 August 2019, retrieved 6 August 2019, The range of longitudes shall extend from 0  to 360 . Thus, west longitudes are used when the rotation is direct, and east longitudes are used when the rotation is retrograde. ... The Earth, Sun, and Moon do not traditionally follow this definition. Their rotations are direct and longitudes run both east and west 180 , or positive to the east 360 .
+^ Schmidt, Olaf H. (1944). "The Computation of the Length of Daylight in Hindu Astronomy". Isis. The University of Chicago Press. 35 (3): 205 211. doi:10.1086/358709. JSTOR 330729. S2CID 145178197. Archived from the original on 26 January 2022.
+^ Chardon, Roland (1980). "The linear league in North America". Annals of the Association of American Geographers. 70 (2): 129 153 [pp. 142, 144, 151]. doi:10.1111/j.1467-8306.1980.tb01304.x. JSTOR 2562946.
+^ Harrisse, Henry (1897). The Diplomatic History of America: Its first chapter 1452 1493 1494. London: Stevens. pp. 85 97, 176 190. ISBN 9780697000071. OCLC 1101220811.
+^ Engels, Donald (1985). "The length of Eratosthenes' stade". American Journal of Philology. 106 (3): 298 311. doi:10.2307/295030. JSTOR 295030.
+^ Hooker 2006.
+^ e.g. Jacob Roggeveen in 1722 reported the longitude of Easter Island as 268  45' (starting from Fuerteventura) in the Extract from the Official log of Jacob Roggeveen reproduced in Bolton Glanville Corney, ed. (1908), The voyage of Don Felipe Gonzalez to Easter Island in 1770-1, Hakluyt Society, p. 3, retrieved 13 January 2013
+^ Speech by Pierre Janssen, director of the Paris observatory, at the first session of the Meridian Conference. Archived 18 December 2021 at the Wayback Machine
+^ Sobel & Andrewes 1998, pp. 110 115.
+^ Sobel & Andrewes 1998, pp. 197 199.
+^ a b "What is the Prime Meridian - and why is it in Greenwich? | Who decided that the Prime Meridian should be in Greenwich?". Royal Museums Greenwich. n.d. Archived from the original on 5 January 2022. Retrieved 28 December 2021.
+^ "A manual on the technical aspects of the United Nations Convention on the Law of the Sea   1982" (PDF). Archived (PDF) from the original on 10 September 2008. Retrieved 23 July 2008. (4.89 MB) Section 2.4.4.
+^ WGS 84 Implementation Manual Archived 3 October 2008 at the Wayback Machine page i, 1998
+^ International Conference Held at Washington for the Purpose of Fixing a Prime Meridian and a Universal Day. October, 1884. Protocols of the proceedings. Project Gutenberg. 1884. Archived from the original on 18 December 2021. Retrieved 30 November 2012.
+^ Howse 1997, pp. 12, 137
+^ Forbes, Eric Gray (1975). Greenwich Observatory ... the story of Britain's oldest scientific institution, the Royal Observatory at Greenwich and Herstmonceux, 1675 1975. Vol. 1. Taylor & Francis. p. 10. ISBN 9780850660937.
+^ a b c Dolan 2013a.
+^ McCarthy, Dennis; Seidelmann, P. Kenneth (2009). TIME from Earth Rotation to Atomic Physics. Weinheim: Wiley-VCH. pp. 244 5.
+^ ROG Learning Team (23 August 2002). "The Prime Meridian at Greenwich". Royal Museums Greenwich. Royal Museums Greenwich. Archived from the original on 7 November 2015. Retrieved 14 June 2012.
+^ Malys, Stephen; Seago, John H.; Palvis, Nikolaos K.; Seidelmann, P. Kenneth; Kaplan, George H. (1 August 2015). "Why the Greenwich meridian moved". Journal of Geodesy. 89 (12): 1263. Bibcode:2015JGeod..89.1263M. doi:10.1007/s00190-015-0844-y.
+^ Dolan 2013b.
+^ "Greenwich Meridan, Tracing its History". gpsinformation.net. Archived from the original on 19 December 2017. Retrieved 29 November 2006.
+^ IRM on grounds of Royal Observatory from Google Earth Archived 14 October 2016 at the Wayback Machine Accessed 30 March 2012
+^ "Carrington heliographic coordinates". Archived from the original on 28 June 2011. Retrieved 27 July 2009.
+^ Merton E. Davies, "Surface Coordinates and Cartography of Mercury," Journal of Geophysical Research, Vol. 80, No. 17, 10 June 1975
+^ Merton E. Davies, S. E. Dwornik, D. E. Gault, and R. G. Strom, NASA Atlas of Mercury, NASA Scientific and Technical Information Office, 1978.
+^ Archinal, Brent A.; A'Hearn, Michael F.; Bowell, Edward G.; Conrad, Albert R.; Consolmagno, Guy J.;  et al. (2010). "Report of the IAU Working Group on Cartographic Coordinates and Rotational Elements: 2009" (PDF). Celestial Mechanics and Dynamical Astronomy. 109 (2): 101 135. Bibcode:2011CeMDA.109..101A. doi:10.1007/s10569-010-9320-4. S2CID 189842666. Archived from the original (PDF) on 4 March 2016. Retrieved 26 September 2018.
+^ Merton E. Davies; Colvin, T. R.; Rogers, P. G.; Chodas, P. G.; Sjogren, W. L.; Akim, W. L.; Stepanyantz, E. L.; Vlasova, Z. P.; and Zakharov, A. I.; "The Rotation Period, Direction of the North Pole, and Geodetic Control Network of Venus", Journal of Geophysical Research, vol. 97, no. 8, 1992, pp. 1 14, 151
+^ "USGS Astrogeology: Rotation and pole position for the Sun and planets (IAU WGCCRE)". Archived from the original on 24 October 2011. Retrieved 22 October 2009.
+^ Merton E. Davies, and Berg, R. A.; "Preliminary Control Net of Mars", Journal of Geophysical Research, vol. 76, no. 2, 10 January 1971, pp. 373 393
+^ Archinal, Brent A.; Acton, C. H.; A Hearn, Michael F.; Conrad, Albert R.;  et al. (2018), "Report of the IAU Working Group on Cartographic Coordinates and Rotational Elements: 2015", Celestial Mechanics and Dynamical Astronomy, 130 (22): 22, Bibcode:2018CeMDA.130...22A, doi:10.1007/s10569-017-9805-5, S2CID 189844155
+^ "Planetographic Coordinates". Archived from the original on 15 April 2012. Retrieved 24 May 2017.
+^ Merton E. Davies, Thomas A. Hauge, et al.: Control Networks for the Galilean Satellites: November 1979 R-2532-JPL/NASA
+^ Merton E. Davies, P. G. Rogers, and T. R. Colvin, "A Control Network of Triton," Journal of Geophysical Research, Vo l. 96, E l, pp. 15,675-15,681, 1991.
+^ International Conference Held at Washington for the Purpose of Fixing a Prime Meridian and a Universal Day. October, 1884 Archived 18 December 2021 at the Wayback Machine, pp. 43 51. Project Gutenberg
+^ NGS 2016, PID: HV1847.
+^ NGS 2016, PID: HV1846.
+^ NGS 2016, PID: AH7372.
+^ a b c Hooker 2006, introduction.
+^ a b c Oct. 13, 1884: Greenwich Resolves Subprime Meridian Crisis Archived 1 December 2018 at the Wayback Machine, WIRED, 13 October 2010.
+^ Atlas do Brazil Archived 16 June 2014 at the Wayback Machine, 1909, by Bar o Homem de Mello e Francisco Homem de Mello, published in Rio de Janeiro by F. Briguiet & Cia.
+^ a b c "The Project Gutenberg eBook of International Conference Held at Washington for the Purpose of Fixing a Prime Meridian and a Universal Day". Gutenberg.org. 12 February 2006. Archived from the original on 18 December 2021. Retrieved 28 March 2016.
+^ Ancient, used in Ptolemy's Geographia. Later redefined 17  39' 46  W of Greenwich to be exactly 20  W of Paris. French "submarin" at Washington 1884.
+^ A.R.T. Jonkers;  Parallel meridians: Diffusion and change in early modern oceanic reckoning Archived 26 January 2018 at the Wayback Machine, in Noord-Zuid in Oostindisch perspectief, The Hague, 2005, p. 7. Retrieved 2 February 2015.
+^ a b c d e Bartky, Ian R. (2007). One Time Fits All: The Campaigns for Global Uniformity. Stanford University Press. p. 98. ISBN 978-0-8047-5642-6. Archived from the original on 22 January 2023. Retrieved 8 December 2018.
+^ "In search of the lost meridian of Cadiz" Archived 30 November 2019 at the Wayback Machine, El Pa s, 23 December 2016. Retrieved 8 November 2018.
+^ Antonio Lafuente and Manuel Sell s, El Observatorio de C diz (1753 1831) Archived 2 June 2020 at the Wayback Machine, Ministerio de Defensa, 1988, p.144, ISBN 84-505-7563-X. (in Spanish)
+^ (in Dutch)Eenheid van tijd in Nederland (Unity of time in the Netherlands) Archived 10 February 2015 at the Wayback Machine, Utrecht University website, retrieved 28 August 2013.
+^ Grids & Datums   Italian Republic Archived 20 November 2012 at the Wayback Machine, asprs.org, Retrieved 10 December 2013.
+^ meridian Archived 14 March 2016 at the Wayback Machine, article from Den Store Danske Encyklop di
+^ Tolhopff, Johannes (1480). Stellarium (in Latin). Archived from the original on 30 December 2021. Retrieved 30 December 2021. (facsimile, not machine readable)
+^ Zsoldos, Endre (2014). "Stellarium   egy csillag szati k dex M ty s k nyvt r ban" [Stellarium - an Astronomical Codex in the Library of King Matthias]. Orpheus Noster (in Hungarian). 5 (4): 64 87.
+^ Szathm ry, L szl  (2002). "Az asztrol gia, alk mia  s misztika M ty s kir ly udvar ban" [Astrology, alchemy and mysticism in the court of King Matthias.]. Ponticulus Hungaricus (in Hungarian). VI.  vfolyam 5. sz m. Archived from the original on 18 October 2009. Retrieved 27 December 2018.
+^ "Oradea". Romania Tourism. Archived from the original on 6 February 2015. Retrieved 3 February 2015.
+^ "Romanian astronaut marks 10th anniversary of Prime Meridian Astronomy Club". NineO'Clock. 2015. Archived from the original on 1 October 2017. Retrieved 26 June 2017.
+^ "Meridian Zero csillag szklub" (in Romanian). Archived from the original on 12 April 2009. Retrieved 27 December 2018.
+^ Wilcomb E. Washburn, "The Canary Islands and the Question of the Prime Meridian: The Search for Precision in the Measurement of the Earth Archived 29 May 2007 at the Wayback Machine"
+^ Hilchot Kiddush Hachodesh 11:17
+^ Burgess 1860.
+Works cited[edit]
+Burgess, Ebenezer (1860), "Translation of the Surya-Siddhanta", Journal of the American Oriental Society (e-book), vol. 6 (published 2013), p. 185
+Dolan, Graham (2013a). "The Greenwich Meridian before the Airy Transit Circle". The Greenwich Meridian. Archived from the original on 2 May 2012. Retrieved 6 January 2013.
+Dolan, Graham (2013b). "WGS84 and the Greenwich Meridian". The Greenwich Meridian. Archived from the original on 8 July 2014. Retrieved 6 January 2013.
+Hooker, Brian (2006), A multitude of prime meridians, archived from the original on 26 September 2018, retrieved 28 June 2019
+Howse, Derek (1997), Greenwich Time and the Longitude, Phillip Wilson, ISBN 978-0-85667-468-6
+Norgate, Jean; Norgate, Martin (2006), "Prime meridian", Old Hampshire Mapped, archived from the original on 28 December 2021, retrieved 13 January 2013
+NGS datasheet station name form, National Geodetic Survey, 2016, archived from the original on 16 February 2016, retrieved 11 December 2016
+Sobel, Dava; Andrewes, William J. H. (1998), The Illustrated Longitude, Fourth Estate, London
+External links[edit]
+Wikimedia Commons has media related to Prime meridian.
+"Where the Earth's surface begins and ends", Popular Mechanics, December 1930
+scanned TIFFs of the conference proceedings
+Prime meridians in use in the 1880s, by country
+vteTime measurement and standards
+Chronometry
+Orders of magnitude
+Metrology
+International standards
+Coordinated Universal Time
+offset
+UT
+ T
+DUT1
+International Earth Rotation and Reference Systems Service
+ISO 31-1
+ISO 8601
+International Atomic Time
+12-hour clock
+24-hour clock
+Barycentric Coordinate Time
+Barycentric Dynamical Time
+Civil time
+Daylight saving time
+Geocentric Coordinate Time
+International Date Line
+IERS Reference Meridian
+Leap second
+Solar time
+Terrestrial Time
+Time zone
+180th meridian
+Obsolete standards
+Ephemeris time
+Greenwich Mean Time
+Prime meridian
+Time in physics
+Absolute space and time
+Spacetime
+Chronon
+Continuous signal
+Coordinate time
+Cosmological decade
+Discrete time and continuous time
+Proper time
+Theory of relativity
+Time dilation
+Gravitational time dilation
+Time domain
+Time translation symmetry
+T-symmetry
+Horology
+Clock
+Astrarium
+Atomic clock
+Complication
+History of timekeeping devices
+Hourglass
+Marine chronometer
+Marine sandglass
+Radio clock
+Watch
+stopwatch
+Water clock
+Sundial
+Dialing scales
+Equation of time
+History of sundials
+Sundial markup schema
+Calendar
+Gregorian
+Hebrew
+Hindu
+Holocene
+Islamic (lunar Hijri)
+Julian
+Solar Hijri
+Astronomical
+Dominical letter
+Epact
+Equinox
+Intercalation
+Julian date
+Leap year
+Lunar
+Lunisolar
+Solar
+Solstice
+Tropical year
+Weekday determination
+Weekday names
+Archaeology and geology
+Chronological dating
+Geologic time scale
+International Commission on Stratigraphy
+Astronomical chronology
+Galactic year
+Nuclear timescale
+Precession
+Sidereal time
+Other units of time
+Instant
+Flick
+Shake
+Jiffy
+Second
+Minute
+Moment
+Hour
+Day
+Week
+Fortnight
+Month
+Year
+Olympiad
+Lustrum
+Decade
+Century
+Saeculum
+Millennium
+Related topics
+Chronology
+Duration
+music
+Mental chronometry
+Decimal time
+Metric time
+System time
+Time metrology
+Time value of money
+Timekeeper
+vteCircles of latitude / meridians
+Equator
+Tropic of Cancer
+Tropic of Capricorn
+Arctic Circle
+Antarctic Circle
+Equator
+Tropic of Cancer
+Tropic of Capricorn
+Arctic Circle
+Antarctic Circle
+Equator
+Tropic of Cancer
+Tropic of Capricorn
+Arctic Circle
+Antarctic Circle
+W0 E
+30 
+60 
+90 
+120 
+150 
+180 
+30 
+60 
+90 
+120 
+150 
+180 
+5 
+15 
+25 
+35 
+45 
+55 
+65 
+75 
+85 
+95 
+105 
+115 
+125 
+135 
+145 
+155 
+165 
+175 
+5 
+15 
+25 
+35 
+45 
+55 
+65 
+75 
+85 
+95 
+105 
+115 
+125 
+135 
+145 
+155 
+165 
+175 
+10 
+20 
+40 
+50 
+70 
+80 
+100 
+110 
+130 
+140 
+160 
+170 
+10 
+20 
+40 
+50 
+70 
+80 
+100 
+110 
+130 
+140 
+160 
+170 
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+5  N
+15 
+25 
+35 
+45 
+55 
+65 
+75 
+85 
+5  S
+15 
+25 
+35 
+45 
+55 
+65 
+75 
+85 
+45x90
+45x90
+45x90
+45x90
+Portals: Geography Earth sciences Astronomy Stars Spaceflight Outer space Solar System
+Authority control: National 
+Germany
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Prime_meridian&oldid=1147205033"

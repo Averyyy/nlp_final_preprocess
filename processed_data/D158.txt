@@ -1,0 +1,409 @@
+Family of microprocessor cores with ARM microarchitecture
+Not to be confused with ARMv9.
+ARM9TGeneral informationDesigned byARM HoldingsArchitecture and classificationMicroarchitectureARMv4TInstruction setARM (32-bit),Thumb (16-bit)
+ARM9EPerformanceMax. CPU clock rate100 MHz to 600 MHzArchitecture and classificationMicroarchitectureARMv5TEInstruction setARM (32-bit),Thumb (16-bit)
+ARM9EJArchitecture and classificationMicroarchitectureARMv5TEJInstruction setARM (32-bit),Thumb (16-bit),Jazelle (8-bit)
+ARM9 is a group of 32-bit RISC ARM processor cores licensed by ARM Holdings for microcontroller use.[1]  The ARM9 core family consists of ARM9TDMI, ARM940T, ARM9E-S, ARM966E-S, ARM920T, ARM922T, ARM946E-S, ARM9EJ-S, ARM926EJ-S, ARM968E-S, ARM996HS.  Since ARM9 cores were released from 1998 to 2006, they are no longer recommended for new IC designs, instead ARM Cortex-A, ARM Cortex-M, ARM Cortex-R cores are preferred.[1]
+Overview[edit]
+See also: ARM architecture and List of ARM cores
+With this design generation, ARM moved from a von Neumann architecture (Princeton architecture) to a (modified; meaning split cache) Harvard architecture with separate instruction and data buses (and caches), significantly increasing its potential speed.[2] Most silicon chips integrating these cores will package them as modified Harvard architecture chips, combining the two address buses on the other side of separated CPU caches and tightly coupled memories.
+There are two subfamilies, implementing different ARM architecture versions.
+Differences from ARM7 cores[edit]
+Key improvements over ARM7 cores, enabled by spending more transistors, include:[3]
+Decreased heat production and lower overheating risk.
+Clock frequency improvements.  Shifting from a three-stage pipeline to a five-stage one lets the clock speed be approximately doubled, on the same silicon fabrication process.
+Cycle count improvements.  Many unmodified ARM7 binaries were measured as taking about 30% fewer cycles to execute on ARM9 cores.  Key improvements include:
+Faster loads and stores; many instructions now cost just one cycle.  This is helped by both the modified Harvard architecture (reducing bus and cache contention) and the new pipeline stages.
+Exposing pipeline interlocks, enabling compiler optimizations to reduce blockage between stages.
+Additionally, some ARM9 cores incorporate "Enhanced DSP" instructions, such as a multiply-accumulate, to support more efficient implementations of digital signal processing algorithms.
+Switching from a von Neumann architecture entailed using a non-unified cache, so that instruction fetches do not evict data (and vice versa).  ARM9 cores have separate data and address bus signals, which chip designers use in various ways.  In most cases they connect at least part of the address space in von Neumann style, used for both instructions and data, usually to an AHB interconnect connecting to a DRAM interface and an External Bus Interface usable with NOR flash memory.  Such hybrids are no longer pure Harvard architecture processors.
+ARM license[edit]
+ARM Holdings neither manufactures nor sells CPU devices based on its own designs, but rather licenses the processor architecture to interested parties. ARM offers a variety of licensing terms, varying in cost and deliverables. To all licensees, ARM provides an integratable hardware description of the ARM core, as well as complete software development toolset and the right to sell manufactured silicon containing the ARM CPU.
+Silicon customization[edit]
+Integrated device manufacturers (IDM) receive the ARM Processor IP as synthesizable RTL (written in Verilog). In this form, they have the ability to perform architectural level optimizations and extensions. This allows the manufacturer to achieve custom design goals, such as higher clock speed, very low power consumption, instruction set extensions, optimizations for size, debug support, etc.  To determine which components have been included in a particular ARM CPU chip, consult the manufacturer datasheet and related documentation.
+Cores[edit]
+Year
+ARM9 Cores
+1998
+ARM9TDMI
+1998
+ARM940T
+1999
+ARM9E-S
+1999
+ARM966E-S
+2000
+ARM920T
+2000
+ARM922T
+2000
+ARM946E-S
+2001
+ARM9EJ-S
+2001
+ARM926EJ-S
+2004
+ARM968E-S
+2006
+ARM996HS
+The ARM MPCore family of multicore processors support software written using either the asymmetric (AMP) or symmetric (SMP) multiprocessor programming paradigms. For AMP development, each central processing unit within the MPCore may be viewed as an independent processor and as such can follow traditional single processor development strategies.[4]
+ARM9TDMI[edit]
+ARM9TDMI is a successor to the popular ARM7TDMI core, and is also based on the ARMv4T architecture.  Cores based on it support both 32-bit ARM and 16-bit Thumb instruction sets and include:
+ARM920T with 16 KB each of I/D cache and an MMU
+ARM922T with 8 KB each of I/D cache and an MMU
+ARM940T with cache and a Memory Protection Unit (MPU)
+ARM9E-S and ARM9EJ-S[edit]
+ARM9E, and its ARM9EJ sibling, implement the basic ARM9TDMI pipeline, but add support for the ARMv5TE architecture, which includes some DSP-esque instruction set extensions.  In addition, the multiplier unit width has been doubled, halving the time required for most multiplication operations.  They support 32-bit, 16-bit, and sometimes 8-bit instruction sets.
+ARM926EJ-S with ARM Jazelle technology, which enables the direct execution of 8-bit Java bytecode in hardware, and an MMU
+ARM946
+ARM966
+ARM968
+The TI-Nspire CX (2011) and CX II (2019) graphing calculators use an ARM926EJ-S processor, clocked at 132 and 396 MHz respectively.[5]
+Chips[edit]
+ Nintendo DSi has a chip with an ARM9 and ARM7 core
+ Lego Mindstorms EV3 brick has an ARM9 TI Sitara AM1x
+ ARM946E-S baseband processor on a Samsung SGH-D900 phone
+ARM920T
+Samsung S3C2440
+Atmel AT91RM9200[6]
+ARM926EJ-S
+Cypress Semiconductor EZ-USB FX3
+Microchip Technology (former Atmel) AT91SAM9260,[6] AT91SAM9G,[7] AT91SAM9M,[8] AT91SAM9N/CN,[9] AT91SAM9R/RL,[10] AT91SAM9X,[11] AT91SAM9XE[12] (see AT91SAM9)
+Nintendo Starlet (Wii coprocessor)[13]
+NXP (former Freescale Semiconductor) i.MX2 Series,[14] (see I.MX), LPC3100 and LPC3200 Series[15]
+Texas Instruments OMAP 850, 750, 733, 730, L137, L138, 5912 (also 5948, which is a customer specific version of it, made for Bosch)
+HP iLO 4[16] baseboard management controller
+5V Technologies 5VT1310/1312/1314
+STMicroelectronics SPEAr300/600[17]
+VIA WonderMedia 8505 and 8650
+ARM940T
+Conexant CX22490 STB SoC
+ARM946E-S
+Nintendo NTR-CPU (Nintendo DS CPU), TWL-CPU (Nintendo DSi CPU; same as the DS but clocked at 133 MHz instead of 67 MHz)[18]
+ARM966E-S
+STMicroelectronics STR9[19]
+Unreferenced ARM9 core
+ASPEED AST2400
+Atmel AT91CAP9
+CSR Quatro 4300
+Centrality Atlas III
+Cirrus Logic EP9315 ARM9 CPU, 200 MHz
+Digi NS9215, NS9210[20]
+HiSilicon Kirin K3V1
+Infineon Technologies S-GOLDlite PMB 8875
+LeapFrog LF-1000
+NXP Semiconductors LPC2900, LH7A, (former Freescale Semiconductor) i.MX1x
+Nuvoton NUC900
+Marvell Kirkwood
+MediaTek MT1000, MT6235-39, MT6268, MT6516
+PRAGMATEC RABBITV3 (ARM920T rev 0 (v4l)) used in Karotz)
+Qualcomm MSM6xxx
+Qualcomm Atheros AR6400
+Samsung S3C24xx
+STMicroelectronics Nomadik
+Texas Instruments OMAP 1
+Texas Instruments Sitara AM1x
+Texas Instruments TMS320DM365/TMS320DM368 ARM9EJ-S
+Zilog Encore! 32
+Documentation[edit]
+The amount of documentation for all ARM chips is daunting, especially for newcomers. The documentation for microcontrollers from past decades would easily be inclusive in a single document, but as chips have evolved so has the documentation grown. The total documentation is especially hard to grasp for all ARM chips since it consists of documents from the IC manufacturer and documents from CPU core vendor (ARM Holdings).
+A typical top-down documentation tree is: high-level marketing slides, datasheet for the exact physical chip, a detailed reference manual that describes common peripherals and other aspects of physical chips within the same series, reference manual for the exact ARM core processor within the chip, reference manual for the ARM architecture of the core which includes detailed description of all instruction sets.
+Documentation tree (top to bottom)
+IC manufacturer marketing slides.
+IC manufacturer datasheets.
+IC manufacturer reference manuals.
+ARM core reference manuals.
+ARM architecture reference manuals.
+IC manufacturer has additional documents, including: evaluation board user manuals, application notes, getting started with development software, software library documents, errata, and more.
+See also[edit]
+Electronics portal
+See also: List of ARM Cortex-M development tools
+ARM architecture
+List of ARM architectures and cores
+JTAG
+Interrupt, Interrupt handler
+Real-time operating system, Comparison of real-time operating systems
+References[edit]
+^ a b ARM9 Family Webpage; ARM Holdings.
+^ Furber, Steve (2000). ARM System-on-Chip Architecture. p. 344. ISBN 0201675196.
+^ "Performance of the ARM9TDMI and ARM9E-S cores compared to the ARM7TDMI core", Issue 1.0, dated 9 February 2000, ARM Ltd.
+^ "MPCore Sample Code". Archived from the original on 11 April 2015.
+^ "Teardown Tuesday: Graphing Calculator - News". www.allaboutcircuits.com. Retrieved 2021-07-12.
+^ a b Atmel Legacy ARM-Based Solutions; Atmel.
+^ SAM9G ARM9 Microcontrollers; Atmel.
+^ SAM9M ARM9 Microcontrollers; Microchip.
+^ SAM9N/CN ARM9 Microcontrollers; Atmel.
+^ SAM9R/RL ARM9 Microcontrollers; Atmel.
+^ SAM9X ARM9 Microcontrollers; Atmel.
+^ SAM9XE ARM9 Microcontrollers; Atmel.
+^ "Hardware/Starlet". Wiibrew. Archived from the original on 16 May 2020. Retrieved 14 June 2020.
+^ i.MX28 Applications Processors; NXP.
+^ "LPC3100/200 Series: Arm9-based microcontrollers|NXP". www.nxp.com. Retrieved 2018-07-27.
+^ "iLO 4 Cryptographic Module FIPS 140-2 Non-Proprietary Security Policy" (PDF). Hewlett Packard Enterprise. 10 February 2016.
+^ "SPEAr ARM 926 Microprocessors - STMicroelectronics".
+^ GBATEK - GBA/NDS Technical Info -  ARM CP15 ID Codes; Martin Korth
+^ STR9 ARM9 Microcontrollers; STMicroelectronics.
+^ "NS9210/NS9215 32-bit NET+ARM Processor Family" (PDF). Digi International.
+External links[edit]
+Wikimedia Commons has media related to ARM9.
+ARM9 official documents
+ARM9 official website
+Architecture Reference Manual: ARMv4/5/6
+Core Reference Manuals: ARM9E-S, ARM9EJ-S,ARM9TDMI,ARM920T,ARM922T,ARM926EJ-S,ARM940T,ARM946E-S,ARM966E-S,ARM968E-S
+Coprocessor Reference Manuals: VFP9-S (Floating-Point), MOVE (MPEG4)
+Quick Reference Cards
+Instructions: Thumb (1), ARM and Thumb-2 (2), Vector Floating Point (3)
+Opcodes: Thumb (1, 2), ARM (3, 4), GNU Assembler Directives 5.
+vteClassic ARM-based chips
+ARM Holdings
+ARM architecture family
+List of ARM cores
+ARM Cortex-A
+ARM Cortex-R
+ARM Cortex-M
+List of ARM Cortex-M development tools
+ClassicprocessorsARM7
+Atmel SAM7L, SAM7S, SAM7SE, SAM7X, SAM7XC, AT91CAP7, AT91M, AT91R
+Cirrus Logic PS7xxx, EP7xxx
+Mediatek MT62xx
+NXP LPC2100, LPC2200, LPC2300, LPC2400, LH7
+STMicroelectronics STR7
+ARM9
+Aspeed AST2400
+Atmel SAM9G, SAM9M, SAM9N, SAM9R, SAM9X, SAM9XE, SAM926x, AT91CAP9
+Cirrus Logic EP9xxx
+Freescale  i.MX1x, i.MX2x
+Nuvoton NUC900
+NXP LPC2900, LPC3000, LH7A
+Rockchip RK27xx, RK28xx
+Samsung S3C24xx
+ST-Ericsson Nomadik STn881x
+STMicroelectronics STR9
+Texas Instruments OMAP 1, AM1x, DaVinci
+VIA WonderMedia WM8505/8650
+ZiiLABS ZMS-05
+ARM11
+Broadcom BCM2835
+Cavium CNS3xxx
+Freescale i.MX3x
+Infotmic IMAPX210/220
+Mindspeed Comcerto 1000
+Nvidia Tegra APX, 6xx
+Qualcomm MSM7000, Snapdragon S1
+Samsung S3C64xx, S5P64xx
+ST-Ericsson Nomadik STn882x
+Telechips TCC8902
+Texas Instruments OMAP 2
+VIA WonderMedia WM87x0
+ARMv2acompatible
+Amber (open FPGA core)
+ARMv4compatible
+Faraday FA526, FA626
+DEC/Intel StrongARM
+ARMv5TEcompatible
+Intel/Marvell XScale
+Marvell Sheeva, Feroceon, Jolteon, Mohawk
+Faraday FA606TE, FA616TE, FA626TE, FA726TE
+vteEmbedded ARM-based chips
+ARM Holdings
+ARM architecture family
+List of ARM cores
+ARM Cortex-A
+ARM Cortex-R
+ARM Cortex-M
+List of ARM Cortex-M development tools
+EmbeddedmicrocontrollersCortex-M0
+Cypress PSoC 4000, 4100, 4100M, 4200, 4200DS, 4200L, 4200M
+Infineon XMC1000
+Nordic nRF51
+NXP LPC1100, LPC1200
+nuvoTon NuMicro
+Sonix SN32F700
+STMicroelectronics STM32 F0
+Toshiba TX00
+Vorago VA108x0
+Cortex-M0+
+Cypress PSoC 4000S, 4100S, 4100S+, 4100PS, 4700S, FM0+
+Holtek HT32F52000
+Microchip (Atmel) SAM C2, D0, D1, D2, DA, L2, R2, R3
+NXP LPC800, LPC11E60, LPC11U60
+NXP (Freescale) Kinetis E, EA, L, M, V1, W0
+Raspberry Pi RP2040
+Renesas Synergy S1
+Silicon Labs (Energy Micro) EFM32 Zero, Happy
+STMicroelectronics STM32 L0
+Cortex-M1
+Altera FPGAs Cyclone-II, Cyclone-III, Stratix-II, Stratix-III
+Microsemi (Actel) FPGAs Fusion, IGLOO/e, ProASIC3L, ProASIC3/E
+Xilinx FPGAs Spartan-3, Virtex-2-3-4
+Cortex-M3
+Actel SmartFusion, SmartFusion 2
+Analog Devices ADuCM300
+Cypress PSoC 5000, 5000LP, FM3
+Fujitsu FM3
+Holtek HT32F
+Microchip (Atmel) SAM 3A, 3N, 3S, 3U, 3X
+NXP LPC1300, LPC1700, LPC1800
+ON Semiconductor Q32M210
+Silicon Labs Precision32
+Silicon Labs (Energy Micro) EFM32 Tiny, Gecko, Leopard, Giant
+STMicroelectronics STM32 F1, F2, L1
+Texas Instruments F28, LM3, TMS470, OMAP 4
+Toshiba TX03
+Cortex-M4
+Microchip (Atmel) SAM 4L, 4N, 4S
+NXP (Freescale) Kinetis K, W2
+Renesas RA4W1, RA6M1, RA6M2, RA6M3, RA6T1
+Cortex-M4F
+Cypress 6200, FM4
+Infineon XMC4000
+Microchip (Atmel) SAM 4C, 4E, D5, E5, G5
+Microchip CEC1302
+Nordic nRF52
+NXP LPC4000, LPC4300
+NXP (Freescale) Kinetis K, V3, V4
+Renesas Synergy S3, S5, S7
+Silicon Labs (Energy Micro) EFM32 Wonder
+STMicroelectronics STM32 F3, F4, L4, L4+, WB
+Texas Instruments LM4F/TM4C, MSP432
+Toshiba TX04
+Cortex-M7F
+Microchip (Atmel) SAM E7, S7, V7
+NXP (Freescale) Kinetis KV5x
+STMicroelectronics STM32 F7, H7
+Cortex-M23
+Microchip (Atmel) SAM L10, L11
+Renesas RA2E1, RA2L1, RA2E2, RA2A1
+Cortex-M33
+Renesas RA4M2, RA4M3, RA4E1, RA6M4, RA6M5, RA6E1, RA6T2
+Real-timemicrocontrollersCortex-R4F
+Texas Instruments RM4, TMS570
+Renesas RZ/T1
+Cortex-R5F
+Scaleo OLEA
+Texas Instruments RM57
+Xilinx ZynqMP
+Renesas RZ/T2M
+vteMicrocontrollersMain
+Single-board microcontroller
+Special function register
+Architectures
+68000
+8051
+ARC
+ARM
+AVR
+CISC
+MIPS
+PIC
+RISC
+RISC-V
+Word length4-bit
+Am2900
+COP400
+MARC4
+PPS-4
+S1C6x
+TLCS-47
+TMS1000
+ COM-4
+8-bit
+6800
+68HC05
+68HC08
+68HC11
+S08
+RS08
+6502
+65C134
+65C265
+MELPS 740
+78K
+8048
+8051
+XC800
+AVR
+COP8
+H8
+PIC10/12/16/17/18
+ST6/ST7
+STM8
+Z8
+Z80
+eZ80
+Rabbit 2000
+TLCS-870
+16-bit
+68HC12/16
+80186
+C166
+CR16/C
+H8S
+MSP430
+PIC24/dsPIC
+R8C
+RL78
+TLCS-900
+Z8000
+32-bit
+Am29000
+ARC
+ARM Cortex-M
+EFM32
+LPC
+SAM
+STM32
+XMC
+ARM Cortex-R
+AVR32
+CRX
+FR
+FR-V
+H8SX
+M32R
+MN103
+68000
+ColdFire
+PIC32
+PowerPC
+MPC5xx
+Propeller
+SuperH
+TLCS-900
+TriCore
+V850
+RX
+Z80000
+64-bit
+ARC
+ARM Cortex-R
+PowerPC64
+InterfacesProgramming
+In-circuit serial programming (ICSP)
+In-system programming (ISP)
+Program and Debug Interface (PDI)
+High-voltage serial programming (HVSP)
+High voltage parallel programming (HVPP)
+Bootloader
+ROM
+aWire
+Debugging
+Nexus (standard)
+Joint Test Action Group (JTAG)
+debugWIRE (Atmel)
+In-circuit debugging (ICD)
+In-circuit emulator (ICE)
+In-target probe (ITP)
+Lists
+List of common microcontrollers
+By manufacturer
+Intel
+NXP/Freescale
+Infineon
+Renesas Electronics
+List of Wi-Fi microcontrollers
+See also
+Embedded system
+Programmable logic controller
+List of microprocessors
+Retrieved from "https://en.wikipedia.org/w/index.php?title=ARM9&oldid=1134778335"

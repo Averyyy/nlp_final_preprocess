@@ -1,0 +1,590 @@
+Intracellular organelle consisting of RNA and protein functioning to synthesize proteins
+Cell biologyAnimal cell diagramComponents of a typical animal cell:
+Nucleolus
+Nucleus
+Ribosome (dots as part of 5)
+Vesicle
+Rough endoplasmic reticulum
+Golgi apparatus (or, Golgi body)
+Cytoskeleton
+Smooth endoplasmic reticulum
+Mitochondrion
+Vacuole
+Cytosol (fluid that contains organelles; with which, comprises cytoplasm)
+Lysosome
+Centrosome
+Cell membrane
+ Figure 1: Ribosomes assemble polymeric protein molecules whose sequence is controlled by the sequence of messenger RNA molecules. This is required by all living cells and associated viruses.
+Ribosomes (/ ra b so m, -bo -/) are macromolecular machines, found within all  cells, that perform biological protein synthesis (mRNA translation). Ribosomes link amino acids together in the order specified by the codons of messenger RNA (mRNA) molecules to form polypeptide chains. Ribosomes consist of two major components: the small and large ribosomal subunits. Each subunit consists of one or more ribosomal RNA (rRNA) molecules and many ribosomal proteins (RPs or r-proteins).[1][2][3] The ribosomes and associated molecules are also known as the translational apparatus.
+Overview[edit]
+The sequence of DNA that encodes the sequence of the amino acids in a protein is transcribed into a messenger RNA chain. Ribosomes bind to messenger RNAs and use their sequences for determining the correct sequence of amino acids to generate a given protein. Amino acids are selected and carried to the ribosome by transfer RNA (tRNA) molecules, which enter the ribosome and bind to the messenger RNA chain via an anti-codon stem loop. For each coding triplet (codon) in the messenger RNA, there is a unique transfer RNA that must have the exact anti-codon match, and carries the correct amino acid for incorporating into a growing polypeptide chain. Once the protein is produced, it can then fold to produce a functional three-dimensional structure.
+A ribosome is made from complexes of RNAs and proteins and is therefore a ribonucleoprotein complex. Each ribosome is composed of small (30S) and large (50S) components, called subunits, which are bound to each other:
+(30S) has mainly a decoding function and is also bound to the mRNA
+(50S) has mainly a catalytic function and is also bound to the aminoacylated tRNAs.
+The synthesis of proteins from their building blocks takes place in four phases: initiation, elongation, termination, and recycling. The start codon in all mRNA molecules has the sequence AUG. The stop codon is one of UAA, UAG, or UGA; since there are no tRNA molecules that recognize these codons, the ribosome recognizes that translation is complete.[4] When a ribosome finishes reading an mRNA molecule, the two subunits separate and are usually broken up but can be re-used. Ribosomes are ribozymes, because the catalytic peptidyl transferase activity that links amino acids together is performed by the ribosomal RNA.[5]
+Ribosomes are often associated with the intracellular membranes that make up the rough endoplasmic reticulum.
+Ribosomes from bacteria, archaea and eukaryotes in the three-domain system resemble each other to a remarkable degree, evidence of a common origin. They differ in their size, sequence, structure, and the ratio of protein to RNA. The differences in structure allow some antibiotics to kill bacteria by inhibiting their ribosomes, while leaving human ribosomes unaffected. In all species, more than one ribosome may move along a single mRNA chain at one time (as a polysome), each "reading" a specific sequence and producing a corresponding protein molecule.
+The mitochondrial ribosomes of eukaryotic cells functionally resemble many features of those in bacteria, reflecting the likely evolutionary origin of mitochondria.[6][7]
+Discovery[edit]
+Ribosomes were first observed in the mid-1950s by Romanian-American cell biologist George Emil Palade, using an electron microscope, as dense particles or granules.[8]  They were initially called  Palade granules due to their granular structure.  The term "ribosome" was proposed in 1958:
+During the course of the symposium a semantic difficulty became apparent. To some of the participants, "microsomes" mean the ribonucleoprotein particles of the microsome fraction contaminated by other protein and lipid material; to others, the microsomes consist of protein and lipid contaminated by particles. The phrase "microsomal particles" does not seem adequate, and "ribonucleoprotein particles of the microsome fraction" is much too awkward. During the meeting, the word "ribosome" was suggested, which has a very satisfactory name and a pleasant sound. The present confusion would be eliminated if "ribosome" were adopted to designate ribonucleoprotein particles in sizes ranging from 35 to 100S. Albert, Microsomal Particles and Protein Synthesis[9]
+Albert Claude, Christian de Duve, and George Emil Palade were jointly awarded the Nobel Prize in Physiology or Medicine, in 1974, for the discovery of the ribosome.[10] The Nobel Prize in Chemistry 2009 was awarded to Venkatraman Ramakrishnan, Thomas A. Steitz and Ada E. Yonath for determining the detailed structure and mechanism of the ribosome.[11]
+Structure[edit]
+ Ribosome rRNA composition for prokaryotic and eukaryotic rRNA
+ Figure 2: Large (red) and small (blue) subunit fit together.
+The ribosome is a complex cellular machine. It is largely made up of specialized RNA known as ribosomal RNA (rRNA) as well as dozens of distinct proteins (the exact number varies slightly between species). The ribosomal proteins and rRNAs are arranged into two distinct ribosomal pieces of different sizes, known generally as the large and small subunit of the ribosome. Ribosomes consist of two subunits that fit together (Figure 2) and work as one to translate the mRNA into a polypeptide chain during protein synthesis (Figure 1). Because they are formed from two subunits of non-equal size, they are slightly longer in the axis than in diameter.
+Prokaryotic ribosomes[edit]
+Prokaryotic ribosomes are around 20 nm (200 ) in diameter and are composed of 65% rRNA and 35% ribosomal proteins.[12] Eukaryotic ribosomes are between 25 and 30 nm (250 300  ) in diameter with an rRNA-to-protein ratio that is close to 1.[13] Crystallographic work[14] has shown that there are no ribosomal proteins close to the reaction site for polypeptide synthesis. This suggests that the protein components of ribosomes do not directly participate in peptide bond formation catalysis, but rather that these proteins act as a scaffold that may enhance the ability of rRNA to synthesize protein (See: Ribozyme).
+ Figure 3: Molecular structure of the 30S subunit from Thermus thermophilus.[15] Proteins are shown in blue and the single RNA chain in brown.
+The ribosomal subunits of prokaryotes and eukaryotes are quite similar.[16]
+The unit of measurement used to describe the ribosomal subunits and the rRNA fragments is the Svedberg unit, a measure of the rate of sedimentation in centrifugation rather than size. This accounts for why fragment names do not add up: for example, bacterial 70S ribosomes are made of 50S and 30S subunits.
+Prokaryotes have 70S ribosomes, each consisting of a small (30S) and a large (50S) subunit. E. coli, for example, has a 16S RNA subunit (consisting of 1540 nucleotides) that is bound to 21 proteins. The large subunit is composed of a 5S RNA subunit (120 nucleotides), a 23S RNA subunit (2900 nucleotides) and 31 proteins.[16]
+Ribosome of E. coli (a bacterium)[17]: 962 
+ribosome
+subunit
+rRNAs
+r-proteins
+70S
+50S
+23S (2904 nt)
+31
+5S (120 nt)
+30S
+16S (1542 nt)
+21
+Affinity label for the tRNA binding sites on the E. coli ribosome allowed the identification of A and P site proteins most likely associated with the peptidyltransferase activity;[5] labelled proteins are L27, L14, L15, L16, L2; at least L27 is located at the donor site, as shown by E. Collatz and A.P. Czernilofsky.[18][19] Additional research has demonstrated that the S1 and S21 proteins, in association with the 3 -end of 16S ribosomal RNA, are involved in the initiation of translation.[20]
+Archaeal ribosomes[edit]
+Archaeal ribosomes share the same general dimensions of bacteria ones, being a 70S ribosome made up from a 50S large subunit, a 30S small subunit, and containing three rRNA chains. However, on the sequence level, they are much closer to eukaryotic ones than to bacterial ones. Every extra ribosomal protein archaea have compared to bacteria has a eukaryotic counterpart, while no such relation applies between archaea and bacteria.[21][22][23]
+Eukaryotic ribosomes[edit]
+Main article: Eukaryotic ribosome (80S)
+Eukaryotes have 80S ribosomes located in their cytosol, each consisting of a small (40S) and large (60S) subunit. Their 40S subunit has an 18S RNA (1900 nucleotides) and 33 proteins.[24][25] The large subunit is composed of a 5S RNA (120 nucleotides), 28S RNA (4700 nucleotides), a 5.8S RNA (160 nucleotides) subunits and 49 proteins.[16][24][26]
+eukaryotic cytosolic ribosomes (R. norvegicus)[17]: 65 
+ribosome
+subunit
+rRNAs
+r-proteins
+80S
+60S
+28S (4718 nt)
+49
+5.8S (160 nt)
+5S (120 nt)
+40S
+18S (1874 nt)
+33
+During 1977, Czernilofsky published research that used affinity labeling to identify tRNA-binding sites on rat liver ribosomes. Several proteins, including L32/33, L36, L21, L23, L28/29 and L13 were implicated as being at or near the peptidyl transferase center.[27]
+Plastoribosomes and mitoribosomes[edit]
+Main articles: Mitochondrial ribosome and Chloroplast  Chloroplast ribosomes
+In eukaryotes, ribosomes are present in mitochondria (sometimes called mitoribosomes) and in plastids such as chloroplasts (also called plastoribosomes). They also consist of large and small subunits bound together with proteins into one 70S particle.[16] These ribosomes are similar to those of bacteria and these organelles are thought to have originated as symbiotic bacteria.[16] Of the two, chloroplastic ribosomes are closer to bacterial ones than mitochondrial ones are. Many pieces of ribosomal RNA in the mitochondria are shortened, and in the case of 5S rRNA, replaced by other structures in animals and fungi.[28] In particular, Leishmania tarentolae has a minimalized set of mitochondrial rRNA.[29] In contrast, plant mitoribosomes have both extended rRNA and additional proteins as compared to bacteria, in particular, many pentatricopetide repeat proteins.[30]
+The cryptomonad and chlorarachniophyte algae may contain a nucleomorph that resembles a vestigial eukaryotic nucleus.[31] Eukaryotic 80S ribosomes may be present in the compartment containing the nucleomorph.[32]
+Making use of the differences[edit]
+The differences between the bacterial and eukaryotic ribosomes are exploited by pharmaceutical chemists to create antibiotics that can destroy a bacterial infection without harming the cells of the infected person. Due to the differences in their structures, the bacterial 70S ribosomes are vulnerable to these antibiotics while the eukaryotic 80S ribosomes are not.[33] Even though mitochondria possess ribosomes similar to the bacterial ones, mitochondria are not affected by these antibiotics because they are surrounded by a double membrane that does not easily admit these antibiotics into the organelle.[34] A noteworthy counterexample, however, includes the antineoplastic antibiotic chloramphenicol, which successfully inhibits bacterial 50S and eukaryotic mitochondrial 50S ribosomes.[35] Ribosomes in chloroplasts, however, are different: Antibiotic resistance in chloroplast ribosomal proteins is a trait that has to be introduced as a marker, with genetic engineering.[36]
+Common properties[edit]
+The various ribosomes share a core structure, which is quite similar despite the large differences in size. Much of the RNA is highly organized into various tertiary structural motifs, for example pseudoknots that exhibit coaxial stacking. The extra RNA in the larger ribosomes is in several long continuous insertions,[37] such that they form loops out of the core structure without disrupting or changing it.[16] All of the catalytic activity of the ribosome is carried out by the RNA; the proteins reside on the surface and seem to stabilize the structure.[16]
+High-resolution structure[edit]
+ Figure 4: Atomic structure of the 50S subunit from Haloarcula marismortui. Proteins are shown in blue and the two RNA chains in brown and yellow.[38] The small patch of green in the center of the subunit is the active site.
+The general molecular structure of the ribosome has been known since the early 1970s. In the early 2000s, the structure has been achieved at high resolutions, of the order of a few  ngstr ms.
+The first papers giving the structure of the ribosome at atomic resolution were published almost simultaneously in late 2000. The 50S (large prokaryotic) subunit was determined from the archaeon Haloarcula marismortui[38] and the bacterium Deinococcus radiodurans,[39] and the structure of the 30S subunit was determined from Thermus thermophilus.[15] These structural studies were awarded the Nobel Prize in Chemistry in 2009. In May 2001 these coordinates were used to reconstruct the entire T. thermophilus 70S particle at 5.5  resolution.[40]
+Two papers were published in November 2005 with structures of the Escherichia coli 70S ribosome. The structures of a vacant ribosome were determined at 3.5  resolution using X-ray crystallography.[41] Then, two weeks later, a structure based on cryo-electron microscopy was published,[42] which depicts the ribosome at 11 15  resolution in the act of passing a newly synthesized protein strand into the protein-conducting channel.
+The first atomic structures of the ribosome complexed with tRNA and mRNA molecules were solved by using X-ray crystallography by two groups independently, at 2.8 [43] and at 3.7 .[44] These structures allow one to see the details of interactions of the Thermus thermophilus ribosome with mRNA and with tRNAs bound at classical ribosomal sites. Interactions of the ribosome with long mRNAs containing Shine-Dalgarno sequences were visualized soon after that at 4.5 5.5  resolution.[45]
+In 2011, the first complete atomic structure of the eukaryotic 80S ribosome from the yeast Saccharomyces cerevisiae   was obtained by crystallography.[24] The model reveals the architecture of eukaryote-specific elements and their interaction with the universally conserved core. At the same time, the complete model of a eukaryotic 40S ribosomal structure in Tetrahymena thermophila was published and described the structure of the 40S subunit, as well as much about the 40S subunit's interaction with eIF1 during translation initiation.[25] Similarly, the eukaryotic 60S subunit structure was also determined from Tetrahymena thermophila in complex with eIF6.[26]
+Function[edit]
+Ribosomes are minute particles consisting of RNA and associated proteins that function to synthesize proteins. Proteins are needed for many cellular functions such as repairing damage or directing chemical processes. Ribosomes can be found floating within the cytoplasm or attached to the endoplasmic reticulum. Their main function is to convert genetic code into an amino acid sequence and to build protein polymers from amino acid monomers.
+Ribosomes act as catalysts in two extremely important biological processes called peptidyl transfer and peptidyl hydrolysis.[5][46] The "PT center is responsible for producing protein bonds during protein elongation".[46]
+In summary, ribosomes have two main functions: Decoding the message, and the formation of peptide bonds. These two functions reside in the ribosomal subunits. Each subunit is made of one or more rRNAs and many r-proteins. The small subunit (30S in bacteria and archaea, 40S in eukaryotes) has the decoding function, whereas the large subunit (50S in bacteria and archaea, 60S in eukaryotes) catalyzes the formation of peptide bonds, referred to as the peptidyl-transferase activity. The bacterial (and archaeal) small subunit contains the 16S rRNA and 21 r-proteins (Escherichia coli), whereas the eukaryotic small subunit contains the 18S rRNA and 32 r-proteins (Saccharomyces cerevisiae; although the numbers vary between species). The bacterial large subunit contains the 5S and 23S rRNAs and 34 r-proteins (E. coli), with the eukaryotic large subunit containing the 5S, 5.8S, and 25S / 28S rRNAs and 46 r-proteins (S. cerevisiae; again, the exact numbers vary between species).[47]
+Translation[edit]
+Main article: Translation (biology)
+Ribosomes are the workplaces of protein biosynthesis, the process of translating mRNA into protein. The mRNA comprises a series of codons which are decoded by the ribosome so as to make the protein. Using the mRNA as a template, the ribosome traverses each codon (3 nucleotides) of the mRNA, pairing it with the appropriate amino acid provided by an aminoacyl-tRNA. Aminoacyl-tRNA contains a complementary anticodon on one end and the appropriate amino acid on the other. For fast and accurate recognition of the appropriate tRNA, the ribosome utilizes large conformational changes (conformational proofreading).[48] The small ribosomal subunit, typically bound to an aminoacyl-tRNA containing the first amino acid methionine, binds to an AUG codon on the mRNA and recruits the large ribosomal subunit. The ribosome contains three RNA binding sites, designated A, P, and E. The A-site binds an aminoacyl-tRNA or termination release factors;[49][50] the P-site binds a peptidyl-tRNA (a tRNA bound to the poly-peptide chain); and the E-site (exit) binds a free tRNA. Protein synthesis begins at a start codon AUG near the 5' end of the mRNA. mRNA binds to the P site of the ribosome first. The ribosome recognizes the start codon by using the Shine-Dalgarno sequence of the mRNA in prokaryotes and Kozak box in eukaryotes.
+Although catalysis of the peptide bond involves the C2 hydroxyl of RNA's P-site adenosine in a proton shuttle mechanism, other steps in protein synthesis (such as translocation) are caused by changes in protein conformations. Since their catalytic core is made of RNA, ribosomes are classified as "ribozymes,"[51] and it is thought that they might be remnants of the RNA world.[52]
+ Figure 5: Translation of mRNA (1) by a ribosome (2)(shown as small and large subunits) into a polypeptide chain (3). The ribosome begins at the start codon of RNA (AUG) and ends at the stop codon (UAG).
+In Figure 5, both ribosomal subunits (small and large) assemble at the start codon (towards the 5' end of the mRNA). The ribosome uses tRNA that matches the current codon (triplet) on the mRNA to append an amino acid to the polypeptide chain. This is done for each triplet on the mRNA, while the ribosome moves towards the 3' end of the mRNA. Usually in bacterial cells, several ribosomes are working parallel on a single mRNA, forming what is called a polyribosome or polysome.
+Cotranslational folding[edit]
+The ribosome is known to actively participate in the protein folding.[53][54] The structures obtained in this way are usually identical to the ones obtained during protein chemical refolding; however, the pathways leading to the final product may be different.[55][56] In some cases, the ribosome is crucial in obtaining the functional protein form. For example, one of the possible mechanisms of folding of the deeply knotted proteins relies on the ribosome pushing the chain through the attached loop.[57]
+Addition of translation-independent amino acids[edit]
+Presence of a ribosome quality control protein Rqc2 is associated with mRNA-independent protein elongation.[58][59] This elongation is a result of ribosomal addition (via tRNAs brought by Rqc2) of CAT tails: ribosomes extend the C-terminus of a stalled protein with random, translation-independent sequences of alanines and threonines.[60][61]
+Ribosome locations[edit]
+Ribosomes are classified as being either "free" or "membrane-bound".
+ Figure 6: A ribosome translating a protein that is secreted into the endoplasmic reticulum.
+Free and membrane-bound ribosomes differ only in their spatial distribution; they are identical in structure. Whether the ribosome exists in a free or membrane-bound state depends on the presence of an ER-targeting signal sequence on the protein being synthesized, so an individual ribosome might be membrane-bound when it is making one protein, but free in the cytosol when it makes another protein.
+Ribosomes are sometimes referred to as organelles, but the use of the term organelle is often restricted to describing sub-cellular components that include a phospholipid membrane, which ribosomes, being entirely particulate, do not. For this reason, ribosomes may sometimes be described as "non-membranous organelles".
+Free ribosomes[edit]
+Free ribosomes can move about anywhere in the cytosol, but are excluded from the cell nucleus and other organelles. Proteins that are formed from free ribosomes are released into the cytosol and used within the cell. Since the cytosol contains high concentrations of glutathione and is, therefore, a reducing environment, proteins containing disulfide bonds, which are formed from oxidized cysteine residues, cannot be produced within it.
+Membrane-bound ribosomes[edit]
+When a ribosome begins to synthesize proteins that are needed in some organelles, the ribosome making this protein can become "membrane-bound". In eukaryotic cells this happens in a region of the endoplasmic reticulum (ER) called the "rough ER". The newly produced polypeptide chains are inserted directly into the ER by the ribosome undertaking vectorial synthesis and are then transported to their destinations, through the secretory pathway. Bound ribosomes usually produce proteins that are used within the plasma membrane or are expelled from the cell via exocytosis.[62]
+Biogenesis[edit]
+Main article: Ribosome biogenesis
+In bacterial cells, ribosomes are synthesized in the cytoplasm through the transcription of multiple ribosome gene operons. In eukaryotes, the process takes place both in the cell cytoplasm and in the nucleolus, which is a region within the cell nucleus. The assembly process involves the coordinated function of over 200 proteins in the synthesis and processing of the four rRNAs, as well as assembly of those rRNAs with the ribosomal proteins.[63]
+Origin[edit]
+The ribosome may have first originated as a protoribosome,[64] possibly containing a peptidyl transferase centre (PTC), in an RNA world, appearing as a self-replicating complex that only later evolved the ability to synthesize proteins when amino acids began to appear.[65] Studies suggest that ancient ribosomes constructed solely of rRNA could have developed the ability to synthesize peptide bonds.[66][67][68][69][70] In addition, evidence strongly points to ancient ribosomes as self-replicating complexes, where the rRNA in the ribosomes had informational, structural, and catalytic purposes because it could have coded for tRNAs and proteins needed for ribosomal self-replication.[71] Hypothetical cellular organisms with self-replicating RNA but without DNA are called ribocytes (or ribocells).[72][73]
+As amino acids gradually appeared in the RNA world under prebiotic conditions,[74][75] their interactions with catalytic RNA would increase both the range and efficiency of function of catalytic RNA molecules.[65] Thus, the driving force for the evolution of the ribosome from an ancient self-replicating machine into its current form as a translational machine may have been the selective pressure to incorporate proteins into the ribosome's self-replicating mechanisms, so as to increase its capacity for self-replication.[71][76][77]
+Heterogeneous ribosomes[edit]
+Ribosomes are compositionally heterogeneous between species and even within the same cell, as evidenced by the existence of cytoplasmic and mitochondria ribosomes within the same eukaryotic cells. Certain researchers have suggested that heterogeneity in the composition of ribosomal proteins in mammals is important for gene regulation, i.e., the specialized ribosome hypothesis.[78][79] However, this hypothesis is controversial and the topic of ongoing research.[80][81]
+Heterogeneity in ribosome composition was first proposed to be involved in translational control of protein synthesis by Vince Mauro and Gerald Edelman.[82] They proposed the ribosome filter hypothesis to explain the regulatory functions of ribosomes. Evidence has suggested that specialized ribosomes specific to different cell populations may affect how genes are translated.[83] Some ribosomal proteins exchange from the assembled complex with cytosolic copies[84] suggesting that the structure of the in vivo ribosome can be modified without synthesizing an entire new ribosome.
+Certain ribosomal proteins are absolutely critical for cellular life while others are not. In budding yeast, 14/78 ribosomal proteins are non-essential for growth, while in humans this depends on the cell of study.[85] Other forms of heterogeneity include post-translational modifications to ribosomal proteins such as acetylation, methylation, and phosphorylation.[86] Arabidopsis,[87][88][89][90] Viral internal ribosome entry sites (IRESs) may mediate translations by compositionally distinct ribosomes. For example, 40S ribosomal units without eS25 in yeast and mammalian cells are unable to recruit the CrPV IGR IRES.[91]
+Heterogeneity of ribosomal RNA modifications plays a significant role in structural maintenance and/or function and most mRNA modifications are found in highly conserved regions.[92][93] The most common rRNA modifications are pseudouridylation and 2 -O methylation of ribose.[94]
+See also[edit]
+Aminoglycosides
+Biological machines
+Posttranslational modification
+Protein dynamics
+RNA tertiary structure
+Translation (genetics)
+Wobble base pair
+Ada Yonath Israeli crystallographer known for her pioneering work on the structure of the ribosome, for which she won the Nobel Prize.
+References[edit]
+^ Konikkat S (February 2016). Dynamic Remodeling Events Drive the Removal of the ITS2 Spacer Sequence During Assembly of 60S Ribosomal Subunits in S. cerevisiae (Ph.D. thesis). Carnegie Mellon University. Archived from the original on 3 August 2017.
+^ Weiler EW, Nover L (2008). Allgemeine und Molekulare Botanik (in German). Stuttgart: Georg Thieme Verlag. p. 532. ISBN 9783131527912.
+^ de la Cruz J, Karbstein K, Woolford JL (2015). "Functions of ribosomal proteins in assembly of eukaryotic ribosomes in vivo". Annual Review of Biochemistry. 84: 93 129. doi:10.1146/annurev-biochem-060614-033917. PMC 4772166. PMID 25706898.
+^ "Scitable by nature translation / RNA translation".
+^ a b c Tirumalai MR, Rivas M, Tran Q, Fox GE (November 2021). "The Peptidyl Transferase Center: a Window to the Past". Microbiol Mol Biol Rev. 85 (4): e0010421. doi:10.1128/MMBR.00104-21. PMC 8579967. PMID 34756086.
+^ Benne R, Sloof P (1987). "Evolution of the mitochondrial protein synthetic machinery". Bio Systems. 21 (1): 51 68. doi:10.1016/0303-2647(87)90006-2. PMID 2446672.
+^ "Ribosomes". Archived from the original on 2009-03-20. Retrieved 2011-04-28.
+^ Palade GE (January 1955). "A small particulate component of the cytoplasm". The Journal of Biophysical and Biochemical Cytology. 1 (1): 59 68. doi:10.1083/jcb.1.1.59. PMC 2223592. PMID 14381428.
+^ Roberts RB, ed. (1958). "Introduction". Microsomal Particles and Protein Synthesis. New York: Pergamon Press, Inc.
+^ "The Nobel Prize in Physiology or Medicine 1974". Nobelprize.org. The Nobel Foundation. Archived from the original on 26 January 2013. Retrieved 10 December 2012.
+^ "2009 Nobel Prize in Chemistry". The Nobel Foundation. Archived from the original on 28 April 2012. Retrieved 10 December 2012.
+^ Kurland CG (1960). "Molecular characterization of ribonucleic acid from Escherichia coli ribosomes". Journal of Molecular Biology. 2 (2): 83 91. doi:10.1016/s0022-2836(60)80029-0.
+^ Wilson DN, Doudna Cate JH (May 2012). "The structure and function of the eukaryotic ribosome". Cold Spring Harbor Perspectives in Biology. 4 (5): a011536. doi:10.1101/cshperspect.a011536. PMC 3331703. PMID 22550233.
+^ Nissen P, Hansen J, Ban N, Moore PB, Steitz TA (August 2000). "The structural basis of ribosome activity in peptide bond synthesis" (PDF). Science. 289 (5481): 920 30. Bibcode:2000Sci...289..920N. doi:10.1126/science.289.5481.920. PMID 10937990. S2CID 8370119. Archived from the original (PDF) on 2020-11-30.
+^ a b Wimberly BT, Brodersen DE, Clemons WM, Morgan-Warren RJ, Carter AP, Vonrhein C, Hartsch T, Ramakrishnan V (September 2000). "Structure of the 30S ribosomal subunit". Nature. 407 (6802): 327 39. Bibcode:2000Natur.407..327W. doi:10.1038/35030006. PMID 11014182. S2CID 4419944.
+^ a b c d e f g Alberts B, Johnson A, Lewis J, Raff M, Roberts K, Walter P (2002). "Membrane-bound Ribosomes Define the Rough ER". Molecular Biology of the Cell (4th ed.). New York: Garland Science. p. 342. ISBN 978-0-8153-4072-0.
+^ a b Garrett R, Grisham CM (2009). Biochemistry (4th ed.). Cengage Learning Services. ISBN 978-0-495-11464-2.
+^ Collatz E, K chler E, St ffler G, Czernilofsky AP (April 1976). "The site of reaction on ribosomal protein L27 with an affinity label derivative of tRNA Met f". FEBS Letters. 63 (2): 283 6. doi:10.1016/0014-5793(76)80112-3. PMID 770196.
+^ Czernilofsky AP, Collatz EE, St ffler G, Kuechler E (January 1974). "Proteins at the tRNA binding sites of Escherichia coli ribosomes". Proceedings of the National Academy of Sciences of the United States of America. 71 (1): 230 4. Bibcode:1974PNAS...71..230C. doi:10.1073/pnas.71.1.230. PMC 387971. PMID 4589893.
+^ Czernilofsky AP, Kurland CG, St ffler G (October 1975). "30S ribosomal proteins associated with the 3'-terminus of 16S RNA". FEBS Letters. 58 (1): 281 4. doi:10.1016/0014-5793(75)80279-1. PMID 1225593.
+^ Cullen KE (2009). "Archaeal Ribosomes". Encyclopedia of Life Science. New York: Facts On File. pp. 1 5. doi:10.1002/9780470015902.a0000293.pub3. ISBN 9780470015902. S2CID 243730576.
+^ Tirumalai MR, Anane-Bediakoh D, Rajesh R, Fox GE (November 2021). "Net Charges of the Ribosomal Proteins of the S10 and spc Clusters of Halophiles Are Inversely Related to the Degree of Halotolerance". Microbiol. Spectrum. 9 (3): e0178221. doi:10.1128/spectrum.01782-21. PMC 8672879. PMID 34908470.
+^ Wang J, Dasgupta I, Fox GE (28 April 2009). "Many nonuniversal archaeal ribosomal proteins are found in conserved gene clusters". Archaea. 2 (4): 241 51. doi:10.1155/2009/971494. PMC 2686390. PMID 19478915.
+^ a b c Ben-Shem A, Garreau de Loubresse N, Melnikov S, Jenner L, Yusupova G, Yusupov M (December 2011). "The structure of the eukaryotic ribosome at 3.0   resolution". Science. 334 (6062): 1524 9. Bibcode:2011Sci...334.1524B. doi:10.1126/science.1212642. PMID 22096102. S2CID 9099683.
+^ a b Rabl J, Leibundgut M, Ataide SF, Haag A, Ban N (February 2011). "Crystal structure of the eukaryotic 40S ribosomal subunit in complex with initiation factor 1" (PDF). Science. 331 (6018): 730 6. Bibcode:2011Sci...331..730R. doi:10.1126/science.1198308. hdl:20.500.11850/153130. PMID 21205638. S2CID 24771575.
+^ a b Klinge S, Voigts-Hoffmann F, Leibundgut M, Arpagaus S, Ban N (November 2011). "Crystal structure of the eukaryotic 60S ribosomal subunit in complex with initiation factor 6". Science. 334 (6058): 941 8. Bibcode:2011Sci...334..941K. doi:10.1126/science.1211204. PMID 22052974. S2CID 206536444.
+^ Fabijanski S, Pellegrini M (1977). "Identification of proteins at the peptidyl-tRNA binding site of rat liver ribosomes". Molecular & General Genetics. 184 (3): 551 6. doi:10.1007/BF00431588. PMID 6950200. S2CID 9751945.
+^ Agrawal RK, Sharma MR (December 2012). "Structural aspects of mitochondrial translational apparatus". Current Opinion in Structural Biology. 22 (6): 797 803. doi:10.1016/j.sbi.2012.08.003. PMC 3513651. PMID 22959417.
+^ Sharma MR, Booth TM, Simpson L, Maslov DA, Agrawal RK (June 2009). "Structure of a mitochondrial ribosome with minimal RNA". Proceedings of the National Academy of Sciences of the United States of America. 106 (24): 9637 42. Bibcode:2009PNAS..106.9637S. doi:10.1073/pnas.0901631106. PMC 2700991. PMID 19497863.
+^ Waltz F, Nguyen TT, Arriv  M, Bochler A, Chicher J, Hammann P, Kuhn L, Quadrado M, Mireau H, Hashem Y, Gieg  P (January 2019). "Small is big in Arabidopsis mitochondrial ribosome". Nature Plants. 5 (1): 106 117. doi:10.1038/s41477-018-0339-y. PMID 30626926. S2CID 58004990.
+^ Archibald JM, Lane CE (2009). "Going, going, not quite gone: nucleomorphs as a case study in nuclear genome reduction". The Journal of Heredity. 100 (5): 582 90. doi:10.1093/jhered/esp055. PMID 19617523.
+^ "Specialized Internal Structures of Prokaryotes | Boundless Microbiology". courses.lumenlearning.com. Retrieved 2021-09-24.
+^ Recht MI, Douthwaite S, Puglisi JD (June 1999). "Basis for prokaryotic specificity of action of aminoglycoside antibiotics". The EMBO Journal. 18 (11): 3133 8. doi:10.1093/emboj/18.11.3133. PMC 1171394. PMID 10357824.
+^ O'Brien TW (May 1971). "The general occurrence of 55 S ribosomes in mammalian liver mitochondria". The Journal of Biological Chemistry. 246 (10): 3409 17. doi:10.1016/S0021-9258(18)62239-2. PMID 4930061.
+^ "Chloramphenicol-lnduced Bone Marrow Suppression". JAMA. 213 (7): 1183 1184. 1970-08-17. doi:10.1001/jama.1970.03170330063011. ISSN 0098-7484. PMID 5468266.
+^ Newman SM, Boynton JE, Gillham NW, Randolph-Anderson BL, Johnson AM, Harris EH (December 1990). "Transformation of chloroplast ribosomal RNA genes in Chlamydomonas: molecular and genetic characterization of integration events". Genetics. 126 (4): 875 88. doi:10.1093/genetics/126.4.875. PMC 1204285. PMID 1981764.
+^ Penev PI, Fakhretaha-Aval S, Patel VJ, Cannone JJ, Gutell RR, Petrov AS, Williams LD, Glass JB (August 2020). "Supersized ribosomal RNA expansion segments in Asgard archaea". Genome Biology and Evolution. 12 (10): 1694 1710. doi:10.1093/gbe/evaa170. PMC 7594248. PMID 32785681.
+^ a b Ban N, Nissen P, Hansen J, Moore PB, Steitz TA (August 2000). "The complete atomic structure of the large ribosomal subunit at 2.4 A resolution". Science. 289 (5481): 905 20. Bibcode:2000Sci...289..905B. CiteSeerX 10.1.1.58.2271. doi:10.1126/science.289.5481.905. PMID 10937989.
+^ Schluenzen F, Tocilj A, Zarivach R, Harms J, Gluehmann M, Janell D, Bashan A, Bartels H, Agmon I, Franceschi F, Yonath A (September 2000). "Structure of functionally activated small ribosomal subunit at 3.3 angstroms resolution". Cell. 102 (5): 615 23. doi:10.1016/S0092-8674(00)00084-2. PMID 11007480. S2CID 1024446.
+^ Yusupov MM, Yusupova GZ, Baucom A, Lieberman K, Earnest TN, Cate JH, Noller HF (May 2001). "Crystal structure of the ribosome at 5.5 A resolution". Science. 292 (5518): 883 96. Bibcode:2001Sci...292..883Y. doi:10.1126/science.1060089. PMID 11283358. S2CID 39505192.
+^ Schuwirth BS, Borovinskaya MA, Hau CW, Zhang W, Vila-Sanjurjo A, Holton JM, Cate JH (November 2005). "Structures of the bacterial ribosome at 3.5 A resolution". Science. 310 (5749): 827 34. Bibcode:2005Sci...310..827S. doi:10.1126/science.1117230. PMID 16272117. S2CID 37382005.
+^ Mitra K, Schaffitzel C, Shaikh T, Tama F, Jenni S, Brooks CL, Ban N, Frank J (November 2005). "Structure of the E. coli protein-conducting channel bound to a translating ribosome". Nature. 438 (7066): 318 24. Bibcode:2005Natur.438..318M. doi:10.1038/nature04133. PMC 1351281. PMID 16292303.
+^ Selmer M, Dunham CM, Murphy FV, Weixlbaumer A, Petry S, Kelley AC, Weir JR, Ramakrishnan V (September 2006). "Structure of the 70S ribosome complexed with mRNA and tRNA". Science. 313 (5795): 1935 42. Bibcode:2006Sci...313.1935S. doi:10.1126/science.1131127. PMID 16959973. S2CID 9737925.
+^ Korostelev A, Trakhanov S, Laurberg M, Noller HF (September 2006). "Crystal structure of a 70S ribosome-tRNA complex reveals functional interactions and rearrangements". Cell. 126 (6): 1065 77. doi:10.1016/j.cell.2006.08.032. PMID 16962654. S2CID 13452915.
+^ Yusupova G, Jenner L, Rees B, Moras D, Yusupov M (November 2006). "Structural basis for messenger RNA movement on the ribosome". Nature. 444 (7117): 391 4. Bibcode:2006Natur.444..391Y. doi:10.1038/nature05281. PMID 17051149. S2CID 4419198.
+^ a b "Specialized Internal Structures of Prokaryotes". courses.lumenlearning.com. Boundless Microbiology. Retrieved 2018-09-27.
+^ Lafontaine, D.; Tollervey, D. (2001). "The function and synthesis of ribosomes". Nat Rev Mol Cell Biol. 2 (7): 514 520. doi:10.1038/35080045. hdl:1842/729. PMID 11433365. S2CID 2637106.
+^ Savir Y, Tlusty T (April 2013). "The ribosome as an optimal decoder: A lesson in molecular recognition". Cell. 153 (2): 471 479. Bibcode:2013APS..MARY46006T. doi:10.1016/j.cell.2013.03.032. PMID 23582332.
+^ Korkmaz G, Sanyal S (September 2017). "Escherichia coli". The Journal of Biological Chemistry. 292 (36): 15134 15142. doi:10.1074/jbc.M117.785238. PMC 5592688. PMID 28743745.
+^ Konevega AL, Soboleva NG, Makhno VI, Semenkov YP, Wintermeyer W, Rodnina MV, Katunin VI (January 2004). "Purine bases at position 37 of tRNA stabilize codon-anticodon interaction in the ribosomal A site by stacking and Mg2+-dependent interactions". RNA. 10 (1): 90 101. doi:10.1261/rna.5142404. PMC 1370521. PMID 14681588.
+^ Rodnina MV, Beringer M, Wintermeyer W (January 2007). "How ribosomes make peptide bonds". Trends in Biochemical Sciences. 32 (1): 20 26. doi:10.1016/j.tibs.2006.11.007. PMID 17157507.
+^ Cech, T.R. (August 2000). "Structural biology. The ribosome is a ribozyme". Science. 289 (5481): 878 879. doi:10.1126/science.289.5481.878. PMID 10960319. S2CID 24172338.
+^ Banerjee D, Sanyal S (October 2014). "Protein folding activity of the ribosome (PFAR)   a target for antiprion compounds". Viruses. 6 (10): 3907 3924. doi:10.3390/v6103907. PMC 4213570. PMID 25341659.
+^ Fedorov AN, Baldwin TO (December 1997). "Cotranslational protein folding". The Journal of Biological Chemistry. 272 (52): 32715 32718. doi:10.1074/jbc.272.52.32715. PMID 9407040.
+^ Baldwin RL (June 1975). "Intermediates in protein folding reactions and the mechanism of protein folding". Annual Review of Biochemistry. 44 (1): 453 475. doi:10.1146/annurev.bi.44.070175.002321. PMID 1094916.
+^ Das D, Das A, Samanta D, Ghosh J, Dasgupta S, Bhattacharya A, Basu A, Sanyal S, Das Gupta C (August 2008). "Role of the ribosome in protein folding" (PDF). Biotechnology Journal. 3 (8): 999 1009. doi:10.1002/biot.200800098. PMID 18702035.
+^ Dabrowski-Tumanski P, Piejko M, Niewieczerzal S, Stasiak A, Sulkowska JI (December 2018). "Protein knotting by active threading of nascent polypeptide chain exiting from the ribosome exit channel". The Journal of Physical Chemistry B. 122 (49): 11616 11625. doi:10.1021/acs.jpcb.8b07634. PMID 30198720. S2CID 52176392.
+^ Brandman O, Stewart-Ornstein J, Wong D, Larson A, Williams CC, Li GW, Zhou S, King D, Shen PS, Weibezahn J, Dunn JG, Rouskin S, Inada T, Frost A, Weissman JS (November 2012). "A ribosome-bound quality control complex triggers degradation of nascent peptides and signals translation stress". Cell. 151 (5): 1042 1054. doi:10.1016/j.cell.2012.10.044. PMC 3534965. PMID 23178123.
+^ Defenouill re Q, Yao Y, Mouaikel J, Namane A, Galopier A, Decourty L, Doyen A, Malabat C, Saveanu C, Jacquier A, Fromont-Racine M (March 2013). "Cdc48-associated complex bound to 60S particles is required for the clearance of aberrant translation products". Proceedings of the National Academy of Sciences of the United States of America. 110 (13): 5046 5051. Bibcode:2013PNAS..110.5046D. doi:10.1073/pnas.1221724110. PMC 3612664. PMID 23479637.
+^ Shen PS, Park J, Qin Y, Li X, Parsawar K, Larson MH, Cox J, Cheng Y, Lambowitz AM, Weissman JS, Brandman O, Frost A (January 2015). "Protein synthesis. Rqc2p and 60S ribosomal subunits mediate mRNA-independent elongation of nascent chains". Science. 347 (6217): 75 78. Bibcode:2015Sci...347...75S. doi:10.1126/science.1259724. PMC 4451101. PMID 25554787.
+^ Keeley, J.; Gutnikoff, R. (2 January 2015). "Ribosome studies turn up new mechanism of protein synthesis" (Press release). Howard Hughes Medical Institute. Archived from the original on 12 January 2015. Retrieved 16 January 2015.
+^ Alberts B, Johnson A, Lewis J, Raff M, Roberts K, Walter P (2002). "Membrane-bound Ribosomes Define the Rough ER". Molecular Biology of the Cell (4th ed.). New York: Garland Science. ISBN 978-0-8153-4072-0.
+^ Kressler, Dieter; Hurt, Ed; Babler, Jochen (2009). "Driving ribosome assembly" (PDF). Biochimica et Biophysica Acta (BBA) - Molecular Cell Research. 1803 (6): 673 683. doi:10.1016/j.bbamcr.2009.10.009. PMID 19879902.
+^ Dance, Amber (28 February 2023). "How did life begin? One key ingredient is coming into view - A Nobel-prizewinning scientist's team has taken a big step forward in its quest to reconstruct an early-Earth RNA capable of building proteins". Nature. 615: 22 25. doi:10.1038/d41586-023-00574-4. Retrieved 28 February 2023.
+^ a b Noller HF (April 2012). "Evolution of protein synthesis from an RNA world". Cold Spring Harbor Perspectives in Biology. 4 (4): a003681. doi:10.1101/cshperspect.a003681. PMC 3312679. PMID 20610545.
+^ Dabbs ER (1986). Mutant studies on the prokaryotic ribosome. New York: Springer-Verlag.
+^ Noller HF, Hoffarth V, Zimniak L (June 1992). "Unusual resistance of peptidyl transferase to protein extraction procedures". Science. 256 (5062): 1416 9. Bibcode:1992Sci...256.1416N. doi:10.1126/science.1604315. PMID 1604315.
+^ Nomura M, Mizushima S, Ozaki M, Traub P, Lowry CV (1969). "Structure and function of ribosomes and their molecular components". Cold Spring Harbor Symposia on Quantitative Biology. 34: 49 61. doi:10.1101/sqb.1969.034.01.009. PMID 4909519.
+^ Krupkin M, Matzov D, Tang H, Metz M, Kalaora R, Belousoff MJ, Zimmerman E, Bashan A, Yonath A (Oct 2011). "A vestige of a prebiotic bonding machine is functioning within the contemporary ribosome". Phil. Trans. R. Soc. B. 366 (1580): 2972 8. doi:10.1098/rstb.2011.0146. PMC 3158926. PMID 21930590.
+^ Bose T, Fridkin G, Davidovich C, Krupkin M, Dinger N, Falkovich AH, Peleg Y, Agmon I, Bashan A, Yonat A (Feb 2022). "Origin of life: protoribosome forms peptide bonds and links RNA and protein dominated worlds". Nucleic Acids Res. 50 (4): 1815 1828. doi:10.1093/nar/gkac052. PMC 8886871. PMID 35137169.
+^ a b Root-Bernstein M, Root-Bernstein R (February 2015). "The ribosome as a missing link in the evolution of life". Journal of Theoretical Biology. 367: 130 158. doi:10.1016/j.jtbi.2014.11.025. PMID 25500179.
+^ Yarus M (2002). "Primordial genetics: phenotype of the ribocyte". Annual Review of Genetics. 36: 125 51. doi:10.1146/annurev.genet.36.031902.105056. PMID 12429689.
+^ Forterre P, Krupovic M (2012). "The Origin of Virions and Virocells: The Escape Hypothesis Revisited". Viruses: Essential Agents of Life. pp. 43 60. doi:10.1007/978-94-007-4899-6_3. ISBN 978-94-007-4898-9.
+^ Caetano-Anoll s G, Seufferheld MJ (2013). "The coevolutionary roots of biochemistry and cellular organization challenge the RNA world paradigm". Journal of Molecular Microbiology and Biotechnology. 23 (1 2): 152 77. doi:10.1159/000346551. PMID 23615203. S2CID 41725226.
+^ Saladino R, Botta G, Pino S, Costanzo G, Di Mauro E (August 2012). "Genetics first or metabolism first? The formamide clue". Chemical Society Reviews. 41 (16): 5526 65. doi:10.1039/c2cs35066a. hdl:11573/494138. PMID 22684046.
+^ Fox GE (September 2010). "Origin and Evolution of the Ribosome". Cold Spring Harb Perspect Biol. 2 (9): a003483. doi:10.1101/cshperspect.a003483. PMC 2926754. PMID 20534711.
+^ Fox GE (2016). "Origins and early evolution of the ribosome".  In Hern ndez G, Jagus R (eds.). Evolution of the Protein Synthesis Machinery and Its Regulation. Switzerland: Springer, Cham. pp. 31 60. doi:10.1007/978-3-319-39468-8. ISBN 978-3-319-39468-8. S2CID 27493054.
+^ Shi Z, Fujii K, Kovary KM, Genuth NR, R st HL, Teruel MN, Barna M (July 2017). "Heterogeneous Ribosomes Preferentially Translate Distinct Subpools of mRNAs Genome-wide". Molecular Cell. Elsevier BV. 67 (1): 71 83.e7. doi:10.1016/j.molcel.2017.05.021. PMC 5548184. PMID 28625553.
+^ Xue S, Barna M (May 2012). "Specialized ribosomes: a new frontier in gene regulation and organismal biology". Nature Reviews. Molecular Cell Biology. Springer Science and Business Media LLC. 13 (6): 355 369. doi:10.1038/nrm3359. PMC 4039366. PMID 22617470.
+^ Ferretti MB, Karbstein K (May 2019). "Does functional specialization of ribosomes really exist?". RNA. Cold Spring Harbor Laboratory. 25 (5): 521 538. doi:10.1261/rna.069823.118. PMC 6467006. PMID 30733326.
+^ Farley-Barnes KI, Ogawa LM, Baserga SJ (October 2019). "Ribosomopathies: Old Concepts, New Controversies". Trends in Genetics. Elsevier BV. 35 (10): 754 767. doi:10.1016/j.tig.2019.07.004. PMC 6852887. PMID 31376929.
+^ Mauro VP, Edelman GM (September 2002). "The ribosome filter hypothesis". Proceedings of the National Academy of Sciences of the United States of America. 99 (19): 12031 6. Bibcode:2002PNAS...9912031M. doi:10.1073/pnas.192442499. PMC 129393. PMID 12221294.
+^ Xue S, Barna M (May 2012). "Specialized ribosomes: a new frontier in gene regulation and organismal biology". Nature Reviews. Molecular Cell Biology. 13 (6): 355 69. doi:10.1038/nrm3359. PMC 4039366. PMID 22617470.
+^ Mathis AD, Naylor BC, Carson RH, Evans E, Harwell J, Knecht J, Hexem E, Peelor FF, Miller BF, Hamilton KL, Transtrum MK, Bikman BT, Price JC (February 2017). "Mechanisms of In Vivo Ribosome Maintenance Change in Response to Nutrient Signals". Molecular & Cellular Proteomics. 16 (2): 243 254. doi:10.1074/mcp.M116.063255. PMC 5294211. PMID 27932527.
+^ Steffen KK, McCormick MA, Pham KM, MacKay VL, Delaney JR, Murakami CJ,  et al. (May 2012). "Ribosome deficiency protects against ER stress in Saccharomyces cerevisiae". Genetics. Genetics Society of America. 191 (1): 107 118. doi:10.1534/genetics.111.136549. PMC 3338253. PMID 22377630.
+^ Lee SW, Berger SJ, Martinovi  S, Pasa-Toli  L, Anderson GA, Shen Y,  et al. (April 2002). "Direct mass spectrometric analysis of intact proteins of the yeast large ribosomal subunit using capillary LC/FTICR". Proceedings of the National Academy of Sciences of the United States of America. 99 (9): 5942 5947. Bibcode:2002PNAS...99.5942L. doi:10.1073/pnas.082119899. PMC 122881. PMID 11983894.
+^ Carroll AJ, Heazlewood JL, Ito J, Millar AH (February 2008). "Analysis of the Arabidopsis cytosolic ribosome proteome provides detailed insights into its components and their post-translational modification". Molecular & Cellular Proteomics. 7 (2): 347 369. doi:10.1074/mcp.m700052-mcp200. PMID 17934214.
+^ Odintsova TI, M ller EC, Ivanov AV, Egorov TA, Bienert R, Vladimirov SN,  et al. (April 2003). "Characterization and analysis of posttranslational modifications of the human large cytoplasmic ribosomal subunit proteins by mass spectrometry and Edman sequencing". Journal of Protein Chemistry. 22 (3): 249 258. doi:10.1023/a:1025068419698. PMID 12962325. S2CID 10710245.
+^ Yu Y, Ji H, Doudna JA, Leary JA (June 2005). "Mass spectrometric analysis of the human 40S ribosomal subunit: native and HCV IRES-bound complexes". Protein Science. 14 (6): 1438 1446. doi:10.1110/ps.041293005. PMC 2253395. PMID 15883184.
+^ Zeidan Q, Wang Z, De Maio A, Hart GW (June 2010). "O-GlcNAc cycling enzymes associate with the translational machinery and modify core ribosomal proteins". Molecular Biology of the Cell. 21 (12): 1922 1936. doi:10.1091/mbc.e09-11-0941. PMC 2883937. PMID 20410138.
+^ Landry DM, Hertz MI, Thompson SR (December 2009). "RPS25 is essential for translation initiation by the Dicistroviridae and hepatitis C viral IRESs". Genes & Development. 23 (23): 2753 2764. doi:10.1101/gad.1832209. PMC 2788332. PMID 19952110.
+^ Decatur WA, Fournier MJ (July 2002). "rRNA modifications and ribosome function". Trends in Biochemical Sciences. 27 (7): 344 51. doi:10.1016/s0968-0004(02)02109-6. PMID 12114023.
+^ Natchiar SK, Myasnikov AG, Kratzat H, Hazemann I, Klaholz BP (November 2017). "Visualization of chemical modifications in the human 80S ribosome structure". Nature. 551 (7681): 472 477. Bibcode:2017Natur.551..472N. doi:10.1038/nature24482. PMID 29143818. S2CID 4465175.
+^ Guo H (August 2018). "Specialized ribosomes and the control of translation". Biochemical Society Transactions. 46 (4): 855 869. doi:10.1042/BST20160426. PMID 29986937. S2CID 51609077.
+External links[edit]
+Wikimedia Commons has media related to Ribosomes.
+Lab computer simulates ribosome in motion
+Role of the Ribosome, Gwen V. Childs, copied here
+Ribosome in Proteopedia The free, collaborative 3D encyclopedia of proteins & other molecules
+Ribosomal proteins families in ExPASy Archived 2011-04-30 at the Wayback Machine
+Molecule of the Month Archived 2009-10-27 at the Wayback Machine   RCSB Protein Data Bank:
+Ribosome
+Elongation Factors Archived 2011-03-16 at the Wayback Machine
+Palade
+3D electron microscopy structures of ribosomes at the EM Data Bank (EMDB)
+ This article incorporates public domain material from Science Primer. NCBI. Archived from the original on 2009-12-08.
+vteStructures of the cell / organellesEndomembrane system
+Cell membrane
+Nucleus
+Endoplasmic reticulum
+Golgi apparatus
+Parenthesome
+Autophagosome
+Vesicle
+Exosome
+Lysosome
+Endosome
+Phagosome
+Vacuole
+Acrosome
+Cytoplasmic granule
+Melanosome
+Microbody
+Glyoxysome
+Peroxisome
+Weibel Palade body
+Cytoskeleton
+Microfilament
+Intermediate filament
+Microtubule
+Prokaryotic cytoskeleton
+Microtubule organizing center
+Centrosome
+Centriole
+Basal body
+Spindle pole body
+Myofibril
+Undulipodium
+Cilium
+Flagellum
+Axoneme
+Radial spoke
+Pseudopodium
+Lamellipodium
+Filopodium
+Endosymbionts
+Mitochondrion
+Plastid
+Chloroplast
+Chromoplast
+Gerontoplast
+Leucoplast
+Amyloplast
+Elaioplast
+Proteinoplast
+Tannosome
+Other internal
+Nucleolus
+RNA
+Ribosome
+Spliceosome
+Vault
+Cytoplasm
+Cytosol
+Inclusions
+Proteasome
+Magnetosome
+External
+Cell wall
+Extracellular matrix
+vteProtein biosynthesis: translation (bacterial, archaeal, eukaryotic)ProteinsInitiation factorBacterial
+IF1
+IF2
+IF3
+Mitochondrial
+MTIF1
+MTIF2
+MTIF3
+Archaeal
+aIF1
+aIF2
+aIF5
+aIF6
+EukaryoticeIF1
+eIF1
+B
+SUI1 family
+eIF1A
+Y
+eIF2
+ 
+ 
+ 
+eIF2B
+1
+2
+3
+4
+5
+kinase
+eIF2A
+eIF2D
+eIF3
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+eIF4
+A
+1
+2
+3
+E1
+2
+3
+G
+1
+2
+3
+B
+H
+eIF5
+EIF5
+EIF5A
+2
+5B
+eIF6
+EIF6
+Elongation factorBacterial/ Mitochondrial
+EF-Tu
+EF-Ts
+EF-G
+EF-4
+EF-P
+TSFM
+GFM1
+GFM2
+Archaeal/ Eukaryotic
+a/eEF-1
+A1
+2
+3
+B
+P1
+P2
+P3
+D
+E
+G
+a/eEF-2
+Release factor
+Class 1
+eRF1
+Class 2/RF3
+GSPT1
+GSPT2
+Ribosomal ProteinsCytoplasmic60S subunit
+RPL3
+RPL4
+RPL5
+RPL6
+RPL7
+RPL7A
+RPL8
+RPL9
+RPL10
+RPL10A
+RPL10-like
+RPL11
+RPL12
+RPL13
+RPL13A
+RPL14
+RPL15
+RPL17
+RPL18
+RPL18A
+RPL19
+RPL21
+RPL22
+RPL23
+RPL23A
+RPL24
+RPL26
+RPL27
+RPL27A
+RPL28
+RPL29
+RPL30
+RPL31
+RPL32
+RPL34
+RPL35
+RPL35A
+RPL36
+RPL36A
+RPL37
+RPL37A
+RPL38
+RPL39
+RPL40
+RPL41
+RPLP0
+RPLP1
+RPLP2
+RRP15-like
+RSL24D1
+40S subunit
+RPSA
+RPS2
+RPS3
+RPS3A
+RPS4 (RPS4X, RPS4Y1, RPS4Y2)
+RPS5
+RPS6
+RPS7
+RPS8
+RPS9
+RPS10
+RPS11
+RPS12
+RPS13
+RPS14
+RPS15
+RPS15A
+RPS16
+RPS17
+RPS18
+RPS19
+RPS20
+RPS21
+RPS23
+RPS24
+RPS25
+RPS26
+RPS27
+RPS27A
+RPS28
+RPS29
+RPS30
+RACK1
+Mitochondrial39S subunit
+MRPL1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+28S subunit
+MRPS1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+Other concepts
+Aminoacyl tRNA synthetase
+Reading frame
+Start codon
+Stop codon
+Shine-Dalgarno sequence/Kozak consensus sequence
+vteRibosomal RNA / ribosome subunitsArchaea(70S)Large (50S):
+5S23SSmall (30S):
+16SBacteria(70S)Large (50S):
+5S23SSmall (30S):
+16SEukaryotesCytoplasmic (80S)Large (60S): 
+5S5.8S28SSmall (40S):
+18SMitochondrial (55S)Large (28S):
+MT-RNR2, 16SMT-tRNAValSmall (39S):
+MT-RNR1, 12SChloroplast (70S)Large (50S):
+5S4.5S23SSmall (30S):
+16SRibosomal proteins(See article table)
+Authority control: National 
+France
+BnF data
+Germany
+Israel
+United States
+Latvia
+Japan
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Ribosome&oldid=1146364919"

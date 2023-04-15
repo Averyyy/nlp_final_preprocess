@@ -1,0 +1,442 @@
+Chemical compound
+"NaN3" redirects here. Not to be confused with NaN.
+Not to be confused with sodium nitride.
+Sodium azide
+Names
+Other names
+Sodium trinitrideSmiteAzium
+Identifiers
+CAS Number
+26628-22-8 Y
+3D model (JSmol)
+Interactive image
+ChEBI
+CHEBI:278547 Y
+ChEMBL
+ChEMBL89295 Y
+ChemSpider
+30958 Y
+ECHA InfoCard
+100.043.487 
+EC Number
+247-852-1
+PubChem CID
+33557
+RTECS number
+VY8050000
+UNII
+968JJ8C9DV Y
+UN number
+1687
+CompTox Dashboard (EPA)
+DTXSID8020121 
+InChI
+InChI=1S/N3.Na/c1-3-2;/q-1;+1 YKey: PXIPVTKHYLBLMZ-UHFFFAOYSA-N YInChI=1/N3.Na/c1-3-2;/q-1;+1Key: PXIPVTKHYLBLMZ-UHFFFAOYAH
+SMILES
+[N-]=[N+]=[N-].[Na+]
+Properties
+Chemical formula
+NaN3
+Molar mass
+65.0099 g/mol   
+Appearance
+Colorless to white solid
+Odor
+Odorless
+Density
+1.846 g/cm3 (20 C)
+Melting point
+275 C (527 F; 548 K) violent decomposition
+Solubility in water
+38.9 g/100 mL (0 C) 40.8 g/100 mL (20 C) 55.3 g/100 mL (100 C)
+Solubility
+Very soluble in ammonia Slightly soluble in benzene Insoluble in ether, acetone, hexane, chloroform
+Solubility in methanol
+2.48 g/100 mL (25 C)
+Solubility in ethanol
+0.22 g/100 mL (0 C)
+Acidity (pKa)
+4.8
+Structure
+Crystal structure
+Hexagonal, hR12[1]
+Space group
+R-3m, No. 166
+Thermochemistry
+Heat capacity (C)
+76.6 J/mol K
+Std molarentropy (S 298)
+70.5 J/mol K
+Std enthalpy offormation ( fH 298)
+21.3 kJ/mol
+Gibbs free energy ( fG )
+99.4 kJ/mol
+Hazards
+GHS labelling:
+Pictograms
+   
+Signal word
+Danger
+Hazard statements
+H300, H310, H410
+Precautionary statements
+P260, P280, P301+P310, P501 [2]
+NFPA 704 (fire diamond)
+4
+1
+3
+Flash point
+300 C (572 F; 573 K)
+Lethal dose or concentration (LD, LC):
+LD50 (median dose)
+27 mg/kg (oral, rats/mice)[1]
+NIOSH (US health exposure limits):
+PEL (Permissible)
+None[3]
+REL (Recommended)
+C 0.1 ppm (as HN3) [skin] C 0.3 mg/m3 (as NaN3) [skin][3]
+IDLH (Immediate danger)
+N.D.[3]
+Safety data sheet (SDS)
+ICSC 0950
+Related compounds
+Other anions
+Sodium cyanide
+Other cations
+Potassium azideAmmonium azide
+Except where otherwise noted, data are given for materials in their standard state (at 25 C [77 F], 100 kPa).
+N verify (what is YN ?)
+Infobox references
+Chemical compound
+Sodium azide is the inorganic compound with the formula NaN3. This colorless salt is the gas-forming component in some car airbag systems. It is used for the preparation of other azide compounds. It is an ionic substance, is highly soluble in water and is very acutely poisonous.[5]
+Structure[edit]
+Sodium azide is an ionic solid. Two crystalline forms are known, rhombohedral and hexagonal.[1][6] Both adopt layered structures. The azide anion is very similar in each form, being centrosymmetric with N N distances of 1.18  . The Na+ ion has an octahedral geometry. Each azide is linked to six Na+ centers, with three Na N bonds to each terminal nitrogen center.[7]
+Preparation[edit]
+The common synthesis method is the "Wislicenus process", which proceeds in two steps in liquid ammonia. In the first step, ammonia is converted to sodium amide by metallic sodium:
+2 Na + 2 NH3   2 NaNH2 + H2
+It is a redox reaction in which metallic sodium gives an electron to a proton of ammonia which is reduced in hydrogen gas. Sodium easily dissolves in liquid ammonia to produce hydrated electrons responsible of the blue color of the resulting liquid. The Na+ and NH 2 ions are produced by this reaction. 
+The sodium amide is subsequently combined with nitrous oxide:
+2 NaNH2 + N2O   NaN3 + NaOH + NH3
+These reactions are the basis of the industrial route, which produced about 250 tons per year in 2004, with production increasing due to the increased use of airbags.[5]
+Laboratory methods[edit]
+Curtius and Thiele developed another production process, where a nitrite ester is converted to sodium azide using hydrazine. This method is suited for laboratory preparation of sodium azide:
+2 NaNO2 + 2 C2H5OH + H2SO4   2 C2H5ONO + Na2SO4 + 2 H2O
+C2H5ONO + N2H4 H2O + NaOH   NaN3 + C2H5OH + 3 H2O
+Alternatively the salt can be obtained by the reaction of sodium nitrate with sodium amide.[8]
+Chemical reactions[edit]
+Acid formation of hydrazoic acid[edit]
+Treatment of sodium azide with strong acids gives gaseous hydrazoic acid (hydrogen azide; HN3), which is also extremely toxic:
+H+ + N 3   HN3
+Hydrazoic acid equilibrium[edit]
+Aqueous solutions contain minute amounts of hydrazoic acid , the formation of which is described by the following equilibrium:
+N 3 + H2O   HN3 + OH , K = 10 4.6
+Destruction[edit]
+Sodium azide can be destroyed by treatment with in situ prepared nitrous acid (HNO2; not HNO3).[9][10] In situ preparation is necessary as HNO2 is unstable and decomposes rapidly in aqueous solutions. This destruction must be done with great caution & within a chemical fume hood as the formed gaseous nitric oxide (NO) is also toxic, and an incorrect order of acid addition for in situ formation of HNO2 will instead produce gaseous highly toxic hydrazoic acid (HN3).[9]
+2 NaN3 + 2 HNO2   3 N2 + 2 NO + 2 NaOH
+Applications[edit]
+Automobile airbags and aircraft evacuation slides[edit]
+Older airbag formulations contained mixtures of oxidizers and sodium azide and other agents including ignitors and accelerants. An electronic controller detonates this mixture during an automobile crash:
+2 NaN3   2 Na + 3 N2
+The same reaction occurs upon heating the salt to approximately 300 C. The sodium that is formed is a potential hazard alone and, in automobile airbags, it is converted by reaction with other ingredients, such as potassium nitrate and silica. In the latter case, innocuous sodium silicates are generated.[11] While sodium azide is still used in evacuation slides on modern aircraft, newer-generation automotive air bags contain less sensitive explosives such as nitroguanidine or guanidine nitrate.
+Organic and inorganic synthesis[edit]
+Due to its explosion hazard, sodium azide is of only limited value in industrial-scale organic chemistry. In the laboratory, it is used in organic synthesis to introduce the azide functional group by displacement of halides. The azide functional group can thereafter be converted to an amine by reduction with either SnCl2 in ethanol or lithium aluminium hydride or a tertiary phosphine, such as triphenylphosphine in the Staudinger reaction, with Raney nickel or with hydrogen sulfide in pyridine.
+Sodium azide is a versatile precursor to other inorganic azide compounds, e.g., lead azide and silver azide, which are used in detonators as primary explosives. These azides are significantly more sensitive to premature detonation than sodium azide and thus have limited applications. Lead and silver azide can be made via double displacement reaction with sodium azide and their respective nitrate (most commonly) or acetate salts. Sodium azide can also react with the chloride salts of certain alkaline earth metals in aqueous solution, such as barium chloride or strontium chloride to respectively produce barium azide and strontium azide, which are also relatively sensitive primarily explosive materials. These azides can be recovered from solution through careful desiccation.
+Biochemistry and biomedical uses[edit]
+Sodium azide is a useful probe reagent, and an antibacterial preservative for biochemical solutions. In the past merthiolate and chlorobutanol were also used as an alternative to azide for preservation of biochemical solutions.[12]
+Sodium azide is an instantaneous inhibitor of lactoperoxidase, which can be useful to stop lactroperoxidase catalyzed 125I protein radiolabeling experiments.[13]
+In hospitals and laboratories, it is a biocide; it is especially important in bulk reagents and stock solutions which may otherwise support bacterial growth where the sodium azide acts as a bacteriostatic by inhibiting cytochrome oxidase in gram-negative bacteria; however, some gram-positive bacteria (streptococci, pneumococci, lactobacilli) are intrinsically resistant.[14]
+Agricultural uses[edit]
+It is used in agriculture for pest control of soil-borne pathogens such as Meloidogyne incognita or Helicotylenchus dihystera.[15]
+It is also used as a mutagen for crop selection of plants such as rice,[16] barley[17] or oats.[18]
+Safety considerations[edit]
+Sodium azide can be fatally toxic,[19] and even minute amounts can cause symptoms. The toxicity of this compound is comparable to that of soluble alkali cyanides,[20] although no toxicity has been reported from spent airbags.[21]
+It produces extrapyramidal symptoms with necrosis of the cerebral cortex, cerebellum, and basal ganglia. Toxicity may also include hypotension,[22] blindness and hepatic necrosis. Sodium azide increases cyclic GMP levels in the brain and liver by activation of guanylate cyclase.[23]
+Sodium azide solutions react with metallic ions to precipitate metal azides, which can be shock sensitive and explosive. This should be considered for choosing a non-metallic transport container for sodium azide solutions in the laboratory. This can also create potentially dangerous situations if azide solutions should be directly disposed down the drain into a sanitary sewer system. Metal in the plumbing system could react, forming highly sensitive metal azide crystals which could accumulate over years. Adequate precautions are necessary for the safe and environmentally responsible disposal of azide solution residues.[24]
+References[edit]
+^ a b c Stevens E. D.; Hope H. (1977). "A Study of the Electron-Density Distribution in Sodium Azide, NaN3". Acta Crystallographica A. 33 (5): 723 729. doi:10.1107/S0567739477001855.
+^ "Sodium azide".
+^ a b c NIOSH Pocket Guide to Chemical Hazards. "#0560". National Institute for Occupational Safety and Health (NIOSH).
+^ "Material Safety Data Sheet" (PDF). Sciencelab.com. November 6, 2008. Archived from the original (PDF) on March 4, 2016. Retrieved October 26, 2015.
+^ a b Jobelius, Horst H.; Scharff, Hans-Dieter (2000). "Hydrazoic Acid and Azides". Ullmann's Encyclopedia of Industrial Chemistry. Wiley-VCH. doi:10.1002/14356007.a13_193. ISBN 9783527306732.
+^ Wells, A. F. (1984), Structural Inorganic Chemistry (5th ed.), Oxford: Clarendon Press, ISBN 0-19-855370-6
+^ Pringle, G. E.; Noakes, D. E. (1968-02-15). "The crystal structures of lithium, sodium and strontium azides". Acta Crystallographica Section B. 24 (2): 262 269. doi:10.1107/s0567740868002062.
+^ Holleman, Arnold Frederik; Wiberg, Egon (2001),  Wiberg, Nils (ed.), Inorganic Chemistry, translated by Eagleson, Mary; Brewer, William, San Diego/Berlin: Academic Press/De Gruyter, ISBN 0-12-352651-5.
+^ a b Committee on Prudent Practices for Handling, Storage, and Disposal of Chemicals in Laboratories, Board on Chemical Sciences and Technology, Commission on Physical Sciences, Mathematics, and Applications, National Research Council (1995). "Disposal of Waste". Prudent Practices in the Laboratory: Handling and Disposal of Chemicals. Washington, DC: National Academy Press. p. 165. ISBN 978-0-309-05229-0.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+^ Turnbull, Kenneth; Narsaiah, B.; Yadav, J. S.; Yakaiah, T.; Lingaiah, B. P. V. (2008-03-14), Sodium Azide, Chichester, UK: John Wiley & Sons, Ltd, doi:10.1002/047084289x.rs045.pub2
+^ Betterton, E. A. (2003). "Environmental Fate of Sodium Azide Derived from Automobile Airbags". Critical Reviews in Environmental Science and Technology. 33 (4): 423 458. doi:10.1080/10643380390245002. S2CID 96404307.
+^ Scopes, Robert K. (1994). Protein Purification. New York, NY: Springer New York. p. 204. doi:10.1007/978-1-4757-2333-5. ISBN 978-1-4419-2833-7.
+^ Deutscher, M.P. (1990). Guide to Protein Purification. Methods in enzymology. Academic Press. p. 729. ISBN 978-0-12-182083-1. Retrieved 2023-04-10.
+^ Lichstein, H. C.; Soule, M. H. (1943). "Studies of the Effect of Sodium Azide on Microbic Growth and Respiration: I. The Action of Sodium Azide on Microbic Growth". Journal of Bacteriology. 47 (3): 221 230. doi:10.1128/JB.47.3.221-230.1944. PMC 373901. PMID 16560767.
+^ Applications of sodium azide for control of soilborne pathogens in potatoes. Rodriguez-Kabana, R., Backman, P. A. and King, P.S., Plant Disease Reporter, 1975, Vol. 59, No. 6, pp. 528-532 (link)
+^ Awan, M. Afsar; Konzak, C. F.; Rutger, J. N.; Nilan, R. A. (2000-01-01). "Mutagenic Effects of Sodium Azide in Rice1". Crop Science. 20 (5): 663 668. doi:10.2135/cropsci1980.0011183x002000050030x.
+^ Cheng, Xiongying; Gao, Mingwei (1988). "Biological and genetic effects of combined treatments of sodium azide, gamma rays and EMS in barley". Environmental and Experimental Botany. 28 (4): 281 288. doi:10.1016/0098-8472(88)90051-2.
+^ Rines, H. W. (1985-02-01). "Sodium azide mutagenesis in diploid and hexaploid oats and comparison with ethyl methanesulfonate treatments". Environmental and Experimental Botany. 25 (1): 7 16. doi:10.1016/0098-8472(85)90043-7.
+^ Chang, Soju; Lamm, Steven H. (2003-05-01). "Human Health Effects of Sodium Azide Exposure: A Literature Review and Analysis". International Journal of Toxicology. 22 (3): 175 186. doi:10.1080/10915810305109. ISSN 1091-5818. PMID 12851150. S2CID 38664824.
+^ "MSDS: sodium azide". Mallinckrodt Baker. 2008-11-21. MSDS S2906.
+^ Olson, Kent; Anderson, Ilene B. (18 September 2006). Poisoning & Drug Overdose, 5th Edition. McGraw-Hill Companies,Incorporated. pp. 123 . ISBN 978-0-07-144333-3.
+^ Gordon, Steven M.; Drachman, Jonathan; Bland, Lee A.; Reid, Marie H.; Favero, Martin; Jarvis, William R. (1990-01-01). "Kidney International - Abstract of article: Epidemic hypotension in a dialysis center caused by sodium azide". Kidney Int. 37 (1): 110 115. doi:10.1038/ki.1990.15. ISSN 0085-2538. PMID 2299796.
+^ Kimura, Hiroshi; Mittal, Chandra K.; Murad, Ferid (1975-10-23). "Increases in cyclic GMP levels in brain and liver with sodium azide an activator of guanylate cyclase". Nature. 257 (5528): 700 702. Bibcode:1975Natur.257..700K. doi:10.1038/257700a0. PMID 241939. S2CID 115294.
+^ "Sodium Azide | Environmental Health & Safety | Northeastern University".
+External links[edit]
+International Chemical Safety Card 0950.
+NIOSH Pocket Guide to Chemical Hazards.
+R., Frances (2006). "Is there poison in auto air bags?". The Straight Dope. Archived from the original on 2020-07-31. Retrieved 2022-10-25.
+vteSodium compoundsInorganicHalides
+NaF
+NaHF2
+NaCl
+NaBr
+NaI
+NaAt
+Chalcogenides
+NaO2
+Na2O
+Na2O2
+NaOH
+NaOD
+Na2S
+NaSH
+Na2Se
+NaSeH
+Na2Te
+Na2Po
+Pnictogenides
+Na3N
+NaN3
+NaNH2
+Na3P
+Na3As
+Oxyhalides
+NaClO
+NaClO2
+NaClO3
+NaClO4
+NaBrO
+NaBrO2
+NaBrO3
+NaBrO4
+NaIO3
+NaIO4
+Oxychalcogenides
+NaHSO3
+NaHSO4
+Na2SO4
+Na2S2O3
+Na2S2O7
+Na2S2O8
+Na2SO3
+Na2S2O4
+Na2S2O5
+Na2S2O6
+Na2SeO3
+Na2SeO4
+NaHSeO3
+Na2TeO3
+Oxypnictogenides
+NaNO2
+NaNO3
+NaNO4
+Na2N2O2
+NaH2PO4
+NaPO2H2
+Na2HPO3
+Na2PO3F
+Na3PS2O2
+Na3PO4
+Na5P3O10
+Na4P2O7
+Na2H2P2O7
+Na3AsO3
+Na3AsO4
+Na2HAsO4
+NaH2AsO4
+NaSbO3
+Others
+NaAlH4
+NaAlO2
+Na3AlF6
+NaAl(SO4)2
+NaBH4
+NaBH3(CN)
+NaBO2
+Na2B4O7
+Na2B2O9
+Na2B8O13
+NaBiO3
+NaCN
+NaCNO
+NaCoO2
+NaH
+NaHCO3
+NaHXeO4
+NaMnO4
+NaOCN
+NaReO4
+NaSCN
+NaTcO4
+NaVO3
+Na2CO3
+Na2C2O4
+Na2C3S5
+Na2CrO4
+Na2Cr2O7
+Na2GeO3
+Na2He
+Na2[Fe(CO)4]
+Na2MnO4
+Na2MoO4
+Na3IrCl6
+Na2PtCl6
+Na2O(UO3)2
+Na2S4O6
+Na2SiO3
+Na2TiO3
+Na2U2O7
+Na2WO4
+Na2Zn(OH)4
+Na3VO4
+Na6V10O28
+Na4Fe(CN)6
+Na3Fe(C2O4)3
+Na4SiO4
+Na2SiF6
+NaNSi6
+Na2PdCl4
+Organic
+NaCH3COO
+NaC6H5CO2
+NaC6H4(OH)CO2
+NaC10H8
+C6H16AlNaO4
+NaC6H7O6
+C5H8NO4Na
+C6H5Na
+C4H9Na
+NaC5H5
+C164H256O68S2Na2
+Chemical formulas
+vteSalts and covalent derivatives of the azide ion
+HN3
+He
+LiN3
+Be(N3)2
+B(N3)3
+CH3N3,C(N3)4
+NH4N3N3NON(N3)3,H2N N3
+O
+FN3
+Ne
+NaN3
+Mg(N3)2
+Al(N3)3
+Si(N3)4
+P
+SO2(N3)2
+ClN3
+Ar
+KN3
+Ca(N3)2
+Sc(N3)3
+Ti(N3)4
+VO(N3)3
+Cr(N3)3, CrO2(N3)2
+Mn(N3)2
+Fe(N3)2, Fe(N3)3
+Co(N3)2, Co(N3)3
+Ni(N3)2
+CuN3, Cu(N3)2
+Zn(N3)2
+Ga(N3)3
+Ge
+As
+Se(N3)4
+BrN3
+Kr
+RbN3
+Sr(N3)2
+Y(N3)3
+Zr(N3)4
+Nb
+Mo
+Tc
+Ru(N3)63 
+Rh(N3)63 
+Pd(N3)2
+AgN3
+Cd(N3)2
+In
+Sn
+Sb
+Te
+IN3
+Xe(N3)2
+CsN3
+Ba(N3)2
+*
+Lu(N3)3
+Hf
+Ta
+W
+Re
+Os
+Ir(N3)63 
+Pt(N3)62 
+Au(N3)4 
+Hg2(N3)2, Hg(N3)2
+TlN3
+Pb(N3)2
+Bi(N3)3
+Po
+At
+Rn
+Fr
+Ra(N3)2
+**
+Lr
+Rf
+Db
+Sg
+Bh
+Hs
+Mt
+Ds
+Rg
+Cn
+Nh
+Fl
+Mc
+Lv
+Ts
+Og
+ 
+*
+La(N3)3
+Ce(N3)3, Ce(N3)4
+Pr
+Nd
+Pm
+Sm(N3)3
+Eu(N3)3
+Gd(N3)3
+Tb
+Dy(N3)3
+Ho(N3)3
+Er
+Tm
+Yb(N3)3
+**
+Ac(N3)3
+Th(N3)4
+Pa
+UO2(N3)2
+Np
+Pu
+Am
+Cm
+Bk
+Cf
+Es
+Fm
+Md
+No
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Sodium_azide&oldid=1149538145"

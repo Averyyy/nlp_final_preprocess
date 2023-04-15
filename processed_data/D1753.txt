@@ -1,0 +1,359 @@
+2009 portable media player by Microsoft
+Zune HDManufacturerMicrosoftTypePortable media playerRelease dateSeptember 15, 2009[1]DiscontinuedOctober 3, 2011Operating systemWindows CE 6.0[2]CPUNvidia Tegra APX 2600One ARM11 and one ARM7 general processing cores[3][4]Memory128MB Hynix SDRAM[5]StorageFlash memory16, 32 and 64 GBDisplay480 x 272 px (167 ppi, 3.3 in (1.62 in x 2.88 in), 16:9 aspect ratio, OLED displayGraphicsNvidia Tegra APX 2600Several cores dedicated to 2D and 3D graphics, audio, video, HD decoding[3]InputMulti-touch touchscreen display, accelerometer, HD RadioConnectivityWi-Fi (802.11b/g), USB 2.0, HDMIPower3.7 V 660 mAhInternal rechargeable non-removable lithium-ion polymer batteryAudio - 33 hours (wireless off)Video - 8.5 hoursOnline servicesZune MarketplaceDimensions52.7 mm (2.07 in) (w)102.1 mm (4.02 in) (h)8.9 mm (0.35 in) (d)Mass74 g (2.6 oz)PredecessorZune 80, 120SuccessorWindows Phone
+The Zune HD is a portable media player in the Zune product family released on September 15, 2009, by Microsoft. It was a direct competitor with Apple's iPod Touch series of mobile devices. It was initially released in 16 and 32 GB capacities.[6] A 64 GB version was released on April 9, 2010. It has a touchscreen interface for navigation and included Wi-Fi for synchronization, access to the Zune Marketplace and Web browsing.
+The Zune HD utilized the Nvidia Tegra APX 2600 chip,[7] allowing it to play 720p video through the optional HDMI Zune dock on a high-definition television. Otherwise, content would be scaled down to 480 272 pixels on the player's OLED touchscreen.[8]
+History[edit]
+Soon after Apple released the iPod Touch[citation needed], Microsoft R&D department head, Robbie Bach, began work on a touchscreen Zune player to combat it. The department started immediately on reworking the Windows CE based OS of the older Zune to suit the new multitouch PMP. Astro Studios was contracted to design the Zune HD's aluminium casing.[9] On June 19, 2009, Zune Insider host Matt Akers confirmed that the Zune HD would have an Nvidia Tegra APX 2600 chip and OLED touchscreen.[citation needed]
+The Zune HD was released on September 15, 2009 to retail markets in black and platinum colors and 16 or 32GB capacities; additionally, red-, green-, and blue-colored models were available through the online Zune Originals store.[10]
+Two months later, on November 6, 2009, firmware update 4.3 was released.[11] The new firmware version improved the performance of the web browser, added support for the apps that were to be released in the days that followed, and fixed several notable bugs. On November 11, 2009, several new apps appeared on the Zune Marketplace. The apps included Project Gotham Racing: Ferrari Edition, Audiosurf: Tilt, Lucky Lanes Bowling, Vans Sk8: Pool Service, Checkers, and Piano.[12]
+The Zune HD's Twitter app was released on December 16, 2009 to the Zune Marketplace;[13] however, it was soon noticed that the app was censoring tweets. Microsoft promptly fixed this following an outcry among Zune HD owners in version 1.1 of the app.[14]
+After previously being promised before the end of 2009,[15] the Facebook app was made available on the Zune Marketplace on March 1, 2010. Initially, the app had some API issues in which it could not download most information from Facebook, but these issues were corrected 2 days later without a software update.[16]
+On April 5, 2010, after being announced at CES 2010,[17] firmware version 4.5 was released, bringing with it several new features, such as on-device Smart DJ (a feature that had been present in the PC software for some time), Xvid codec support, and Marketplace support through the optional dock.[18]
+Less than one week later, on the 9th of April, a 64GB capacity Zune HD went on sale; in addition, the 16GB and 32GB models released in September 2009 both had a price drop of US$20 on their MSRPs.[19][20]
+On October 3, 2011, Microsoft announced that it has discontinued all Zune hardware, encouraging users to transition to Windows Phone. While that announcement was initially removed as potentially erroneous,[21][22] it was reposted permanently and confirmed by Microsoft soon thereafter.
+In 2012, Microsoft launched Xbox Music, a successor to the Zune Marketplace. Leading up to the launch of that service, a number of features of Zune and the Zune Marketplace were discontinued. Zune HD apps were no longer available though the Zune Software, social components of Zune were deactivated, and limitations were placed on music video purchasing and viewing.[23]
+As of late 2012, the ability to download songs from the marketplace directly to the Zune HD has been discontinued.[24] According to the Zune Support Twitter feed, Microsoft will not be fixing it, instead announcing that it is part of the transition from Zune Music to Xbox Music.[25]
+Specifications[edit]
+The specifications as listed by the official web site of the Zune HD, as well as reported by various sources:[2][26]
+3.3-inch glass capacitive multi-touch OLED display with a 16:9 480x272 resolution
+Built-in accelerometer
+Windows Embedded CE 6.0 operating system
+16, 32, and 64 GB flash memory options[27]
+CPU and GPU: Nvidia Tegra APX with one ARM11 and one ARM7 processor cores, plus 6 other dedicated cores[4][28]
+RAM: 128 MB Hynix SDRAM[5]
+802.11b/g Wi-Fi with open, WEP, WPA, and WPA2 authentication modes and WEP 64-bit and 128-bit, TKIP, and AES encryption modes[26]
+Built-in rechargeable 3.7V 660mAh lithium-ion polymer battery with up to 33 hours of audio playback (wireless off) and 8.5 hours of video[29]
+Size: 52.7x102.1x8.9 mm (2.07x4.08x0.35 in)
+Weight: 74g (2.6 oz)[30]
+FM/HD Radio tuner
+Equalizer
+Web browser (based on Internet Explorer Mobile 6 for Windows CE)
+Support for apps built with Microsoft's XNA platform[31] The Zune restarts however every time XNA apps exit.[32]
+Audio output: Analog RCA and Optical Digital out (additional dock required)
+Audio support:[26]
+CBR and VBR audio, up to 48 kHz sample rate, for:
+WMA Standard up to 384 kbit/s (DRM protected files can be played only if purchased from the Zune Marketplace)
+WMA Pro stereo up to 768 kbit/s
+WMA Lossless stereo up to 768 kbit/s
+Unprotected AAC-LC (.mp4/.m4b) up to 320 kbit/s
+MP3 up to 320 kbit/s
+Video support:[26]
+WMV
+Main and Simple Profile, CBR or VBR
+720 x 480 pixels with a bit rate of up to 10.0 Mbit/s and a framerate of up to 30 frames per second.[26]
+720 x 576 pixels with a bit rate of up to 10.0 Mbit/s and a framerate of up to 25 frames per second.[26]
+Advanced profile up to L2, CBR or VBR
+1280 x 720 pixels with a bit rate of up to 14.0 Mbit/s, and a framerate of up to 30 frames per second.[26]
+Up to 720p resolution and 14 Mbit/s bit rate, CBR or VBR for:
+H.264, Baseline Profile up to Level 3.1 support[26]
+VC-1 Main and Simple Profile, Advanced profile up to Level 2.
+MPEG-4 Part 2 Advanced Simple Profile up to 4.0 Mbit/s bit rate
+720p high definition video output using HDMI or composite connections (additional dock required for both)
+Features[edit]
+Main article: List of Zune applications
+Apps[edit]
+As of August 2011, the Zune Marketplace has 62 apps for Zune HD, of which 42 are games. All of the apps and games are free. Apps available excluding games are Calendar, Fingerpaint, Stopwatch, Alarm Clock, Chord Finder, Facebook, Twitter, MSN Money, MSN Weather, Calculator, Piano, Metronome, Level, Drum Machine, Fan Prediction, Shuffle by Album, Windows Live Messenger, Notes, Email and Zune Reader. An extension to the Microsoft XNA framework providing development support for the Zune HD was released on September 16, 2009.[31] The Zune PC Software can be used for adding apps to the Zune HD.[15] The Windows Live Messenger app for the Zune HD was released on October 1, 2010, making Messenger available for all major mobile platforms. The email app was released for the Zune HD in April 2011 allowing users to sync with their email accounts and download folders and emails. The app is similar to the email interface on the Windows Phone.
+No new apps have been released for Zune HD after August 2011.
+Games[edit]
+Several games have been released for the Zune HD, including portable versions of Audiosurf, Hexic, and Project Gotham Racing. Independent titles written with XNA are also available from multiple sources.
+On April 20, 2010, an independent app developer released a port of Doom,[33] one of the first independent 3D games to be developed for the Zune HD, using OpenZDK.
+Web browser[edit]
+The browser features favorites and Bing search. The keyboard can be accessed by touching a text box, swiping up from the bottom bar of the browser and touching the address bar, or touching the magnifying glass (search) icon on the bottom bar of the browser. The keyboard has portrait orientation, with the keys bulging around the user's finger when touched. The web browser has pinch and stretch for zooming and page reorientation due to the built in accelerometer.[8] The Zune HD web browser scores 5/100 in the Acid3 test.[34] As of the launch, the Zune HD's web browser does not support Adobe Flash applications, such as video playback on YouTube, and no plans have been made to bring Flash support to the device.
+With the 4.3 firmware update, browsing performance was improved, and users can change the Internet settings to display the browser optimized for a Mobile device or for a PC experience. In addition, users can now enable "auto correct" and "auto capitalize" when using the keyboard to enter information, making it easier to type content into the browser.
+With the 4.5 firmware update, browsing performance was further improved. In addition, Smart DJ playlists, Picks, expanded video codec support, and the ability to download photos and sort favorites by name and date were included in the update.
+Metro[edit]
+Main article: Metro Design Language
+The Zune HD was the forebearer of Microsoft's typography-based design language, Metro which ultimately came to fruition with Windows Phone. The short-lived Kin phones also share a similar typography focused design. It uses a font family called "Zegoe", which is a modified version of Microsoft's font family, Segoe.
+Technology news website Gizmodo labeled the Zune HD's UI as "an evolution of the PMP not a devolution of some smartphone model. Every new feature it has is used to expand the way you absorb media, from the HD video output to the HD radio to the redesigned UI."[35]
+OpenZDK[edit]
+Prior to the release of the OpenZDK development kit, writing applications for the Zune required the use of Microsoft's XNA development environment. Instead of using XNA, developers can now write apps in C++ that run natively on the Zune, without the overhead of the XNA library. Developers can also access APIs previously used only by Microsoft, such as the 3D graphics and Internet APIs.
+See also[edit]
+Comparison of portable media players
+List of portable media players with Wi-Fi connectivity
+List of defunct consumer brands
+Windows Phone
+References[edit]
+^ Miller, Ross (2010-07-22). "Microsoft reports 1 million Zunes sold". Microsoft, via ZuneScene. Retrieved 2010-07-29.
+^ a b Fried, Ina (26 May 2009). "Microsoft confirms Zune HD coming this fall". CNET. Archived from the original on 28 May 2009. Retrieved 2009-05-27.
+^ a b Sajid, Uzair (4 April 2009). "Zune HD Powered by NVIDIA Tegra". Archived from the original on 2009-04-23. Retrieved 2009-05-27.
+^ a b "NVIDIA Tegra APX Applications Processors". Retrieved 2009-10-08.
+^ a b Galan, Walter (2006-09-24). "Microsoft Zune HD Teardown". iFixit. Retrieved 2010-05-11.
+^ "Preorder now available". Microsoft. 2006-08-13. Retrieved 2010-07-29.
+^ Cross, Jason (2006-08-16). "Zune HD Specs Including Tegra Details". PCWorld.com.
+^ a b Bell, Donald (2006-08-04). "Zune HD hands-on look, impressions, tears of joy". CNET. Archived from the original on 6 August 2009. Retrieved 2010-05-11.
+^ Galbraith, Tom (2009-09-18). "Astro teams up with Microsoft on the new Zune HD". Astro Studios. Archived from the original on 24 September 2009. Retrieved 2010-07-29.
+^ Melanson, Donald (2009-08-13). "Zune HD color options revealed in email". Engadget. Retrieved 2010-05-09.
+^ Murph, Darren (2009-11-07). "Zune HD v4.3 firmware out now: fixes playcount bug, adds lots of great things". Engadget. Retrieved 2010-05-09.
+^ Savov, Vladislav (2009-11-11). "Zune HD Marketplace now loaded with free 3D games". Engadget. Retrieved 2010-05-09.
+^ Patel, Nilay (2009-12-16). "Zune HD Twitter app now live UPDATE: it censors tweets!". Engadget. Retrieved 2010-05-09.
+^ Patel, Nilay (2009-12-17). "Microsoft updating Zune HD Twitter to stop censoring tweets". Engadget. Retrieved 2010-05-09.
+^ a b Ricker, Thomas (2009-09-15). "Zune HD gaming and app downloads confirmed: Twitter, Facebook, and 3D games on the way (updated)". Engadget. Retrieved 2010-05-11.
+^ Miller, Paul (2010-03-01). "Facebook app now available for Zune HD (update: it's also broken)". Engadget. Retrieved 2010-05-09.
+^ Bell, Donald (2010-01-07). "Zune HD to get XviD, better playlists". CNET. Archived from the original on 14 January 2010. Retrieved 2010-05-11.
+^ Miller, Ross (2010-04-05). "Zune HD v4.5 firmware now available". Engadget. Retrieved 2010-05-09.
+^ Miller, Ross (2010-03-31). "64GB Zune HD launching April 12th for $350, current models reduced $20". Engadget. Retrieved 2010-05-09.
+^ Melanson, Donald (2010-04-09). "Zune HD 64 goes on sale early". Engadget. Retrieved 2010-05-09.
+^ George Ponder (2011-10-05). "Rising from the ashes, the Zune HD still lives?". Wpcentral.com. Archived from the original on 7 October 2011. Retrieved 2013-02-04.
+^ Sheeds (October 4, 2011). "Zune Hardware stay of execution...Officially?". Wpdownunder.com. Archived from the original on 8 October 2011. Retrieved 2013-02-04.
+^ Musil, Steven (29 August 2012). "Microsoft axes handful of Zune Music features". CNET. Retrieved 30 August 2012.
+^ "Twitter/keithharold: @ZuneSupport My Zune HD is". Twitter. Twitter.com. Retrieved 2013-06-15.
+^ "Twitter/ZuneSupport: @MichaelLuvsU Both these". Twitter.com. Retrieved 2013-06-15.
+^ a b c d e f g h "Zune HD 32/tech specs". Microsoft. Archived from the original on 22 September 2009. Retrieved 2009-01-10.
+^ Miller, Ross (2009-08-10). "Zune HD hits FCC in prolific photo shoot, 16 and 32 Gb capacities". Engadget. Retrieved 2009-08-10.
+^ "NVIDIA Tegra Provides The Multimedia Muscle In Zune HD". Archived from the original on 20 August 2009. Retrieved 2009-09-03.
+^ "Zune HD hits FCC in prolific photo shoot, Li-Ion Battery". CNET. Archived from the original on 19 August 2009. Retrieved 2009-08-24.
+^ "Zune HD Product Information". Microsoft Store. Archived from the original on 16 August 2009.
+^ a b "Microsoft XNA Game Studio 3.1 Zune Extensions". Archived from the original on 22 September 2009.
+^ "Zune Games and Rebooting Devices: Michael Klucher's Blog on Game development on Zune, Windows Phone, Xbox 360, and Windows in .NET". Klucher.com. Archived from the original on August 28, 2011. Retrieved 2013-02-04.
+^ "Doom for the Zune HD 1.2". Zuneboards.com. Archived from the original on 25 April 2010. Retrieved 2013-02-04.
+^ Rosoff, Matt (2009-09-15). "Zune HD: You call that a browser?". cnet.com. Retrieved 2020-01-05.
+^ Nosowitz, Dan (2009-09-16). "Zune HD Review: The PMP, Evolved". Gizmodo. Retrieved 2010-07-29.
+External links[edit]
+Wikimedia Commons has media related to Zune HD.
+Zune Official Website
+Zune HD Official Page
+Zune HD Nvidia Webpage
+Zune Originals
+OpenZDK
+vteMicrosoft ZuneDevelopment historyHardware
+Zune 30
+Zune 4, 8, 16, 80 and 120
+Zune Pad
+Zune HD
+Software
+Bing Audio
+Internet Explorer Mobile
+Zune Marketplace
+Applications
+Zune Music Pass
+Zune Social
+Zune software
+Services
+Zune Music
+Zune Video
+vteMicrosoft
+History
+Outline
+PeopleFounders
+Bill Gates
+Paul Allen
+Board of directors
+John W. Thompson (Chairman)
+Satya Nadella (CEO)
+Charles Noski
+Helmut Panke
+John W. Stanton
+Reid Hoffman
+Sandi Peterson
+Penny Pritzker
+Charles Scharf
+Arne Sorenson
+Padmasree Warrior
+Senior leadership team
+Satya Nadella (CEO)
+Scott Guthrie
+Amy Hood (CFO)
+Brad Smith (CLO)
+Harry Shum
+Phil Spencer
+Kathleen Hogan (CPO)
+Corporate VPs
+Joe Belfiore
+Richard Rashid (SVP)
+C sar Cernuda
+Panos Panay (CVP)
+Employee groups
+Global LGBTQIA+ Employee & Allies at Microsoft
+Microsoft and unions
+ProductsHardware
+Azure Kinect
+HoloLens
+LifeCam
+LifeChat
+Surface
+Hub
+Go
+Laptop
+Laptop Go
+Pro
+Studio
+Duo
+Neo
+Xbox
+Software
+Microsoft 365
+Clipchamp
+Dynamics
+Havok
+Open source software
+Office
+Power Platform
+Servers
+Tay
+Visual Studio
+Visual Studio Code
+Windows
+Xbox OS
+Programming languages
+BASIC
+VB.NET
+VBA
+VBScript
+Visual Basic
+C#
+C/AL a.k.a Navision Attain
+F#
+MVPL
+Power Fx
+PowerShell
+Transact-SQL
+TypeScript
+Q#
+Visual J#
+Visual J++
+Web properties
+Azure
+Bing
+Docs
+Channel 9
+Developer Network
+TechNet
+GitHub
+LinkedIn
+LinkedIn Learning
+MSN
+Outlook.com
+Store
+Translator
+CompanyConferences
+Build
+Ignite
+Inspire
+MIX
+PDC
+WinHEC
+Divisions
+Engineering groups
+Mobile
+Skype unit
+Digital Crimes Unit
+Garage
+Press
+Research
+.NET Foundation
+Outercurve Foundation
+Xbox Game Studios
+Estates
+Microsoft Redmond campus
+Microsoft Egypt
+Microsoft India
+Microsoft Japan
+Microsoft Theater
+Campaigns
+Where do you want to go today? (1994)
+Champagne (2002)
+Mojave Experiment (2006)
+I'm a PC (2008)
+Scroogled (2012)
+Criticism
+Bundling of Microsoft Windows
+Clippy
+iLoo
+Internet Explorer
+Microsoft Bob
+_NSAKEY
+Windows
+XP
+Vista
+10
+Litigation
+Alcatel-Lucent v. Microsoft
+Apple v. Microsoft
+European Union Microsoft competition case
+Microsoft v. Lindows
+Microsoft v. MikeRoweSoft
+Microsoft v. Shah
+United States v. Microsoft (2001 antitrust case)
+Microsoft Ireland case
+Acquisitions
+6Wunderkinder
+Access Software
+Acompli
+Altamira Software
+AltspaceVR
+aQuantive
+Azyxxi
+The Blue Ribbon SoundWorks
+Beam
+Bungie
+Calista Technologies
+Clipchamp
+Colloquis
+Compulsion Games
+Connectix
+Consumers Software
+Danger
+Double Fine Productions
+Farecast
+FASA Studio
+Fast Search & Transfer
+Firefly
+Forethought
+GIANT Company Software
+GitHub
+GreenButton
+Groove Networks
+Havok Group
+High Heat Major League Baseball
+Hotmail
+inXile Entertainment
+Jellyfish.com
+LinkedIn
+LinkExchange
+Lionhead Studios
+Maluuba
+Massive Incorporated
+Metaswitch
+Mobile Data Labs
+Mojang Studios
+Ninja Theory
+Nokia Devices and Services
+npm
+Nuance Communications
+Obsidian Entertainment
+Onfolio
+Pando Networks
+Perceptive Pixel
+Playground Games
+PlaceWare
+Powerset
+Press Play
+ProClarity
+Rare
+Revolution Analytics
+RiskIQ
+ScreenTonic
+Secure Islands
+Simplygon
+Skype
+Sunrise Atelier
+SwiftKey
+Winternals Software
+Teleo
+Tellme Networks
+Twisted Pixel Games
+Undead Labs
+Vermeer Technologies
+Visio Corporation
+Vivaty
+VoloMetrix
+VXtreme
+WebTV Networks
+Xamarin
+Xandr
+AppNexus
+Yammer
+Yupi
+ZeniMax Media
+ Category
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Zune_HD&oldid=1141707120"

@@ -1,0 +1,405 @@
+Methods employed to reduce error in science tests
+For other uses, see Control and Treatment and control groups.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Scientific control" news  newspapers  books  scholar  JSTOR (August 2011) (Learn how and when to remove this template message)
+ Take identical growing plants (Argyroxiphium sandwicense) and give fertilizer to half of them. If there are differences between the fertilized treatment and the unfertilized treatment, these differences may be due to the fertilizer as long as there weren't other confounding factors that affected the result.  For example, if the fertilizer was spread by a tractor but no tractor was used on the unfertilized treatment, then the effect of the tractor needs to be controlled.
+A scientific control is an experiment or observation designed to minimize the effects of variables other than the independent variable (i.e. confounding variables).[1] This increases the reliability of the results, often through a comparison between control measurements and the other measurements. Scientific controls are a part of the scientific method.
+Controlled experiments[edit]
+See also: Scientific method and Experimental design
+Controls eliminate alternate explanations of experimental results, especially experimental errors and experimenter bias. Many controls are specific to the type of experiment being performed, as in the molecular markers used in SDS-PAGE experiments, and may simply have the purpose of ensuring that the equipment is working properly. The selection and use of proper controls to ensure that experimental results are valid (for example, absence of confounding variables) can be very difficult. Control measurements may also be used for other purposes: for example, a measurement of a microphone's background noise in the absence of a signal allows the noise to be subtracted from later measurements of the signal, thus producing a processed signal of higher quality.
+For example, if a researcher feeds an experimental artificial sweetener to sixty laboratories rats and observes that ten of them subsequently become sick, the underlying cause could be the sweetener itself or something unrelated. Other variables, which may not be readily obvious, may interfere with the experimental design. For instance, the artificial sweetener might be mixed with a dilutant and it might be the dilutant that causes the effect.  To control for the effect of the dilutant, the same test is run twice; once with the artificial sweetener in the dilutant, and another done exactly the same way but using the dilutant alone.  Now the experiment is controlled for the dilutant and the experimenter can distinguish between sweetener, dilutant, and non-treatment.  Controls are most often necessary where a confounding factor cannot easily be separated from the primary treatments.  For example, it may be necessary to use a tractor to spread fertilizer where there is no other practicable way to spread fertilizer.  The simplest solution is to have a treatment where a tractor is driven over plots without spreading fertilizer and in that way, the effects of tractor traffic are controlled.
+The simplest types of control are negative and positive controls, and both are found in many different types of experiments.[2] These two controls, when both are successful, are usually sufficient to eliminate most potential confounding variables: it means that the experiment produces a negative result when a negative result is expected, and a positive result when a positive result is expected.
+Negative[edit]
+See also: Placebo-controlled study
+Where there are only two possible outcomes, e.g. positive or negative, if the treatment group and the negative control both produce a negative result, it can be inferred that the treatment had no effect. If the treatment group and the negative control both produce a positive result, it can be inferred that a confounding variable is involved in the phenomenon under study, and the positive results are not solely due to the treatment.
+In other examples, outcomes might be measured as lengths, times, percentages, and so forth. In the drug testing example, we could measure the percentage of patients cured. In this case, the treatment is inferred to have no effect when the treatment group and the negative control produce the same results. Some improvement is expected in the placebo group due to the placebo effect, and this result sets the baseline upon which the treatment must improve upon. Even if the treatment group shows improvement, it needs to be compared to the placebo group. If the groups show the same effect, then the treatment was not responsible for the improvement (because the same number of patients were cured in the absence of the treatment). The treatment is only effective if the treatment group shows more improvement than the placebo group.
+Positive[edit]
+Positive controls are often used to assess test validity. For example, to assess a new test's ability to detect a disease (its sensitivity), then we can compare it against a different test that is already known to work. The well-established test is a positive control since we already know that the answer to the question (whether the test works) is yes.
+Similarly, in an enzyme assay to measure the amount of an enzyme in a set of extracts, a positive control would be an assay containing a known quantity of the purified enzyme (while a negative control would contain no enzyme). The positive control should give a large amount of enzyme activity, while the negative control should give very low to no activity.
+If the positive control does not produce the expected result, there may be something wrong with the experimental procedure, and the experiment is repeated. For difficult or complicated experiments, the result from the positive control can also help in comparison to previous experimental results. For example, if the well-established disease test was determined to have the same effect as found by previous experimenters, this indicates that the experiment is being performed in the same way that the previous experimenters did.
+When possible, multiple positive controls may be used if there is more than one disease test that is known to be effective, more than one might be tested. Multiple positive controls also allow finer comparisons of the results (calibration, or standardization) if the expected results from the positive controls have different sizes. For example, in the enzyme assay discussed above, a standard curve may be produced by making many different samples with different quantities of the enzyme.
+Randomization[edit]
+Main article: Random assignment
+In randomization, the groups that receive different experimental treatments are determined randomly. While this does not ensure that there are no differences between the groups, it ensures that the differences are distributed equally, thus correcting for systematic errors.
+For example, in experiments where crop yield is affected (e.g. soil fertility), the experiment can be controlled by assigning the treatments to randomly selected plots of land. This mitigates the effect of variations in soil composition on the yield.
+Blind experiments[edit]
+Main article: Blind experiment
+Blinding is the practice of withholding information that may bias an experiment. For example, participants may not know who received an active treatment and who received a placebo. If this information were to become available to trial participants, patients could receive a larger placebo effect, researchers could influence the experiment to meet their expectations (the observer effect), and evaluators could be subject to confirmation bias. A blind can be imposed on any participant of an experiment, including subjects, researchers, technicians, data analysts, and evaluators. In some cases, sham surgery may be necessary to achieve blinding.
+During the course of an experiment, a participant becomes unblinded if they deduce or otherwise obtain information that has been masked to them. Unblinding that occurs before the conclusion of a study is a source of experimental error, as the bias that was eliminated by blinding is re-introduced. Unblinding is common in blind experiments and must be measured and reported. Meta-research has revealed high levels of unblinding in pharmacological trials. In particular, antidepressant trials are poorly blinded. Reporting guidelines recommend that all studies assess and report unblinding. In practice, very few studies assess unblinding.[3]
+Blinding is an important tool of the scientific method, and is used in many fields of research. In some fields, such as medicine, it is considered essential.[4] In clinical research, a trial that is not blinded trial is called an open trial.
+See also[edit]
+False positives and false negatives
+Designed experiment
+Controlling for a variable
+James Lind cured scurvy using a controlled experiment that has been described as the first clinical trial.[5][6]
+Wait list control group
+References[edit]
+^ Life, Vol. II: Evolution, Diversity and Ecology: (Chs. 1, 21 33, 52 57). W. H. Freeman. 2006. p. 15. ISBN 978-0-7167-7674-1. Retrieved 14 February 2015.
+^ Johnson PD, Besselsen DG (2002). "Practical aspects of experimental design in animal research" (PDF). ILAR J. 43 (4): 202 206. doi:10.1093/ilar.43.4.202. PMID 12391395. Archived from the original (PDF) on 2010-05-29.
+^ Bello, Segun; Moustgaard, Helene; Hr bjartsson, Asbj rn (October 2014). "The risk of unblinding was infrequently and incompletely reported in 300 randomized clinical trial publications". Journal of Clinical Epidemiology. 67 (10): 1059 1069. doi:10.1016/j.jclinepi.2014.05.007. ISSN 1878-5921. PMID 24973822.
+^ "Oxford Centre for Evidence-based Medicine   Levels of Evidence (March 2009)". cebm.net. 11 June 2009. Archived from the original on 26 October 2017. Retrieved 2 May 2018.
+^ James Lind (1753). A Treatise of the Scurvy. PDF
+^ Simon, Harvey B. (2002). The Harvard Medical School guide to men's health. New York: Free Press. p. 31. ISBN 0-684-87181-5.
+External links[edit]
+"Control" . Encyclop dia Britannica. Vol. 7 (11th ed.). 1911.
+vteClinical research and experimental designOverview
+Clinical trial
+Trial protocols
+Adaptive clinical trial
+Academic clinical trials
+Clinical study design
+Controlled study(EBM I to II-1)
+Randomized controlled trial
+Scientific experiment
+Blind experiment
+Open-label trial
+Adaptive clinical trial
+Platform trial
+Observational study(EBM II-2 to II-3)
+Cross-sectional study vs. Longitudinal study, Ecological study
+Cohort study
+Retrospective
+Prospective
+Case control study (Nested case control study)
+Case series
+Case study
+Case report
+MeasuresOccurrenceIncidence, Cumulative incidence, Prevalence, Point prevalence, Period prevalenceAssociationRisk difference, Number needed to treat, Number needed to harm, Risk ratio, Relative risk reduction, Odds ratio, Hazard ratioPopulation impactAttributable fraction among the exposed, Attributable fraction for the population, Preventable fraction among the unexposed, Preventable fraction for the populationOtherClinical endpoint, Virulence, Infectivity, Mortality rate, Morbidity, Case fatality rate, Specificity and sensitivity, Likelihood-ratios, Pre- and post-test probabilityTrial/test types
+In vitro
+In vivo
+Animal testing
+Animal testing on non-human primates
+First-in-man study
+Multicenter trial
+Seeding trial
+Vaccine trial
+Analysis of clinical trials
+Risk benefit ratio
+Systematic review
+Replication
+Meta-analysis
+Intention-to-treat analysis
+Interpretation of results
+Selection bias
+Survivorship bias
+Correlation does not imply causation
+Null result
+Sex as a biological variable
+Category
+Glossary
+List of topics
+vteStatistics
+Outline
+Index
+Descriptive statisticsContinuous dataCenter
+Mean
+Arithmetic
+Arithmetic-Geometric
+Cubic
+Generalized/power
+Geometric
+Harmonic
+Heronian
+Heinz
+Lehmer
+Median
+Mode
+Dispersion
+Average absolute deviation
+Coefficient of variation
+Interquartile range
+Percentile
+Range
+Standard deviation
+Variance
+Shape
+Central limit theorem
+Moments
+Kurtosis
+L-moments
+Skewness
+Count data
+Index of dispersion
+Summary tables
+Contingency table
+Frequency distribution
+Grouped data
+Dependence
+Partial correlation
+Pearson product-moment correlation
+Rank correlation
+Kendall's  
+Spearman's  
+Scatter plot
+Graphics
+Bar chart
+Biplot
+Box plot
+Control chart
+Correlogram
+Fan chart
+Forest plot
+Histogram
+Pie chart
+Q Q plot
+Radar chart
+Run chart
+Scatter plot
+Stem-and-leaf display
+Violin plot
+Data collectionStudy design
+Effect size
+Missing data
+Optimal design
+Population
+Replication
+Sample size determination
+Statistic
+Statistical power
+Survey methodology
+Sampling
+Cluster
+Stratified
+Opinion poll
+Questionnaire
+Standard error
+Controlled experiments
+Blocking
+Factorial experiment
+Interaction
+Random assignment
+Randomized controlled trial
+Randomized experiment
+Scientific control
+Adaptive designs
+Adaptive clinical trial
+Stochastic approximation
+Up-and-down designs
+Observational studies
+Cohort study
+Cross-sectional study
+Natural experiment
+Quasi-experiment
+Statistical inferenceStatistical theory
+Population
+Statistic
+Probability distribution
+Sampling distribution
+Order statistic
+Empirical distribution
+Density estimation
+Statistical model
+Model specification
+Lp space
+Parameter
+location
+scale
+shape
+Parametric family
+Likelihood (monotone)
+Location scale family
+Exponential family
+Completeness
+Sufficiency
+Statistical functional
+Bootstrap
+U
+V
+Optimal decision
+loss function
+Efficiency
+Statistical distance
+divergence
+Asymptotics
+Robustness
+Frequentist inferencePoint estimation
+Estimating equations
+Maximum likelihood
+Method of moments
+M-estimator
+Minimum distance
+Unbiased estimators
+Mean-unbiased minimum-variance
+Rao Blackwellization
+Lehmann Scheff  theorem
+Median unbiased
+Plug-in
+Interval estimation
+Confidence interval
+Pivot
+Likelihood interval
+Prediction interval
+Tolerance interval
+Resampling
+Bootstrap
+Jackknife
+Testing hypotheses
+1- & 2-tails
+Power
+Uniformly most powerful test
+Permutation test
+Randomization test
+Multiple comparisons
+Parametric tests
+Likelihood-ratio
+Score/Lagrange multiplier
+Wald
+Specific tests
+Z-test (normal)
+Student's t-test
+F-test
+Goodness of fit
+Chi-squared
+G-test
+Kolmogorov Smirnov
+Anderson Darling
+Lilliefors
+Jarque Bera
+Normality (Shapiro Wilk)
+Likelihood-ratio test
+Model selection
+Cross validation
+AIC
+BIC
+Rank statistics
+Sign
+Sample median
+Signed rank (Wilcoxon)
+Hodges Lehmann estimator
+Rank sum (Mann Whitney)
+Nonparametric anova
+1-way (Kruskal Wallis)
+2-way (Friedman)
+Ordered alternative (Jonckheere Terpstra)
+Van der Waerden test
+Bayesian inference
+Bayesian probability
+prior
+posterior
+Credible interval
+Bayes factor
+Bayesian estimator
+Maximum posterior estimator
+CorrelationRegression analysisCorrelation
+Pearson product-moment
+Partial correlation
+Confounding variable
+Coefficient of determination
+Regression analysis
+Errors and residuals
+Regression validation
+Mixed effects models
+Simultaneous equations models
+Multivariate adaptive regression splines (MARS)
+Linear regression
+Simple linear regression
+Ordinary least squares
+General linear model
+Bayesian regression
+Non-standard predictors
+Nonlinear regression
+Nonparametric
+Semiparametric
+Isotonic
+Robust
+Heteroscedasticity
+Homoscedasticity
+Generalized linear model
+Exponential families
+Logistic (Bernoulli) / Binomial / Poisson regressions
+Partition of variance
+Analysis of variance (ANOVA, anova)
+Analysis of covariance
+Multivariate ANOVA
+Degrees of freedom
+Categorical / Multivariate / Time-series / Survival analysisCategorical
+Cohen's kappa
+Contingency table
+Graphical model
+Log-linear model
+McNemar's test
+Cochran Mantel Haenszel statistics
+Multivariate
+Regression
+Manova
+Principal components
+Canonical correlation
+Discriminant analysis
+Cluster analysis
+Classification
+Structural equation model
+Factor analysis
+Multivariate distributions
+Elliptical distributions
+Normal
+Time-seriesGeneral
+Decomposition
+Trend
+Stationarity
+Seasonal adjustment
+Exponential smoothing
+Cointegration
+Structural break
+Granger causality
+Specific tests
+Dickey Fuller
+Johansen
+Q-statistic (Ljung Box)
+Durbin Watson
+Breusch Godfrey
+Time domain
+Autocorrelation (ACF)
+partial (PACF)
+Cross-correlation (XCF)
+ARMA model
+ARIMA model (Box Jenkins)
+Autoregressive conditional heteroskedasticity (ARCH)
+Vector autoregression (VAR)
+Frequency domain
+Spectral density estimation
+Fourier analysis
+Least-squares spectral analysis
+Wavelet
+Whittle likelihood
+SurvivalSurvival function
+Kaplan Meier estimator (product limit)
+Proportional hazards models
+Accelerated failure time (AFT) model
+First hitting time
+Hazard function
+Nelson Aalen estimator
+Test
+Log-rank test
+ApplicationsBiostatistics
+Bioinformatics
+Clinical trials / studies
+Epidemiology
+Medical statistics
+Engineering statistics
+Chemometrics
+Methods engineering
+Probabilistic design
+Process / quality control
+Reliability
+System identification
+Social statistics
+Actuarial science
+Census
+Crime statistics
+Demography
+Econometrics
+Jurimetrics
+National accounts
+Official statistics
+Population statistics
+Psychometrics
+Spatial statistics
+Cartography
+Environmental statistics
+Geographic information system
+Geostatistics
+Kriging
+Category
+ Mathematics portal
+Commons
+ WikiProject
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Scientific_control&oldid=1135430164"

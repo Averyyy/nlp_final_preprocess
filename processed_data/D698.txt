@@ -1,0 +1,401 @@
+Task manager application included with the Windows NT family of operating systems
+Task ManagerTask Manager in Windows 11 2022 UpdateOriginal author(s)David Plummer[1]Developer(s)MicrosoftInitial releaseAugust 24, 1996; 26 years ago (1996-08-24)Written inC++Operating systemWindows NT 4.0 and onwardsPlatformIA-32, x86-64, ARM and Itanium (and historically DEC Alpha, MIPS, and PowerPC)PredecessorSystem MonitorTypeTask manager, system monitor and startup manager
+Task Manager, previously known as Windows Task Manager, is a task manager, system monitor, and startup manager included with Microsoft Windows systems.  It provides information about computer performance and running software, including name of running processes, CPU and GPU load, commit charge, I/O details, logged-in users, and Windows services.  Task Manager can also be used to set process priorities, processor affinity, start and stop services, and forcibly terminate processes.
+The program can be started in recent versions of Windows by pressing   Win+R and then typing in taskmgr.exe, by pressing Ctrl+Alt+Delete and clicking Start Task Manager, by pressing Ctrl+  Shift+Esc, by using Windows Search in the Start Menu and typing taskmgr, by right-clicking on the Windows taskbar and selecting "Task Manager", by typing taskmgr in the File Explorer address bar, or by typing taskmgr in Command Prompt or Windows PowerShell.
+Task Manager was introduced in its current form with Windows NT 4.0.  Prior versions of Windows NT, as well as Windows 3.x, include the Task List application, are capable of listing currently running processes and killing them, or creating new processes. Windows 9x has a program known as Close Program which lists the programs currently running and offers options to close programs as well shut down the computer.[2]
+Functionality[edit]
+ Task Manager on Windows XP, showing the Processes tab
+Since Windows 8, Task Manager has two views. The first time Task Manager is invoked by a user, it shows in a simplified summary mode (described in the user experience as Fewer Details). It can be switched to a more detailed mode by clicking More Details. This setting is remembered for that user on that machine.[3]
+Since at least Windows 2000, the CPU usage can be displayed as a tray icon in the task bar for quick glance.[4][5]
+Summary mode[edit]
+In summary mode, Task Manager shows a list of currently running programs that have a main window.  It has a "more details" hyperlink that activates a full-fledged Task Manager with several tabs.
+Right-clicking any of the applications in the list allows switching to that application or ending the application's task. Issuing an end task causes a request for graceful exit to be sent to the application.
+Processes and details[edit]
+The Processes tab shows a list of all running processes on the system. This list includes Windows Services and processes from other accounts. The Delete key can also be used to terminate processes on the Processes tab. By default, the processes tab shows the user account the process is running under, the amount of CPU, and the amount of memory the process is currently consuming. There are more columns that can be shown. The Processes tab divides the process into three categories:
+Apps: Programs with a main window
+Windows processes: Components of Windows itself that do not have a main window, including services
+Background process: Programs that do not have a main window, including services, and are not part of the Windows itself
+This tab shows the name of every main window and every service associated with each process. Both a graceful exit command and a termination command can be sent from this tab, depending on whether the command is sent to the process or its window.
+The Details tab is a more basic version of the Processes tab, and acts similar to the Processes tab in Windows 7 and earlier. It has a more rudimentary user experience and can perform some additional actions. Right-clicking a process in the list allows changing the priority the process has, setting processor affinity (setting which CPU(s) the process can execute on), and allows the process to be ended. Choosing to End Process causes Windows to immediately kill the process. Choosing to "End Process Tree" causes Windows to immediately kill the process, as well as all processes directly or indirectly started by that process. Unlike choosing End Task from the Applications tab, when choosing to End Process the program is not given a warning nor a chance to clean up before ending. However, when a process that is running under a security context different from the one which issued the call to Terminate Process, the use of the KILL command-line utility is required.[6]
+Performance[edit]
+The Performance tab shows overall statistics about the system's performance, most notably the overall amount of CPU usage and how much memory is being used. A chart of recent usage for both of these values is shown. Details about specific areas of memory are also shown.
+There is an option to break the CPU usage graph into two sections: kernel mode time and user mode time. Many device drivers, and core parts of the operating system run in kernel mode, whereas user applications run in user mode. This option can be turned on by choosing Show kernel times from the View menu. When this option is turned on the CPU usage graph will show a green and a red area. The red area is the amount of time spent in kernel mode, and the green area shows the amount of time spent in user mode.
+The Performance tab also shows statistics relating to each of the network adapters present in the computer. By default, the adapter name, percentage of network utilization, link speed, and state of the network adapter are shown, along with a chart of recent activity.
+App history[edit]
+The App history tab shows resource usage information about Universal Windows Platform apps. Windows controls the life cycle of these apps more tightly. This tab is where the data that Windows has collected about them, and then be viewed at a later time.
+Startup[edit]
+The Startup tab manages software that starts with Windows shell.
+Users[edit]
+The Users tab shows all users that currently have a session on the computer. On server computers, there may be several users connected to the computer using Terminal Services (or the Fast User Switching service, on Windows XP). Users can be disconnected or logged off from this tab.
+History[edit]
+Task Manager was originally an external side project developed at home by Microsoft developer David Plummer; encouraged by Dave Cutler and coworkers to make it part of the main product "build", he donated the project in 1995.  The original task manager design featured a different Processes page with information being taken from the public Registry APIs rather than the private internal operating system metrics.
+Windows 9x[edit]
+A Close Program dialog box comes up when Ctrl+Alt+Delete is pressed in Windows 9x.[2] Also, in Windows 9x, there is a program called Tasks (TASKMAN.EXE) located in the Windows directory. It is rudimentary and has fewer features. The System Monitor utility in Windows 9x contains process and network monitoring functionality similar to that of the Windows Task Manager. Also, the Tasks program is called by clicking twice on the desktop if Explorer process is down.
+Windows XP[edit]
+In Windows XP only, there is a "Shut Down" menu that provides access to Standby, Hibernate, Turn off, Restart, Log Off, and Switch User. This is because, by default in Windows XP, pressing Ctrl+Alt+Delete  opens the Task Manager instead of opening a dialog that provides access to the Task Manager in addition to the options mentioned above.
+On the Performance tab, the display of the CPU values was changed from a display mimicking a LED seven-segment display, to a standard numeric value. This was done to accommodate non-Arabic numeral systems, such as Eastern Arabic numerals, which cannot be represented using a seven-segment display.[7]
+Prior to Windows XP, process names longer than 15 characters in length are truncated. This problem is resolved in Windows XP.[8]
+The users tab is introduced by Windows XP.
+Beginning with Windows XP, the Delete key is enabled on the Processes tab.
+Windows Vista[edit]
+Windows Task Manager has been updated in Windows Vista with new features,[9] including:
+A "Services" tab to view and modify currently running Windows services and start and stop any service as well as enable/disable the User Account Control (UAC) file and registry virtualization of a process.
+New "Image Path Name" and "Command Line", and "Description" columns in the Processes tab. These show the full name and path of the executable image running in a process, any command-line parameters that were provided, and the image file's "Description" property.
+New columns showing DEP and virtualization statuses. Virtualization status refers to UAC virtualization, under which file and registry references to certain system locations will be silently redirected to user-specific areas.
+By right-clicking on any process, it is possible to directly open the Properties of the process's executable image file or of the directory (folder) containing the process.
+The Task Manager has also been made less vulnerable to attack from remote sources or viruses as it must be operating under administrative rights to carry out certain tasks, such as logging off other connected users or sending messages. The user must go into the "Processes" tab and click "Show processes from other users" in order to verify administrative rights and unlock these privileges. Showing processes from all users requires all users including administrators to accept a UAC prompt, unless UAC is disabled. If the user is not an administrator, they must enter a password for an administrator account when prompted to proceed, unless UAC is disabled, in which case the elevation does not occur.
+By right-clicking on any running process, it is possible to create a dump. This feature can be useful if an application or a process is not responding, so that the dump file can be opened in a debugger to get more information.
+The "Shut Down" menu containing Standby, Hibernate, Turn off, Restart, Log Off and Switch User has been removed. This was done due to low usage, and to reduce the overall complexity of Task Manager.[10]
+The Performance tab shows the system uptime.
+Windows 8[edit]
+In Windows 8, Windows Task Manager has been overhauled and the following changes[3] were made:
+Starting in Windows 8, the tabs are hidden by default and Task Manager opens in summary mode (Fewer details). This view only shows applications and their associated processes. Prior to Windows 8, what is shown in the summary mode was shown in the tab named "Applications".
+Resource utilization in the Processes tab is shown with various shades of yellow, with darker color representing heavier use.
+The Performance tab is split into CPU, memory, disk, ethernet, and wireless network (if applicable) sections. There are overall graphs for each, and clicking on one reaches details for that particular resource. This includes consolidating information that previously appeared in the Networking tab from Windows XP through Windows 7.
+The CPU tab no longer displays individual graphs for every logical processor on the system by default. It now can show data for each NUMA node.
+The CPU tab now displays simple percentages on heat-mapping tiles to display utilization for systems with many (64 up to 640) logical processors.[11] The color used for these heat maps is blue, with darker color again indicating heavier utilization.
+Hovering the cursor over any logical processor's data now shows the NUMA node of that processor and its ID.
+A new Startup tab has been added that lists running startup applications.[12] Previously, MSConfig was in charge of this task, or in Windows Vista only, the "Software Explorer" section of Windows Defender.[13]  The Windows Defender that shipped built-into Windows 7 lacked this option, and it was also not present in the downloadable Microsoft Security Essentials either.
+The Processes tab now lists application names, application status, and overall usage data for CPU, memory, hard disk, and network resources for each process.
+A new App History tab is introduced.
+The application status can be changed to suspended.
+The normal process information found in the older Task Manager can be found in the new Details tab.
+Windows 10[edit]
+The Processes tab is divided into categories.[14]
+Display GPU information in the Performance tab, if available.
+Weakness[edit]
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Task Manager" Windows news  newspapers  books  scholar  JSTOR (May 2021) (Learn how and when to remove this template message)
+Task Manager is a common target of computer viruses and other forms of malware; typically malware will close the Task Manager as soon as it is started, so as to hide itself from users. Some malware will also disable task manager as an administrator. Variants of the Zotob and Spybot worms have used this technique, for example.[15][obsolete source] Using Group Policy, it is possible to disable the Task Manager. Many types of malware also enable this policy setting in the registry. Rootkits can prevent themselves from getting listed in the Task Manager, thereby preventing their detection and termination using it.
+See also[edit]
+Resource Monitor
+Process Explorer
+Taskkill
+Tasklist
+Windows Task Scheduler
+References[edit]
+^ Windows 10: The developer who wrote Windows Task Manager reveals its secrets | ZDNet
+^ a b "How to end task on the items that are running in the background". Nuance Communications. June 22, 2002.
+^ a b "Windows 8 Task Manager In-Depth". Microsoft Corporation. June 6, 2013. Retrieved February 6, 2019.
+^ Hoffman, Chris (August 19, 2020). "How to Keep the Task Manager's CPU Stats In Your System Tray". How-To Geek. Retrieved January 25, 2022.
+^ Bailey, Carol (November 16, 2001). "Get IT Done: Start your troubleshooting with the Windows 2000 Task Manager". TechRepublic. Retrieved January 25, 2022.
+^ "Cannot End Service Processes with Task Manager". Support. Microsoft. February 27, 2007. Archived from the original on March 8, 2007. Retrieved December 6, 2012.
+^ Raymond Chen (July 25, 2007). "What is Dave's frame class?".
+^ Magic 15 with GetProcessesByName on Windows 2000[dead link]
+^ Brien Posey (May 2008). "Microsoft's Windows Task Manager: What's new in Vista?". Retrieved February 4, 2019.
+^ Raymond Chen (June 19, 2014). "What happened to the Shut Down menu in classic Task Manager?".
+^ Sinofsky, Steven (October 27, 2011). "Using Task Manager with 64+ logical processors". Building Windows 8. Microsoft. Archived from the original on February 17, 2012. Retrieved October 29, 2011.
+^ Serban, Alex (October 24, 2011). "How to Get the Most out of New Windows 8 Task Manager?". ITProPortal. Future Publishing.
+^ "Manage startup programs in Vista using Windows Defender's Software Explorer". August 9, 2007.
+^ Corden, Jez (September 4, 2015). "How to use Task Manager to optimize your Windows 10 experience". Windows Central. Retrieved February 4, 2019.
+^ "Task Manager, MSCONFIG, or REGEDIT disappears while opening". Ramesh's website. December 19, 2005. Archived from the original on December 6, 2010. Retrieved September 17, 2007.
+External links[edit]
+How to use and troubleshoot issues with Windows Task Manager, Microsoft Help and Support
+Windows 8 Task Manager In-Depth Archived April 2, 2015, at the Wayback Machine, Gavin Gear, Blogging Windows
+vteMicrosoft Windows components
+APIs
+Architecture
+9x
+NT
+Booting process
+9x
+NT
+Games
+Managementtools
+App Installer
+Command Prompt
+Control Panel
+Device Manager
+Disk Cleanup
+Drive Optimizer
+Driver Verifier
+DirectX Diagnostic Tool
+Event Viewer
+IExpress
+Management Console
+Netsh
+Performance Monitor
+Recovery Console
+Resource Monitor
+Settings
+Sysprep
+System Configuration
+System File Checker
+System Information
+System Policy Editor
+System Restore
+Task Manager
+Windows Error Reporting
+Windows Ink
+Windows Installer
+PowerShell
+Windows Update
+Windows Insider
+WinRE
+WMI
+Apps
+3D Viewer
+Clock
+Calculator
+Calendar
+Camera
+Character Map
+Clipchamp
+Cortana
+Edge
+Fax and Scan
+Feedback Hub
+Get Help
+Magnifier
+Mail
+Maps
+Messaging
+Media Player
+Windows 11
+Movies & TV
+Mobility Center
+Money
+Narrator
+Notepad
+OneDrive
+OneNote
+Paint
+Paint 3D
+People
+Phone Link
+Photos
+Quick Assist
+Snipping Tool
+Speech Recognition
+Skype
+Sports
+Start
+Sticky Notes
+Store
+Tips
+Voice Recorder
+Weather
+WordPad
+Xbox
+Shell
+Action Center
+Aero
+AutoPlay
+AutoRun
+ClearType
+Explorer
+Search
+Indexing Service
+IFilter
+Saved search
+Namespace
+Special folder
+Start menu
+Taskbar
+Task View
+Windows spotlight
+Windows XP visual styles
+Services
+Service Control Manager
+BITS
+CLFS
+Multimedia Class Scheduler
+Shadow Copy
+Task Scheduler
+Error Reporting
+Wireless Zero Configuration
+File systems
+CDFS
+DFS
+exFAT
+IFS
+FAT
+NTFS
+Hard link
+links
+Mount Point
+Reparse point
+TxF
+EFS
+ReFS
+UDF
+Server
+Active Directory
+Domains
+DNS
+Group Policy
+Roaming user profiles
+Folder redirection
+Distributed Transaction Coordinator
+MSMQ
+Windows Media Services
+Active DRM Services
+IIS
+WSUS
+SharePoint
+Network Access Protection
+PWS
+DFS Replication
+Print Services for UNIX
+Remote Desktop Services
+Remote Differential Compression
+Remote Installation Services
+Windows Deployment Services
+System Resource Manager
+Hyper-V
+Server Core
+Architecture
+Boot Manager
+Console
+CSRSS
+Desktop Window Manager
+Portable Executable
+EXE
+DLL
+Enhanced Write Filter
+Graphics Device Interface
+Hardware Abstraction Layer
+I/O request packet
+Imaging Format
+Kernel Transaction Manager
+Library files
+Logical Disk Manager
+LSASS
+MinWin
+NTLDR
+Ntoskrnl.exe
+Object Manager
+Open XML Paper Specification
+Registry
+Resource Protection
+Security Account Manager
+Server Message Block
+Shadow Copy
+SMSS
+System Idle Process
+USER
+WHEA
+Winlogon
+WinUSB
+Security
+Security and Maintenance
+AppLocker
+BitLocker
+Credential Guard
+Data Execution Prevention
+Defender
+Family features
+Kernel Patch Protection
+Mandatory Integrity Control
+Protected Media Path
+User Account Control
+User Interface Privilege Isolation
+Windows Firewall
+Compatibility
+COMMAND.COM
+Windows Subsystem for Linux
+WoW64
+API
+Active Scripting
+WSH
+VBScript
+JScript
+COM
+ActiveX
+ActiveX Document
+COM Structured storage
+DCOM
+OLE
+OLE Automation
+Transaction Server
+DirectX
+Native
+.NET
+Universal Windows Platform
+WinAPI
+Windows Mixed Reality
+Windows Runtime
+WinUSB
+Games
+Solitaire Collection
+Surf
+DiscontinuedGames
+3D Pinball
+Chess Titans
+FreeCell
+Hearts
+InkBall
+Hold 'Em
+Purble Place
+Spider Solitaire
+Solitaire
+Tinker
+Apps
+ActiveMovie
+Anytime Upgrade
+Address Book
+Backup and Restore
+Cardfile
+CardSpace
+CD Player
+Chat
+Contacts
+Desktop Gadgets
+Diagnostics
+DriveSpace
+DVD Maker
+Easy Transfer
+Fax
+Food & Drink
+Groove Music
+Help and Support Center
+Health & Fitness
+HyperTerminal
+Imaging
+Internet Explorer
+Journal
+Media Center
+Meeting Space
+Messaging
+Messenger
+Mobile Device Center
+Movie Maker
+MSN Dial-up
+NetMeeting
+NTBackup
+Outlook Express
+Pay
+Phone Companion
+Photo Gallery
+Photo Viewer
+Program Manager
+Steps Recorder
+Syskey
+Travel
+WinHelp
+Write
+Others
+ScanDisk
+File Protection
+Media Control Interface
+MS-DOS 7
+Next-Generation Secure Computing Base
+POSIX subsystem
+HPFS
+Interix
+Video for Windows
+Virtual DOS machine
+Windows on Windows
+Windows SideShow
+Windows Services for UNIX
+Windows System Assessment Tool
+Windows To Go
+WinFS
+Spun off toMicrosoft Store
+DVD Player
+File Manager
+Hover!
+Mahjong
+Minesweeper
+ Category
+ List
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Task_Manager_(Windows)&oldid=1147346894"

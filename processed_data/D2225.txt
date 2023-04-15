@@ -1,0 +1,364 @@
+Currency sign
+" " redirects here. For the currency, see Euro.
+ Euro signIn UnicodeU+20AC   EURO SIGN (&euro;)CurrencyCurrencyEuroRelatedSee alsoU+20A0   EURO-CURRENCY SIGN (predecessor). Category
+The euro sign ( ) is the currency sign used for the euro, the official currency of the eurozone and unilaterally adopted by Kosovo and Montenegro. The design was presented to the public by the European Commission on 12 December 1996. It consists of a stylized letter E (or epsilon), crossed by two lines instead of one. Depending on convention in each nation, the symbol can either precede the value (for instance,  10), or follow the value  (for instance, 10 ), often with an intervening space.
+Design[edit]
+ Graphic construction of the euro logo
+ The euro sign in a selection of typefaces
+ The euro sign; logotype and handwritten
+There were originally 30 proposed designs for a symbol for Europe's new common currency; the Commission short-listed these to ten candidates. These ten were put to a public survey. The President of the European Commission at the time (Jacques Santer) and the European Commissioner with responsibility for the euro (Yves-Thibault de Silguy) then chose the winning design.[1] The other designs that were considered are not available for the public to view, nor is any information regarding the designers available for public query. The Commission considers the process of designing to have been internal and keeps these records secret. The eventual winner was a design created by a team of four experts whose identities have not been revealed. It is believed by some that the Belgian graphic designer Alain Billiet was the designer of the selected euro sign.[2]
+The symbol   is based on the Greek letter epsilon ( ), with the first letter in the word  Europe  and with 2 parallel lines signifying stability. European Union[3]
+The official story of the design history of the euro sign is disputed by Arthur Eisenmenger, a former chief graphic designer for the European Economic Community, who says he had the idea 25 years before the Commission's decision.[4]
+The Commission specified a euro logo with exact proportions and colours (PMS Yellow foreground, PMS Reflex Blue background[5]), for use in public-relations material related to the euro introduction. While the Commission intended the logo to be a prescribed glyph shape, type designers made it clear that they intended instead to adapt the design to be consistent with the typefaces to which it was to be added.[6]
+Use on computers and mobile phones[edit]
+Generating the euro sign using a computer depends on the operating system and national conventions. Initially, some mobile phone companies issued an interim software update for their special SMS character set, replacing the less-frequent Japanese yen sign with the euro sign. Subsequent mobile phones have both currency signs.
+The euro is represented in the Unicode character set with the character name EURO SIGN and the code position U+20AC (decimal 8364) as well as in updated versions of the traditional Latin character set encodings.[a][b] In HTML, the &euro; entity can also be used.
+History of implementation[edit]
+An implicit character encoding, along with the fact that the code position of the euro sign is different in historic encoding schemes (code pages), led to many initial problems displaying the euro sign consistently in computer applications, depending on access method. While displaying the euro sign was no problem as long as only one system was used (provided an up-to-date font with the proper glyph was available), mixed setups often produced errors. Initially, Apple, Microsoft and Unix systems each chose a different code point to represent a euro symbol: thus a user of one system might have seen a euro symbol whereas another would see a different symbol or nothing at all. Another was legacy software which could only handle older encodings such as pre-euro ISO 8859-1. In such situations character set conversions had to be made, often introducing conversion errors such as a question mark (?) being displayed instead of a euro sign. With widespread adoption of Unicode and UTF-8 encoding these issues rarely arise in modern computing.
+Entry methods[edit]
+Depending on keyboard layout and the operating system, the symbol can be entered as:
+AltGr+4 (UK/IRL)
+AltGr+5 (US INTL/ESP/DNK/FIN/ISL/NOR/SWE)
+AltGr+E (BEL/ CRO/ ESP/ FIN/ FRA/ GER/ ITA/ GRE/ POR/ CZE/ EST/ LTU/ SVK/ SWE/ ROS/ ROP/ TUR)
+AltGr+U (HU/PL)
+Ctrl+Alt+4 (UK/IRL)
+Ctrl+Alt+5 (US INTL/ESP)
+Ctrl+Alt+e in Microsoft Word in United States and more layouts
+Alt+0128 in Microsoft Windows (depends on system locale setting)[c]
+Ctrl+  Shift+u followed by 20ac in ChromeOS, most Linux distros, and in other operating systems using IBus.
+Ctrl+k followed by =e in the Vim text editor
+On the macOS operating system, a variety of key combinations are used depending on the keyboard layout, for example:
+  Option+2 in British layout
+  Option+  Shift+2 in United States layout
+  Option+  Shift+5 in Slovenian layout
+  Option+$ in French layout[7]
+  Option+E in German, Italian, Spanish and Turkish layout
+  Shift+4 in Swedish layout
+The Compose key sequence for the euro sign is Compose+= followed by e.
+Typewriters[edit]
+Classical typewriters are still used in many parts of the world, often recycled from businesses that have adopted desktop computers. Typewriters lacking the euro sign can imitate it by typing a capital "C", backspacing, and overstriking it with the equals sign.
+Use[edit]
+See also: Language and the euro
+ Euro sign appears in the top-left corner of a  50 banknote
+ A euro light sculpture at the European Central Bank in Frankfurt
+Placement of the sign varies. Countries have generally continued the style used for their former currencies. In those countries where previous convention was to place the currency sign before the figure, the euro sign is placed in the same position (e.g.,  3.50).[8] In those countries where the amount preceded the national currency sign, the euro sign is again placed in that relative position (e.g., 3,50 ).
+The European Union s Interinstitutional Style Guide (for EU staff) states that the euro sign should be placed in front of the amount without any space in English, but after the amount in most other languages.[9][10][11][12][13]
+In English language newspapers and periodicals such as the Financial Times, The Economist and many more, the euro sign  like the dollar sign ($) and the pound sign ( )  is placed before the figure, unspaced.[14][15] When written out, "euro" is placed after the value in lower case; the plural is used for two or more units, and euro cents are separated with a point, not a comma (e.g.,  1.50, 14 euros). This convention is the reverse of that used in many other European languages.
+Prices of items costing less than one euro (for example ten cents) are often written using a local abbreviation like "ct." (particularly in Spain and Lithuania), "snt." (Finland), c. (Ireland) and   (the capital letter lambda for   Lept  in Greece): (for example, 10 ct., 10c., 10 , 10 snt. The US style " " or " " is rarely seen in formal contexts. Alternatively, they can be written as decimals e.g. 0.07 .
+See also[edit]
+Currency symbol  List of currency symbols currently in use
+Notes[edit]
+^ For details please see the Western Latin character sets (computing)
+^ For Eastern European character set Latin 10 with the euro sign, please see ISO/IEC 8859-16
+^ Alt+0128 is the correct alt code for the Euro under most system locale settings. Under Cyrillic-based system locale settings (using Windows code page 1251), Alt+0136 must be used. Neither will work under Japanese (932), Korean (949) or Traditional Chinese (950) system locale settings. 0128 works because Microsoft has assigned 0x80 to the Euro sign in these code pages.
+References[edit]
+^ "The euro, our currency | A symbol for the European currency" (PDF). European Commission. 18 March 2009. Retrieved 8 April 2023.
+^ "Belg Alain Billiet ontwierp het euroteken" [The Belgian Alain Billet designed the euro sign]. Gazet van Antwerpen (in Dutch). 10 October 2001. Archived from the original on 1 April 2012. Retrieved 24 September 2011.
+^ "Euro   design | European Union".
+^ Connolly, Kate (23 December 2001). "Observer | Inventor who coined euro sign fights for recognition". The Observer. London. Archived from the original on 23 December 2007. Retrieved 21 August 2009.
+^ "European Commission   Economic and Financial Affairs   How to use the euro name and symbol". Ec.europa.eu. Retrieved 7 April 2010.
+^ Typographers discuss the euro, from December 1996.
+^ Mac OS: How to type the Euro glyph, Apple Technical Report TA26547 (11 September 2003).
+^ Euro: valutateken voor of achter het bedrag?, Nederlandse Taalunie. Retrieved 21 December 2006.
+^ OP/B.3/CRI, Publications Office -. "Publications Office   Interinstitutional style guide   7.3.3. Rules for expressing monetary units". publications.europa.eu.
+^ "Amt f r Ver ffentlichungen   Interinstitutionelle Regeln f r Ver ffentlichungen   7.3.3 Schreibregeln f r W hrungsbezeichnungen". publications.europa.eu.
+^ "Oficina de Publicaciones   Libro de estilo interinstitucional   7.3.3. Normas de escritura de las referencias monetarias". publications.europa.eu.
+^ "Office des publications   Code de r daction interinstitutionnel   7.3.3. R gles d' criture des r f rences mon taires". publications.europa.eu.
+^ "Ufficio delle pubblicazioni   Manuale interistituzionale di convenzioni redazionali   7.3.3. Regole di scrittura dei riferimenti monetari". publications.europa.eu.
+^ Walters, Jackie. "Currency units". Translation Directory. Retrieved 25 June 2008.
+^ "The Economist Style Guide: Currencies". The Economist. Archived from the original on 13 April 2012. Retrieved 16 April 2012.
+External links[edit]
+Wikimedia Commons has media related to Euro sign.
+Euro name and symbol, Directorate-General for Economic and Financial Affairs of the European Commission
+Communication from the Commission: The use of the Euro symbol, July 1997, Directorate-General for Economic and Financial Affairs of the European Commission
+Typing a Euro symbol on a non-European QWERTY keyboard. Several methods are shown for and others special characters.
+vteCurrency symbolsCirculating
+ 
+ 
+ 
+ 
+ 
+$
+ 
+ 
+ .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Historic
+ 
+ $
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cryptocurrency
+ 
+ 
+ 
+ 
+ 
+N
+{\displaystyle \mathbb {N} }
+ 
+ 
+ 
+Generic placeholder
+ 
+vteSymbols of EuropeStates
+Albania
+Andorra
+Armenia
+Austria
+Azerbaijan
+Belarus
+Belgium
+Bosnia and Herzegovina
+Bulgaria
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Georgia
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Italy
+Kazakhstan
+Latvia
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Malta
+Moldova
+Monaco
+Montenegro
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Russia
+San Marino
+Serbia
+Slovakia
+Slovenia
+Spain
+Sweden
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+Vatican City
+Europe
+Emblem (flag)
+Anthem
+Europe Day
+European Union
+Emblem (flag)
+Anthem
+Europe Day
+Motto (EU)
+Euro sign
+vteEuro topicsGeneral
+Economic and Monetary Union of the European Union
+Capital Markets Union
+European banking union
+Euro sign
+Eurozone
+Language
+Euro-Skulptur
+Administration
+European Central Bank
+ECB President
+European System of Central Banks
+Eurosystem
+Ecofin
+Eurogroup
+Euro summit
+Fiscal provisions
+Stability and Growth Pact
+European Stability Mechanism
+Euro Plus Pact
+Six pack
+European Fiscal Compact
+Economy
+Economy of Europe
+Economy of the European Union
+Eonia
+Euro calculator
+Euro Interbank Offered Rate (Euribor)
+Single Euro Payments Area (SEPA)
+European Payments Initiative (EPI)
+Euro Currency Index
+International status
+Proposed eurobonds
+Reserve currency
+Petroeuro
+World currency
+DenominationsCoins
+1c
+2c
+5c
+10c
+20c
+50c
+ 1
+ 2
+ 2 commemorative coins
+Other commemorative coins
+Identifying marks
+Starter kits
+Europa coin programme
+Euro mint
+Banknotes
+ 5
+ 10
+ 20
+ 50
+ 100
+ 200
+ 500
+Coins by country with minting rightsEurozone
+Austria
+Belgium
+Croatia
+Cyprus
+Estonia
+Finland
+France
+Germany
+Greece
+Ireland
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Portugal
+Slovakia
+Slovenia
+Spain
+Monetary agreement with EU
+Andorra
+Monaco
+San Marino
+Vatican City
+Non-EU territories using Euro per agreement without minting rights
+Saint Barth lemy
+Saint Pierre and Miquelon
+French Southern and Antarctic Lands
+Akrotiri and Dhekelia
+Potential adoption byother countries
+Bulgaria
+Czech Republic
+Denmark
+2000 referendum
+Hungary
+Poland
+Romania
+Sweden
+Countriesusing euro unilaterally
+Kosovo
+Montenegro
+Other extant EU currenciesERM II
+Bulgarian lev
+Danish krone
+Other
+Czech koruna
+Hungarian forint
+Polish z oty
+Romanian leu
+Swedish krona
+HistoryGeneral
+"Snake in the tunnel"
+European Monetary System
+I ECU
+II ERM
+III EMU
+European Monetary Cooperation Fund
+European Monetary Institute
+Enlargement
+Black Wednesday
+European debt crisis
+Withdrawal
+Previous EU membersand euro
+United Kingdom
+Preceding currencies
+European Currency Unit
+Austrian schilling
+Belgian franc
+Croatian kuna
+Cypriot pound
+Dutch guilder
+Estonian kroon
+Finnish markka
+French franc
+German Mark
+Greek drachma
+Irish pound
+Italian lira
+Latvian lats
+Lithuanian litas
+Luxembourg franc
+Maltese lira
+Mon gasque franc
+Portuguese escudo
+Sammarinese lira
+Slovak koruna
+Slovenian tolar
+Spanish peseta
+Vatican lira
+Former fiscal provisions
+European Financial Stability Facility
+European Financial Stabilisation Mechanism
+ Money portal
+ European Union portal
+ Numismatics portal
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Euro_sign&oldid=1149801264"

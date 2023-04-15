@@ -1,0 +1,630 @@
+Device that modulates an analog carrier signal to encode digital information
+"Computer modem" redirects here. Not to be confused with Computer Modern.
+For the French political party known as MoDem, see Democratic Movement (France). For the ancient Hebrew city, see Modi'in-Maccabim-Re'ut.
+ Acoustic coupler modems used a telephone handset as the audio medium, with the user dialing the desired number and then pressing the handset into the modem to complete the connection. These systems generally operated at a speed of 300 bits per second.
+Passband modulation
+Analog modulation
+AM
+FM
+PM
+QAM
+SM
+SSB
+Digital modulation
+ASK
+APSK
+CPM
+FSK
+MFSK
+MSK
+OOK
+PPM
+PSK
+QAM
+SC-FDE
+TCM
+WDM
+Hierarchical modulation
+QAM
+WDM
+Spread spectrum
+CSS
+DSSS
+FHSS
+THSS
+See also
+Capacity-approaching codes
+Demodulation
+Line coding
+Modem
+AnM
+PoM
+PAM
+PCM
+PDM
+PWM
+ M
+OFDM
+FDM
+Multiplexing
+vte
+A modulator-demodulator or modem is a computer hardware device that converts data from a digital format into a format suitable for an analog transmission medium such as telephone or radio. A modem transmits data by modulating one or more carrier wave signals to encode digital information, while the receiver demodulates the signal to recreate the original digital information. The goal is to produce a signal that can be transmitted easily and decoded reliably. Modems can be used with almost any means of transmitting analog signals, from light-emitting diodes to radio.
+Early modems were devices that used audible sounds suitable for transmission over traditional telephone systems and leased lines. These generally operated at 110 or 300 bits per second (bit/s), and the connection between devices was normally manual, using an attached telephone handset. By the 1970s, higher speeds of 1,200 and 2,400 bit/s for asynchronous dial connections, 4,800 bit/s for synchronous leased line connections and 35 kbit/s for synchronous conditioned leased lines were available. By the 1980s, less expensive 1,200 and 2,400 bit/s dialup modems were being released, and modems working on radio and other systems were available. As device sophistication grew rapidly in the late 1990s, telephone-based modems quickly exhausted the available bandwidth, reaching 56 kbit/s.
+The rise of public use of the internet during the late 1990s led to demands for much higher performance, leading to the move away from audio-based systems to entirely new encodings on cable television lines and short-range signals in subcarriers on telephone lines. The move to cellular telephones, especially in the late 1990s and the emergence of smartphones in the 2000s led to the development of ever-faster radio-based systems. Today, modems are ubiquitous and largely invisible, included in almost every mobile computing device in one form or another, and generally capable of speeds on the order of tens or hundreds of megabytes per second.
+Speeds[edit]
+Modems are frequently classified by the maximum amount of data they can send in a given unit of time, usually expressed in bits per second (symbol bit/s, sometimes abbreviated "bps") or rarely in bytes per second (symbol B/s). Modern broadband modem speeds are typically expressed in megabits per second (Mbit/s).
+Historically, modems were often classified by their symbol rate, measured in baud. The baud unit denotes symbols per second, or the number of times per second the modem sends a new signal. For example, the ITU V.21 standard used audio frequency-shift keying with two possible frequencies, corresponding to two distinct symbols (or one bit per symbol), to carry 300 bits per second using 300 baud. By contrast, the original ITU V.22 standard, which could transmit and receive four distinct symbols (two bits per symbol), transmitted 1,200 bits by sending 600 symbols per second (600 baud) using phase-shift keying.
+Many modems are variable-rate, permitting them to be used over a medium with less than ideal characteristics, such as a telephone line that is of poor quality or is too long. This capability is often adaptive so that a modem can discover the maximum practical transmission rate during the connect phase, or during operation.
+ Collection of modems once used in Australia, including dial-up, DSL, and cable modems.
+Overall history[edit]
+Modems grew out of the need to connect teleprinters over ordinary phone lines instead of the more expensive leased lines which had previously been used for current loop based teleprinters and automated telegraphs. The earliest devices that satisfy the definition of a modem may be the multiplexers used by news wire services in the 1920s.[1]
+In 1941, the Allies developed a voice encryption system called SIGSALY which used a vocoder to digitize speech, then encrypted the speech with one-time pad and encoded the digital data as tones using frequency shift keying. This was also a digital modulation technique, making this an early modem.[2]
+Commercial modems largely did not become available until the late 1950s, when the rapid development of computer technology created demand for a method of connecting computers together over long distances, resulting in the Bell Company and then other businesses producing an increasing number of computer modems for use over both switched and leased telephone lines.
+Later developments would produce modems that operated over cable television lines, power lines, and various radio technologies, as well as modems that achieved much higher speeds over telephone lines.
+Dial-up[edit]
+A dial-up modem transmits computer data over an ordinary switched telephone line that has not been designed for data use. This contrasts with leased line modems, which also operate over lines provided by a telephone company, but ones which are intended for data use and do not impose the same signaling constraints.
+The modulated data must fit the frequency constraints of a normal voice audio signal. Early modems, including acoustic coupled modems, relied on the communicating parties or an automatic calling unit to dial and establish a voice connection before switching their modems to line; more modern devices are able to perform the actions needed to connect a call through a telephone exchange, e.g., picking up the line, dialing, understanding signals sent back by phone company equipment (dialtone, ringing, busy signal) recognizing incoming ring signals and answering calls.
+Dial-up modems have been made in a wide variety of speeds and capabilities, with many capable of testing the line they are calling over and selecting the most advanced signaling mode that the line can support. Generally speaking, the fastest dialup modems ever available to consumers never exceeded 56 kbit/s and never achieved that speed in both directions.
+The dial-up modem was once a widely known technology, since it was mass-marketed to consumers in many countries for dial-up internet access. In the 1990s, tens of millions of people in the United States used dial-up modems for internet access.[3]
+Dial-up service has since been largely supplanted by broadband internet,[4] such as DSL, which typically still uses a modem, but of a very different type which may still operate over a normal phone line, but with substantially relaxed constraints.
+History[edit]
+1950s[edit]
+ TeleGuide terminal
+Mass production of telephone line modems in the United States began as part of the SAGE air-defense system in 1958, connecting terminals at various airbases, radar sites, and command-and-control centers to the SAGE director centers scattered around the United States and Canada.
+Shortly afterwards in 1959, the technology in the SAGE modems was made available commercially as the Bell 101, which provided 110 bit/s speeds. Bell called this and several other early modems "datasets".
+1960s[edit]
+Some early modems were based on touch-tone frequencies, such as Bell 400-style touch-tone modems.[5]
+The Bell 103A standard was introduced by AT&T in 1962. It provided full-duplex service at 300 bit/s over normal phone lines. Frequency-shift keying was used, with the call originator transmitting at 1,070 or 1,270 Hz and the answering modem transmitting at 2,025 or 2,225 Hz.[6]
+The 103 modem would eventually become a de facto standard once third-party (non-AT&T modems) reached the market, and throughout the 1970s, independently made modems compatible with the Bell 103 de facto standard were commonplace.[7] Example models included the Novation CAT and the Anderson-Jacobson. A lower-cost option was the Pennywhistle modem, designed to be built using readily available parts.[8]
+Teletype machines were granted access to remote networks such as the Teletypewriter Exchange using the Bell 103 modem.[9] AT&T also produced reduced-cost units, the originate-only 113D and the answer-only 113B/C modems.
+1970s[edit]
+The 201A Data-Phone was a synchronous modem using two-bit-per-symbol phase-shift keying (PSK) encoding, achieving 2,000 bit/s half-duplex over normal phone lines.[10] In this system the two tones for any one side of the connection are sent at similar frequencies as in the 300 bit/s systems, but slightly out of phase.
+In early 1973, Vadic introduced the VA3400 which performed full-duplex at 1,200 bit/s over a normal phone line.[11]
+In November 1976, AT&T introduced the 212A modem, similar in design, but using the lower frequency set for transmission. It was not compatible with the VA3400,[12] but it would operate with 103A modem at 300 bit/s.
+In 1977, Vadic responded with the VA3467 triple modem, an answer-only modem sold to computer center operators that supported Vadic's 1,200-bit/s mode, AT&T's 212A mode, and 103A operation.[13]
+ The original 300-baud Hayes Smartmodem
+1980s[edit]
+A significant advance in modems was the Hayes Smartmodem, introduced in 1981. The Smartmodem was an otherwise standard 103A 300 bit/s direct-connect modem, but it introduced a command language which allowed the computer to make control requests, such as commands to dial or answer calls, over the same RS-232 interface used for the data connection.[14] The command set used by this device became a de facto standard, the Hayes command set, which was integrated into devices from many other manufacturers.
+Automatic dialing was not a new capability   it had been available via separate Automatic Calling Units, and via modems using the X.21 interface[15]   but the Smartmodem made it available in a single device that could be used with even the most minimal implementations of the ubiquitous RS-232 interface, making this capability accessible from virtually any system or language.[16]
+The introduction of the Smartmodem made communications much simpler and more easily accessed. This provided a growing market for other vendors, who licensed the Hayes patents and competed on price or by adding features.[17] This eventually led to legal action over use of the patented Hayes command language.[18]
+Dial modems generally remained at 300 and 1,200 bit/s (eventually becoming standards such as V.21 and V.22) into the mid-1980s.
+Commodore's 1982 VicModem for the VIC-20 was the first modem to be sold under $100, and the first modem to sell a million units.[19]
+In 1984, V.22bis was created, a 2,400-bit/s system similar in concept to the 1,200-bit/s Bell 212. This bit rate increases was achieved by defining four or eight distinct symbols, which allowed the encoding of two or three bits per symbol instead of only one. By the late 1980s, many modems could support improved standards like this, and 2,400-bit/s operation was becoming common.
+Increasing modem speed greatly improved the responsiveness of online systems and made file transfer practical. This led to rapid growth of online services with large file libraries, which in turn gave more reason to own a modem. The rapid update of modems led to a similar rapid increase in BBS use.
+The introduction of microcomputer systems with internal expansion slots made small internal modems practical. This led to a series of popular modems for the S-100 bus and Apple II computers that could directly dial out, answer incoming calls, and hang up entirely from software, the basic requirements of a bulletin board system (BBS). The seminal CBBS for instance was created on an S-100 machine with a Hayes internal modem, and a number of similar systems followed.
+Echo cancellation became a feature of modems in this period, which improved the bandwidth available to both modems by allowing them to ignore their own reflected signals.
+Additional improvements were introduced by quadrature amplitude modulation (QAM) encoding, which increased the number of bits per symbol to four through a combination of phase shift and amplitude.
+Transmitting at 1,200 baud produced the 4,800 bit/s V.27ter standard, and at 2,400 baud the 9,600 bit/s V.32. The carrier frequency was 1,650 Hz in both systems.
+The introduction of these higher-speed systems also led to the development of the digital fax machine during the 1980s. While early fax technology also used modulated signals on a phone line, digital fax used the now-standard digital encoding used by computer modems. This eventually allowed computers to send and receive fax images.
+1990s[edit]
+ USRobotics Sportster 14,400 Fax modem (1994)
+In the early 1990s, V.32 modems operating at 9,600 bit/s were introduced, but were expensive and were only starting to enter the market when V.32bis was standardized, which operated at 14,400 bit/s.
+Rockwell International's chip division developed a new driver chip set incorporating the V.32bis standard and aggressively priced it. Supra, Inc. arranged a short-term exclusivity arrangement with Rockwell, and developed the SupraFAXModem 14400 based on it. Introduced in January 1992 at $399 (or less), it was half the price of the slower V.32 modems already on the market. This led to a price war, and by the end of the year V.32 was dead, never having been really established, and V.32bis modems were widely available for $250.
+V.32bis was so successful that the older high-speed standards had little advantages. USRobotics (USR) fought back with a 16,800 bit/s version of HST, while AT&T introduced a one-off 19,200 bit/s method they referred to as V.32ter, but neither non-standard modem sold well.
+ V.34 modem implemented as an internal ISA card
+ V.34 data/fax modem as PC card for notebooks
+External V.34 modem with RS-232 serial port
+Consumer interest in these proprietary improvements waned during the lengthy introduction of the 28800 bit/s V.34 standard. While waiting, several companies decided to release hardware and introduced modems they referred to as V.FAST.
+In order to guarantee compatibility with V.34 modems once a standard was ratified (1994), manufacturers used more flexible components, generally a DSP and microcontroller, as opposed to purpose-designed ASIC modem chips. This would allow later firmware updates to conform with the standards once ratified.
+The ITU standard V.34 represents the culmination of these joint efforts. It employed the most powerful coding techniques available at the time, including channel encoding and shape encoding. From the mere four bits per symbol (9.6 kbit/s), the new standards used the functional equivalent of 6 to 10 bits per symbol, plus increasing baud rates from 2,400 to 3,429, to create 14.4, 28.8, and 33.6 kbit/s modems. This rate is near the theoretical Shannon limit of a phone line.[20]
+56 kbit/s technologies[edit]
+While 56 kbit/s speeds had been available for leased-line modems for some time, they did not become available for dial up modems until the late 1990s.
+ Dial-up modem bank at an ISP
+In the late 1990s, technologies to achieve speeds above 33.6 kbit/s began to be introduced. Several approaches were used, but all of them began as solutions to a single fundamental problem with phone lines.
+By the time technology companies began to investigate speeds above 33.6 kbit/s, telephone companies had switched almost entirely to all-digital networks. As soon as a phone line reached a local central office, a line card converted the analog signal from the subscriber to a digital one and conversely. While digitally encoded telephone lines notionally provide the same bandwidth as the analog systems they replaced, the digitization itself placed constraints on the types of waveforms that could be reliably encoded.
+The first problem was that the process of analog-to-digital conversion is intrinsically lossy, but second, and more importantly, the digital signals used by the telcos were not "linear": they did not encode all frequencies the same way, instead utilizing a nonlinear encoding ( -law and a-law) meant to favor the nonlinear response of the human ear to voice signals. This made it very difficult to find a 56 kbit/s encoding that could survive the digitizing process.
+Modem manufacturers discovered that, while the analog to digital conversion could not preserve higher speeds, digital-to-analog conversions could. Because it was possible for an ISP to obtain a direct digital connection to a telco, a digital modem   one that connects directly to a digital telephone network interface, such as T1 or PRI   could send a signal that utilized every bit of bandwidth available in the system. While that signal still had to be converted back to analog at the subscriber end, that conversion would not distort the signal in the same way that the opposite direction did.
+Early 56k dial-up products[edit]
+The first 56k dial-up option was a proprietary design from USRobotics, which they called "X2" because 56k was twice the speed ( 2) of 28k modems.
+At that time, USRobotics held a 40% share of the retail modem market, while Rockwell International held an 80% share of the modem chipset market. Concerned with being shut out, Rockwell began work on a rival 56k technology. They joined with Lucent and Motorola to develop what they called "K56Flex" or just "Flex".
+Both technologies reached the market around February 1997; although problems with K56Flex modems were noted in product reviews through July, within six months the two technologies worked equally well, with variations dependent largely on local connection characteristics.[21]
+The retail price of these early 56K modems was about US$200, compared to $100 for standard 33k modems. Compatible equipment was also required at the Internet service providers (ISPs) end, with costs varying depending on whether their current equipment could be upgraded. About half of all ISPs offered 56k support by October 1997. Consumer sales were relatively low, which USRobotics and Rockwell attributed to conflicting standards.[22]
+Standardized 56k (V.90/V.92)[edit]
+In February 1998, The International Telecommunication Union (ITU) announced the draft of a new 56 kbit/s standard V.90 with strong industry support. Incompatible with either existing standard, it was an amalgam of both, but was designed to allow both types of modem by a firmware upgrade. The V.90 standard was approved in September 1998 and widely adopted by ISPs and consumers.[22][23]
+The V.92 standard was approved by ITU in November 2000[24] and utilized digital PCM technology to increase the upload speed to a maximum of 48 kbit/s.
+The high upload speed was a tradeoff. 48 kbit/s upstream rate would reduce the downstream as low as 40 kbit/s due to echo effects on the line. To avoid this problem, V.92 modems offer the option to turn off the digital upstream and instead use a plain 33.6 kbit/s analog connection in order to maintain a high digital downstream of 50 kbit/s or higher.[25]
+V.92 also added two other features. The first is the ability for users who have call waiting to put their dial-up Internet connection on hold for extended periods of time while they answer a call. The second feature is the ability to quickly connect to one's ISP, achieved by remembering the analog and digital characteristics of the telephone line and using this saved information when reconnecting.
+Evolution of dial-up speeds[edit]
+These values are maximum values, and actual values may be slower under certain conditions (for example, noisy phone lines).[26] For a complete list see the companion article list of device bandwidths. A baud is one symbol per second; each symbol may encode one or more data bits.
+Connection
+Modulation
+Bit rate [kbit/s]
+Year released
+110 baud Bell 101 modem
+FSK
+0.1
+1958
+300 baud (Bell 103 or V.21)
+FSK
+0.3
+1962
+1,200 bit/s (1200 baud) (Bell 202)
+FSK
+1.2
+1976
+1,200 bit/s  (600 baud) (Bell 212A or V.22)
+QPSK
+1.2
+1980[27][28]
+2,000 bit/s (1000 baud) (Bell 201A)
+PSK
+2.0
+1962
+2,400 bit/s (600 baud) (V.22bis)
+QAM
+2.4
+1984[27]
+2,400 bit/s (1200 baud) (V.26bis)
+PSK
+2.4
+4,800 bit/s (1600 baud) (V.27ter)
+PSK
+4.8
+[29]
+4,800 bit/s (1600 baud, Bell 208B)
+DPSK
+4.8
+9,600 bit/s (2400 baud) (V.32)
+trellis
+9.6
+1984[27]
+14.4 kbit/s (2400 baud) (V.32bis)
+trellis
+14.4
+1991[27]
+19.2 kbit/s (2400 baud) (V.32 "terbo")
+trellis
+19.2
+1993[27]
+28.8 kbit/s (3200 baud) (V.34)
+trellis
+28.8
+1994[27]
+33.6 kbit/s (3429 baud) (V.34)
+trellis
+33.6
+1996[30]
+56 kbit/s (8000/3429 baud) (V.90)
+digital
+56.0/33.6
+1998[27]
+56 kbit/s (8000/8000 baud) (V.92)
+digital
+56.0/48.0
+2000[27]
+Bonding modem (two 56k modems) (V.92)[31]
+112.0/96.0
+Hardware compression (variable) (V.90/V.42bis)
+56.0 220.0
+Hardware compression (variable) (V.92/V.44)
+56.0 320.0
+Server-side web compression (variable) (Netscape ISP)
+100.0 1,000.0
+Compression[edit]
+Many dial-up modems implement standards for data compression to achieve higher effective throughput for the same bitrate. V.44 [32] is an example used in conjunction with V.92 to achieve speeds greater than 56k over ordinary phone lines.[33]
+As telephone-based 56k modems began losing popularity, some Internet service providers such as Netzero/Juno, Netscape, and others started using pre-compression to increase apparent throughput.  This server-side compression can operate much more efficiently than the on-the-fly compression performed within modems, because the compression techniques are content-specific (JPEG, text, EXE, etc.).The drawback is a loss in quality, as they use lossy compression which causes images to become pixelated and smeared. ISPs employing this approach often advertised it as "accelerated dial-up".[34]
+These accelerated downloads are integrated into the Opera[35] and Amazon Silk[36] web browsers, using their own server-side text and image compression requiring all data to pass through their own servers before reaching the user.[36]
+Methods of attachment[edit]
+Dial-up modems can attach in two different ways: with an acoustic coupler, or with a direct electrical connection.
+Directly connected modems[edit]
+The case Hush-A-Phone Corp. v. United States, which legalized acoustic couplers, applied only to mechanical connections to a telephone set, not electrical connections to the telephone line. The Carterfone decision of 1968, however, permitted customers to attach devices directly to a telephone line as long as they followed stringent Bell-defined standards for non-interference with the phone network.[37] This opened the door to independent (non-AT&T) manufacture of direct-connect modems, that plugged directly into the phone line rather than via an acoustic coupler.
+While Carterfone required AT&T to permit connection of devices, AT&T successfully argued that they should be allowed to require the use of a special device to protect their network, placed in between the third-party modem and the line, called a Data Access Arrangement or DAA. The use of DAAs was mandatory from 1969 to 1975 when the new FCC Part 68 rules allowed the use of devices without a Bell-provided DAA, subject to equivalent circuitry being included in the third-party device.[38]
+Virtually all modems produced after the 1980s are direct-connect.
+Acoustic couplers[edit]
+See also: Acoustic coupler The Novation CAT acoustically coupled modem
+While Bell (AT&T) provided modems that attached via direct wire connection to the phone network as early as 1958, their regulations at the time did not permit the direct electrical connection of any non-Bell device to a telephone line. However, the Hush-a-Phone ruling allowed customers to attach any device to a telephone set as long as it did not interfere with its functionality. This allowed third-party (non-Bell) manufacturers to sell modems utilizing an acoustic coupler.[37]
+With an acoustic coupler, an ordinary telephone handset was placed in a cradle containing a speaker and microphone positioned to match up with those on the handset. The tones used by the modem were transmitted and received into the handset, which then relayed them to the phone line.[39]
+Because the modem was not electrically connected, it was incapable of picking up, hanging up or dialing, all of which required direct control of the line. Touch-tone dialing would have been possible, but touch-tone was not universally available at this time. Consequently, the dialing process was executed by the user lifting the handset, dialing, then placing the handset on the coupler. To accelerate this process, a user could purchase a dialer or Automatic Calling Unit.
+Automatic calling units[edit]
+Early modems could not place or receive calls on their own, but required human intervention for these steps.
+As early as 1964, Bell provided automatic calling units that connected separately to a second serial port on a host machine and could be commanded to open the line, dial a number, and even ensure the far end had successfully connected before transferring control to the modem.[40] Later on, third-party models would become available, sometimes known simply as dialers, and features such as the ability to automatically sign in to time-sharing systems.[41]
+Eventually this capability would be built into modems and no longer require a separate device.
+Controller-based modems vs. soft modems[edit]
+Main article: Softmodem A PCI Winmodem soft modem (on the left) next to a conventional ISA modem (on the right)
+Prior to the 1990s, modems contained all the electronics and intelligence to convert data in discrete form to an analog (modulated) signal and back again, and to handle the dialing process, as a mix of discrete logic and special-purpose chips. This type of modem is sometimes referred to as controller-based.[42]
+In 1993, Digicom introduced the Connection 96 Plus, a modem which replaced the discrete and custom components with a general purpose digital signal processor, which could be reprogrammed to upgrade to newer standards.[43]
+Subsequently, USRobotics released the Sportster Winmodem, a similarly upgradable DSP-based design.[44]
+As this design trend spread, both terms   soft modem and Winmodem   obtained a negative connotation in non-Windows-based computing circles because the drivers were either unavailable for non-Windows platforms, or were only available as unmaintainable closed-source binaries, a particular problem for Linux users.[45]
+Later in the 1990s, software-based modems became available. These are essentially sound cards, and in fact a common design uses the AC'97 audio codec, which provides multichannel audio to a PC and includes three audio channels for modem signals.
+The audio sent and received on the line by a modem of this type is generated and processed entirely in software, often in a device driver. There is little functional difference from the user's perspective, but this design reduces the cost of a modem by moving most of the processing power into inexpensive software instead of expensive hardware DSPs or discrete components.
+Soft modems of both types either are internal cards or connect over external buses such as USB. They never utilize RS-232 because they require high bandwidth channels to the host computers to carry the raw audio signals generated (sent) or analyzed (received) by software.
+Since the interface is not RS-232, there is no standard for communication with the device directly. Instead, soft modems come with drivers which create an emulated RS-232 port, which standard modem software (such as an operating system dialer application) can communicate with.
+Voice/fax modems[edit]
+"Voice" and "fax" are terms added to describe any dial modem that is capable of recording/playing audio or transmitting/receiving faxes. Some modems are capable of all three functions.[46]
+Voice modems are used for computer telephony integration applications as simple as placing/receiving calls directly through a computer with a headset, and as complex as fully automated robocalling systems.
+Fax modems can be used for computer-based faxing, in which faxes are sent and received without inbound or outbound faxes ever needing to ever be printed on paper. This differs from efax, in which faxing occurs over the internet, in some cases involving no phone lines whatsoever.
+Modem Over IP (Modem Relay)[edit]
+The ITU-T V.150.1 Recommendation defines procedures for the inter-operation of PSTN to IP gateways.[47] In a classic example of this setup, each dial-up modem would connect to a modem relay gateway. The gateways are then connected to an IP network (such as the Internet). The analog connection from the modem is terminated at the gateway and the signal is demodulated. The demodulated control signals are transported over the IP network in an RTP packet type defined as State Signaling Events (SSEs). The data from the demodulated signal is sent over the IP network via a transport protocol (also defined as an RTP payload) called Simple Packet Relay Transport (SPRT). Both the SSE and SPRT packet formats are defined in the V.150.1 Recommendation (Annex C and Annex B respectively). The gateway at the remote end that receives the packets uses the information to re-modulate the signal for the modem connected at that end.
+While the V.150.1 Recommendation is not widely deployed, a pared down version of the recommendation called "Minimum Essential Requirements (MER) for V.150.1 Gateways" (SCIP-216) is used in Secure Telephony applications.[48]
+Cloud-based Modems[edit]
+While traditionally a hardware device, fully software-based modems with the ability to be deployed in a cloud environment (such as Microsoft Azure or AWS) do exist.[49] Leveraging a Voice-over-IP (VoIP) connection through a SIP Trunk, the modulated audio samples are generated and sent over an IP network via RTP and an uncompressed audio codec (such as G.711  -law or a-law).
+Popularity[edit]
+A 1994 Software Publishers Association found that although 60% of computers in US households had a modem, only 7% of households went online.[50] A CEA study in 2006 found that dial-up Internet access was declining in the US. In 2000, dial-up Internet connections accounted for 74% of all US residential Internet connections.[citation needed] The United States demographic pattern for dial-up modem users per capita has been more or less mirrored in Canada and Australia for the past 20 years.
+Dial-up modem use in the US had dropped to 60% by 2003, and stood at 36% in 2006.[citation needed] Voiceband modems were once the most popular means of Internet access in the US, but with the advent of new ways of accessing the Internet, the traditional 56K modem was losing popularity. The dial-up modem is still widely used by customers in rural areas where DSL, cable, wireless broadband, satellite, or fiber optic service are either not available or they are unwilling to pay what the available broadband companies charge.[51] In its 2012 annual report, AOL showed it still collected around $700 million in fees from about three million dial-up users.
+TTY/TDD[edit]
+TDD devices are a subset of the teleprinter intended for use by the deaf or hard of hearing, essentially a small teletype with a built-in dial-up modem and acoustic coupler. The first models produced in 1964 utilized FSK modulation much like early computer modems.
+Leased-line modems[edit]
+A leased line modem also uses ordinary phone wiring, like dial-up and DSL, but does not use the same network topology. While dial-up uses a normal phone line and connects through the telephone switching system, and DSL uses a normal phone line but connects to equipment at the telco central office, leased lines do not terminate at the telco.
+Leased lines are pairs of telephone wire that have been connected together at one or more telco central offices so that they form a continuous circuit between two subscriber locations, such as a business' headquarters and a satellite office. They provide no power or dialtone - they are simply a pair of wires connected at two distant locations.
+A dialup modem will not function across this type of line, because it does not provide the power, dialtone and switching that those modems require. However, a modem with leased-line capability can operate over such a line, and in fact can have greater performance because the line is not passing through the telco switching equipment, the signal is not filtered, and therefore greater bandwidth is available.
+Leased-line modems can operate in 2-wire or 4-wire mode. The former uses a single pair of wires and can only transmit in one direction at a time, while the latter uses two pairs of wires and can transmit in both directions simultaneously. When two pairs are available, bandwidth can be as high as 1.5 Mbit/s, a full data T1 circuit.[52]
+Broadband[edit]
+ DSL modem
+ Cable modem
+The term broadband was previously[53][54] used to describe communications faster than what was available on voice grade channels.
+The term broadband gained widespread adoption in the late 1990s to describe internet access technology exceeding the 56 kilobit/s maximum of dialup. There are many broadband technologies, such as various DSL (digital subscriber line) technologies and cable broadband.
+DSL technologies such as ADSL, HDSL, and VDSL use telephone lines (wires that were installed by a telephone company and originally intended for use by a telephone subscriber) but do not utilize most of the rest of the telephone system. Their signals are not sent through ordinary phone exchanges, but are instead received by special equipment (a DSLAM) at the telephone company central office.
+Because the signal does not pass through the telephone exchange, no "dialing" is required, and the bandwidth constraints of an ordinary voice call are not imposed. This allows much higher frequencies, and therefore much faster speeds. ADSL in particular is designed to permit voice calls and data usage over the same line simultaneously.
+Similarly, cable modems use infrastructure originally intended to carry television signals, and like DSL, typically permit receiving television signals at the same time as broadband internet service.
+Other broadband modems include FTTx modems, satellite modems, and power line modems.
+Terminology[edit]
+Different terms are used for broadband modems, because they frequently contain more than just a modulation/demodulation component.
+Because high-speed connections are frequently used by multiple computers at once, many broadband modems do not have direct (e.g. USB) PC connections. Rather they connect over a network such as Ethernet or Wi-Fi. Early broadband modems offered Ethernet handoff allowing the use of one or more public IP addresses, but no other services such as NAT and DHCP that would allow multiple computers to share one connection. This led to many consumers purchasing separate "broadband routers," placed between the modem and their network, to perform these functions.[55][56]
+Eventually, ISPs began providing residential gateways which combined the modem and broadband router into a single package that provided routing, NAT, security features, and even Wi-Fi access in addition to modem functionality, so that subscribers could connect their entire household without purchasing any extra equipment. Even later, these devices were extended to provide "triple play" features such as telephony and television service. Nonetheless, these devices are still often referred to simply as "modems" by service providers and manufacturers.[57]
+Consequently, the terms "modem", "router", and "gateway" are now used interchangeably in casual speech, but in a technical context "modem" may carry a specific connotation of basic functionality with no routing or other features, while the others describe a device with features such as NAT.[58][59]
+Broadband modems may also handle authentication such as PPPoE. While it is often possible to authenticate a broadband connection from a users PC, as was the case with dial-up internet service, moving this task to the broadband modem allows it to establish and maintain the connection itself, which makes sharing access between PCs easier since each one does not have to authenticate separately. Broadband modems typically remain authenticated to the ISP as long as they are powered on.
+Radio[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2017) (Learn how and when to remove this template message)
+ A bluetooth radio module with built-in antenna (left)
+Any communication technology sending digital data wirelessly involves a modem. This includes direct broadcast satellite, WiFi, WiMax, mobile phones, GPS, Bluetooth and NFC.
+Modern telecommunications and data networks also make extensive use of radio modems where long distance data links are required. Such systems are an important part of the PSTN, and are also in common use for high-speed computer network links to outlying areas where fiber optic is not economical.
+Wireless modems come in a variety of types, bandwidths, and speeds. Wireless modems are often referred to as transparent or smart. They transmit information that is modulated onto a carrier frequency to allow many wireless communication links to work simultaneously on different frequencies.[relevant?]
+Transparent modems operate in a manner similar to their phone line modem cousins. Typically, they were half duplex, meaning that they could not send and receive data at the same time. Typically, transparent modems are polled in a round robin manner to collect small amounts of data from scattered locations that do not have easy access to wired infrastructure. Transparent modems are most commonly used by utility companies for data collection.
+Smart modems come with media access controllers inside, which prevents random data from colliding and resends data that is not correctly received. Smart modems typically require more bandwidth than transparent modems, and typically achieve higher data rates. The IEEE 802.11 standard defines a short range modulation scheme that is used on a large scale throughout the world.
+Mobile broadband[edit]
+See also: Mobile broadband and Mobile broadband modem
+ Huawei HSPA+  (EVDO) USB wireless modem from Movistar Colombia
+ Huawei 4G+ Dual Band Modem
+Modems which use a mobile telephone system (GPRS, UMTS, HSPA, EVDO, WiMax, 5G etc.), are known as mobile broadband modems (sometimes also called wireless modems). Wireless modems can be embedded inside a laptop, mobile phone or other device, or be connected externally. External wireless modems include connect cards, USB modems, and cellular routers.
+Most GSM wireless modems come with an integrated SIM cardholder (i.e. Huawei E220, Sierra 881.) Some models are also provided with a microSD memory slot and/or jack for additional external antenna, (Huawei E1762, Sierra Compass 885.)[60][61]
+The CDMA (EVDO) versions do not typically use R-UIM cards, but use Electronic Serial Number (ESN) instead.
+Until the end of April 2011, worldwide shipments of USB modems surpassed embedded 3G and 4G modules by 3:1 because USB modems can be easily discarded. Embedded modems may overtake separate modems as tablet sales grow and the incremental cost of the modems shrinks, so by 2016, the ratio may change to 1:1.[62]
+Like mobile phones, mobile broadband modems can be SIM locked to a particular network provider. Unlocking a modem is achieved the same way as unlocking a phone, by using an 'unlock code'.[citation needed]
+Optical modem[edit]
+ An ONT providing data, telephone and television service
+A modem that connects to a fiber optic network is known as an optical network terminal (ONT) or optical network unit (ONU). These are commonly used in fiber to the home installations, installed inside or outside a house to convert the optical medium to a copper Ethernet interface, after which a router or gateway is often installed to perform authentication, routing, NAT, and other typical consumer internet functions, in addition to "triple play" features such as telephony and television service.
+Fiber optic systems can use quadrature amplitude modulation to maximize throughput. 16QAM uses a 16-point constellation to send four bits per symbol, with speeds on the order of 200 or 400 gigabits per second.[63][64] 64QAM uses a 64-point constellation to send six bits per symbol, with speeds up to 65 terabits per second. Although this technology has been announced, it may not yet be commonly used.[65][66][67]
+Home networking[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2017) (Learn how and when to remove this template message)
+Although the name modem is seldom used, some high-speed home networking applications do use modems, such as powerline ethernet. The G.hn standard for instance, developed by ITU-T, provides a high-speed (up to 1 Gbit/s) local area network using existing home wiring (power lines, phone lines, and coaxial cables). G.hn devices use orthogonal frequency-division multiplexing (OFDM) to modulate a digital signal for transmission over the wire.
+As described above, technologies like Wi-Fi and Bluetooth also use modems to communicate over radio at short distances.
+Null modem[edit]
+ Null modem adapter
+A null modem cable is a specially wired cable connected between the serial ports of two devices, with the transmit and receive lines reversed. It is used to connect two devices directly without a modem. The same software or hardware typically used with modems (such as Procomm or Minicom) could be used with this type of connection.
+A null modem adapter is a small device with plugs on both end which is placed on the end of a normal "straight-through" serial cable to convert it into a null-modem cable.
+Short-haul modem[edit]
+A "short haul modem" is a device that bridges the gap between leased-line and dial-up modems. Like a leased-line modem, they transmit over "bare" lines with no power or telco switching equipment, but are not intended for the same distances that leased lines can achieve. Ranges up to several miles are possible, but significantly, short-haul modems can be used for medium distances, greater than the maximum length of a basic serial cable but still relatively short, such as within a single building or campus. This allows a serial connection to be extended for perhaps only several hundred to several thousand feet, a case where obtaining an entire telephone or leased line would be overkill.
+While some short-haul modems do in fact use modulation, low-end devices (for reasons of cost or power consumption) are simple "line drivers" that increase the level of the digital signal but do not modulate it. These are not technically modems, but the same terminology is used for them.[68]
+See also[edit]
+56 kbit/s line
+Handshaking
+Raytheon BBN
+Command and Data modes (modem)
+Fax demodulator
+List of interface bit rates
+List of ITU-T V-series recommendations
+Modulation
+RJ-11
+Time Independent Escape Sequence
+Wake-on-ring
+References[edit]
+^ Bellis, Mary (2017-12-31). "History of the Modem". ThoughtCo.com. Retrieved 2021-04-05.
+^ "National Security Agency Central Security Service > About Us > Cryptologic Heritage > Historical Figures and Publications > Publications > WWII > Sigsaly   The Start of the Digital Revolution". NSA.gov. Retrieved 2020-08-13.
+^ Manjoo, Farhad (2009-02-24). "The unrecognizable Internet of 1996". Slate Magazine. Retrieved 2020-08-10.
+^ Brenner, Joanna. "3% of Americans use dial-up at home". Pew Research Center. Retrieved 2020-08-10.
+^ 
+Don Lancaster.
+"TV Typewriter Cookbook".
+1976.
+(TV Typewriter).
+Section "400-Style (Touch-Tone) Modems".
+pp. 177 178.
+^ Internet, Tamsin Oxford 2009-12-26T11:00:00 359Z (26 December 2009). "Getting connected: a history of modems". TechRadar. Retrieved 2018-12-12.
+^ "Computerworld". Internet Archive. 1969-03-05. Retrieved 2020-08-13.
+^ "Pennywhistle 103, modem kit 1976: : Free Download, Borrow, and Streaming". Internet Archive. Retrieved 2020-08-13.
+^ "Bell 103A Interface Specifications" (PDF). 1967.
+^ "Lockheed MAC 16 options reference manual". Internet Archive. 1969-11-01. Retrieved 2020-08-14.
+^ Enterprise, I. D. G. (1976-09-27). Computerworld. IDG Enterprise.
+^ Enterprise, I. D. G. (1986-02-17). Computerworld. IDG Enterprise.
+^ Enterprise, I. D. G. (1977-11-14). Computerworld. IDG Enterprise.
+^ Enterprise, I. D. G. (1981-04-27). Computerworld. IDG Enterprise.
+^ Jennings, Fred (1986). Practical data communications : modems, networks and protocols : Jennings, Fred : Free Download, Borrow, and Streaming. Internet Archive. ISBN 9780632013067. Retrieved 2020-08-14.
+^ "Compute! Magazine Issue 012 : Free Download, Borrow, and Streaming". Internet Archive. May 1981. Retrieved 2020-08-14.
+^ Enterprise, I. D. G. (1987-03-30). Computerworld. IDG Enterprise.
+^ Enterprise, I. D. G. (1987). Computerworld. IDG Enterprise.
+^ Herzog, Marty (January 1988). "Neil Harris". Fictioneer Books. Comics Interview (54): 41 51.
+^ Held, Gilbert (2000). Understanding Data Communications: From Fundamentals to Networking Third Edition. New York: John Wiley & Sons Ltd. pp. 68 69.
+^ Ross, John A. (2001). Telecommunication technologies: voice, data & fiber-optic applications. Indianapolis, Ind.: Prompt. p. 185. ISBN 0-7906-1225-9. OCLC 45745196.
+^ a b Greenstein, Shane; Stango, Victor (2006). Standards and Public Policy. Cambridge University Press. pp. 129 132. ISBN 978-1-139-46075-0. Archived from the original on 2017-03-24.
+^ "Agreement reached on 56K Modem standard". International Telecommunication Union. 9 February 1998. Archived from the original on 2 October 2017. Retrieved 5 September 2018.
+^ "V.92: Enhancements to Recommendation V.90". www.itu.int. Retrieved 2020-06-29.
+^ "V.92   News & Updates". November and October 2000 updates. Archived from the original on 20 September 2012. Retrieved 17 September 2012.
+^ tsbmail (2011-04-15). "Data communication over the telephone network". Itu.int. Archived from the original on 2014-01-27. Retrieved 2014-02-10.
+^ a b c d e f g h "29.2 Historical Modem Protocols". tldp.org. Archived from the original on 2014-01-02. Retrieved 2014-02-10.
+^ "concordia.ca  Data Communication and Computer Networks" (PDF). Archived from the original (PDF) on 2006-10-07. Retrieved 2014-02-10.
+^ "Group 3 Facsimile Communication". garretwilson.com. 2013-09-20. Archived from the original on 2014-02-03. Retrieved 2014-02-10.
+^ "upatras.gr   Implementation of a V.34 modem on a Digital Signal Processor" (PDF). Archived from the original (PDF) on 2007-03-06. Retrieved 2014-02-10.
+^ Jones, Les. "Bonding: 112K, 168K, and beyond". 56K.COM. Archived from the original on 1997-12-10.
+^ "V.44". www.linfo.org. Retrieved 2023-04-06.
+^ "V.92". Techopedia. Retrieved 2023-04-06.
+^ "How High-speed Dial-up Works". HowStuffWorks. 2004-06-15. Retrieved 2023-04-06.
+^ Holcombe, Jeremy (2019-05-01). "How To Enable Turbo Mode in Opera". GreenGeeks. Retrieved 2023-04-06.
+^ a b Shimpi, Anand Lal. "Amazon's Silk Browser Acceleration Tested: Less Bandwidth Consumed, But Slower Performance". www.anandtech.com. Retrieved 2023-04-06.
+^ a b "The History of the Modem". Techopedia.com. Retrieved 2020-08-13.
+^ Enterprise, I. D. G. (1975-11-12). Computerworld. IDG Enterprise.
+^ "The Modem | Invention & Technology Magazine". www.inventionandtech.com. Retrieved 2020-08-13.
+^ "801A Automatic Calling Unit Interface Specification" (PDF). 1964-03-01.
+^ "Computerworld". Internet Archive. 1970-02-18. Retrieved 2020-08-13.
+^ "USRobotics 56K Modem Education: What are the different types of modems?". support.usr.com. Retrieved 2020-08-11.
+^ "PC Computing Magazine Volume 6 Issue 7 : Ziff-Davis Publishing : Free Download, Borrow, and Streaming". Internet Archive. July 1993. Retrieved 2020-08-14.
+^ "InfoWorld : InfoWorld Media Group, Inc. : Free Download, Borrow, and Streaming". Internet Archive. 17 June 1996. Retrieved 2020-08-14.
+^ "Modem-HOWTO   Modems for a Linux PC   tldp.Docs.sk". tldp.docs.sk. Retrieved 2020-08-14.
+^ ID, FCC. "E110 56K Data/Fax Voice Soeakphone External Modem User Manual PTT Turbocomm Tech ". FCC ID. Retrieved 2020-08-13.
+^ "ITU-T Recommendation database". ITU. Retrieved 2021-12-30.
+^ "Iicwg Scip 216". nisp.nw3.dk. Retrieved 2021-12-30.
+^ "SIP Software Modem - Modem without an analog line". www.vocal.com. Retrieved 2021-12-30.
+^ "Software Publishing Association Unveils New Data". Read.Me. Computer Gaming World. May 1994. p. 12. Archived from the original on 2014-07-03. Retrieved 2017-11-11.
+^ Suzanne Choney. "AOL still has 3.5 million dial-up subscribers   Technology on NBCNews.com". NBC News. Archived from the original on 2013-01-01. Retrieved 2014-02-10.
+^ "MODEMS lease line modem". www.data-connect.com. Retrieved 2020-08-11.
+^ R. F. Rey, ed. (1984). "2.2.3 Data Products" (PDF). Engineering and Operations in the Bell System (PDF) (Second ed.). AT&T Bell Laboratories. p. 45. ISBN 0-932764-04-5. LCCN 83-72956. 500-478. Retrieved April 1, 2022. Speeds on broadband private-line channels range from 19.2  to 230.4 kbps.
+^ R. F. Rey, ed. (1984). "6.2.1 Basic Concept" (PDF). Engineering and Operations in the Bell System (PDF) (Second ed.). AT&T Bell Laboratories. p. 199. ISBN 0-932764-04-5. LCCN 83-72956. 500-478. Retrieved April 1, 2022. Analog channels can be further characterized by bandwidth:  narrowband channels (for example, 100 Hz, 200 Hz); voiceband channels (4 kHz);4 broadband channels (for example, 48 kHz, 240 kHz).
+^ "What's the Difference between a Modem and Router?". Lifewire. Retrieved 2021-11-23.
+^ "Modem vs. router: The differences between the pieces of hardware that connect you to the internet, explained". Business Insider Australia. 2021-04-07. Retrieved 2021-11-23.
+^ hp.com/us-en/shop/tech-takes/modem-vs-router
+^ "Modem vs. Router: What's the Difference?". Wirecutter: Reviews for the Real World. 2021-02-11. Retrieved 2021-11-23.
+^ "Modem vs Router: What's the Difference?". Xfinity. Retrieved 2021-11-23.
+^ "HUAWEI E1762,HSPA/UMTS 900/2100 Support 2Mbps (5.76Mbps ready) HSUPA and 7.2Mbps HSDPA services". 3gmodem.com.hk. Archived from the original on 2013-05-10. Retrieved 2013-04-22.
+^ "Sierra Wireless Compass 885 HSUPA 3G modem". The Register. Archived from the original on 2013-01-04. Retrieved 2014-02-10.
+^ Lawson, Stephen (May 2, 2011). "Laptop Users Still Prefer USB Modems". PCWorld. IDG Consumer & SMB. Archived from the original on September 27, 2016. Retrieved 2016-08-13.
+^ Michael Kassner (February 10, 2015). "Researchers double throughput of long-distance fiber optics". TechRepublic. Archived from the original on November 9, 2016.
+^ Bengt-Erik Olsson; Anders Djupsj backa; Jonas M rtensson; Arne Alping (6 Dec 2011). "112 Gbit/s RF-assisted dual carrier DP-16-QAM transmitter using optical phase modulator". Optics Express. Optical Society of America. 19 (26): B784-9. Bibcode:2011OExpr..19B.784O. doi:10.1364/oe.19.00b784. PMID 22274103. S2CID 32757398.
+^ Stephen Hardy (March 17, 2016). "ClariPhy targets 400G with new 16-nm DSP silicon". LIGHTWAVE. Archived from the original on November 9, 2016.
+^ "ClariPhy Shatters Fiber and System Capacity Barriers with Industry's First 16nm Coherent Optical Networking Platform". optics.org. 17 Mar 2016.
+^ "Nokia Bell Labs achieve 65 Terabit-per-second transmission record for transoceanic cable systems". Noika. 12 October 2016. Archived from the original on 9 November 2016. Retrieved 8 November 2016.
+^ "Modem". www.trine2.net.au. Retrieved 2020-08-13.
+External links[edit]
+Wikibooks has a book on the topic of: Transferring Data between Standard Dial-Up Modems
+Wikimedia Commons has media related to Modems.
+Hayes-compatible Modems and AT Commands from the Serial Data Communications Programming Wikibook
+International Telecommunication Union ITU: Data communication over the telephone network
+Basic handshakes & modulations   V.22, V.22bis, V.32 and V.34 handshakes
+Getting connected: a history of modems   techradar
+Difference between Modems and Routers   Bugswave
+Telecommunications Transmission_Engineering Volume 2 Facilities - AT&T
+vteTelephone network modem standards
+ITU V-series
+V.92
+K56flex
+X2
+MNP
+Hayes command set
+vteInternet accessWired
+Cable
+Dial-up
+DOCSIS
+DSL
+Ethernet
+FTTx
+G.hn
+HD-PLC
+HomePlug
+HomePNA
+IEEE 1901
+ISDN
+MoCA
+PON
+Power-line
+Broadband
+Wireless PAN
+Bluetooth
+Li-Fi
+Wireless USB
+Wireless LAN
+Wi-Fi
+Long range wireless
+5G NR
+DECT
+EVDO
+GPRS
+HSPA
+iBurst
+LTE
+MMDS
+Muni Wi-Fi
+Satellite
+UMTS-TDD
+WiMAX
+WiBro
+vteTelecommunicationsHistory
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Data compression
+audio
+DCT
+image
+video
+Digital media
+Internet video
+online video platform
+social media
+streaming
+Drums
+Edholm's law
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Information Age
+Information revolution
+Internet
+Mass media
+Mobile phone
+Smartphone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Semiconductor
+device
+MOSFET
+transistor
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+digital
+streaming
+Undersea telegraph line
+Videotelephony
+Whistled language
+Wireless revolution
+Pioneers
+Nasir Ahmed
+Edwin Howard Armstrong
+Mohamed M. Atalla
+John Logie Baird
+Paul Baran
+John Bardeen
+Alexander Graham Bell
+Emile Berliner
+Tim Berners-Lee
+Francis Blake (telephone)
+Jagadish Chandra Bose
+Charles Bourseul
+Walter Houser Brattain
+Vint Cerf
+Claude Chappe
+Yogen Dalal
+Daniel Davis Jr.
+Donald Davies
+Amos Dolbear
+Thomas Edison
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Oliver Heaviside
+Robert Hooke
+Erna Schneider Hoover
+Harold Hopkins
+Gardiner Greene Hubbard
+Internet pioneers
+Bob Kahn
+Dawon Kahng
+Charles K. Kao
+Narinder Singh Kapany
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Robert Metcalfe
+Antonio Meucci
+Samuel Morse
+Jun-ichi Nishizawa
+Charles Grafton Page
+Radia Perlman
+Alexander Stepanovich Popov
+Tivadar Pusk s
+Johann Philipp Reis
+Claude Shannon
+Almon Brown Strowger
+Henry Sutton
+Charles Sumner Tainter
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Thomas A. Watson
+Charles Wheatstone
+Vladimir K. Zworykin
+Transmissionmedia
+Coaxial cable
+Fiber-optic communication
+optical fiber
+Free-space optical communication
+Molecular communication
+Radio waves
+wireless
+Transmission line
+data transmission circuit
+telecommunication circuit
+Network topologyand switching
+Bandwidth
+Links
+Nodes
+terminal
+Network switching
+circuit
+packet
+Telephone exchange
+Multiplexing
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+Concepts
+Communication protocol
+Computer network
+Data transmission
+Store and forward
+Telecommunications equipment
+Types of network
+Cellular network
+Ethernet
+ISDN
+LAN
+Mobile
+NGN
+Public Switched Telephone
+Radio
+Television
+Telex
+UUCP
+WAN
+Wireless network
+Notable networks
+ARPANET
+BITNET
+CYCLADES
+FidoNet
+Internet
+Internet2
+JANET
+NPL network
+Toasternet
+Usenet
+Locations
+Africa
+Americas
+North
+South
+Antarctica
+Asia
+Europe
+Oceania
+(Global telecommunications regulation bodies)
+ Telecommunication portal
+ Category
+ Outline
+ Commons
+Authority control: National 
+France
+BnF data
+Germany
+Israel
+United States
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Modem&oldid=1148957094"

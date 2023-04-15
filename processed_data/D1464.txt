@@ -1,0 +1,786 @@
+Branch of seismology
+For probabilistic assessment of general earthquake hazard, see earthquake forecasting.
+Part of a series onEarthquakes
+Types
+Mainshock
+Foreshock
+Aftershock
+Blind thrust
+Doublet
+Interplate
+Intraplate
+Megathrust
+Remotely triggered
+Slow
+Submarine
+Supershear
+Tsunami
+Earthquake swarm
+Causes
+Fault movement
+Volcanism
+Induced seismicity
+Characteristics
+Epicenter
+Hypocenter
+Shadow zone
+Seismic waves
+P wave
+S wave
+Measurement
+Seismometer
+Seismic magnitude scales
+Seismic intensity scales
+Prediction
+Coordinating Committee forEarthquake Prediction
+Forecasting
+Other topics
+Shear wave splitting
+Adams Williamson equation
+Flinn Engdahl regions
+Earthquake engineering
+Seismite
+Seismology
+Earth Sciences Portal
+Category
+Related topicsvte
+Earthquake prediction is a branch of the science of seismology concerned with the specification of the time, location, and magnitude of future earthquakes within stated limits,[1][a] and particularly "the determination of parameters for the next strong earthquake to occur in a region".[2] Earthquake prediction is sometimes distinguished from earthquake forecasting, which can be defined as the probabilistic assessment of general earthquake hazard, including the frequency and magnitude of damaging earthquakes in a given area over years or decades.[3][b] Not all scientists distinguish "prediction" and "forecast",[citation needed] but the distinction is useful.
+Prediction can be further distinguished from earthquake warning systems, which, upon detection of an earthquake, provide a real-time warning of seconds to neighboring regions that might be affected.
+In the 1970s, scientists were optimistic that a practical method for predicting earthquakes would soon be found, but by the 1990s continuing failure led many to question whether it was even possible.[4] Demonstrably successful predictions of large earthquakes have not occurred, and the few claims of success are controversial. For example, the most famous claim of a successful prediction is that alleged for the 1975 Haicheng earthquake.[5] A later study said that there was no valid short-term prediction.[6] Extensive searches have reported many possible earthquake precursors, but, so far, such precursors have not been reliably identified across significant spatial and temporal scales.[7] While part of the scientific community hold that, taking into account non-seismic precursors and given enough resources to study them extensively, prediction might be possible, most scientists are pessimistic and some maintain that earthquake prediction is inherently impossible.[8]
+Evaluating earthquake predictions[edit]
+See also: Prediction  Prediction in science
+Predictions are deemed significant if they can be shown to be successful beyond random chance.[9] Therefore, methods of statistical hypothesis testing are used to determine the probability that an earthquake such as is predicted would happen anyway (the null hypothesis). The predictions are then evaluated by testing whether they correlate with actual earthquakes better than the null hypothesis.[10]
+In many instances, however, the statistical nature of earthquake occurrence is not simply homogeneous. Clustering occurs in both space and time.[11] In southern California about 6% of M 3.0 earthquakes are "followed by an earthquake of larger magnitude within 5 days and 10 km."[12] In central Italy 9.5% of M 3.0 earthquakes are followed by a larger event within 48 hours and 30 km.[13] While such statistics are not satisfactory for purposes of prediction (giving ten to twenty false alarms for each successful prediction) they will skew the results of any analysis that assumes that earthquakes occur randomly in time, for example, as realized from a Poisson process. It has been shown that a "naive" method based solely on clustering can successfully predict about 5% of earthquakes; "far better than 'chance'".[14]
+ The Dilemma: To Alarm? or Not to Alarm? It is assumed that the public is also warned, in addition to the authorities.
+As the purpose of short-term prediction is to enable emergency measures to reduce death and destruction, failure to give warning of a major earthquake, that does occur, or at least an adequate evaluation of the hazard, can result in legal liability, or even political purging. For example, it has been reported that members of the Chinese Academy of Sciences were purged for "having ignored scientific predictions of the disastrous Tangshan earthquake of summer 1976."[15] Following the L'Aquila earthquake of 2009, seven scientists and technicians in Italy were convicted of manslaughter, but not so much for failing to predict the 2009 L'Aquila Earthquake (where some 300 people died) as for giving undue assurance to the populace   one victim called it "anaesthetizing"   that there would not be a serious earthquake, and therefore no need to take precautions.[16] But warning of an earthquake that does not occur also incurs a cost: not only the cost of the emergency measures themselves, but of civil and economic disruption.[17] False alarms, including alarms that are canceled, also undermine the credibility, and thereby the effectiveness, of future warnings.[18] In 1999 it was reported[19] that China was introducing "tough regulations intended to stamp out  false  earthquake warnings, in order to prevent panic and mass evacuation of cities triggered by forecasts of major tremors." This was prompted by "more than 30 unofficial earthquake warnings ... in the past three years, none of which has been accurate."[c] The acceptable trade-off between missed quakes and false alarms depends on the societal valuation of these outcomes. The rate of occurrence of both must be considered when evaluating any prediction method.[20]
+In a 1997 study[21] of the cost-benefit ratio of earthquake prediction research in Greece, Stathis Stiros suggested that even a (hypothetical) excellent prediction method would be of questionable social utility, because "organized evacuation of urban centers is unlikely to be successfully accomplished", while "panic and other undesirable side-effects can also be anticipated." He found that earthquakes kill less than ten people per year in Greece (on average), and that most of those fatalities occurred in large buildings with identifiable structural issues. Therefore, Stiros stated that it would be much more cost-effective to focus efforts on identifying and upgrading unsafe buildings. Since the death toll on Greek highways is more than 2300 per year on average, he argued that more lives would also be saved if Greece's entire budget for earthquake prediction had been used for street and highway safety instead.[22]
+Prediction methods[edit]
+Earthquake prediction is an immature science  it has not yet led to a successful prediction of an earthquake from first physical principles. Research into methods of prediction therefore focus on empirical analysis, with two general approaches: either identifying distinctive precursors to earthquakes, or identifying some kind of geophysical trend or pattern in seismicity that might precede a large earthquake.[23] Precursor methods are pursued largely because of their potential utility for short-term earthquake prediction or forecasting, while 'trend' methods are generally thought to be useful for forecasting, long term prediction (10 to 100 years time scale) or intermediate term prediction (1 to 10 years time scale).[24]
+Precursors[edit]
+An earthquake precursor is an anomalous phenomenon that might give effective warning of an impending earthquake.[d] Reports of these   though generally recognized as such only after the event   number in the thousands,[26] some dating back to antiquity.[27] There have been around 400 reports of possible precursors in scientific literature, of roughly twenty different types,[28] running the gamut from aeronomy to zoology.[29] None have been found to be reliable for the purposes of earthquake prediction.[30]
+In the early 1990, the IASPEI solicited nominations for a Preliminary List of Significant Precursors. Forty nominations were made, of which five were selected as possible significant precursors, with two of those based on a single observation each.[31]
+After a critical review of the scientific literature, the International Commission on Earthquake Forecasting for Civil Protection (ICEF) concluded in 2011 there was "considerable room for methodological improvements in this type of research."[32] In particular, many cases of reported precursors are contradictory, lack a measure of amplitude, or are generally unsuitable for a rigorous statistical evaluation. Published results are biased towards positive results, and so the rate of false negatives (earthquake but no precursory signal) is unclear.[33]
+Animal behavior[edit]
+After an earthquake has already begun, pressure waves (P-waves) travel twice as fast as the more damaging shear waves (s-waves).[34] Typically not noticed by humans, some animals may notice the smaller vibrations that arrive a few to a few dozen seconds before the main shaking, and become alarmed or exhibit other unusual behavior.[35][36] Seismometers can also detect P waves, and the timing difference is exploited by electronic earthquake warning systems to provide humans with a few seconds to move to a safer location.
+A review of scientific studies available as of 2018 covering over 130 species found insufficient evidence to show that animals could provide warning of earthquakes hours, days, or weeks in advance.[37] Statistical correlations suggest some reported unusual animal behavior is due to smaller earthquakes (foreshocks) that sometimes precede a large quake,[38] which if small enough may go unnoticed by people.[39] Foreshocks may also cause groundwater changes or release gases that can be detected by animals.[38] Foreshocks are also detected by seismometers, and have long been studied as potential predictors, but without success (see #Seismicity patterns). Seismologists have not found evidence of medium-term physical or chemical changes that predict earthquakes which animals might be sensing.[37]
+Anecdotal reports of strange animal behavior before earthquakes have been recorded for thousands of years.[35] Some unusual animal behavior may be mistakenly attributed to a near-future earthquake. The flashbulb memory effect causes unremarkable details to become more memorable and more significant when associated with an emotionally powerful event such as an earthquake.[40] Even the vast majority of scientific reports in the 2018 review did not include observations showing that animals did not act unusually when there was not an earthquake about to happen, meaning the behavior was not established to be predictive.[38]
+Most researchers investigating animal prediction of earthquakes are in China and Japan.[35] Most scientific observations have come from the 2010 Canterbury earthquake in New Zealand, the 1984 Otaki earthquake in Japan, and the 2009 L'Aquila earthquake in Italy.[38]
+Animals known to be magnetoreceptive might be able to detect electromagnetic waves in the ultra low frequency and extremely low frequency ranges that reach the surface of the Earth before an earthquake, causing odd behavior. These electromagnetic waves could also cause air ionization, water oxidation and possible water toxification which other animals could detect.[41]
+Dilatancy diffusion[edit]
+In the 1970s the dilatancy diffusion hypothesis was highly regarded as providing a physical basis for various phenomena seen as possible earthquake precursors.[42] It was based on "solid and repeatable evidence"[43] from laboratory experiments that highly stressed crystalline rock experienced a change in volume, or dilatancy,[e] which causes changes in other characteristics, such as seismic velocity and electrical resistivity, and even large-scale uplifts of topography. It was believed this happened in a 'preparatory phase' just prior to the earthquake, and that suitable monitoring could therefore warn of an impending quake.
+Detection of variations in the relative velocities of the primary and secondary seismic waves   expressed as Vp/Vs   as they passed through a certain zone was the basis for predicting the 1973 Blue Mountain Lake (NY) and 1974 Riverside (CA) quake.[45] Although these predictions were informal and even trivial, their apparent success was seen as confirmation of both dilatancy and the existence of a preparatory process, leading to what were subsequently called "wildly over-optimistic statements"[42] that successful earthquake prediction "appears to be on the verge of practical reality."[46]
+However, many studies questioned these results,[47] and the hypothesis eventually languished. Subsequent study showed it "failed for several reasons, largely associated with the validity of the assumptions on which it was based", including the assumption that laboratory results can be scaled up to the real world.[48] Another factor was the bias of retrospective selection of criteria.[49] Other studies have shown dilatancy to be so negligible that Main et al. 2012 concluded: "The concept of a large-scale 'preparation zone' indicating the likely magnitude of a future event, remains as ethereal as the ether that went undetected in the Michelson Morley experiment."
+Changes in Vp/Vs[edit]
+Vp is the symbol for the velocity of a seismic "P" (primary or pressure) wave passing through rock, while Vs is the symbol for the velocity of the "S" (secondary or shear) wave. Small-scale laboratory experiments have shown that the ratio of these two velocities   represented as Vp/Vs   changes when rock is near the point of fracturing. In the 1970s it was considered a likely breakthrough when Russian seismologists reported observing such changes (later discounted.[50]) in the region of a subsequent earthquake.[51] This effect, as well as other possible precursors, has been attributed to dilatancy, where rock stressed to near its breaking point expands (dilates) slightly.[52]
+Study of this phenomenon near Blue Mountain Lake in New York State led to a successful albeit informal prediction in 1973,[53] and it was credited for predicting the 1974 Riverside (CA) quake.[45] However, additional successes have not followed, and it has been suggested that these predictions were a flukes.[54] A Vp/Vs anomaly was the basis of a 1976 prediction of a M 5.5 to 6.5 earthquake near Los Angeles, which failed to occur.[55] Other studies relying on quarry blasts (more precise, and repeatable) found no such variations,[56] while an analysis of two earthquakes in California found that the variations reported were more likely caused by other factors, including retrospective selection of data.[57] Geller (1997) noted that reports of significant velocity changes have ceased since about 1980.
+Radon emissions[edit]
+Most rock contains small amounts of gases that can be isotopically distinguished from the normal atmospheric gases. There are reports of spikes in the concentrations of such gases prior to a major earthquake; this has been attributed to release due to pre-seismic stress or fracturing of the rock. One of these gases is radon, produced by radioactive decay of the trace amounts of uranium present in most rock.[58] Radon is potentially useful as an earthquake predictor because it is radioactive and thus easily detected,[f] and its short half-life (3.8 days) makes radon levels sensitive to short-term fluctuations. 
+A 2009 compilation[59] listed 125 reports of changes in radon emissions prior to 86 earthquakes since 1966. The International Commission on Earthquake Forecasting for Civil Protection (ICEF) however found in its 2011 critical review that the earthquakes with which these changes are supposedly linked were up to a thousand kilometers away, months later, and at all magnitudes. In some cases the anomalies were observed at a distant site, but not at closer sites. The ICEF found "no significant correlation".[60]
+Electromagnetic anomalies[edit]
+Further information: Seismo-electromagnetics
+Observations of electromagnetic disturbances and their attribution to the earthquake failure process go back as far as the Great Lisbon earthquake of 1755, but practically all such observations prior to the mid-1960s are invalid because the instruments used were sensitive to physical movement.[61] Since then various anomalous electrical, electric-resistive, and magnetic phenomena have been attributed to precursory stress and strain changes that precede earthquakes,[62] raising hopes for finding a reliable earthquake precursor.[63] While a handful of researchers have gained much attention with either theories of how such phenomena might be generated, claims of having observed such phenomena prior to an earthquake, no such phenomena has been shown to be an actual precursor.
+A 2011 review by the International Commission on Earthquake Forecasting for Civil Protection (ICEF)[64] found the "most convincing" electromagnetic precursors to be ultra low frequency magnetic anomalies, such as the Corralitos event (discussed below) recorded before the 1989 Loma Prieta earthquake. However, it is now believed that observation was a system malfunction. Study of the closely monitored 2004 Parkfield earthquake found no evidence of precursory electromagnetic signals of any type; further study showed that earthquakes with magnitudes less than 5 do not produce significant transient signals.[65] The ICEF considered the search for useful precursors to have been unsuccessful.[66]
+VAN seismic electric signals[edit]
+Main article: VAN method
+The most touted, and most criticized, claim of an electromagnetic precursor is the VAN method of physics professors Panayiotis Varotsos, Kessar Alexopoulos and Konstantine Nomicos (VAN) of the University of Athens. In a 1981 paper[67] they claimed that by measuring geoelectric voltages   what they called "seismic electric signals" (SES)   they could predict earthquakes.[g]
+In 1984, they claimed there was a "one-to-one correspondence" between SES and earthquakes[68]   that is, that "every sizable EQ is preceded by an SES and inversely every SES is always followed by an EQ the magnitude and the epicenter of which can be reliably predicted"[69]   the SES appearing between 6 and 115 hours before the earthquake. As proof of their method they claimed a series of successful predictions.[70]
+Although their report was "saluted by some as a major breakthrough",[h] among seismologists it was greeted by a "wave of generalized skepticism".[72] In 1996, a paper VAN submitted to the journal Geophysical Research Letters was given an unprecedented public peer-review by a broad group of reviewers, with the paper and reviews published in a special issue;[73] the majority of reviewers found the methods of VAN to be flawed. Additional criticism was raised the same year in a public debate between some of the principals.[74][i]
+A primary criticism was that the method is geophysically implausible and scientifically unsound.[76] Additional objections included the demonstrable falsity of the claimed one-to-one relationship of earthquakes and SES,[77] the unlikelihood of a precursory process generating signals stronger than any observed from the actual earthquakes,[78] and the very strong likelihood that the signals were man-made.[79][j] Further work in Greece has tracked SES-like "anomalous transient electric signals" back to specific human sources, and found that such signals are not excluded by the criteria used by VAN to identify SES.[81] More recent work, by employing modern methods of statistical physics, i.e., detrended fluctuation analysis (DFA), multifractal DFA and wavelet transform revealed that SES are clearly distinguished from signals produced by man made sources.[82][83]
+The validity of the VAN method, and therefore the predictive significance of SES, was based primarily on the empirical claim of demonstrated predictive success.[84] Numerous weaknesses have been uncovered in the VAN methodology,[k] and in 2011 the International Commission on Earthquake Forecasting for Civil Protection concluded that the prediction capability claimed by VAN could not be validated.[85] Most seismologists consider VAN to have been "resoundingly debunked".[86] On the other hand, the Section "Earthquake Precursors and Prediction" of "Encyclopedia of Solid Earth Geophysics: part of "Encyclopedia of Earth Sciences Series" (Springer 2011) ends as follows (just before its summary): "it has recently been shown that by analyzing time-series in a newly introduced time domain "natural time", the approach to the critical state can be clearly identified [Sarlis et al. 2008]. This way, they appear to have succeeded in shortening the lead-time of VAN prediction to only a few days [Uyeda and Kamogawa 2008]. This means, seismic data may play an amazing role in short term precursor when combined with SES data".[87]
+Since 2001, the VAN group has introduced a concept they call "natural time", applied to the analysis of their precursors. Initially it is applied on SES to distinguish them from noise and relate them to a possible impending earthquake. In case of verification (classification as "SES activity"), natural time analysis is additionally applied to the general subsequent seismicity of the area associated with the SES activity, in order to improve the time parameter of the prediction. The method treats earthquake onset as a critical phenomenon.[88][89] A review of the updated VAN method in 2020 says that it suffers from an abundance of false positives and is therefore not usable as a prediction protocol.[90] VAN group answered by pinpointing misunderstandings in the specific reasoning.[91]
+Corralitos anomaly[edit]
+Probably the most celebrated seismo-electromagnetic event ever, and one of the most frequently cited examples of a possible earthquake precursor, is the 1989 Corralitos anomaly.[92] In the month prior to the 1989 Loma Prieta earthquake, measurements of the earth's magnetic field at ultra-low frequencies by a magnetometer in Corralitos, California, just 7 km from the epicenter of the impending earthquake, started showing anomalous increases in amplitude. Just three hours before the quake, the measurements soared to about thirty times greater than normal, with amplitudes tapering off after the quake. Such amplitudes had not been seen in two years of operation, nor in a similar instrument located 54 km away. To many people such apparent locality in time and space suggested an association with the earthquake.[93]
+Additional magnetometers were subsequently deployed across northern and southern California, but after ten years and several large earthquakes, similar signals have not been observed. More recent studies have cast doubt on the connection, attributing the Corralitos signals to either unrelated magnetic disturbance[94] or, even more simply, to sensor-system malfunction.[95]
+Freund physics[edit]
+In his investigations of crystalline physics, Friedemann Freund found that water molecules embedded in rock can dissociate into ions if the rock is under intense stress. The resulting charge carriers can generate battery currents under certain conditions. Freund suggested that perhaps these currents could be responsible for earthquake precursors such as electromagnetic radiation, earthquake lights and disturbances of the plasma in the ionosphere.[96] The study of such currents and interactions is known as "Freund physics".[97][98][99]
+Most seismologists reject Freund's suggestion that stress-generated signals can be detected and put to use as precursors, for a number of reasons. First, it is believed that stress does not accumulate rapidly before a major earthquake, and thus there is no reason to expect large currents to be rapidly generated. Secondly, seismologists have extensively searched for statistically reliable electrical precursors, using sophisticated instrumentation, and have not identified any such precursors. And thirdly, water in the earth's crust would cause any generated currents to be absorbed before reaching the surface.[100]
+Disturbance of the daily cycle of the ionosphere[edit]
+ The ULF* recording of the D layer retention of the ionosphere which absorbs EM radiation during the nights before the earthquake in L'Aquila, Italy on 6/4/2009. The anomaly is indicated in red.
+The ionosphere usually develops its lower D layer during the day, while at night this layer disappears as the plasma there turns to gas. During the night, the F layer of the ionosphere remains formed, in higher altitude than D layer. A waveguide for low HF radio frequencies up to 10 MHz is formed during the night (skywave propagation) as the F layer reflects these waves back to the Earth. The skywave is lost during the day, as the D layer absorbs these waves.
+Tectonic stresses in the Earth's crust are claimed to cause waves of electric charges[101][102] that travel to the surface of the Earth and affect the ionosphere.[103] ULF* recordings[l] of the daily cycle of the ionosphere indicate that the usual cycle could be disturbed a few days before a shallow strong earthquake. When the disturbance occurs, it is observed that either the D layer is lost during the day resulting to ionosphere elevation and skywave formation or the D layer appears at night resulting to lower of the ionosphere and hence absence of skywave.[104][105][106]
+Science centers have developed a network of VLF transmitters and receivers on a global scale that detect changes in skywave. Each receiver is also daisy transmitter for distances of 1000 - 10,000 kilometers and is operating at different frequencies within the network. The general area under excitation can be determined depending on the density of the network.[107][108] It was shown on the other hand that global extreme events like magnetic storms or solar flares and local extreme events in the same VLF path like another earthquake or a volcano eruption that occur in near time with the earthquake under evaluation make it difficult or impossible to relate changes in skywave to the earthquake of interest.[109]
+In 2017, an article in the Journal of Geophysical Research showed that the relationship between ionospheric anomalies and large seismic events (M 6.0) occurring globally from 2000 2014 was based on the presence of solar weather. When the solar data are removed from the time series, the correlation is no longer statistically significant.[110] A subsequent article in Physics of the Earth and Planetary Interiors in 2020 shows that solar weather and ionospheric disturbances are a potential cause to trigger large earthquakes based on this statistical relationship. The proposed mechanism is electromagnetic induction from the ionosphere to the fault zone. Fault fluids are conductive, and can produce telluric currents at depth. The resulting change in the local magnetic field in the fault triggers dissolution of minerals and weakens the rock, while also potentially changing the groundwater chemistry and level. After the seismic event, different minerals may be precipitated thus changing groundwater chemistry and level again.[111] This process of mineral dissolution and precipitation before and after an earthquake has been observed in Iceland.[112] This model makes sense of the ionospheric, seismic and groundwater data.
+Satellite observation of the expected ground temperature declination[edit]
+ The thermal night recording on January 6, 21 and 28, 2001 in the Gujarat region of India. Marked with an asterisk is the epicenter of the Bhuj earthquake on January 26 that was of 7.9 magnitude. The intermediate recording reveals a thermal anomaly on January 21 which is shown in red. In the next recording, 2 days after the earthquake, the thermal anomaly has disappeared.
+One way of detecting the mobility of tectonic stresses is to detect locally elevated temperatures on the surface of the crust measured by satellites. During the evaluation process, the background of daily variation and noise due to atmospheric disturbances and human activities are removed before visualizing the concentration of trends in the wider area of a fault. This method has been experimentally applied since 1995.[113][114][115][116]
+In a newer approach to explain the phenomenon, NASA's Friedmann Freund has proposed that the infrared radiation captured by the satellites is not due to a real increase in the surface temperature of the crust. According to this version the emission is a result of the quantum excitation that occurs at the chemical re-bonding of positive charge carriers (holes) which are traveling from the deepest layers to the surface of the crust at a speed of 200 meters per second. The electric charge arises as a result of increasing tectonic stresses as the time of the earthquake approaches. This emission extends superficially up to 500 x 500 square kilometers for very large events and stops almost immediately after the earthquake.[117]
+Trends[edit]
+Instead of watching for anomalous phenomena that might be precursory signs of an impending earthquake, other approaches to predicting earthquakes look for trends or patterns that lead to an earthquake. As these trends may be complex and involve many variables, advanced statistical techniques are often needed to understand them, therefore these are sometimes called statistical methods. These approaches also tend to be more probabilistic, and to have larger time periods, and so merge into earthquake forecasting.[citation needed]
+Nowcasting[edit]
+Earthquake nowcasting, suggested in 2016[118][119] is the estimate of the current dynamic state of a seismological system, based on natural time introduced in 2001.[120] It differs from forecasting which aims to estimate the probability of a future event[121] but it is also considered a potential base for forecasting.[118][122] Nowcasting calculations produce the "earthquake potential score", an estimation of the current level of seismic progress.[123] Typical applications are: great global earthquakes and tsunamis,[124] aftershocks and induced seismicity,[122][125] induced seismicity at gas fields,[126] seismic risk to global megacities,[121] studying of clustering of large global earthquakes,[127] etc.
+Elastic rebound[edit]
+Even the stiffest of rock is not perfectly rigid. Given a large force (such as between two immense tectonic plates moving past each other) the earth's crust will bend or deform. According to the elastic rebound theory of Reid (1910), eventually the deformation (strain) becomes great enough that something breaks, usually at an existing fault. Slippage along the break (an earthquake) allows the rock on each side to rebound to a less deformed state. In the process energy is released in various forms, including seismic waves.[128] The cycle of tectonic force being accumulated in elastic deformation and released in a sudden rebound is then repeated. As the displacement from a single earthquake ranges from less than a meter to around 10 meters (for an M 8 quake),[129] the demonstrated existence of large strike-slip displacements of hundreds of miles shows the existence of a long running earthquake cycle.[130][m]
+Characteristic earthquakes[edit]
+The most studied earthquake faults (such as the Nankai megathrust, the Wasatch fault, and the San Andreas fault) appear to have distinct segments. The characteristic earthquake model postulates that earthquakes are generally constrained within these segments.[131] As the lengths and other properties[n] of the segments are fixed, earthquakes that rupture the entire fault should have similar characteristics. These include the maximum magnitude (which is limited by the length of the rupture), and the amount of accumulated strain needed to rupture the fault segment. Since continuous plate motions cause the strain to accumulate steadily, seismic activity on a given segment should be dominated by earthquakes of similar characteristics that recur at somewhat regular intervals.[132] For a given fault segment, identifying these characteristic earthquakes and timing their recurrence rate (or conversely return period) should therefore inform us about the next rupture; this is the approach generally used in forecasting seismic hazard. UCERF3 is a notable example of such a forecast, prepared for the state of California.[133] Return periods are also used for forecasting other rare events, such as cyclones and floods, and assume that future frequency will be similar to observed frequency to date.
+The idea of characteristic earthquakes was the basis of the Parkfield prediction: fairly similar earthquakes in 1857, 1881, 1901, 1922, 1934, and 1966 suggested a pattern of breaks every 21.9 years, with a standard deviation of  3.1 years.[134][o] Extrapolation from the 1966 event led to a prediction of an earthquake around 1988, or before 1993 at the latest (at the 95% confidence interval).[135] The appeal of such a method is that the prediction is derived entirely from the trend, which supposedly accounts for the unknown and possibly unknowable earthquake physics and fault parameters. However, in the Parkfield case the predicted earthquake did not occur until 2004, a decade late. This seriously undercuts the claim that earthquakes at Parkfield are quasi-periodic, and suggests the individual events differ sufficiently in other respects to question whether they have distinct characteristics in common.[136]
+The failure of the Parkfield prediction has raised doubt as to the validity of the characteristic earthquake model itself.[137] Some studies have questioned the various assumptions, including the key one that earthquakes are constrained within segments, and suggested that the "characteristic earthquakes" may be an artifact of selection bias and the shortness of seismological records (relative to earthquake cycles).[138] Other studies have considered whether other factors need to be considered, such as the age of the fault.[p] Whether earthquake ruptures are more generally constrained within a segment (as is often seen), or break past segment boundaries (also seen), has a direct bearing on the degree of earthquake hazard: earthquakes are larger where multiple segments break, but in relieving more strain they will happen less often.[140]
+Seismic gaps[edit]
+At the contact where two tectonic plates slip past each other every section must eventually slip, as (in the long-term) none get left behind. But they do not all slip at the same time; different sections will be at different stages in the cycle of strain (deformation) accumulation and sudden rebound. In the seismic gap model the "next big quake" should be expected not in the segments where recent seismicity has relieved the strain, but in the intervening gaps where the unrelieved strain is the greatest.[141] This model has an intuitive appeal; it is used in long-term forecasting, and was the basis of a series of circum-Pacific (Pacific Rim) forecasts in 1979 and 1989 1991.[142]
+However, some underlying assumptions about seismic gaps are now known to be incorrect. A close examination suggests that "there may be no information in seismic gaps about the time of occurrence or the magnitude of the next large event in the region";[143] statistical tests of the circum-Pacific forecasts shows that the seismic gap model "did not forecast large earthquakes well".[144] Another study concluded that a long quiet period did not increase earthquake potential.[145]
+Seismicity patterns[edit]
+ 
+Various heuristically derived algorithms have been developed for predicting earthquakes. Probably the most widely known is the M8 family of algorithms (including the RTP method) developed under the leadership of Vladimir Keilis-Borok. M8 issues a "Time of Increased Probability" (TIP) alarm for a large earthquake of a specified magnitude upon observing certain patterns of smaller earthquakes. TIPs generally cover large areas (up to a thousand kilometers across) for up to five years.[146] Such large parameters have made M8 controversial, as it is hard to determine whether any hits that happened were skillfully predicted, or only the result of chance.
+M8 gained considerable attention when the 2003 San Simeon and Hokkaido earthquakes occurred within a TIP.[147] In 1999, Keilis-Borok's group published a claim to have achieved statistically significant intermediate-term results using their M8 and MSc models, as far as world-wide large earthquakes are regarded.[148] However, Geller et al.[149] are skeptical of prediction claims over any period shorter than 30 years. A widely publicized TIP for an M 6.4 quake in Southern California in 2004 was not fulfilled, nor two other lesser known TIPs.[150] A deep study of the RTP method in 2008 found that out of some twenty alarms only two could be considered hits (and one of those had a 60% chance of happening anyway).[151] It concluded that "RTP is not significantly different from a na ve method of guessing based on the historical rates [of] seismicity."[152]
+Accelerating moment release (AMR, "moment" being a measurement of seismic energy), also known as time-to-failure analysis, or accelerating seismic moment release (ASMR), is based on observations that foreshock activity prior to a major earthquake not only increased, but increased at an exponential rate.[153] In other words, a plot of the cumulative number of foreshocks gets steeper just before the main shock.
+Following formulation by Bowman et al. (1998) into a testable hypothesis,[154] and a number of positive reports, AMR seemed promising[155] despite several problems. Known issues included not being detected for all locations and events, and the difficulty of projecting an accurate occurrence time when the tail end of the curve gets steep.[156] But rigorous testing has shown that apparent AMR trends likely result from how data fitting is done,[157] and failing to account for spatiotemporal clustering of earthquakes.[158] The AMR trends are therefore statistically insignificant. Interest in AMR (as judged by the number of peer-reviewed papers) has fallen off since 2004.[159]
+Machine learning[edit]
+Rouet-Leduc et al. (2019) reported having successfully trained a regression random forest on acoustic time series data capable of identifying a signal emitted from fault zones that forecasts fault failure. Rouet-Leduc et al. (2019) suggested that the identified signal, previously assumed to be statistical noise, reflects the increasing emission of energy before its sudden release during a slip event. Rouet-Leduc et al. (2019) further postulated that their approach could bound fault failure times and lead to the identification of other unknown signals.[160] Due to the rarity of the most catastrophic earthquakes, acquiring representative data remains problematic. In response, Rouet-Leduc et al. (2019) have conjectured that their model would not need to train on data from catastrophic earthquakes, since further research has shown the seismic patterns of interest to be similar in smaller earthquakes.[161]
+Deep learning has also been applied to earthquake prediction. Although Bath's law and Omori's law describe the magnitude of earthquake aftershocks and their time-varying properties, the prediction of the "spatial distribution of aftershocks" remains an open research problem. Using the Theano and TensorFlow software libraries, DeVries et al. (2018) trained a neural network that achieved higher accuracy in the prediction of spatial distributions of earthquake aftershocks than the previously established methodology of Coulomb failure stress change. Notably, DeVries et al. (2018) reported that their model made no "assumptions about receiver plane orientation or geometry" and heavily weighted the change in shear stress, "sum of the absolute values of the independent components of the stress-change tensor," and the von Mises yield criterion. DeVries et al. (2018) postulated that the reliance of their model on these physical quantities indicated that they might "control earthquake triggering during the most active part of the seismic cycle." For validation testing, DeVries et al. (2018) reserved 10% of positive training earthquake data samples and an equal quantity of randomly chosen negative samples.[162]
+Arnaud Mignan and Marco Broccardo have similarly analyzed the application of artificial neural networks to earthquake prediction. They found in a review of literature that earthquake prediction research utilizing artificial neural networks has gravitated towards more sophisticated models amidst increased interest in the area. They also found that neural networks utilized in earthquake prediction with notable success rates were matched in performance by simpler models. They further addressed the issues of acquiring appropriate data for training neural networks to predict earthquakes, writing that the "structured, tabulated nature of earthquake catalogues" makes transparent machine learning models more desirable than artificial neural networks.[163]
+EMP induced seismicity[edit]
+High energy electromagnetic pulses can induce earthquakes within 2 6 days after the emission by EMP generators.[164] It has been proposed that strong EM impacts could control seismicity, as the seismicity dynamics that follow appear to be a lot more regular than usual.[165][166]
+Notable predictions[edit]
+These are predictions, or claims of predictions, that are notable either scientifically or because of public notoriety, and claim a scientific or quasi-scientific basis. As many predictions are held confidentially, or published in obscure locations, and become notable only when they are claimed, there may be a selection bias in that hits get more attention than misses. The predictions listed here are discussed in Hough's book[50] and Geller's paper.[167]
+1975: Haicheng, China[edit]
+The M 7.3 1975 Haicheng earthquake is the most widely cited "success" of earthquake prediction.[168] The ostensible story is that study of seismic activity in the region led the Chinese authorities to issue a medium-term prediction in June 1974, and the political authorities therefore ordered various measures taken, including enforced evacuation of homes, construction of "simple outdoor structures", and showing of movies out-of-doors. The quake, striking at 19:36, was powerful enough to destroy or badly damage about half of the homes. However, the "effective preventative measures taken" were said to have kept the death toll under 300 in an area with population of about 1.6 million, where otherwise tens of thousands of fatalities might have been expected.[169]
+However, although a major earthquake occurred, there has been some skepticism about the narrative of measures taken on the basis of a timely prediction. This event occurred during the Cultural Revolution, when "belief in earthquake prediction was made an element of ideological orthodoxy that distinguished the true party liners from right wing deviationists".[170] Recordkeeping was disordered, making it difficult to verify details, including whether there was any ordered evacuation. The method used for either the medium-term or short-term predictions (other than "Chairman Mao's revolutionary line"[171]) has not been specified.[q] The evacuation may have been spontaneous, following the strong (M 4.7) foreshock that occurred the day before.[173][r]
+A 2006 study that had access to an extensive range of records found that the predictions were flawed. "In particular, there was no official short-term prediction, although such a prediction was made by individual scientists."[174] Also: "it was the foreshocks alone that triggered the final decisions of warning and evacuation". They estimated that 2,041 lives were lost. That more did not die was attributed to a number of fortuitous circumstances, including earthquake education in the previous months (prompted by elevated seismic activity), local initiative, timing (occurring when people were neither working nor asleep), and local style of construction. The authors conclude that, while unsatisfactory as a prediction, "it was an attempt to predict a major earthquake that for the first time did not end up with practical failure."[174]
+Further information: 1975 Haicheng earthquake
+1981: Lima, Peru (Brady)[edit]
+In 1976, Brian Brady, a physicist, then at the U.S. Bureau of Mines, where he had studied how rocks fracture, "concluded a series of four articles on the theory of earthquakes with the deduction that strain building in the subduction zone [off-shore of Peru] might result in an earthquake of large magnitude within a period of seven to fourteen years from mid November 1974."[175] In an internal memo written in June 1978 he narrowed the time window to "October to November, 1981", with a main shock in the range of 9.2 0.2.[176] In a 1980 memo he was reported as specifying "mid-September 1980".[177] This was discussed at a scientific seminar in San Juan, Argentina, in October 1980, where Brady's colleague, W. Spence, presented a paper. Brady and Spence then met with government officials from the U.S. and Peru on 29 October, and "forecast a series of large magnitude earthquakes in the second half of 1981."[175] This prediction became widely known in Peru, following what the U.S. embassy described as "sensational first page headlines carried in most Lima dailies" on January 26, 1981.[178]
+On 27 January 1981, after reviewing the Brady-Spence prediction, the U.S. National Earthquake Prediction Evaluation Council (NEPEC) announced it was "unconvinced of the scientific validity" of the prediction, and had been "shown nothing in the observed seismicity data, or in the theory insofar as presented, that lends substance to the predicted times, locations, and magnitudes of the earthquakes." It went on to say that while there was a probability of major earthquakes at the predicted times, that probability was low, and recommend that "the prediction not be given serious consideration."[179]
+Unfazed,[s] Brady subsequently revised his forecast, stating there would be at least three earthquakes on or about July 6, August 18 and September 24, 1981,[181] leading one USGS official to complain: "If he is allowed to continue to play this game ... he will eventually get a hit and his theories will be considered valid by many."[182]
+On June 28 (the date most widely taken as the date of the first predicted earthquake), it was reported that: "the population of Lima passed a quiet Sunday".[183] The headline on one Peruvian newspaper: "NO PASO NADA" ("Nothing happens").[184]
+In July Brady formally withdrew his prediction on the grounds that prerequisite seismic activity had not occurred.[185] Economic losses due to reduced tourism during this episode has been roughly estimated at one hundred million dollars.[186]
+1985 1993: Parkfield, U.S. (Bakun-Lindh)[edit]
+The "Parkfield earthquake prediction experiment" was the most heralded scientific earthquake prediction ever.[187][t] It was based on an observation that the Parkfield segment of the San Andreas Fault[u] breaks regularly with a moderate earthquake of about M 6 every several decades: 1857, 1881, 1901, 1922, 1934, and 1966.[188] More particularly, Bakun & Lindh (1985) pointed out that, if the 1934 quake is excluded, these occur every 22 years,  4.3 years. Counting from 1966, they predicted a 95% chance that the next earthquake would hit around 1988, or 1993 at the latest. The National Earthquake Prediction Evaluation Council (NEPEC) evaluated this, and concurred.[189] The U.S. Geological Survey and the State of California therefore established one of the "most sophisticated and densest nets of monitoring instruments in the world",[190] in part to identify any precursors when the quake came. Confidence was high enough that detailed plans were made for alerting emergency authorities if there were signs an earthquake was imminent.[191] In the words of the Economist: "never has an ambush been more carefully laid for such an event."[192]
+Year 1993 came, and passed, without fulfillment. Eventually there was an M 6.0 earthquake on the Parkfield segment of the fault, on 28 September 2004, but without forewarning or obvious precursors.[193] While the experiment in catching an earthquake is considered by many scientists to have been successful,[194] the prediction was unsuccessful in that the eventual event was a decade late.[v]
+Further information: Parkfield earthquake
+1983 1995: Greece (VAN)[edit]
+In 1981, the "VAN" group, headed by Panayiotis Varotsos, said that they found a relationship between earthquakes and 'seismic electric signals' (SES). In 1984 they presented a table of 23 earthquakes from 19 January 1983 to 19 September 1983, of which they claimed to have successfully predicted 18 earthquakes.[196] Other lists followed, such as their 1991 claim of predicting six out of seven earthquakes with Ms    5.5 in the period of 1 April 1987 through 10 August 1989, or five out of seven earthquakes with Ms    5.3 in the overlapping period of 15 May 1988 to 10 August 1989,[w] In 1996 they published a "Summary of all Predictions issued from January 1st, 1987 to June 15, 1995",[197] amounting to 94 predictions.[198] Matching this against a list of "All earthquakes with MS(ATH)"[199][x] and within geographical bounds including most of Greece,[y] they come up with a list of 14 earthquakes they should have predicted. Here they claim ten successes, for a success rate of 70%.[201][z]
+The VAN predictions have been criticized on various grounds, including being geophysically implausible,[202] "vague and ambiguous",[203] failing to satisfy prediction criteria,[204] and retroactive adjustment of parameters.[205] A critical review of 14 cases where VAN claimed 10 successes showed only one case where an earthquake occurred within the prediction parameters.[206] The VAN predictions not only fail to do better than chance, but show "a much better association with the events which occurred before them", according to Mulargia and Gasperini.[207] Other early reviews found that the VAN results, when evaluated by definite parameters, were statistically significant.[208][209] Both positive and negative views on VAN predictions from this period were summarized in the 1996 book "A Critical Review of VAN" edited by Sir James Lighthill[210] and in a debate issue presented by the journal Geophysical Research Letters that was focused on the statistical significance of the VAN method.[211] VAN had the opportunity to reply to their critics in those review publications.[212] In 2011, the ICEF reviewed the 1996 debate, and concluded that the optimistic SES prediction capability claimed by VAN could not be validated.[85] In 2013, the SES activities were found[213] to be coincident with the minima of the fluctuations of the order parameter of seismicity, which have been shown[214] to be statistically significant precursors by employing the event coincidence analysis.[215]
+A crucial issue is the large and often indeterminate parameters of the predictions,[216] such that some critics say these are not predictions, and should not be recognized as such.[217] Much of the controversy with VAN arises from this failure to adequately specify these parameters. Some of their telegrams include predictions of two distinct earthquake events, such as (typically) one earthquake predicted at 300 km "NW" of Athens, and another at 240 km "W", "with magnitutes [sic] 5,3 and 5,8", with no time limit.[218][aa] The time parameter estimation was introduced in VAN Method by means of natural time in 2001.[87]
+VAN has disputed the 'pessimistic' conclusions of their critics, but the critics have not relented.[219] It was suggested that VAN failed to account for clustering of earthquakes,[205] or that they interpreted their data differently during periods of greater seismic activity.[220]
+VAN has been criticized on several occasions for causing public panic and widespread unrest.[221] This has been exacerbated by the broadness of their predictions, which cover large areas of Greece (up to 240 kilometers across, and often pairs of areas),[ab] much larger than the areas actually affected by earthquakes of the magnitudes predicted (usually several tens of kilometers across).[222][ac] Magnitudes are similarly broad: a predicted magnitude of "6.0" represents a range from a benign magnitude 5.3 to a broadly destructive 6.7.[ad] Coupled with indeterminate time windows of a month or more,[223] such predictions "cannot be practically utilized"[224] to determine an appropriate level of preparedness, whether to curtail usual societal functioning, or even to issue public warnings.[ae]
+2008: Greece (VAN)[edit]
+After 2006, VAN claim that all alarms related to SES activity have been made public by posting at arxiv.org. Such SES activity is evaluated using a new method they call 'natural time'. One such report was posted on Feb. 1, 2008, two weeks before the strongest earthquake in Greece during the period 1983 2011. This earthquake occurred on February 14, 2008, with magnitude (Mw) 6.9. VAN's report was also described in an article in the newspaper Ethnos on Feb. 10, 2008.[226] However, Gerassimos Papadopoulos commented that the VAN reports were confusing and ambiguous, and that "none of the claims for successful VAN predictions is justified."[227] A reply to this comment, which insisted on the prediction's accuracy, was published in the same issue.[228]
+1989: Loma Prieta, U.S.[edit]
+The 1989 Loma Prieta earthquake (epicenter in the Santa Cruz Mountains northwest of San Juan Bautista, California) caused significant damage in the San Francisco Bay Area of California.[229] The U.S. Geological Survey (USGS) reportedly claimed, twelve hours after the event, that it had "forecast" this earthquake in a report the previous year.[230] USGS staff subsequently claimed this quake had been "anticipated";[231] various other claims of prediction have also been made.[232]
+Ruth Harris (Harris (1998)) reviewed 18 papers (with 26 forecasts) dating from 1910 "that variously offer or relate to scientific forecasts of the 1989 Loma Prieta earthquake." (In this case no distinction is made between a forecast, which is limited to a probabilistic estimate of an earthquake happening over some time period, and a more specific prediction.[233]) None of these forecasts can be rigorously tested due to lack of specificity,[234] and where a forecast does bracket the correct time and location, the window was so broad (e.g., covering the greater part of California for five years) as to lose any value as a prediction. Predictions that came close (but given a probability of only 30%) had ten- or twenty-year windows.[235]
+One debated prediction came from the M8 algorithm used by Keilis-Borok and associates in four forecasts.[236] The first of these forecasts missed both magnitude (M 7.5) and time (a five-year window from 1 January 1984, to 31 December 1988). They did get the location, by including most of California and half of Nevada.[237] A subsequent revision, presented to the NEPEC, extended the time window to 1 July 1992, and reduced the location to only central California; the magnitude remained the same. A figure they presented had two more revisions, for M   7.0 quakes in central California. The five-year time window for one ended in July 1989, and so missed the Loma Prieta event; the second revision extended to 1990, and so included Loma Prieta.[238]
+When discussing success or failure of prediction for the Loma Prieta earthquake, some scientists argue that it did not occur on the San Andreas fault (the focus of most of the forecasts), and involved dip-slip (vertical) movement rather than strike-slip (horizontal) movement, and so was not predicted.[239]
+Other scientists argue that it did occur in the San Andreas fault zone, and released much of the strain accumulated since the 1906 San Francisco earthquake; therefore several of the forecasts were correct.[240] Hough states that "most seismologists" do not believe this quake was predicted "per se".[241] In a strict sense there were no predictions, only forecasts, which were only partially successful.
+Iben Browning claimed to have predicted the Loma Prieta event, but (as will be seen in the next section) this claim has been rejected.
+Further information: 1989 Loma Prieta earthquake
+1990: New Madrid, U.S. (Browning)[edit]
+Further information: Tidal triggering of earthquakes
+Iben Browning (a scientist with a Ph.D. degree in zoology and training as a biophysicist, but no experience in geology, geophysics, or seismology) was an "independent business consultant" who forecast long-term climate trends for businesses.[af] He supported the idea (scientifically unproven) that volcanoes and earthquakes are more likely to be triggered when the tidal force of the sun and the moon coincide to exert maximum stress on the earth's crust (syzygy).[ag] Having calculated when these tidal forces maximize, Browning then "projected"[243] what areas were most at risk for a large earthquake. An area he mentioned frequently was the New Madrid Seismic Zone at the southeast corner of the state of Missouri, the site of three very large earthquakes in 1811 12, which he coupled with the date of 3 December 1990.
+Browning's reputation and perceived credibility were boosted when he claimed in various promotional flyers and advertisements to have predicted (among various other events[ah]) the Loma Prieta earthquake of 17 October 1989.[245] The National Earthquake Prediction Evaluation Council (NEPEC) formed an Ad Hoc Working Group (AHWG) to evaluate Browning's prediction. Its report (issued 18 October 1990) specifically rejected the claim of a successful prediction of the Loma Prieta earthquake.[246] A transcript of his talk in San Francisco on 10 October showed he had said: "there will probably be several earthquakes around the world, Richter 6+, and there may be a volcano or two"   which, on a global scale, is about average for a week   with no mention of any earthquake in California.[247]
+Though the AHWG report disproved both Browning's claims of prior success and the basis of his "projection", it made little impact after a year of continued claims of a successful prediction. Browning's prediction received the support of geophysicist David Stewart,[ai] and the tacit endorsement of many public authorities in their preparations for a major disaster, all of which was amplified by massive exposure in the news media.[250] Nothing happened on 3 December,[251] and Browning died of a heart attack seven months later.[252]
+2004 & 2005: Southern California, U.S. (Keilis-Borok)[edit]
+The M8 algorithm (developed under the leadership of Vladimir Keilis-Borok at UCLA) gained respect by the apparently successful predictions of the 2003 San Simeon and Hokkaido earthquakes.[253] Great interest was therefore generated by the prediction in early 2004 of a M   6.4 earthquake to occur somewhere within an area of southern California of approximately 12,000 sq. miles, on or before 5 September 2004.[147] In evaluating this prediction the California Earthquake Prediction Evaluation Council (CEPEC) noted that this method had not yet made enough predictions for statistical validation, and was sensitive to input assumptions. It therefore concluded that no "special public policy actions" were warranted, though it reminded all Californians "of the significant seismic hazards throughout the state."[147] The predicted earthquake did not occur.
+A very similar prediction was made for an earthquake on or before 14 August 2005, in approximately the same area of southern California. The CEPEC's evaluation and recommendation were essentially the same, this time noting that the previous prediction and two others had not been fulfilled.[254] This prediction also failed.
+2009: L'Aquila, Italy (Giuliani)[edit]
+Main article: 2009 L'Aquila earthquake
+At 03:32 on 6 April 2009, the Abruzzo region of central Italy was rocked by a magnitude M 6.3 earthquake.[255] In the city of L'Aquila and surrounding area around 60,000 buildings collapsed or were seriously damaged, resulting in 308 deaths and 67,500 people left homeless.[256] Around the same time, it was reported that Giampaolo Giuliani had predicted the earthquake, had tried to warn the public, but had been muzzled by the Italian government.[257]
+Giampaolo Giuliani was a laboratory technician at the Laboratori Nazionali del Gran Sasso. As a hobby he had for some years been monitoring radon using instruments he had designed and built. Prior to the L'Aquila earthquake he was unknown to the scientific community, and had not published any scientific work.[258] He had been interviewed on 24 March by an Italian-language blog, Donne Democratiche, about a swarm of low-level earthquakes in the Abruzzo region that had started the previous December. He said that this swarm was normal and would diminish by the end of March. On 30 March, L'Aquila was struck by a magnitude 4.0 temblor, the largest to date.[259]
+On 27 March Giuliani warned the mayor of L'Aquila there could be an earthquake within 24 hours, and an earthquake M~2.3 occurred.[260] On 29 March he made a second prediction.[261] He telephoned the mayor of the town of Sulmona, about 55 kilometers southeast of L'Aquila, to expect a "damaging"   or even "catastrophic"   earthquake within 6 to 24 hours. Loudspeaker vans were used to warn the inhabitants of Sulmona to evacuate, with consequential panic. No quake ensued and Giuliano was cited for inciting public alarm and enjoined from making future public predictions.[262]
+After the L'Aquila event Giuliani claimed that he had found alarming rises in radon levels just hours before.[263] He said he had warned relatives, friends and colleagues on the evening before the earthquake hit.[264] He was subsequently interviewed by the International Commission on Earthquake Forecasting for Civil Protection, which found that Giuliani had not transmitted a valid prediction of the mainshock to the civil authorities before its occurrence.[265]
+Difficulty or impossibility[edit]
+As the preceding examples show, the record of earthquake prediction has been disappointing.[266] The optimism of the 1970s that routine prediction of earthquakes would be "soon", perhaps within ten years,[267] was coming up disappointingly short by the 1990s,[268] and many scientists began wondering why. By 1997 it was being positively stated that earthquakes can not be predicted,[149] which led to a notable debate in 1999 on whether prediction of individual earthquakes is a realistic scientific goal.[269]
+Earthquake prediction may have failed only because it is "fiendishly difficult"[270] and still beyond the current competency of science. Despite the confident announcement four decades ago that seismology was "on the verge" of making reliable predictions,[52] there may yet be an underestimation of the difficulties. As early as 1978 it was reported that earthquake rupture might be complicated by "heterogeneous distribution of mechanical properties along the fault",[271] and in 1986 that geometrical irregularities in the fault surface "appear to exert major controls on the starting and stopping of ruptures".[272] Another study attributed significant differences in fault behavior to the maturity of the fault.[aj] These kinds of complexities are not reflected in current prediction methods.[274]
+Seismology may even yet lack an adequate grasp of its most central concept, elastic rebound theory. A simulation that explored assumptions regarding the distribution of slip found results "not in agreement with the classical view of the elastic rebound theory". (This was attributed to details of fault heterogeneity not accounted for in the theory.[275])
+Earthquake prediction may be intrinsically impossible. In 1997, it has been argued that the Earth is in a state of self-organized criticality "where any small earthquake has some probability of cascading into a large event".[276] It has also been argued on decision-theoretic grounds that "prediction of major earthquakes is, in any practical sense, impossible."[277] In 2021, a multitude of authors from a variety of universities and research institutes studying the China Seismo-Electromagnetic Satellite reported[278] that the claims based on self-organized criticality stating that at any moment any small earthquake can eventually cascade to a large event, do not stand[279] in view of the results obtained to date by natural time analysis.
+That earthquake prediction might be intrinsically impossible has been strongly disputed,[280] but the best disproof of impossibility   effective earthquake prediction   has yet to be demonstrated.[ak]
+See also[edit]
+Binary classification
+California earthquake forecast
+Classification rule
+Coordinating Committee for Earthquake Prediction, Japan
+Earthquake engineering
+Earthquake sensitive
+Earthquake weather
+Forecasting
+National Earthquake Prediction Evaluation Council
+Ring of Fire
+Seismo-electromagnetics
+Supermoon
+Type I and type II errors
+Notes[edit]
+^ Kagan (1997b,  2.1) says: "This definition has several defects which contribute to confusion and difficulty in prediction research." In addition to specification of time, location, and magnitude, Allen suggested three other requirements: 4) indication of the author's confidence in the prediction, 5) the chance of an earthquake occurring anyway as a random event, and 6) publication in a form that gives failures the same visibility as successes. Kagan & Knopoff (1987, p. 1563) define prediction (in part) "to be a formal rule where by the available space-time-seismic moment manifold of earthquake occurrence is significantly contracted  "
+^ ICEF (2011, p. 327) distinguishes between predictions (as deterministic) and forecasts (as probabilistic).
+^ However, Mileti & Sorensen (1990) have argued that the extent of panic related to public disaster forecasts, and the 'cry wolf' problem with respect to repeated false alarms, have both been overestimated, and can be mitigated through appropriate communications from the authorities.
+^ The IASPEI Sub-Commission for Earthquake Prediction defined a precursor as "a quantitatively measurable change in an environmental parameter that occurs before mainshocks, and that is thought to be linked to the preparation process for this mainshock."[25]
+^ Subsequent diffusion of water back into the affected volume of rock is what leads to failure.[44]
+^ Giampaolo Giuiliani's claimed prediction of the L'Aquila earthquake was based on monitoring of radon levels.
+^ Over time the claim was modified. See 1983 1995: Greece (VAN) for more details.
+^ One enthusiastic supporter (Uyeda) was reported as saying "VAN is the biggest invention since the time of Archimedes".[71]
+^ A short overview of the debate can be found in an exchange of letters in the June 1998 issue of Physics Today.[75]
+^ For example the VAN "IOA" station was next to an antenna park, and the station at Pirgos, where most of the 1980s predictions were derived, was found to lie over the buried grounding grid of a military radio transmitter. VAN has not distinguished their "seismic electric signals" from artificial electromagnetic noise or from radio-telecommunication and industrial sources.[80]
+^ For example it has been shown that the VAN predictions are more likely to follow an earthquake than to precede one. It seems that where there have been recent shocks the VAN personnel are more likely to interpret the usual electrical variations as SES. The tendency for earthquakes to cluster then accounts for an increased chance of an earthquake in the rather broad prediction window. Other aspects of this will be discussed below.
+^ The literature on geophysical phenomena and ionospheric disturbances uses the term ULF (Ultra Low Frequency) to describe the frequency band below 10 Hz. The band referred to as ULF on the Radio wave page corresponds to a different part of the spectrum frequency formerly referred to as VF (Voice Frequency). In this article the term ULF is listed as ULF*.
+^ Evans (1997,  2.2) provides a description of the "self-organized criticality" (SOC) paradigm that is displacing the elastic rebound model.
+^ These include the type of rock and fault geometry.
+^ Of course these were not the only earthquakes in this period. The attentive reader will recall that, in seismically active areas, earthquakes of some magnitude happen fairly constantly. The "Parkfield earthquakes" are either the ones noted in the historical record, or were selected from the instrumental record on the basis of location and magnitude. Jackson & Kagan (2006, p. S399) and Kagan (1997, pp. 211 212, 213) argue that the selection parameters can bias the statistics, and that sequences of four or six quakes, with different recurrence intervals, are also plausible.
+^ Young faults are expected to have complex, irregular surfaces, which impede slippage. In time these rough spots are ground off, changing the mechanical characteristics of the fault.[139]
+^ Measurement of an uplift has been claimed, but that was 185 km away, and likely surveyed by inexperienced amateurs.[172]
+^ According to Wang et al. (2006, p. 762) foreshocks were widely understood to precede a large earthquake, "which may explain why various [local authorities] made their own evacuation decisions".
+^ The chairman of the NEPEC later complained to the Agency for International Development that one of its staff members had been instrumental in encouraging Brady and promulgating his prediction long after it had been scientifically discredited.[180]
+^ The most anticipated prediction ever is likely Iben Browning's 1990 New Madrid prediction, but it lacked any scientific basis.
+^ Near the small town of Parkfield, California, roughly halfway between San Francisco and Los Angeles.
+^ It has also been argued that the actual quake differed from the kind expected,[137] and that the prediction was no more significant than a simpler null hypothesis.[195]
+^ Varotsos & Lazaridou (1991) Table 2 (p. 340) and Table 3 (p. 341) includes nine predictions (unnumbered) from 27 April 1987 to 28 April 1988, with a tenth prediction issued on 26 February 1987 mentioned in a footnote. Two of these earthquakes were excluded from Table 3 on the grounds of having occurred in neighboring Albania. Table 1 (p. 333) includes 17 predictions (numbered) issued from 15 May 1988 to 23 July 1989. A footnote mentions a missed (unpredicted) earthquake on 19 March 1989; all 17 entries show associated earthquakes, and presumably are thereby deemed to have been successful predictions. Table 4 (p. 345) is a continuation of Table 1 (p. 346) out to 30 November 1989, adding five additional predictions with associated earthquakes.
+^ "MS(ATH)" is the MS magnitude reported by the National Observatory of Athens (SI-NOA), or VAN's estimate of what that magnitude would be.[200] These differ from the MS magnitudes reported by the USGS.
+^ Specifically, between 36  to 41  North latitude and 19  to 25  East longitude.[200]
+^ They have suggested the success rate should be higher, as one of the missed quakes would have been predicted but for attendance at a conference, and in another case a "clear SES" was recognized but a magnitude could not be determined for lack of operating stations.
+^ This pair of predictions was issued on 9/1/1988, and a similar pair of predictions was re-iterated on 9/30/1988, except that the predicted amplitudes were reduced to M(l)=5.0 and 5.3, respectively. In fact, an earthquake did occur approximately 240 km west of Athens, on 10/16/1988, with magnitude Ms(ATH)=6.0, which would correspond to a local magnitude M(l) of 5.5.[199]
+^ While some analyses have been done on the basis of a 100 km range (e.g., Hamada 1993, p. 205), Varotsos & Lazaridou (1991, p. 339) claim credit for earthquakes within a radius of 120 km.
+^ Geller (1996a, 6.4.2) notes that while Kobe was severely damaged by the 1995 Mw 6.9 earthquake, damage in Osaka, only 30 km away, was relatively light.
+^ VAN predictions generally do not specify the magnitude scale or precision, but they have generally claimed a precision of  0.7.
+^ As an instance of the quandary public officials face: in 1995 Professor Varotsos reportedly filed a complaint with the public prosecutor accusing government officials of negligence in not responding to his supposed prediction of an earthquake. A government official was quoted as saying "VAN's prediction was not of any use" in that it covered two-thirds of the area of Greece.[225]
+^ Spence et al. 1993 (USGS Circular 1083) is the most comprehensive, and most thorough, study of the Browning prediction, and appears to be the main source of most other reports. In the following notes, where an item is found in this document the pdf pagination is shown in brackets.
+^ A report on Browning's prediction cited over a dozen studies of possible tidal triggering of earthquakes, but concluded that "conclusive evidence of such a correlation has not been found". It also found that Browning's identification of a particular high tide as triggering a particular earthquake "difficult to justify".[242]
+^ Including "a 50/50 probability that the federal government of the U.S. will fall in 1992."[244]
+^ Previously involved in a psychic prediction of an earthquake for North Carolina in 1975,[248] Stewart sent a 13 page memo to a number of colleagues extolling Browning's supposed accomplishments, including predicting Loma Prieta.[249]
+^ More mature faults presumably slip more readily because they have been ground smoother and flatter.[273]
+^ "Despite over a century of scientific effort, the understanding of earthquake predictability remains immature. This lack of understanding is reflected in the inability to predict large earthquakes in the deterministic short-term sense."[281]
+References[edit]
+^ Geller et al. 1997, p. 1616, following Allen 1976, p. 2070, who in turn followed Wood & Gutenberg 1935.
+^ Kagan 1997b, p. 507.
+^ Kanamori 2003, p. 1205.
+^ Geller et al. 1997, p. 1617; Geller 1997, p. 427,  2.3; Console 2001, p. 261.
+^ ICEF 2011, p. 328; Jackson 2004, p. 344.
+^ Wang et al. 2006.
+^ Geller 1997, Summary.
+^ Kagan 1997b; Geller 1997; Main 1999.
+^ Mulargia & Gasperini 1992, p. 32; Luen & Stark 2008, p. 302.
+^ Luen & Stark 2008; Console 2001.
+^ Jackson 1996a, p. 3775.
+^ Jones 1985, p. 1669.
+^ Console 2001, p. 1261.
+^ Luen & Stark 2008. This was based on data from Southern California.
+^ Wade 1977.
+^ Hall 2011; Cartlidge 2011. Additional details in Cartlidge 2012.
+^ Geller 1997, p. 437,  5.2.
+^ Atwood & Major 1998.
+^ Saegusa 1999.
+^ Mason 2003, p. 48 and throughout.
+^ Stiros 1997.
+^ Stiros 1997, p. 483.
+^ Panel on Earthquake Prediction 1976, p. 9.
+^ Uyeda, Nagao & Kamogawa 2009, p. 205; Hayakawa 2015.
+^ Geller 1997,  3.1.
+^ Geller 1997, p. 429,  3.
+^ E.g., Claudius Aelianus, in De natura animalium, book 11, commenting on the destruction of Helike in 373 BC, but writing five centuries later.
+^ Rikitake 1979, p. 294. Cicerone, Ebel & Britton 2009 has a more recent compilation
+^ Jackson 2004, p. 335.
+^ Geller 1997, p. 425. See also: Jackson 2004, p. 348: "The search for precursors has a checkered history, with no convincing successes." Zechar & Jordan 2008, p. 723: "The consistent failure to find reliable earthquake precursors...". ICEF 2009: "... no convincing evidence of diagnostic precursors."
+^ Wyss & Booth 1997, p. 424.
+^ ICEF 2011, p. 338.
+^ ICEF 2011, p. 361.
+^ Bolt 1993, pp. 30 32.
+^ a b c Animals and Earthquake Prediction
+^ ICEF 2011, p. 336; Lott, Hart & Howell 1981, p. 1204.
+^ a b Review: Can Animals Predict Earthquakes? 
+^ a b c d Can Animals Predict Earthquakes?
+^ Lott, Hart & Howell 1981.
+^ Brown & Kulik 1977.
+^ Freund & Stolc 2013.
+^ a b Main et al. 2012, p. 215.
+^ Main et al. 2012, p. 217.
+^ Main et al. 2012, p. 215; Hammond 1973.
+^ a b Hammond 1974.
+^ Scholz, Sykes & Aggarwal 1973, quoted by Hammond 1973.
+^ ICEF 2011, pp. 333 334; McEvilly & Johnson 1974; Lindh, Lockner & Lee 1978.
+^ Main et al. 2012, p. 226.
+^ Main et al. 2012, pp. 220 221, 226; see also Lindh, Lockner & Lee 1978.
+^ a b Hough 2010b.
+^ Hammond 1973. Additional references in Geller 1997,  2.4.
+^ a b Scholz, Sykes & Aggarwal 1973.
+^ Aggarwal et al. 1975.
+^ Hough 2010b, p. 110.
+^ Allen 1983, p. 79; Whitcomb 1977.
+^ McEvilly & Johnson 1974.
+^ Lindh, Lockner & Lee 1978.
+^ ICEF 2011, p. 333.
+^ Cicerone, Ebel & Britton 2009, p. 382.
+^ ICEF 2011, p. 334; Hough 2010b, pp. 93 95.
+^ Johnston 2002, p. 621.
+^ Park 1996, p. 493.
+^ See Geller 1996a and Geller 1996b for some history of these hopes.
+^ ICEF 2011, p. 335.
+^ Park, Dalrymple & Larsen 2007, paragraphs 1 and 32. See also Johnston et al. 2006, p. S218 "no VAN-type SES observed" and Kappler, Morrison & Egbert 2010 "no effects found that can be reasonably characterized as precursors".
+^ ICEF 2011, p. 335, Summary.
+^ Varotsos, Alexopoulos & Nomicos 1981, described by Mulargia & Gasperini 1992, p. 32, and Kagan 1997b, p. 512,  3.3.1.
+^ Varotsos & Alexopoulos 1984b, p. 100.
+^ Varotsos & Alexopoulos 1984b, p. 120. Italicization from the original.
+^ Varotsos & Alexopoulos 1984b, p. 117, Table 3; Varotsos et al. 1986; Varotsos & Lazaridou 1991, p. 341, Table 3; Varotsos et al. 1996a, p. 55, Table 3. These are examined in more detail in 1983 1995: Greece (VAN).
+^ Chouliaras & Stavrakakis 1999, p. 223.
+^ Mulargia & Gasperini 1992, p. 32.
+^ Geller 1996b; "Table of contents". Geophysical Research Letters. 23 (11). 27 May 1996. doi:10.1002/grl.v23.11.
+^ The proceedings were published as A Critical Review of VAN (Lighthill 1996). See Jackson & Kagan (1998) for a summary critique.
+^ Geller et al. 1998; Anagnostopoulos 1998.
+^ Mulargia & Gasperini 1996a, p. 1324; Jackson 1996b, p. 1365; Jackson & Kagan 1998; Stiros 1997, p. 478.
+^ Drakopoulos, Stavrakakis & Latoussakis 1993, pp. 223, 236; Stavrakakis & Drakopoulos 1996; Wyss 1996, p. 1301.
+^ Jackson 1996b, p. 1365; Gruszow et al. 1996, p. 2027.
+^ Gruszow et al. 1996, p. 2025.
+^ Chouliaras & Stavrakakis 1999; Pham et al. 1998, pp. 2025, 2028; Pham et al. 1999.
+^ Pham et al. 2002.
+^ Varotsos, Sarlis & Skordas 2003a
+^ Varotsos, Sarlis & Skordas 2003b
+^ Stiros 1997, p. 481.
+^ a b ICEF 2011, pp. 335 336.
+^ Hough 2010b, p. 195.
+^ a b Uyeda, Nagao & Kamogawa 2011
+^ Varotsos, Sarlis & Skordas 2002;[full citation needed] Varotsos 2006.[full citation needed]; Rundle et al. 2012.
+^ Huang 2015.
+^ Helman 2020
+^ Sarlis et al. 2020
+^ Hough 2010, pp. 131 133; Thomas, Love & Johnston 2009.
+^ Fraser-Smith et al. 1990, p. 1467 called it "encouraging".
+^ Campbell 2009.
+^ Thomas, Love & Johnston 2009.
+^ Freund 2000.
+^ Hough 2010b, pp. 133 135.
+^ Heraud, Centa & Bleier 2015.
+^ Enriquez 2015.
+^ Hough 2010b, pp. 137 139.
+^ Freund, Takeuchi & Lau 2006.
+^ Freund & Sornette 2007.
+^ Freund et al. 2009.
+^ Eftaxias et al. 2009.
+^ Eftaxias et al. 2010.
+^ Tsolis & Xenos 2010.
+^ Rozhnoi et al. 2009.
+^ Biagi et al. 2011.
+^ Politis, Potirakis & Hayakawa 2020
+^ Thomas, JN; Huard, J; Masci, F (2017). "Thomas, J. N., Huard, J., & Masci, F. (2017). A statistical study of global ionospheric map total electron content changes prior to occurrences of M  6.0 earthquakes during 2000 2014". Journal of Geophysical Research: Space Physics. 122 (2): 2151 2161. doi:10.1002/2016JA023652. S2CID 132455032.
+^ Helman 2020
+^ Andr n, Margareta; Stockmann, Gabrielle; Skelton, Alasdair (2016). "Coupling between mineral reactions, chemical changes in groundwater, and earthquakes in Iceland". Journal of Geophysical Research: Solid Earth. 121 (4): 2315 2337. Bibcode:2016JGRB..121.2315A. doi:10.1002/2015JB012614. S2CID 131535687.
+^ Filizzola et al. 2004.
+^ Lisi et al. 2010.
+^ Pergola et al. 2010.
+^ Genzano et al. 2009.
+^ Freund 2010.
+^ a b Rundle et al. 2016
+^ Rundle et al. 2019
+^ Varotsos, Sarlis & Skordas 2001
+^ a b Rundle et al. 2018b
+^ a b Luginbuhl, Rundle & Turcotte 2019
+^ Pasari 2019
+^ Rundle et al. 2020
+^ Luginbuhl et al. 2018
+^ Luginbuhl, Rundle & Turcotte 2018b
+^ Luginbuhl, Rundle & Turcotte 2018a
+^ Reid 1910, p. 22; ICEF 2011, p. 329.
+^ Wells & Coppersmith 1994, p. 993, Fig. 11.
+^ Zoback 2006 provides a clear explanation.
+^ Castellaro 2003.
+^ Schwartz & Coppersmith 1984; Tiampo & Shcherbakov 2012, p. 93,  2.2.
+^ Field et al. 2008.
+^ Bakun & Lindh 1985, p. 619.
+^ Bakun & Lindh 1985, p. 621.
+^ Jackson & Kagan 2006, p. S408 say the claim of quasi-periodicity is "baseless".
+^ a b Jackson & Kagan 2006.
+^ Kagan & Jackson 1991, pp. 21, 420; Stein, Friedrich & Newman 2005; Jackson & Kagan 2006; Tiampo & Shcherbakov 2012,  2.2, and references there; Kagan, Jackson & Geller 2012; Main 1999.
+^ Cowan, Nicol & Tonkin 1996; Stein & Newman 2004, p. 185.
+^ Stein & Newman 2004.
+^ Scholz 2002, p. 284,  5.3.3; Kagan & Jackson 1991, pp. 21, 419; Jackson & Kagan 2006, p. S404.
+^ Kagan & Jackson 1991, pp. 21, 419; McCann et al. 1979; Rong, Jackson & Kagan 2003.
+^ Lomnitz & Nava 1983.
+^ Rong, Jackson & Kagan 2003, p. 23.
+^ Kagan & Jackson 1991, Summary.
+^ See details in Tiampo & Shcherbakov 2012,  2.4.
+^ a b c CEPEC 2004a.
+^ Kossobokov et al. 1999.
+^ a b Geller et al. 1997.
+^ Hough 2010b, pp. 142 149.
+^ Zechar 2008; Hough 2010b, p. 145.
+^ Zechar 2008, p. 7. See also p. 26.
+^ Tiampo & Shcherbakov 2012,  2.1. Hough 2010b, chapter 12, provides a good description.
+^ Hardebeck, Felzer & Michael 2008, par. 6.
+^ Hough 2010b, pp. 154 155.
+^ Tiampo & Shcherbakov 2012, p. 93,  2.1.
+^ Hardebeck, Felzer & Michael 2008,  4 show how suitable selection of parameters shows "DMR": Decelerating Moment Release.
+^ Hardebeck, Felzer & Michael 2008, par. 1, 73.
+^ Mignan 2011, Abstract.
+^ Rouet-Leduc et al. 2017.
+^ Smart, Ashley (19 September 2019). "Artificial Intelligence Takes On Earthquake Prediction". Quanta Magazine. Retrieved 28 March 2020.
+^ DeVries et al. 2018.
+^ Mignan & Broccardo 2019.
+^ Tarasov & Tarasova 2009
+^ Novikov et al. 2017
+^ Zeigarnik et al. 2007
+^ Geller 1997,  4.
+^ E.g.: Davies 1975; Whitham et al. 1976, p. 265; Hammond 1976; Ward 1978; Kerr 1979, p. 543; Allen 1982, p. S332; Rikitake 1982; Zoback 1983; Ludwin 2001; Jackson 2004, pp. 335, 344; ICEF 2011, p. 328.
+^ Whitham et al. (1976, p. 266) provide a brief report. Raleigh et al. (1977) has a fuller account. Wang et al. (2006, p. 779), after careful examination of the records, set the death toll at 2,041.
+^ Raleigh et al. 1977, p. 266, quoted in Geller (1997, p. 434). Geller has a whole section ( 4.1) of discussion and many sources. See also Kanamori 2003, pp. 1210 11.
+^ Quoted in Geller (1997, p. 434). Lomnitz (1994, Ch. 2) describes some of circumstances attending to the practice of seismology at that time; Turner 1993, pp. 456 458 has additional observations.
+^ Jackson 2004, p. 345.
+^ Kanamori 2003, p. 1211.
+^ a b Wang et al. 2006, p. 785.
+^ a b Roberts 1983, p. 151,  4.
+^ Hough 2010, p. 114.
+^ Gersony 1982, p. 231.
+^ Gersony 1982, p. 247, document 85.
+^ Gersony 1982, p. 248, document 86; Roberts 1983, p. 151.
+^ Gersony 1982, p. 201, document 146.
+^ Gersony 1982, p. 343, document 116; Roberts 1983, p. 152.
+^ John Filson, deputy chief of the USGS Office of Earthquake Studies, quoted by Hough (2010, p. 116).
+^ Gersony 1982, p. 422, document 147, U.S. State Dept. cablegram.
+^ Hough 2010, p. 117.
+^ Gersony 1982, p. 416; Kerr 1981.
+^ Giesecke 1983, p. 68.
+^ Geller (1997,  6) describes some of the coverage.
+^ Bakun & McEvilly 1979; Bakun & Lindh 1985; Kerr 1984.
+^ Bakun et al. 1987.
+^ Kerr 1984, "How to Catch an Earthquake"; Roeloffs & Langbein 1994.
+^ Roeloffs & Langbein 1994, p. 316.
+^ Quoted by Geller 1997, p. 440.
+^ Kerr 2004; Bakun et al. 2005, Harris & Arrowsmith 2006, p. S5.
+^ Hough 2010b, p. 52.
+^ Kagan 1997.
+^ Varotsos & Alexopoulos 1984b, p. 117, Table 3.
+^ Varotsos et al. 1996a, Table 1.
+^ Jackson & Kagan 1998.
+^ a b Varotsos et al. 1996a, p. 55, Table 3.
+^ a b Varotsos et al. 1996a, p. 49.
+^ Varotsos et al. 1996a, p. 56.
+^ Jackson 1996b, p. 1365; Mulargia & Gasperini 1996a, p. 1324.
+^ Geller 1997, p. 436,  4.5: "VAN s  predictions  never specify the windows, and never state an unambiguous expiration date. Thus VAN are not making earthquake predictions in the first place."
+^ Jackson 1996b, p. 1363. Also: Rhoades & Evison (1996, p. 1373): No one "can confidently state, except in the most general terms, what the VAN hypothesis is, because the authors of it have nowhere presented a thorough formulation of it."
+^ a b Kagan & Jackson 1996, p. 1434.
+^ Geller 1997, p. 436, Table 1.
+^ Mulargia & Gasperini 1992, p. 37.
+^ Hamada 1993 10 successful predictions out of 12 issued (defining success as those that occurred within 22 days of the prediction, within 100 km of the predicted epicenter and with a magnitude difference (predicted minus true) not greater than 0.7.)
+^ Shnirman, Schreider & Dmitrieva 1993; Nishizawa et al. 1993[full citation needed] and Uyeda 1991[full citation needed]
+^ Lighthill 1996.
+^ "Table of contents". Geophysical Research Letters. 23 (11). 27 May 1996. doi:10.1002/grl.v23.11.; Aceves, Park & Strauss 1996.
+^ Varotsos & Lazaridou 1996b; Varotsos, Eftaxias & Lazaridou 1996.
+^ Varotsos et al. 2013
+^ Christopoulos, Skordas & Sarlis 2020
+^ Donges et al. 2016
+^ Mulargia & Gasperini 1992, p. 32; Geller 1996a, p. 184 ("ranges not given, or vague"); Mulargia & Gasperini 1992, p. 32 ("large indetermination in the parameters"); Rhoades & Evison 1996, p. 1372 ("falls short"); Jackson 1996b, p. 1364 ("have never been fully specified"); Jackson & Kagan 1998, p. 573 ("much too vague"); Wyss & Allmann 1996, p. 1307 ("parameters not defined"). Stavrakakis & Drakopoulos (1996) discuss some specific cases in detail.
+^ Geller 1997, p. 436. Geller (1996a, pp. 183 189,  6) discusses this at length.
+^ Telegram 39, issued 1 September 1988, in Varotsos & Lazaridou 1991, p. 337, Fig. 21. See figure 26 (p. 344) for a similar telegram. See also telegrams 32 and 41 (figures 15 and 16, pp. 115-116) in Varotsos & Alexopoulos 1984b. This same pair of predictions is apparently presented as Telegram 10 in Table 1, p. 50, of Varotsos et al. 1996a. Text from several telegrams is presented in Table 2 (p. 54), and faxes of a similar character.
+^ Varotsos et al. (1996a) they also cite Hamada's claim of a 99.8% confidence level. Geller (1996a, p. 214) finds that this "was based on the premise that 6 out of 12 telegrams" were in fact successful predictions, which is questioned. Kagan (1996, p. 1315) finds that in Shnirman et al. "several variables ... have been modified to achieve the result." Geller et al. (1998, p. 98) mention other "flaws such as overly generous crediting of successes, using strawman null hypotheses and failing to account for properly for a posteriori "tuning" of parameters."
+^ Kagan 1996, p. 1318.
+^ GR Reporter (2011) "From its very appearance in the early 1990s until today, the VAN group is the subject of sharp criticism from Greek seismologists"; Chouliaras & Stavrakakis (1999): "panic overtook the general population" (Prigos, 1993). Ohshansky & Geller (2003, p. 318): "causing widespread unrest and a sharp increase in tranquilizer drugs" (Athens, 1999). Papadopoulos (2010): "great social uneasiness" (Patras, 2008). Anagnostopoulos (1998, p. 96): "often caused widespread rumors, confusion and anxiety in Greece". ICEF (2011, p. 352): issuance over the years of "hundreds" of statements "causing considerable concern among the Greek population."
+^ Stiros 1997, p. 482.
+^ Varotsos et al. 1996a, pp. 36, 60, 72.
+^ Anagnostopoulos 1998.
+^ Geller 1996a, p. 223.
+^ Apostolidis 2008; Uyeda & Kamogawa 2008; Chouliaras 2009; Uyeda 2010.[full citation needed]
+^ Papadopoulos 2010.
+^ Uyeda & Kamogawa 2010
+^ Harris 1998, p. B18.
+^ Garwin 1989.
+^ USGS staff 1990, p. 247.
+^ Kerr 1989; Harris 1998.
+^ e.g., ICEF 2011, p. 327.
+^ Harris 1998, p. B22.
+^ Harris 1998, p. B5, Table 1.
+^ Harris 1998, pp. B10 B11.
+^ Harris 1998, p. B10, and figure 4, p. B12.
+^ Harris 1998, p. B11, figure 5.
+^ Geller (1997,  4.4) cites several authors to say "it seems unreasonable to cite the 1989 Loma Prieta earthquake as having fulfilled forecasts of a right-lateral strike-slip earthquake on the San Andreas Fault."
+^ Harris 1998, pp. B21 B22.
+^ Hough 2010b, p. 143.
+^ AHWG 1990, p. 10 (Spence et al. 1993, p. 54 [62]).
+^ Spence et al. 1993,  footnote, p. 4 [12] "Browning preferred the term projection, which he defined as determining the time of a future event based on calculation. He considered 'prediction' to be akin to tea-leaf reading or other forms of psychic foretelling." See also Browning's own comment on p. 36 [44].
+^ Spence et al. 1993, p. 39 [47].
+^ Spence et al. 1993, pp. 9 11 [17 19], and see various documents in Appendix A, including The Browning Newsletter for 21 November 1989 (p. 26 [34]).
+^ AHWG 1990, p. III (Spence et al. 1993, p. 47 [55]).
+^ AHWG 1990, p. 30 (Spence et al. 1993, p. 64 [72]).
+^ Spence et al. 1993, p. 13 [21]
+^ Spence et al. 1993, p. 29 [37].
+^ Spence et al. 1993, throughout.
+^ Tierney 1993, p. 11.
+^ Spence et al. 1993, pp. 4 [12], 40 [48].
+^ CEPEC 2004a; Hough 2010b, pp. 145 146.
+^ CEPEC 2004b.
+^ ICEF 2011, p. 320.
+^ Alexander 2010, p. 326.
+^ Squires & Rayne 2009; McIntyre 2009.
+^ Hall 2011, p. 267.
+^ Kerr 2009.
+^ Dollar 2010.
+^ ICEF (2011, p. 323) alludes to predictions made on 17 February and 10 March.
+^ Kerr 2009; Hall 2011, p. 267; Alexander 2010, p. 330.
+^ Kerr 2009; Squires & Rayne 2009.
+^ Dollar 2010; Kerr 2009.
+^ ICEF 2011, pp. 323, 335.
+^ Geller 1997 found "no obvious successes".
+^ Panel on Earthquake Prediction 1976, p. 2.
+^ Kagan 1997b, p. 505 "The results of efforts to develop earthquake prediction methods over the last 30 years have been disappointing: after many monographs and conferences and thousands of papers we are no closer to a working forecast than we were in the 1960s".
+^ Main 1999.
+^ Geller et al. 1997, p. 1617.
+^ Kanamori & Stewart 1978, abstract.
+^ Sibson 1986.
+^ Cowan, Nicol & Tonkin 1996.
+^ Schwartz & Coppersmith (1984, pp. 5696 7) argued that the characteristics of fault rupture on a given fault "can be considered essentially constant through several seismic cycles". The expectation of a regular rate of occurrence that accounts for all other factors was rather disappointed by the lateness of the Parkfield earthquake.
+^ Ziv, Cochard & Schmittbuhl 2007.
+^ Geller et al. 1997, p. 1616; Kagan 1997b, p. 517. See also Kagan 1997b, p. 520, Vidale 1996 and especially Geller 1997,  9.1, "Chaos, SOC, and predictability".
+^ Matthews 1997.
+^ Martucci et al. 2021
+^ Varotsos, Sarlis & Skordas 2020
+^ E.g., Sykes, Shaw & Scholz 1999 and Evison 1999.
+^ ICEF 2011, p. 360.
+Sources[edit]
+Aceves, Richard L.; Park, Stephen K.; Strauss, David J. (27 May 1996), "Statistical evaluation of the VAN Method using the historic earthquake catalog in Greece", Geophysical Research Letters, 23 (11): 1425 1428, Bibcode:1996GeoRL..23.1425A, doi:10.1029/96GL01478, ISSN 1944-8007.
+The Ad Hoc Working Group on the December 2 3, 1990, Earthquake Prediction [AHWG] (18 October 1990), Evaluation of the December 2 3, 1990, New Madrid Seismic Zone Prediction. Reproduced in Spence et al. (1993), pp. 45 66 [53 74], Appendix B.
+Aggarwal, Yash P.; Sykes, Lynn R.; Simpson, David W.; Richards, Paul G. (10 February 1975), "Spatial and Temporal Variations in ts/tp and in P Wave Residuals at Blue Mountain Lake, New York: Application to Earthquake Prediction", Journal of Geophysical Research, 80 (5): 718 732, Bibcode:1975JGR....80..718A, doi:10.1029/JB080i005p00718.
+Alexander, David E. (2010), "The L'Aquila Earthquake of 6 April 2009 and Italian Government Policy on Disaster Response", Journal of Natural Resources Policy Research, 2 (4): 325 342, doi:10.1080/19390459.2010.511450, S2CID 153641723.
+Allen, Clarence R. (December 1976), "Responsibilities in earthquake prediction", Bulletin of the Seismological Society of America, 66 (6): 2069 2074, Bibcode:1976BuSSA..66.2069A, doi:10.1785/BSSA0660062069.
+Allen, Clarence R. (December 1982), "Earthquake Prediction   1982 Overview", Bulletin of the Seismological Society of America, 72 (6B): S331 S335, Bibcode:1982BuSSA..72S.331A, doi:10.1785/BSSA07206B0331.
+Allen, Clarence R. (1983). "The Southern California Earthquake Prediction of 1976 : A Prediction Unfulfilled" (PDF). Proceedings of the Seminar on Earthquake Prediction Case Histories. Geneva, 12 15 October 1982. UNDRO. pp. 77 82.
+Anagnostopoulos, Stavros A. (June 1998), "Letter" (PDF), Physics Today, 51 (6): 96, Bibcode:1998PhT....51f..15S, doi:10.1063/1.882266, archived from the original (PDF) on 23 March 2014.
+Apostolidis, C. (10 February 2008), "Problepsi gia seismo 6 rixter", Ethnos (in Greek), Pegasus Publishing, archived from the original on 15 July 2016, retrieved 16 July 2016.
+Atwood, L. Erwin; Major, Ann Marie (November 1998), "Exploring the "Cry Wolf" Hypothesis", International Journal of Mass Emergencies and Disasters, 16 (3): 279 302, doi:10.1177/028072709801600303, S2CID 111790086.
+Bakun, W. H.; Aagaard, B.; Dost, B.; Ellsworth, W. L.; Hardebeck, J. L.; Harris, R. A.; Ji, C.; Johnston, M. J. S.; Langbein, J.; Lienkaemper, J. J.; Michael, A. J.; Murray, J. R.; Nadeau, R. M.; Reasenberg, P. A.; Reichle, M. S.; Roeloffs, E. A.; Shakal, A.; Simpson, R. W.; Simpson, R. W.; Waldhauser, F. (13 October 2005), "Implications for prediction and hazard assessment from the 2004 Parkfield earthquake", Nature, 437 (7061): 969 974, Bibcode:2005Natur.437..969B, doi:10.1038/nature04067, PMID 16222291, S2CID 4389712.
+Bakun, W.H.; Breckenridge, K.S.; Bredehoeft, J.; Burford, R.O.; Ellsworth, W.L.; Johnston, M.J.S.; Jones, L.; Lindh, A.G.; Mortensen, C.; Mueller, R. J.; Poley, C. M.; Roeloffs, E.; Schulz, S.; Segall, P.; Thatcher, W. (1 May 1987). Parkfield, California, Earthquake Prediction Scenarios and Response Plans (PDF) (Report). U.S. Geological Survey. Open-File Report 87-192.
+Bakun, W. H.; Lindh, A. G. (16 August 1985), "The Parkfield, California, Earthquake Prediction Experiment", Science, 229 (4714): 619 624, Bibcode:1985Sci...229..619B, doi:10.1126/science.229.4714.619, PMID 17739363, S2CID 40899434.
+Bakun, W. H.; McEvilly, T. V. (28 September 1979), "Earthquakes near Parkfield, California: Comparing the 1934 and 1966 Sequences", Science, 205 (4413): 1375 1377, Bibcode:1979Sci...205.1375B, doi:10.1126/science.205.4413.1375, PMID 17732330, S2CID 28922627.
+Bernard, P. (10 November 1992), "Plausibility of long distance electrotelluric precursors to earthquakes", Journal of Geophysical Research, 97 (B12): 17531 17546, Bibcode:1992JGR....9717531B, doi:10.1029/92JB01215.
+Bernard, P.; LeMouel, J. L. (1996), "On electrotelluric signals", A critical review of VAN, London: Lighthill, S. J. World Scientific, pp. 118 154.
+Biagi, P. F.; Maggipinto, T.; Righetti, F.; Loiacono, D.; Schiavulli, L.; Ligonzo, T.; Ermini, A.; Moldovan, I. A.; Moldovan, A. S.; Buyuksarac, A.; Silva, H. G. (7 February 2011), "The European VLF/LF radio network to search for earthquake precursors: setting up and natural/man-made disturbances", Natural Hazards and Earth System Sciences, 11 (2): 333 341, Bibcode:2011NHESS..11..333B, doi:10.5194/nhess-11-333-2011, ISSN 1561-8633
+Bolt, Bruce A. (1993), Earthquakes and geological discovery, Scientific American Library, ISBN 0-7167-5040-6.
+Bowman, D. D.; Quillon, G.; Sammis, C. G.; Sornette, A.; Sornette, D. (10 October 1998), "An observational test of the critical earthquake concept" (PDF), Journal of Geophysical Research, 103 (10): 24, 359 24, 372, arXiv:cond-mat/9803204, Bibcode:1998JGR...10324359B, doi:10.1029/98jb00792, S2CID 118922519.
+Brown, Roger; Kulik, James (1977), "Flashbulb memories", Cognition, 5 (1): 73 99, doi:10.1016/0010-0277(77)90018-X, S2CID 53195074.
+California Earthquake Prediction Evaluation Council (2 March 2004a), Report to the Director, Governor's Office of Emergency Services (PDF), archived from the original (PDF) on 29 April 2013.
+California Earthquake Prediction Evaluation Council (9 December 2004b), Report to the Director, Governor's Office of Emergency Services.
+Campbell, W. H. (May 2009), "Natural magnetic disturbance fields, not precursors, preceding the Loma Prieta earthquake", Journal of Geophysical Research, 114 (A5): A05307, Bibcode:2009JGRA..114.5307C, doi:10.1029/2008JA013932, S2CID 18246478.
+Cartlidge, Edwin (3 June 2011), "Quake Experts to Be Tried For Manslaughter", Science, 332 (6034): 1135 1136, Bibcode:2011Sci...332.1135C, doi:10.1126/science.332.6034.1135, PMID 21636750.
+Cartlidge, Edwin (12 October 2012), "Aftershocks in the Courtroom", Science, 338 (6104): 184 188, Bibcode:2012Sci...338..184C, doi:10.1126/science.338.6104.184, PMID 23066054.
+Castellaro, S. (2003), " 2.4.3. The classical earthquake model",  in Mulargia, Francesco; Geller, Robert J. (eds.), Earthquake science and seismic risk reduction, Dordrecht: Kluwer Academic Publishers, pp. 56 57, ISBN 9781402017780.
+Christopoulos, Stavros-Richard G.; Skordas, Efthimios S.; Sarlis, Nicholas V. (17 January 2020), "On the Statistical Significance of the Variability Minima of the Order Parameter of Seismicity by Means of Event Coincidence Analysis", Applied Sciences, 10 (2): 662, doi:10.3390/app10020662, ISSN 2076-3417
+Chouliaras, G.; Stavrakakis, G. (1999), "Support for VAN's earthquake predictions is based on false statements." (PDF), Eos Trans. AGU, 80 (19): 216, Bibcode:1999EOSTr..80..216C, doi:10.1029/99EO00166.
+Chouliaras, G. (2009), "Seismicity anomalies prior to 8 June 2008 earthquake in Western Greece", Nat. Hazards Earth Syst. Sci., 9: 327 335, doi:10.5194/nhess-9-327-2009.
+Cicerone, Robert D.; Ebel, John E.; Britton, James (25 October 2009), "A systematic compilation of earthquake precursors" (PDF), Tectonophysics, 476 (3 4): 371 396, Bibcode:2009Tectp.476..371C, doi:10.1016/j.tecto.2009.06.008.
+Cannav , Flavio; Arena, Alessandra; Monaco, Carmelo (2015), "Local geodetic and seismic energy balance for shallow earthquake prediction", Journal of Seismology, 19 (1): 1 8, Bibcode:2015JSeis..19....1C, doi:10.1007/s10950-014-9446-z, S2CID 129258518.
+Console, R. (30 August 2001), "Testing earthquake forecast hypotheses", Tectonophysics, 338 (3 4): 261 268, Bibcode:2001Tectp.338..261C, doi:10.1016/S0040-1951(01)00081-6.
+Cowan, Hugh; Nicol, Andrew; Tonkin, Philip (10 March 1996), "A comparison of historical and paleoseismicity in a newly formed fault zone and a mature fault zone, North Canterbury, New Zealand", Journal of Geophysical Research, 101 (B3): 6021 6036, Bibcode:1996JGR...101.6021C, doi:10.1029/95JB01588, hdl:10182/3334.
+Davies, D. (27 November 1975), "Earthquake prediction in China", Nature, 258 (5533): 286 287, Bibcode:1975Natur.258..286D, doi:10.1038/258286a0, S2CID 4266855.
+DeVries, Phoebe M. R.; Vi gas, Fernanda; Wattenberg, Martin; Meade, Brendan J. (August 2018). "Deep learning of aftershock patterns following large earthquakes". Nature. 560 (7720): 632 634. Bibcode:2018Natur.560..632D. doi:10.1038/s41586-018-0438-y. ISSN 1476-4687. PMID 30158606. S2CID 52118714.
+Donges, J.F.; Schleussner, C.-F.; Siegmund, J.F.; Donner, R.V. (2016), "Event coincidence analysis for quantifying statistical interrelationships between event time series", The European Physical Journal Special Topics, 225 (3): 471 487, arXiv:1508.03534, doi:10.1140/epjst/e2015-50233-y, ISSN 1951-6355, S2CID 88520803
+Drakopoulos, J.; Stavrakakis, G.N.; Latoussakis, J. (30 August 1993), "Evaluation and interpretation of thirteen official van  telegrams for the period September 10, 1986 to April 28, 1988.", Tectonophysics, 224 (1 3): 223 236, Bibcode:1993Tectp.224..223D, doi:10.1016/0040-1951(93)90075-U.
+Dollar, John (5 April 2010), "The man who predicted an earthquake", The Guardian.
+Eftaxias, K.; Athanasopoulou, L.; Balasis, G.; Kalimeri, M.; Nikolopoulos, S.; Contoyiannis, Y.; Kopanas, J.; Antonopoulos, G.; Nomicos, C. (25 November 2009), "Unfolding the procedure of characterizing recorded ultra low frequency, kHZ and MHz electromagetic anomalies prior to the L'Aquila earthquake as pre-seismic ones   Part 1", Natural Hazards and Earth System Sciences, 9 (6): 1953 1971, arXiv:0910.0797, Bibcode:2009NHESS...9.1953E, doi:10.5194/nhess-9-1953-2009, ISSN 1561-8633, S2CID 226246369
+Eftaxias, K.; Balasis, G.; Contoyiannis, Y.; Papadimitriou, C.; Kalimeri, M.; Athanasopoulou, L.; Nikolopoulos, S.; Kopanas, J.; Antonopoulos, G.; Nomicos, C. (16 February 2010), "Unfolding the procedure of characterizing recorded ultra low frequency, kHZ and MHz electromagnetic anomalies prior to the L'Aquila earthquake as pre-seismic ones - Part 2", Natural Hazards and Earth System Sciences, 10 (2): 275 294, arXiv:0908.0686, Bibcode:2010NHESS..10..275E, doi:10.5194/nhess-10-275-2010, ISSN 1561-8633, S2CID 73570989
+Enriquez, Alberto (2015), "Earthquake-prediction technology deserves to be taken seriously (OPINION)", OregonLive.com, retrieved 19 November 2016.
+Evans, R. (December 1997), "Assessment of schemes for earthquake prediction: Editor's introduction", Geophysical Journal International, 131 (3): 413 420, Bibcode:1997GeoJI.131..413E, doi:10.1111/j.1365-246X.1997.tb06585.x.
+Field;  et al. (Working Group on California Earthquake Probabilities) (2008). "The Uniform California Earthquake Rupture Forecast, Version 2 (UCERF2)" (PDF). Bulletin of the Seismological Society of America (published 2009). 99 (4): 2053 2107. Bibcode:2009BuSSA..99.2053F. doi:10.1785/0120080049. Open-File Report 2007-1437.. Also published as California Geological Survey Special Report 203.
+Filizzola, C.; Pergola, N.; Pietrapertosa, C.; Tramutoli, V. (1 January 2004), "Robust satellite techniques for seismically active areas monitoring: a sensitivity analysis on September 7, 1999 Athens's earthquake", Physics and Chemistry of the Earth, Parts A/B/C, Seismo Electromagnetics and Related Phenomena, 29 (4): 517 527, Bibcode:2004PCE....29..517F, doi:10.1016/j.pce.2003.11.019, ISSN 1474-7065
+Evison, Frank (October 1999), "On the existence of earthquake precursors" (PDF), Annali di Geofisica, 42 (5): 763 770.
+Fraser-Smith, A. C.; Bernardi, A.; McGill, P. R.; Ladd, M. E.; Helliwell, R. A.; Villard, O. G., Jr. (August 1990), "Low-Frequency Magnetic Field Measurements Near the Epicenter of the Ms 7.1 Loma Prieta Earthquake", Geophysical Research Letters, 17 (9): 1465 1468, Bibcode:1990GeoRL..17.1465F, doi:10.1029/GL017i009p01465.\
+Freund, Friedemann (10 May 2000), "Time-resolved study of charge generation and propagation in igneous rocks", Journal of Geophysical Research: Solid Earth, 105 (B5): 11001 11019, Bibcode:2000JGR...10511001F, doi:10.1029/1999JB900423, ISSN 2156-2202.
+Freund, Friedemann T.; Takeuchi, Akihiro; Lau, Bobby W. S. (1 January 2006), "Electric currents streaming out of stressed igneous rocks   A step towards understanding pre-earthquake low frequency EM emissions", Physics and Chemistry of the Earth, Parts A/B/C, Recent Progress in Seismo Electromagnetics and Related Phenomena, 31 (4): 389 396, Bibcode:2006PCE....31..389F, doi:10.1016/j.pce.2006.02.027, ISSN 1474-7065
+Freund, Friedemann; Sornette, Didier (20 February 2007), "Electro-magnetic earthquake bursts and critical rupture of peroxy bond networks in rocks", Tectonophysics, 431 (1): 33 47, arXiv:physics/0603205, Bibcode:2007Tectp.431...33F, doi:10.1016/j.tecto.2006.05.032, ISSN 0040-1951, S2CID 45310425
+Freund, Friedemann T.; Kulahci, Ipek G.; Cyr, Gary; Ling, Julia; Winnick, Matthew; Tregloan-Reed, Jeremy; Freund, Minoru M. (1 December 2009), "Air ionization at rock surfaces and pre-earthquake signals", Journal of Atmospheric and Solar-Terrestrial Physics, 71 (17): 1824 1834, Bibcode:2009JASTP..71.1824F, doi:10.1016/j.jastp.2009.07.013, ISSN 1364-6826
+Freund, Friedemann (1 October 2010), "Toward a unified solid state theory for pre-earthquake signals", Acta Geophysica, 58 (5): 719 766, Bibcode:2010AcGeo..58..719F, doi:10.2478/s11600-009-0066-x, ISSN 1895-7455, S2CID 128744720
+Freund, Friedemann; Stolc, Viktor (2013), "Nature of Pre-Earthquake Phenomena and their Effects on Living Organisms", Animals, 3 (2): 513 531, doi:10.3390/ani3020513, PMC 4494396, PMID 26487415
+Garwin, Laura (26 October 1989), "A successful prediction?", Nature, 341 (6244): 677, Bibcode:1989Natur.341..677G, doi:10.1038/341677a0, S2CID 658586.
+Geller, Robert J. (17 October 1991), "Unpredictable earthquakes [response to Hamada]", Nature, 353 (6345): 612, Bibcode:1991Natur.353..612G, doi:10.1038/353612a0, S2CID 5154447.
+Geller, R. J. (1996a), "Short-term earthquake prediction in Greece by seismic electric signals",  in Lighthill, J. (ed.), A Critical Review of VAN, World Scientific, pp. 155 238
+Geller, R. J. (27 May 1996b), "Debate on evaluation of the VAN method: Editor's introduction", Geophysical Research Letters, 23 (11): 1291 1293, Bibcode:1996GeoRL..23.1291G, doi:10.1029/96GL00742.
+Geller, Robert J. (December 1997), "Earthquake prediction: a critical review." (PDF), Geophysical Journal International, 131 (3): 425 450, Bibcode:1997GeoJI.131..425G, doi:10.1111/j.1365-246X.1997.tb06588.x[dead link]
+Geller, Robert J.; Jackson, David D.; Kagan, Yan Y.; Mulargia, Francesco (14 March 1997), "Earthquakes Cannot Be Predicted" (PDF), Science, 275 (5306): 1616, doi:10.1126/science.275.5306.1616, S2CID 123516228.
+Geller, Robert J.; Jackson, David D.; Kagan, Yan Y.; Mulargia, Francesco; Stiros, Stathis (June 1998), "Letter" (PDF), Physics Today, 51 (6): 95 96, Bibcode:1998PhT....51f..15S, doi:10.1063/1.882266, archived from the original (PDF) on 23 March 2014.
+Genzano, N.; Aliano, C.; Corrado, R.; Filizzola, C.; Lisi, M.; Mazzeo, G.; Paciello, R.; Pergola, N.; Tramutoli, V. (11 December 2009), "RST analysis of MSG-SEVIRI TIR radiances at the time of the Abruzzo 6 April 2009 earthquake", Natural Hazards and Earth System Sciences, 9 (6): 2073 2084, Bibcode:2009NHESS...9.2073G, doi:10.5194/nhess-9-2073-2009, ISSN 1561-8633
+Gersony, Robert, ed. (October 1982), "Volume XIII, Selected Available Documentation: The Brady Earthquake Predictions. Book B, Reports, Memoranda, Correspondence and Other Communication   Chronological Collection 1981 1982" (PDF), The Lima Disaster Preparedness Report.
+Giesecke, Albert A. (1983). "Case history of the Peru prediction for 1980 1981" (PDF). Proceedings of the Seminar on Earthquake Prediction Case Histories. Geneva, 12 15 October 1982. UNDPRO. pp. 51 74.
+GR Reporter (8 August 2011). "Scientists from the VAN group are warning for a strong earthquake of 6 on the Richter scale". GR Reporter.
+Gruszow, S.; Rossignol, J. C.; Tzanis, A.; Le Mou l, J. L. (1 August 1996), "Identification and analysis of electromagnetic signals in Greece: the case of the Kozani earthquake VAN prediction", Geophysical Research Letters, 23 (16): 2025 2028, Bibcode:1996GeoRL..23.2025G, doi:10.1029/96GL02170.
+Hall, Stephen S. (15 September 2011), "At Fault?" (PDF), Nature, 477 (7364): 264 269, Bibcode:2011Natur.477..264H, doi:10.1038/477264a, PMID 21921895, S2CID 205067216.
+Hamada, K. (17 October 1991), "Unpredictable earthquakes", Nature, 353 (6345): 611 612, Bibcode:1991Natur.353..611H, doi:10.1038/353611c0, S2CID 4239462.
+Hamada, Kazuo (30 August 1993), "Statistical evaluation of the SES predictions issued in Greece: alarm and success rates", Tectonophysics, 224 (1 3): 203 210, Bibcode:1993Tectp.224..203H, doi:10.1016/0040-1951(93)90073-S.
+Hamada, Kazuo (1996), "Re-examination of statistical evaluation of the SES prediction in Greece",  in Lighthill, James (ed.), A Critical Review of VAN   Earthquake Prediction from Seismic Electrical Signals, London: World Scientific Publishing, pp. 286 291, ISBN 978-981-02-2670-1.
+Hamilton, Robert M. (1976). The Status of Earthquake Prediction. Earthquake Prediction   Opportunity to Avert Disaster. A conference on earthquake warning and response held in San Francisco, California, on November 7, 1975. (PDF). U.S. Geological Survey. pp. 6 9. Circular 729.
+Hammond, Allen L. (23 May 1973), "Earthquake predictions: Breakthrough in theoretical insight?", Science, 180 (4088): 851 853, Bibcode:1973Sci...180..851H, doi:10.1126/science.180.4088.851, PMID 17789254.
+Hammond, Allen L. (3 May 1974), "Dilatancy: Growing Acceptance as an Earthquake Mechanism", Science, 184 (4136): 551 552, Bibcode:1974Sci...184..551H, doi:10.1126/science.184.4136.551, PMID 17755025.
+Hammond, Allen L. (7 February 1975), "Earthquake Prediction: Progress in California, Hesitation in Washington", Science, 187 (4175): 419 420, Bibcode:1975Sci...187..419H, doi:10.1126/science.187.4175.419, PMID 17835300.
+Hammond, Allen L. (7 May 1976), "Earthquakes: An evacuation in China, a warning in California", Science, 192 (4239): 538 539, Bibcode:1976Sci...192..538H, doi:10.1126/science.192.4239.538, PMID 17745640.
+Hardebeck, Jeanne L.; Felzer, Karen R.; Michael, Andrew J. (August 2008), "Improved tests reveal that the accelerating moment release hypothesis is statistically insignificant" (PDF), Journal of Geophysical Research, 113 (B08130): 8310, Bibcode:2008JGRB..113.8310H, doi:10.1029/2007JB005410.
+Harris, Ruth A. (1998). The Loma Prieta, California, Earthquake of October 17, 1989  Forecasts (PDF) (Report). U.S. Geological Survey. Open-File Report 1550-B..
+Harris, Ruth A.; Arrowsmith, J Ramon (September 2006), "Introduction to the Special Issue on the 2004 Parkfield Earthquake and the Parkfield Earthquake Prediction Experiment" (PDF), Bulletin of the Seismological Society of America, 96 (4B): S1 S5, Bibcode:2006BuSSA..96S...1H, doi:10.1785/0120050831.
+Hayakawa, Masashi (2015), Fundamentals of earthquake prediction, Singapore: John Wiley & Sons, ISBN 9781118770375.
+Helman, Daniel (2020), "Seismic electric signals (SES) and earthquakes: A review of an updated VAN method and competing hypotheses for SES generation and earthquake triggering", Physics of the Earth and Planetary Interiors, 302 (1): 106484, Bibcode:2020PEPI..30206484H, doi:10.1016/j.pepi.2020.106484, S2CID 216467109
+Heraud, J. A.; Centa, V. A.; Bleier, T. (1 December 2015), "Electromagnetic Precursors Leading to Triangulation of Future Earthquakes and Imaging of the Subduction Zone", AGU Fall Meeting Abstracts, 32: NH32B 03, Bibcode:2015AGUFMNH32B..03H.
+Hough, Susan E. (January February 2010), "A seismological retrospective of the Brady-Spence prediction" (PDF), Seismological Research Letters, 81 (1): 113 117, doi:10.1785/gssrl.81.1.113.
+Hough, Susan E. (2010b), Predicting the Unpredictable: The Tumultuous Science of Earthquake Prediction, Princeton University Press, ISBN 978-0-691-13816-9.
+Huang, Qinghua (27 January 2015), "Forecasting the epicenter of a future major earthquake", Proceedings of the National Academy of Sciences, 112 (4): 944 945, Bibcode:2015PNAS..112..944H, doi:10.1073/pnas.1423684112, ISSN 0027-8424, PMC 4313830, PMID 25583499.
+International Commission on Earthquake Forecasting for Civil Protection (ICEF) (2 October 2009). Operational Earthquake Forecasting: State of Knowledge and Guidelines for Utilization   Executive Summary (PDF) (Report). Archived from the original (PDF) on 9 March 2013.
+International Commission on Earthquake Forecasting for Civil Protection (ICEF) (30 May 2011). "Operational Earthquake Forecasting: State of Knowledge and Guidelines for Utilization". Annals of Geophysics. 54 (4): 315 391. doi:10.4401/ag-5350. S2CID 129825964.
+Jackson, David D. (April 1996a), "Hypothesis testing and earthquake prediction", Proc. Natl. Acad. Sci. U.S.A., 93 (9): 3772 3775, Bibcode:1996PNAS...93.3772J, doi:10.1073/pnas.93.9.3772, PMC 39435, PMID 11607663.
+Jackson, David D. (27 May 1996b), "Earthquake prediction evaluation standards applied to the VAN method", Geophysical Research Letters, 23 (11): 1363 1366, Bibcode:1996GeoRL..23.1363J, doi:10.1029/96gl01439.
+Jackson, David D. (2004). "Earthquake Prediction and Forecasting".  In Sparks, R. S. J.; Hawkesworth, C. J. (eds.). The State of the Planet: Frontiers and Challenges in Geophysics. Washington DC American Geophysical Union Geophysical Monograph Series. Geophysical Monograph Series. Vol. 150. Washington DC: American Geophysical Union. pp. 335 348. Bibcode:2004GMS...150..335J. doi:10.1029/150GM26. ISBN 0-87590-415-7..
+Jackson, David D.; Kagan, Yan Y. (24 November 1998), "VAN method lacks validity" (PDF), Eos, 79 (47): 573 579, Bibcode:1998EOSTr..79..573J, doi:10.1029/98EO00418.
+Jackson, David D.; Kagan, Yan Y. (September 2006), "The 2004 Parkfield earthquake, the 1985 prediction, and characteristic earthquakes: Lessons for the future" (PDF), Bulletin of the Seismological Society of America, 96 (4B): S397 S409, Bibcode:2006BuSSA..96S.397J, doi:10.1785/0120050821.
+Johnston, M.J.S. (2002), "Electromagnetic Fields Generated by Earthquakes",  in Lee, William H.K.; Kanamori, Hiroo; Jennings, Paul C.; Kisslinger, Carl (eds.), International Handbook of Earthquake and Engineering Seismology, vol. 81A, pp. 621 635, ISBN 0-12-440652-1
+Johnston, M. J. S.; Sasai, Y.; Egbert, G. D.; Mueller, R. J. (September 2006), "Seismomagnetic Effects from the Long-Awaited 28 September 2004 M 6.0 Parkf1eld Earthquake" (PDF), Bulletin of the Seismological Society of America, 96 (4B): S206 S220, Bibcode:2006BuSSA..96S.206J, doi:10.1785/0120050810.
+Jolliffe, Ian T.; Stephenson, David B., eds. (2003), Forecast Verification: A Practitioner's Guide in Atmospheric Science (1st ed.), John Wiley & Sons, ISBN 0-471-49759-2.
+Jones, Lucille M. (December 1985), "Foreshocks and time-dependent earthquake hazard assessment in southern California", Bulletin of the Seismological Society of America, 75 (6): 1669 1679.
+Jordan, Thomas H.; Jones, Lucile M. (July August 2010), "Operational Earthquake Forecasting: Some thoughts on why and how" (PDF), Seismological Research Letters, 81 (4): 571 574, doi:10.1785/gssrl.81.4.571.
+Kagan, Y. Y. (27 May 1996), "VAN earthquake predictions   an attempt at statistical evaluation" (PDF), Geophysical Research Letters, 23 (11): 1315 1318, Bibcode:1996GeoRL..23.1315K, doi:10.1029/95gl03417
+Kagan, Yan Y. (15 March 1997), "Statistical aspects of Parkfield earthquake sequence and Parkfield prediction experiment" (PDF), Tectonophysics, 270 (3 4): 207 219, Bibcode:1997Tectp.270..207K, doi:10.1016/S0040-1951(96)00210-7.
+Kagan, Yan Y. (December 1997b), "Are earthquakes predictable?" (PDF), Geophysical Journal International, 131 (3): 505 525, Bibcode:1997GeoJI.131..505K, doi:10.1111/j.1365-246X.1997.tb06595.x.
+Kagan, Yan Y. (August 1999), "Is Earthquake Seismology a Hard, Quantitative Science?" (PDF), Pure and Applied Geophysics, 155 (2 4): 233 258, Bibcode:1999PApGe.155..233K, doi:10.1007/s000240050264, S2CID 6619331.
+Kagan, Yan Y.; Jackson, David D. (10 December 1991), "Seismic Gap Hypothesis: Ten Years After" (PDF), Journal of Geophysical Research, 96 (B13): 21, 419 21, 431, Bibcode:1991JGR....9621419K, doi:10.1029/91jb02210.
+Kagan, Yan Y.; Jackson, David D. (27 May 1996), "Statistical tests of VAN earthquake predictions: comments and reflections" (PDF), Geophysical Research Letters, 23 (11): 1433 1436, Bibcode:1996GeoRL..23.1433K, doi:10.1029/95GL03786.
+Kagan, Yan Y.; Jackson, David d.; Geller, Robert J. (November December 2012), "Characteristic earthquake model, 1884   2011, R.I.P", Seismological Research Letters, 83 (6): 951 953, arXiv:1207.4836, Bibcode:2012arXiv1207.4836K, doi:10.1785/0220120107, S2CID 88513151.
+Kagan, Yan Y.; Knopoff, Leon (19 June 1987), "Statistical Short-Term Earthquake Prediction", Science, 236 (4808): 1563 1567, Bibcode:1987Sci...236.1563K, doi:10.1126/science.236.4808.1563, PMID 17835741, S2CID 12946111.
+Kanamori, Hiroo (2003), "Earthquake Prediction: An Overview", International Handbook of Earthquake and Engineering Seismology, International Geophysics, 616: 1205 1216, doi:10.1016/s0074-6142(03)80186-9, ISBN 0-12-440658-0.
+Kanamori, Hiroo; Stewart, Gordon S. (10 July 1978), "Seismological Aspects of the Guatemala Earthquake of February 4, 1976" (PDF), Journal of Geophysical Research, 83 (B7): 3427 3434, Bibcode:1978JGR....83.3427K, doi:10.1029/JB083iB07p03427.
+Kappler, K. N.; Morrison, H. Frank; Egbert, G. D. (April 2010), "Long((en))term monitoring of ULF electromagnetic fields at Parkfield, California" (PDF), Journal of Geophysical Research, 115 (B4): B04406, Bibcode:2010JGRB..115.4406K, doi:10.1029/2009JB006421.
+Kerr, Richard A. (28 April 1978), "Earthquakes: Prediction Proving Elusive", Science, 200 (4340): 419 421, Bibcode:1978Sci...200..419K, doi:10.1126/science.200.4340.419, PMID 17757294.
+Kerr, Richard A. (2 November 1979), "Prospects for Earthquake Prediction Wane", Science, 206 (4418): 542 544, Bibcode:1979Sci...206..542K, doi:10.1126/science.206.4418.542, PMID 17759414.
+Kerr, Richard A. (20 February 1981), "Prediction of huge Peruvian quakes quashed", Science, 211 (4484): 808 809, Bibcode:1981Sci...211..808K, doi:10.1126/science.211.4484.808, PMID 17740381.
+Kerr, Richard A. (18 December 1981c), "Palmdale Bulge Doubts Now Taken Seriously", Science, 214 (4527): 1331 33, Bibcode:1981Sci...214.1331K, doi:10.1126/science.214.4527.1331, PMID 17812251.
+Kerr, Richard A. (6 January 1984), "Stalking the Next Parkfield Earthquake", Science, 223 (4631): 36 38, Bibcode:1984Sci...223...36K, doi:10.1126/science.223.4631.36, PMID 17752978.Kerr, R. A. (1984). "How to Catch an Earthquake". Science. 223 (4631): 38. doi:10.1126/science.223.4631.38. PMID 17752979.
+Kerr, Richard A. (27 October 1989), "Reading the Future in Loma Prieta", Science, 246 (4929): 436 439, Bibcode:1989Sci...246..436K, doi:10.1126/science.246.4929.436, PMID 17788681.
+Kerr, Richard A. (8 October 2004), "Parkfield Keeps Secrets After A Long-Awaited Quake", Science, 306 (5694): 206 7, doi:10.1126/science.306.5694.206, PMID 15472043, S2CID 32455927.
+Kerr, Richard A. (17 April 2009), "After the Quake, in Search of the Science  or Even a Good Prediction", Science, 324 (5925): 322, Bibcode:2009Sci...324..322K, doi:10.1126/science.324.5925.322, PMID 19372400, S2CID 206585897.
+Kossobokov, V.G.; Romashkova, L.L.; Keilis-Borok, V. I.; Healy, J.H. (1999). "Testing earthquake prediction algorithms: Statistically significant advance prediction of the largest earthquakes in the Circum-Pacific, 1992 1997". Physics of the Earth and Planetary Interiors. 111 (3 4): 187 196. Bibcode:1999PEPI..111..187K. doi:10.1016/S0031-9201(98)00159-9.
+Lighthill, James, ed. (1996), A Critical Review of VAN   Earthquake Prediction from Seismic Electrical Signals, London: World Scientific Publishing, ISBN 978-981-02-2670-1.
+Lighton, John R.B.; Duncan, Frances D. (15 August 2005), "Shaken, not stirred: a serendipitous study of ants and earthquakes", Journal of Experimental Biology, 208 (16): 3103 3107, doi:10.1242/jeb.01735, PMID 16081608, S2CID 2487051.
+Lindberg, Robert G.; Skiles, Durward; Hayden, Page (1981). Can animals predict earthquakes? A search for correlations between changes in activity patterns of two fossorial rodents and subsequent seismic events (PDF) (Report). U.S. Geological Survey. Open-File Report 81-385..
+Lindh, A.G.; Lockner, D.A.; Lee, W.H.K. (June 1978), "Velocity anomalies: An alternative explanation" (PDF), Bulletin of the Seismological Society of America, 68 (3): 721 734.
+Lisi, M.; Filizzola, C.; Genzano, N.; Grimaldi, C. S. L.; Lacava, T.; Marchese, F.; Mazzeo, G.; Pergola, N.; Tramutoli, V. (26 February 2010), "A study on the Abruzzo 6 April 2009 earthquake by applying the RST approach to 15 years of AVHRR TIR observations", Natural Hazards and Earth System Sciences, 10 (2): 395 406, Bibcode:2010NHESS..10..395L, doi:10.5194/nhess-10-395-2010, ISSN 1561-8633
+Lomnitz, Cinna (1994), Fundamentals of earthquake prediction, New York: John Wiley & Sons, ISBN 0-471-57419-8, OCLC 647404423.
+Lomnitz, Cinna; Nava, F. Alejandro (December 1983), "The predictive value of seismic gaps.", Bulletin of the Seismological Society of America, 73 (6A): 1815 1824.
+Lott, Dale F.; Hart, Benjamin L.; Verosub, Kenneth L.; Howell, Mary W. (September 1979), "Is Unusual Animal Behavior Observed Before Earthquakes? Yes and No", Geophysical Research Letters, 6 (9): 685 687, Bibcode:1979GeoRL...6..685L, doi:10.1029/GL006i009p00685.
+Lott, Dale F.; Hart, Benjamin L.; Howell, Mary W. (December 1981), "Retrospective Studies of Unusual Animal Behavior as an Earthquake Predictor", Geophysical Research Letters, 8 (12): 1203 1206, Bibcode:1981GeoRL...8.1203L, doi:10.1029/GL008i012p01203.
+Ludwin, Ruth (May 2001), "Earthquake Prediction" (PDF), Washington Geology, 28 (3): 27 28.
+Luen, Brad; Stark, Philip B. (2008), "Testing earthquake predictions", Institute of Mathematical Statistics collections: Probability and Statistics: Essays in Honor of David A. Freedman, vol. 2, pp. 302 315, arXiv:0805.3032, Bibcode:2008pseh.book..302L, doi:10.1214/193940307000000509, ISBN 978-0-94060074-4, S2CID 12016809.
+Luginbuhl, Molly; Rundle, John B.; Hawkins, Angela; Turcotte, Donald L. (2018), "Nowcasting Earthquakes: A Comparison of Induced Earthquakes in Oklahoma and at the Geysers, California", Pure and Applied Geophysics, 175 (1): 49 65, Bibcode:2018PApGe.175...49L, doi:10.1007/s00024-017-1678-8, ISSN 1420-9136, S2CID 134725994
+Luginbuhl, Molly; Rundle, John B.; Turcotte, Donald L. (2018a), "Natural Time and Nowcasting Earthquakes: Are Large Global Earthquakes Temporally Clustered?", Pure and Applied Geophysics, 175 (2): 661 670, Bibcode:2018PApGe.175..661L, doi:10.1007/s00024-018-1778-0, ISSN 1420-9136, S2CID 186239922
+Luginbuhl, Molly; Rundle, John B.; Turcotte, Donald L. (2018b), "Natural time and nowcasting induced seismicity at the Groningen gas field in the Netherlands", Geophysical Journal International, 215 (2): 753 759, Bibcode:2018GeoJI.215..753L, doi:10.1093/gji/ggy315, ISSN 0956-540X
+Luginbuhl, Molly; Rundle, John B.; Turcotte, Donald L. (14 January 2019), "Statistical physics models for aftershocks and induced seismicity", Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 377 (2136): 20170397, Bibcode:2019RSPTA.37770397L, doi:10.1098/rsta.2017.0397, PMC 6282405, PMID 30478209
+Mabey, Matthew A. (May 2001), "The Charlatan Game" (PDF), Washington Geology, 28 (3): 27 28.  Also at USGS.
+Main, Ian (25 February 1999). "Is the reliable prediction of individual earthquakes a realistic scientific goal?". Nature. Archived from the original on 8 May 2001.
+Main, Ian G.; Bell, Andrew F.; Meredith, Philip G.; Geiger, Sebastian; Touati, Sarah (August 2012), "The dilatancy diffusion hypothesis and earthquake predictability", Geological Society of London, Special Publications, 367 (1): 215 230, Bibcode:2012GSLSP.367..215M, doi:10.1144/SP367.15, hdl:20.500.11820/9d1fbd67-7faa-4adc-8c6f-d742fea1524c, S2CID 73524237.
+Martucci, Matteo; Sparvoli, Roberta; Bartocci, Simona; Battiston, Roberto; Burger, William Jerome; Campana, Donatella; Carfora, Luca; Castellini, Guido; Conti, Livio; Contin, Andrea; De Donato, Cinzia (2021), "Trapped Proton Fluxes Estimation Inside the South Atlantic Anomaly Using the NASA AE9/AP9/SPM Radiation Models along the China Seismo-Electromagnetic Satellite Orbit", Applied Sciences, 11 (8): 3465, doi:10.3390/app11083465.
+Mason, Ian (2003), Binary Events. Chap. 3 in Jolliffe & Stephenson 2003.
+Matthews, Robert A. J. (December 1997), "Decision-theoretic limits on earthquake prediction", Geophysical Journal International, 131 (3): 526 529, Bibcode:1997GeoJI.131..526M, doi:10.1111/j.1365-246X.1997.tb06596.x.
+McCann, W. R.; Nishenko, S. P.; Sykes, L. R.; Krause, J. (1979), "Seismic gaps and plate tectonics: Seismic potential for major boundaries", Pure and Applied Geophysics, 117 (6): 1082 1147, Bibcode:1979PApGe.117.1082M, doi:10.1007/BF00876211, S2CID 129377355.
+McEvilly, T.V.; Johnson, L.R. (April 1974), "Stability of P an S velocities from Central California quarry blasts", Bulletin of the Seismological Society of America, 64 (2): 343 353, Bibcode:1974BuSSA..64..343M, doi:10.1785/BSSA0640020343, S2CID 130963434.
+McIntyre, Jamie (April May 2009), "When Outrage Trumps Science: Italian quake prediction produces tabloid tremors", American Journalism Review.
+McNally, Karen (November December 1979), "Trapping an Earthquake" (PDF), Engineering & Science, pp. 7 12.
+Mignan, Arnaud (June 2011), "Retrospective on the Accelerating Seismic Release (ASR) hypothesis: controversy and new horizons", Tectonophysics, 505 (1 4): 1 16, Bibcode:2011Tectp.505....1M, doi:10.1016/j.tecto.2011.03.010.
+Mignan, Arnaud (14 February 2013), "The debate on the prognostic value of earthquake foreshocks: A meta-analysis", Scientific Reports, 4: 4099, Bibcode:2014NatSR...4E4099M, doi:10.1038/srep04099, PMC 3924212, PMID 24526224.
+Mignan, Arnaud; Broccardo, Marco (2 October 2019). "Neural Network Applications in Earthquake Prediction (1994-2019): Meta-Analytic Insight on their Limitations". arXiv:1910.01178. doi:10.1785/0220200021. S2CID 203642017. {{cite journal}}: Cite journal requires |journal= (help)
+Mileti, Dennis; Sorensen, John (August 1990). Communication of Emergency Public Warnings (Report). doi:10.2172/6137387. Retrieved 20 September 2016   via OSTI.GOV.
+Miller, Sunlen; Patrick, Maggy; Capatides, Christina (24 August 2011), "Sixth Sense? Zoo Animals Sensed Quake Early", ABC News.
+Mulargia, Francesco; Gasperini, Paolo (1992), "Evaluating the statistical validity beyond chance of 'VAN' earthquake precursors" (PDF), Geophysical Journal International, 111 (1): 32 44, Bibcode:1992GeoJI.111...32M, doi:10.1111/j.1365-246X.1992.tb00552.x.
+Mulargia, Francesco; Gasperini, Paolo (27 May 1996a), "Precursor candidacy and validation: The VAN case so far" (PDF), Geophysical Research Letters, 23 (11): 1323 1326, Bibcode:1996GeoRL..23.1323M, doi:10.1029/95GL03456.
+Mulargia, Francesco; Gasperini, Paolo (27 May 1996b), "VAN: Candidacy and validation with the latest laws of the game" (PDF), Geophysical Research Letters, 23 (11): 1327 1330, Bibcode:1996GeoRL..23.1327M, doi:10.1029/95gl03455.
+Novikov, Victor A.; Okunev, Vladimir I.; Klyuchkin, Vadim N.; Liu, Jing; Ruzhin, Yuri Ya.; Shen, Xuhui (1 August 2017), "Electrical triggering of earthquakes: results of laboratory experiments at spring-block models", Earthquake Science, 30 (4): 167 172, Bibcode:2017EaSci..30..167N, doi:10.1007/s11589-017-0181-8, ISSN 1867-8777, S2CID 133812017
+Ohshansky, R.B.; Geller, R.J. (2003), "Earthquake prediction and public policy",  in Mulargia, Francesgo; Geller, Robert J. (eds.), Earthquake Science and Seismic Risk Reduction., NATO Science Series, IV Earth and Environmental Sciences, vol. 32, Kluwer, pp. 284 329, doi:10.1007/978-94-010-0041-3_8, ISBN 978-94-010-0041-3.
+Otis, Leon; Kautz, William (1979). Biological premonitions of earthquakes: a validation study (Report). U.S. Geological Survey. pp. 225 226. Open-File Report 80-453..
+Panagopoulos, Dimitris J.; Balmori, Alfonso; Chrousos, George P. (15 May 2020), "On the biophysical mechanism of sensing upcoming earthquakes by animals", Science of the Total Environment, 717: 136989, Bibcode:2020ScTEn.717m6989P, doi:10.1016/j.scitotenv.2020.136989, ISSN 0048-9697, PMID 32070887, S2CID 211192101
+Panel on Earthquake Prediction of the Committee on Seismology (July 1976). Predicting Earthquakes: A Scientific and Technical Evaluation   with Implications for Society (Report). Washington, D.C.: National Academy Sciences..
+Papadopoulos, Gerassimos A. (4 May 2010), "Comment on "The Prediction of Two Large Earthquakes in Greece"", Eos, 91 (18): 162, Bibcode:2010EOSTr..91..162P, doi:10.1029/2010EO180003.
+Papadopoulos, Gerassimos A. (2015), "Communicating to the General Public Earthquake Prediction Information: Lessons Learned in Greece, Chap. 19",  in Wyss, Max; Peppoloni, Silvia (eds.), Geoethics: Ethical Challenges and Case Studies in Earth Sciences, pp. 223 242, ISBN 978-0-12-799935-7.
+Park, S. (July 1996), "Precursors to earthquakes: seismoelectromagnetic signals" (PDF), Surveys in Geophysics, 17 (4): 493 516, Bibcode:1996SGeo...17..493P, doi:10.1007/BF01901642, S2CID 55247676.
+Park, Stephen K.; Dalrymple, William; Larsen, Jimmy C. (2007), "The 2004 Parkfield earthquake: Test of the electromagnetic precursor hypothesis", Journal of Geophysical Research, 112 (B5): B05302, Bibcode:2007JGRB..112.5302P, doi:10.1029/2005JB004196.
+Pasari, Sumanta (1 April 2019), "Nowcasting Earthquakes in the Bay of Bengal Region", Pure and Applied Geophysics, 176 (4): 1417 1432, Bibcode:2019PApGe.176.1417P, doi:10.1007/s00024-018-2037-0, ISSN 1420-9136, S2CID 134896312
+Pergola, N.; Aliano, C.; Coviello, I.; Filizzola, C.; Genzano, N.; Lacava, T.; Lisi, M.; Mazzeo, G.; Tramutoli, V. (11 February 2010), "Using RST approach and EOS-MODIS radiances for monitoring seismically active regions: a study on the 6 April 2009 Abruzzo earthquake", Natural Hazards and Earth System Sciences, 10 (2): 239 249, Bibcode:2010NHESS..10..239P, doi:10.5194/nhess-10-239-2010, ISSN 1561-8633
+Pham, V. N.; Boyer, D.; Chouliaras, G.; Le Mou l, J. L.; Rossignol, J. C.; Stavrakakis, G. N. (15 June 1998), "Characteristics of electromagnetic noise in the Ioannina region (Greece); a possible origin for so called "Seismic Electric Signals" (SES)" (PDF), Geophysical Research Letters, 25 (12): 2229 2232, Bibcode:1998GeoRL..25.2229P, doi:10.1029/98gl01593, S2CID 129231700.
+Pham, V. N.; Boyer, D.; Chouliaras, G.; Savvaidis, A.; Stavrakakis, G. N.; Le Mou l, J. L. (2002), "Sources of anomalous transient electric signals (ATESs) in the ULF band in the Lamia region (central Greece): electrochemical mechanisms for their generation", Physics of the Earth and Planetary Interiors, 130 (3 4): 209 233, Bibcode:2002PEPI..130..209P, doi:10.1016/s0031-9201(02)00008-0.
+Pham, V. N.; Boyer, D.; Le Mou l, J. L.; Chouliaras, G.; Stavrakakis, G. N. (1999), "Electromagnetic signals generated in the solid Earth by digital transmission of radio-waves as a plausible source for some so-called 'seismic electric signals'" (PDF), Physics of the Earth and Planetary Interiors, 114 (3 4): 141 163, Bibcode:1999PEPI..114..141P, doi:10.1016/s0031-9201(99)00050-3.
+Politis, D.; Potirakis, S. M.; Hayakawa, M. (1 May 2020), "Criticality analysis of 3-year-long VLF subionospheric propagation data possibly related to significant earthquake events in Japan", Natural Hazards, 102 (1): 47 66, doi:10.1007/s11069-020-03910-3, ISSN 1573-0840, S2CID 214783152
+Raleigh, C. B.; Bennett, G.; Craig, H.; Hanks, T.; Molnar, P.; Nur, A.; Savage, J.; Scholz, C.; Turner, R.; Wu, F. (May 1977), "Prediction of the Haicheng Earthquake", Eos, Transactions, American Geophysical Union, 58 (5): 236 272, Bibcode:1977EOSTr..58..236., doi:10.1029/EO058i005p00236. By the Haicheng Earthquake Study Delegation.
+Reid, Harry Fielding (1910), "Volume II. The Mechanics of the Earthquake.", The California Earthquake of April 18, 1906: Report of the State Earthquake Investigation Commission, Washington, D. C.: Carnegie institution of Washington.
+Rhoades, D.A.; Evison, F.F. (27 May 1996), "The VAN earthquake predictions", Geophysical Research Letters, 23 (11): 1371 1373, Bibcode:1996GeoRL..23.1371R, doi:10.1029/95GL02792.
+Rikitake, Tsuneji (1 May 1979), "Classification of earthquake precursors", Tectonophysics, 54 (3 4): 293 309, Bibcode:1979Tectp..54..293R, doi:10.1016/0040-1951(79)90372-X.
+Rikitake, Tsuneji (1982), Earthquake Forecasting and Warning, Tokyo: Center for Academic Publications.
+Roberts, J.L. (1983). "Notes on procedure for conveying earthquake forecasts with special reference to the Peru predictions for 1980 1981" (PDF). Proceedings of the Seminar on Earthquake Prediction Case Histories. Geneva, 12 15 October 1982. UNDPRO.
+Roeloffs, Evelyn; Langbein, John (August 1994), "The earthquake prediction experiment at Parkfield California", Reviews of Geophysics, 32 (3): 315 336, Bibcode:1994RvGeo..32..315R, doi:10.1029/94RG01114.
+Rong, Yufang; Jackson, David D.; Kagan, Yan Y. (October 2003), "Seismic gaps and earthquakes" (PDF), Journal of Geophysical Research, 108 (B10): 2471, Bibcode:2003JGRB..108.2471R, doi:10.1029/2002JB002334, S2CID 14079028.
+Rouet-Leduc, Bertrand; Hulbert, Claudia; Lubbers, Nicholas; Barros, Kipton; Humphreys, Colin; Johnson, Paul A. (28 September 2017). "Machine Learning Predicts Laboratory Earthquakes". Geophysical Research Letters. 44 (18): 9276 9282. arXiv:1702.05774. Bibcode:2017GeoRL..44.9276R. doi:10.1002/2017GL074677. S2CID 118842086.
+Rozhnoi, A.; Solovieva, M.; Molchanov, O.; Schwingenschuh, K.; Boudjada, M.; Biagi, P. F.; Maggipinto, T.; Castellana, L.; Ermini, A.; Hayakawa, M. (21 October 2009), "Anomalies in VLF radio signals prior the Abruzzo earthquake (M=6.3) on 6 April 2009", Natural Hazards and Earth System Sciences, 9 (5): 1727 1732, Bibcode:2009NHESS...9.1727R, doi:10.5194/nhess-9-1727-2009, ISSN 1561-8633
+Rundle, John B.; Holliday, James R.; Graves, William R.; Turcotte, Donald L.; Tiampo, Kristy F.; Klein, William (2012), "Probabilities for large events in driven threshold systems", Physical Review E, 86 (2): 021106, Bibcode:2012PhRvE..86b1106R, doi:10.1103/PhysRevE.86.021106, PMID 23005722, S2CID 17100504.
+Rundle, J. B.; Turcotte, D. L.; Donnellan, A.; Ludwig, L. Grant; Luginbuhl, M.; Gong, G. (2016), "Nowcasting earthquakes", Earth and Space Science, 3 (11): 480 486, Bibcode:2016E&SS....3..480R, doi:10.1002/2016EA000185, ISSN 2333-5084
+Rundle, John B.; Luginbuhl, Molly; Giguere, Alexis; Turcotte, Donald L. (2018b), "Natural Time, Nowcasting and the Physics of Earthquakes: Estimation of Seismic Risk to Global Megacities", Pure and Applied Geophysics, 175 (2): 647 660, arXiv:1709.10057, Bibcode:2018PApGe.175..647R, doi:10.1007/s00024-017-1720-x, ISSN 1420-9136, S2CID 54169682
+Rundle, John B.; Giguere, Alexis; Turcotte, Donald L.; Crutchfield, James P.; Donnellan, Andrea (2019), "Global Seismic Nowcasting With Shannon Information Entropy", Earth and Space Science, 6 (1): 191 197, Bibcode:2019E&SS....6..191R, doi:10.1029/2018EA000464, ISSN 2333-5084, PMC 6392127, PMID 30854411
+Rundle, John B.; Luginbuhl, Molly; Khapikova, Polina; Turcotte, Donald L.; Donnellan, Andrea; McKim, Grayson (1 January 2020), "Nowcasting Great Global Earthquake and Tsunami Sources", Pure and Applied Geophysics, 177 (1): 359 368, doi:10.1007/s00024-018-2039-y, ISSN 1420-9136, S2CID 133790229
+Saegusa, A. (28 January 1999), "China clamps down on inaccurate warnings", Nature, 397 (6717): 284, Bibcode:1999Natur.397..284W, doi:10.1038/16756, PMID 9950418, S2CID 4314191.
+Sarlis, Nicholas V. (2013), "On the recent seismic activity in North-Eastern Aegean Sea including the Mw5.8 earthquake on 8 January 2013", Proceedings of the Japan Academy, Series B, 89 (9): 438 445, Bibcode:2013PJAB...89..438S, doi:10.2183/pjab.89.438, PMC 3865358, PMID 24213207.
+Sarlis, N.; Lazaridou, M.; Kapiris, P.; Varotsos, P. (1 November 1999), "Numerical model of the selectivity effect and the  V/L criterion", Geophysical Research Letters, 26 (21): 3245 3248, Bibcode:1999GeoRL..26.3245S, doi:10.1029/1998GL005265, ISSN 1944-8007.
+Sarlis, N. V.; Skordas, E. S.; Christopoulos, S.-R. G.; Varotsos, P. A. (January 2016), "Statistical Significance of Minimum of the Order Parameter Fluctuations of Seismicity Before Major Earthquakes in Japan", Pure and Applied Geophysics, 173 (1): 165 172, Bibcode:2016PApGe.173..165S, doi:10.1007/s00024-014-0930-8, ISSN 0033-4553, S2CID 129004948.
+Sarlis, Nicholas V. (2018), "Statistical Significance of Earth's Electric and Magnetic Field Variations Preceding Earthquakes in Greece and Japan Revisited", Entropy, 20 (8): 561, Bibcode:2018Entrp..20..561S, doi:10.3390/e20080561, PMC 7513084, PMID 33265650
+Sarlis, Nicholas V.; Skordas, Efthimios S.; Christopoulos, Stavros-Richard G.; Varotsos, Panayiotis A. (2020), "Natural Time Analysis: The Area under the Receiver Operating Characteristic Curve of the Order Parameter Fluctuations Minima Preceding Major Earthquakes", Entropy, 22 (5): 583, doi:10.3390/e22050583, ISSN 1099-4300, PMC 7517102, PMID 33286355
+Schaal, Rand B. (February 1988), "An evaluation of the animal-behavior theory for earthquake predictions" (PDF), California Geology, 41 (2): 41 45.
+Scholz, Christopher H. (2002), The Mechanics of earthquakes and faulting (2nd ed.), Cambridge Univ. Press, ISBN 0-521-65223-5.
+Scholz, Christopher H.; Sykes, Lynn R.; Aggarwal, Yah P. (31 August 1973), "Earthquake Prediction: A Physical Basis", Science, 181 (4102): 803 810, Bibcode:1973Sci...181..803S, doi:10.1126/science.181.4102.803, PMID 17816227.
+Schwartz, David P.; Coppersmith, Kevin J. (10 July 1984), "Fault Behavior and Characteristic Earthquakes: Examples From the Wasatch and San Andreas Fault Zones", Journal of Geophysical Research, 89 (B7): 5681 5698, Bibcode:1984JGR....89.5681S, doi:10.1029/JB089iB07p05681.
+Shnirman, M.; Schreider, S.; Dmitrieva, O. (1993), "Statistical evaluation of the VAN predictions issued during the period 1987 1989." (PDF), Tectonophysics, 224 (1 3): 211 221, Bibcode:1993Tectp.224..211S, doi:10.1016/0040-1951(93)90074-t.
+Sibson, R. H. (1986), "Earthquakes and Lineament Infrastructure", Philosophical Transactions of the Royal Society A, 317 (1539): 63 79, Bibcode:1986RSPTA.317...63S, doi:10.1098/rsta.1986.0025, S2CID 122934024.
+Skordas, E. S.; Christopoulos, S.-R. G.; Sarlis, N. V. (2 January 2020), "Detrended fluctuation analysis of seismicity and order parameter fluctuations before the M7.1 Ridgecrest earthquake" (PDF), Natural Hazards, 100 (2): 697 711, doi:10.1007/s11069-019-03834-7, S2CID 209542427.
+Spence, William; Herrmann, Robert B.; Johnston, Arch C.; Reagor, Glen (1993). Responses to Iben Browning's Prediction of a 1990 New Madrid, Missouri, Earthquake (PDF) (Report). U.S. Geological Survey. Circular 1083..
+Squires, Nick; Rayne, Gordon (6 April 2009), "Italian earthquake: expert's warnings were dismissed as scaremongering", The Telegraph.
+Stark, Philip B. (1997), "Earthquake prediction: the null hypothesis", Geophysical Journal International, 131 (3): 495 499, Bibcode:1997GeoJI.131..495S, CiteSeerX 10.1.1.36.7867, doi:10.1111/j.1365-246X.1997.tb06593.x, S2CID 17343855.
+Stavrakakis, George N.; Drakopoulos, John (27 May 1996), "The VAN method: Contradictory and misleading results since 1981", Geophysical Research Letters, 23 (11): 1347 1350, Bibcode:1996GeoRL..23.1347S, doi:10.1029/95gl03546.
+Stein, Seth; Friedrich, Anke; Newman, Andrew (July August 2005), "Dependence of possible characteristic earthquakes on spatial sampling: illustration for the Wasatch seismic zone, Utah" (PDF), Seismological Research Letters, 76 (4): 432 436, doi:10.1785/gssrl.76.4.432.
+Stein, Seth; Newman, Andrew (March April 2004), "Characteristic and uncharacteristic earthquakes as possible artifacts: application to the New Madrid and Wabash seismic zones" (PDF), Seismological Research Letters, 75 (2): 173 187, doi:10.1785/gssrl.75.2.173.
+Stiros, Stathis C. (December 1997), "Costs and benefits of earthquake prediction studies in Greece" (PDF), Geophysical Journal International, 131 (3): 478 484, Bibcode:1997GeoJI.131..478S, doi:10.1111/j.1365-246x.1997.tb06591.x, S2CID 129578066[dead link].
+Sykes, Lynn R.; Shaw, Bruce E.; Scholz, Christopher H. (1999), "Rethinking Earthquake Prediction" (PDF), Pure and Applied Geophysics, 155 (2 4): 207 232, Bibcode:1999PApGe.155..207S, doi:10.1007/s000240050263, S2CID 11412679.
+Tarasov, N. T.; Tarasova, N. V. (18 December 2009), "Spatial-temporal structure of seismicity of the North Tien Shan and its changeunder effect of high energy electromagnetic pulses", Annals of Geophysics, 47 (1), doi:10.4401/ag-3272
+Thomas, J. N.; Love, J. J.; Johnston, M. J. S. (2009), "On the reported magnetic precursor of the 1989 Loma Prieta earthquake", Physics of the Earth and Planetary Interiors, 173 (3 4): 207 215, Bibcode:2009PEPI..173..207T, doi:10.1016/j.pepi.2008.11.014.
+Thomas, Lee M. (1983). "Economic impacts of earthquake prediction" (PDF). Proceedings of the Seminar on Earthquake Prediction Case Histories. Geneva, 12 15 October 1982. UNDPRO. pp. 179 185.
+Tiampo, Kristy F.; Shcherbakov, Robert (2012), "Seismicity-based earthquake forecasting techniques: Ten years of progress" (PDF), Tectonophysics, 522 523: 89 121, Bibcode:2012Tectp.522...89T, doi:10.1016/j.tecto.2011.08.019.
+Tierney, Kathleen J. (1993), "Making sense of collective preoccupations: lessons from research on the Iben Browning earthquake prediction." (PDF),  in Platt, Gerald M.; Gordon, Chad (eds.), Self, Collective Behavior, and Society: Essays Honoring the Contributions of Ralph H. Turner, JAI Press, ISBN 978-155938755-2.
+Tsolis, G. S.; Xenos, T. D. (22 January 2010), "A qualitative study of the seismo-ionospheric precursors prior to the 6 April 2009 earthquake in L'Aquila, Italy", Natural Hazards and Earth System Sciences, 10 (1): 133 137, Bibcode:2010NHESS..10..133T, doi:10.5194/nhess-10-133-2010, ISSN 1561-8633
+Turner, Ralph H. (November 1993), "Reflections on the Past and Future of Social Research on Earthquake Warnings", International Journal of Mass Emergencies and Disasters, 11 (3): 454 468, doi:10.1177/028072709301100314, S2CID 112795022.
+U.S. Geological Survey Staff (19 January 1990), "The Loma Prieta, California, earthquake: an anticipated event", Science, 247 (4940): 286 293, Bibcode:1990Sci...247..286G, doi:10.1126/science.247.4940.286, PMID 17735847.
+Uyeda, Seiya; Nagao, Toshiyasu; Kamogawa, Masashi (29 May 2009), "Short-term earthquake prediction: Current status of seismo-electromagnetics", Tectonophysics, 470 (3 4): 205 213, Bibcode:2009Tectp.470..205U, doi:10.1016/j.tecto.2008.07.019.
+Uyeda, Seiya; Kamogawa, Masashi (23 September 2008), "The Prediction of Two Large Earthquakes in Greece", Eos, Transactions American Geophysical Union, 89 (39): 363, Bibcode:2008EOSTr..89..363U, doi:10.1029/2008EO390002, ISSN 2324-9250.
+Uyeda, S. (1996), "Introduction to the VAN method of earthquake prediction",  in Lighthill, James (ed.), A Critical Review of VAN   Earthquake Prediction from Seismic Electrical Signals, London: World Scientific Publishing, ISBN 978-981-02-2670-1.
+Uyeda, Seiya (24 November 1998), "VAN Method of Short-term Earthquake Prediction Shows Promise", Eos, 79 (47): 573 580, Bibcode:1998EOSTr..79..573U, doi:10.1029/98EO00417.
+Uyeda, Seiya (4 January 2000), "In Defense of VAN's Earthquake Predictions", Forum, Eos, 81 (1): 3 6, Bibcode:2000EOSTr..81....3U, doi:10.1029/00EO00005.
+Uyeda, Seiya; Kamogawa, Masashi (2010), "Reply to Comment on "The Prediction of Two Large Earthquakes in Greece"", Eos, Transactions American Geophysical Union, 91 (18): 163, Bibcode:2010EOSTr..91..163U, doi:10.1029/2010EO180004, ISSN 0096-3941
+Uyeda, S.; Nagao, T.; Kamogawa, M. (2011), "Earthquake Precursors and Prediction",  in Gupta H.K. (ed.), Encyclopedia of Solid Earth Geophysics, SpringerLink, doi:10.1007/978-90-481-8702-7, ISBN 9789048187010
+Varotsos, P.; Alexopoulos, K.; Nomicos, K. (1981), "Seven-hour precursors to earthquakes determined from telluric currents", Praktika of the Academy of Athens, 56: 417 433.
+Varotsos, P.; Alexopoulos, K. (December 1984a), "Physical properties of the variations of the electric field of the earth preceding earthquakes, I" (PDF), Tectonophysics, 110 (1): 73 98, Bibcode:1984Tectp.110...73V, doi:10.1016/0040-1951(84)90059-3.
+Varotsos, P.; Alexopoulos, K. (December 1984b), "Physical properties of the variations of the electric field of the earth preceding earthquakes. II. determination of epicenter and magnitude" (PDF), Tectonophysics, 110 (1): 99 125, Bibcode:1984Tectp.110...99V, doi:10.1016/0040-1951(84)90060-X.
+Varotsos, P.; Alexopoulos, K.; Lazaridou, M. (August 1993), "Latest aspects of earthquake prediction in Greece based on seismic electric signals, II", Tectonophysics, 224 (1): 1 37, Bibcode:1993Tectp.224....1V, doi:10.1016/0040-1951(93)90055-O.
+Varotsos, P.; Eftaxias, K.; Lazaridou, M. (27 May 1996), "Reply I to "VAN: Candidacy and validation with the latest laws of the game" and "Precursor candidacy and validation: The VAN Case so far"", Geophysical Research Letters, 23 (11): 1331 1334, Bibcode:1996GeoRL..23.1331V, doi:10.1029/96GL01436, ISSN 1944-8007.
+Varotsos, P.; Lazaridou, M. (1991), "Latest aspects of earthquake prediction in Greece based on seismic electric signals", Tectonophysics, 188 (3 4): 321 347, Bibcode:1991Tectp.188..321V, doi:10.1016/0040-1951(91)90462-2.
+Varotsos, P.; Lazaridou, M.; Eftaxias, K.; Antonopoulos, G.; Makris, J.; Kopanas, J. (1996a), "Short-term earthquake prediction in Greece by seismic electric signals",  in Lighthill, J. (ed.), A Critical Review of VAN, World Scientific, pp. 29 76.
+Varotsos, P.; Lazaridou, M. (27 May 1996b), "Reply to "The VAN earthquake predictions," by D. A. Rhoades and F. F. Evison", Geophysical Research Letters, 23 (11): 1375 1378, Bibcode:1996GeoRL..23.1375V, doi:10.1029/96GL00910, ISSN 1944-8007.
+Varotsos, P.; Lazaridou, M.; Hadjicontis, V. (27 May 1996), "Reply to "Earthquake prediction evaluation standards applied to the VAN Method"", Geophysical Research Letters, 23 (11): 1367 1370, Bibcode:1996GeoRL..23.1367V, doi:10.1029/96GL00916, ISSN 1944-8007.
+Varotsos, P.; Alexopoulos, K.; Nomicos, K.; Lazaridou, M. (1986), "Earthquake prediction and electric signals", Nature, 322 (6075): 120, Bibcode:1986Natur.322..120V, doi:10.1038/322120a0, S2CID 4304127.
+Varotsos, P.; Alexopoulos, K.; Nomicos, K.; Lazaridou, M. (20 September 1988), "Official earthquake prediction procedure in Greece", Tectonophysics, 152 (3 4): 93 196, Bibcode:1988Tectp.152..193V, doi:10.1016/0040-1951(88)90045-5.
+Varotsos, P.; Sarlis, N.; Lazaridou, M.; Kapiris, P. (1998), "Transmission of stress induced electric signals", Journal of Applied Physics, 83 (1): 60 70, Bibcode:1998JAP....83...60V, doi:10.1063/1.366702.
+Varotsos, P. A.; Sarlis, N. V.; Skordas, E. S. (22 November 2001), "Spatio-temporal complexity aspects on the interrelation between seismic electric signals and seismicity" (PDF), Praktika of the Academy of Athens, 76: 294 321.
+Varotsos, P. A.; Sarlis, N. V.; Skordas, E. S. (26 February 2003a), "Long-range correlations in the electric signals that precede rupture: Further investigations" (PDF), Physical Review E, 67 (2): 021109, Bibcode:2003PhRvE..67b1109V, doi:10.1103/PhysRevE.67.021109, PMID 12636655.
+Varotsos, P. A.; Sarlis, N. V.; Skordas, E. S. (23 September 2003b), "Attempt to distinguish electric signals of a dichotomous nature" (PDF), Physical Review E, 68 (3): 031106, Bibcode:2003PhRvE..68c1106V, doi:10.1103/PhysRevE.68.031106, PMID 14524749.
+Varotsos, P.; Sarlis, N.; Skordas, E. (2011), Natural time analysis: the new view of time; Precursory seismic electric signals, earthquakes and other complex time series, Springer Praxis, ISBN 978-364216448-4.
+Varotsos, P. A.; Sarlis, N. V.; Skordas, E. S.; Lazaridou, M. S. (18 March 2013), "Seismic Electric Signals: An additional fact showing their physical interconnection with seismicity" (PDF), Tectonophysics, 589: 116 125, Bibcode:2013Tectp.589..116V, doi:10.1016/j.tecto.2012.12.020.
+Varotsos, P. A.; Sarlis, N. V.; Skordas, E. S. (17 December 2020), "Self-organized criticality and earthquake predictability: A long-standing question in the light of natural time analysis", EPL (Europhysics Letters), 132 (2): 29001, Bibcode:2020EL....13229001V, doi:10.1209/0295-5075/132/29001, ISSN 1286-4854, S2CID 230670498.
+Vidale, John E. (16 February 1996), "Do Big and Little Earthquakes Start Differently?", Science, 271 (5251): 953 954, Bibcode:1996Sci...271..953V, doi:10.1126/science.271.5251.953, S2CID 129107396.
+Wade, Nicholas (14 October 1977), "Briefing: More Flowers, less Cabbage", Science, 198 (4313): 176 177, Bibcode:1977Sci...198..176W, doi:10.1126/science.198.4313.176-a, PMID 17755352, S2CID 26607710.
+Wang, Kelin; Chen, Qi-Fu; Sun, Shihong; Wang, Andong (June 2006), "Predicting the 1975 Haicheng Earthquake" (PDF), Bulletin of the Seismological Society of America, 96 (3): 757 795, Bibcode:2006BuSSA..96..757W, doi:10.1785/0120050191.
+Ward, Peter L. (1978), "Ch. 3: Earthquake prediction" (PDF), Geophysical predictions, National Academy of Sciences.
+Wells, D. L.; Coppersmith, K. J. (August 1994), "New empirical relationships among magnitude, rupture length, rupture width, rupture area, and surface displacement." (PDF), Bulletin of the Seismological Society of America, 84 (4): 974 1002.
+Whitcomb, J. H. (1977), "An update of time-dependent vp/vs and ^Vp in an area of the Transverse Range of southern California [abstract]" (PDF), Eos, Transactions, American Geophysical Union, 58 (5): 305.
+Whitham, K.; Berry, M.J.; Heidebrecht, A.C.; Kanasewich, E.R.; Milne, W.G (1976), "Earthquake Prediction in China", Geoscience Canada, 3 (4): 96, 263 268.
+Wood, H. O.; Gutenberg, B. (6 September 1935), "Earthquake prediction", Science, 82 (2123): 219 320, Bibcode:1935Sci....82..219W, doi:10.1126/science.82.2123.219, PMID 17818812.
+Wyss, M. (1991a), "Introduction", Tectonophysics, 193 (4): 253 254, Bibcode:1991Tectp.193..253W, doi:10.1016/0040-1951(91)90334-o.
+Wyss, M. (1996), "Brief summary of some reasons why the VAN hypothesis for predicting earthquakes has to be rejected", A critical review of VAN, London: Lighthill, S. J. World Scientific, pp. 250 266.
+Wyss, M.; Allmann, L. (1996), "Probability of chance correlations of earthquakes with prediction in areas of heterogeneous seismicity rate: the VAN case", Geophysical Research Letters, 22 (11): 1307 1310, Bibcode:1996GeoRL..23.1307W, doi:10.1029/95GL03548.
+Wyss, Max; Booth, David C. (1997), "The IASPEI procedure for the evaluation of earthquake precursors", Geophysical Journal International, 131 (3): 423 424, Bibcode:1997GeoJI.131..423W, doi:10.1111/j.1365-246X.1997.tb06587.x.
+Yoshii, Hiroaki (30 August 1993), "Social impacts of earthquake prediction in Greece", Tectonophysics, 224 (1 3): 251 255, Bibcode:1993Tectp.224..251Y, doi:10.1016/0040-1951(93)90077-W.
+Zechar, J. Douglas (August 2008). Methods for Evaluating Earthquake Prediction (PDF) (PhD dissertation). Univ. of Southern California. Archived from the original (PDF) on 2 October 2013.
+Zechar, J. Douglas; Jordan, Thomas H. (2008), "Testing alarm-based earthquake predictions" (PDF), Geophysical Journal International, 172 (2): 715 724, Bibcode:2008GeoJI.172..715Z, doi:10.1111/j.1365-246X.2007.03676.x, archived from the original (PDF) on 29 April 2014.
+Zechar, J. Douglas; Schorlemmer, Danijel; Liukis, Maria; Yu, John; Euchner, Fabian; Maechling, Philip J.; Jordan, Thomas H. (2010), "The Collaboratory for the Study of Earthquake Predictability perspective on computational earthquake science" (PDF), Concurrency and Computation: Practice and Experience, 22 (12): 1836 1847, doi:10.1002/cpe.1519, S2CID 12672343.
+Zeigarnik, Vladimir A.; Novikov, Viktor A.; Avagimov, A. A.; Tarasov, N. T.; Bogomolov, Leonid (2007), "Discharge of Tectonic Stresses in the Earth Crust by High-power Electric Pulses for Earthquake Hazard Mitigation" (PDF), 2nd International Conference on Urban Disaster Reduction, Taipei, S2CID 195726703
+Ziv, A.; Cochard, A.; Schmittbuhl, J. (2007), "Does Elastic Rebound Theory apply to Seismic Faults?",  in Carpinteri, Alberto; Lacidogna, Giuseppi (eds.), Selected Papers from the 11th International Conference on Fracture, Turin, Italy, March 20 25, 2005, pp. 51 55, doi:10.1201/9780203936115.ch7, ISBN 978-0-415-44402-6 (eBook: ISBN 978-0-203-93611-5.
+Zoback, Mark D. (21 October 1983), "Seismology [book review of Rikitake, Earthquake Forecasting and Warning]", Science, 222 (4621): 319, Bibcode:1983Sci...222..319R, doi:10.1126/science.222.4621.319, PMID 17734830.
+Zoback, Mary Lou (April May 2006), "The 1906 earthquake and a century of progress in understanding earthquakes and their hazards", GSA Today, 16 (r/5): 4 11, doi:10.1130/GSAT01604.1, S2CID 129036731.
+Addition reading[edit]
+Robbins, Stuart (1 September 2012). "Lunatic Earthquakes: Do Tides Cause Quakes?". Exposing PseudoAstronomy Podcast.   discussing why the claim that earthquakes can be predicted is false.
+Short-Term Earthquake Hazard Assessment for the San Andreas Fault in Southern California (PDF) (Report). U.S. Geological Survey. 1991. Open-File Report 91-32.
+Hough, Susan Elizabeth (2007). Richter's Scale: Measure of an Earthquake, Measure of a Man. Princeton University Press. ISBN 978-0-691-12807-8.
+Langer, James S. (2008). "Richter's Scale: Measure of an Earthquake, Measure of a Man , Susan Elizabeth Hough , Princeton U. Press, Princeton, NJ, 2007. (335 pp.). ISBN 978-0-691-12807-8". Physics Today. 61 (1): 60 62. Bibcode:2008PhT....61a..60H. doi:10.1063/1.2835157.
+G.-P. Ostermeyer, V.L. Popov, E. Shilko, O. Vasiljeva (2021). Multiscale Biomechanics and Tribology of Inorganic and Organic Systems. In memory of Professor Sergey Psakhie. Springer Int. Publ. doi:10.1007/978-3-030-60124-9
+External links[edit]
+U.S. Geological Survey: Earthquake Prediction Topics
+U.S. Geological Survey: Earthquake Statistics
+Authority control National
+Germany
+Japan
+Czech Republic
+Other
+NARA
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Earthquake_prediction&oldid=1148506106"

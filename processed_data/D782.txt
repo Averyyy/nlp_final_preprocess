@@ -1,0 +1,178 @@
+Homeostatic mechanism in the body
+The baroreflex or
+baroreceptor reflex is one of the body's homeostatic mechanisms that helps to maintain blood pressure at nearly constant levels. The baroreflex provides a rapid negative feedback loop in which an elevated blood pressure causes the heart rate to decrease.  Decreased blood pressure decreases baroreflex activation and causes heart rate to increase and to restore blood pressure levels. Their function is to sense pressure changes by responding to change in the tension of the arterial wall[1] The baroreflex can begin to act in less than the duration of a cardiac cycle (fractions of a second) and thus baroreflex adjustments are key factors in dealing with postural hypotension, the tendency for blood pressure to decrease on standing due to gravity.
+The system relies on specialized neurons, known as baroreceptors, chiefly in the aortic arch and carotid sinuses, to monitor changes in blood pressure and relay them to the medulla oblongata. Baroreceptors are stretch receptors and respond to the pressure induced stretching of the blood vessel in which they are found. Baroreflex-induced changes in blood pressure are mediated by both branches of the autonomic nervous system: the parasympathetic and sympathetic nerves. Baroreceptors are active even at normal blood pressures so their activity informs the brain about both increases and decreases in blood pressure.
+The body contains two other, slower-acting systems to regulate blood pressure: the heart releases atrial natriuretic peptide when blood pressure is too high, and the kidneys sense and correct low blood pressure with the renin angiotensin system.[2]
+Anatomy[edit]
+Baroreceptors are present in the atria of the heart and vena cavae, but the most sensitive baroreceptors are in the carotid sinuses and aortic arch. While the carotid sinus baroreceptor axons travel within the glossopharyngeal nerve (CN IX), the aortic arch baroreceptor axons travel within the vagus nerve (CN X). Baroreceptor activity travels along these nerves directly into the central nervous system to excite glutamatergic neurons within the solitary nucleus (SN) in the brainstem.[3] Baroreceptor information flows from these NSS neurons to both parasympathetic and sympathetic neurons within the brainstem.[citation needed]
+The SN neurons send excitatory fibers (glutamatergic) to the caudal ventrolateral medulla (CVLM), activating the CVLM.  The activated CVLM then sends inhibitory fibers (GABAergic) to the rostral ventrolateral medulla (RVLM), thus inhibiting the RVLM.  The RVLM is the primary regulator of the sympathetic nervous system, sending excitatory fibers (glutamatergic) to the sympathetic preganglionic neurons located in the intermediolateral nucleus of the spinal cord.  Hence, when the baroreceptors are activated (by an increased blood pressure), the NTS activates the CVLM, which in turn inhibits the RVLM, thus decreasing the activity of the sympathetic branch of the autonomic nervous system, leading to a relative decrease in blood pressure.  Likewise, low blood pressure activates baroreceptors less and causes an increase in sympathetic tone via "disinhibition" (less inhibition, hence activation) of the RVLM. Cardiovascular targets of the sympathetic nervous system includes both blood vessels and the heart.[citation needed]
+Even at resting levels of blood pressure, arterial baroreceptor discharge activates SN neurons. Some of these SN neurons are tonically activated by this resting blood pressure and thus activate excitatory fibers to the nucleus ambiguus and dorsal nucleus of vagus nerve to regulate the parasympathetic nervous system. These parasympathetic neurons send axons to the heart and parasympathetic activity slows cardiac pacemaking and thus heart rate. This parasympathetic activity is further increased during conditions of elevated blood pressure.  The parasympathetic nervous system is primarily directed toward the heart.[citation needed]
+Activation[edit]
+The baroreceptors are stretch-sensitive mechanoreceptors. At low pressures, baroreceptors become inactive. When blood pressure rises, the carotid and aortic sinuses are distended further, resulting in increased stretch and, therefore, a greater degree of activation of the baroreceptors. At normal resting blood pressures, many baroreceptors are actively reporting blood pressure information and the baroreflex is actively modulating autonomic activity. Active baroreceptors fire action potentials ("spikes") more frequently. The greater the stretch the more rapidly baroreceptors fire action potentials. Many individual baroreceptors are inactive at normal resting pressures and only become activated when their stretch or pressure threshold is exceeded.[citation needed]
+Baroreceptor mechanosensitivity is hypothesised to be linked to the expression of PIEZO1 and PIEZO2 on neurons in the petrosal and nodose ganglia.
+Baroreceptor action potentials are relayed to the solitary nucleus, which uses frequency as a measure of blood pressure. Increased activation of the solitary nucleus inhibits the vasomotor center and stimulates the vagal nuclei. The end-result of baroreceptor activation is inhibition of the sympathetic nervous system and activation of the parasympathetic nervous system.[citation needed]
+The sympathetic and parasympathetic branches of the autonomic nervous system have opposing effects on blood pressure. Sympathetic activation leads to an elevation of total peripheral resistance and cardiac output via increased contractility of the heart, heart rate, and arterial vasoconstriction, which tends to increase blood pressure. Conversely, parasympathetic activation leads to decreased cardiac output via decrease in heart rate, resulting in a tendency to lower blood pressure.[citation needed]
+By coupling sympathetic inhibition and parasympathetic activation, the baroreflex maximizes blood pressure reduction. Sympathetic inhibition leads to a drop in peripheral resistance, while parasympathetic activation leads to a depressed heart rate (reflex bradycardia) and contractility. The combined effects will dramatically decrease blood pressure. In a similar manner, sympathetic activation with parasympathetic inhibition allows the baroreflex to elevate blood pressure.[citation needed]
+Set point and tonic activation[edit]
+Baroreceptor firing has an inhibitory effect on sympathetic outflow. The sympathetic neurons fire at different rates which determines the release of norepinephrine onto cardiovascular targets. Norepinephrine constricts blood vessels to increase blood pressure. When baroreceptors are stretched (due to an increased blood pressure) their firing rate increases which in turn decreases the sympathetic outflow resulting in reduced norepinephrine and thus blood pressure. When the blood pressure is low, baroreceptor firing is reduced and this in turn results in augmented sympathetic outflow and increased norepinephrine release on the heart and blood vessels, increasing blood pressure.[citation needed]
+Effect on heart rate variability[edit]
+The baroreflex may be responsible for a part of the low-frequency component of heart rate variability, the so-called Mayer waves, at 0.1 Hz.[4]
+Baroreflex activation therapy[edit]
+ Baroreflex activation is distinct from vagal stimulation. It works through an afferent limb which has the double effect of stimulating vagal outflow and attenuating global sympathetic outflow.
+High blood pressure[edit]
+The baroreflex can be used to treat resistant hypertension.[5] This stimulation is provided by a pacemaker-like device. While the devices appears to lower blood pressure, evidence remains very limited as of 2018.[5]
+Heart failure[edit]
+The ability of baroreflex activation therapy to reduce sympathetic nerve activity suggests a potential in the treatment of chronic heart failure, because in this condition there is often intense sympathetic activation and patients with such sympathetic activation show a markedly increased risk of fatal arrhythmias and death.[citation needed]
+One trial[6] has already shown that baroreflex activation therapy improves functional status, quality of life, exercise capacity and N-terminal pro-brain natriuretic peptide.[citation needed]
+See also[edit]
+Heart rate turbulence
+Valsalva maneuver
+References[edit]
+^ B r, Karl-J rgen (2015-06-24). "Cardiac Autonomic Dysfunction in Patients with Schizophrenia and Their Healthy Relatives   A Small Review". Frontiers in Neurology. Frontiers Media SA. 6: 139. doi:10.3389/fneur.2015.00139. ISSN 1664-2295. PMC 4478389. PMID 26157417.
+^ Fu, Shihui; Ping, Ping; Wang, Fengqi; Luo, Leiming (2018-01-12). "Synthesis, secretion, function, metabolism and application of natriuretic peptides in heart failure". Journal of Biological Engineering. Springer Nature. 12 (1): 2. doi:10.1186/s13036-017-0093-0. ISSN 1754-1611. PMC 5766980. PMID 29344085. They are mainly produced by cardiovascular, brain and renal tissues in response to wall stretch and other causes. NPs provide natriuresis, diuresis, vasodilation, antiproliferation, antihypertrophy, antifibrosis and other cardiometabolic protection. NPs represent body's own antihypertensive system, and provide compensatory protection to counterbalance vasoconstrictor-mitogenic-sodium retaining hormones, released by renin-angiotensin-aldosterone system (RAAS) and sympathetic nervous system (SNS).
+^ Yuan, Jason; Brooks, Heddwen L.; Barman, Susan M.; Barrett, Kim E. (2019). Ganong's Review of Medical Physiology. ISBN 978-1-26-012240-4.
+^ Sleight, Peter; La Rovere, Maria Teresa; Mortara, Andrea; Pinna, Gianni; Maestri, Roberto; Leuzzi, Stefano; Bianchini, Beatrice; Tavazzi, Luigi; Bernardi, Luciano (1 January 1995). "Physiology and Pathophysiology of Heart Rate and Blood Pressure Variability in Humans: Is Power Spectral Analysis Largely An Index of Baroreflex Gain?". Clinical Science. 88 (1): 103 109. doi:10.1042/cs0880103. PMID 7677832.
+^ a b Wallbach, M; Koziolek, MJ (9 November 2017). "Baroreceptors in the carotid and hypertension-systematic review and meta-analysis of the effects of baroreflex activation therapy on blood pressure". Nephrology, Dialysis, Transplantation. 33 (9): 1485 1493. doi:10.1093/ndt/gfx279. PMID 29136223.
+^ Abraham, WT; Zile, MR; Weaver, FA; Butter, C; Ducharme, A; Halbach, M; Klug, D; Lovett, EG; M ller-Ehmsen, J; Schafer, JE; Senni, M; Swarup, V; Wachter, R; Little, WC (June 2015). "Baroreflex Activation Therapy for the Treatment of Heart Failure With a Reduced Ejection Fraction". JACC: Heart Failure. 3 (6): 487 496. doi:10.1016/j.jchf.2015.02.006. PMID 25982108.
+Boron, Walter F.; Boulpaep, Emile L. (2005). Medical Physiology: A Cellular and Molecular Approach. Philadelphia, PA: Elsevier/Saunders. ISBN 1-4160-2328-3.
+Sleight, P.; M.T. La Rovere; A. Mortara; G. Pinna; R. Maestri; S. Leuzzi; B. Bianchini; L. Tavazzi; L. Bernardi (1995). "Physiology and pathophysiology of heart rate and blood pressure variability in humans. Is power spectral analysis largely an index of baroreflex gain?". Clinical Science. 88 (1): 103 109. doi:10.1042/cs0880103. PMID 7677832.
+Heesch, C. (1999). "Reflexes that control cardiovascular function". American Journal of Physiology. 277 (6 Pt 2): S234 S243. doi:10.1152/advances.1999.277.6.S234. PMID 10644250.
+vtePhysiology of the cardiovascular systemHeartCardiac output
+Cardiac cycle
+Cardiac output
+Heart rate
+Stroke volume
+Stroke volume
+End-diastolic volume
+End-systolic volume
+Afterload
+Preload
+Frank Starling law
+Cardiac function curve
+Venous return curve
+Wiggers diagram
+Pressure volume diagram
+Ultrasound
+Fractional shortening = (End-diastolic dimension
+End-systolic dimension) / End-diastolic dimension
+Aortic valve area calculation
+Ejection fraction
+Cardiac index
+Left atrial volume
+Heart rate
+Cardiac pacemaker
+Chronotropic (Heart rate)
+Dromotropic (Conduction velocity)
+Inotropic (Contractility)
+Bathmotropic (Excitability)
+Lusitropic (Relaxation)
+Conduction
+Conduction system
+Cardiac electrophysiology
+Action potential
+cardiac 
+atrial
+ventricular
+Effective refractory period
+Pacemaker potential
+Electrocardiography
+P wave
+PR interval
+QRS complex
+QT interval
+ST segment
+T wave
+U wave
+Hexaxial reference system
+Chamber pressure
+Central venous
+Right
+atrial
+ventricular
+pulmonary artery
+wedge
+Left
+atrial
+ventricular
+Aortic
+Other
+Ventricular remodeling
+Vascular system/HemodynamicsBlood flow
+Compliance
+Vascular resistance
+Pulse
+Perfusion
+Blood pressure
+Pulse pressure
+Systolic
+Diastolic
+Mean arterial pressure
+Jugular venous pressure
+Portal venous pressure
+Critical closing pressure
+Regulation of BP
+Baroreflex
+Kinin kallikrein system
+Renin angiotensin system
+Vasoconstrictors
+Vasodilators
+Autoregulation
+Myogenic mechanism
+Tubuloglomerular feedback
+Cerebral autoregulation
+Paraganglia
+Aortic body
+Carotid body
+Glomus cell
+vteReflexesCranial nerve
+Pupillary light reflex
+Accommodation reflex
+Jaw jerk reflex
+Corneal reflex
+Caloric reflex test/Vestibulo-ocular reflex/Oculocephalic reflex
+Pharyngeal (gag) reflex
+Stretch reflexes
+Arm
+Biceps reflex
+Brachioradialis reflex
+Triceps reflex
+Leg
+Patellar reflex
+Ankle jerk reflex
+Plantar reflex
+Primitive reflexes
+Galant
+Gastrocolic
+Grasp
+Moro
+Rooting
+Stepping
+Sucking
+Tonic neck
+Parachute
+Superficial reflexes
+Abdominal reflex
+Cremasteric reflex
+Cardiovascular
+Bainbridge reflex
+Bezold Jarisch reflex
+Coronary reflex
+Cushing reflex
+Diving reflex
+Oculocardiac reflex
+Baroreflex
+Reflex bradycardia
+Reflex tachycardia
+Respiratory
+Churchill Cope reflex
+Other
+List of reflexes
+Acoustic reflex
+H-reflex
+Golgi tendon reflex
+Optokinetic
+Startle response
+Withdrawal reflex
+Crossed extensor reflex
+Symmetrical tonic neck reflex
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Baroreflex&oldid=1131910262"

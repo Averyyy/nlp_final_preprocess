@@ -1,0 +1,817 @@
+Fuel made from vegetable oils or animal fats
+"Green diesel" redirects here. For dyed fuel, see Fuel dyes.
+This article is about transesterified liquids. For hydrogenated alkane renewable diesel, see hydrotreated vegetable oil. For biomass and organic waste-to-fuel production, see Biomass to liquid. For unmodified vegetable oil used as motor fuel, see Vegetable oil fuel.
+For broader coverage of this topic, see Biofuel.
+This article's lead section may be too short to adequately summarize the key points. Please consider expanding the lead to provide an accessible overview of all important aspects of the article. (November 2020)
+ Experimental French R giolis Class train using B100 as substitute of Diesel
+ A bus in Nebraska powered by biodiesel from soybeans
+ Space-filling model of methyl linoleate, or linoleic acid methyl ester, a common methyl ester produced from soybean or canola oil and methanol
+ Space-filling model of ethyl stearate, or stearic acid ethyl ester, an ethyl ester produced from soybean or canola oil and ethanolThis article may contain an excessive amount of intricate detail that may interest only a particular audience. Please help by  removing excessive detail that may be against Wikipedia's inclusion policy. (January 2023) (Learn how and when to remove this template message)
+Biodiesel is a form of diesel fuel derived from plants or animals and consisting of long-chain fatty acid esters. It is typically made by chemically reacting lipids such as animal fat (tallow),[1] soybean oil,[2] or some other vegetable oil[3] with an alcohol, producing a methyl, ethyl or propyl ester by the process of transesterification.
+Unlike the vegetable and waste oils used to fuel converted diesel engines, biodiesel is a drop-in biofuel, meaning it is compatible with existing diesel engines and distribution infrastructure. However, it is usually blended with petrodiesel (typically to less than 10%) since most engines cannot run on pure biodiesel without modification.[4][5] Biodiesel blends can also be used as heating oil.
+The US National Biodiesel Board defines "biodiesel" as a mono-alkyl ester.[6]
+Blends[edit]
+ Biodiesel sample
+Blends of biodiesel and conventional hydrocarbon-based diesel are most commonly distributed for use in the retail diesel fuel marketplace. Much of the world uses a system known as the "B" factor to state the amount of biodiesel in any fuel mix:[7]
+100% biodiesel is referred to as B100
+20% biodiesel, 80% petrodiesel is labeled B20[4]
+7% biodiesel, 93% petrodiesel is labeled B7
+5% biodiesel, 95% petrodiesel is labeled B5
+2% biodiesel, 98% petrodiesel is labeled B2
+Blends of 20% biodiesel and lower can be used in diesel equipment with no, or only minor modifications,[8]  although certain manufacturers do not extend warranty coverage if equipment is damaged by these blends. The B6 to B20 blends are covered by the ASTM D7467 specification.[9] Biodiesel can also be used in its pure form (B100), but may require certain engine modifications to avoid maintenance and performance problems.[10] Blending B100 with petroleum diesel may be accomplished by:
+Mixing in tanks at manufacturing point prior to delivery to tanker truck
+Splash mixing in the tanker truck (adding specific percentages of biodiesel and petroleum diesel)
+In-line mixing, two components arrive at tanker truck simultaneously.
+Metered pump mixing, petroleum diesel and biodiesel meters are set to X total volume,
+Historical background[edit]
+ Rudolf Diesel
+Transesterification of a vegetable oil was conducted as early as 1853 by Patrick  Duffy, four decades before the first diesel engine became functional.[11][12] Earlier processes for making lamp oil, were patented (1810, Prague) but not published in peer reviewed publications. Rudolf Diesel's prime model, a single 10 ft (3.05 m) iron cylinder with a flywheel at its base, ran on its own power for the first time in Augsburg, Germany, on 10 August 1893 running on nothing but peanut oil. In remembrance of this event, 10 August has been declared "International Biodiesel Day".[13]
+It is often reported that Diesel designed his engine to run on peanut oil, but this is not the case. Diesel stated in his published papers, "at the Paris Exhibition in 1900 (Exposition Universelle) there was shown by the Otto Company a small Diesel engine, which, at the request of the French government ran on arachide (earth-nut or pea-nut) oil (see biodiesel), and worked so smoothly that only a few people were aware of it. The engine was constructed for using mineral oil, and was then worked on vegetable oil without any alterations being made. The French Government at the time thought of testing the applicability to power production of the Arachide, or earth-nut, which grows in considerable quantities in their African colonies, and can easily be cultivated there." Diesel himself later conducted related tests and appeared supportive of the idea.[14] In a 1912 speech Diesel said, "the use of vegetable oils for engine fuels may seem insignificant today but such oils may become, in the course of time, as important as petroleum and the coal-tar products of the present time."
+Despite the widespread use of petroleum-derived diesel fuels, interest in vegetable oils as fuels for internal combustion engines was reported in several countries during the 1920s and 1930s and later during World War II. Belgium, France, Italy, the United Kingdom, Portugal, Germany, Brazil, Argentina, Japan and China were reported to have tested and used vegetable oils as diesel fuels during this time. Some operational problems were reported due to the high viscosity of vegetable oils compared to petroleum diesel fuel, which results in poor atomization of the fuel in the fuel spray and often leads to deposits and coking of the injectors, combustion chamber and valves. Attempts to overcome these problems included heating of the vegetable oil, blending it with petroleum-derived diesel fuel or ethanol, pyrolysis and cracking of the oils.
+On 31 August 1937, G. Chavanne of the University of Brussels (Belgium) was granted a patent for a "Procedure for the transformation of vegetable oils for their uses as fuels" (fr. "Proc d  de Transformation d Huiles V g tales en Vue de Leur Utilisation comme Carburants") Belgian Patent 422,877. This patent described the alcoholysis (often referred to as transesterification) of vegetable oils using ethanol (and mentions methanol) in order to separate the fatty acids from the glycerol by replacing the glycerol with short linear alcohols. This appears to be the first account of the production of what is known as "biodiesel" today.[15] This is similar (copy) to the patented methods used in the 18th century to make lamp-oil, and may be inspired by some old historical oil lamps, in some places.
+More recently, in 1977, Brazilian scientist Expedito Parente invented and submitted for patent, the first industrial process for the production of biodiesel.[16] This process is classified as biodiesel by international norms, conferring a "standardized identity and quality. No other proposed biofuel has been validated by the motor industry."[17] As of 2010, Parente's company Tecbio is working with Boeing and NASA to certify bioquerosene (bio-kerosene), another product produced and patented by the Brazilian scientist.[18]
+Research into the use of transesterified sunflower oil, and refining it to diesel fuel standards, was initiated in South Africa in 1979. By 1983, the process for producing fuel-quality, engine-tested biodiesel was completed and published internationally.[19] An Austrian company, Gaskoks, obtained the technology from the South African Agricultural Engineers; the company erected the first biodiesel pilot plant in November 1987, and the first industrial-scale plant in April 1989 (with a capacity of 30,000 tons of rapeseed per annum).
+Throughout the 1990s, plants were opened in many European countries, including the Czech Republic, Germany and Sweden. France launched local production of biodiesel fuel (referred to as diester) from rapeseed oil, which is mixed into regular diesel fuel at a level of 5%, and into the diesel fuel used by some captive fleets (e.g. public transportation) at a level of 30%. Renault, Peugeot and other manufacturers have certified truck engines for use with up to that level of partial biodiesel; experiments with 50% biodiesel are underway. During the same period, nations in other parts of the world also saw local production of biodiesel starting up: by 1998, the Austrian Biofuels Institute had identified 21 countries with commercial biodiesel projects. 100% biodiesel is now available at many normal service stations across Europe.
+Properties[edit]
+The color of biodiesel ranges from clear to golden to dark brown, depending on the production method and the feedstock used to make the fuel. This also changes the resulting fuel properties.[20] In general, biodiesel is slightly miscible with water, has a high boiling point and low vapor pressure. The flash point of biodiesel can exceed 130 C (266 F),[21] significantly higher than that of petroleum diesel which may be as low as 52 C (126 F).[22][23] Biodiesel has a density around ~0.88 g/cm3, higher than petrodiesel (~0.85 g/cm3).[22][23]
+The calorific value of biodiesel is about 37.27 MJ/kg.[24] This is 9% lower than regular Number 2 petrodiesel. Variations in biodiesel energy density is more dependent on the feedstock used than the production process. Still, these variations are less than for petrodiesel.[25] It has been claimed biodiesel gives better lubricity and more complete combustion thus increasing the engine energy output and partially compensating for the higher energy density of petrodiesel.[26]
+Biodiesel also contains virtually no sulfur[27] and although lacking sulfur compounds that in petrodiesel provide much of the lubricity, it has promising lubricating properties and cetane ratings compared to low sulfur diesel fuels and often serves as an additive to ultra-low-sulfur diesel (ULSD) fuel to aid with lubrication.[28] Biodiesel Fuels with higher lubricity may increase the usable life of high-pressure fuel injection equipment that relies on the fuel for its lubrication. Depending on the engine, this might include high pressure injection pumps, pump injectors (also called unit injectors) and fuel injectors. Older diesel Mercedes are popular for running on biodiesel.
+Applications[edit]
+ Targray Biofuels railcar transporting Biodiesel.
+Biodiesel can be used in pure form (B100) or may be blended with petroleum diesel at any concentration in most injection pump diesel engines. New extreme high-pressure (29,000 psi) common rail engines have strict factory limits of B5 or B20, depending on manufacturer.[29] Biodiesel has different solvent properties from petrodiesel, and will degrade natural rubber gaskets and hoses in vehicles (mostly vehicles manufactured before 1992), although these tend to wear out naturally and most likely will have already been replaced with FKM, which is nonreactive to biodiesel. Biodiesel has been known to break down deposits of residue in the fuel lines where petrodiesel has been used.[30] As a result, fuel filters may become clogged with particulates if a quick transition to pure biodiesel is made. Therefore, it is recommended to change the fuel filters on engines and heaters shortly after first switching to a biodiesel blend.[31]
+Distribution[edit]
+Since the passage of the Energy Policy Act of 2005, biodiesel use has been increasing in the United States.[32] In the UK, the Renewable Transport Fuel Obligation obliges suppliers to include 5% renewable fuel in all transport fuel sold in the UK by 2010. For road diesel, this effectively means 5% biodiesel (B5).
+Vehicular use and manufacturer acceptance[edit]
+In 2005, Chrysler (then part of DaimlerChrysler) released the Jeep Liberty CRD diesels from the factory into the European market with 5% biodiesel blends, indicating at least partial acceptance of biodiesel as an acceptable diesel fuel additive.[33]  In 2007, DaimlerChrysler indicated its intention to increase warranty coverage to 20% biodiesel blends if biofuel quality in the United States can be standardized.[34]
+The Volkswagen Group has released a statement indicating that several of its vehicles are compatible with B5 and B100 made from rape seed oil and compatible with the EN 14214 standard. The use of the specified biodiesel type in its cars will not void any warranty.[35]
+Mercedes Benz does not allow diesel fuels containing greater than 5% biodiesel (B5) due to concerns about "production shortcomings".[36] Any damages caused by the use of such non-approved fuels will not be covered by the Mercedes-Benz Limited Warranty.
+Starting in 2004, the city of Halifax, Nova Scotia decided to update its bus system to allow the fleet of city buses to run entirely on a fish-oil based biodiesel. This caused the city some initial mechanical issues, but after several years of refining, the entire fleet had successfully been converted.[37][38][39]
+In 2007, McDonald's of UK announced it would start producing biodiesel from the waste oil byproduct of its restaurants. This fuel would be used to run its fleet.[40]
+The 2014 Chevy Cruze Clean Turbo Diesel, direct from the factory, will be rated for up to B20 (blend of 20% biodiesel / 80% regular diesel) biodiesel compatibility[41]
+Railway usage[edit]
+ Biodiesel locomotive and its external fuel tank at Mount Washington Cog Railway
+British train operating company Virgin Trains West Coast claimed to have run the UK's first "biodiesel train", when a Class 220 was converted to run on 80% petrodiesel and 20% biodiesel.[42][43]
+The British Royal Train on 15 September 2007 completed its first ever journey run on 100% biodiesel fuel supplied by Green Fuels Ltd. Prince Charles and Green Fuels managing director James Hygate were the first passengers on a train fueled entirely by biodiesel fuel. Since 2007, the Royal Train has operated successfully on B100 (100% biodiesel).[44] A government white paper also proposed converting large portions of the UK railways to biodiesel but the proposal was subsequently dropped in favour of further electrification.[45]
+Similarly, a state-owned short-line railroad in Eastern Washington ran a test of a 25% biodiesel / 75% petrodiesel blend during the summer of 2008, purchasing fuel from a biodiesel producer sited along the railroad tracks.[46] The train will be powered by biodiesel made in part from canola grown in agricultural regions through which the short line runs.
+Also in 2007, Disneyland began running the park trains on B98 (98% biodiesel). The program was discontinued in 2008 due to storage issues, but in January 2009, it was announced that the park would then be running all trains on biodiesel manufactured from its own used cooking oils. This is a change from running the trains on soy-based biodiesel.[47]
+In 2007, the historic Mt. Washington Cog Railway added the first biodiesel locomotive to its all-steam locomotive fleet. The fleet has climbed up the western slopes of Mount Washington in New Hampshire since 1868 with a peak vertical climb of 37.4 degrees.[48]
+On 8 July 2014,[49] the then Indian Railway Minister D.V. Sadananda Gowda announced in Railway Budget that 5% bio-diesel will be used in Indian Railways' Diesel Engines.[50]
+As a heating oil[edit]
+Main article: Bioliquids
+Biodiesel can also be used as a heating fuel in domestic and commercial boilers, a mix of heating oil and biofuel which is standardized and taxed slightly differently from diesel fuel used for transportation. Bioheat fuel is a proprietary blend of biodiesel and traditional heating oil. Bioheat is a registered trademark of the National Biodiesel Board [NBB] and the National Oilheat Research Alliance [NORA] in the United States, and Columbia Fuels in Canada.[51] Heating biodiesel is available in various blends. ASTM 396 recognizes blends of up to 5 percent biodiesel as equivalent to pure petroleum heating oil. Blends of higher levels of up to 20% biofuel are used by many consumers. Research is underway to determine whether such blends affect performance.
+Older furnaces may contain rubber parts that would be affected by biodiesel's solvent properties, but can otherwise burn biodiesel without any conversion required. Care must be taken, given that varnishes left behind by petrodiesel will be released and can clog pipes fuel filtering and prompt filter replacement is required. Another approach is to start using biodiesel as a blend, and decreasing the petroleum proportion over time can allow the varnishes to come off more gradually and be less likely to clog. Due to biodiesel's strong solvent properties, the furnace is cleaned out and generally becomes more efficient.[52]
+A law passed under Massachusetts Governor Deval Patrick requires all home heating diesel in that state to be 2% biofuel by July 1, 2010, and 5% biofuel by 2013.[53]  New York City has passed a similar law.
+Cleaning oil spills[edit]
+With 80 90% of oil spill costs invested in shoreline cleanup, there is a search for more efficient and cost-effective methods to extract oil spills from the shorelines.[54] Biodiesel has displayed its capacity to significantly dissolve crude oil, depending on the source of the fatty acids. In a laboratory setting, oiled sediments that simulated polluted shorelines were sprayed with a single coat of biodiesel and exposed to simulated tides.[55] Biodiesel is an effective solvent to oil due to its methyl ester component, which considerably lowers the viscosity of the crude oil. Additionally, it has a higher buoyancy than crude oil, which later aids in its removal. As a result, 80% of oil was removed from cobble and fine sand, 50% in coarse sand, and 30% in gravel. Once the oil is liberated from the shoreline, the oil-biodiesel mixture is manually removed from the water surface with skimmers. Any remaining mixture is easily broken down due to the high biodegradability of biodiesel, and the increased surface area exposure of the mixture.
+Biodiesel in generators[edit]
+ Biodiesel is also used in rental generators
+In 2001, UC Riverside installed a 6-megawatt backup power system that is entirely fueled by biodiesel. Backup diesel-fueled generators allow companies to avoid damaging blackouts of critical operations at the expense of high pollution and emission rates. By using B100, these generators were able to essentially eliminate the byproducts that result in smog, ozone, and sulfur emissions.[56] The use of these generators in residential areas around schools, hospitals, and the general public result in substantial reductions in poisonous carbon monoxide and particulate matter.[57]
+Fuel efficiency[edit]
+The power output of biodiesel depends on its blend, quality, and load conditions under which the fuel is burnt. The thermal efficiency for example of B100 as compared to B20 will vary due to the differing energy content of the various blends. Thermal efficiency of a fuel is based in part on fuel characteristics such as: viscosity, specific density, and flash point; these characteristics will change as the blends as well as the quality of biodiesel varies. The American Society for Testing and Materials has set standards in order to judge the quality of a given fuel sample.[58]
+One study found that the brake thermal efficiency of B40 was superior to traditional petroleum counterpart at higher compression ratios (this higher brake thermal efficiency was recorded at compression ratios of 21:1). It was noted that, as the compression ratios increased, the efficiency of all fuel types   as well as blends being tested   increased; though it was found that a blend of B40 was the most economical at a compression ratio of 21:1 over all other blends. The study implied that this increase in efficiency was due to fuel density, viscosity, and heating values of the fuels.[59]
+Combustion[edit]
+Fuel systems on some modern diesel engines were not designed to accommodate biodiesel, while many heavy duty engines are able to run with biodiesel blends up to B20.[4] Traditional direct injection fuel systems operate at roughly 3,000 psi at the injector tip while the modern common rail fuel system operates upwards of 30,000 PSI at the injector tip. Components are designed to operate at a great temperature range, from below freezing to over 1,000 F (560 C). Diesel fuel is expected to burn efficiently and produce as few emissions as possible. As emission standards are being introduced to diesel engines the need to control harmful emissions is being designed into the parameters of diesel engine fuel systems. The traditional inline injection system is more forgiving to poorer quality fuels as opposed to the common rail fuel system. The higher pressures and tighter tolerances of the common rail system allows for greater control over atomization and injection timing. This control of atomization as well as combustion allows for greater efficiency of modern diesel engines as well as greater control over emissions. Components within a diesel fuel system interact with the fuel in a way to ensure efficient operation of the fuel system and so the engine. If an out-of-specification fuel is introduced to a system that has specific parameters of operation, then the integrity of the overall fuel system may be compromised. Some of these parameters such as spray pattern and atomization are directly related to injection timing.[60]
+One study found that during atomization, biodiesel and its blends produced droplets greater in diameter than the droplets produced by traditional petrodiesel. The smaller droplets were attributed to the lower viscosity and surface tension of traditional diesel fuel. It was found that droplets at the periphery of the spray pattern were larger in diameter than the droplets at the center. This was attributed to the faster pressure drop at the edge of the spray pattern; there was a proportional relationship between the droplet size and the distance from the injector tip. It was found that B100 had the greatest spray penetration, this was attributed to the greater density of B100.[61] Having a greater droplet size can lead to inefficiencies in the combustion, increased emissions, and decreased horse power. In another study it was found that there is a short injection delay when injecting biodiesel. This injection delay was attributed to the greater viscosity of Biodiesel. It was noted that the higher viscosity and the greater cetane rating of biodiesel over traditional petrodiesel lead to poor atomization, as well as mixture penetration with air during the ignition delay period.[62] Another study noted that this ignition delay may aid in a decrease of NOx emission.[63]
+Emissions[edit]
+Emissions are inherent to the combustion of diesel fuels that are regulated by the U.S. Environmental Protection Agency (E.P.A.). As these emissions are a byproduct of the combustion process, in order to ensure E.P.A. compliance a fuel system must be capable of controlling the combustion of fuels as well as the mitigation of emissions. There are a number of new technologies being phased in to control the production of diesel emissions. The exhaust gas recirculation system, E.G.R., and the diesel particulate filter, D.P.F., are both designed to mitigate the production of harmful emissions.[64]
+The feedstock used to make the biodiesel fuel can significantly alter the resulting exhaust gas and particulate matter emissions,[65][66] even when blended with commercial diesel fuel.[67] A study performed by the Chonbuk National University concluded that a B30 biodiesel blend reduced carbon monoxide emissions by approximately 83% and particulate matter emissions by roughly 33%.  NOx emissions, however, were found to increase without the application of an E.G.R. system.  The study also concluded that, with E.G.R, a B20 biodiesel blend considerably reduced the emissions of the engine.[68]  Additionally, analysis by the California Air Resources Board found that biodiesel had the lowest carbon emissions of the fuels tested, those being ultra-low-sulfur diesel, gasoline, corn-based ethanol, compressed natural gas, and five types of biodiesel from varying feedstocks.  Their conclusions also showed great variance in carbon emissions of biodiesel based on the feedstock used.  Of soy, tallow, canola, corn, and used cooking oil, soy showed the highest carbon emissions, while used cooking oil produced the lowest.[69]
+While studying the effect of biodiesel on diesel particulate filters, it was found that though the presence of sodium and potassium carbonates aided in the catalytic conversion of ash, as the diesel particulates are catalyzed, they may congregate inside the D.P.F. and so interfere with the clearances of the filter.[clarification needed] This may cause the filter to clog and interfere with the regeneration process.[70] In a study on the impact of E.G.R. rates with blends of jathropa biodiesel it was shown that there was a decrease in fuel efficiency and torque output due to the use of biodiesel on a diesel engine designed with an E.G.R. system. It was found that CO and CO2 emissions increased with an increase in exhaust gas recirculation but NOx levels decreased. The opacity level of the jathropa blends was in an acceptable range, where traditional diesel was out of acceptable standards. It was shown that a decrease in Nox emissions could be obtained with an E.G.R. system. This study showed an advantage over traditional diesel within a certain operating range of the E.G.R. system.[71]
+As of 2017, blended biodiesel fuels (especially B5, B8, and B20) are regularly used in many heavy-duty vehicles, especially transit buses in US cities. Characterization of exhaust emissions showed significant emission reductions compared to regular diesel.[4]
+Material compatibility[edit]
+Plastics: High-density polyethylene (HDPE) is compatible but polyvinyl chloride (PVC) is slowly degraded.[7] Polystyrene is dissolved on contact with biodiesel.
+Metals: Biodiesel (like methanol) has an effect on copper-based materials (e.g. brass), and it also affects zinc, tin, lead, and cast iron.[7]  Stainless steels (316 and 304) and aluminum are unaffected.
+Rubber: Biodiesel also affects types of natural rubbers found in some older engine components. Studies have also found that fluorinated elastomers (FKM) cured with peroxide and base-metal oxides can be degraded when biodiesel loses its stability caused by oxidation. Commonly used synthetic rubbers FKM- GBL-S and FKM- GF-S found in modern vehicles were found to handle biodiesel in all conditions.[72]
+Technical standards[edit]
+Main article: Biodiesel standard
+Biodiesel has a number of standards for its quality including European standard EN 14214, ASTM International D6751, and National Standard of Canada CAN/CGSB-3.524.
+ASTM D6751 (American Society for Testing and Materials) details standards and specifications for biodiesels blended with middle distillate fuels. This specification standard specifies various test methods to be used in the determination of certain properties for biodiesel blends. Some of the tests mentioned include flash point and kinematic viscosity.[3]
+Low temperature gelling[edit]
+When biodiesel is cooled below a certain point, some of the molecules aggregate and form crystals. The fuel starts to appear cloudy once the crystals become larger than one quarter of the wavelengths of visible light   this is the cloud point (CP). As the fuel is cooled further these crystals become larger. The lowest temperature at which fuel can pass through a 45 micrometre filter is the cold filter plugging point (CFPP).[73] As biodiesel is cooled further it will gel and then solidify. Within Europe, there are differences in the CFPP requirements between countries. This is reflected in the different national standards of those countries. The temperature at which pure (B100) biodiesel starts to gel varies significantly and depends upon the mix of esters and therefore the feedstock oil used to produce the biodiesel. For example, biodiesel produced from low erucic acid varieties of canola seed (RME) starts to gel at approximately  10 C (14 F). Biodiesel produced from beef tallow and palm oil tends to gel at around 16 C (61 F) and 13 C (55 F) respectively.[74] There are a number of commercially available additives that will significantly lower the pour point and cold filter plugging point of pure biodiesel. Winter operation is also possible by blending biodiesel with other fuel oils including #2 low sulfur diesel fuel and #1 diesel / kerosene.
+Another approach to facilitate the use of biodiesel in cold conditions is by employing a second fuel tank for biodiesel in addition to the standard diesel fuel tank. The second fuel tank can be insulated and a heating coil using engine coolant is run through the tank. The fuel tanks can be switched over when the fuel is sufficiently warm. A similar method can be used to operate diesel vehicles using straight vegetable oil.
+Contamination by water[edit]
+Biodiesel may contain small but problematic quantities of water. Although it is only slightly miscible with water it is hygroscopic.[75] One of the reasons biodiesel can absorb water is the persistence of mono and diglycerides left over from an incomplete reaction. These molecules can act as an emulsifier, allowing water to mix with the biodiesel.[citation needed] In addition, there may be water that is residual to processing or resulting from storage tank condensation. The presence of water is a problem because:
+Water reduces the heat of fuel combustion, causing smoke, harder starting, and reduced  power.
+Water causes corrosion of fuel system components (pumps, fuel lines, etc.)
+Microbes in water cause the paper-element filters in the system to rot and fail, causing failure of the fuel pump due to ingestion of large particles.
+Water freezes to form ice crystals that provide sites for nucleation, accelerating gelling of the fuel.
+Water causes pitting in pistons.
+Previously, the amount of water contaminating biodiesel has been difficult to measure by taking samples, since water and oil separate. However, it is now possible to measure the water content using water-in-oil sensors.[76]
+Water contamination is also a potential problem when using certain chemical catalysts involved in the production process, substantially reducing catalytic efficiency of base (high pH) catalysts such as potassium hydroxide. However, the super-critical methanol production methodology, whereby the transesterification process of oil feedstock and methanol is effectuated under high temperature and pressure, has been shown to be largely unaffected by the presence of water contamination during the production phase.
+Availability[edit]
+ In some countries biodiesel is less expensive than conventional diesel
+Further information: Biodiesel around the world
+Global biodiesel production reached 3.8 million tons in 2005. Approximately 85% of biodiesel production came from the European Union.[citation needed][77]
+Production[edit]
+Further information: Biodiesel production
+Biodiesel is commonly produced by the transesterification of the vegetable oil or animal fat feedstock, and other non-edible raw materials such as frying oil, etc. There are several methods for carrying out this transesterification reaction including the common batch process, heterogeneous catalysts,[78] supercritical processes, ultrasonic methods, and even microwave methods.
+Chemically, transesterified biodiesel comprises a mix of mono-alkyl esters of long chain fatty acids. The most common form uses methanol (converted to sodium methoxide) to produce methyl esters (commonly referred to as Fatty Acid Methyl Ester   FAME) as it is the cheapest alcohol available, though ethanol can be used to produce an ethyl ester (commonly referred to as Fatty Acid Ethyl Ester   FAEE) biodiesel and higher alcohols such as isopropanol and butanol have also been used. Using alcohols of higher molecular weights improves the cold flow properties of the resulting ester, at the cost of a less efficient transesterification reaction. A lipid transesterification production process is used to convert the base oil to the desired esters. Any free fatty acids (FFAs) in the base oil are either converted to soap and removed from the process, or they are esterified (yielding more biodiesel) using an acidic catalyst. After this processing, unlike straight vegetable oil, biodiesel has combustion properties very similar to those of petroleum diesel, and can replace it in most current uses.
+The methanol used in most biodiesel production processes is made using fossil fuel inputs. However, there are sources of renewable methanol made using carbon dioxide or biomass as feedstock, making their production processes free of fossil fuels.[79]
+A by-product of the transesterification process is the production of glycerol. For every 1 tonne of biodiesel that is manufactured, 100 kg of glycerol are produced. Originally, there was a valuable market for the glycerol, which assisted the economics of the process as a whole. However, with the increase in global biodiesel production, the market price for this crude glycerol (containing 20% water and catalyst residues) has crashed. Research is being conducted globally to use this glycerol as a chemical building block (see chemical intermediate under Wikipedia article "Glycerol"). One initiative in the UK is The Glycerol Challenge.[80]
+Usually this crude glycerol has to be purified, typically by performing vacuum distillation. This is rather energy intensive. The refined glycerol (98%+ purity) can then be utilised directly, or converted into other products. The following announcements were made in 2007: A joint venture of Ashland Inc. and Cargill announced plans to make propylene glycol in Europe from glycerol[81] and Dow Chemical announced similar plans for North America.[82] Dow also plans to build a plant in China to make epichlorhydrin from glycerol.[83] Epichlorhydrin is a raw material for epoxy resins.
+Production levels[edit]
+This section may contain an excessive amount of intricate detail that may interest only a particular audience. Please help by spinning off or relocating any relevant information, and removing excessive detail that may be against Wikipedia's inclusion policy. (January 2023) (Learn how and when to remove this template message)Further information: Biodiesel around the world
+In 2007, biodiesel production capacity was growing rapidly, with an average annual growth rate from 2002 to 2006 of over 40%.[84] For the year 2006, the latest for which actual production figures could be obtained, total world biodiesel production was about 5 6 million tonnes, with 4.9 million tonnes processed in Europe (of which 2.7 million tonnes was from Germany) and most of the rest from the US. In 2008 production in Europe alone had risen to 7.8 million tonnes.[85] In July 2009, a duty was added to American imported biodiesel in the European Union in order to balance the competition from European, especially German producers.[86][87]  The capacity for 2008 in Europe totalled 16 million tonnes. This compares with a total demand for diesel in the US and Europe of approximately 490 million tonnes (147 billion gallons).[88] Total world production of vegetable oil for all purposes in 2005 06 was about 110 million tonnes, with about 34 million tonnes each of palm oil and soybean oil.[89] As of 2018, Indonesia is the world's top supplier of palmoil-based biofuel with annual production of 3.5 million tons,[90][91] and expected to export about 1 million tonnes of biodiesel.[92]
+US biodiesel production in 2011 brought the industry to a new milestone. Under the EPA Renewable Fuel Standard, targets have been implemented for the biodiesel production plants in order to monitor and document production levels in comparison to total demand. According to the year-end data released by the EPA, biodiesel production in 2011 reached more than 1 billion gallons. This production number far exceeded the 800 million gallon target set by the EPA. The projected production for 2020 is nearly 12 billion gallons.[93]
+Biodiesel feedstocks[edit]
+Plant oilsSoybeans are used as a source of biodiesel
+Types
+Vegetable oil (list)
+Macerated oil (list)
+Essential oil (list)
+Uses
+Drying oil
+Oil paint
+Cooking oil
+Fuel
+Biodiesel
+Components
+Saturated fat
+Monounsaturated fat
+Polyunsaturated fat
+Trans fat
+vte
+A variety of oils can be used to produce biodiesel. These include:
+Virgin oil feedstock   rapeseed and soybean oils are most commonly used, soybean oil [4] accounting for about half of U.S. production.[94] It also can be obtained from Pongamia, field pennycress and jatropha and other crops such as mustard, jojoba, flax, sunflower, palm oil, coconut and hemp (see list of vegetable oils for biofuel for more information);
+Waste vegetable oil (WVO);
+Animal fats including tallow, lard, yellow grease, chicken fat,[95] and the by-products of the production of Omega-3 fatty acids from fish oil.
+Algae, which can be grown using waste materials such as sewage[96] and without displacing land currently used for food production.
+Oil from halophytes such as Salicornia bigelovii, which can be grown using saltwater in coastal areas where conventional crops cannot be grown, with yields equal to the yields of soybeans and other oilseeds grown using freshwater irrigation[97]
+Sewage Sludge   The sewage-to-biofuel field is attracting interest from major companies like Waste Management and startups like InfoSpi, which are betting that renewable sewage biodiesel can become competitive with petroleum diesel on price.[98]
+Many advocates suggest that waste vegetable oil is the best source of oil to produce biodiesel, but since the available supply is drastically less than the amount of petroleum-based fuel that is burned for transportation and home heating in the world, this local solution could not scale to the current rate of consumption.
+Animal fats are a by-product of meat production and cooking. Although it would not be efficient to raise animals (or catch fish) simply for their fat, use of the by-product adds value to the livestock industry (hogs, cattle, poultry). Today, multi-feedstock biodiesel facilities are producing high quality animal-fat based biodiesel.[2][1] Currently, a 5-million dollar plant is being built in the US, with the intent of producing 11.4 million litres (3 million gallons) biodiesel from some of the estimated 1 billion kg (2.2 billion pounds) of chicken fat[99] produced annually at the local Tyson poultry plant.[95] Similarly, some small-scale biodiesel factories use waste fish oil as feedstock.[100][101]  An EU-funded project (ENERFISH) suggests that at a Vietnamese plant to produce biodiesel from catfish (basa, also known as pangasius), an output of 13 tons/day of biodiesel can be produced from 81 tons of fish waste (in turn resulting from 130 tons of fish). This project utilises the biodiesel to fuel a CHP unit in the fish processing plant, mainly to power the fish freezing plant.[102]
+Quantity of feedstocks required[edit]
+See also: Food vs. fuel
+Current worldwide production of vegetable oil and animal fat is not sufficient to replace liquid fossil fuel use. Furthermore, some object to the vast amount of farming and the resulting fertilization, pesticide use, and land use conversion that would be needed to produce the additional vegetable oil.[103] The advantages of algae are that it can be grown on non-arable land such as deserts or in marine environments, and the potential oil yields are much higher than from plants.
+Yield[edit]
+Feedstock yield efficiency per unit area affects the feasibility of ramping up production to the huge industrial levels required to power a significant percentage of vehicles.
+Some typical yields
+Crop
+Yield
+L/ha
+US gal/acre
+Palm oil[n 1]
+4752
+508
+Coconut
+2151
+230
+Cyperus esculentus[n 2]
+1628
+174
+Rapeseed[n 1]
+954
+102
+Soy (Indiana)[104]
+554-922
+59.2 98.6
+Chinese tallow[n 3][n 4]
+907
+97
+Peanut[n 1]
+842
+90
+Sunflower[n 1]
+767
+82
+Hemp[citation needed]
+242
+26
+^ a b c d "Biofuels: some numbers". Grist.org. 2006-02-08. Archived from the original on 2010-03-01. Retrieved 2010-03-15.
+^ Makareviciene et al., "Opportunities for the use of chufa sedge in biodiesel production", Industrial Crops and Products, 50 (2013) p. 635, table 2.
+^ Klass, Donald, "Biomass for Renewable Energy, Fuels,and Chemicals", page 341. Academic Press, 1998.
+^ Kitani, Osamu, "Volume V: Energy and Biomass Engineering,CIGR Handbook of Agricultural Engineering", Amer Society of Agricultural, 1999.
+Algae fuel yields have not yet been accurately determined, but DOE is reported as saying that algae yield 30 times more energy per acre than land crops such as soybeans.[105] Yields of 36 tonnes/hectare are considered practical by Ami Ben-Amotz of the Institute of Oceanography in Haifa, who has been farming Algae commercially for over 20 years.[106]
+Jatropha has been cited as a high-yield source of biodiesel but yields are highly dependent on climatic and soil conditions. The estimates at the low end put the yield at about 200 US gal/acre (1.5-2 tonnes per hectare) per crop; in more favorable climates two or more crops per year have been achieved.[107] It is grown in the Philippines, Mali and India, is drought-resistant, and can share space with other cash crops such as coffee, sugar, fruits and vegetables.[108] It is well-suited to semi-arid lands and can contribute to slow down desertification, according to its advocates.[109]
+Efficiency and economic arguments[edit]
+ Pure biodiesel (B-100) made from soybeans
+Transitioning fully to biofuels could require immense tracts of land if traditional food crops are used (although non food crops can be utilized). The problem would be especially severe for nations with large economies, since energy consumption scales with economic output.[110]
+For third world countries, biodiesel sources that use marginal land could make more sense; e.g., pongam oiltree nuts grown along roads or jatropha grown along rail lines.[111]
+In tropical regions, such as Malaysia and Indonesia, plants that produce palm oil are being planted at a rapid pace to supply growing biodiesel demand in Europe and other markets. Scientists have shown that the removal of rainforest for palm plantations is not ecologically sound since the expansion of oil palm plantations poses a threat to natural rainforest and biodiversity.[112]
+It has been estimated in Germany that palm oil diesel has less than one third of the production costs of rapeseed biodiesel.[113]
+Economic impact[edit]
+The examples and perspective in this section deal primarily with the United States and do not represent a worldwide view of the subject. You may improve this section, discuss the issue on the talk page, or create a new section, as appropriate. (January 2023) (Learn how and when to remove this template message)
+Multiple economic studies have been performed regarding the economic impact of biodiesel production. One study, commissioned by the National Biodiesel Board, reported the production of biodiesel supported more than 64,000 jobs.[93]  The growth in biodiesel also helps significantly increase GDP. In 2011, biodiesel created more than $3 billion in GDP. Judging by the continued growth in the Renewable Fuel Standard and the extension of the biodiesel tax incentive, the number of jobs can increase to 50,725, $2.7 billion in income, and reaching $5 billion in GDP by 2012 and 2013.[114]
+Energy security[edit]
+One of the main drivers for adoption of biodiesel is energy security. This means that a nation's dependence on oil is reduced, and substituted with use of locally available sources, such as coal, gas, or renewable sources. Thus a country can benefit from adoption of biofuels, without a reduction in greenhouse gas emissions. While the total energy balance is debated, it is clear that the dependence on oil is reduced. One example is the energy used to manufacture fertilizers, which could come from a variety of sources other than petroleum. The US National Renewable Energy Laboratory (NREL) states that energy security is the number one driving force behind the US biofuels programme,[115] and a White House "Energy Security for the 21st Century" paper makes it clear that energy security is a major reason for promoting biodiesel.[116] The former EU commission president, Jose Manuel Barroso, speaking at a recent EU biofuels conference, stressed that properly managed biofuels have the potential to reinforce the EU's security of supply through diversification of energy sources.[117]
+Global biofuel policies[edit]
+Many countries around the world are involved in the growing use and production of biofuels, such as biodiesel, as an alternative energy source to fossil fuels and oil. To foster the biofuel industry, governments have implemented legislations and laws as incentives to reduce oil dependency and to increase the use of renewable energies.[118] Many countries have their own independent policies regarding the taxation and rebate of biodiesel use, import, and production.
+Canada[edit]
+It was required by the Canadian Environmental Protection Act Bill C-33 that by 2010, gasoline contained 5% renewable content and that by 2013, diesel and heating oil contained 2% renewable content.[118] The EcoENERGY for Biofuels Program subsidized the production of biodiesel, among other biofuels, via an incentive rate of CAN$0.20 per liter from 2008 to 2010. A decrease of $0.04 will be applied every year following, until the incentive rate reaches $0.06 in 2016. Individual provinces also have specific legislative measures in regards to biofuel use and production.[119]
+United States[edit]
+The Volumetric Ethanol Excise Tax Credit (VEETC) was the main source of financial support for biofuels, but was scheduled to expire in 2010. Through this act, biodiesel production guaranteed a tax credit of US$1 per gallon produced from virgin oils, and $0.50 per gallon made from recycled oils.[120]
+Currently soybean oil is being used to produce soybean biodiesel for many commercial purposes such as blending fuel for transportation sectors.[4]
+European Union[edit]
+The European Union is the greatest producer of biodiesel, with France and Germany being the top producers. To increase the use of biodiesel, there are policies requiring the blending of biodiesel into fuels, including penalties if those rates are not reached. In France, the goal was to reach 10% integration but plans for that stopped in 2010.[118] As an incentive for the European Union countries to continue the production of the biofuel, there are tax rebates for specific quotas of biofuel produced. In Germany, the minimum percentage of biodiesel in transport diesel is set at 7% so called "B7".
+Malaysia[edit]
+Malaysia plans to implement its nationwide adoption of the B20 palm oil biofuel programme by the end of 2022. The mandate to manufacture biofuel with a 20% palm oil component - known as B20 - for the transport sector was first rolled out in January 2020 but faced delays due to movement curbs imposed to contain coronavirus outbreaks.[121]
+Environmental effects[edit]
+Main article: Environmental impact of biodiesel
+This section's factual accuracy may be compromised due to out-of-date information. Please help update this article to reflect recent events or newly available information. (October 2022)
+ Deforestation in Indonesia, to make way for an oil palm plantation.
+The surge of interest in biodiesels has highlighted a number of environmental effects associated with its use. These potentially include reductions in greenhouse gas emissions,[122] deforestation, pollution and the rate of biodegradation.
+According to the Renewable Fuel Standards Program Regulatory Impact Analysis, released by the Environmental Protection Agency (EPA) of the United States in February 2010, biodiesel from soy oil results, on average, in a 57% reduction in greenhouse gases compared to petroleum diesel, and biodiesel produced from waste grease results in an 86% reduction. See chapter 2.6 of the EPA report for more detailed information.
+However, environmental organizations, for example, Rainforest Rescue[123] and Greenpeace,[124] criticize the cultivation of plants used for biodiesel production, e.g., oil palms, soybeans and sugar cane. The deforestation of rainforests exacerbates climate change and sensitive ecosystems are destroyed to clear land for oil palm, soybean and sugar cane plantations. Moreover, that biofuels contribute to world hunger, since arable land is no longer used for growing foods. The Environmental Protection Agency published data in January 2012, showing that biofuels made from palm oil will not count towards the renewable fuels mandate of the United States as they are not climate-friendly.[125] Environmentalists welcome the conclusion because the growth of oil palm plantations has driven tropical deforestation, for example, in Indonesia and Malaysia.[125][126]
+Indonesia produces biodiesel primarily from palm oil. Since agricultural land is limited, in order to plant monocultures of oil palms, land used for other cultivations or the tropical forest need to be cleared. A major environmental threat is then the destruction of rainforests in Indonesia.[127]
+Food, land and water vs. fuel[edit]
+Main article: Food vs. fuel
+Up to 40% of corn produced in the United States is used to make ethanol,[128] and worldwide 10% of all grain is turned into biofuel.[129] A 50% reduction in grain used for biofuels in the US and Europe would replace all of Ukraine's grain exports.[130]
+In some poor countries the rising price of vegetable oil is causing problems.[131][132]  Some propose that fuel only be made from non-edible vegetable oils such as camelina, jatropha or seashore mallow[133] which can thrive on marginal agricultural land where many trees and crops will not grow, or would produce only low yields.
+Others argue that the problem is more fundamental. Farmers may switch from producing food crops to producing biofuel crops to make more money, even if the new crops are not edible.[134][135] The law of supply and demand predicts that if fewer farmers are producing food the price of food will rise. It may take some time, as farmers can take some time to change which things they are growing, but increasing demand for first generation biofuels is likely to result in price increases for many kinds of food. Some have pointed out that there are poor farmers and poor countries who are making more money because of the higher price of vegetable oil.[136]
+Biodiesel from sea algae would not necessarily displace terrestrial land currently used for food production and new algaculture jobs could be created.
+By comparison it should be mentioned that the production of biogas utilizes agricultural waste to generate a biofuel known as biogas, and also produces compost, thereby enhancing agriculture, sustainability and food production.
+Research[edit]
+There was research into finding more suitable crops and improving oil yield. Other sources are possible including human fecal matter, with Ghana building its first "fecal sludge-fed biodiesel plant."[137]
+Specially bred mustard varieties can produce reasonably high oil yields and are very useful in crop rotation with cereals, and have the added benefit that the meal leftover after the oil has been pressed out can act as an effective and biodegradable pesticide.[138]
+The NFESC, with Santa Barbara-based Biodiesel Industries is working to develop biodiesel technologies for the US navy and military, one of the largest diesel fuel users in the world.[139]
+A group of Spanish developers working for a company called Ecofasa announced a new biofuel made from trash. The fuel is created from general urban waste which is treated by bacteria to produce fatty acids, which can be used to make biodiesel.[140]
+Another approach that does not require the use of chemical for the production involves the use of genetically modified microbes.[141][142]
+Algal biodiesel[edit]
+Main articles: Algaculture and Algal fuel
+From 1978 to 1996, the U.S. NREL experimented with using algae as a biodiesel source in the "Aquatic Species Program".[115]
+A self-published article by Michael Briggs, at the UNH Biodiesel Group, offers estimates for the realistic replacement of all vehicular fuel with biodiesel by utilizing algae that have a natural oil content greater than 50%, which Briggs suggests can be grown on algae ponds at wastewater treatment plants.[143] This oil-rich algae can then be extracted from the system and processed into biodiesel, with the dried remainder further reprocessed to create ethanol.
+The production of algae to harvest oil for biodiesel has not yet been undertaken on a commercial scale, but feasibility studies have been conducted to arrive at the above yield estimate. In addition to its projected high yield, algaculture  unlike crop-based biofuels   does not entail a decrease in food production, since it requires neither farmland nor fresh water. Many companies are pursuing algae bio-reactors for various purposes, including scaling up biodiesel production to commercial levels.[144][145]
+Biodiesel lipids could be extracted from wet algae using a simple and economical reaction in ionic liquids.[146]
+Pongamia[edit]
+Main articles: Millettia pinnata and Pongamia oil
+Millettia pinnata, also known as the Pongam Oiltree or Pongamia, is a leguminous, oilseed-bearing tree that has been identified as a candidate for non-edible vegetable oil production.
+Pongamia plantations for biodiesel production have a two-fold environmental benefit. The trees both store carbon and produce fuel oil. Pongamia grows on marginal land not fit for food crops and does not require nitrate fertilizers. The oil producing tree has the highest yield of oil producing plant (approximately 40% by weight of the seed is oil) while growing in malnourished soils with high levels of salt. It is becoming a main focus in a number of biodiesel research organizations.[147] The main advantages of Pongamia are a higher recovery and quality of oil than other crops and no direct competition with food crops. However, growth on marginal land can lead to lower oil yields which could cause competition with food crops for better soil.
+Jatropha[edit]
+Main articles: Jatropha and Jatropha Oil
+ Jatropha Biodiesel from DRDO, India.
+Several groups in various sectors are conducting research on Jatropha curcas, a poisonous shrub-like tree that produces seeds considered by many to be a viable source of biodiesel feedstock oil.[148] Much of this research focuses on improving the overall per acre oil yield of Jatropha through advancements in genetics, soil science, and horticultural practices.
+SG Biofuels, a San Diego-based Jatropha developer, has used molecular breeding and biotechnology to produce elite hybrid seeds of Jatropha that show significant yield improvements over first generation varieties.[149] SG Biofuels also claims that additional benefits have arisen from such strains, including improved flowering synchronicity, higher resistance to pests and disease, and increased cold weather tolerance.[150]
+Plant Research International, a department of the Wageningen University and Research Centre in the Netherlands, maintains an ongoing Jatropha Evaluation Project (JEP) that examines the feasibility of large scale Jatropha cultivation through field and laboratory experiments.[151]
+The Center for Sustainable Energy Farming (CfSEF) is a Los Angeles-based non-profit research organization dedicated to Jatropha research in the areas of plant science, agronomy, and horticulture. Successful exploration of these disciplines is projected to increase Jatropha farm production yields by 200 300% in the next ten years.[152]
+FOG from sewage[edit]
+So-called fats, oils and grease (FOG), recovered from sewage can also be turned into biodiesel.[153]
+Fungi[edit]
+A group at the Russian Academy of Sciences in Moscow published a paper in 2008, stating that they had isolated large amounts of lipids from single-celled fungi and turned it into biodiesel in an economically efficient manner.[154]
+The recent discovery of a variant of the fungus Gliocladium roseum points toward the production of so-called myco-diesel from cellulose. This organism was recently discovered in the rainforests of northern Patagonia and has the unique capability of converting cellulose into medium length hydrocarbons typically found in diesel fuel.[155]
+Biodiesel from used coffee grounds[edit]
+Researchers at the University of Nevada, Reno, have successfully produced biodiesel from oil derived from used coffee grounds. Their analysis of the used grounds showed a 10% to 15% oil content (by weight). Once the oil was extracted, it underwent conventional processing into biodiesel. It is estimated that finished biodiesel could be produced for about one US dollar per gallon. Further, it was reported that "the technique is not difficult" and that "there is so much coffee around that several hundred million gallons of biodiesel could potentially be made annually."  However, even if all the coffee grounds in the world were used to make fuel, the amount produced would be less than 1 percent of the diesel used in the United States annually. "It won t solve the world s energy problem," Dr. Misra said of his work.[156]
+Biodiesel to hydrogen-cell power[edit]
+A microreactor has been developed to convert biodiesel into hydrogen steam to power fuel cells.[157]
+Steam reforming, also known as fossil fuel reforming is a process which produces hydrogen gas from hydrocarbon fuels, most notably biodiesel due to its efficiency. A **microreactor**, or reformer, is the processing device in which water vapour reacts with the liquid fuel under high temperature and pressure. Under temperatures ranging from 700   1100 C, a nickel-based catalyst enables the production of carbon monoxide and hydrogen:[158]
+ Hydrocarbon + H2O   CO + 3H2 (Highly endothermic)
+Furthermore, a higher yield of hydrogen gas can be harnessed by further oxidizing carbon monoxide to produce more hydrogen and carbon dioxide:
+ CO + H2O   CO2 + H2 (Mildly exothermic)
+Safflower oil[edit]
+As of 2020[update], researchers at Australia's CSIRO have been studying safflower oil from a specially-bred variety as an engine lubricant, and researchers at Montana State University's Advanced Fuel Centre in the US have been studying the oil's performance in a large diesel engine, with results described as a "game-changer".[159]
+Concerns[edit]
+Main article: Issues relating to biofuels
+Engine wear[edit]
+Lubricity of fuel plays an important role in wear that occurs in an engine. A diesel engine relies on its fuel to provide lubricity for the metal components that are constantly in contact with each other.[160] Biodiesel is a much better lubricant compared with fossil petroleum diesel due to the presence of esters. Tests have shown that the addition of a small amount of biodiesel to diesel can significantly increase the lubricity of the fuel in short term.[161]  However, over a longer period of time (2 4 years), studies show that biodiesel loses its lubricity.[162]  This could be because of enhanced corrosion over time due to oxidation of the unsaturated molecules or increased water content in biodiesel from moisture absorption.[57]
+Fuel viscosity[edit]
+One of the main concerns regarding biodiesel is its viscosity. The viscosity of diesel is 2.5 3.2 cSt at 40 C and the viscosity of biodiesel made from soybean oil is between 4.2 and 4.6 cSt[163] The viscosity of diesel must be high enough to provide sufficient lubrication for the engine parts but low enough to flow at operational temperature. High viscosity can plug the fuel filter and injection system in engines.[163]  Vegetable oil is composed of lipids with long chains of hydrocarbons, to reduce its viscosity the lipids are broken down into smaller molecules of esters. This is done by converting vegetable oil and animal fats into alkyl esters using transesterification to reduce their viscosity[164] Nevertheless, biodiesel viscosity remains higher than that of diesel, and the engine may not be able to use the fuel at low temperatures due to the slow flow through the fuel filter.[165]
+Engine performance[edit]
+Biodiesel has higher brake-specific fuel consumption compared to diesel, which means more biodiesel fuel consumption is required for the same torque. However, B20 biodiesel blend has been found to provide maximum increase in thermal efficiency, lowest brake-specific energy consumption, and lower harmful emissions.[4][57][160] The engine performance depends on the properties of the fuel, as well as on combustion, injector pressure and many other factors.[166] Since there are various blends of biodiesel, that may account for the contradicting reports as regards engine performance.
+Exhaust Emissions[edit]
+The feedstock used to make the biodiesel alters the fuel s properties by changing the average carbon chain length and number of double bonds present in the fatty acid methyl esters.[167]
+See also[edit]
+Civic amenity site; collection point for WVO
+EcoJet concept car
+Food, Conservation, and Energy Act of 2008
+Fuel (film)
+Gasoline gallon equivalent
+Indirect land use change impacts of biofuels
+MY Ady Gil
+Sustainable biofuel
+Table of biofuel crop yields
+Tonne of oil equivalent
+United States vs. Imperial Petroleum
+Vegetable oil economy
+Vegetable oil fuel
+ Environment portal
+ Renewable Energy portal
+References[edit]
+^ a b "AustraliaBiofuels.pdf (application/pdf Object)" (PDF). bioenergy.org.nz. 2008. Archived from the original (PDF) on 3 May 2012. Retrieved 23 March 2012.
+^ a b "Monthly_US_Raw_Material_Useage_for_US_Biodiesel_Production_2007_2009.pdf (application/pdf Object)" (PDF). assets.nationalrenderers.org. 2010. Archived (PDF) from the original on October 19, 2012. Retrieved March 23, 2012.
+^ Costa, Gustavo GL; Cardoso, Kiara C.; Del Bem, Luiz EV; Lima, Aline C.; Cunha, Muciana AS; de Campos-Leite, Luciana; Vicentini, Renato; Papes, F bio; Moreira, Raquel C.; Yunes, Jos  A.; Campos, Francisco AP (2010-08-06). "Transcriptome analysis of the oil-rich seed of the bioenergy crop Jatropha curcas L". BMC Genomics. 11 (1): 462. doi:10.1186/1471-2164-11-462. ISSN 1471-2164. PMC 3091658. PMID 20691070.
+^ a b c d e f g Omidvarborna;  et al. (December 2014). "Characterization of particulate matter emitted from transit buses fueled with B20 in idle modes". Journal of Environmental Chemical Engineering. 2 (4): 2335 2342. doi:10.1016/j.jece.2014.09.020.
+^ "Nylund.N-O & Koponen.K. 2013. Fuel and Technology Alternatives for Buses. Overall Energy Efficiency and Emission Performance. IEA Bioenergy Task 46" (PDF). Archived (PDF) from the original on 2020-02-16. Retrieved 2021-04-18.
+^ "Biodiesel Basics" (?). National Biodiesel Board. Archived from the original on 2014-08-04. Retrieved 2013-01-29.
+^ a b c "Biodiesel Basics - Biodiesel.org". biodiesel.org. 2012. Archived from the original on August 4, 2014. Retrieved May 5, 2012.
+^ "Biodiesel Handling and Use Guide, Fourth Edition" (PDF). National Renewable Energy Laboratory. Archived from the original (PDF) on 2011-11-10. Retrieved 2011-02-13.
+^ "American Society for Testing and Materials". ASTM International. Archived from the original on 2019-12-08. Retrieved 2011-02-13.
+^ "Biodiesel Handling and Use Guide" (PDF). nrel.gov. 2009. Archived (PDF) from the original on April 28, 2011. Retrieved December 21, 2011.
+^ Duffy, Patrick (1853). "XXV. On the constitution of stearine". Quarterly Journal of the Chemical Society of London. 5 (4): 303. doi:10.1039/QJ8530500303. Archived from the original on 2020-07-26. Retrieved 2019-07-05.
+^ Rob (1898). " ber partielle Verseifung von  len und Fetten II". Zeitschrift f r Angewandte Chemie. 11 (30): 697 702. Bibcode:1898AngCh..11..697H. doi:10.1002/ange.18980113003. Archived from the original on 2020-07-26. Retrieved 2019-07-05.
+^ "Biodiesel Day". Days Of The Year. Archived from the original on 25 February 2021. Retrieved 30 May 2015.
+^ The Biodiesel Handbook, Chapter 2   The History of Vegetable Oil Based Diesel Fuels, by Gerhard Knothe, ISBN 978-1-893997-79-0
+^ Knothe, G. "Historical Perspectives on Vegetable Oil-Based Diesel Fuels" (PDF). INFORM, Vol. 12(11), p. 1103-1107 (2001). Archived (PDF) from the original on 2018-10-04. Retrieved 2007-07-11.
+^ "Lipofuels: Biodiesel and Biokerosene" (PDF). www.nist.gov. Archived (PDF) from the original on 2009-03-18. Retrieved 2009-03-09.
+^ [1] Quote from Tecbio website  Archived October 20, 2007, at the Wayback Machine
+^ "O Globo newspaper interview in Portuguese". Defesanet.com.br. Archived from the original on 2010-10-29. Retrieved 2010-03-15.
+^ SAE Technical Paper series no. 831356. SAE International Off Highway Meeting, Milwaukee, Wisconsin, USA, 1983
+^ "The Effect of Biodiesel Composition on Engine Emissions from a DDC Series 60 Diesel Engine" (PDF). Retrieved 2022-12-13.{{cite web}}:  CS1 maint: url-status (link)
+^ "Generic biodiesel material safety data sheet (MSDS)" (PDF). Archived (PDF) from the original on 2009-12-22. Retrieved 2010-03-15.
+^ a b "MSDS ID NO.: 0301MAR019" (PDF). Marathon Petroleum. 7 December 2010. pp. 5, 7. Archived from the original (PDF) on 2017-12-22. Retrieved 22 December 2017.
+^ a b "Safety Data Sheet - CITGO No. 2 Diesel Fuel, Low Sulfur, All Grades" (PDF). CITGO. 29 July 2015. p. 7. Archived (PDF) from the original on 16 October 2015. Retrieved 22 December 2017.
+^ Carbon and Energy Balances for a Range of Biofuels Options Sheffield Hallam University
+^ National Biodiesel Board (October 2005). Energy Content (PDF). Jefferson City, USA. p. 1. Archived from the original (PDF) on 2013-09-27. Retrieved 2013-09-24.
+^ UNH Biodiesel Group Archived September 6, 2004, at the Wayback Machine
+^ "E48_MacDonald.pdf (application/pdf Object)" (PDF). astm.org. 2011. Archived (PDF) from the original on November 20, 2012. Retrieved May 3, 2012.
+^ "Biodiesel" (PDF). Archived (PDF) from the original on 2017-08-09. Retrieved 2017-12-22.
+^ "OEM Statement Summary Chart Archived 2016-04-07 at the Library of Congress Web Archives." Biodiesel.org. National Biodiesel Board, 1 Dec. 2014. Web. 19 Nov. 2015.
+^ McCormick, R.L. "2006 Biodiesel Handling and Use Guide Third Edition" (PDF). Archived from the original (PDF) on 2006-12-16. Retrieved 2006-12-18.
+^ "US EPA Biodiesel Factsheet". 2016-03-03. Archived from the original on July 26, 2008.
+^ "Twenty In Ten: Strengthening America's Energy Security". Whitehouse.gov. Archived from the original on 2009-09-06. Retrieved 2008-09-10.
+^ Kemp, William. Biodiesel: Basics and Beyond. Canada: Aztext Press, 2006.
+^ "National Biodiesel Board, 2007. Chrysler Supports Biodiesel Industry; Encourages Farmers, Refiners, Retailers and Customers to Drive New Diesels Running on Renewable Fuel". Nbb.grassroots.com. 2007-09-24. Archived from the original on 2010-03-06. Retrieved 2010-03-15.
+^ "Biodiesel statement" (PDF). Volkswagen.co.uk. Archived (PDF) from the original on 2011-09-27. Retrieved 2011-08-04.
+^ "biodiesel_Brochure5.pdf (application/pdf Object)" (PDF). mbusa.com. 2010. Archived from the original (PDF) on October 28, 2012. Retrieved September 11, 2012.
+^ "Halifax City Buses to Run on Biodiesel Again | Biodiesel and Ethanol Investing". Biodieselinvesting.com. 2006-08-31. Archived from the original on 2006-10-18. Retrieved 2009-10-17.
+^ "Biodiesel". Halifax.ca. Archived from the original on 2010-12-24. Retrieved 2009-10-17.
+^ "Halifax Transit". Halifax.ca. 2004-10-12. Archived from the original on 2014-08-14. Retrieved 2013-12-04.
+^ "McDonald's bolsters "green" credentials with recycled biodiesel oil". News.mongabay.com. 2007-07-09. Archived from the original on 2012-07-15. Retrieved 2009-10-17.
+^ "Cruze Clean Turbo Diesel Delivers Efficient Performance". 2013-02-07. Archived from the original on 2013-08-10. Retrieved 2013-08-05.
+^ "First UK biodiesel train launched". BBC. 2007-06-07. Archived from the original on 2008-02-13. Retrieved 2007-11-17.
+^ Virgin launches trials with Britain's first biofuel train Rail issue 568 20 June 2007 page 6
+^ "EWS Railway   News Room". www.ews-railway.co.uk. Archived from the original on 2020-02-19. Retrieved 2009-06-12.
+^ Great Britain. Parliament. House of Commons. Transport Committee (2008). Delivering a sustainable railway : a 30-year strategy for the railways? : tenth report of session 2007-08 : report, together with formal minutes, oral and written evidence. London: Stationery Office. ISBN 978-0-215-52222-1. OCLC 273500097. Archived from the original on 2021-07-31. Retrieved 2021-07-07.
+^ Vestal, Shawn (2008-06-22). "Biodiesel will drive Eastern Wa. train during summerlong test". Seattle Times. Archived from the original on 2009-02-02. Retrieved 2009-03-01.
+^ "Disneyland trains running on biodiesel - UPI.com". www.upi.com. Archived from the original on 2009-01-30. Retrieved 2009-03-16.
+^ Kotrba, Ron (29 May 2013). "'Name that Biodiesel Train' contest". Biodiesel Magazine. Archived from the original on 8 May 2014. Retrieved 8 May 2014.
+^ PTI (2014-07-08). "Railway Budget 2014 15: Highlights". The Hindu. Archived from the original on 2014-11-29. Retrieved 30 May 2015.
+^ "Indian Railways to go for Bio-Diesel in a Big Way   Gowda". Archived from the original on 14 April 2015. Retrieved 30 May 2015.
+^ "Environment, consumers win with Bioheat trademark victory". biodieselmagazine.com. 2011. Archived from the original on November 20, 2011. Retrieved October 27, 2011.
+^ "The Massachusetts Bioheat Fuel Pilot Program" (PDF). June 2007. Archived (PDF) from the original on 2012-09-15. Retrieved 2012-12-31. Prepared for the Massachusetts Executive Office of Energy and Environmental Affairs
+^ Massachusetts Oil Heat Council (27 February 2008). MA Oilheat Council Endorses BioHeat Mandate Archived May 11, 2008, at the Wayback Machine
+^ French McCay, D.; Rowe, J. J.; Whittier, N.; Sankaranarayanan, S.; Schmidt Etkin, D. (2004). "Estimation of potential impacts and natural resource damages of oil". J. Hazard. Mater. 107 (1 2): 11 25. doi:10.1016/j.jhazmat.2003.11.013. PMID 15036639.
+^ Fern ndez- lvarez, P.; Vila, J.; Garrido, J. M.; Grifoll, M.; Feijoo, G.; Lema, J. M. (2007). "Evaluation of biodiesel as bioremediation agent for the treatment of the shore affected by the heavy oil spill of the Prestige". J. Hazard. Mater. 147 (3): 914 922. doi:10.1016/j.jhazmat.2007.01.135. PMID 17360115.
+^ National Biodiesel Board Electrical Generation. http://www.biodiesel.org/using-biodiesel/market-segments/electrical-generation Archived 2013-04-10 at the Wayback Machine (accessed 20 January 2013)
+^ a b c Monyem, A.; Van Gerpen, J. (2001). "The effect of biodiesel oxidation on engine performance and emissions". Biomass Bioenergy. 20 (4): 317 325. doi:10.1016/s0961-9534(00)00095-7. Archived from the original on 2018-01-09. Retrieved 2018-11-22.
+^ 
+ASTM Standard D6751-12, 2003, "Standard Specification for Biodiesel Fuel Blend Stock (B100) for Middle Distillate Fuels," ASTM International, West Conshohocken, PA, 2003, doi:10.1520/C0033-03, astm.org.
+^ Muralidharan, K. K.; Vasudevan, D. D. (2011). "Performance, emission and combustion characteristics of a variable compression ratio engine using methyl esters of waste cooking oil and diesel blends". Applied Energy. 88 (11): 3959 3968. doi:10.1016/j.apenergy.2011.04.014.
+^ Roy, Murari Mohon (2009). "Effect of Fuel Injection Timing and Injection Pressure on Combustion and Odorous Emissions in DI Diesel Engines". Journal of Energy Resources Technology. 131 (3): 032201. doi:10.1115/1.3185346.
+^ Chen, P.; Wang, W.; Roberts, W. L.; Fang, T. (2013). "Spray and atomization of diesel fuel and its alternatives from a single-hole injector using a common rail fuel injection system". Fuel. 103: 850 861. doi:10.1016/j.fuel.2012.08.013.
+^ Hwang, J.; Qi, D.; Jung, Y.; Bae, C. (2014). "Effect of injection parameters on the combustion and emission characteristics in a common-rail direct injection diesel engine fueled with waste cooking oil biodiesel". Renewable Energy. 63: 639 17. doi:10.1016/j.renene.2013.08.051.
+^ McCarthy, P. P.; Rasul, M. G.; Moazzem, S. S. (2011). "Analysis and comparison of performance and emissions of an internal combustion engine fuelled with petroleum diesel and different bio-diesels". Fuel. 90 (6): 2147 2157. doi:10.1016/j.fuel.2011.02.010.
+^ United States Environmental Protection Agency. (2014, April 9). National Clean Diesel Campaign. Retrieved From the Environmental Protection Agency website: http://www.epa.gov/diesel/ Archived 2014-04-18 at the Wayback Machine
+^ "The Effect of Biodiesel Composition on Engine Emissions from a DDC Series 60 Diesel Engine" (PDF). Retrieved 2022-12-13.{{cite web}}:  CS1 maint: url-status (link)
+^ Landwehr, K.R.; Hillas, J.; Mead-Hunter, R.; Brooks, P.; King, A.; O'Leary, R.A. (2021). "Fuel feedstock determines biodiesel exhaust toxicity in a human airway epithelial cell exposure model". J. Hazard. Mater. 420: 126637. doi:10.1016/j.jhazmat.2021.126637. PMID 34329109.
+^ Landwehr, K.R.; Hillas, J.; Mead-Hunter, R.; King, A.; O'Leary, R.A.; Kicic, A. (2023). "Biodiesel feedstock determines exhaust toxicity in 20% biodiesel: 80% mineral diesel blends". J. Chemosphere. 310: 136873. Bibcode:2023Chmsp.310m6873L. doi:10.1016/j.chemosphere.2022.136873. PMID 36252896. S2CID 252938667.
+^ Sam, Yoon Ki, et al. "Effects Of Canola Oil Biodiesel Fuel Blends On Combustion, Performance, And Emissions Reduction In A Common Rail Diesel Engine." Energies (19961073) 7.12 (2014): 8132 8149. Academic Search Complete. Web. 14 Nov. 2015.
+^ Robinson, Jessica (September 28, 2015). "Nation's strictest regulatory board affirms biodiesel as lowest-carbon fuel". National Biodiesel Board. Archived from the original on August 30, 2017.
+^ Hansen, B.; Jensen, A.; Jensen, P. (2013). "Performance of diesel particulate filter catalysts in the presence of biodiesel ash species" (PDF). Fuel. 106: 234 240. doi:10.1016/j.fuel.2012.11.038. S2CID 40883915.
+^ Gomaa, M. M.; Alimin, A. J.; Kamarudin, K. A. (2011). "The effect of EGR rates on NOX and smoke emissions of an IDI diesel engine fuelled with Jatropha biodiesel blends". International Journal of Energy & Environment. 2 (3): 477 490.
+^ Fluoroelastomer Compatibility with Biodiesel Fuels Archived 2014-10-06 at the Wayback Machine Eric W. Thomas, Robert E. Fuller and Kenji Terauchi DuPont Performance Elastomers L.L.C. January 2007
+^  ;   (2017-01-12).    (ed.). " " (in Chinese). Taiwan: Ministry of Science and Technology. Archived from the original on 2021-03-22. Retrieved 2017-06-22.
+^ Sanford, S.D., et al., "Feedstock and Biodiesel Characteristics Report," Renewable Energy Group, Inc., www.regfuel.com (2009).
+^ UFOP   Union zur F rderung von Oel. "Biodiesel FlowerPower: Facts * Arguments * Tips" (PDF). Archived (PDF) from the original on 2007-07-14. Retrieved 2007-06-13.
+^ "Detecting and Controlling Water in Oil". Archived from the original on 2016-10-24. Retrieved 2016-10-23.
+^ Dasmohapatra, Gourkrishna. Engineering Chemistry I (WBUT), 3rd Edition. ISBN 9789325960039. Archived from the original on 2020-04-03. Retrieved 2017-01-13.
+^ Hern ndez, M.R.; Reyes-Labarta, J.A. (2010). "Reyes-Labarta". Industrial & Engineering Chemistry Research. 49 (19): 9068 9076. doi:10.1021/ie100978m.
+^ "Products". Carbon Recycling International. Archived from the original on 29 July 2013. Retrieved 13 July 2012.
+^ "Biofuels and Glycerol". theglycerolchallenge.org. Archived from the original on 2008-05-23. Retrieved 2008-07-09.
+^ Chemweek's Business Daily, Tuesday May 8, 2007
+^ "Retrieved June 25, 2007". Dow.com. Archived from the original on 2009-09-16. Retrieved 2010-03-15.
+^ "Retrieved June 25, 2007". Epoxy.dow.com. Archived from the original on 2009-09-16. Retrieved 2010-03-15.
+^ Martinot (Lead Author), Eric (2008). "Renewables 2007. Global Status Report" (PDF). REN21 (Renewable Energy Policy Network for the 21st Century. Archived (PDF) from the original on 2008-04-10. Retrieved 2008-04-03. {{cite web}}: |last= has generic name (help)
+^ "Statistics. the EU biodiesel industry". European Biodiesel Board. 2008-03-28. Archived from the original on 2006-11-14. Retrieved 2008-04-03.
+^ "US Biodiesel Taxed in EU". Hadden Industries. Archived from the original on 2009-10-11. Retrieved 2009-08-28.
+^ "US Biodiesel Demand" (PDF). Biodiesel: The official site of the National Biodiesel Board. NBB. Archived (PDF) from the original on 2008-04-10. Retrieved 2008-04-03.
+^ "Biodiesel to drive up the price of cooking oil". Biopower London. 2006. Archived from the original on 2008-06-07. Retrieved 2008-04-03.
+^ "Major Commodities". FEDIOL (EU Oil and Proteinmeal Industry). Archived from the original on 2008-04-21. Retrieved 2008-04-08.
+^ "Indonesia to boost biodiesel exports, Malaysia expects to lose market share". Reuters. Archived from the original on 31 August 2018. Retrieved 31 August 2018.
+^ "Indonesian biodiesel production seen jumping to 3.5 million tonnes this year". 12 March 2018. Archived from the original on 31 August 2018. Retrieved 31 August 2018.
+^ "Indonesia's 2018 biodiesel exports seen at around 1 mln tonnes - assoc". Reuters. Archived from the original on 30 August 2018. Retrieved 31 August 2018.
+^ a b National Biodiesel Board (2018). "U.S. biodiesel production". Archived from the original on 2020-04-03. Retrieved 2019-07-11.
+^ U.S. Energy Information Administration. "Monthly Biodiesel Production Reports". U.S. Department of Energy. Archived from the original on 13 March 2013. Retrieved 27 February 2013.
+^ a b Leonard, Christopher (2007-01-03). "Not a Tiger, but Maybe a Chicken in Your Tank". The Washington Post. Associated Press. p. D03. Archived from the original on 2012-11-04. Retrieved 2007-12-04.
+^ Kiong, Errol (May 12, 2006). "NZ firm makes bio-diesel from sewage in world first". The New Zealand Herald. Archived from the original on June 2, 2006. Retrieved 2007-01-10.
+^ Glenn, Edward P.; Brown, J. Jed; O'Leary, James W. (August 1998). "Irrigating Crops with Seawater" (PDF). Scientific American. 279 (August 1998): 76 81 [79]. Bibcode:1998SciAm.279b..76G. doi:10.1038/scientificamerican0898-76. Archived (PDF) from the original on 2015-09-06. Retrieved 2008-11-17.
+^ Casey, Tina (May 2010). "The Smell of Change is in the Air with Renewable Biodiesel from Sewage". Scientific American.
+^ "Biodiesel from Animal Fat". E85.whipnet.net. Archived from the original on 2021-01-23. Retrieved 2021-01-16.
+^ "Biodiesel produced from "tra", "basa" catfish oil". governmental site. Archived from the original on October 4, 2006. Retrieved 2008-05-25.
+^ "Demonstrating the value of a fishy biodiesel blend in Alaska's Aleutian Islands" (PDF). Biodiesel america. Archived from the original (PDF) on February 2, 2007. Retrieved 2008-05-25.
+^ "Enerfish integrated energy solutions for seafood processing stations". VTT, Finland/Enerfish Consortium. Archived from the original on 2009-10-22. Retrieved 2009-10-20.
+^ [2][dead link]
+^ "Purdue report ID-337" (PDF). purdue.edu. Archived from the original (PDF) on 1 March 2012. Retrieved 9 July 2017.
+^ "DOE quoted by Washington Post in "A Promising Oil Alternative: Algae Energy"". Washingtonpost.com. 2008-01-06. Archived from the original on 2011-05-14. Retrieved 2010-03-15.
+^ Strahan, David (13 August 2008). "Green Fuel for the Airline Industry". New Scientist. 199 (2669): 34 37. doi:10.1016/S0262-4079(08)62067-9. Archived from the original on 2021-07-31. Retrieved 2008-09-23.
+^ "India's jatropha plant biodiesel yield termed wildly exaggerated". Findarticles.com. 2003-08-18. Archived from the original on 2009-10-02. Retrieved 2010-03-15.
+^ "Jatropha for biodiesel". Reuk.co.uk. Archived from the original on 2009-09-04. Retrieved 2010-03-15.
+^ Weed's biofuel potential sparks African land grab, Washington Times, February 21, 2007, Karen Palmer
+^ "Looking Forward: Energy and the Economy" (PDF). Archived from the original (PDF) on 2006-03-10. Retrieved 2006-08-29.
+^ "Hands On: Power Pods   India". Archived from the original on 2012-04-26. Retrieved 2005-10-24.
+^ Wilcove, David S.; Koh, Lian Pin (2010). "Addressing the threats to biodiversity from oil-palm agriculture". Biodiversity and Conservation. 19 (4): 999 1007. doi:10.1007/s10531-009-9760-x. S2CID 10728423.
+^ "Palm Oil Based Biodiesel Has Higher Chances Of Survival". Archived from the original on 2007-09-29. Retrieved 2006-12-20.
+^ Evans, Ben (December 27, 2011). "National Biodiesel Board Statement on EPA Renewable Fuels Rule". Archived from the original on 2020-04-03. Retrieved 2012-04-10.
+^ a b Sheehan, John; Dunahay, Terri; Benemann, John; Roessler, Paul (July 1998). "A look back at the U.S. Department of Energy's Aquatic Species Program: Biodiesel from Algae" (PDF (3.7 Mb)). Close-out Report. United States Department of Energy. Archived (PDF) from the original on 2020-04-23. Retrieved 2007-01-02. {{cite journal}}: Cite journal requires |journal= (help)
+^ "Energy Security for the 21st Century". The White House. 2008-03-05. Archived from the original on 2019-09-14. Retrieved 2008-04-15.
+^ "International Biofuels Conference". HGCA. Archived from the original on 2008-12-11. Retrieved 2008-04-15.
+^ a b c Sorda, G.; Banse, M.; Kemfert, C. (2010). "An Overview of Biofuel Policies Across the World". Energy Policy. 38 (11): 6977 6988. doi:10.1016/j.enpol.2010.06.066.
+^ Dessureault, D., 2009. Canada Biofuels Annual. USDA Foreign Agricultural Service, GAIN Report Number CA9037, approved by U.S. Embassy, 30.06.2009
+^ Kuplow, D. Biofuels   At What Cost? Government support for ethanol and biodiesel in the United States. Cambridge, MA, 2007
+^ "Malaysia aims to fully implement B20 biodiesel mandate by year-end". Reuters. 2022-01-05. Retrieved 2022-01-05.
+^ 
+"Biodiesel   Just the Basics" (PDF). Final. United States Department of Energy. 2003. Archived from the original (PDF) on 2007-09-18. Retrieved 2007-08-24. {{cite journal}}: Cite journal requires |journal= (help)
+^ "Achievement   Biofuel: Shell backs out of indigenous territory   Rainforest Rescue". Archived from the original on 31 May 2015. Retrieved 30 May 2015.
+^ "End of the road for dirty biofuels". Greenpeace International. Archived from the original on 3 April 2020. Retrieved 30 May 2015.
+^ a b "Palm oil does not meet U.S. renewable fuels standard, rules EPA". Mongabay. 2012-01-27. Archived from the original on 2015-05-30. Retrieved 30 May 2015.
+^ "EPA: Palm oil flunks the climate test". TheHill. 2012-01-26. Archived from the original on 2013-06-05. Retrieved 30 May 2015.
+^ "Indonesia's biodiesel drive is leading to deforestation". BBC News. 8 December 2021.
+^ "Food vs fuel: Ukraine war sharpens debate on use of crops for energy". Financial Times. 12 June 2022.
+^ "Guest view: Global hunger fight means no biofuel". Reuters. 6 June 2022.
+^ "Cutting biofuels can help avoid global food shock from Ukraine war". New Scientist. 14 March 2022.
+^ "Biofuel demand makes fried food expensive in Indonesia   ABC News (Australian Broadcasting Corporation)". Abc.net.au. 2007-07-19. Archived from the original on 2011-03-20. Retrieved 2010-03-15.
+^ "Breaking News, World News & Multimedia". The New York Times. Archived from the original on 14 February 2008. Retrieved 9 July 2017.
+^ "Biodiesel Brings a Lot to the Table" (PDF). April 2008. Archived from the original (PDF) on 2012-02-12. Retrieved 30 May 2015.
+^ Swanepoel, Esmarie. "Food versus fuel debate escalates". Engineeringnews.co.za. Archived from the original on 2008-03-24. Retrieved 2010-03-15.
+^ Brown, Lester. "How Food and Fuel Compete for Land by Lester Brown   The Globalist > > Global Energy". The Globalist. Archived from the original on 2010-01-12. Retrieved 2010-03-15.
+^ "The End Of Cheap Food". The Economist. 2007-12-06. Archived from the original on 2018-08-26. Retrieved 2008-02-29.
+^ The Christian Science Monitor (2012-10-03). "Ghana's best shot at going green: sewage power". The Christian Science Monitor. Archived from the original on 2015-05-30. Retrieved 30 May 2015.
+^ "Mustard Hybrids for Low-Cost Biodiesel and Organic Pesticides" (PDF). Archived from the original (PDF) on 2011-07-26. Retrieved 2010-03-15.
+^ "PORT HUENEME, Calif: U.S. Navy to Produce its Own Biodiesel :: Future Energies :: The future of energy". Future Energies. 2003-10-30. Archived from the original on 2011-07-11. Retrieved 2009-10-17.
+^ "Newsvine   Ecofasa turns waste to biodiesel using bacteria". Lele.newsvine.com. 2008-10-18. Archived from the original on 2008-11-03. Retrieved 2009-10-17.
+^ "Microbes Produce Fuels Directly from Biomass". News Center. 2010-01-27. Archived from the original on 2014-02-17. Retrieved 30 May 2015.
+^ "Faculty & Research". Archived from the original on 26 October 2011. Retrieved 30 May 2015.
+^ Briggs, Michael (August 2004). "Widescale Biodiesel Production from Algae". UNH Biodiesel Group (University of New Hampshire). Archived from the original on March 24, 2006. Retrieved 2007-01-02.
+^ "Valcent Products Inc. Develops "Clean Green" Vertical Bio-Reactor". Valcent Products. Archived from the original on 2008-06-18. Retrieved 2008-07-09.
+^ 
+"Technology: High Yield Carbon Recycling". GreenFuel Technologies Corporation. Archived from the original on 2008-09-21. Retrieved 2015-06-14.
+^ R. E. Teixeira (2012). "Energy-efficient extraction of fuel and chemical feedstocks from algae". Green Chemistry. 14 (2): 419 427. doi:10.1039/C2GC16225C.
+^ "Pongamia Factsheet" (PDF). Archived (PDF) from the original on 2013-05-01. Retrieved 2013-10-02.
+^ B.N. Divakara; H.D. Upadhyaya; S.P. Wani; C.L. Laxmipathi Gowda (2010). "Biology and genetic improvement of Jatropha curcas L.: A review" (PDF). Applied Energy. 87 (3): 732 742. doi:10.1016/j.apenergy.2009.07.013. Archived (PDF) from the original on 2020-03-05. Retrieved 2019-07-05.
+^ "Jatropha blooms again: SG Biofuels secures 250K acres for hybrids". Biofuels Digest. 2011-05-16. Archived from the original on 2021-02-25. Retrieved 2012-03-08.
+^ "Jmax Hybrid Seeds". SG Biofuels. 2012-03-08. Archived from the original on 2011-12-18. Retrieved 2012-03-08.
+^ Plant Research International (2012-03-08). "JATROPT (Jatropha curcas): Applied and technical research into plant properties". Plant Research International. Archived from the original on 2017-06-28. Retrieved 2012-03-08.
+^ "Energy Farming Methods Mature, Improve". Biodiesel Magazine. 2011-04-11. Archived from the original on 2012-04-06. Retrieved 2012-03-08.
+^ "Argent biodiesel". Archived from the original on 2019-04-22. Retrieved 2019-07-31.
+^ Sergeeva, Y. E.; Galanina, L. A.; Andrianova, D. A.; Feofilova, E. P. (2008). "Lipids of filamentous fungi as a material for producing biodiesel fuel". Applied Biochemistry and Microbiology. 44 (5): 576 581. doi:10.1134/S0003683808050128. PMID 18822779. S2CID 12731382.
+^ Strobel, G.; Knighton, B.; Kluck, K.; Ren, Y.; Livinghouse, T.; Griffin, M.; Spakowicz, D.; Sears, J. (2008). "The production of myco-diesel hydrocarbons and their derivatives by the endophytic fungus Gliocladium roseum (NRRL 50072)" (PDF). Microbiology. 154 (Pt 11): 3319 3328. doi:10.1099/mic.0.2008/022186-0. PMID 18957585. Archived from the original on 2021-07-31. Retrieved 2018-04-20.
+^ Fountain, Henry (2008-12-15). "Diesel made Simply From Coffee Grounds". The New York Times. Archived from the original on 2008-12-17. Retrieved 2008-12-15.
+^ Irving, P. M.; Pickles, J. S. (2007). "Operational Requirements for a Multi-fuel Processor that Generates Hydrogen from Bio- and Petroleum-Based Fuels for Both SOFC and PEM Fuel Cells". ECS Transactions. 5 (1): 665 671. Bibcode:2007ECSTr...5a.665I. doi:10.1149/1.2729047. S2CID 137810875.
+^ Park, G.; Seo, D. J.; Park, S.; Yoon, Y.; Kim, C.; Yoon, W. (2004). "Development of microchannel methanol steam reformer". Chem. Eng. J. 101 (1 3): 87 92. doi:10.1016/j.cej.2004.01.007.
+^ Lee, Tim (7 June 2020). "Safflower oil hailed by scientists as possible recyclable, biodegradable replacement for petroleum". ABC News. Landline. Australian Broadcasting Corporation. Archived from the original on 7 June 2020. Retrieved 7 June 2020.
+^ a b Fazal, M. A.; Haseeb, A. S. M.A.; Masiuki (2011). "An evaluation of material compatibility; performance; emission and engine durability". Renewable and Sustainable Energy Reviews. 15: 1314 1324. doi:10.1016/j.rser.2010.10.004.
+^ Masjuki HH, Maleque MA. The effect of palm oil diesel fuel contaminated lubricant on sliding wear of cast irons against mild steel. Wear. 1996, 198, 293 9
+^ Clark, S.J.; Wagner, L.; Schrock, M.D.; Piennaar, P.G. Methyl and ethyl soybean esters as renewable fuels for diesel engines. JAOCS. 1984, 61, 1632 8
+^ a b Tat, M.E.; Van Gerpan, J.H. The Kinematic Viscosity of Biodiesel and its Blends with Diesel Fuel. JAOCS. 1999, 76, 1511 1513
+^ Altin, R.; Cetinkaya, S.; Yucesu, H.S. (2001). "The potential of using vegetable oil fuels as fuel for diesel engines". Energy Conversion and Management. 42 (5): 529 538. doi:10.1016/s0196-8904(00)00080-7.
+^ Schmidt, W. S. (2007). "Biodiesel: Cultivating Alternative Fuels". Environmental Health Perspectives. 115 (2): 87 91. doi:10.1289/ehp.115-a86. PMC 1817719. PMID 17384754.
+^ Knothe, G. Biodiesel and renewable diesel: A comparison. Process in energy and Combustion Science. 2010, 36, 364 373
+^ Altin, R.; Cetinkaya, S.; Yucesu, H.S. (2001). "Effect of Fatty Acid Profiles and Molecular Structures of Nine New Source of Biodiesel on Combustion and Emission". Energy Conversion and Management. 42 (5): 529 538. doi:10.1016/s0196-8904(00)00080-7.
+An Overview of Biodiesel and Petroleum Diesel Lifecycles, May 1998, Sheehan, et al. NREL (60pp pdf file)
+Business Management for Biodiesel Producers, January 2004, Jon Von Gerpen, Iowa State University under contract with the National Renewable Energy Laboratory (NREL) (210pp pdf file)
+Energy balances in the growth of oilseed rape for biodiesel and of wheat for bioethanol, June 2000, I.R. Richards
+Life Cycle Inventory of Biodiesel and Petroleum Diesel for Use in an Urban Bus, 1998, Sheehan, et al. NREL (314pp pdf file)
+Algae   like a breath mint for smokestacks, January 11, 2006, Mark Clayton, The Christian Science Monitor
+Tyson, R.L. "2006 Biodiesel Handling and Use Guide Third Edition" (PDF). Archived from the original (PDF) on 2006-12-16.
+Biodiesel's Bright Future from the July August issue of THE FUTURIST magazine.[data unknown/missing]
+External links[edit]
+Wikimedia Commons has media related to Biodiesel.
+Wikibooks has a book on the topic of: Do-It-Yourself
+Biodiesel at Curlie
+Benefits of Biodiesel
+European Biodiesel Board website   European Biodiesel Industry.
+Sustainable Biodiesel Alliance
+International Energy Agency: Biofuels for Transport   An International Perspective at the Wayback Machine (archived January 4, 2011)
+National Biodiesel Education Program, University of Idaho unbiased, science-based information on biodiesel for biodiesel producers and distributors, fleet operators, farmers and feedstock producers, policy makers, and consumers.
+Towards Sustainable Production and Use of Resources: Assessing Biofuels by the United Nations Environment Programme, October 2009.
+Biodiesel Articles on eXtension eXtension (pronounced "E-Extension") is a wiki for extension professors and agents across the United States. The Farm Energy section contains over 30 articles on biodiesel, from the basics to more technical information.
+Biodiesel Safety and Best Management Practices for Small-Scale Noncommercial Use and Production Archived 2014-02-11 at the Wayback Machine
+vteBioenergyBiofuels
+Alcohol fuel
+Algae fuel
+Bagasse
+Babassu oil
+Biobutanol
+Biodiesel
+Biogas
+Biogasoline
+Bioliquids
+Biomass
+Corn stover
+Ethanol
+cellulosic
+mixtures
+Methanol
+Stover
+Corn stover
+Straw
+Cooking oil
+Vegetable oil fuel
+Water hyacinth
+Wood gas
+Energy fromfoodstock
+Barley
+Cassava
+Coconut oil
+Grape
+Hemp
+Maize
+Oat
+Palm oil
+Potato
+Rapeseed
+Rice
+Sorghum bicolor
+Soybean
+Sugarcane
+Sugar beet
+Sunflower
+Wheat
+Yam
+Camelina sativa
+Non-foodenergy crops
+Arundo
+Big bluestem
+Camelina
+Chinese tallow
+Duckweed
+Jatropha curcas
+Millettia pinnata
+Miscanthus giganteus
+Switchgrass
+Salicornia
+Wood fuel
+Technology
+BECCS
+Bioconversion
+Biomass heating systems
+Biorefinery
+Fischer Tropsch process
+Industrial biotechnology
+Pellets
+mill
+stove
+Sabatier reaction
+Thermal depolymerization
+Concepts
+Agflation
+Cellulosic ethanol commercialization
+Energy content of biofuel
+Energy crop
+Energy forestry
+EROEI
+Food vs. fuel
+Issues
+Sustainable biofuel
+vteAlternative fuel vehiclesFuel cell
+Fuel cell vehicle
+Human power
+Electric bicycle
+Pedelec
+Solar power
+Solar vehicle
+Solar car
+List of prototypes
+Solar bus
+Electric aircraft
+Electric boat
+Compressed-air engine
+Compressed air car
+Compressed-air vehicle
+Tesla turbine
+Electric battery and motor
+Battery-electric locomotive
+Battery electric multiple unit
+Cater MetroTrolley
+Electric aircraft
+Electric bicycle
+Pedelec
+Electric boat
+Electric bus
+Battery electric bus
+Electric car
+List
+Electric truck
+Electric platform truck
+Electric vehicle
+Battery electric vehicle
+Electric motorcycles and scooters
+Electric kick scooter
+Fuel cell vehicle
+Gyro flywheel locomotive
+Hybrid electric vehicle
+Hybrid train
+Neighborhood Electric Vehicle
+Plug-in electric vehicle
+List
+Plug-in hybrid electric vehicle
+Solar vehicle
+Solar car
+Solar bus
+Biofuel ICE
+Alcohol fuel
+Biodiesel
+Biogas
+Butanol fuel
+Biogasoline
+Common ethanol fuel mixtures
+E85
+Ethanol fuel
+Flexible-fuel vehicle
+Methanol economy
+Methanol fuel
+Wood gas
+Hydrogen
+Fuel cell vehicle
+Hydrogen economy
+Hydrogen vehicle
+Hydrogen internal combustion engine vehicle
+Others
+Autogas
+Hybrid electric vehicle
+Liquid nitrogen vehicle
+Natural gas vehicle
+Propane
+Multiple-fuel
+Bi-fuel vehicle
+Flexible-fuel vehicle
+Hybrid electric vehicle
+Hybrid train
+Hybrid vehicle
+Multifuel
+Plug-in hybrid
+Solar vehicle
+Solar car
+Solar bus
+Electric aircraft
+Electric boat
+Documentaries
+Who Killed the Electric Car?
+What Is the Electric Car?
+Revenge of the Electric Car
+See also
+Wind-powered vehicle
+Zero-emissions vehicle
+vteCar designClassificationBy size
+Micro
+Kei
+Subcompact
+Supermini
+Family
+Compact
+Mid-size
+Full-size
+Custom
+Hot rod
+Lead sled
+Lowrider
+Street rod
+T-bucket
+Luxury
+Compact executive
+Executive
+Personal
+Minivan / MPV
+Compact
+Leisure
+Mini
+SUV
+Compact
+Crossover (CUV)
+Mini
+Coupe SUV
+Sports
+Grand tourer
+Hot hatch
+Muscle
+Pony
+Sport compact
+Super
+Go-kart
+Other
+Antique
+Classic
+Economy
+Ute
+Van
+Vintage car
+EU
+A-segment
+B-segment
+C-segment
+D-segment
+E-segment
+F-segment
+M-segment
+S-segment
+Body styles
+2+2
+Baquet
+Barchetta
+Berlinetta
+Brougham
+Cabrio coach
+Cab over
+Cabriolet / Convertible / Drophead coupe
+Coupe
+Coup  de Ville / Sedanca de Ville
+Coup  utility
+Fastback
+Hardtop
+Hatchback
+Kammback
+Landaulet
+Liftback
+Limousine
+Microvan
+Minibus
+Multi-stop truck
+Notchback
+Panel van
+Phaeton
+Pickup truck
+Quad coup 
+Retractable hardtop
+Roadster / Spider / Spyder
+Runabout
+Saloon / Sedan
+Sedan delivery/Panel van
+Shooting brake
+Station wagon
+Targa top
+Torpedo
+Touring
+Town (Coup  de Ville)
+T-top
+Vis- -vis
+Specialized vehicles
+All-terrain vehicle
+Amphibious
+Connected
+Driverless (autonomous)
+Go-kart
+Gyrocar
+Pedal car
+Personal rapid transit
+Police car
+Flying car
+Taxicab
+Tow truck
+Voiturette
+Propulsion
+Alternative fuel
+Autogas
+Biodiesel
+Biofuel
+Biogasoline
+Biogas
+Compressed natural gas
+Diesel
+Electric (battery
+NEV)
+Ethanol (E85)
+Fossil fuel
+Fuel cell
+Fuel gas
+Natural gas
+Gasoline / petrol (direct injection)
+Homogeneous charge compression ignition
+Hybrid (plug-in)
+Hydrogen
+Internal combustion
+Liquid nitrogen
+Liquified petroleum gas
+Steam
+Drive wheels
+Front-wheel
+Rear-wheel
+Two-wheel
+Four-wheel
+Six-wheel
+Eight-wheel
+Ten-wheel
+Twelve-wheel
+Engine position
+Front
+Mid
+Rear
+Layout (engine / drive)
+Front-front 
+ Front mid-front 
+ Rear-front 
+ Front-rear 
+ Rear mid-rear 
+ Rear-rear 
+ Front-four-wheel 
+ Mid-four-wheel 
+ Rear-four-wheel 
+ Dual motor-four-wheel 
+Engine configuration(internal combustion)
+Boxer
+Flat
+Four-stroke
+H-block
+Reciprocating
+Single-cylinder
+Straight
+Two-stroke
+V (Vee)
+W engine
+Wankel
+Portal
+Category
+Template:EC car classification
+Authority control: National 
+Germany
+Israel
+United States
+Japan
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Biodiesel&oldid=1149552886"

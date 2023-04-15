@@ -1,0 +1,660 @@
+Position of an organism in a food chain
+Not to be confused with Trophic level index.
+ First trophic level.  The plants in this image, and the algae and phytoplankton in the lake, are primary producers.  They take nutrients from the soil or the water, and manufacture their own food by photosynthesis, using energy from the sun.
+The trophic level of an organism is the position it occupies in a food web.  A food chain is a succession of organisms that eat other organisms and may, in turn, be eaten themselves. The trophic level of an organism is the number of steps it is from the start of the chain. A food web starts at trophic level 1 with primary producers such as plants, can move to herbivores at level 2, carnivores at level 3 or higher, and typically finish with apex predators at level 4 or 5.  The path along the chain can form either a one-way flow or a food "web".  Ecological communities with higher biodiversity form more complex trophic paths.
+The word trophic derives from the Greek   (troph ) referring to food or nourishment.[1]
+History[edit]
+The concept of trophic level was developed by Raymond Lindeman (1942), based on the terminology of August Thienemann (1926): "producers", "consumers", and "reducers" (modified to "decomposers" by Lindeman).[2][3]
+Overview[edit]
+ Consumer categories based on material eaten (plant: green shades are live, brown shades are dead; animal: red shades are live, purple shades are dead; or particulate: grey shades) and feeding strategy (gatherer: lighter shade of each color; miner: darker shade of each color)
+The three basic ways in which organisms get food are as producers, consumers, and decomposers.
+Producers (autotrophs) are typically plants or algae. Plants and algae do not usually eat other organisms, but pull nutrients from the soil or the ocean and manufacture their own food using photosynthesis. For this reason, they are called primary producers. In this way, it is energy from the sun that usually powers the base of the food chain.[4] An exception occurs in deep-sea hydrothermal ecosystems, where there is no sunlight. Here primary producers manufacture food through a process called chemosynthesis.[5]
+Consumers (heterotrophs) are species that cannot manufacture their own food and need to consume other organisms. Animals that eat primary producers (like plants) are called herbivores. Animals that eat other animals are called carnivores, and animals that eat both plants and other animals are called omnivores.
+Decomposers (detritivores) break down dead plant and animal material and wastes and release it again as energy and nutrients into the ecosystem for recycling. Decomposers, such as bacteria and fungi (mushrooms), feed on waste and dead matter, converting it into inorganic chemicals that can be recycled as mineral nutrients for plants to use again.
+Trophic levels can be represented by numbers, starting at level 1 with plants. Further trophic levels are numbered subsequently according to how far the organism is along the food chain.
+Level 1
+Plants and algae make their own food and are called producers.
+Level 2
+Herbivores eat plants and are called primary consumers.
+Level 3
+Carnivores that eat herbivores are called secondary consumers.
+Level 4
+Carnivores that eat other carnivores are called tertiary consumers.
+Apex predator
+By definition, healthy adult apex predators have no predators (with members of their own species a possible exception) and are at the highest numbered level of their food web.
+Second trophic levelRabbits eat plants at the first trophic level, so they are primary consumers.
+Third trophic levelFoxes eat rabbits at the second trophic level, so they are secondary consumers.
+Fourth trophic levelGolden eagles eat foxes at the third trophic level, so they are tertiary consumers.
+DecomposersThe fungi on this tree feed on dead matter, converting it back to nutrients that primary producers can use.
+In real-world ecosystems, there is more than one food chain for most organisms, since most organisms eat more than one kind of food or are eaten by more than one type of predator. A diagram that sets out the intricate network of intersecting and overlapping food chains for an ecosystem is called its food web.[6] Decomposers are often left off food webs, but if included, they mark the end of a food chain.[6] Thus food chains start with primary producers and end with decay and decomposers. Since decomposers recycle nutrients, leaving them so they can be reused by primary producers, they are sometimes regarded as occupying their own trophic level.[7][8]
+The trophic level of a species may vary if it has a choice of diet. Virtually all plants and phytoplankton are purely phototrophic and are at exactly level 1.0. Many worms are at around 2.1; insects 2.2; jellyfish 3.0; birds 3.6.[9] A 2013 study estimates the average trophic level of human beings at 2.21, similar to pigs or anchovies.[10] This is only an average, and plainly both modern and ancient human eating habits are complex and vary greatly. For example, a traditional Inuit living on a diet consisting primarily of seals would have a trophic level of nearly 5.[11]
+Biomass transfer efficiency[edit]
+ An energy pyramid illustrates how much energy is needed as it flows upward to support the next trophic level. Only about 10% of the energy transferred between each trophic level is converted to biomass.
+In general, each trophic level relates to the one below it by absorbing some of the energy it consumes, and in this way can be regarded as resting on, or supported by, the next lower trophic level. Food chains can be diagrammed to illustrate the amount of energy that moves from one feeding level to the next in a food chain. This is called an energy pyramid. The energy transferred between levels can also be thought of as approximating to a transfer in biomass, so energy pyramids can also be viewed as biomass pyramids, picturing the amount of biomass that results at higher levels from biomass consumed at lower levels. However, when primary producers grow rapidly and are consumed rapidly, the biomass at any one moment may be low; for example, phytoplankton (producer) biomass can be low compared to the zooplankton (consumer) biomass in the same area of ocean.[12]
+The efficiency with which energy or biomass is transferred from one trophic level to the next is called the ecological efficiency. Consumers at each level convert on average only about 10% of the chemical energy in their food to their own organic tissue (the ten-percent law). For this reason, food chains rarely extend for more than 5 or 6 levels. At the lowest trophic level (the bottom of the food chain), plants convert about 1% of the sunlight they receive into chemical energy. It follows from this that the total energy originally present in the incident sunlight that is finally embodied in a tertiary consumer is about 0.001%[7]
+Evolution[edit]
+Both the number of trophic levels and the complexity of relationships between them evolve as life diversifies through time, the exception being intermittent mass extinction events.[13]
+Fractional trophic levels[edit]
+ Killer whales (orca) are apex predators but they are divided into separate populations that hunt specific prey, such as tuna, small sharks, and seals.
+Food webs largely define ecosystems, and the trophic levels define the position of organisms within the webs. But these trophic levels are not always simple integers, because organisms often feed at more than one trophic level.[14][15] For example, some carnivores also eat plants, and some plants are carnivores. A large carnivore may eat both smaller carnivores and herbivores; the bobcat eats rabbits, but the mountain lion eats both bobcats and rabbits. Animals can also eat each other; the bullfrog eats crayfish and crayfish eat young bullfrogs. The feeding habits of a juvenile animal, and, as a consequence, its trophic level, can change as it grows up.
+The fisheries scientist Daniel Pauly sets the values of trophic levels to one in plants and detritus, two in herbivores and detritivores (primary consumers), three in secondary consumers, and so on. The definition of the trophic level, TL, for any consumer species is:[8]
+T
+L
+i
+=
+1
++
+ 
+j
+(
+T
+L
+j
+ 
+D
+C
+i
+j
+)
+{\displaystyle TL_{i}=1+\sum _{j}(TL_{j}\cdot DC_{ij})\!}
+where 
+T
+L
+j
+{\displaystyle TL_{j}}
+ is the fractional trophic level of the prey j, and 
+D
+C
+i
+j
+{\displaystyle DC_{ij}}
+ represents the fraction of j in the diet of i. That is, the consumer trophic level is one plus the weighted average of how much different trophic levels contribute to its food.
+In the case of marine ecosystems, the trophic level of most fish and other marine consumers takes a value between
+2.0 and 5.0. The upper value, 5.0, is unusual, even for large fish,[16] though it occurs in apex predators of marine mammals, such as polar bears and orcas.[17]
+In addition to observational studies of animal behavior, and quantification of animal stomach contents, trophic level can be quantified through stable isotope analysis of animal tissues such as muscle, skin, hair, bone collagen. This is because there is a consistent increase in the nitrogen isotopic composition at each trophic level caused by fractionations that occur with the synthesis of biomolecules; the magnitude of this increase in nitrogen isotopic composition is approximately 3 4 .[18][19]
+Mean trophic level[edit]
+ The mean trophic level of the world fisheries catch has steadily declined because many high trophic level fish, such as this tuna, have been overfished.
+In fisheries, the mean trophic level for the fisheries catch across an entire area or ecosystem is calculated for year y as:
+T
+L
+y
+=
+ 
+i
+(
+T
+L
+i
+ 
+Y
+i
+y
+)
+ 
+i
+Y
+i
+y
+{\displaystyle TL_{y}={\frac {\sum _{i}(TL_{i}\cdot Y_{iy})}{\sum _{i}Y_{iy}}}}
+where 
+Y
+i
+y
+{\displaystyle Y_{iy}}
+ is the annual catch of the species or group i in year y, and 
+ 
+T
+L
+i
+ 
+{\displaystyle \ TL_{i}\ }
+ is the trophic level for species i as defined above.[8]
+Fish at higher trophic levels usually have a higher economic value, which can result in overfishing at the higher trophic levels. Earlier reports found precipitous declines in mean trophic level of fisheries catch, in a process known as fishing down the food web.[20] However, more recent work finds no relation between economic value and trophic level;[21] and that mean trophic levels in catches, surveys and stock assessments have not in fact declined, suggesting that fishing down the food web is not a global phenomenon.[22] However Pauly et al. note that trophic levels peaked at 3.4 in 1970 in the northwest and west-central Atlantic, followed by a subsequent decline to 2.9 in 1994. They report a shift away from long-lived, piscivorous, high-trophic-level bottom fishes, such as cod and haddock, to short-lived, planktivorous, low-trophic-level invertebrates (e.g., shrimp) and small, pelagic fish (e.g., herring). This shift from high-trophic-level fishes to low-trophic-level invertebrates and fishes is a response to changes in the relative abundance of the preferred catch. They consider that this is part of the global fishery collapse,[17][23] which finds an echo in the overfished Mediterranean Sea[24]
+Humans have a mean trophic level of about 2.21, about the same as a pig or an anchovy.[25][26]
+FiB index[edit]
+Since biomass transfer efficiencies are only about 10%, it follows that the rate of biological production is much greater at lower trophic levels than it is at higher levels. Fisheries catch, at least, to begin with, will tend to increase as the trophic level declines. At this point the fisheries will target species lower in the food web.[23] In 2000, this led Pauly and others to construct a "Fisheries in Balance" index, usually called the FiB index.[27] The FiB index is defined, for any year y, by[8]
+F
+i
+B
+y
+=
+log
+ 
+Y
+y
+/
+(
+T
+E
+)
+T
+L
+y
+Y
+0
+/
+(
+T
+E
+)
+T
+L
+0
+{\displaystyle FiB_{y}=\log {\frac {Y_{y}/(TE)^{TL_{y}}}{Y_{0}/(TE)^{TL_{0}}}}}
+where 
+Y
+y
+{\displaystyle Y_{y}}
+ is the catch at year y, 
+T
+L
+y
+{\displaystyle TL_{y}}
+ is the mean trophic level of the catch at year y, 
+Y
+0
+{\displaystyle Y_{0}}
+ is the catch, 
+T
+L
+0
+{\displaystyle TL_{0}}
+ the mean trophic level of the catch at the start of the series being analyzed, and 
+T
+E
+{\displaystyle TE}
+ is the transfer efficiency of biomass or energy between trophic levels.
+The FiB index is stable (zero) over periods of time when changes in trophic levels are matched by appropriate changes in the catch in the opposite direction. The index increases if catches increase for any reason, e.g. higher fish biomass, or geographic expansion.[8] Such decreases explain the "backward-bending" plots of trophic level versus catch originally observed by Pauly and others in 1998.[23]
+Tritrophic and other interactions[edit]
+Further information: Tritrophic interactions in plant defense
+One aspect of trophic levels is called tritrophic interaction. Ecologists often restrict their research to two trophic levels as a way of simplifying the analysis; however, this can be misleading if tritrophic interactions (such as plant herbivore predator) are not easily understood by simply adding pairwise interactions (plant-herbivore plus herbivore predator, for example). Significant interactions can occur between the first trophic level (plant) and the third trophic level (a predator) in determining herbivore population growth, for example. Simple genetic changes may yield morphological variants in plants that then differ in their resistance to herbivores because of the effects of the plant architecture on enemies of the herbivore.[28] Plants can also develop defenses against herbivores such as chemical defenses.[29]
+See also[edit]
+Cascade effect
+Energy flow (ecology)
+Marine trophic level
+Mesopredator release hypothesis
+Trophic cascade
+Trophic state index   applied to lakes
+Trophic dynamics   Food web
+References[edit]
+^ "Trophic". Merriam-Webster Dictionary. Retrieved 16 April 2017   via www.merriam-webster.com.
+^ Lindeman, R.L. (1942). "The trophic-dynamic aspect of ecology" (PDF). Ecology. 23: 399 418. doi:10.2307/1930126. JSTOR 1930126. Archived from the original (PDF) on 29 March 2017.
+^ Heinemann, A. (1926). "Der Nahrungskreislauf im Wasser" [The aquatic food cycle]. Verh. Deutsch. Zool. Ges. (in German). 31: 29 79   via Google Books. "Also available in". Zool. Anz. Suppl. (in German). 2: 29 79.
+^ Butz, Stephen D. (2004). Science of Earth Systems (illustrated, reprint ed.). Delmar Learning. p. 537. ISBN 978-0-7668-3391-3.
+^ van Dover, Cindy (2000). The Ecology of Deep-sea Hydrothermal Vents. Princeton University Press. p. 399. ISBN 978-0-691-04929-8   via Google Books.
+^ a b 
+Lisowski, M.; Miaoulis, I.; Cyr, M.; Jones, L.C.; Padilla, M.J.; Wellnitz, T.R. (2004). Environmental Science. Prentice Hall Science Explorer. Pearson Prentice Hall. ISBN 978-0-13-115090-4.
+^ a b 
+American Heritage Science Dictionary. Houghton Mifflin Company. 2005.
+^ a b c d e 
+Pauly, D.; Palomares, M.L. (2005). "Fishing down marine food webs: It is far more pervasive than we thought" (PDF). Bulletin of Marine Science. 76 (2): 197 211. Archived from the original (PDF) on 14 May 2013.
+^ "Table 3.5". Biodiversity and Morphology. FishBase. Fish on line. August 2014. vers. 3.
+^ Yirka, Bob (3 December 2013). "Eating up the world's food web and the human trophic level". Proceedings of the National Academy of Sciences of the USA. 110 (51): 20617 20620. Bibcode:2013PNAS..11020617B. doi:10.1073/pnas.1305827110. PMC 3870703. PMID 24297882.
+Yirka, Bob (3 December 2013). "Researchers calculate human trophic level for first time". Phys.org (Press release).
+^ Campbell, Bernard Grant (1995). Human Ecology: The story of our place in nature from prehistory to the present. Evolutionary Foundations of Human Behavior (2nd ed.). Transaction Publishers. p. 12. ISBN 9780202366609   via Google Books.
+^ Behrenfeld, Michael J. (2014). "Climate-mediated dance of the plankton". Nature Climate Change. 4 (10): 880 887. Bibcode:2014NatCC...4..880B. doi:10.1038/nclimate2349.
+^ Sahney, S. & Benton, M.J. (2008). "Recovery from the most profound mass extinction of all time". Proceedings of the Royal Society B: Biological Sciences. 275 (1636): 759 65. doi:10.1098/rspb.2007.1370. PMC 2596898. PMID 18198148.
+^ Odum, W. E.; Heald, E. J. (1975) "The detritus-based food web of an estuarine mangrove community". Pages 265 286 in L. E. Cronin, ed. Estuarine research. Vol. 1. Academic Press, New York.
+^ Pimm, S. L.; Lawton, J. H. (1978). "On feeding on more than one trophic level". Nature. 275 (5680): 542 544. Bibcode:1978Natur.275..542P. doi:10.1038/275542a0. S2CID 4161183.
+^ 
+Cort s, E. (1999). "Standardized diet compositions and trophic levels of sharks". ICES Journal of Marine Science. 56 (5): 707 717. doi:10.1006/jmsc.1999.0489.
+^ a b 
+Pauly, D.; Trites, A.; Capuli, E.; Christensen, V. (1998). "Diet composition and trophic levels of marine mammals". ICES Journal of Marine Science. 55 (3): 467 481. doi:10.1006/jmsc.1997.0280.
+^ 
+Szpak, Paul; Orchard, Trevor J.; McKechnie, Iain; Gr cke, Darren R. (2012). "Historical ecology of late Holocene sea otters (Enhydra lutris) from northern British Columbia: Isotopic and zooarchaeological perspectives". Journal of Archaeological Science. 39 (5): 1553 1571. doi:10.1016/j.jas.2011.12.006.
+^ Gorlova, E. N.; Krylovich, O. A.; Tiunov, A. V.; Khasanov, B. F.; Vasyukov, D. D.; Savinetsk y, A. B. (March 2015). "Stable-Isotope Analysis as a Method of Taxonomical Identification of Archaeozoological Material". Archaeology, Ethnology and Anthropology of Eurasia. 43 (1): 110 121. doi:10.1016/j.aeae.2015.07.013.
+^ 
+Ecosystems and human well-being: Synthesis (PDF) (Report). Millennium Ecosystem Assessment. Island Press. 2005. pp. 32 33.
+^ 
+Sethi, S.A.; Branch, T.A.; Watson, R. (2010). "Global fishery development patterns are driven by profit but not trophic level". Proceedings of the National Academy of Sciences of the USA. 107 (27): 12163 12167. Bibcode:2010PNAS..10712163S. doi:10.1073/pnas.1003236107. PMC 2901455. PMID 20566867.
+^ 
+Branch, T.A.; Watson, Reg; Fulton, Elizabeth A.; Jennings, Simon; McGilliard, Carey R.; Pablico, Grace T.; Ricard, Daniel; Tracey, Sean R. (2010). "Trophic fingerprint of marine fisheries" (PDF). Nature. 468 (7322): 431 435. Bibcode:2010Natur.468..431B. doi:10.1038/nature09528. PMID 21085178. S2CID 4403636. Archived from the original (PDF) on 9 February 2014.
+^ a b c 
+Pauly, D.; Christensen, V.; Dalsgaard, J.; Froese, R.; Torres, F.C., Jr. (1998). "Fishing down marine food webs". Science. 279 (5352): 860 863. Bibcode:1998Sci...279..860P. doi:10.1126/science.279.5352.860. PMID 9452385. S2CID 272149.
+^ Fishing Down the Mediterranean Food Webs? Executive Summary. (2000). Briand, F. and K.I. Stergiou [1]
+^ "Researchers calculate human trophic level for first time". Phys.org (Press release). 3 December 2013.
+^ Bonhommeau, S.; Dubroca, L.; le Pape, O.; Barde, J.; Kaplan, D.M.; Chassot, E. & Nieblas, A.E. (2013). "Eating up the world's food web and the human trophic level". Proceedings of the National Academy of Sciences of the USA. 110 (51): 20617 20620. Bibcode:2013PNAS..11020617B. doi:10.1073/pnas.1305827110. PMC 3870703. PMID 24297882.
+^ 
+Pauly, D.; Christensen, V.; Walters, C. (2000). "Ecopath, ecosim, and ecospace as tools for evaluating ecosystem impact of fisheries". ICES Journal of Marine Science. 57 (3): 697 706. doi:10.1006/jmsc.2000.0726.
+^ 
+Kareiva, Peter; Sahakian, Robert (1990). "Tritrophic effects of a simple architectural mutation in pea plants". Letters to Nature. Nature. 35 (6274): 433 434. Bibcode:1990Natur.345..433K. doi:10.1038/345433a0. S2CID 40207145.
+^ Price, P. W. Price; Bouton, C. E.; Gross, P.; McPheron, B. A.; Thompson, J. N.; Weis, A. E. (1980). "Interactions Among Three Trophic Levels: Influence of Plants on Interactions Between Insect Herbivores and Natural Enemies". Annual Review of Ecology and Systematics. 11 (1): 41 65. doi:10.1146/annurev.es.11.110180.000353. S2CID 53137184.
+External links[edit]
+Trophic levels BBC. Last updated March 2004.
+vteEcology: Modelling ecosystems: Trophic componentsGeneral
+Abiotic component
+Abiotic stress
+Behaviour
+Biogeochemical cycle
+Biomass
+Biotic component
+Biotic stress
+Carrying capacity
+Competition
+Ecosystem
+Ecosystem ecology
+Ecosystem model
+Keystone species
+List of feeding behaviours
+Metabolic theory of ecology
+Productivity
+Resource
+Producers
+Autotrophs
+Chemosynthesis
+Chemotrophs
+Foundation species
+Mixotrophs
+Myco-heterotrophy
+Mycotroph
+Organotrophs
+Photoheterotrophs
+Photosynthesis
+Photosynthetic efficiency
+Phototrophs
+Primary nutritional groups
+Primary production
+Consumers
+Apex predator
+Bacterivore
+Carnivores
+Chemoorganotroph
+Foraging
+Generalist and specialist species
+Intraguild predation
+Herbivores
+Heterotroph
+Heterotrophic nutrition
+Insectivore
+Mesopredators
+Mesopredator release hypothesis
+Omnivores
+Optimal foraging theory
+Planktivore
+Predation
+Prey switching
+Decomposers
+Chemoorganoheterotrophy
+Decomposition
+Detritivores
+Detritus
+Microorganisms
+Archaea
+Bacteriophage
+Lithoautotroph
+Lithotrophy
+Marine microorganisms
+Microbial cooperation
+Microbial ecology
+Microbial food web
+Microbial intelligence
+Microbial loop
+Microbial mat
+Microbial metabolism
+Phage ecology
+Food webs
+Biomagnification
+Ecological efficiency
+Ecological pyramid
+Energy flow
+Food chain
+Trophic level
+Example webs
+Lakes
+Rivers
+Soil
+Tritrophic interactions in plant defense
+Marine food webs
+cold seeps
+hydrothermal vents
+intertidal
+kelp forests
+North Pacific Gyre
+San Francisco Estuary
+tide pool
+Processes
+Ascendency
+Bioaccumulation
+Cascade effect
+Climax community
+Competitive exclusion principle
+Consumer resource interactions
+Copiotrophs
+Dominance
+Ecological network
+Ecological succession
+Energy quality
+Energy Systems Language
+f-ratio
+Feed conversion ratio
+Feeding frenzy
+Mesotrophic soil
+Nutrient cycle
+Oligotroph
+Paradox of the plankton
+Trophic cascade
+Trophic mutualism
+Trophic state index
+Defense,counter
+Animal coloration
+Anti-predator adaptations
+Camouflage
+Deimatic behaviour
+Herbivore adaptations to plant defense
+Mimicry
+Plant defense against herbivory
+Predator avoidance in schooling fish
+vteEcology: Modelling ecosystems: Other componentsPopulationecology
+Abundance
+Allee effect
+Depensation
+Ecological yield
+Effective population size
+Intraspecific competition
+Logistic function
+Malthusian growth model
+Maximum sustainable yield
+Overpopulation
+Overexploitation
+Population cycle
+Population dynamics
+Population modeling
+Population size
+Predator prey (Lotka Volterra) equations
+Recruitment
+Small population size
+Stability
+Resilience
+Resistance
+Species
+Biodiversity
+Density-dependent inhibition
+Ecological effects of biodiversity
+Ecological extinction
+Endemic species
+Flagship species
+Gradient analysis
+Indicator species
+Introduced species
+Invasive species
+Latitudinal gradients in species diversity
+Minimum viable population
+Neutral theory
+Occupancy abundance relationship
+Population viability analysis
+Priority effect
+Rapoport's rule
+Relative abundance distribution
+Relative species abundance
+Species diversity
+Species homogeneity
+Species richness
+Species distribution
+Species area curve
+Umbrella species
+Speciesinteraction
+Antibiosis
+Biological interaction
+Commensalism
+Community ecology
+Ecological facilitation
+Interspecific competition
+Mutualism
+Parasitism
+Storage effect
+Symbiosis
+Spatialecology
+Biogeography
+Cross-boundary subsidy
+Ecocline
+Ecotone
+Ecotype
+Disturbance
+Edge effects
+Foster's rule
+Habitat fragmentation
+Ideal free distribution
+Intermediate disturbance hypothesis
+Insular biogeography
+Land change modeling
+Landscape ecology
+Landscape epidemiology
+Landscape limnology
+Metapopulation
+Patch dynamics
+r/K selection theory
+Resource selection function
+Source sink dynamics
+Niche
+Ecological niche
+Ecological trap
+Ecosystem engineer
+Environmental niche modelling
+Guild
+Habitat
+marine habitats
+Limiting similarity
+Niche apportionment models
+Niche construction
+Niche differentiation
+Ontogenetic niche shift
+Othernetworks
+Assembly rules
+Bateman's principle
+Bioluminescence
+Ecological collapse
+Ecological debt
+Ecological deficit
+Ecological energetics
+Ecological indicator
+Ecological threshold
+Ecosystem diversity
+Emergence
+Extinction debt
+Kleiber's law
+Liebig's law of the minimum
+Marginal value theorem
+Thorson's rule
+Xerosere
+Other
+Allometry
+Alternative stable state
+Balance of nature
+Biological data visualization
+Ecocline
+Ecological economics
+Ecological footprint
+Ecological forecasting
+Ecological humanities
+Ecological stoichiometry
+Ecopath
+Ecosystem based fisheries
+Endolith
+Evolutionary ecology
+Functional ecology
+Industrial ecology
+Macroecology
+Microecosystem
+Natural environment
+Regime shift
+Sexecology
+Systems ecology
+Urban ecology
+Theoretical ecology
+List of ecology topics
+vteAquatic ecosystemsAquatic ecosystems  general and freshwater componentsGeneral
+Acoustic ecology
+Adaptation
+Agent-based models
+Algal bloom
+Anoxic waters
+Aquatic animals (Insects
+Mammals)
+Aquatic plants
+Aquatic science
+Benthos
+Biodiversity research
+Bioluminescence
+Biomass
+Biomonitoring
+Cascade effect
+Colored dissolved organic matter
+Camouflage and mimicry
+Dead zone
+Ecohydrology
+Ecosystems
+Eutrophication
+Fisheries science
+Food chain
+Food web
+GIS and aquatic science
+Hydrobiology
+Hypoxia
+Isotope analysis
+Macrobenthos
+Meiobenthos
+Microbial ecology
+Microbial food web
+Microbial loop
+Nekton
+Neuston
+Particle
+Pelagic zone
+Photic zone
+Phytoplankton
+Plankton
+Pleuston
+Predation
+Productivity
+Ramsar Convention
+Respiration
+Schooling
+Sediment trap
+Siltation
+Spawning
+Substrate
+Thermal pollution
+Toxicology
+Trophic level
+Water column
+Zooplankton
+More...
+Freshwater
+Biology
+Biomes
+Ecosystems
+freshwater
+lake
+river
+Fish
+Hyporheic zone
+Limnology
+Lake stratification
+Macrophyte
+Pond
+Fish pond
+Rheotaxis
+Stream bed
+Stream pool
+Trophic state index
+Upland and lowland
+Water garden
+Wetland
+brackish marsh
+freshwater marsh
+swamp
+bog
+fen
+Environmental quality
+More...
+Ecoregions
+Freshwater (List)
+Marine (List)
+The Everglades
+Maharashtra
+The North Pacific Subtropical Gyre
+The San Francisco Estuary
+Aquatic ecosystems  marine componentsMarine
+Marine biology
+Marine chemistry
+Deep scattering layer
+Diel vertical migration
+Ecosystems
+large marine
+marine)
+f-ratio
+Food web
+Iron fertilization
+Marine snow
+Ocean nourishment
+Oceanic physical-biological process
+Primary production
+Ocean turbidity
+Photophore
+Thorson's rule
+Upwelling
+Viral shunt
+Whale fall
+More...
+Marinelife
+Bacteriophages
+Census
+Fish
+coastal
+coral reef
+deep sea
+demersal
+pelagic
+Deep sea communities
+Deep sea creature
+Deep-water coral
+Invertebrates
+Larvae
+Mammals
+Marine life
+Microorganisms
+Paradox of the plankton
+Prokaryotes
+Protists
+Reptiles
+Seabirds
+Seashore wildlife
+Vertebrates
+Viruses
+Wild fisheries
+Marinehabitats
+Coastal habitats
+Coastal biogeomorphology
+Bay mud
+Cold seeps
+Coral reefs
+Davidson Seamount
+Estuaries
+Intertidal ecology
+Intertidal wetlands
+Kelp forests
+Hydrothermal vents
+Lagoons
+Mangroves
+Marine biomes
+Mudflats
+Oyster reefs
+Rocky shores
+Salt marshes
+Salt pannes and pools
+Seagrass meadows
+Sponge grounds
+Sponge reefs
+Tide pools
+Issues
+Coral bleaching
+Ecological values of mangroves
+Fisheries and climate change
+HERMIONE
+Human impact on marine life
+Marine conservation
+Marine conservation activism
+Marine pollution
+Marine Protected Area
+ Oceans portal
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Trophic_level&oldid=1144990762"

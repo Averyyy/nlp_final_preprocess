@@ -1,0 +1,617 @@
+Product of an integer with itself
+This article includes a list of general references, but it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations. (February 2012) (Learn how and when to remove this template message)
+ Square number 16 as sum of gnomons.
+In mathematics, a square number or perfect square is an integer that is the square of an integer;[1] in other words, it is the product of some integer with itself. For example, 9 is a square number, since it equals 32 and can be written as 3 3.
+The usual notation for the square of a number n is not the product n n, but the equivalent exponentiation n2, usually pronounced as "n squared". The name square number comes from the name of the shape. The unit of area is defined as the area of a unit square (1 1). Hence, a square with side length n has area n2. If a square number is represented by n points, the points can be arranged in rows as a square each side of which has the same number of points as the square root of n; thus, square numbers are a type of figurate numbers (other examples being cube numbers and triangular numbers).
+Square numbers are non-negative. A non-negative integer is a square number when its square root is again an integer. For example, 
+9
+=
+3
+,
+{\displaystyle {\sqrt {9}}=3,}
+ so 9 is a square number.
+A positive integer that has no square divisors except 1 is called square-free.
+For a non-negative integer n, the nth square number is n2, with 02 = 0 being the zeroth one. The concept of square can be extended to some other number systems. If rational numbers are included, then a square is the ratio of two square integers, and, conversely, the ratio of two square integers is a square, for example, 
+4
+9
+=
+(
+2
+3
+)
+2
+{\displaystyle \textstyle {\frac {4}{9}}=\left({\frac {2}{3}}\right)^{2}}
+.
+Starting with 1, there are 
+ 
+m
+ 
+{\displaystyle \lfloor {\sqrt {m}}\rfloor }
+ square numbers up to and including m, where the expression 
+ 
+x
+ 
+{\displaystyle \lfloor x\rfloor }
+ represents the floor of the number x.
+Examples
+The squares (sequence A000290 in the OEIS) smaller than 602 = 3600 are:
+02 = 0
+12 = 1
+22 = 4
+32 = 9
+42 = 16
+52 = 25
+62 = 36
+72 = 49
+82 = 64
+92 = 81
+102 = 100
+112 = 121
+122 = 144
+132 = 169
+142 = 196
+152 = 225
+162 = 256
+172 = 289
+182 = 324
+192 = 361
+202 = 400
+212 = 441
+222 = 484
+232 = 529
+242 = 576
+252 = 625
+262 = 676
+272 = 729
+282 = 784
+292 = 841
+302 = 900
+312 = 961
+322 = 1024
+332 = 1089
+342 = 1156
+352 = 1225
+362 = 1296
+372 = 1369
+382 = 1444
+392 = 1521
+402 = 1600
+412 = 1681
+422 = 1764
+432 = 1849
+442 = 1936
+452 = 2025
+462 = 2116
+472 = 2209
+482 = 2304
+492 = 2401
+502 = 2500
+512 = 2601
+522 = 2704
+532 = 2809
+542 = 2916
+552 = 3025
+562 = 3136
+572 = 3249
+582 = 3364
+592 = 3481
+The difference between any perfect square and its predecessor is given by the identity n2   (n   1)2 = 2n   1. Equivalently, it is possible to count square numbers by adding together the last square, the last square's root, and the current root, that is, n2 = (n   1)2 + (n   1) + n.
+Properties
+The number m is a square number if and only if one can arrange m points in a square:
+m = 12 = 1
+m = 22 = 4
+m = 32 = 9
+m = 42 = 16
+m = 52 = 25
+The expression for the nth square number is n2. This is also equal to the sum of the first n odd numbers as can be seen in the above pictures, where a square results from the previous one by adding an odd number of points (shown in magenta). The formula follows:
+n
+2
+=
+ 
+k
+=
+1
+n
+(
+2
+k
+ 
+1
+)
+.
+{\displaystyle n^{2}=\sum _{k=1}^{n}(2k-1).}
+For example, 52 = 25 = 1 + 3 + 5 + 7 + 9.
+ The sum of the first n odd integers is n2. 1 + 3 + 5 + ... + (2n   1) = n2. Animated 3D visualization on a tetrahedron.
+There are several recursive methods for computing square numbers. For example, the nth square number can be computed from the previous square by n2 = (n   1)2 + (n   1) + n = (n   1)2 + (2n   1). Alternatively, the nth square number can be calculated from the previous two by doubling the (n 1)th square, subtracting the (n 2)th square number, and adding 2, because n2 = 2(n   1)2   (n   2)2 + 2. For example,
+2 52   42 + 2 = 2 25   16 + 2 = 50   16 + 2 = 36 = 62.
+The square minus one of a number m is always the product of 
+m
+ 
+1
+{\displaystyle m-1}
+ and 
+m
++
+1
+;
+{\displaystyle m+1;}
+ that is,
+m
+2
+ 
+1
+=
+(
+m
+ 
+1
+)
+(
+m
++
+1
+)
+.
+{\displaystyle m^{2}-1=(m-1)(m+1).}
+For example, since 
+7
+2
+=
+49
+,
+{\displaystyle 7^{2}=49,}
+ one has 
+6
+ 
+8
+=
+48.
+{\displaystyle 6\times 8=48.}
+ It follows that 3 is the only prime number one less than a square (3 = 22   1). More generally, the difference of the squares of two numbers is the product of their sum and their difference. That is, 
+a
+2
+ 
+b
+2
+=
+(
+a
++
+b
+)
+(
+a
+ 
+b
+)
+{\displaystyle a^{2}-b^{2}=(a+b)(a-b)}
+(this is the difference-of-squares formula). This can be useful for mental arithmetic: for example, 47   53 can be easily computed as 502   32 = 2500   9 = 2491.
+A square number is also the sum of two consecutive triangular numbers. The sum of two consecutive square numbers is a centered square number. Every odd square is also a centered octagonal number.
+Another property of a square number is that (except 0) it has an odd number of positive divisors, while other natural numbers have an even number of positive divisors. An integer root is the only divisor that pairs up with itself to yield the square number, while other divisors come in pairs.
+Lagrange's four-square theorem states that any positive integer can be written as the sum of four or fewer perfect squares. Three squares are not sufficient for numbers of the form 4k(8m + 7). A positive integer can be represented as a sum of two squares precisely if its prime factorization contains no odd powers of primes of the form 4k + 3. This is generalized by Waring's problem.
+In base 10, a square number can end only with digits 0, 1, 4, 5, 6 or 9, as follows:
+if the last digit of a number is 0, its square ends in 00;
+if the last digit of a number is 1 or 9, its square ends in an even digit followed by a 1;
+if the last digit of a number is 2 or 8, its square ends in an even digit followed by a 4;
+if the last digit of a number is 3 or 7, its square ends in an even digit followed by a 9;
+if the last digit of a number is 4 or 6, its square ends in an odd digit followed by a 6; and
+if the last digit of a number is 5, its square ends in 25.
+In base 12, a square number can end only with square digits (like in base 12, a prime number can end only with prime digits or 1), that is, 0, 1, 4 or 9, as follows:
+if a number is divisible both by 2 and by 3 (that is, divisible by 6), its square ends in 0, and its preceding digit must be 0 or 3;
+if a number is divisible neither by 2 nor by 3, its square ends in 1, and its preceding digit must be even;
+if a number is divisible by 2, but not by 3, its square ends in 4, and its preceding digit must be 0, 1, 4, 5, 8, or 9; and
+if a number is not divisible by 2, but by 3, its square ends in 9, and its preceding digit must be 0 or 6.
+Similar rules can be given for other bases, or for earlier digits (the tens instead of the units digit, for example).[citation needed]  All such rules can be proved by checking a fixed number of cases and using modular arithmetic.
+In general, if a prime p divides a square number m then the square of p must also divide m; if p fails to divide m/p, then m is definitely not square. Repeating the divisions of the previous sentence, one concludes that every prime must divide a given perfect square an even number of times (including possibly 0 times). Thus, the number m is a square number if and only if, in its canonical representation, all exponents are even.
+Squarity testing can be used as alternative way in factorization of large numbers. Instead of testing for divisibility, test for squarity: for given m and some number k, if k2   m is the square of an integer n then k   n divides m. (This is an application of the factorization of a difference of two squares.) For example, 1002   9991 is the square of 3, so consequently 100   3 divides 9991. This test is deterministic for odd divisors in the range from k   n to k + n where k covers some range of natural numbers 
+k
+ 
+m
+.
+{\displaystyle k\geq {\sqrt {m}}.}
+A square number cannot be a perfect number.
+The sum  of the n first square numbers is
+ 
+n
+=
+0
+N
+n
+2
+=
+0
+2
++
+1
+2
++
+2
+2
++
+3
+2
++
+4
+2
++
+ 
++
+N
+2
+=
+N
+(
+N
++
+1
+)
+(
+2
+N
++
+1
+)
+6
+.
+{\displaystyle \sum _{n=0}^{N}n^{2}=0^{2}+1^{2}+2^{2}+3^{2}+4^{2}+\cdots +N^{2}={\frac {N(N+1)(2N+1)}{6}}.}
+The first values of these sums, the square pyramidal numbers, are: (sequence A000330 in the OEIS)
+0, 1, 5, 14, 30, 55, 91, 140, 204, 285, 385, 506, 650, 819, 1015, 1240, 1496, 1785, 2109, 2470, 2870, 3311, 3795, 4324, 4900, 5525, 6201...
+ Proof without words for the sum of odd numbers theorem
+The sum of the first odd integers, beginning with one, is a perfect square: 1, 1 + 3, 1 + 3 + 5, 1 + 3 + 5 + 7, etc. This explains Galileo's law of odd numbers: if a body falling from rest covers one unit of distance in the first arbitrary time interval, it covers 3, 5, 7, etc., units of distance in subsequent time intervals of the same length. From s = ut + 1/2at2, for u = 0 and constant a (acceleration due to gravity without air resistance); so s is proportional to t2, and the distance from the starting point are consecutive squares for integer values of time elapsed.[2]
+The sum of the n first cubes is the square of the sum of the n first positive integers; this is Nicomachus's theorem.
+All fourth powers, sixth powers, eighth powers and so on are perfect squares.
+A unique relationship with triangular numbers 
+T
+n
+{\displaystyle T_{n}}
+ is:
+(
+T
+n
+)
+2
++
+(
+T
+n
++
+1
+)
+2
+=
+T
+(
+n
++
+1
+)
+2
+{\displaystyle (T_{n})^{2}+(T_{n+1})^{2}=T_{(n+1)^{2}}}
+Odd and even square numbers
+Squares of even numbers are even, and are divisible by 4, since (2n)2 = 4n2. Squares of odd numbers are odd, and are congruent to 1 modulo 8, since (2n + 1)2 = 4n(n + 1) + 1, and n(n + 1) is always even. In other words, all odd square numbers have a remainder of  1 when divided by 8.
+Every odd perfect square is a centered octagonal number. The difference between any two odd perfect squares is a multiple of 8. The difference between 1 and any higher odd perfect square always is eight times a triangular number, while the difference between 9 and any higher odd perfect square is eight times a triangular number minus eight. Since all triangular numbers have an odd factor, but no two values of 2n differ by an amount containing an odd factor, the only perfect square of the form 2n   1 is 1, and the only perfect square of the form 2n + 1 is 9.
+Special cases
+If the number is of the form m5 where m represents the preceding digits, its square is n25 where n = m(m + 1) and represents digits before 25. For example, the square of 65 can be calculated by n = 6   (6 + 1) = 42 which makes the square equal to 4225.
+If the number is of the form m0 where m represents the preceding digits, its square is n00 where n = m2. For example, the square of 70 is 4900.
+If the number has two digits and is of the form 5m where m represents the units digit, its square is aabb where aa = 25 + m and bb = m2. Example: To calculate the square of 57, 25 + 7 = 32 and 72 = 49, which means 572 = 3249.
+If the number ends in 5, its square will end in 5; similarly for ending in 25, 625, 0625, 90625, ... 8212890625, etc. If the number ends in 6, its square will end in 6, similarly for ending in 76, 376, 9376, 09376, ... 1787109376. For example, the square of 55376 is 3066501376, both ending in 376. (The numbers 5, 6, 25, 76, etc. are called automorphic numbers. They are sequence A003226 in the OEIS.[3])
+In base 10, the last two digits of square numbers follow a repeating pattern mirror symmetrical around multiples of 25, so for example, 242=576 and 262=676, and in general (25n+x)2-(25n-x)2=100nx. An analogous pattern applies for the last 3 digits around multiples of 250, and so on. As a consequence, of the 100 possible last 2 digits, only 22 of them occur among square numbers (since 00 and 25 are repeated).
+See also
+Brahmagupta Fibonacci identity  Expression of a product of sums of squares as a sum of squares
+Cubic number  Number raised to the third power
+Euler's four-square identity  Product of sums of four squares expressed as a sum of four squares
+Fermat's theorem on sums of two squares  Condition under which an odd prime is a sum of two squares
+Some identities involving several squares
+Integer square root  Greatest integer less than or equal to square root
+Methods of computing square roots  Algorithms for calculating square roots
+Power of two  Two raised to an integer power
+Pythagorean triple  Integer side lengths of a right triangle
+Quadratic residue  Integer that is a perfect square modulo some integer
+Quadratic function  Polynomial function of degree two
+Square triangular number  Integer that is both a perfect square and a triangular number
+Notes
+^ Some authors also call squares of rational numbers perfect squares.
+^ Olenick, Richard P.; Apostol, Tom M.; Goodstein, David L. (2008-01-14). The Mechanical Universe: Introduction to Mechanics and Heat. Cambridge University Press. p. 18. ISBN 978-0-521-71592-8.
+^ Sloane, N. J. A. (ed.). "Sequence A003226 (Automorphic numbers: n^2 ends with n.)". The On-Line Encyclopedia of Integer Sequences. OEIS Foundation.
+Further reading
+Conway, J. H. and Guy, R. K. The Book of Numbers. New York: Springer-Verlag, pp. 30 32, 1996. ISBN 0-387-97993-X
+Kiran Parulekar. Amazing Properties of Squares and Their Calculations. Kiran Anil Parulekar, 2012 https://books.google.com/books?id=njEtt7rfexEC
+vteFigurate numbers2-dimensionalcentered
+Centered triangular numbers
+Centered square numbers
+Centered pentagonal numbers
+Centered hexagonal numbers
+Centered heptagonal numbers
+Centered octagonal numbers
+Centered nonagonal numbers
+Centered decagonal numbers
+Star numbers
+non-centered
+Triangular numbers
+Square numbers
+Pentagonal numbers
+Hexagonal numbers
+Heptagonal numbers
+Octagonal numbers
+Nonagonal numbers
+Decagonal numbers
+Dodecagonal numbers
+3-dimensionalcentered
+Centered tetrahedral numbers
+Centered cube numbers
+Centered octahedral numbers
+Centered dodecahedral numbers
+Centered icosahedral numbers
+non-centered
+Cube numbers
+Octahedral numbers
+Dodecahedral numbers
+Icosahedral numbers
+Stella octangula numbers
+pyramidal
+Tetrahedral numbers
+Square pyramidal numbers
+4-dimensionalnon-centered
+Pentatope numbers
+Squared triangular numbers
+Tesseractic numbers
+Higher dimensionalnon-centered
+5-hypercube numbers
+6-hypercube numbers
+7-hypercube numbers
+8-hypercube numbers
+vteClasses of natural numbersPowers and related numbers
+Achilles
+Power of 2
+Power of 3
+Power of 10
+Square
+Cube
+Fourth power
+Fifth power
+Sixth power
+Seventh power
+Eighth power
+Perfect power
+Powerful
+Prime power
+Of the form a   2b   1
+Cullen
+Double Mersenne
+Fermat
+Mersenne
+Proth
+Thabit
+Woodall
+Other polynomial numbers
+Hilbert
+Idoneal
+Leyland
+Loeschian
+Lucky numbers of Euler
+Recursively defined numbers
+Fibonacci
+Jacobsthal
+Leonardo
+Lucas
+Padovan
+Pell
+Perrin
+Possessing a specific set of other numbers
+Amenable
+Congruent
+Kn del
+Riesel
+Sierpi ski
+Expressible via specific sums
+Nonhypotenuse
+Polite
+Practical
+Primary pseudoperfect
+Ulam
+Wolstenholme
+Figurate numbers2-dimensionalcentered
+Centered triangular
+Centered square
+Centered pentagonal
+Centered hexagonal
+Centered heptagonal
+Centered octagonal
+Centered nonagonal
+Centered decagonal
+Star
+non-centered
+Triangular
+Square
+Square triangular
+Pentagonal
+Hexagonal
+Heptagonal
+Octagonal
+Nonagonal
+Decagonal
+Dodecagonal
+3-dimensionalcentered
+Centered tetrahedral
+Centered cube
+Centered octahedral
+Centered dodecahedral
+Centered icosahedral
+non-centered
+Tetrahedral
+Cubic
+Octahedral
+Dodecahedral
+Icosahedral
+Stella octangula
+pyramidal
+Square pyramidal
+4-dimensionalnon-centered
+Pentatope
+Squared triangular
+Tesseractic
+Combinatorial numbers
+Bell
+Cake
+Catalan
+Dedekind
+Delannoy
+Euler
+Eulerian
+Fuss Catalan
+Lah
+Lazy caterer's sequence
+Lobb
+Motzkin
+Narayana
+Ordered Bell
+Schr der
+Schr der Hipparchus
+Stirling first
+Stirling second
+Wedderburn Etherington
+Primes
+Wieferich
+Wall Sun Sun
+Wolstenholme prime
+Wilson
+Pseudoprimes
+Carmichael number
+Catalan pseudoprime
+Elliptic pseudoprime
+Euler pseudoprime
+Euler Jacobi pseudoprime
+Fermat pseudoprime
+Frobenius pseudoprime
+Lucas pseudoprime
+Lucas Carmichael number
+Somer Lucas pseudoprime
+Strong pseudoprime
+Arithmetic functions and dynamicsDivisor functions
+Abundant
+Almost perfect
+Arithmetic
+Betrothed
+Colossally abundant
+Deficient
+Descartes
+Hemiperfect
+Highly abundant
+Highly composite
+Hyperperfect
+Multiply perfect
+Perfect
+Practical
+Primitive abundant
+Quasiperfect
+Refactorable
+Semiperfect
+Sublime
+Superabundant
+Superior highly composite
+Superperfect
+Prime omega functions
+Almost prime
+Semiprime
+Euler's totient function
+Highly cototient
+Highly totient
+Noncototient
+Nontotient
+Perfect totient
+Sparsely totient
+Aliquot sequences
+Amicable
+Perfect
+Sociable
+Untouchable
+Primorial
+Euclid
+Fortunate
+Other prime factor or divisor related numbers
+Blum
+Cyclic
+Erd s Nicolas
+Erd s Woods
+Friendly
+Giuga
+Harmonic divisor
+Jordan P lya
+Lucas Carmichael
+Pronic
+Regular
+Rough
+Smooth
+Sphenic
+St rmer
+Super-Poulet
+Zeisel
+Numeral system-dependent numbersArithmetic functions and dynamics
+Persistence
+Additive
+Multiplicative
+Digit sum
+Digit sum
+Digital root
+Self
+Sum-product
+Digit product
+Multiplicative digital root
+Sum-product
+Coding-related
+Meertens
+Other
+Dudeney
+Factorion
+Kaprekar
+Kaprekar's constant
+Keith
+Lychrel
+Narcissistic
+Perfect digit-to-digit invariant
+Perfect digital invariant
+Happy
+P-adic numbers-related
+Automorphic
+Trimorphic
+Digit-composition related
+Palindromic
+Pandigital
+Repdigit
+Repunit
+Self-descriptive
+Smarandache Wellin
+Undulating
+Digit-permutation related
+Cyclic
+Digit-reassembly
+Parasitic
+Primeval
+Transposable
+Divisor-related
+Equidigital
+Extravagant
+Frugal
+Harshad
+Polydivisible
+Smith
+Vampire
+Other
+Friedman
+Binary numbers
+Evil
+Odious
+Pernicious
+Generated via a sieve
+Lucky
+Prime
+Sorting related
+Pancake number
+Sorting number
+Natural language related
+Aronson's sequence
+Ban
+Graphemics related
+Strobogrammatic
+ Mathematics portal
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Square_number&oldid=1148754352"

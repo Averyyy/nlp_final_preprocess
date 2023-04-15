@@ -1,0 +1,312 @@
+Glass production involves two main methods   the float glass process that produces sheet glass, and glassblowing that produces bottles and other containers. It has been done in a variety of ways during the history of glass.
+Glass container production[edit]
+Broadly, modern glass container factories are three-part operations: the "batch house", the "hot end", and the "cold end". The batch house handles the raw materials; the hot end handles the manufacture proper the forehearth, forming machines, and annealing ovens; and the cold end handles the product-inspection and packaging equipment.
+Batch processing system (batch house)[edit]
+Batch processing is one of the initial steps of the glass-making process.  The batch house simply houses the raw materials in large silos (fed by truck or railcar), and holds anywhere from 1 5 days of material.  Some batch systems include material processing such as raw material screening/sieve, drying, or pre-heating (i.e. cullet).  Whether automated or manual, the batch house measures, assembles, mixes, and delivers the glass raw material recipe (batch) via an array of chutes, conveyors, and scales to the furnace.  The batch enters the furnace at the "dog house" or "batch charger".  Different glass types, colours, desired quality, raw material purity/availability, and furnace design will affect the batch recipe.
+Hot end[edit]
+The hot end of a glassworks is where the molten glass is manufactured into glass products. The batch enters the furnace, then passes to the forming process, internal treatment, and annealing.
+The following table lists common viscosity fixpoints, applicable to large-scale glass production and experimental glass melting in the laboratory:[1]
+log10( , Pa s)
+log10( , P)
+Description
+1
+2
+Melting point (glass melt homogenization and fining)
+3
+4
+Working point (pressing, blowing, gob forming)
+4
+5
+Flow point
+6.6
+7.6
+Littleton Softening point (glass deforms visibly under its own weight. Standard procedures ASTM C338, ISO 7884-3)
+8 10
+9 11
+Dilatometric softening Point, Td, depending on load[2]
+10.5
+11.5
+Deformation point (Glass deforms under its own weight on the  m-scale within a few hours.)
+11 12.3
+12 13.3
+Glass transition temperature, Tg
+12
+13
+Annealing point (Stress is relieved within several minutes.)
+13.5
+14.5
+Strain point (Stress is relieved within several hours.)
+Furnace[edit]
+ Batch feed doghouse of a glass furnace
+The batch is fed into the furnace at a slow, controlled rate by the batch processing system. The furnaces are natural gas- or fuel oil-fired, and operate at temperatures up to 1,575 C (2,867 F).[3] The temperature is limited only by the quality of the furnace s superstructure material and by the glass composition.  Types of furnaces used in container glass making include "end-port" (end-fired), "side-port", and "oxy-fuel".  Typically, furnace size is classified by metric tons per day (MTPD) production capability.
+Forming process[edit]
+There are currently two primary methods of making glass containers: the "blow and blow" method for narrow-neck containers only, and the "press and blow" method used for jars and tapered narrow-neck containers.
+In both methods, a stream of molten glass at its plastic temperature (1,050 1,200 C [1,920 2,190 F]) is cut with a shearing blade to form a solid cylinder of glass, called a "gob". The gob is of predetermined weight just sufficient to make a bottle. Both processes start with the gob falling, by gravity, and guided, through troughs and chutes, into the blank moulds, two halves of which are clamped shut and then sealed by the "baffle" from above.
+ Glass container forming
+In the "blow and blow" process,[4] the glass is first blown through a valve in the baffle, forcing it down into the three-piece "ring mould" which is held in the "neckring arm" below the blanks, to form the "finish". The term "finish" describes the details (such as cap sealing surface, screw threads, retaining rib for a tamper-proof cap, etc.) at the open end of the container. Then compressed air is blown through the glass, which results in a hollow and partly formed container. Compressed air is then blown again at the second stage to give final shape.
+Containers are made in two major stages. The first stage moulds all the details ("finish") around the opening, but the body of the container is initially made much smaller than its final size. These partly manufactured containers are called "parisons", and quite quickly, they are blow-molded into final shape.
+The "rings" are sealed from below by a short plunger.  After the "settleblow" finishes, the plunger retracts slightly, to allow the skin that's formed to soften. "Counterblow" air then comes up through the plunger, to create the parison. The baffle rises and the blanks open. The parison is inverted in an arc to the "mould side" by the "neckring arm", which holds the parison by the "finish".
+As the neckring arm reaches the end of its arc, two mould halves close around the parison. The neckring arm opens slightly to release its grip on the "finish", then reverts to the blank side. "Final blow", applied through the "blowhead", blows the glass out, expanding into the mould, to make the final container shape.
+ Steps during blow and blow container forming process
+In the press and blow process,[4] the parison is formed by a long metal plunger which rises up and presses the glass out, in order to fill the ring and blank moulds.[5] The process then continues as before, with the parison being transferred to the final-shape mould, and the glass being blown out into the mould.
+The container is then picked up from the mould by the "take-out" mechanism, and held over the "deadplate", where air cooling helps cool down the still-soft glass. Finally, the bottles are swept onto a conveyor by the "push out paddles" that have air pockets to keep the bottles standing  after landing on the "deadplate"; they're now ready for annealing.
+Forming machines[edit]
+The forming machines hold and move the parts that form the container. The machine consists of 19 basic mechanisms in operation to form a bottle and generally powered by compressed air (high pressure   3.2 bar and low pressure   2.8 bar), the mechanisms are electronically timed to coordinate all movements of the mechanisms. The most widely used forming machine arrangement is the individual section machine (or IS machine). This machine has a bank of 5 20 identical sections, each of which contains one complete set of mechanisms to make containers. The sections are in a row, and the gobs feed into each section via a moving chute, called the gob distributor. Sections make either one, two, three or four containers simultaneously (referred to as "single", "double", "triple" and "quad" gob). In the case of multiple gobs, the "shears" cut the gobs simultaneously, and they fall into the blank moulds in parallel.
+Forming machines are largely powered by compressed air and a typical glass works will have several large compressors (totaling 30k 60k cfm) to provide the necessary compressed air. However in recent times servo drives have been implemented in the machines which achieve a better digital control of the forming process. It is one step to initialize industries 2.0 in this branch.
+Furnaces, compressors, and forming machines generate large quantities of waste heat which are generally cooled by water. Hot glass which is not used in the forming machine is diverted and this diverted glass (called "cullet") is generally cooled by water, and sometimes even processed and crushed in a water bath arrangement. Often cooling requirements are shared over banks of cooling towers arranged to allow for backup during maintenance.
+Internal treatment[edit]
+After the forming process, some containers particularly those intended for alcoholic spirits undergo a  treatment to improve the chemical resistance of the inside, called "internal treatment" or dealkalization.  This is usually accomplished through the injection of a sulfur- or fluorine-containing gas mixture into bottles at high temperatures.  The gas is typically delivered to the container either in the air used in the forming process (that is, during the final blow of the container), or through a nozzle directing a stream of the gas into the mouth of the bottle after forming.  The treatment renders the container more resistant to alkali extraction, which can cause increases in product pH, and in some cases container degradation.
+Annealing[edit]
+As glass cools, it shrinks and solidifies. Uneven cooling may make glass more susceptible to fracture due to internal stresses: the surface cools first, then as the interior cools and contracts it creates tension.[6] Even cooling is achieved by annealing. An annealing oven (known in the industry as a lehr) heats the container to about 580 C (1,076 F), then cools it, depending on the glass thickness, over a 20   60 minute period.
+Cold end[edit]
+The role of the cold end of glass container production is to complete the final tasks in the manufacturing process: spray on a polyethylene coating for abrasion resistance and increased lubricity, inspect the containers for defects, label the containers, and  package the containers for shipment.
+Coatings[edit]
+Glass containers typically receive two surface coatings, one at the hot end, just before annealing and one at the cold end just after annealing. At the hot end a very thin layer  of tin(IV) oxide is applied either using a safe organic compound or inorganic stannic chloride. Tin based systems are not the only ones used, although the most popular. Titanium tetrachloride or organo titanates can also be used. In all cases the coating renders the surface of the glass more adhesive to the cold end coating. At the cold end a layer of typically, polyethylene wax, is applied via a water based emulsion. This makes the glass slippery, protecting it from scratching and stopping containers from sticking together when they are moved on a conveyor. The resultant invisible combined coating gives a virtually unscratchable surface to the glass. Due to reduction of in-service surface damage, the coatings often are described as strengtheners, however a more correct definition might be strength-retaining coatings.
+Inspection equipment[edit]
+Glass containers are 100% inspected; automatic machines, or sometimes persons, inspect every container for a variety of faults. Typical faults include small cracks in the glass called "checks" and foreign inclusions called "stones" which are pieces of the refractory brick lining of the melting furnace that break off and fall into the pool of molten glass, or more commonly oversized silica granules (sand) that have failed to melt and which subsequently are included in the final product.  These are especially important to select out due to the fact that they can impart a destructive element to the final glass product.  For example, since these materials can withstand large amounts of thermal energy, they can cause the glass product to sustain thermal shock resulting in explosive destruction when heated. Other defects include bubbles in the glass called "blisters" and excessively thin walls. Another defect common in glass manufacturing is referred to as a "tear".  In the "press and blow" forming, if a plunger and mould are out of alignment, or heated to an incorrect temperature, the glass will stick to either item and become torn.  In addition to rejecting faulty containers, inspection equipment gathers statistical information and relays it to the forming machine operators in the hot end. Computer systems collect fault information and trace it to the mould that produced the container. This is done by reading the mould number on the container, which is encoded (as a numeral, or a binary code of dots) on the container by the mould that made it. Operators carry out a range of checks manually on samples of containers, usually visual and dimensional checks.
+Secondary processing[edit]
+Sometimes container factories will offer services such as "labelling". Several labelling technologies are available. Unique to glass is the Applied Ceramic Labelling process (ACL). This is screen-printing of the decoration onto the container with a vitreous enamel paint, which is then baked on. An example of this is the original Coca-Cola bottle.
+Packaging[edit]
+Glass containers are packaged in various ways. Popular in Europe are bulk pallets with between 1000 and 4000 containers each. This is carried out by automatic machines (palletisers) which arrange and stack containers separated by layer sheets. Other possibilities include boxes and even hand-sewn sacks. Once packed, the new "stock units" are labelled, warehoused, and ultimately shipped.
+Marketing[edit]
+Glass container manufacture in the developed world is a mature market business. World demand for flat glass was approximately 52 million tonnes in 2009.[7] The United States, Europe and China account for 75% of demand, with China's consumption having increased from 20% in the early 1990s to 50%.[7] Glass container manufacture is also a geographical business; the product is heavy and large in volume, and the major raw materials (sand, soda ash and limestone) are generally readily available. Therefore production facilities need to be located close to their markets. A typical glass furnace holds hundreds of tonnes of molten glass, and so it is simply not practical to shut it down every night, or in fact in any period short of a month. Factories therefore run 24 hours a day 7 days a week. This means that there is little opportunity to either increase or decrease production rates by more than a few percent. New furnaces and forming machines cost tens of millions of dollars and require at least 18 months of planning. Given this fact, and the fact that there are usually more products than machine lines, products are sold from stock. The marketing/production challenge is therefore to predict demand both in the short 4- to 12-week term and over the 24- to 48-month-long term. Factories are generally sized to service the requirements of a city; in developed countries there is usually a factory per 1 2 million people. A typical factory will produce 1 3 million containers a day.
+Despite its positioning as a mature market product, glass does enjoy a high level of consumer acceptance and is perceived as a "premium" quality packaging format.
+Lifecycle impact[edit]
+Glass containers are wholly recyclable and the glass industries in many countries have a policy, sometimes required by government regulations, of maintaining a high price on cullet to ensure high return rates. Return rates of 95% are not uncommon in the Nordic countries (Sweden, Norway, Denmark and Finland).  Return rates of less than 50% are usual in other countries.[citation needed]
+Of course glass containers can also be reused, and in developing countries this is common, however the environmental impact of washing containers as against remelting them is uncertain. Factors to consider here are the chemicals and fresh water used in the washing, and the fact that a single-use container can be made much lighter, using less than half the glass (and therefore energy content) of a multiuse container. Also, a significant factor in the developed world's consideration of reuse are producer concerns over the risk and consequential product liability of using a component (the reused container) of unknown and unqualified safety.
+How glass containers compare to other packaging types (plastic, cardboard, aluminium) is hard to say; conclusive lifecycle studies are yet to be produced.
+Float glass process[edit]
+Main article: Float glass
+ Use of float glass at Crystal Palace railway station, London
+Float glass is a sheet of glass made by floating molten glass on a bed of molten metal, typically tin, although lead and various low melting point alloys were used in the past. This method gives the sheet uniform thickness and very flat surfaces. Modern windows are made from float glass. Most float glass is soda lime glass, but relatively minor quantities of special borosilicate[8] and flat panel display glass are also produced using the float glass process.[9] The float glass process is also known as the Pilkington process,[10] named after the British glass manufacturer Pilkington, who pioneered the technique (invented by Sir Alastair Pilkington) in the 1950s.
+Environmental impacts[edit]
+Local impacts[edit]
+As with all highly concentrated industries, glassworks suffer from moderately high local environmental impacts. Compounding this is that because they are mature market businesses, they often have been located on the same site for a long time and this has resulted in residential encroachment.  The main impacts on residential housing and cities are noise, fresh water use, water pollution, NOx and SOx air pollution, and dust.
+Noise is created by the forming machines. Operated by compressed air, they can produce noise levels of up to 106dBA. How this noise is carried into the local neighborhood depends heavily on the layout of the factory. Another factor in noise production is truck movements. A typical factory will process 600 T of material a day. This means that some 600 T of raw material has to come onto the site and the same off the site again as finished product.
+Water is used to cool the furnace, compressor and unused molten glass. Water use in factories varies widely; it can be as little as one tonne water used per melted tonne of glass. Of the one tonne, roughly half is evaporated to provide cooling, the rest forms a wastewater stream.
+Most factories use water containing an emulsified oil to cool and lubricate the gob cutting shear blades. This oil-laden water mixes with the water outflow stream, thus polluting it. Factories usually have some kind of water processing equipment that removes this emulsified oil to various degrees of effectiveness.
+Nitrogen oxides are a natural product of the burning of gas in air and are produced in large quantities by gas-fired furnaces. Some factories in cities with particular air pollution problems will mitigate this by using liquid oxygen, however the logic of this given the cost in carbon of (1) not using regenerators and (2) having to liquefy and transport oxygen is highly questionable.  Sulfur oxides are produced as a result of the glass melting process. Manipulating the batch formula can effect some limited mitigation of this; alternatively exhaust plume scrubbing can be used.[6]
+The raw materials for glass-making are all dusty material and are delivered either as a powder or as a fine-grained material. Systems for controlling dusty materials tend to be difficult to maintain, and given the large amounts of material moved each day, only a small amount has to escape for there to be a dust problem. Cullet (broken or waste glass) is also moved about in a glass factory and tends to produce fine glass particles when shovelled or broken.
+See also[edit]
+Mirrors
+Blow moulding
+Borosilicate glass
+Boston round (bottle)
+Drinkware
+Float glass
+Glass disease
+History of glass
+Irving Wightman Colburn
+Packaging and labelling
+Wine bottle
+Cage cup
+References[edit]
+^ Werner Vogel: "Glass Chemistry"; Springer-Verlag Berlin and Heidelberg GmbH & Co. K; 2nd revised edition (November 1994), ISBN 3-540-57572-3
+^ The dilatometric softening point is not identical with the deformation point as sometimes presumed. For reference see experimental data for Td and viscosity in: High temperature glass melt property database for process modeling; Eds.: Thomas P. Seward III and Terese Vascott; The American Ceramic Society, Westerville, Ohio, 2005, ISBN 1-57498-225-7
+^ B. H. W. S. de Jong, "Glass"; in "Ullmann's Encyclopedia of Industrial Chemistry"; 5th edition, vol. A12, VCH Publishers, Weinheim, Germany, 1989, ISBN 3-527-20112-2, pp. 365 432.
+^ a b "The Blow and Blow Method". Eurotherm. Retrieved 2013-05-20.
+^ "Glass-Forming Machine". Farlex. Retrieved 2013-05-20.
+^ a b Varshneya, Arun (1994). Fundamentals of Inorganic Glasses. San Diego, CA: Harcourt Brace & Company. p. 518. ISBN 0-12-714970-8.
+^ a b zbindendesign
+^ "Schott Borofloat". Archived from the original on 2009-05-05. Retrieved 2011-03-26.
+^ Not all flat panel display glass is produced by the float glass process. The company Corning is using the overflow downdraw technique, while Schott uses the float glass technique (see Schott website Archived 2008-02-01 at the Wayback Machine).
+^ Benvenuto, Mark Anthony (2015-02-24). Industrial Chemistry: For Advanced Students. Walter de Gruyter GmbH & Co KG. ISBN 9783110351705.
+External links[edit]
+Wikimedia Commons has media related to Glassmaking.
+vteGlass production techniquesCommercialtechniques
+Float glass process
+Fritted glass
+Blowing and pressing (containers)
+Extrusion / Drawing (glass fibers)
+Glass wool
+Drawing (optical fibers)
+Precision glass moulding
+Overflow downdraw method
+Pressing
+Casting
+Flame polishing
+Chemical polishing
+Diamond turning
+Rolling
+Artistic andhistoric techniques
+ ina-k ri
+Art glass
+Glass art
+Beadmaking
+Blowing
+Blown plate
+Broad sheet
+Caneworking
+Cased glass
+Crown glass
+Cut glass
+Cylinder blown sheet
+Engraving
+Etching
+Enamelled glass
+Flashed glass
+Forest glass
+Fourcault process
+Fusing
+Glass mosaic
+Glassware
+Lampworking
+Machine drawn cylinder sheet
+Millefiori
+Mirror
+Polished plate
+Porous glass
+Rippled glass
+Satsuma Kiriko cut glass
+Slumping
+Stained glass
+Studio glass
+Tempered glass
+Natural processes
+Radiative processes
+Opal formation
+Sea glass
+Shock metamorphic glass/Impactite
+Vitrified sand
+Volcanic glass
+Related
+Glossary of glass art terms
+Glass recycling
+vteGlass makers and brandsCurrent companies
+Anchor Hocking
+Arc International
+Ardagh Group
+Asahi
+Aurora Glass Foundry
+Baccarat
+Barovier & Toso
+Berengo Studio
+Blenko Glass
+Bodum
+Bormioli Rocco
+Borosil
+Caithness Glass
+Corning
+Crystalex
+Dartington Crystal
+Daum
+Duralex
+Fanavid
+Fenton Art Glass Company
+Firozabad glass industry
+Franz Mayer
+Fuyao
+Glava
+Glaverbel
+Guardian Industries
+Hadeland
+Hardman & Co.
+Holmegaard Glassworks
+Holophane
+Hoya
+Kingdom of Crystal
+Kokomo Opalescent Glass Works
+Kosta Glasbruk
+Libbey
+Liuli Gongfang
+Iittala
+Luoyang
+Johns Manville
+Mannok
+Mats Jonasson M ler s
+Moser Glass
+Mosser Glass
+Nippon Sheet Glass
+Ni bor glassworks
+O-I Glass
+Ohara
+Orrefors
+Osram
+Owens Corning
+Pauly & C. - Compagnia Venezia Murano
+Phu Phong
+Pilkington
+PPG Industries
+Preciosa
+Riedel
+Rona
+Royal Brierley
+Saint-Gobain
+Saint-Louis
+Seguso
+Schott
+Sterlite Optical Technologies
+Steuben
+Swarovski
+Val Saint Lambert
+Vall rysthal
+Waterford
+Watts & Co.
+World Kitchen
+Xinyi Glass
+Zwiesel
+Defunct companies
+List of defunct glassmaking companies
+Glassmakers
+John Adams
+Richard M. Atwater
+Frederick Carder
+Irving Wightman Colburn
+Henry Crimmel
+Friedrich
+A. H. Heisey
+Edward D. Libbey
+Dante Marioni
+Antonio Neri
+Michael Joseph Owens
+Alastair Pilkington
+Flavio Poli
+Salviati
+Otto Schott
+Henry William Stiegel
+S. Donald Stookey
+Lino Tagliapietra
+W. E. S. Turner
+Tomasz Urbanowicz
+Paolo Venini
+John M. Whitall
+Trademarks and brands
+Activ
+Bohemian
+Bomex/Duran/Endural
+Burmese
+Chevron bead
+Corelle
+CorningWare
+Cranberry
+Cristallo
+Dragontrail
+Favrile
+Fire-King
+Forest
+Gorilla
+Macor
+Millefiori
+Murano
+Opaline
+Peking
+Pyrex
+Rona
+Ravenhead
+Satsuma Kiriko
+Tiffany
+Visions
+Vitrite
+Vitrolite
+Vycor
+Waterford
+Wood's
+Zerodur
+Authority control: National 
+France
+BnF data
+Germany
+Israel
+United States
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Glass_production&oldid=1148285847"

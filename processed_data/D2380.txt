@@ -1,0 +1,50 @@
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article uses bare URLs, which are uninformative and vulnerable to link rot. Please consider converting them to full citations to ensure the article remains verifiable and maintains a consistent citation style. Several templates and tools are available to assist in formatting, such as Reflinks (documentation), reFill (documentation) and Citation bot (documentation). (August 2022) (Learn how and when to remove this template message)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Memory card reader" news  newspapers  books  scholar  JSTOR (November 2013) (Learn how and when to remove this template message)
+ (Learn how and when to remove this template message)
+ Typical modern memory card reader, compatible with many common formats
+ USB-C UHS-II SD card reader
+Lightning to SD Card Camera Reader
+A memory card reader is a device for accessing the data on a memory card such as a CompactFlash (CF), Secure Digital (SD) or MultiMediaCard (MMC). Most card readers also offer write capability, and together with the card, this can function as a pen drive.
+Some printers and Smartphones have a built-in card reader, as do most personal computers and the majority of Tablet computers.
+A multi card reader is used for communication with more than one type of flash memory card.  Multi card readers do not have built-in memory capacity, but are able to accept multiple types and styles of memory cards.
+Memory card readers, unlike smartphones, telephones and other devices, such as cameras and digital cameras, allow formatting in a file system other than FAT (FAT16, FAT32, exFAT) to NTFS in Windows, ext, ext2, ext3 in Linux or HFS, HFS + for Mac OS. Smartphones or other devices like cameras format them only in FAT. Internal card readers are usually connected to internal USB 1.1 / 2.0 / 3.x ports
+The number of compatible memory cards varies from reader to reader and can include more than 20 different types. The number of different memory cards that a multi card reader can accept is expressed as x-in-1, with x being a figure of merit indicating the number of memory cards accepted, such as 35-in-1. There are three categories of card readers sorted by the type and quantity of the card slots: single card reader (e.g. 1x SD-only), multi card reader (e.g. 9-in-1) and series card reader (e.g. 4x SD-only).
+Some kinds of memory cards with their own USB functions do not need the card reader, such as the Intelligent Stick memory card, which can plug directly into a USB slot.
+The USB device class used is 0x08.
+Modern UDMA-7 CompactFlash Cards and UHS-I Secure Digital cards provide data rates in excess of 89 MB/s and up to 145 MB/s,[1] when used with memory card readers capable of USB 3.0 data transfer rates.[2] As of 2011, Secure Digital memory cards received an additional option of a UHS-II bus interface. It increased the maximum data transfer speed to 312 MB/s.[3]
+USB card readers like this one typically implement the USB mass storage device class
+Generic CompactFlash card reader with high-speed storage via USB2.0
+Cardreader combined with floppy disk drive
+PCIe 1x eSATAp controller card with CompactFlash memory card reader
+See also[edit]
+Wikimedia Commons has media related to Memory card readers.
+Card reader
+References[edit]
+^ "UDMA-7/UHS-1 Media Card Study | pietrzyk.us". Archived from the original on 2017-02-11. Retrieved 2013-11-24.
+^ "USB 3.0 CF Card Reader Study | pietrzyk.us". Archived from the original on 2016-12-29. Retrieved 2013-11-24.
+^ https://tenpire.com/beginners-guide-to-choosing-microsd-and-sd-memory-cards/
+vteMemory cardsMain articles
+Memory card reader
+Comparison of memory cards
+SD Card and MultiMediaCard family comparison
+Types
+CompactFlash (CF, CFast)
+CFexpress
+Express Card
+JEIDA
+MultiMediaCard (MMC)
+Memory Stick (MS, MS-PRO, MS-PRO HG, MS-XC)
+miCard
+Microdrive (MD)
+MiniCard
+NT Card
+P2 (MicroP2)
+PC Card (PCMCIA, CardBus, CardBay)
+Secure Digital (SDSC, SDHC, SDXC)
+SmartMedia (SM)
+SxS
+Universal Flash Storage (UFS)
+xD-Picture
+XQD
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Memory_card_reader&oldid=1146948489"

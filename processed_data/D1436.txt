@@ -1,0 +1,196 @@
+One of the seven units of measurement that define the Metric System
+ The seven SI base units   Symbol Name Base quantity   s second time   m metre length   kg kilogram mass   A ampere electric current   K kelvin thermodynamic temperature   mol mole amount of substance   cd candela luminous intensity  
+The SI base units  are the standard units of measurement defined by the International System of Units (SI) for the seven base quantities of what is now known as the International System of Quantities: they are notably a basic set from which all other SI units can be derived. The units and their physical quantities are the second for time, the metre (sometimes spelled meter) for length or distance, the kilogram for mass, the ampere for electric current, the kelvin for thermodynamic temperature, the mole for amount of substance, and the candela for luminous intensity. The SI base units are a fundamental part of modern metrology, and thus part of the foundation of modern science and technology.
+The SI base units form a set of mutually independent dimensions as required by dimensional analysis commonly employed in science and technology.[citation needed]
+The names and symbols of SI base units are written in lowercase, except the symbols of those named after a person, which are written with an initial capital letter.  For example, the metre has the symbol m, but the kelvin has symbol K, because it is named after Lord Kelvin and the ampere with symbol A is named after Andr -Marie Amp re.
+A number of other units, such as the litre, astronomical unit, and electronvolt, are not formally part of the SI, but are accepted for use with SI.
+Definitions[edit]
+On 20 May 2019, as the final act of the 2019 redefinition of the SI base units, the BIPM officially introduced the following new definitions, replacing the preceding definitions of the SI base units.
+SI base units
+Name
+Symbol
+Measure
+Post-2019 formal definition[1]
+Historical origin / justification
+Dimensionsymbol
+second
+s
+time
+"The second, symbol s, is the SI unit of time. It is defined by taking the fixed numerical value of the caesium frequency,  Cs, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9192631770 when expressed in the unit Hz, which is equal to s 1."[1]
+The day is divided into 24 hours, each hour divided into 60 minutes, each minute divided into 60 seconds.A second is 1 / (24   60   60) of the day. Historically, a day was defined as the mean solar day; i.e., the average time between two successive occurrences of local apparent solar noon.
+T
+metre
+m
+length
+"The metre, symbol m, is the SI unit of length. It is defined by taking the fixed numerical value of the speed of light in vacuum c to be 299792458 when expressed in the unit m s 1, where the second is defined in terms of  Cs."[1]
+1 / 10000000 of the distance from the Earth's equator to the North Pole measured on the meridian arc through Paris.
+L
+kilogram
+kg
+mass
+"The kilogram, symbol kg, is the SI unit of mass. It is defined by taking the fixed numerical value of the Planck constant h to be 6.62607015 10 34 when expressed in the unit J s, which is equal to kg m2 s 1, where the metre and the second are defined in terms of c and  Cs."[1]
+The mass of one litre of water at the temperature of melting ice. A litre is one thousandth of a cubic metre.
+M
+ampere
+A
+electric current
+"The ampere, symbol A, is the SI unit of electric current. It is defined by taking the fixed numerical value of the elementary charge e to be 1.602176634 10 19 when expressed in the unit C, which is equal to A s, where the second is defined in terms of  Cs."[1]
+The original "International Ampere" was defined electrochemically as the current required to deposit 1.118 milligrams of silver per second from a solution of silver nitrate.
+I
+kelvin
+K
+thermodynamic temperature
+"The kelvin, symbol K, is the SI unit of thermodynamic temperature. It is defined by taking the fixed numerical value of the Boltzmann constant k to be 1.380649 10 23 when expressed in the unit J K 1, which is equal to kg m2 s 2 K 1, where the kilogram, metre and second are defined in terms of h, c and  Cs."[1]
+The Celsius scale: the Kelvin scale uses the degree Celsius for its unit increment, but is a thermodynamic scale (0 K is absolute zero).
+ 
+mole
+mol
+amount of substance
+"The mole, symbol mol, is the SI unit of amount of substance. One mole contains exactly 6.022 140 76   1023 elementary entities. This number is the fixed numerical value of the Avogadro constant, NA, when expressed in the unit mol 1 and is called the Avogadro number.
+The amount of substance, symbol n, of a system is a measure  of  the number of specified elementary entities. An elementary entity may be an atom, a molecule, an ion, an electron, any other particle or specified group of particles."[1]
+Atomic weight or molecular weight divided by the molar mass constant, 1 g/mol.
+N
+candela
+cd
+luminous intensity
+"The candela, symbol cd, is the SI unit of luminous intensity in a given direction. It is defined by taking the fixed numerical value of the luminous efficacy of monochromatic radiation of frequency 540 1012 Hz, Kcd, to be 683 when expressed in the unit lm W 1, which is equal to cd sr W 1, or cd sr kg 1 m 2 s3, where the kilogram, metre and second are defined in terms of h, c and  Cs."[1]
+The candlepower, which is based on the light emitted from a burning candle of standard properties.
+J
+2019 redefinition of the SI base units[edit]
+Main article: 2019 redefinition of the SI base units
+ New SI: Dependence of base unit definitions on physical constants with fixed numerical values and on other base units that are derived from the same set of constants. Arrows are shown in the opposite direction compared to typical dependency graphs, i.e. 
+a
+ 
+b
+{\displaystyle a\rightarrow b}
+ in this chart means 
+b
+{\displaystyle b}
+ depends on 
+a
+{\displaystyle a}
+.
+ The SI system after 1983, but before the 2019 redefinition: Dependence of base unit definitions on other base units (for example, the metre is defined as the distance travelled by light in a specific fraction of a second), with the constants of nature and artefacts used to define them (such as the mass of the IPK for the kilogram).
+New base unit definitions were adopted on 16 November 2018, and they became effective on 20 May 2019. The definitions of the base units have been modified several times since the Metre Convention in 1875, and new additions of base units have occurred. Since the redefinition of the metre in 1960, the kilogram had been the only base unit still defined directly in terms of a physical artefact, rather than a property of nature. This led to a number of the other SI base units being defined indirectly in terms of the mass of the same artefact; the mole, the ampere, and the candela were linked through their definitions to the mass of the International Prototype of the Kilogram, a roughly golfball-sized platinum iridium cylinder stored in a vault near Paris.
+It has long been an objective in metrology to define the kilogram in terms of a fundamental constant, in the same way that the metre is now defined in terms of the speed of light. The 21st General Conference on Weights and Measures (CGPM, 1999) placed these efforts on an official footing, and recommended "that national laboratories continue their efforts to refine experiments that link the unit of mass to fundamental or atomic constants with a view to a future redefinition of the kilogram". Two possibilities attracted particular attention: the Planck constant and the Avogadro constant.
+In 2005, the International Committee for Weights and Measures (CIPM) approved preparation of new definitions for the kilogram, the ampere, and the kelvin and it noted the possibility of a new definition of the mole based on the Avogadro constant.[2] The 23rd CGPM (2007) decided to postpone any formal change until the next General Conference in 2011.[3][needs update]
+In a note to the CIPM in October 2009,[4] Ian Mills, the President of the CIPM Consultative Committee   Units (CCU) catalogued the uncertainties of the fundamental constants of physics according to the current definitions and their values under the proposed new definition.  He urged the CIPM to accept the proposed changes in the definition of the kilogram, ampere, kelvin, and mole so that they are referenced to the values of the fundamental constants, namely the Planck constant (h), the electron charge (e), the Boltzmann constant (k), and the Avogadro constant (NA).[5] This approach was approved in 2018, only after measurements of these constants were achieved with sufficient accuracy.
+See also[edit]
+International vocabulary of metrology
+International System of Quantities
+Non-SI units mentioned in the SI
+Metric prefix
+Physical constant
+References[edit]
+^ a b c d e f g h "The International System of Units (SI), 9th Edition" (PDF). Bureau International des Poids et Mesures. 2019.
+^ 94th Meeting of the International Committee for Weights and Measures (2005). Recommendation 1: Preparative steps towards new definitions of the kilogram, the ampere, the kelvin and the mole in terms of fundamental constants Archived 7 August 2011 at the Wayback Machine
+^ 23rd General Conference on Weights and Measures (2007). Resolution 12: On the possible redefinition of certain base units of the International System of Units (SI).
+^ Ian Mills, President of the CCU (October 2009). "Thoughts about the timing of the change from the Current SI to the New SI" (PDF). CIPM. Retrieved 23 February 2010.
+^ Ian Mills (29 September 2010). "Draft Chapter 2 for SI Brochure, following redefinitions of the base units" (PDF). CCU. Retrieved 1 January 2011.
+External links[edit]
+International Bureau of Weights and Measures
+National Physical Laboratory
+NIST -SI
+vteSI unitsBase units
+ampere
+candela
+kelvin
+kilogram
+metre
+mole
+second
+Derived units with special names
+becquerel
+coulomb
+degree Celsius
+farad
+gray
+henry
+hertz
+joule
+katal
+lumen
+lux
+newton
+ohm
+pascal
+radian
+siemens
+sievert
+steradian
+tesla
+volt
+watt
+weber
+Other accepted units
+astronomical unit
+dalton
+day
+decibel
+degree of arc
+electronvolt
+hectare
+hour
+litre
+minute
+minute and second of arc
+neper
+tonne
+See also
+Conversion of units
+Metric prefixes
+2005 2019 definition
+2019 redefinition
+Systems of measurement
+ Category
+vteSI base quantitiesBase quantities
+Quantity
+SI unit
+Name
+Symbol
+Dimensionsymbol
+Unitname
+Unitsymbol
+time, duration
+t
+T
+second
+s
+length
+l, x, r, etc.
+L
+metre
+m
+mass
+m
+M
+kilogram
+kg
+electric current
+ I , i
+ I 
+ampere
+A
+thermodynamic temperature
+T
+ 
+kelvin
+K
+amount of substance
+n
+N
+mole
+mol
+luminous intensity
+Iv
+J
+candela
+cd
+See also
+History of the metric system
+International System of Quantities
+2019 redefinition
+Systems of measurement
+ Category
+Outline
+Retrieved from "https://en.wikipedia.org/w/index.php?title=SI_base_unit&oldid=1145496896"

@@ -1,0 +1,27 @@
+This article relies largely or entirely on a single source. Relevant discussion may be found on the talk page. Please help improve this article by introducing  citations to additional sources.Find sources: "Logical unit number" news  newspapers  books  scholar  JSTOR (March 2016)
+In computer storage, a logical unit number, or LUN, is a number used to identify a logical unit, which is a device addressed by the SCSI protocol or by Storage Area Network protocols that encapsulate SCSI, such as Fibre Channel or iSCSI.[1]
+A LUN may be used with any device which supports read/write operations, such as a tape drive, but is most often used to refer to a logical disk as created on a SAN.  Though not technically correct, the term "LUN" is often also used to refer to the logical disk itself.[2]
+Examples[edit]
+To provide a practical example, a typical multi-disk drive has multiple physical SCSI ports, each with one SCSI target address assigned. An administrator may format the disk array as a RAID and then partition this RAID into several separate storage-volumes. To represent each volume, a SCSI target is configured to provide a logical unit. Each SCSI target may provide multiple logical units and thus represent multiple volumes, but this does not mean that those volumes are concatenated.  The computer that accesses a volume on the disk array identifies which volume to read or write with the LUN of the associated logical unit.
+In another example: a single disk-drive has one physical SCSI port. It usually provides just a single target, which in turn usually provides just a single logical unit whose LUN is zero. This logical unit represents the entire storage of the disk drive.
+Use[edit]
+How to select a LUN: In the early versions of SCSI, an initiator delivers a Command Descriptor Block (CDB) to a target (physical unit) and within the CDB is a 3-bit LUN field to identify the logical unit within the target.  In current SCSI, the initiator delivers the CDB to a particular  logical unit, so the LUN appears in the transport layer data structures and not in the CDB.
+LUN vs. SCSI Device ID: The LUN is not the only way to identify a logical unit.  There is also the SCSI Device ID, which identifies a logical unit uniquely in the world.  Labels or serial numbers stored in a logical unit's storage volume often serve to identify the logical unit.  However, the LUN is the only way for an initiator to address a command to a particular logical unit, so initiators often create, via a discovery process, a mapping table of LUN to other identifiers.
+Context sensitive: The LUN identifies a logical unit only within the context of a particular initiator.  So two computers that access the same disk volume may know it by different LUNs.
+LUN 0: There is one LUN which is required to exist in every target: zero.  The logical unit with LUN zero is special in that it must implement a few specific commands, most notably Report LUNs, which is how an initiator can find out all the other LUNs in the target.  But LUN zero need not provide any other services, such as a storage volume.
+Many SCSI targets contain only one logical unit (so its LUN is necessarily zero).  Others have a small number of logical units that correspond to separate physical devices and have fixed LUNs.  A large storage system may have up to thousands of logical units, defined logically, by administrative command, and the administrator may choose the LUN or the system may choose it.
+c_t_d_s_ nomenclature in Unix[edit]
+From the computer perspective, SCSI LUN is only a part of the full SCSI address. The full device's address is made from the:
+c-part: controller ID of the host bus adapter,
+t-part: target ID identifying the SCSI target on that controller,
+d-part: disk ID identifying a LUN on that target,
+s-part: slice ID identifying a specific partition on that disk.[1]
+In the Unix family of operating systems, these IDs are often combined into a single "name".  For example, /dev/dsk/c1t2d3s4 would refer to controller 1, target 2, disk 3, slice 4.  Presently Solaris, HP-UX, NCR, and others continue to use "c_t_d_s_" nomenclature, while AIX has abandoned it in favor of more familiar names. HP-UX refers to this as the Legacy Naming Model since version 11i v3.
+Other uses[edit]
+The term logical unit number also applies to an input/output access channel within certain programming languages.
+See also[edit]
+LUN masking
+References[edit]
+^ a b "What is a Logical Unit Number (LUN)?". Techopedia. Retrieved 2016-03-30.
+^ James Long (2006). Storage Networking Protocol Fundamentals. Cisco Press. p. 111. ISBN 9781587051609.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Logical_unit_number&oldid=994757950"

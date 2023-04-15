@@ -1,0 +1,420 @@
+Vehicle safety device
+This article is about a car safety device. For other uses, see Airbag (disambiguation).
+ The driver and passenger front airbag modules, after having been deployed, in a Peugeot 306
+An airbag is a vehicle occupant-restraint system using a bag designed to inflate extremely quickly, then quickly deflate during a collision. It consists of the airbag cushion, a flexible fabric bag, an inflation module, and an impact sensor. The purpose of the airbag is to provide a vehicle occupant with soft cushioning and restraint during a collision. It can reduce injuries between the flailing occupant and the interior of the vehicle.
+The airbag provides an energy-absorbing surface between the vehicle's occupants and a steering wheel, instrument panel, body pillar, headliner, and windshield, for example. Modern vehicles may contain up to 10 airbag modules in various configurations, including: driver, passenger, side-curtain, seat-mounted, door-mounted, B and C-pillar mounted side-impact, knee bolster, inflatable seat belt, and pedestrian airbag modules.
+During a crash, the vehicle's crash sensors provide crucial information to the airbag electronic controller unit (ECU), including collision type, angle, and severity of impact. Using this information, the airbag ECU's crash algorithm determines if the crash event meets the criteria for deployment and triggers various firing circuits to deploy one or more airbag modules within the vehicle. Working as a supplemental restraint system to the vehicle's seat-belt systems, airbag module deployments are triggered through a pyrotechnic process that is designed to be used once. Newer side-impact airbag modules consist of compressed-air cylinders that are triggered in the event of a side-on vehicle impact.[1]
+The first commercial designs were introduced in passenger automobiles during the 1970s, with limited success, and actually caused some fatalities.[2] Broad commercial adoption of airbags occurred in many markets during the late 1980s and early 1990s. Many modern vehicles now include six or more units.[3]
+Active vs. passive safety[edit]
+Airbags are considered "passive" restraints and act as a supplement to "active" restraints. Because no action by a vehicle occupant is required to activate or use the airbag, it is considered a "passive" device. This is in contrast to seat belts, which are considered "active" devices because the vehicle occupant must act to enable them.[4][5][6][7]
+This terminology is not related to active and passive safety, which are, respectively, systems designed to prevent collisions in the first place, and systems designed to minimize the effects of collisions once they occur. In this use, a car antilock braking system qualifies as an active-safety device, while both its seatbelts and airbags qualify as passive-safety devices. Further terminological confusion can arise from the fact that passive devices and systems those requiring no input or action by the vehicle occupant can operate independently in an active manner; an airbag is one such device. Vehicle safety professionals are generally careful in their use of language to avoid this sort of confusion, though advertising principles sometimes prevent such semantic caution in the consumer marketing of safety features. Further confusing the terminology, the aviation safety community uses the terms "active" and "passive" in the opposite sense from the automotive industry.[8]
+History[edit]
+ Blue plaque commemorating Round and Parrott's patent, at Birmingham Dental Hospital
+ John W. Hetrick's 1953 safety cushion patent drawing[9]
+ 1975 Buick Electra with ACRS
+ A deployed curtain airbag in a Opel Vectra
+Origins[edit]
+The airbag "for the covering of aeroplane and other vehicle parts" traces its origins to a United States patent, submitted in 1919 by two dentists from Birmingham, Arthur Parrott & Harold Round[10] and approved in 1920.[11] Air-filled bladders were in use as early as 1951.[12][13] The airbag specifically for automobile use is credited independently to the American John W. Hetrick, who filed for an airbag patent on 5 August 1952, that was granted #2,649,311 by the United States Patent Office on 18 August 1953.[14][15][16] German engineer Walter Linderer, who filed German patent #896,312 on 6 October 1951, was issued on 12 November 1953, approximately three months after American John Hetrick. Hetrick and Linderer's airbags were both based on a compressed air system, either released by spring, bumper contact, or by the driver. Later research during the 1960s showed that compressed air could not inflate the mechanical airbags fast enough to ensure maximum safety, leading to the current chemical and electrical airbags.[17][18] In patent applications, manufacturers sometimes use the term "inflatable occupant restraint systems".
+Hetrick was an industrial engineer and member of the United States Navy. His airbag design, however, only came about when he combined his experiences working with navy torpedoes with his desire to protect his family on the road. Despite working with the major automobile manufacturers of his time, Hetrick was unable to attract investment.[19][20] Although airbags are now required in every automobile sold in the United States, Hetrick's 1951 patent filing serves as an example of a "valuable" invention with little economic value to its inventor. Its first commercial use was not implemented until after the patent expired in 1971, at which point the airbag was installed in a few experimental Ford cars.[21]
+In 1964, a Japanese automobile engineer, Yasuzaburou Kobori ( ), started developing an airbag "safety net" system. His design harnessed an explosive to inflate an airbag, for which he was later awarded patents in 14 countries. He died in 1975, before seeing the widespread adoption of airbag systems.[22][23][24]
+In 1967, a breakthrough in the development of airbag crash sensors came when Allen K. Breed invented a ball-in-tube mechanism for crash detection. Under his system, an electromechanical sensor with a steel ball attached to a tube by a magnet would inflate an airbag in under 30 milliseconds.[25] A small explosion of sodium azide was used instead of compressed air during inflation for the first time.[18] Breed Corporation then marketed this innovation to Chrysler. A similar "Auto-Ceptor" crash-restraint, developed by the Eaton, Yale & Towne company for Ford, was soon also offered as an automatic safety system in the United States,[26][27] while the Italian Eaton-Livia company offered a variant with localized[further explanation needed] air cushions.[28]
+In the early 1970s, General Motors began offering cars equipped with airbags, initially in government fleet-purchased, 1973 Chevrolet Impala sedans. These cars came with a 1974-style Oldsmobile instrument panel and a special steering wheel that contained the driver-side airbag. Two of these cars were crash tested after 20 years and the airbags deployed perfectly.[29] An early example of the air-bag cars survives as of 2009.[30] GM's Oldsmobile Toronado was the first domestic U.S. vehicle to include a passenger airbag in 1973.[31] General Motors marketed its first airbag modules under the "Air Cushion Restraint System" name, or ACRS. The automaker discontinued the option for its 1977 model year, citing a lack of consumer interest. Ford and GM then spent years lobbying against air-bag requirements, claiming that the devices were unfeasible and inappropriate. Chrysler made driver-side airbags standard on 1988 and 1989 models, but airbags did not become widespread in American cars until the early 1990s.[32]
+As a substitute to seat belts[edit]
+Airbags for passenger cars were introduced in the United States in the 1970s. When seat-belt usage rates in the country were quite low compared to modern-day, Ford built experimental cars with airbags in 1971. Allstate operated a fleet of 200 Mercury Montereys and showed the reliability of airbags as well as their operation in crash testing, which also was promoted by the insurance company in popular magazine advertisements.[33] General Motors followed in 1973 using full-sized Chevrolet vehicles. The early fleet of experimental GM vehicles equipped with airbags experienced seven fatalities, one of which was later suspected to have been caused by the airbag.[34]
+In 1974, GM made its ACRS system (which consisted of a padded lower dashboard and a passenger-side air bag) available as a regular production option (RPO code AR3) in full-sized Cadillac,[35] Buick and Oldsmobile models. The GM cars from the 1970s equipped with ACRS had a driver-side airbag, a driver-side knee restraint,.[36] The passenger-side airbag protected both front passengers,[36] and unlike most modern systems, integrated a knee and torso cushion while also having a dual-stage deployment dictated by force of the impact. The cars equipped with ACRS had lap belts for all seating positions, but lacked shoulder belts. Shoulder belts were already mandatory in the United States on closed cars without airbags for the driver and outer front passenger, but GM chose to market its airbags as a substitute for shoulder belts. Prices for this option on Cadillac models were US$225 in 1974, $300 in 1975, and $340 in 1976 (US$1,619 in 2021 dollars [37]).
+The early development of airbags coincided with international interest in automobile safety legislation. Some safety experts advocated a performance-based occupant-protection standard rather than one mandating a particular technical solution (which could rapidly become outdated and prove to not be a cost-effective approach). Less emphasis was placed on other designs as countries successfully mandated seatbelt restrictions, however.[28]
+As a supplemental restraint system[edit]
+Frontal airbag[edit]
+Three photos of a crash test dummy whose head lands right into the airbag
+The auto industry and research and regulatory communities have moved away from their initial view of the airbag as a seat-belt replacement, and the bags are now nominally designated as supplemental restraint systems (SRS) or supplemental inflatable restraints.
+In 1981, Mercedes-Benz introduced the airbag in West Germany as an option on its flagship saloon model, S-Class (W126). In the Mercedes system, the sensors automatically tensioned the seat belts to reduce occupants' motion on impact and then deployed the airbag on impact. This integrated the seat belts and the airbag into a restraint system, rather than the airbag being considered an alternative to the seat belt.
+In 1987, the Porsche 944 Turbo became the first car to have driver and passenger airbags as standard equipment.[38] The Porsche 944 and 944S had this as an available option. The same year also had the first airbag in a Japanese car, the Honda Legend.[39]
+In 1988, Chrysler became the first United States automaker to fit a driver-side airbag as standard equipment, which was offered in six different models.[40][41] The following year, Chrysler became the first US auto manufacturer to offer driver-side airbags in all its new passenger models.[42][43] Chrysler also began featuring the airbags in advertisements showing how the devices had saved lives that helped the public know the value of them and safety became a selling advantage in the late 1980s.[44] All versions of the Chrysler minivans came with airbags starting for the 1991 model year.[40] In 1993, The Lincoln Motor Company boasted that all vehicles in their model line were equipped with dual airbags, one for the driver's side and another for the passenger's side.[45] The 1993 Jeep Grand Cherokee became the first SUV to offer a driver-side airbag when it was launched in 1992.[46] Driver and passenger airbags became standard equipment in all Dodge Intrepid, Eagle Vision, and Chrysler Concorde sedans ahead of any safety regulations.[47][48] Early 1993 saw the 4-millionth airbag-equipped Chrysler vehicle roll off the assembly line.[49] In October 1993, the Dodge Ram became the first pickup truck with a standard driver-side airbag.[50]
+The first known collision between two airbag-equipped automobiles took place on 12 March 1990 in Virginia, USA. A 1989 Chrysler LeBaron crossed the center line and hit another 1989 Chrysler LeBaron in a head-on collision, causing both driver airbags to deploy. The drivers suffered only minor injuries despite extensive damage to the vehicles.[51][52][53]
+The United States Intermodal Surface Transportation Efficiency Act of 1991 required passenger cars and light trucks built after 1 September 1998 to have airbags for the driver and the front passenger.[54][55] In the United States, NHTSA estimated that airbags had saved over 4,600 lives by 1 September 1999; however, the crash deployment experience of the early 1990s installations indicated that some fatalities and serious injuries were in fact caused by airbags.[54] In 1998, NHTSA initiated new rules for advanced airbags that gave automakers more flexibility in devising effective technological solutions. The revised rules also required improved protection for occupants of different sizes regardless of whether they use seat belts, while minimizing the risk to infants, children, and other occupants caused by airbags.[54]
+In Europe, airbags were almost unheard of until the early 1990s. By 1991, four manufacturers   BMW, Honda, Mercedes-Benz, and Volvo   offered the airbag on some of their higher-end models, but shortly afterward, airbags became a common feature on more mainstream cars, with Ford and Vauxhall/Opel among the manufacturers to introduce the airbag to its model ranges in 1992. Citro n, Fiat, Nissan, Hyundai, Peugeot, Renault, and Volkswagen followed shortly afterwards.
+By 1999, finding a new mass-market car without an airbag at least as optional equipment was difficult, and some late 1990s products, such as the Volkswagen Golf Mk4, also featured side airbags. The Peugeot 306 is one example of the European automotive mass-market evolution: starting in early 1993, most of these models did not even offer a driver's airbag as an option, but by 1999, even side airbags were available on several variants. Audi was late to offer airbag systems on a broader scale, since even in the 1994 model year, its popular models did not offer airbags. Instead, the German automaker until then relied solely on its proprietary cable-based procon-ten restraint system.
+Variable force-deployment front airbags were developed to help minimize injury from the airbag itself.
+The emergence of the airbag has contributed to a sharp decline in the number of deaths and serious injuries on the roads of Europe since 1990, and by 2010, the number of cars on European roads lacking an airbag represented a very small percentage of cars, mostly the remaining cars dating from the mid-1990s or earlier.
+Many new cars in Latin America, including the Kia Picanto, Kia Rio, Hyundai Accent, and Suzuki Alto, are still regularly sold without airbags, as neither airbags nor automatic braking systems in new cars are compulsory in many latin american countries.
+Shape of airbags[edit]
+The Citro n C4 provided the first "shaped" driver airbag, made possible by this car's unusual fixed-hub steering wheel.[56]
+In 2019, Honda announced it would introduce a new front passenger airbag technology. Developed by Autoliv and Honda R&D in Ohio, United States, this new airbag design features three inflatable chambers connected across the front by a "noninflatable sail panel." The two outer chambers are larger than the middle chamber. When the airbag deploys, the sail panel cushions the occupant's head from the impact of hitting the airbag, and the three chambers hold the occupant's head in place, like a catcher's mitt. The goal of the tri-chamber airbag is to help "arrest high-speed movement" of the head, thereby reducing the likelihood of concussion injuries in a collision. The first vehicle to come with the tri-chamber airbag installed from the factory was in 2020 (for the 2021 model year) for the Acura TLX. Honda hopes that the new technology will soon make its way to all vehicles.[57]
+Rear airbag[edit]
+Mercedes began offering rear passengers protection in frontal collisions in September 2020 (for the 2021 model year) for the Mercedes-Benz S-Class (W223).[58] The W223 S-Class is the first car in the world to come with rear seat airbags that work by using gas to inflate supporting structures that unfold and extend a bag that fills with ambient air, instead of conventional fully gas-inflated airbags that are widely used in automotive airbag systems.[59][60]
+Side airbag[edit]
+ Side airbag on a Porsche 996 inflated permanently for display purposes
+ Deployed curtain airbag and side torso airbag in a Citro n C4
+Essentially, two types of side airbags are commonly used today[when?] - the side-torso airbag and the side-curtain airbag. More recently,[when?] center airbags are becoming more common in the European market.
+Most vehicles equipped with side-curtain airbags also include side-torso airbags. However, some, such as the Chevrolet Cobalt,[61] 2007 09 model Chevrolet Silverado/GMC Sierra, and 2009 12 Dodge Ram[62] do not feature the side-torso airbag.
+From around 2000, side-impact airbags became commonplace on even low- to mid-range vehicles, such as the smaller-engined versions of the Ford Fiesta and Peugeot 206, and curtain airbags were also becoming regular features on mass-market cars. The Toyota Avensis, launched in 2003, was the first mass-market car to be sold in Europe with nine airbags.
+Side torso airbag[edit]
+Side-impact airbags or side-torso airbags  are a category of airbags usually located in the seat[63] or door panel,[64] and inflate between the seat occupant and the door. These airbags are designed to reduce the risk of injury to the pelvic and lower abdomen regions.[65] Most vehicles are now being equipped with different types of designs, to help reduce injury and ejection from the vehicle in rollover crashes. More recent side-airbag designs[66] include a two-chamber system;[67] a firmer lower chamber for the pelvic region and softer upper chamber for the ribcage.[68][69]
+Swedish company Autoliv AB was granted a patent on side-impact airbags, and they were first offered as an option in 1994[70] on the 1995 Volvo 850, and as standard equipment on all Volvo cars made after 1995.[70]
+In 1997, Saab introduced the first combined head and torso airbags with the launch of the Saab 9-5.
+Some cars, such as the 2010 Volkswagen Polo Mk.5 have combined head- and torso-side airbags. These are fitted in the backrest of the front seats, and protect the head and the torso.
+Side tubular or curtain airbag[edit]
+In 1997, the BMW 7 Series and 5 Series were fitted with tubular-shaped head side airbags (inflatable tubular structure),[71] the "Head Protection System (HPS)" as standard equipment.[72] This airbag was designed to offer head protection in side impact collisions and also maintained inflation for up to seven seconds for rollover protection. However, this tubular-shaped airbag design has been quickly replaced by an inflatable 'curtain' airbag.
+In May 1998, Toyota began offering a side-curtain airbag deploying from the roof on the Progr s.[73] In 1998, the Volvo S80 was given roof-mounted curtain airbags to protect both front and rear passengers.[74] Curtain airbags were then made standard equipment on all new Volvo cars from 2000 except for the first-generation C70, which received an enlarged side-torso airbag that also protects the head of front-seat occupants.[70] The second-generation C70 convertible received the world's first door-mounted, side-curtain airbags that deployed upwards.
+Curtain airbags have been said to reduce brain injury or fatalities by up to 45% in a side impact with an SUV. These airbags come in various forms (e.g., tubular, curtain, door-mounted) depending on the needs of the application.[75] Many recent SUVs and MPVs have a long inflatable curtain airbag that protects all rows of seats.
+In many vehicles, the curtain airbags are programmed to deploy during some/all frontal impacts to manage passenger kinetics (e.g. head hitting B-pillar on the rebound), especially in offset crashes such as the IIHS's small overlap crash test.
+Roll-sensing curtain airbag (RSCA)[edit]
+Roll-sensing curtain airbags are designed to stay inflated for a longer duration of time, cover a larger proportion of the window, and be deployed in a roll-over crash. They offer protection to occupants' heads and help to prevent ejection. SUVs and pickups are more likely to be equipped with RSCAs due to their higher probability of rolling over and often a switch can disable the feature in case the driver wants to take the vehicle off-road.
+Center airbag[edit]
+This section needs to be updated. Please help update this article to reflect recent events or newly available information. (February 2019)
+ Front-center airbag of a Chevrolet Traverse deployed in a static out-of-position test: The purpose of the test was to find out how this airbag affects a 3-year-old child who is out of his seat and in the direct reach of the airbag.
+ Ford seatbelt airbag
+In 2009, Toyota developed the first production rear-seat center airbag designed to reduce the severity of secondary injuries to rear passengers in a side collision. This system deploys from the rear center seat first appearing in on the Crown Majesta.[76] In late 2012, General Motors with supplier Takata introduced a front center airbag; it deploys from the driver's seat.[77]
+Hyundai Motor Group announced its development of a center-side airbag on September 18, 2019, installed inside the driver s seat.
+Some Volkswagen vehicles in 2022 equipped with center airbags include the ID.3 and the Golf.[78]
+The Polestar 2 also includes a center airbag.
+With EuroNCAP updating its testing guidelines in 2020, European and Australian market vehicles increasingly use front center airbags, rear torso airbags, and rear seatbelt pretensioners.[citation needed]
+Knee airbag[edit]
+The second driver-side and separate knee airbag was used in the Kia Sportage SUV and has been standard equipment since then. The airbag is located beneath the steering wheel.[79][80]
+ Deployed passenger knee airbag in a Toyota Tundra after a frontal collision test, the driver-side knee airbag was also deployed. Blue and yellow markings indicate the dummy's knees.
+The Toyota Caldina introduced the first driver-side SRS knee airbag on the Japanese market in 2002.[81] Toyota Avensis became the first vehicle sold in Europe equipped with a driver's knee airbag.[82][83] The EuroNCAP reported on the 2003 Avensis, "There has been much effort to protect the driver's knees and legs and a knee airbag worked well."[84] Since then certain models have also included front-passenger knee airbags, which deploy near or over the glove compartment in a crash. Knee airbags are designed to reduce leg injury. The knee airbag has become increasingly common from 2000.
+Rear curtain airbag[edit]
+In 2008, the new Toyota iQ microcar featured the first production rear-curtain shield airbag to protect the rear occupants' heads in the event of a rear-end impact.[85]
+Seat cushion airbag[edit]
+Another feature of the Toyota iQ was a seat-cushion airbag in the passenger seat to prevent the pelvis from diving below the lap belt during a frontal impact or submarining.[86] Later Toyota models such as the Yaris added the feature to the driver's seat, as well.
+Seat-belt airbag[edit]
+The seat-belt airbag is designed to better distribute the forces experienced by a buckled person in a crash by means of an increased seat belt area. This is done to reduce possible injuries to the rib cage or chest of the belt wearer.
+2010: Ford Explorer[87] and 2013 Ford Flex: optional rear seat belt airbags; standard on the 2013 Lincoln MKT
+2010: Lexus LFA[88] had seat belt airbags for driver and passenger[89]
+2013: Mercedes-Benz S-Class (W222) has rear seat belt bags[90]
+2014: Ford Mondeo Mk IV[91] has optional rear seat belt airbags for the two outer seats[92]
+Cessna Aircraft[93] also introduced seat belt airbags.[94] They are as of 2003[94] standard on the 172, 182, and 206.
+Pedestrian airbag[edit]
+Airbag(s) mounted to the exterior of vehicles, so-called "pedestrian airbags", are designed to reduce injuries in the event of a vehicle to a pedestrian collision.[95] When a collision is detected the airbag will deploy and cover hard areas, such as a-pillars[96] and bonnet edges, before they can be struck by the pedestrian.[97] 
+When introduced in 2012 the Volvo V40 included the world's first pedestrian airbag as standard.[98] As a result, the V40 ranked highest (88%) in the EuroNCAP's pedestrian tests.[99]
+Manufacturers[edit]
+Suppliers of SRS airbags include Autoliv, Daicel, TRW and JSS (which owns Breed, Key Safety Systems, and Takata). The majority of impact sensors of airbags are manufactured by the Lanka Harness Company.[citation needed]
+Operation[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2016) (Learn how and when to remove this template message)
+ An ACU from a Geo Storm
+The airbags in the vehicle are controlled by a central airbag control unit[100] (ACU), a specific type of ECU. The ACU monitors a number of related sensors within the vehicle, including accelerometers, impact sensors, side (door) pressure sensors,[101][102] wheel speed sensors, gyroscopes, brake pressure sensors, and seat occupancy sensors. Oftentimes, ACUs log this and other sensor data in a circular buffer and record it to onboard non-volatile memory, in order to provide a snapshot of the crash event for investigators. As such, an ACU frequently functions as the vehicle's event data recorder; not all EDRs are ACUs, and not all ACUs include EDR features.[103]: 15  An ACU typically includes capacitors within its circuitry, so that the module remains powered and able to deploy the airbags in the event that the vehicle's battery connection to the ACU is severed during a crash.[103]: 102 [104]: 3 
+The bag itself and its inflation mechanism is concealed within the steering wheel boss (for the driver), or the dashboard (for the front passenger), behind plastic flaps or doors which are designed to tear open under the force of the bag inflating. Once the requisite threshold has been reached or exceeded, the airbag control unit will trigger the ignition of a gas generator propellant to rapidly inflate a fabric bag. As the vehicle occupant collides with and squeezes the bag, the gas escapes in a controlled manner through small vent holes. The airbag's volume and the size of the vents in the bag are tailored to each vehicle type, to spread out the deceleration of (and thus force experienced by) the occupant over time and over the occupant's body, compared to a seat belt alone.
+The signals from the various sensors are fed into the airbag control unit, which determines from them the angle of impact, the severity, or the force of the crash, along with other variables. Depending on the result of these calculations, the ACU may also deploy various additional restraint devices, such as seat belt pre-tensioners, and/or airbags (including frontal bags for driver and front passenger, along with seat-mounted side bags, and "curtain" airbags which cover the side glass). Each restraint device is typically activated with one or more pyrotechnic devices, commonly called an initiator or electric match. The electric match, which consists of an electrical conductor wrapped in a combustible material, activates with a current pulse between 1 and 3 amperes in less than 2 milliseconds. When the conductor becomes hot enough, it ignites the combustible material, which initiates the gas generator. In a seat belt pre-tensioner, this hot gas is used to drive a piston that pulls the slack out of the seat belt. In an airbag, the initiator is used to ignite solid propellant inside the airbag inflator. The burning propellant generates inert gas which rapidly inflates the airbag in approximately 20 to 30 milliseconds. An airbag must inflate quickly in order to be fully inflated by the time the forward-traveling occupant reaches its outer surface. Typically, the decision to deploy an airbag in a frontal crash is made within 15 to 30 milliseconds after the onset of the crash, and both the driver and passenger airbags are fully inflated within approximately 60 80 milliseconds after the first moment of vehicle contact. If an airbag deploys too late or too slowly, the risk of occupant injury from contact with the inflating airbag may increase. Since more distance typically exists between the passenger and the instrument panel, the passenger airbag is larger and requires more gas to fill it.
+Older airbag systems contained a mixture of sodium azide (NaN3), KNO3, and SiO2. A typical driver-side airbag contains approximately 50 80 g of NaN3, with the larger passenger-side airbag containing about 250 g. Within about 40 milliseconds of impact, all these components react in three separate reactions that produce nitrogen gas. The reactions, in order, are as follows.
+2 NaN3   2 Na + 3 N2 (g)
+10 Na + 2 KNO3   K2O + 5 Na2O + N2 (g)
+K2O + Na2O + 2 SiO2   K2SiO3 + Na2SiO3
+The first two reactions create 4 molar equivalents of nitrogen gas, and the third converts the remaining reactants to relatively inert potassium silicate and sodium silicate. The reason that KNO3 is used rather than something like NaNO3 is because it is less hygroscopic. It is very important that the materials used in this reaction are not hygroscopic because absorbed moisture can de-sensitize the system and cause the reaction to fail.
+The particle size of the initial reactants is important to reliable operation.[105] The NaN3 and KNO3 must be between 10 and 20 m, while the SiO2 must be between 5 and 10 m.
+There are ongoing efforts to find alternative compounds so that airbags have less toxic reactants.[106] In a journal article by Akiyoshi et al., it was found that for the reaction of the Sr complex nitrate, (Sr(NH2NHCONHNH2) (NO3)2) of carbohydrazide (SrCDH) with various oxidizing agents resulted in the evolution of N2 and CO2 gases. Using KBrO3 as the oxidizing agent resulted in the most vigorous reaction as well as the lowest initial temperature of the reaction. The N2 and CO2 gases evolved made up 99% of all gases evolved.[107] Nearly all the starting materials will not decompose until reaching temperatures of 500 C or higher, so this could be a viable option as an airbag gas generator.
+In a patent containing another plausible alternative to NaN3 driven airbags, the gas-generating materials involved the use of guanidine nitrate, 5-aminotetrazole, bitetrazole dihydrate, nitroimidazole, and basic copper nitrate. It was found that these non-azide reagents allowed for a less toxic, lower combustion temperature reaction, and more easily disposable airbag inflation system.[108]
+Front airbags normally do not protect the occupants during side, rear, or rollover collisions.[109] Since airbags deploy only once and deflate quickly after the initial impact, they will not be beneficial during a subsequent collision. Safety belts help reduce the risk of injury in many types of crashes. They help to properly position occupants to maximize the airbag's benefits and they help restrain occupants during the initial and any following collisions.
+In vehicles equipped with a rollover sensing system, accelerometers and gyroscopes are used to sense the onset of a rollover event. If a rollover event is determined to be imminent, side-curtain airbags are deployed to help protect the occupant from contact with the side of the vehicle interior, and also to help prevent occupant ejection as the vehicle rolls over.
+Triggering conditions[edit]
+ Some cars provide the option to turn off the passenger airbag
+Airbags are designed to deploy in frontal and near-frontal collisions more severe than a threshold defined by the regulations governing vehicle construction in whatever particular market the vehicle is intended for: United States regulations require deployment in crashes at least equivalent in deceleration to a 23 km/h (14 mph) barrier collision, or similarly, striking a parked car of similar size across the full front of each vehicle at about twice the speed.[110] International regulations are performance-based, rather than technology-based, so airbag deployment threshold is a function of overall vehicle design.
+Unlike crash tests into barriers, real-world crashes typically occur at angles other than directly into the front of the vehicle, and the crash forces usually are not evenly distributed across the front of the vehicle. Consequently, the relative speed between a striking and struck vehicle required to deploy the airbag in a real-world crash can be much higher than an equivalent barrier crash. Because airbag sensors measure deceleration, the vehicle speed is not a good indicator of whether an airbag should have deployed. Airbags can deploy due to the vehicle's undercarriage striking a low object protruding above the roadway due to the resulting deceleration.
+The airbag sensor is a MEMS accelerometer, which is a small integrated circuit with integrated micro mechanical elements. The microscopic mechanical element moves in response to rapid deceleration, and this motion causes a change in capacitance, which is detected by the electronics on the chip that then sends a signal to fire the airbag. The most common MEMS accelerometer in use is the ADXL-50 by Analog Devices, but there are other MEMS manufacturers as well.
+Initial attempts using mercury switches did not work well. Before MEMS, the primary system used to deploy airbags was called a "rolamite". A rolamite is a mechanical device, consisting of a roller suspended within a tensioned band. As a result of the particular geometry and material properties used, the roller is free to translate with little friction or hysteresis. This device was developed at Sandia National Laboratories. Rolamite and similar macro-mechanical devices were used in airbags until the mid-1990s after which they were universally replaced with MEMS.
+Nearly all airbags are designed to automatically deploy in the event of a vehicle fire when temperatures reach 150 200 C (300 400 F).[111] This safety feature, often termed auto-ignition, helps to ensure that such temperatures do not cause an explosion of the entire airbag module.
+Today[when?], airbag triggering algorithms are becoming much more complex. They[who?] try to reduce unnecessary deployments and adapt the deployment speed to the crash conditions. The algorithms are considered valuable intellectual property. Experimental algorithms may take into account such factors as the weight of the occupant, the seat location, and seatbelt use, as well as even attempt to determine if a baby seat is present.
+Inflation[edit]
+This  section relies largely or entirely on a single source. Relevant discussion may be found on the talk page. Please help improve this article by introducing  citations to additional sources.Find sources: "Airbag" news  newspapers  books  scholar  JSTOR (May 2016)
+When the frontal airbags are to deploy, a signal is sent to the inflator unit within the airbag control unit. An igniter starts a rapid chemical reaction generating primarily nitrogen gas (N2) to fill the airbag making it deploy through the module cover. Some airbag technologies use compressed nitrogen or argon gas with a pyrotechnic operated valve ("hybrid gas generator"), while other technologies use various energetic propellants. Although propellants containing the highly toxic sodium azide (NaN3) were common in early inflator designs, little to no toxic sodium azide has been found on used airbags.
+The azide-containing pyrotechnic gas generators contain a substantial amount of the propellant. The driver-side airbag would contain a canister containing about 50 grams of sodium azide. The passenger side container holds about 200 grams of sodium azide.[112][better source needed][better source needed]
+The alternative propellants may incorporate, for example, a combination of nitroguanidine, phase-stabilized ammonium nitrate (NH4NO3) or another nonmetallic oxidizer, and a nitrogen-rich fuel different from azide (e.g. tetrazoles, triazoles, and their salts). The burn rate modifiers in the mixture may be an alkaline metal nitrate (NO3-) or nitrite (NO2-), dicyanamide or its salts, sodium borohydride (NaBH4), etc. The coolants and slag formers may be e.g. clay, silica, alumina, glass, etc.[113][better source needed][non-primary source needed][original research?] Other alternatives are e.g. nitrocellulose based propellants (which have high gas yield but bad storage stability, and their oxygen balance requires secondary oxidation of the reaction products to avoid buildup of carbon monoxide), or high-oxygen nitrogen-free organic compounds with inorganic oxidizers (e.g., di or tricarboxylic acids with chlorates (ClO3-) or perchlorates (ClO4-) and eventually metallic oxides; the nitrogen-free formulation avoids formation of toxic nitrogen oxides).
+From the onset of the crash, the entire deployment and inflation process is about 0.04 seconds. Because vehicles change speed so quickly in a crash, airbags must inflate rapidly to reduce the risk of the occupant hitting the vehicle's interior.
+Variable-force deployment[edit]
+Advanced airbag technologies are being developed to tailor airbag deployment to the severity of the crash, the size, and posture of the vehicle occupant, belt usage, and how close that person is to the actual airbag. Many of these systems use multi-stage inflators that deploy less forcefully in stages in moderate crashes than in very severe crashes. Occupant sensing devices let the airbag control unit know if someone is occupying a seat adjacent to an airbag, the mass/weight of the person, whether a seat belt or child restraint is being used, and whether the person is forward in the seat and close to the airbag. Based on this information and crash severity information, the airbag is deployed at either a high force level, a less forceful level, or not at all.
+Adaptive airbag systems may utilize multi-stage airbags to adjust the pressure within the airbag. The greater the pressure within the airbag, the more force the airbag will exert on the occupants as they come in contact with it. These adjustments allow the system to deploy the airbag with a moderate force for most collisions; reserving the maximum force airbag only for the severest of collisions. Additional sensors to determine the location, weight or relative size of the occupants may also be used. Information regarding the occupants and the severity of the crash are used by the airbag control unit, to determine whether airbags should be suppressed or deployed, and if so, at various output levels.
+ Post-deployment view of a SEAT Ibiza airbag
+Post-deployment[edit]
+A chemical reaction produces a burst of nitrogen to inflate the bag. Once an airbag deploys, deflation begins immediately as the gas escapes through vent(s) in the fabric (or, as it is sometimes called, the cushion) and cools. Deployment is frequently accompanied by the release of dust-like particles, and gases in the vehicle's interior (called effluent). Most of this dust consists of cornstarch, french chalk, or talcum powder, which are used to lubricate the airbag during deployment.
+Newer designs produce effluent primarily consisting of harmless talcum powder/cornstarch and nitrogen gas. In older designs using an azide-based propellant (usually NaN3), varying amounts of sodium hydroxide nearly always are initially present. In small amounts this chemical can cause minor irritation to the eyes and/or open wounds; however, with exposure to air, it quickly turns into sodium bicarbonate (baking soda). However, this transformation is not 100% complete, and invariably leaves residual amounts of hydroxide ions from NaOH. Depending on the type of airbag system, potassium chloride may also be present.
+For most people, the only effect the dust may produce is some minor irritation of the throat and eyes. Generally, minor irritations only occur when the occupant remains in the vehicle for many minutes with the windows closed and no ventilation. However, some people with asthma may develop a potentially lethal asthmatic attack from inhaling the dust.
+Because of the airbag exit flap design of the steering wheel boss and dashboard panel, these items are not designed to be recoverable if an airbag deploys, meaning that they have to be replaced if the vehicle has not been written off in a collision. Moreover, the dust-like particles and gases can cause irreparable cosmetic damage to the dashboard and upholstery, meaning that minor collisions which result in the deployment of airbags can be costly, even if there are no injuries and there is only minor damage to the vehicle structure.
+Regulatory specifications[edit]
+The examples and perspective in this section deal primarily with the United States and do not represent a worldwide view of the subject. You may improve this section, discuss the issue on the talk page, or create a new section, as appropriate. (June 2021) (Learn how and when to remove this template message)
+United States[edit]
+On 11 July 1984, the United States government amended Federal Motor Vehicle Safety Standard 208 (FMVSS 208) to require cars produced after 1 April 1989 to be equipped with a passive restraint for the driver. An airbag or an automatic seat belt would meet the requirements of the standard. Airbag introduction was stimulated by the National Highway Traffic Safety Administration.[114] However, airbags were not mandatory on light trucks until 1997.[115]
+In 1998, FMVSS 208 was amended to require dual front airbags, and reduced-power, second-generation airbags were also mandated. This was due to the injuries caused by first-generation airbags, though FMVSS 208 continues to require that bags be engineered and calibrated to be able to "save" the life of an unbelted 50th-percentile size and weight "male" crash test dummy. The technical performance and validation requirements for the inflator assembly used in airbag modules are specified in SAE USCAR 24 2.[116]
+Outside the United States[edit]
+Some countries outside North America adhere to internationalized European ECE vehicle and equipment regulations rather than the United States Federal Motor Vehicle Safety Standards. ECE airbags are generally smaller and inflate less forcefully than United States airbags because the ECE specifications are based on belted crash test dummies.
+The Euro NCAP vehicle safety rating encourages manufacturers to take a comprehensive approach to occupant safety; a good rating can only be achieved by combining airbags with other safety features.[117] Almost every new car sold in Europe is equipped with front and side airbags, but in the European Union in 2020[118] and in the United Kingdom, and most other developed countries there is no direct legal requirement for new cars to feature airbags.
+Ecuador requires dual front airbags in new car models since 2013.[119]
+Since January 2014, with the exception of micro vehicles, all new cars made or imported in Argentina must have front airbags.[120]
+Since 1 January 2014, all new cars sold in Brazil must have dual front airbags.[121]
+Since July 2014, all new cars sold in Uruguay must have dual front airbags.[122]
+Since December 2016, all new cars sold in Chile must have dual front airbags.[123]
+Since 1 January 2017, all cars made or imported in Colombia must have dual front airbags.[124]
+Since 1 January 2020, all new cars sold in Mexico must have dual front airbags.[125]
+On 5 March 2021, the Indian Ministry of Road Transport and Highways mandated that all new vehicle models introduced in India after 1 April 2021 have dual front airbags; the regulation also requires that all existing models be equipped with dual front airbags by 31 August 2021.[126]
+India also mandated that all passenger vehicles sold after October 2023 must have a minimum of 6 airbags.[127]
+Maintenance[edit]
+The examples and perspective in this section may not represent a worldwide view of the subject. You may improve this section, discuss the issue on the talk page, or create a new section, as appropriate. (September 2008) (Learn how and when to remove this template message)
+Inadvertent airbag deployment while the vehicle is being serviced can result in severe injury, and an improperly installed or defective airbag unit may not operate or perform as intended. Those servicing a vehicle, as well as first responders, must exercise extreme awareness, as many airbag control systems may remain powered for roughly 30 minutes after disconnecting the vehicle's battery.[104]: 3  Some countries impose restrictions on the sale, transport, handling, and service of airbags and system components. In Germany, airbags are regulated as harmful explosives; only mechanics with special training are allowed to service airbag systems.
+Some automakers (such as Mercedes-Benz) call for the replacement of undeployed airbags after a certain period of time to ensure their reliability in a collision. One example is the 1992 S500, which has an expiry date sticker attached to the door pillar. Some  koda vehicles indicate an expiry date of 14 years from the date of manufacture. In this case, replacement would be uneconomic as the car would have negligible value at 14 years old, far less than the cost of fitting new airbags. Volvo has stated that "airbags do not require replacement during the lifetime of the vehicle," though this cannot be taken as a guarantee on the device.[128]
+Limitations[edit]
+ Crash test of an underride guard at 30 40 km/h (19 25 mph) the truck platform at head height has been prevented from impacting the windshield.
+Although the millions of installed airbags in use have an excellent safety record, some limitations on their ability to protect car occupants exist. The original implementation of front airbags did little to protect against side collisions, which can be more dangerous than frontal collisions because the protective crumple zone in front of the passenger compartment is completely bypassed. Side airbags and protective airbag curtains are increasingly being required in modern vehicles to protect against this very common category of collisions.
+Airbags are designed to deploy once only, so are ineffective if any further collisions occur after an initial impact. Multiple impacts may occur during rollovers or other incidents involving multiple collisions, such as many multivehicle collisions.[129]
+An extremely dangerous situation occurs during "underride collisions", in which a passenger vehicle collides with the rear of a tractor-trailer lacking a rear underride guard, or hits the side of such a trailer not equipped with a side underride guard.[130] The platform bed of a typical trailer is roughly at the head height of a seated adult occupant of a typical passenger car. This means not much of a barrier exists between a head and the edge of the trailer platform, except a glass windshield.[131] In an underride collision, the car's crush zones designed to absorb collision energy are completely bypassed, and the airbags may not deploy in time because the car does not decelerate appreciably until the windshield and roof pillars have already impacted the trailer bed.[129] Even delayed inflation of airbags may be useless because of major intrusion into the passenger space, leaving occupants at high risk of major head trauma or decapitation in even low-speed collisions. Western European standards for underride guards have been stricter than North American standards, which typically have allowed grandfathering of older equipment that may still be on the road for decades.[130][132]
+Typical airbag systems are completely disabled by turning off the ignition key. Unexpected turnoffs usually also disable the engine, power steering, and power brakes, and maybe the direct cause of a collision. If a violent collision occurs, the disabled airbags will not deploy to protect vehicle occupants. In 2014, General Motors admitted to concealing information about fatal collisions caused by defective ignition switches that would abruptly shut down a car (including its airbags). Between 13 and 74 deaths have been directly attributed to this defect, depending on how the fatalities are classified.[133]
+Injuries and fatalities[edit]
+ Lives saved by seat belts and airbags in the United States of America over 10 years
+Under some rare conditions, airbags can injure and in some very rare instances kill vehicle occupants. To provide crash protection for occupants not wearing seat belts, United States airbag designs trigger much more forcefully than airbags designed to the international ECE standards used in most other countries. Recent "smart" airbag controllers can recognize if a seatbelt is used, and alter the airbag cushion deployment parameters accordingly.[134]
+In 1990, the first automotive fatality attributed to an airbag was reported.[135] TRW produced the first gas-inflated airbag in 1994, with sensors and low inflation-force bags becoming common soon afterward. Dual-depth (also known as dual-stage) airbags appeared on passenger cars in 1998. By 2005, deaths related to airbags had declined, with no adult deaths and two child deaths attributed to airbags that year. However, injuries remain fairly common in collisions with airbag deployment.
+Serious injuries are less common, but severe or fatal injuries can occur to vehicle occupants very near an airbag or in direct contact when it deploys. Such injuries may be sustained by unconscious drivers slumped over the steering wheel, unrestrained or improperly restrained occupants who slide forward in the seat during precrash braking, and properly belted drivers sitting very close to the steering wheel. A good reason for the driver not to cross hands over the steering wheel, a rule taught to most learner drivers, but quickly forgotten by most, is that an airbag deployment while negotiating a turn may result in the driver's hand(s) being driven forcefully into his or her face, exacerbating any injuries from the airbag alone.
+Improvements in sensing and gas-generator technology have allowed the development of third-generation airbag systems that can adjust their deployment parameters to the size, weight, position, and restraint status of the occupant. These improvements have demonstrated a reduced injury risk factor for small adults and children, who had an increased risk of injury with first-generation airbag systems.[136]
+One model of airbags made by the Takata Corporation used ammonium nitrate based gas-generating compositions in airbag inflators instead of the more stable, but more expensive compound tetrazole. The ammonium nitrate-based inflators have a flaw where old inflators with long-term exposure to hot and humid climate conditions could rupture during deployment, projecting metal shards through the airbag and into the driver.[137] As of December 2022, the defect has caused 33 deaths worldwide, with up to 24 in the U.S. and the remaining in Australia and Malaysia.[138] The National Highway Traffic Safety Administration (NHTSA) recalled over 33 million vehicles in May 2015,[139] and fined Takata $70 million in November 2015.[140] Toyota, Mazda, and Honda have said that they will not use ammonium-nitrate inflators.[141][142] In June 2017, Takata filed for bankruptcy.[143]
+Airbag fatality statistics[edit]
+From 1990 to 2000, the United States NHTSA identified 175 fatalities caused by airbags. Most of these (104) have been children. About 3.3 million air-bag deployments have occurred during that interval, and the agency estimates more than 6,377 lives were saved and countless injuries were prevented.[135][144]
+A rear-facing infant restraint put in the front seat of a vehicle places an infant's head close to the airbag, which can cause severe head injuries or death if the airbag deploys. Some modern cars include a switch to disable the front-passenger airbag, in case a child-supporting seat is used there (although not in Australia, where rear-facing child seats are prohibited in the front where an airbag is fitted).
+In vehicles with side airbags, it is dangerous for occupants to lean against the windows, doors, and pillars, or to place objects between themselves and the side of the vehicle. Articles hung from a vehicle's clothes hanger hooks can be hazardous if the vehicle's side-curtain airbags deploy.[145] A seat-mounted airbag may also cause internal injury if the occupant leans against the door.[146][147]
+Aerospace and military applications[edit]
+The aerospace industry and the United States government have applied airbag technologies for many years. NASA and United States Department of Defense have incorporated airbag systems in various aircraft and spacecraft applications as early as the 1960s.
+ Airbag for cycling
+Spacecraft airbag landing systems[edit]
+ NASA engineers test the Mars Pathfinder airbag landing system on simulated Martian terrain
+The first use of airbags for landing were Luna 9 and Luna 13, which landed on the Moon in 1966 and returned panoramic images. As with later missions, these would use the airbags to bounce along the surface, absorbing landing energy. The Mars Pathfinder lander employed an innovative airbag landing system, supplemented with aerobraking, parachute, and solid rocket landing thrusters. This prototype successfully tested the concept, and the two Mars Exploration Rover Mission landers employed similar landing systems. The Beagle 2 Mars lander also tried to use airbags for landing; the landing was successful, and the lander touched down safely, but several of the spacecraft's solar panels failed to deploy, thereby disabling the spacecraft.
+Aircraft airbag landing systems[edit]
+Airbags have also been used on military fixed-wing aircraft, such as the escape crew capsule of the F-111 Aardvark.
+Occupant protection[edit]
+ OH-58D CABS test
+The United States Army has incorporated airbags in its UH-60A/L[148][149] Black Hawk and OH-58D Kiowa Warrior[150] helicopter fleets. The Cockpit Air Bag System (CABS)[151] consists of forward and lateral airbags, and an inflatable tubular structure (on the OH-58D only) with an Electronic Crash Sensor Unit (ECSU). The CABS system was developed by the United States Army Aviation Applied Technology Directorate, through a contract with Simula Safety Systems (now BAE Systems).[152] It is the first conventional airbag system for occupant injury prevention (worldwide) designed and developed and placed in service for an aircraft, and the first specifically for helicopter applications.[153][154]
+Other uses[edit]
+ Airbag on a motorcycle
+In the mid-1970s, the UK Transport Research Laboratory tested several types of motorcycle airbags. In 2006 Honda introduced the first production motorcycle airbag safety system on its Gold Wing motorcycle. Honda claims that sensors in the front forks can detect a severe frontal collision and decide when to deploy the airbag, absorbing some of the forward energy of the rider and reducing the velocity at which the rider may be thrown from the motorcycle.[155]
+More commonly, air bag vests   either integrated into the motorcyclist's jacket or worn over it   have started to become used by regular riders on the street.[156] MotoGP has made it compulsory since 2018 for riders to wear suits with integrated airbags.[157]
+Similarly, companies such as Helite and Hit-Air have commercialised equestrian airbags, which attach to the saddle and are worn by the rider. Other sports, particularly skiing and snowboarding, have started introducing airbag safety mechanisms.[citation needed]
+See also[edit]
+Airbag dermatitis
+Airplane airbags
+Precrash system
+Safety standards
+References[edit]
+^ "The Global Automotive Airbag Market Outlook". Valient Automotive Market Research. Archived from the original on 23 June 2015. Retrieved 22 June 2015.
+^ Bellis, Mary (9 August 2019). "Who Invented Airbags?". ThoughtCo. Retrieved 15 January 2020.
+^ Varela, Kristin (19 June 2013). "How Many Airbags Are Enough?". cars.com. Archived from the original on 15 November 2017. Retrieved 14 November 2017.
+^ Warner, Kenneth E. (1983). "Bags, Buckles, and Belts: The Debate over Mandatory Passive Restraints in Automobiles". Journal of Health Politics, Policy and Law. 8 (1): 44 75. doi:10.1215/03616878-8-1-44. PMID 6863874.
+^ "U.S. air bag history". motorvista.com. 2000. Archived from the original on 22 February 2001. Retrieved 16 March 2014.
+^ "U.S. patent 6272412   Passive restraint control system for vehicles". patentstorm.us. Archived from the original on 12 June 2011. Retrieved 17 October 2010.
+^ "Circular Letter No. 10 (1991): Auto Insurance Premium Discounts For Passive Restraints". New York State Department of Financial Services. 12 April 1991. Archived from the original on 16 March 2014. Retrieved 16 March 2014.
+^ Rotorcraft Active Crash Protection Systems Archived 23 June 2017 at the Wayback Machine
+^ US 2649311, Hetrick, John W., "Safety cushion assembly for automotive vehicles", published 18 August 1953 
+^ "University of Birmingham to unveil new 'blue plaque' celebrating the work of two innovative dentists". Birmingham Dental Hospital. 13 March 2019. Retrieved 18 March 2019.
+^ US 1331359, Parrott, Arthur Hughes & Round, Harold, published 17 February 1920,  assigned to Robert Henry Davis 
+^ Meier, Urs (2012). "1 Non Finito: challenges in rehabilitation".  In Fardis, Michael N. (ed.). Innovative Materials and Techniques in Concrete Construction: ACES Workshop. Springer. p. 12. ISBN 9789400719965. Retrieved 16 March 2014.
+^ Khan, Moin.S (10 September 2012). "Air Bags for Automobiles". Textile Learner. Archived from the original on 18 November 2012. Retrieved 22 September 2016.
+^ Mastinu, Giampiero; Ploechl, Manfred, eds. (2014). Road and Off-Road Vehicle System Dynamics Handbook. CRC Press. p. 1613. ISBN 9780849333224. Retrieved 22 September 2016.
+^ "United States Patent #2649311". United States Patent and Trademark Office. Retrieved 15 March 2021.
+^ "Patent Images". pdfpiw.uspto.gov. Retrieved 15 March 2021.
+^ Bellis, Mary (19 April 2017). "The History of Airbags". The Thought Company. Archived from the original on 14 July 2017. Retrieved 22 September 2016.
+^ a b Hutchinson, Alex (2009). Big Ideas: 100 Modern Inventions That Have Transformed Our World. Sterling Publishing. p. 136. ISBN 9781588167224. Retrieved 22 September 2016.
+^ "Airbag History   When Was The Airbag Invented?". airbagsolutions.com. Archived from the original on 16 March 2014. Retrieved 16 March 2014.
+^ "The History of Airbags". inventors.about.com. Archived from the original on 22 July 2012. Retrieved 16 March 2014.
+^ Weil, Roman L.; Frank, Peter B.; Kreb, Kevin D., eds. (2009). Litigation services handbook: the role of the financial expert. John Wiley. p. 22.6. ISBN 9780470286609. Retrieved 16 March 2014.
+^ "Achievements of Yasuzaburou Kobori" (in Japanese). Japan Automotive Hall of Fame. Archived from the original on 2 August 2013. Retrieved 16 March 2014. Source of creative ideas, [he] started the development of the air bag as a starting point to develop a safety net of motor vehicles in 1964.
+^ "   SPA! ". Archived from the original on 19 May 2015.
+^ SPA! (21 March 2015). "  - airbag.jpg    SPA!".  SPA!. Archived from the original on 23 March 2015. Retrieved 13 October 2017.
+^ Ravop, Nick (14 January 2000). "Allen K. Breed, 72, a Developer of Air Bag Technology for Cars". The New York Times. Archived from the original on 2 April 2015. Retrieved 28 March 2015.
+^ Popular Science Archived 29 February 2008 at the Wayback Machine May 1968
+^ "Inventor of the Week: Archive". web.mit.edu. Archived from the original on 18 March 2009. Retrieved 27 February 2010.
+^ a b Fenton, John (24 January 1969). "Safety Design". The Times.
+^ Phillips, David (31 October 2011). "Impalas' 1973 experimental airbags held up". Automotive News. Retrieved 1 August 2020.
+^ Lorio, Joe (15 June 2009). "Whats this 73 Chevrolet Impala doing at a classic car auction?". Automobile Magazine. Retrieved 1 August 2020.
+^ Phillips, David (31 October 2011). "Impalas' 1973 experimental airbags held up: Fleet customers tested 1,000 vehicles with cutting-edge technology". Automotive News. Retrieved 16 November 2017.
+^ Tullis, Paul (7 June 2013). "Air Bag   Who Made That? The Magazine's 2013 Innovations Issue". The New York Times. Archived from the original on 15 February 2014.
+^ "Allstate fleet cars show the reliability of air bags (advertisement)". Life. Vol. 72, no. 22. 9 June 1972. pp. 8 9. Retrieved 13 August 2021.
+^ "GM's Acrs". airbagcrash.com. 2001. Archived from the original on 23 February 2014. Retrieved 16 March 2014.
+^ "1975 Cadillac Brochure". oldcarbrochures.com. p. 25. Archived from the original on 16 March 2014. Retrieved 16 March 2014.
+^ a b "1974 Oldsmobile Air Cushion Folder". oldcarbrochures.com. pp. 6 7. Archived from the original on 13 December 2014. Retrieved 16 March 2014.
+^ 1634 1699: McCusker, J. J. (1997). How Much Is That in Real Money? A Historical Price Index for Use as a Deflator of Money Values in the Economy of the United States: Addenda et Corrigenda (PDF). American Antiquarian Society. 1700 1799: McCusker, J. J. (1992). How Much Is That in Real Money? A Historical Price Index for Use as a Deflator of Money Values in the Economy of the United States (PDF). American Antiquarian Society. 1800 present: Federal Reserve Bank of Minneapolis. "Consumer Price Index (estimate) 1800 ". Retrieved 16 April 2022.
+^ Callas, Tony; Prine, Tom (30 November 2009). "Porsche Airbag Systems". Excellence Magazine. US. Retrieved 14 November 2022.
+^ "240 Landmarks of Japanese Automotive Technology   Subaru Legend airbag system". Society of Automotive Engineers of Japan. Archived from the original on 23 November 2014. Retrieved 16 March 2014.
+^ a b Godshall, Jeffery. "Form, Function, and Fantasy   seventy years of Chrysler design". Automobile Quarterly. 32 (4): 70 71. ISBN 9781596139275. Retrieved 27 April 2019.
+^ "Chrysler Introduces Driver-Side Air Bags". Automotive Fleet. July 1988. Archived from the original on 16 March 2014. Retrieved 27 April 2019.
+^ "Automobile Safety". National Museum of American History. 24 July 2017.
+^ Shaw, William H. (2011). Business ethics. Wadsworth/Cengage. p. 220. ISBN 9780495808763. Retrieved 16 March 2014.
+^ "1990 Government Mandates Safety". Popular Mechanics. Vol. 173, no. 5. May 1996. p. 59. Retrieved 5 November 2019.
+^ 1993 Lincoln safety ad   via YouTube.
+^ Lamm, Michael (July 1993). "Jeep Grand Cherokee   another home run for the home team". Popular Mechanics. Vol. 170, no. 7. pp. 25 27. Retrieved 16 March 2014.
+^ Pressler, Larry, ed. (1996). Air Bag Safety: Hearing Before the Committee on Commerce, Science, & Transportation, U.S. Senate. Dianne Publishing. p. 147. ISBN 9780788170676. Retrieved 16 March 2014.
+^ Legislation passed in 1991 required driver and front passenger air bags for passenger vehicles offered for sale in the US after September 1997 and for other vehicles after September 1998.Pressler, Larry (2 March 1996). Air Bag Safety: Hearing Before the Committee on Commerce, Science and Transportations US Senate 104 Congress 2nd session. ISBN 9780788170676.
+^ "Chrysler air bag production hits 4 million units". thefreelibrary.com (Press release). PRNewswire. 19 April 1993. Retrieved 16 March 2014.
+^ "Design and Engineering Awards". Popular Mechanics. Vol. 171, no. 1. January 1994. p. 24. Retrieved 16 March 2014.
+^ Cohn, D'Vera; Henderson, Nell (31 March 1990). "Va. Crash Shines Spotlight on Air Bags; Safety Experts Say They Feel Vindicated in 20-Year Battle". The Washington Post. p. A.01. Archived from the original on 13 October 2017.
+^ "Air Bags Save 2 Lives in Historic Collision". Orlando Sentinel. 1 April 1990. Archived from the original on 18 August 2016.
+^ "Dueling Air Bags Allow Two Virginia Drivers to Walk Away from a Horrifying Head-on Collision", People, vol. 33, no. 16, 23 April 1990, archived from the original on 14 September 2016
+^ a b c Office of Research and Development (21 June 2001). "Air Bag Technology in Light Passenger Vehicles" (PDF). U.S. NHTSA. p. 1. Archived (PDF) from the original on 15 December 2014. Retrieved 16 March 2014.
+^ "Sep 1, 1998: Federal legislation makes airbags mandatory". history.com. Archived from the original on 16 March 2014. Retrieved 16 March 2014.
+^ Wilson, Robert (3 August 2005). "Citroen C4". The Australian. Archived from the original on 12 May 2006. Retrieved 3 November 2009.
+^ Wendler, Andrew (23 August 2019). "Honda's New Airbag Will Give Front Passengers Better Protection". Car and Driver. US. Retrieved 29 September 2022.
+^ Ewing, Steven (2 September 2020). "2021 Mercedes-Benz S-Class safety tech: Rear-seat airbags and 48-volt architecture". Retrieved 11 February 2023.
+^ Stoklosa, Alexander (22 May 2019). "An Airbag for the Back Seat? Mercedes-Benz Is Developing a Clever One". Retrieved 11 February 2023.
+^ Palmer, Zac (29 July 2020). "2021 Mercedes-Benz S-Class gets rear-axle steering and trick new airbag tech". AutoBlog. Retrieved 11 February 2023.
+^ "IIHS-HLDI: Chevrolet Cobalt 4-door". iihs.org. Archived from the original on 23 May 2013. Retrieved 16 March 2014.
+^ "IIHS-HLDI: Dodge Ram 1500". iihs.org. 16 March 2014. Archived from the original on 10 April 2010.
+^ "Johnson Controls develops and manufactures the instrument panel, seating system, door panels and acoustic parking system for the new Mercedes-Benz A-Class". Archived from the original on 2 March 2017. Retrieved 11 May 2018.
+^ Paul, Rik (1 January 1996). "1996 Mercedes-Benz E-Class   Roadtest   European Car". Motor Trend. Archived from the original on 4 March 2018. Retrieved 11 May 2018.
+^ "Dual chamber side airbag apparatus and method". freepatentsonline.com. 20 June 2006. Retrieved 11 May 2018.
+^ "2008 Honda Accord   Safety" (Press release). American Honda. 21 August 2007. Archived from the original on 2 March 2017. Retrieved 11 May 2018.
+^ "All New Volvo S80: Style, Sophistication, Safety and Scandinavian" (Press release). Volvo Cars US. 28 February 2006. Archived from the original on 2 March 2017. Retrieved 1 March 2017.
+^ "Dual-chamber Side Airbags". 23 October 2009. Archived from the original on 2 February 2017. Retrieved 26 January 2017.
+^ Jakobsson, Lotta; Lindman, Magdalena; Svanberg, Bo; Carlsson, Henrik (2010). "Real World Data Driven Evolution of Volvo Cars' Side Impact Protection Systems and their Effectiveness". Annals of Advances in Automotive Medicine / Annual Scientific Conference. 54: 127 136. ISSN 1943-2461. PMC 3242537. PMID 21050597.
+^ a b c "Second-Generation Sips-Bag protects both chest and head" (Press release). Volvo Group Global. 17 July 1998. Archived from the original on 30 June 2015. Retrieved 15 January 2020.
+^ "Zodiac Coating   Medical Silicone Gel Components". zodiacautomotive.com. Archived from the original on 9 January 2015. Retrieved 3 September 2018.
+^ BMW of North America (30 October 1997). "BMW Head Protection System Sets New Standard in Side-Impact Protection in Latest IIHS Crash Test". theautochannel.com (Press release). Archived from the original on 16 March 2014. Retrieved 16 March 2014.
+^ "Toyota to Make Side Airbags and Curtain Shield Airbags Standard on All New Passenger Vehicle Models in Japan". theautochannel.com. 23 July 2007. Archived from the original on 16 March 2014. Retrieved 16 March 2014.
+^ "Volvo S80". volvoclub.org.uk. Archived from the original on 2 January 2016. Retrieved 11 May 2018.
+^ "Side-Impact Air Bags (SABs)". safercar.gov. Archived from the original on 16 March 2014. Retrieved 16 March 2014.
+^ "Toyota Develops World's First Rear-seat Center Airbag". worldcarfans.com. 11 March 2009. Archived from the original on 16 March 2014. Retrieved 16 March 2014.
+^ Bowman, Zach (29 September 2011). "GM debuts new front center airbag". autoblog.com. Archived from the original on 16 March 2014. Retrieved 16 March 2014.
+^ "New ID.3: 'Today, safety wouldn't be possible without simulation'". Volkswagen Newsroom (Press release). Retrieved 30 May 2020.
+^ "Kia Motors' Knee Airbag System | Firehouse.com". cms.firehouse.com. Archived from the original on 31 July 2007. Retrieved 8 December 2009.
+^ "New Air Bag Will Aim For Knees, Legs". Los Angeles Times. 24 May 1996. Archived from the original on 8 December 2015.
+^ "Technical Development: Electronics Parts". toyota-global.com. Archived from the original on 24 March 2015.
+^ "Airbags". Toyota Europe. Archived from the original on 24 June 2009.
+^ "Euro NCAP praises the new Driver-Side SRS Knee Airbag manufactured by Toyoda Gosei". Toyoda Gosei (Press release). 30 June 2003. Archived from the original on 19 June 2013. Retrieved 16 March 2014.
+^ "Toyota Avensis". Euro NCAP. Archived from the original on 24 June 2013. Retrieved 16 March 2014.
+^ Abuelsamid, Sam (30 September 2008). "Toyota develops rear curtain airbag for tiny iQ". autobloggreen.com. Archived from the original on 14 April 2009. Retrieved 16 March 2014.
+^ "Mobility". Archived from the original on 25 February 2016. Retrieved 1 March 2017.
+^ "Ford Expands Availability of Rear Inflatable Safety Belt to 2014 Fusion". ford.com. Archived from the original on 6 October 2015. Retrieved 17 September 2015.
+^ "Takata First to Commercialize Front Seat Safety "Airbelt" for Passenger Cars". us.aving.net/news (Press release). 6 December 2010. Archived from the original on 26 April 2014. Retrieved 11 April 2013.
+^ "2012 Lexus LFA". Car and Driver. 20 October 2009. Archived from the original on 14 September 2015.
+^ "Extended protection in the rear: The seat belt gets into top shape". daimler.com. 19 November 2012. Archived from the original on 2 January 2016. Retrieved 17 September 2015.
+^ "Ford Mondeo Introduces Inflatable Seatbelts, a Ford First for Australian customers". ford.com. Archived from the original on 2 January 2016.
+^ "The Ford inflatable seat belt: How it affects car seats and children". consumerreports.org. Archived from the original on 16 September 2015.
+^ "AmSafe Inflatable Seatbelts". Cessna. Archived from the original on 14 September 2015.
+^ a b "Are Airbags Worth the Money?". Flying Magazine. 20 January 2011. Archived from the original on 2 January 2016.
+^ "Pedestrian Airbag Technology   a Production System" (PDF). Archived from the original (PDF) on 4 October 2016. Retrieved 4 July 2016.
+^ LandRoverMENA (1 October 2014). "Land Rover Discovery Sport   Pedestrian Airbag". Archived from the original on 2 June 2017   via YouTube.
+^ "YouTube". youtube.com. Archived from the original on 2 June 2017.
+^ Dowling, Joshua (17 February 2013). "Volvo offers world's first pedestrian airbag". Archived from the original on 2 December 2014. Retrieved 5 July 2016.
+^ "Volvo V40". Euro NCAP. August 2013. Archived from the original on 15 October 2013. Retrieved 16 March 2014.
+^ "Airbag control unit". Audi. Archived from the original on 5 December 2008.
+^ "Media Center". continental.com (Press release). Archived from the original on 10 July 2012.
+^ Garcia, P. (December 2011). "A Methodology for the Deployment of Sensor Networks". IEEE Transactions on Knowledge and Data Engineering. 11 (4).
+^ a b Gabler, Hampton C.; Gabauer, Douglas J.; Newell, Heidi L.; O Neill, Michael E. (December 2004). Use of Event Data Recorder (EDR) Technology for Highway Crash Data Analysis (PDF) (Report). Transportation Research Board of the National Academies. Retrieved 22 February 2020.
+^ a b Montgomery County Fire & Rescue. MCFRS Driver Certification Program: Vehicle Safety (PDF) (Report). Montgomery Maryland County Government. Retrieved 22 February 2020.
+^ US 5089069, Coodly P. Ramaswamy & Francis Souriraja, "Gas generating composition for air bags", published 18 February 1992 
+^ "Tests on Airbags: Analyses of Gases, Dusts, Structures and Squibs" (PDF). Archived from the original (PDF) on 2 February 2014.
+^ Akiyoshi, Miyako; Nakamura, Hidetsugu; Hara, Yasutake (2000). "The Strontium Complex Nitrates of Carbohydrazide as a Non-Azide Gas Generator for Safer Driving-the Thermal Behavior of the Sr Complex with Various Oxidizing Agents". Propellants, Explosives, Pyrotechnics. 25 (5): 224 229. doi:10.1002/1521-4087(200011)25:5<224::AID-PREP224>3.0.CO;2-O.
+^ US patent 6958101, Ivan V. Mendenhall, Robert D. Taylor, "Substituted basic metal nitrates in gas generation" 
+^ "Air Bags". The Children's Hospital of Philadelphia. 30 March 2014. Retrieved 18 July 2022.
+^ "What You Need to Know About Air Bags, DOT HS 809 575". nhtsa.gov. Archived from the original on 28 May 2010. Retrieved 17 October 2010.
+^ "What You Need to Know About Air Bags, DOT HS 809 575". nhtsa.dot.gov. Archived from the original on 26 November 2009. Retrieved 16 March 2014.
+^ "ET 08/00: Sodium azide in car airbags poses a growing environmental hazard". sdearthtimes.com. Archived from the original on 17 September 2014. Retrieved 16 March 2014.
+^ "Thermally stable nonazide automotive airbag propellants   Patent 6306232". freepatentsonline.com. Archived from the original on 16 March 2014. Retrieved 16 March 2014.[non-primary source needed]
+^ Bloch, Byron (1998). "Advanced designs for side impact and rollover protection" (PDF). NHTSA. Archived from the original (PDF) on 25 November 2014. Retrieved 16 March 2014.
+^ "Federal Motor Vehicle Safety Standards and Regulations (Standard No. 208)". NHTSA. March 1999. Archived from the original on 7 May 2014. Retrieved 16 March 2014.
+^ "USCAR24-22: Inflator Technical Requirements and Validation". SAE International. 30 April 2013. Archived from the original on 6 January 2014. Retrieved 16 March 2014.
+^ Frontal impact test description Archived 6 May 2008 at the Wayback Machine Euro NCAP website
+^ "Cars". 17 October 2016.
+^ Comercio, Grupo El (20 January 2014). "Nuevo reglamento de calidad para veh culos". El Comercio.
+^ "Airbags y ABS, sistemas obligatorios en Argentina". La Capital (in Spanish). Retrieved 18 July 2022.
+^ G1, Do; Paulo, em S o (1 January 2014). "Come a a valer obrigatoriedade de airbag e ABS para carros novos". Auto Esporte.
+^ "Todo lo que hay que saber de la ley N  19.061". autoblog.com.uy.
+^ "Doble Airbag: Ser  obligatorio en Chile". autocosmos.cl. 19 March 2015.
+^ Tiempo, Casa Editorial El (7 October 2015). "Con bolsas de aire, el pa s se pone a tono con el mundo". El Tiempo.
+^ Mart nez, Marcos. "Mayor protecci n en los autos, la nueva normatividad en la industria". El Economista.
+^ "Dual airbags mandatory for new cars from April 1- Business News". businesstoday.in. 5 March 2021. Retrieved 6 March 2021.
+^ Sharma, Akhilesh (29 September 2022). "6 Airbags In Cars A Must From October 2023". New Delhi TV. India. Retrieved 2 October 2022.
+^ Bohr, Peter (July August 2010), "Air Time", AAA World, vol. 12, no. 4, p. 24
+^ a b "Curtain air bag Hyundai Sonata: Manuals and Car Information". hsguide.net. Archived from the original on 14 July 2014. Retrieved 7 June 2014.
+^ a b "Gettiing Started". underridenetwork.org. Archived from the original on 14 July 2014. Retrieved 7 June 2014.
+^ Underride Guard on Everything2 Archived 15 March 2008 at the Wayback Machine; Retrieved: 29 November 2007
+^ United States Congressional Committee on Commerce (1997). Reauthorization of the National Highway Traffic Safety Administration. p. 39.
+^ Feeney, Nolan (3 June 2014). "GM Disputes Report Tying Ignition Switch Problem to 74 Deaths". Time. Archived from the original on 3 June 2014. Retrieved 4 June 2014.
+^ "NHTSA 49 CFR Parts 552, 571, 585, and 595, Docket Notice". NHTSA. 1 December 2000. Archived from the original on 16 March 2014. Retrieved 16 March 2014.
+^ a b "Statistical Breakdown of Air Bag Fatalities". National Highway Traffic Safety Administration. Archived from the original on 26 February 2008. Retrieved 16 March 2014.
+^ Olson, Carin M.; Cummings, Peter; Rivara, Frederick P. (2006). "Association of First- and Second-Generation Airbags with Front Occupant Death in Car Crashes: A Matched Cohort Study". American Journal of Epidemiology. 164 (2): 161 9. doi:10.1093/aje/kwj167. PMID 16775043.
+^ "NHTSA Recalls Spotlight   Takata Air Bag Recalls   November 3, 2015 Press Conference". nhtsa.gov. Archived from the original on 2 January 2016.
+^ Krishner, Tom (9 December 2022). "US reports another Takata air bag death, bringing toll to 33". Associated Press.
+^ Rushe, Dominic (19 May 2015). "Air bag defect to trigger largest auto recall in US history". The Guardian. Archived from the original on 8 August 2016. Retrieved 10 December 2016.
+^ "Takata fined $70 million for defective airbags as recalls nearly double". LA Times. Archived from the original on 3 November 2015. Retrieved 3 November 2015.
+^ "Takata's Woes Are Complete: Now Toyota Has Dropped It". Fortune. Archived from the original on 9 November 2015.
+^ "Japan air bag maker Takata reports $46 million loss". The Big Story. Archived from the original on 2 January 2016.
+^ "Takata, brought down by airbag crisis, files for bankruptcy". CNN. 25 June 2017.
+^ The statement "they've saved some 26,000 lives, according to estimates from the ... (NHTSA)" has been published. Bohr, Peter (July August 2010), "Air Time", AAA World, vol. 12, no. 4, p. 24
+^ Toyota Aurion: User Manual 2006 model   Australia
+^ Hallman, J.J.; Brasel, K.J.; Yoganandan, N.; Pintar, F.A. (October 2009). "Splenic trauma as an adverse effect of torso-protecting side airbags: biomechanical and case evidence". Ann Adv Automot Med. 53: 13 24. PMC 3256804. PMID 20184829.
+^ Hallman, J.J.; Yoganandan, N.; Pintar, F.A. (November 2010). "Biomechanical and injury response to posterolateral loading from torso side airbags". Stapp Car Crash J. SAE Technical Paper Series. 54: 227 57. doi:10.4271/2010-22-0012. PMC 3820120. PMID 21512911.
+^ "Defenselink article". defense.gov. 18 February 1999. Archived from the original on 16 March 2014.
+^ "Cockpit Air Bag System (CABS) for UH-60A/L". helis.com. 18 November 1999. Retrieved 15 January 2020.
+^ "OH-58D Kiowa Warrior". fas.org. 29 May 2000. Archived from the original on 14 October 2006. Retrieved 16 March 2014.
+^ "Microsoft Word - Sunset Brochure.doc" (PDF). Archived from the original (PDF) on 13 September 2005. Retrieved 17 October 2010.
+^ "Air Defense concept papers". csat.au.af.mil. Archived from the original on 12 August 2010. Retrieved 17 October 2010.
+^ "BNET News Release on AHS Annual Forum award". findarticles.com. 13 June 2002. Archived from the original on 3 December 2010. Retrieved 17 October 2010.
+^ "Simula Receives Orders for its Cockpit Air Bag Systems - CABS". allbusiness.com. Archived from the original on 22 May 2010. Retrieved 15 January 2020.
+^ "'06 Wing gets airbag". Motorcycle News. 2 September 2005. Archived from the original on 12 February 2009.
+^ "Exploding the myths: Everything you need to know about motorbike airbag vests".
+^ "Airbags: Compulsory from 2018".
+External links[edit]
+Wikimedia Commons has media related to Airbags.
+Chemistry behind airbags
+Pictures and details about the 1970s GM Air Cushion Restraint System
+Magratten, Drew (14 September 2014). "The Promise of the Air Bag". Retro Report. Retrieved 4 April 2018. History of airbags and how the technology gave rise to today's "smart cars".
+vteCar interiorPart of a series of articles on carsInstruments
+Automotive navigation system
+Automotive night vision
+Backup camera
+Blind spot monitor
+Boost gauge
+Buzzer
+Carputer
+Check engine light
+Electronic instrument cluster
+Fuel gauge
+Head-up display
+Odometer
+Parking sensor
+Radar detector
+Speedometer
+Tachometer
+Telematics
+Tell-tale
+Trip computer
+Controls
+Bowden cable
+Brake
+Clutch
+Cruise control
+Electronic throttle control
+Gear stick
+Manettino dial
+Parking brake
+Power steering
+Steering wheel
+Anti-theft
+Alarm
+Automatic vehicle location
+Immobiliser
+Power door locks
+Remote keyless system
+Smart key
+VIN etching
+SafetySeating
+Airbag
+Armrest
+Bench seat
+Bucket seat
+Child safety lock
+Rear-view mirror
+Rumble seat
+Seat belt
+Other elements
+Boot liner
+Center console
+Dashboard
+Glove compartment
+Molded carpet
+Sun visor
+Vehicle mat
+Convenience
+Audio
+Automobile auxiliary power outlet
+Cup holder
+Car Phone
+ Category
+ Commons
+ Portal
+Authority control: National 
+Japan
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Airbag&oldid=1145451268"

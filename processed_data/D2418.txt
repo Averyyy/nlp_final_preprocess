@@ -1,0 +1,510 @@
+Games from the 1940s to the 1970s
+Part of a series on theHistory of video games
+Early history
+Early history of video games
+Early mainframe games
+Consoles
+History of video game consoles
+Console war
+1st generation (1972 1980)
+2nd generation (1976 1992)
+Video game crash of 1983
+3rd generation (1983 2003)
+4th generation (1987 2004)
+5th generation (1993 2005)
+6th generation (1998 2015)
+7th generation (2005 2017)
+8th generation (2012 present)
+9th generation (2020 present)
+Arcade video games
+History of arcade video games
+Golden age of arcade video games
+Timeline of arcade video game history
+Personal computer
+History of personal computer games
+Mobile games
+History of mobile games
+Virtual reality
+History of virtual reality games
+Cloud gaming
+History of cloud gaming
+Other platforms
+Browser game
+Emulation
+Genres
+List of genres
+History of East Asian role-playing video games
+History of Western role-playing video games
+History of online games
+History of real-time strategy games
+History of tactical role-playing games
+History of single-player video games
+History of multiplayer video games
+History of massively multiplayer online games
+Lists
+List of video games in development
+vte
+The history of video games spans a period of time between the invention of the first electronic games and today, covering many inventions and developments. Video gaming reached mainstream popularity in the 1970s and 1980s, when arcade video games, gaming consoles and home computer games were introduced to the general public. Since then, video gaming has become a popular form of entertainment and a part of modern culture in most parts of the world. The early history of video games, therefore, covers the period of time between the first interactive electronic game with an electronic display in 1947, the first true video games in the early 1950s, and the rise of early arcade video games in the 1970s  (Pong and the beginning of the first generation of video game consoles with the Magnavox Odyssey, both in 1972). During this time there was a wide range of devices and inventions corresponding with large advances in computing technology, and the actual first video game is dependent on the definition of "video game" used.
+Following the 1947 invention of the cathode-ray tube amusement device the earliest known interactive electronic game as well as the first to use an electronic display the first true video games were created in the early 1950s. Initially created as technology demonstrations, such as the Bertie the Brain and Nimrod computers in 1950 and 1951, video games also became the purview of academic research. A series of games, generally simulating real-world board games, were created at various research institutions to explore programming, human computer interaction, and computer algorithms. These include OXO and Christopher Strachey's draughts program in 1952, the first software-based games to incorporate a CRT display, and several chess and checkers programs. Possibly the first video game created simply for entertainment was 1958's Tennis for Two, featuring moving graphics on an oscilloscope. As computing technology improved over time, computers became smaller and faster, and the ability to work on them was opened up to university employees and undergraduate students by the end of the 1950s. These new programmers began to create games for non-academic purposes, leading up to the 1962 release of Spacewar! as one of the earliest known digital computer games to be available outside a single research institute.
+Throughout the rest of the 1960s increasing numbers of programmers wrote digital computer games, which were sometimes sold commercially in catalogs. As the audience for video games expanded to more than a few dozen research institutions with the falling cost of computers, and programming languages that would run on multiple types of computers were created, a wider variety of games began to be developed. Video games transitioned into a new era in the early 1970s with the launch of the commercial video game industry in 1971 with the display of the coin-operated arcade game Galaxy Game and the release of the first arcade video game Computer Space, and then in 1972 with the release of the immensely successful arcade game Pong and the first home video game console, the Magnavox Odyssey, which launched the first generation of video-game consoles.
+Defining the video game[edit]
+ Circuitry schematic from the patent for the cathode-ray tube amusement device
+The term "video game" has evolved over the decades from a purely technical definition to a general concept defining a new class of interactive entertainment. Technically, for a product to be a video game under early definitions, it needed to transmit a video signal to a display.[1]
+This can (but not always) include a cathode ray tube (CRT), oscilloscope, liquid crystal display, vector-scan monitor, etc.[2] This definition would preclude early computer games that outputted results to a printer or teletype rather than a display, as well as games that used static LCD graphics, for example Nintendo's Game & Watch, or most Tiger Electronics handhelds.[3] From a technical standpoint, these would more properly be called "electronic games" or "computer games".[4]
+Today the term "video game" has completely shed its purely hardware-dependent definition and encompasses a wider range of technology. While still rather ill-defined, the term "video game" now generally encompasses any game played on hardware built with electronic logic circuits that incorporates an element of interactivity and outputs the results of the player's actions to a display.[5] Going by this broader definition, the first video games appeared in the early 1950s; they were tied largely to research projects at universities and large corporations, though, and had little influence on each other due to their primary purpose as academic and promotional devices rather than entertainment games.[6]
+The ancestors to these games include the cathode-ray tube amusement device, the earliest known interactive electronic game as well as the first to incorporate a cathode-ray tube screen.[7] The player simulates an artillery shell trajectory on a CRT screen connected to an oscilloscope, with a set of knobs and switches. The device uses purely analog electronics and does not use any digital computer or memory device or execute a program.[8] It was patented by Thomas T. Goldsmith Jr. and Estle Ray Mann in 1947.[9] While the idea behind the game was potentially to use a television set as the display and thus sell the invention to consumers, as Goldsmith and Mann worked at television designer DuMont Laboratories, the patent, the first for an electronic game, was never used and the device never manufactured beyond the original handmade prototypes.[8][10][11]
+This, along with the lack of electronic logic circuits, keeps the device from being considered the first video game. In 1948, shortly after the patenting of this device, Alan Turing and David Champernowne developed the earliest known written computer game - a chess simulation called Turochamp, though it was never actually implemented on a computer as the code was too complicated to run on the machines of the time. Turing tested the code in a game in 1952 where he mimicked the operation of the code in a real chess-game against an opponent, but was never able to run the program on a computer.[11]
+Initial games[edit]
+ A drawing of the Nimrod computer
+The first electronic digital computers, Colossus and ENIAC, were built during World War II to aid the Allied war effort.[12]  Shortly after the war, the promulgation of the first stored program architectures at the University of Manchester (Manchester Mark 1), University of Cambridge (EDSAC), the University of Pennsylvania (EDVAC), and Princeton University (IAS machine) allowed computers to be easily reprogrammed to undertake a variety of tasks, which facilitated commercializing computers in the early 1950s by companies like Remington Rand, Ferranti, and IBM.[13] This in turn promoted the adoption of computers by universities, government organizations, and large corporations as the decade progressed.[12] It was in this environment that the first video games were born.
+The computer games of the 1950s can generally be divided into three categories: training and instructional programs, research programs in fields such as artificial intelligence, and demonstration programs intended to impress or entertain the public. Because these games were largely developed on unique hardware in a time when porting between systems was difficult and were often dismantled or discarded after serving their limited purposes, they did not generally influence further developments in the industry.[6] For the same reason, it is impossible to be certain who developed the first computer game or who originally modeled many of the games or play mechanics introduced during the decade, as there are likely several games from this period that were never publicized and are thus unknown today.[6]
+The earliest known publicly demonstrated electronic game was created in 1950. Bertie the Brain was an arcade game of tic-tac-toe, built by Josef Kates for the 1950 Canadian National Exhibition.[14] To showcase his new miniature vacuum tube, the additron tube, he designed a specialized computer to use it, which he built with the assistance of engineers from Rogers Majestic. The large metal computer, which was four meters tall, could only play tic-tac-toe on a lightbulb-backed display, and was installed in the Engineering Building at the Canadian National Exhibition from August 25 to September 9, 1950.[15][16] The game was a success at the two-week exhibition, with attendees lining up to play it as Kates adjusted the difficulty up and down for players. After the exhibition, Bertie was dismantled, and "largely forgotten" as a novelty. Kates has said that he was working on so many projects at the same time that he had no energy to spare for preserving it, despite its significance.[15]
+Nearly a year later on May 5, 1951, the Nimrod computer created by engineering firm and nascent computer developer Ferranti was presented at the Festival of Britain, and then showcased for three weeks in October at the Berlin Industrial Show before being dismantled.[11] Using a panel of lights for its display, it was designed exclusively to play the game of Nim; moves were made by players pressing buttons which corresponded with the lights. Nimrod could play either the traditional or "reverse" form of the game.[6] The machine was twelve feet wide, nine feet deep, and five feet tall.[11] It was based on an earlier Nim-playing machine, "Nimatron", designed by Edward Condon and built by Westinghouse Electric in 1940 for display at the New York World's Fair.[6] "Nimatron" had been constructed from electromechanical relays and weighed over a ton.[17] The Nimrod was primarily intended to showcase Ferranti's computer design and programming skills rather than entertain, and was not followed up by any future games.[6] Despite this, most of the onlookers at the Festival of Britain were more interested in playing the game than in the programming and engineering logic behind it.[11]
+ Christopher Strachey's 1952 draughts program on a Ferranti Mark 1
+Around this time, non-visual games were being developed at various research computer laboratories; for example, Christopher Strachey developed a simulation of the game draughts, or checkers, for the Pilot ACE that he unsuccessfully attempted to run for the first time in July 1951 at the British National Physical Laboratory and completed in 1952; this is the first known computer game to be created for a general-purpose computer, rather than a machine specifically made for the game like Bertie.[6][18] Strachey's program inspired Arthur Samuel to develop his own checkers game in 1952 for the IBM 701; successive iterations developed rudimentary artificial intelligence by 1955 and a version was shown on television in 1956.[6][11][19] Also in 1951, Dietrich Prinz wrote the first limited program of chess for the University of Manchester's general-purpose Ferranti Mark 1 computer, one of the first commercially available computers. The program was only capable of computing "mate-in-two" problems as it was not powerful enough to play a full game, and it had no video output.[20] Around the same time in the early 1950s, military research organizations like the RAND Corporation developed a series of combat simulation games of increasing complexity, such as Carmonette, where the player would enter orders to intercept enemy aircraft, or set up their forces to counter an enemy army invasion.[18] These simulations were not yet true video games, as they required human intervention to interpret the player's orders and the final results; the computer only controlled the paths that the enemies would take, and the program was focused on simulating events and probabilities.[6]
+Interactive visual games[edit]
+ The Electronic Delay Storage Automatic Calculator in 1948, which ran OXO
+In 1952, Alexander S. Douglas created OXO, a software program for the EDSAC computer, which simulates a game of tic-tac-toe. The EDSAC was one of the first stored-program computers, with memory that could be read from or written to, and filled an entire room; it included three 35 16 dot matrix cathode ray tubes to graphically display the state of the computer's memory.[11][21] As a part of a thesis on human computer interaction, Douglas used one of these screens to portray other information to the user; he chose to do so via displaying the current state of a game.[22] The player entered input using a rotary telephone controller, selecting which of the nine squares on the board they wished to move next. Their move would appear on the screen, and then the computer's move would follow.[23] The game was not available to the general public, and was only available to be played in the University of Cambridge's Mathematical Laboratory, by special permission, as the EDSAC could not be moved.[24] Like other early video games, after serving Douglas's purpose, the game was discarded.[11] Around the same time, Strachey expanded his draughts program for another mainframe computer, the Manchester Mark 1, culminating in a version for the Ferranti Mark 1 in 1952, which had a CRT display.[25] Like OXO, the display was mostly static, updating only when a move was made.[26] OXO and Strachey's draughts program are the earliest known games to display visuals on an electronic screen.[6]
+The first known game incorporating graphics that updated in real time, rather than only when the player made a move, was a simulation of a bouncing ball created by Massachusetts Institute of Technology (MIT) student Oliver Aberth for the Whirlwind I computer. He initially created the simulation in February 1951, which allowed users to adjust the frequency of the bounces with a knob, and sometime between late 1951 and 1953 made it into a game by adding a hole in the floor for players to aim for. The game was used in classes at MIT by Charles W. Adams, assistant professor of digital computers.[27] It was followed by a pool game programmed by William Brown and Ted Lewis specifically for a demonstration of the University of Michigan-developed MIDSAC computer at the university in 1954. The game, developed over six months by the pair, featured a pool stick controlled by a joystick and a knob, and a full rack of 15 balls on a table seen in an overhead view.[6] The computer calculated the movements of the balls as they collided and moved around the table, disappearing when they reached a pocket, and updated the graphics continuously, forty times a second, so as to show real-time motion.[28] Like previous video games, the pool game was intended primarily to showcase the computing power of the MIDSAC computer.[6]
+ The set-up for Tennis for Two as exhibited in 1959
+While further games like checkers and chess were developed on research computers, the next milestone in video games came in 1958 with Tennis for Two. Perhaps the first game created solely for entertainment rather than as a technology demonstration or a research tool, the program simulated a game of tennis. Created by American physicist William Higinbotham for visitors at the Brookhaven National Laboratory to be more entertaining for visitors on their public day than the usual static exhibits about nuclear power, the game ran on a Donner Model 30 analog computer and displayed a side view of a tennis court on an oscilloscope.[11][29][30] The players controlled the angle of their shots with attached controllers, and the game calculated and simulated the trajectory of the ball, including the possibility of hitting the net.[31] The game was first shown on October 18, 1958. Hundreds of visitors lined up to play the new game during its debut.[31] Due to the game's popularity, an upgraded version was shown the following year, with enhancements including a larger screen and different levels of simulated gravity.[32] Afterwards, having served its purpose, the game was dismantled for its component parts.[11] While the game had no innovations in game design or technological development, its status as an entertainment-focused game, rather than an academic project or technological showpiece, has led it to be considered one of the first "real" video games as they are generally thought of today.[6]
+Over the next few years, during 1957 61, various computer games continued to be created in the context of academic computer and programming research, particularly as computer technology improved to include smaller, transistor-based computers on which programs could be created and run in real time, rather than operations run in batches. A few programs, however, while used to showcase the power of the computer they ran on were also intended as entertainment products; these were generally created by undergraduate students, such as at MIT where they were allowed on occasion to develop programs for the TX-0 experimental computer.[33] These interactive graphical games were created by a community of programmers, many of them students affiliated with the Tech Model Railroad Club (TMRC) led by Alan Kotok, Peter Samson, and Bob Saunders. The games included Tic-Tac-Toe, which used a light pen to play a simple game of noughts and crosses against the computer, and Mouse in the Maze.[34][35] Mouse in the Maze allowed users to use a light pen to set up a maze of walls on the monitor, and spots that represented bits of cheese or glasses of martini. A virtual mouse was then released and would traverse the maze to find the objects.[33][36] Additionally, the wargame simulations from the early 1950s by the RAND Corporation had expanded into more complicated simulations which required little human intervention, and had also sparked the creation of business management simulation games such as The Management Game, which was used in business schools such as at Carnegie Mellon University by 1958.[6][37] By 1961, there were over 89 different business simulation games in use, with various graphical capabilities.[38] As the decade ended, despite several video games having been developed, there was no such thing as a commercial video game industry; almost all games had been developed on or as a single machine for specific purposes, and the few simulation games were neither commercial nor for entertainment.[11]
+The spread of games[edit]
+See also: Early mainframe games
+ Spacewar! running on the Computer History Museum's PDP-1
+By 1961, MIT had acquired the DEC PDP-1 minicomputer, the successor to the TX-0, which also used a vector display system. The system's comparatively small size and processing speed meant that, like with the TX-0, the university allowed its undergraduate students and employees to write programs for the computer which were not directly academically related whenever it was not in use. In 1961 62, Harvard and MIT employees Martin Graetz, Steve Russell, and Wayne Wiitanen created the game Spacewar! on the PDP-1, inspired by science fiction books such as the Lensman series.[39][40] The game was copied to several of the early minicomputer installations in American academic institutions, making it potentially the first video game to be available outside a single research institute.[41]
+The two-player game has the players engaged in a dogfight between two spaceships set against the backdrop of a randomly generated background starfield.[34][40] The game was developed to meet three precepts: to use as much of the computer's resources as possible, to be consistently interesting and therefore have every run be different, and to be entertaining and therefore a game.[42] The game was a multiplayer game because the computer had no resources left over to handle controlling the other ship. After the game's initial development, members of the TMRC worked to improve the game, adding an accurate starfield and a gravitational body, and spread it to the couple dozen other institutions with a PDP-1, a process which continued over the next few years. As the computer was uncomfortable to use for extended periods of time, Kotok and Saunders created a detached control device, essentially an early gamepad.[43] Spacewar was reportedly used as a smoke test by DEC technicians on new PDP-1 systems before shipping, since it was the only available program that exercised every aspect of the hardware.[44] Although the game was widespread for the era, it was still very limited in its direct reach: the PDP-1 was priced at US$120,000 (equivalent to $1,100,000 in 2021) and only 55 were ever sold, many without a monitor, which prohibited Spacewar or any game of the time from reaching beyond a narrow, academic audience.[40][43] Russell has been quoted as saying that the aspect of the game that he was most pleased with was the number of other programmers it inspired to write their own games.[45]
+ The development of Space Travel in 1969 in part led to the development of the Unix operating system
+Although the market for commercial games and software in general was small, due to the cost of computers limiting their spread to research institutions and large corporations, several were still created by programmers and distributed by the computer manufacturers. A number of games could be found in an April 1962 IBM program catalog. These included board games, "BBC Vik The Baseball Demonstrator", and "Three Dimensional Tic-Tack-Toe".[46] Following the spread of Spacewar, further computer games developed by programmers at universities were also developed and distributed over the next few years. These included the Socratic System, a question and answer game designed to teach medical students how to diagnose patients by Wallace Feurzeig in 1962,[47] and a dice game by Edward Steinberger in 1965.[48] Mainframe games were developed outside of the IBM and DEC communities as well, such as the 1962 Polish Marienbad for the Odra 1003.[49] A joint research project between IBM and the Board of Cooperative Educational Services of Westchester County, New York led to the creation of The Sumerian Game, one of the first strategy video games ever made, the first game with a narrative, and the first edutainment game; it was also the first known game to be designed by a woman, teacher Mabel Addis.[50]
+The creation of general programming languages like BASIC, which could be run on different hardware types, allowed for programs to be written for more than one specific computer, in turn letting games written in them to spread to more end players in the programming community than before. These games included a baseball simulation game written in BASIC by John Kemeny in 1965;[51] a BASIC bingo game by Larry Bethurum in 1966;[52] a basketball simulation game written in BASIC by Charles R. Bacheller in May 1967;[53] another baseball game that simulates the 1967 World Series written in BASIC by Jacob Bergmann in August 1967;[54] Space Travel, written by Ken Thompson for a Multics system in 1969 and which led in part to the development of the Unix operating system;[55] and Hamurabi, a text-based FOCAL game written by Doug Dyment in 1968 based on a description of The Sumerian Game and converted to BASIC by David H. Ahl in 1969. Hamurabi and Space Travel were among several early mainframe games that were written during the time, and spread beyond their initial mainframe computers to general-purpose languages like BASIC.[56]
+A new industry[edit]
+See also: History of video games, Arcade game, Video game industry, and First generation of video game consoles
+ Computer Space (1971), the first commercial arcade video game.
+At the beginning of the 1970s, video games existed almost entirely as novelties passed around by programmers and technicians with access to computers, primarily at research institutions and large companies. The history of video games transitioned into a new era early in the decade, however, with the rise of the commercial video game industry.
+The arcade video game industry grew out of the pre-existing arcade game industry, which was previously dominated by electro-mechanical games (EM games). Following the arrival of Sega's EM game Periscope (1966), the arcade industry was experiencing a "technological renaissance" driven by "audio-visual" EM novelty games, establishing the arcades as a healthy environment for the introduction of commercial video games in the early 1970s.[57] The first commercial arcade video game was Computer Space (1971), which was developed by Nolan Bushnell and Ted Dabney and was based on Spacewar. Bushnell, who had previously worked at an arcade, wanted to recreate Spacewar as an arcade game.[58] They had found the Data General Nova, a US$4,000 computer that they thought would be powerful enough to run four games of Spacewar at once; the computer turned out to not actually be powerful enough for the project. While investigating the concept of replacing some of the computer with purpose-built hardware, however, the pair discovered that making a system explicitly for running such a game, rather than general programs, would be much less expensive: as low as $100.[59][60] A prototype version had been successfully displayed for a short time in August 1971 in a local bar, the design was nearly finished, and the pair had founded a company around it called Syzygy.[61] Bushnell had also found a manufacturer for the game, Nutting Associates, who would make the final game cabinets and sell them to distributors.[59]
+ Galaxy Game (1971), one of the first arcade video games.
+Another early coin-operated arcade video game was Galaxy Game (1971), developed by Bill Pitts and Hugh Tuck at Stanford University using a DEC PDP-11 computer with vector displays.[62] The pair was also inspired to make the game by Spacewar; Tuck had remarked in 1966 while playing the game that a coin-operated version of the game would be very successful. Such a device was unfeasible in 1966 due to the cost of computers, but in 1969 DEC released the PDP-11 for US$20,000 (equivalent to $150,000 in 2021); while this was still too high for a commercially viable product, as most games in arcades cost around US$1,000 at the time, the pair felt it was low enough to build a prototype to determine interest and optimal per-game pricing.[59] Only prototype units were ever built, though the second prototype was adapted to run up to eight games at once; a few months before the initial installation at Stanford in November 1971, the pair met with Nolan Bushnell, who informed them of his own game he was making for a much lower price.[62][59]
+Bushnell felt that Galaxy Game was not a real competitor to Computer Space, due to its high price. Pitts and Tuck believed, however, that despite the economic argument their game was superior, as they felt that Galaxy Game was a true expansion of Spacewar, while Computer Space just a pale imitation.[59] Some players at the time, however, believed Galaxy Game to actually be just a version of Spacewar!.[63] Galaxy Game's prototype installation was very popular, though at a low price-per-game, and the pair developed a second version to display at the same location; they were never able to enter production, though, as they eventually had to abandon the idea after spending US$65,000 developing it due to the high cost and lack of business plan.[59]
+ Pong (1972) helped usher in a new chapter of video game history.
+Around the same time as Galaxy Game's prototype installation, Computer Space was released. It was the first coin-operated video game to be commercially sold and the first widely available video game of any kind.[64] While it did well in its initial locations near college campuses, it performed very poorly in bars and arcades where pinball and other arcade games were typically placed; while it was commercially successful and made over US$1,000,000, it did not meet the high expectations of Nutting, who had expected to sell more than 1,500 units.[59][61] Bushnell and Dabney immediately started work on another game, using the same television set design as Computer Space, as well as founding their own company Atari, Inc. to back their projects.[64] Initially, this game was intended to be a driving video game that Bushnell planned to design, influenced by Chicago Coin's Speedway (1969).[65] Instead, the project was given to Atari's first employee, Allan Alcorn, and as Bushnell believed the driving game would be too complicated as a first project he suggested a prototype ping-pong game. Alcorn expanded the idea, and designed a game the company immediately seized on. They were unable to find a manufacturer, but on the evidence of the success of their prototype installation, decided to produce the game cabinets themselves.[59] Pong was released in 1972, a year after Computer Space. It was immensely commercially successful, selling over 8,000 units. It inspired copycat games to be sold in America, Europe, and Japan, and led to the popularization of the medium.[59][64]
+That same year saw the release of the Magnavox Odyssey, the first home video game console which could be connected to a television set.[66] The inventor, Ralph H. Baer, had initially had the idea in 1951 to make an interactive game on a television set. Unable to do so with the technological constraints at the time, he began work on a device that would attach to a television set and display games in 1966, and the "Brown Box", the last prototype of seven, was licensed to Magnavox to adapt and produce. They announced the console in May 1972, and it went on sale that September. The console and its games featured numerous innovations beyond being the first video game device for home consumers: it was the first game to use a raster-scan video display, or television set, directly displayed via modification of a video signal; it was also the first video gaming device to be displayed in a television commercial.[67] It sold for US$100 and shipped with several games, including "Table tennis", which Bushnell had seen a demo of and which Pong had been based on.[59] The Odyssey sold over 100,000 units in 1972, and more than 350,000 by the end of 1975, buoyed by the popularity of the table tennis game, in turn driven by the success of Pong.[59][68] Pong and the Odyssey kicked off a new era of video gaming, with numerous other competitors starting up in the video game industry as it grew in popularity.[59]
+References[edit]
+^ Wolf 2007, pp. 4 5. "By the strictest definition, 'video' refers to the use of an analog intensity/brightness signal displayed on a cathode ray tube (CRT), the kind of picture tube used in a television set or computer monitor, to produce raster-based (filled-area images, as opposed to wireframe ones) imagery."
+^ Wolf 2007, p. 5. "Because both vector and raster games used CRTs, vector games became included in the term 'video games', and later [...], popular use of the term came to include games using liquid crystal display (LCD) screens, [...] and even a light-emitting diode (LED)-based screen [...]."
+^ Wolf 2007, pp. 3 8
+^ Wolf 2012b, p. XV
+^ Wolf 2012b, p. 3 7
+^ a b c d e f g h i j k l m n Smith, Alexander (2014-01-22). "The Priesthood At Play: Computer Games in the 1950s". They Create Worlds. Archived from the original on 2015-12-22. Retrieved 2015-12-18.
+^ Kowert; Quandt, p. 3
+^ a b Cohen, D. S. "Cathode-Ray Tube Amusement Device". Lifewire. Dotdash Meredith. Archived from the original on 2021-05-18. Retrieved 2023-03-27.
+^ US patent 2455992, Goldsmith Jr., Thomas T. & Mann, Estle Ray, "Cathode Ray Tube Amusement Device", issued 1948-12-14 
+^ Wolf 2012a, pp. 1 2
+^ a b c d e f g h i j k Donovan, pp. 1 9
+^ a b Aspray, pp. xii xiii
+^ Ceruzzi, pp. 20 40
+^ Simmons, Marlene (1975-10-09). "Bertie the Brain programmer heads science council". Ottawa Citizen. p. 17. Archived from the original on 2021-03-08. Retrieved 2015-12-18.
+^ a b Bateman, Chris (2014-08-13). "Meet Bertie the Brain, the world's first arcade game, built in Toronto". Spacing Magazine. Archived from the original on 2015-12-22. Retrieved 2014-11-16.
+^ Varley, p. 119
+^ Redheffer, Raymond (1948). "A Machine for Playing the Game Nim". American Mathematical Monthly. 55 (6 (June/July 1948)): 343 349. doi:10.2307/2304959. ISSN 0002-9890. JSTOR 2304959.
+^ a b Wolf 2007, pp. 31 34
+^ "IBM100 - The IBM 700 Series". IBM100. IBM. 2011. Archived from the original on 2015-12-22. Retrieved 2015-12-18.
+^ "Opening Moves: Origins of Computer Chess - First Tests". Computer History Museum. Archived from the original on 2015-12-22. Retrieved 2013-04-04.
+^ Campbell-Kelly, Martin (2001). "A Tutorial Guide to the EDSAC Simulator" (PDF). University of Warwick. Archived from the original (PDF) on 2015-12-22. Retrieved 2015-12-18.
+^ Kurosu, p. 561
+^ Hey; P pay, p. 174
+^ Cohen, D. S. (2014-09-20). "OXO aka Noughts and Crosses - The First Video Game". About.com. IAC. Archived from the original on 2015-12-22. Retrieved 2015-12-18.
+^ Link, David (2012). "Programming ENTER: Christopher Strachey's Draughts Program" (PDF). Resurrection. Computer Conservation Society (60): 23 31. Archived (PDF) from the original on 2019-02-14. Retrieved 2015-12-20.
+^ Strachey, C. S. (September 1952). Logical or non-mathematical programmes. Association for Computing Machinery '52: Proceedings of the 1952 ACM National Meeting (Toronto). p. 47. doi:10.1145/800259.808992. Archived from the original on 2021-04-18. Retrieved 2015-12-17.
+^ Smith, Alexander (2021-03-10). "Worldly Wednesdays: The First Real-Time Games". They Create Worlds. Archived from the original on 2021-03-10. Retrieved 2021-03-10.
+^ Gibbons, Roy (1954-06-27). "Meet Midac and Midsac: Dice, Pool Shooting Fools". Chicago Tribune. p. 1. Archived from the original on 2015-12-23. Retrieved 2015-12-18.
+^ "Video Games Did They Begin at Brookhaven?". Office of Scientific and Technical Information. 1981. Archived from the original on 2015-11-03. Retrieved 2008-11-11.
+^ Campbell, Hank (2009-01-27). "What Was The First Computer Game?". Science 2.0. ION Publications. Archived from the original on 2015-11-21.
+^ a b Kalning, Kristin (2008-10-23). "The anatomy of the first video game". MSNBC. Comcast. Archived from the original on 2015-11-20. Retrieved 2009-03-23.
+^ Lambert, Bruce (2008-11-07). "Brookhaven Honors a Pioneer Video Game". The New York Times. p. LI1. Archived from the original on 2018-04-11. Retrieved 2009-03-23.
+^ a b Smith, Alexander (2014-07-10). "People Get Ready, There's a Train A-Coming". They Create Worlds. Archived from the original on 2015-12-22. Retrieved 2015-12-18.
+^ a b Graetz, J. M. (August 1981). "The origin of Spacewar". Creative Computing. 6 (8). ISSN 0097-8140. Archived from the original on 2019-09-04. Retrieved 2015-11-04.
+^ "The TX-0: Its Past and Present". The Computer Museum Report. The Computer Museum. 8. Spring 1984. Archived from the original on 2011-06-29. Retrieved 2015-11-04.
+^ "Mainframes to Minis to Micros". The Computer Chronicles. Season 1. Episode 1. September 1983.  Event occurs at 4:52.
+^ Wells, Matthew (2022-07-28). "The nuclear war origins behind some of the earliest computer lab games". Polygon. Vox Media. Archived from the original on 2022-07-28. Retrieved 2022-07-28.
+^ Greenlaw, Herron, Rawdon, ch. "Introduction"
+^ Rabin
+^ a b c Smith, Alexander (2014-08-07). "One, Two, Three, Four I Declare a Space War". They Create Worlds. Archived from the original on 2015-12-22. Retrieved 2015-12-18.
+^ Rutter; Bryce, p. 22
+^ DeMaria; Wilson, p. 12
+^ a b Donovan, pp. 10 13
+^ Levy
+^ Markoff, John (2002-02-28). "A Long Time Ago, in a Lab Far Away..." The New York Times. p. G9. Archived from the original on 2015-11-25. Retrieved 2015-12-18.
+^ "Catalog of Programs for IBM Data Processing Systems" (PDF). IBM. April 1962. Archived (PDF) from the original on 2015-04-22. Retrieved 2015-12-18.
+^ "1963 Papers and Proceedings of the Digital Equipment Computer Users Society" (PDF). Digital Equipment Computer Users Society. 1964. pp. 205 213. Archived (PDF) from the original on 2015-08-29. Retrieved 2015-12-18.
+^ "Dice Game" (PDF). Decuscope. Digital Equipment Computer Users Society. 3 (2): 46. 1964. Archived (PDF) from the original on 2019-08-19. Retrieved 2012-03-21.
+^ G owacki, Jacek (2013-03-18). "S yszeli cie kiedy  o "Marienbad", pierwszej polskiej grze wideo w historii? Nie? No to koniecznie musicie nadrobi  zaleg o ci!" [Have you ever heard of "Marienbad", the first Polish video game ever? No? Well, you must catch up!]. Onet Gry (in Polish). Archived from the original on 2018-01-07. Retrieved 2018-03-19.
+^ Willaert, Kate (September 9, 2019). "The Sumerian Game: The Most Important Video Game You've Never Heard Of". A Critical Hit. Archived from the original on September 9, 2019. Retrieved September 10, 2019.
+^ Kemeny, John (1965-01-13). "basbal.dem". Digital Equipment Computer Users Society. Archived from the original on 2015-12-22.
+^ Bethurum, Larry (1966-01-23). "bingo.gam". Digital Equipment Computer Users Society. Archived from the original on 2015-12-22.
+^ Bacheller, Charles (May 1967). "bskbal.gam". Digital Equipment Computer Users Society. Archived from the original on 2015-12-22.
+^ Bergmann, Jacob (August 1967). "baseba.gam". Digital Equipment Computer Users Society. Archived from the original on 2015-12-22.
+^ Fiedler, David (August 1983). "The History of Unix". Byte. McGraw-Hill. 8 (8): 188. ISSN 0360-5280.
+^ Ahl, p. 78
+^ Smith, pp. 119 120, 188 191
+^ "The Great Videogame Swindle?". Next Generation. No. 23. Imagine Media. November 1996. pp. 211 229. ISSN 1078-9693.
+^ a b c d e f g h i j k l Donovan, pp. 14 26
+^ DeMaria; Wilson, p. 16
+^ a b Goldberg; Vendel, pp. 40 44
+^ a b "Galaxy-Game machine". Infolab.stanford.edu. Stanford University. Archived from the original on 2015-12-22. Retrieved 2013-04-04.
+^ DeMaria; Wilson, p. 13
+^ a b c Kent, pp. 38 39
+^ Bushnell, Nolan; Weaver, Christopher (2017-11-17). "Nolan Bushnell: Transcript of an interview conducted by Christopher Weaver" (PDF). Lemelson Center for the Study of Invention and Innovation. Smithsonian Institution. p. 33. Archived (PDF) from the original on 2021-05-20. Retrieved 2021-05-20.
+^ Willaert, Kate (2018-01-10). "In Search of the First Video Game Commercial". Video Game History Foundation. Archived from the original on 2018-01-12. Retrieved 2018-01-12.
+^ Edwards, Benj (2007-05-15). "Videogames Turn 40 Years Old". 1UP.com. Ziff Davis. Archived from the original on 2007-09-27. Retrieved 2015-01-26.
+^ Baer, Ralph. "Genesis: How the Home Video Games Industry Began". Ralph H. Baer Consultants. Archived from the original on 2015-10-16. Retrieved 2015-01-26.
+Sources[edit]
+Ahl, David (November 1978). BASIC Computer Games (2nd ed.). Workman Publishing. ISBN 978-0-89480-052-8.
+Campbell-Kelly, Martin; Aspray, William; Ensmenger, Nathan; Yost, Jeffrey (2014). Computer: A History of the Information Machine (3rd ed.). Westview Press. ISBN 978-0-8133-4590-1.
+Ceruzzi, John (2003). A History of Modern Computing (2nd ed.). MIT Press. ISBN 978-0-262-53203-7.
+DeMaria, Rusel; Wilson, Johnny L. (December 2003). High Score!: The Illustrated History of Electronic Games (2nd ed.). McGraw Hill/Osborne. ISBN 978-0-07-223172-4.
+Donovan, Tristan (2010-04-20). Replay: The History of Video Games. Yellow Ant. ISBN 978-0-9565072-0-4.
+Goldberg, Marty; Vendel, Curt (2012-11-25). Atari Inc.: Business Is Fun. Syzygy Press. ISBN 978-0-9855974-0-5.
+Greenlaw, Paul S.; Herron, Lowell W.; Rawdon, Richard H. (1962). Business simulation in industrial and university education. Prentice Hall.
+Hey, Tony; P pay, Gyuri (2014-11-30). The Computing Universe: A Journey through a Revolution. Cambridge University Press. ISBN 978-0-521-15018-7.
+Kent, Steven L. (2001-09-06). The Ultimate History of Video Games. Three Rivers Press. ISBN 978-0-7615-3643-7.
+Kowert, Rachel; Quandt, Thorsten (2015-08-27). The Video Game Debate: Unravelling the Physical, Social, and Psychological Effects of Video Games. Routledge. ISBN 978-1-138-83163-6.
+Kurosu, Masaaki, ed. (2014-06-09). Human-Computer Interaction Applications and Services: 16th International Conference, HCI International 2014, Heraklion, Crete, Greece, June 22-27, 2014, Proceedings, Part 3. Springer Publishing. ISBN 978-3-319-07227-2.
+Levy, Steven (1984). Hackers: Heroes of the Computer Revolution. Doubleday. ISBN 978-0-385-19195-1.
+Rabin, Steve (2005-06-14). Introduction to Game Development. Charles River Media. ISBN 978-1-58450-377-4.
+Rutter, Jason; Bryce, Jo (2006-05-09). Understanding Digital Games. SAGE Publications. ISBN 978-1-4129-0034-8.
+Smith, Alexander (2019-11-19). They Create Worlds: The Story of the People and Companies That Shaped the Video Game Industry, Vol. I: 1971-1982. CRC Press. ISBN 978-0-429-75261-2.
+Varley, Frederick (2007). F.H. Varley: Portraits Into the Light. Dundurn Press. ISBN 978-1-55002-675-7.
+Wolf, Mark J. P. (2007-11-30). The Video Game Explosion: A History from PONG to PlayStation and Beyond. Greenwood Publishing Group. ISBN 978-0-313-33868-7.
+Wolf, Mark J. P. (2012-06-05). Before the Crash: Early Video Game History. Wayne State University Press. ISBN 978-0-8143-3450-8.
+Wolf, Mark J. P. (2012-08-16). Encyclopedia of Video Games: The Culture, Technology, and Art of Gaming. Greenwood Publishing Group. ISBN 978-0-313-37936-9.
+External links[edit]
+Research[edit]
+Ralph H. Baer Papers, 1943 1953, 1966 1972, 2006   Ralph Baer's prototypes and documentation housed at the Smithsonian Lemelson Center
+Classic Gaming Expo 2000: Baer Describes the Birth of Videogames
+"History of Video Games" Timeline by the Computerspielemuseum Berlin
+Game simulation[edit]
+EDSAC simulator to play OXO
+Nimrod Interactive Simulation for Be OS operating system
+Tennis for Two simulation
+Spacewar! Java simulation
+vteEarly history of video gamesAnalog and lightbulb games (1947 1951)
+Cathode-ray tube amusement device
+Turochamp
+Bertie the Brain
+Nimrod
+Interactive visual games (1952 1959)
+OXO
+Tennis for Two
+Digital computer games (1960 1971)
+Early mainframe games
+The Sumerian Game
+Spacewar!
+Marienbad
+Hamurabi
+Space Travel
+Lunar Lander
+First arcade games (1970 1971)
+Computer Space
+Galaxy Game
+vteHistory of video gamesvteChronology of video gamesEarly history
+1947 1972
+1970s
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980s
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990s
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000s
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010s
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020s
+2020
+2021
+2022
+2023
+Near future
+vteVideo game history by platformBy platform
+Early mainframe games
+History of arcade video games
+Golden age
+Timeline
+History of video game consoles
+Video game crash of 1983
+Console war
+History of mobile games
+By console generation
+First (1972 1980)
+Second (1976 1992)
+Third (1983 2003)
+Fourth (1987 2003)
+Fifth (1993 2005)
+Sixth (1998 2013)
+Seventh (2005 2017)
+Eighth (2012 )
+Ninth (2020 )
+vteVideo game genres
+List of video game genres
+Lists of video games by genre
+Action
+Action horror
+Battle royale
+Beat 'em up
+hack and slash
+Fighting
+platform fighter
+Maze
+Pac-Man clone
+Platform
+endless runner
+Metroidvania
+puzzle-platform
+run and gun
+Stealth
+Survival
+Shooter
+first-person
+third-person
+light gun
+looter
+shoot 'em up
+bullet hell
+rail
+run and gun
+twin-stick
+arena
+hero
+tactical
+Action-adventure
+Grand Theft Auto clone
+Metroidvania
+Soulslike
+Adventure
+Graphic adventure
+Escape the room
+Interactive fiction
+Interactive film
+Visual novel
+Digital tabletop
+Deck-building
+Roguelike deck-building
+Digital collectible card
+Horror
+Action horror
+Jump scare horror
+Psychological horror
+Survival horror
+Reverse horror
+MMO
+MMOFPS
+MMORPG
+MMORTS
+MUD
+MOBA
+MMOTBS
+Roguelike
+Roguelike deck-building
+Role-playing
+Action role-playing
+soulslike
+Dungeon crawl
+Monster-taming
+Tactical role-playing
+Simulation
+Construction and management
+business
+city-building
+theme park
+government
+Falling-sand
+Immersive sim
+Life simulation
+dating sim
+virtual pet
+god
+social simulation
+Mining
+Strategy
+4X
+Auto battler
+Multiplayer online battle arena
+Real-time strategy
+time management
+Real-time tactics
+tactical role-playing
+Tower defense
+Turn-based strategy
+Turn-based tactics
+artillery
+Wargame
+grand strategy wargame
+Sports
+American football
+Association football
+Australian rules football
+Baseball
+Basketball
+Cricket
+Fighting
+professional wrestling
+sumo
+Fishing
+Golf
+Ice hockey
+Racing
+kart racing
+sim racing
+Rugby union
+Snowboarding
+Volleyball
+Vehicle simulation
+Flight simulation
+combat
+space
+Lunar Lander
+Submarine simulator
+Train simulator
+Vehicular combat
+Other genres
+Erotic
+Eroge
+Exergame
+Incremental
+Music
+rhythm
+Non-game
+Party
+Programming
+Puzzle
+hidden object
+sokoban
+tile-matching
+puzzle-platform
+Typing
+Chess
+Shogi
+Alternate reality
+Quiz
+Related concepts
+AAA game
+Advertising
+advergame
+Arcade game
+Snake
+Art game
+Audio game
+Casual game
+Christian game
+Crossover game
+Educational game
+FMV
+Gamification
+Indie game
+Multiplayer video game
+Nonlinear gameplay
+open world
+sandbox game
+Nonviolent video game
+Online game
+browser game
+online gambling
+social-network game
+Blockchain game
+Pervasive game
+Serious game
+Toys-to-life
+Twitch gameplay
+Virtual reality game
+Video game clone
+Co-op game
+vteVideo games by countryAfrica
+Ghana
+Kenya
+Nigeria
+South Africa
+Americas
+Brazil
+Canada
+Colombia
+United States
+Asia
+Bangladesh
+China
+India
+Indonesia
+Iran
+Japan
+South Korea
+Malaysia
+Philippines
+Russia
+Thailand
+Turkey
+Europe
+Belgium
+Czech Republic
+Finland
+France
+Germany
+Greece
+Ireland
+Italy
+Lithuania
+Netherlands
+Norway
+Poland
+Russia
+Spain
+Sweden
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+Oceania
+Australia
+New Zealand
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Early_history_of_video_games&oldid=1147838291"

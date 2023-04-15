@@ -1,0 +1,431 @@
+This article is about the orthophosphate ion. For the organophosphorus derivatives, see Organophosphate. For other phosphates, see phosphoric acids and phosphates.
+Not to be confused with phosphate soda or phosphonate.
+Phosphate
+Names
+IUPAC name
+Phosphate[1]
+Other names
+OrthophosphateTetraoxophosphate(V)Tetraoxidophosphate(V)
+Identifiers
+CAS Number
+14265-44-2 Y
+3D model (JSmol)
+Interactive imageInteractive imageInteractive imageInteractive image
+Beilstein Reference
+3903772
+ChEBI
+CHEBI:18367 Y
+ChemSpider
+1032 Y
+Gmelin Reference
+1997
+MeSH
+Phosphates
+PubChem CID
+1061
+UNII
+NK08V8K8HR Y
+InChI
+InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)/p-3 YKey: NBIIXXVUZAFLBC-UHFFFAOYSA-K Y
+SMILES
+[O-]P([O-])([O-])=O[O-]P(=O)([O-])[O-]O=P([O-])([O-])[O-][O-] [P+]([O-])([O-])[O-]
+Properties
+Chemical formula
+PO3 4
+Molar mass
+94.9714 g mol 1
+Conjugate acid
+Monohydrogen phosphate
+Except where otherwise noted, data are given for materials in their standard state (at 25 C [77 F], 100 kPa).
+Y verify (what is YN ?)
+Infobox references
+Chemical compound
+In chemistry, a phosphate is an anion, salt, functional group or ester derived from a phosphoric acid.  It most commonly means orthophosphate, a derivative of orthophosphoric acid, aka. phosphoric acid H3PO4.
+The phosphate or orthophosphate ion [PO4]3  is derived from phosphoric acid by the removal of three protons H+.  Removal of one or two protons gives the dihydrogen phosphate ion [H2PO4]  and the hydrogen phosphate ion [HPO4]2  ion, respectively.  These names are also used for salts of those anions, such as ammonium dihydrogen phosphate and trisodium phosphate.
+H3PO4Phosphoricacid
+[H2PO4] Dihydrogenphosphate
+[HPO4]2 Hydrogenphosphate
+[PO4]3 Phosphate
+In organic chemistry, phosphate or orthophosphate is an organophosphate, an ester of orthophosphoric acid of the form PO4RR R  where one or more hydrogen atoms are replaced by organic groups. An example is trimethyl phosphate, (CH3)3PO4.  The term also refers to the trivalent functional group OP(O-)3 in such esters.
+Orthophosphates are especially important among the various phosphates because of their key roles in biochemistry, biogeochemistry, and ecology, and their economic importance for agriculture and industry.[2]  The addition and removal of phosphate groups (phosphorylation and dephosphorylation) are key steps in cell metabolism.
+Orthophosphates can condense to form pyrophosphates.
+Chemical properties[edit]
+The phosphate ion has a molar mass of 94.97 g/mol, and consists of a central phosphorus atom surrounded by four oxygen atoms in a tetrahedral arrangement. It is the conjugate base of the hydrogen phosphate ion H(PO4)2 , which in turn is the conjugate base of the dihydrogen phosphate ion H2(PO4) , which in turn is the conjugate base of orthophosphoric acid, H3PO4.
+Many phosphates are soluble in water at standard temperature and pressure. The sodium, potassium, rubidium, caesium, and ammonium phosphates are all water-soluble. Most other phosphates are only slightly soluble or are insoluble in water. As a rule, the hydrogen and dihydrogen phosphates are slightly more soluble than the corresponding phosphates.
+Equilibria in solution[edit]
+ Phosphoric acid speciation
+In water solution, orthophosphoric acid and its three derived anions coexist according to the dissociation and recombination equilibria below[3]
+Equilibrium
+Dissociation constant Ka[4]
+pKa
+H3PO4   H2PO 4 + H+
+Ka1 = [ H+ ] [ H2PO 4 ] / [ H3PO4 ]   7.5   10 3
+pKa1 = 2.14
+H2PO 4   HPO2 4 + H+
+Ka2 = [ H+ ] [ HPO2 4 ] / [ H2PO 4 ]   6.2   10 8
+pKa2 = 7.20
+HPO2 4   PO3 4 + H+
+Ka3 = [ H+ ] [ PO3 4 ] / [ HPO2 4 ]   2.14   10 13
+pKa3 = 12.37
+Values are at 25 C and 0 ionic strength.
+The pKa values are the pH values where the concentration of each species is equal to that of its conjugate bases.  At pH 1 or lower, the phosphoric acid is practically undissociated.  Around pH 4.7 (mid-way between the first two pKa values) the dihydrogen phosphate ion, [H2PO4] , is practically the only species present.  Around pH 9.8 (mid-way between the second and third pKa values) the monohydrogen phosphate ion, [HPO4]2 , is the only species present. At pH 13 or higher, the acid is completely dissociated as the phosphate ion, (PO4)3 .
+This means that salts of the mono- and di-phosphate ions can be selectively crystallised from aqueous solution by setting the pH value to either 4.7 or 9.8.
+In effect, H3PO4, H2(PO4)  and H(PO4)2  behave as separate weak acids because the successive pKa differ by more than 4.
+Phosphate can form many polymeric ions such as pyrophosphate, (P2O7)4 , and triphosphate, (P3O10)5 . The various metaphosphate ions (which are usually long linear polymers) have an empirical formula of (PO3)  and are found in many compounds.
+Biochemistry of phosphates[edit]
+In biological systems, phosphorus can be found as free phosphate anions in solution (inorganic phosphate) or bound to organic molecules as various organophosphates.
+Inorganic phosphate is generally denoted Pi and at physiological (homeostatic) pH primarily consists of a mixture of [HPO4]2  and [H2PO4]  ions. At a neutral pH, as in the cytosol (pH = 7.0), the concentrations of the orthophoshoric acid and its three anions have the ratios
+[ H2PO 4 ] / [ H3PO4 ]   7.5   104
+[ HPO2 4 ] / [ H2PO 4 ]   0.62
+[ PO3 4 ] / [ HPO2 4 ]   2.14   10 6
+Thus, only [H2PO4]  and [HPO4]2  ions are present in significant amounts in the cytosol (62% [H2PO4] , 38% [HPO4]2 ). In extracellular fluid (pH = 7.4), this proportion is inverted (61% [HPO4]2 , 39% [H2PO4] ).
+Inorganic phosphate can be present also as of pyrophosphate anions [P2O7]4 , which can give orthophosphate by hydrolysis:
+[P2O7]4  + H2O   2 [HPO4]2 
+Organic phosphates are commonly found in the form of esters as nucleotides (e.g. AMP, ADP, and ATP) and in DNA and RNA. Free orthophosphate anions can be released by the hydrolysis of the phosphoanhydride bonds in ATP or ADP. These phosphorylation and dephosphorylation reactions are the immediate storage and source of energy for many metabolic processes. ATP and ADP are often referred to as high-energy phosphates, as are the phosphagens in muscle tissue.  Similar reactions exist for the other nucleoside diphosphates and triphosphates.
+Bones and teeth[edit]
+An important occurrence of phosphates in biological systems is as the structural material of bone and teeth. These structures are made of crystalline calcium phosphate in the form of hydroxyapatite. The hard dense enamel of mammalian teeth may contain fluoroapatite, a hydroxy calcium phosphate where some of the hydroxyl groups have been replaced by fluoride ions.
+Medical and biological research uses[edit]
+Phosphates are medicinal salts of phosphorus. Some phosphates, which help cure many urinary tract infections, are used to make urine more acidic. To avoid the development of calcium stones in the urinary tract, some phosphates are used.[5] For patients who are unable to get enough phosphorus in their daily diet, phosphates are used as dietary supplements, usually because of certain disorders or diseases.[5] Injectable phosphates can only be handled by qualified health care providers.[5]
+Plant metabolism[edit]
+Plants take up phosphorus through several pathways: the arbuscular mycorrhizal pathway and the direct uptake pathway.
+Adverse health effects[edit]
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Phosphate" news  newspapers  books  scholar  JSTOR (July 2022) (Learn how and when to remove this template message)
+Hyperphosphatemia, or a high blood level of phosphates, is associated with elevated mortality in the general population. The most common cause of hyperphosphatemia in people, dogs and cats is kidney failure. In cases of hyperphosphatemia, limitting consumption of phosphate-rich foods, such as meat and dairy items and foods with a high phosphate-to-protein ratio, such as soft drinks, fast food, processed foods, condiments and other products containing phosphate-salt additives is advised. Phosphates induce vascular calcification, and a high concentration of phosphates in blood was found to be a predictor of cardiovascular events.[6]
+Production[edit]
+Geological occurrence[edit]
+ Phosphate mine near Flaming Gorge, Utah, US, 2008
+ Train loaded with phosphate rock, M tlaoui, Tunisia, 2012
+Phosphates are the naturally occurring form of the element phosphorus, found in many phosphate minerals. In mineralogy and geology, phosphate refers to a rock or ore containing phosphate ions. Inorganic phosphates are mined to obtain phosphorus for use in agriculture and industry.[2]
+The largest global producer and exporter of phosphates is Morocco. Within North America, the largest deposits lie in the Bone Valley region of central Florida, the Soda Springs region of southeastern Idaho, and the coast of North Carolina. Smaller deposits are located in Montana, Tennessee, Georgia, and South Carolina. The small island nation of Nauru and its neighbor Banaba Island, which used to have massive phosphate deposits of the best quality, have been mined excessively. Rock phosphate can also be found in Egypt, Israel, Palestine, Western Sahara, Navassa Island, Tunisia, Togo, and Jordan, countries that have large phosphate-mining industries.
+Phosphorite mines are primarily found in:
+North America: Main article: Phosphate mining in the United States United States, especially Florida, with lesser deposits in North Carolina, Idaho, and Tennessee
+Africa: Morocco, Algeria, Egypt, Niger, Senegal, Togo, Tunisia, Mauritania
+Middle East: Saudi Arabia, Jordan, Israel, Syria, Iran and Iraq, at the town of Akashat, near the Jordanian border.
+Central Asia: Kazakhstan
+Oceania: Australia, Makatea, Nauru, and Banaba Island
+In 2007, at the current rate of consumption, the supply of phosphorus was estimated to run out in 345 years.[7] However, some scientists thought that a "peak phosphorus" would occur in 30 years and Dana Cordell from Institute for Sustainable Futures said  that at "current rates, reserves will be depleted in the next 50 to 100 years".[8] Reserves refer to the amount assumed recoverable at current market prices. In 2012 the USGS estimated world reserves at 71 billion tons, while 0.19 billion tons were mined globally in 2011.[9]  Phosphorus comprises 0.1% by mass of the average rock[10] (while, for perspective, its typical concentration in vegetation is 0.03% to 0.2%),[11] and consequently there are quadrillions of tons of phosphorus in Earth's 3 1019-ton crust,[12] albeit at predominantly lower concentration than the deposits counted as reserves, which are inventoried and cheaper to extract. If it is assumed that the phosphate minerals in phosphate rock are mainly hydroxyapatite and fluoroapatite, phosphate minerals contain roughly 18.5% phosphorus by weight. If phosphate rock contains around 20% of these minerals, the average phosphate rock has roughly 3.7% phosphorus by weight.
+Some phosphate rock deposits, such as Mulberry in Florida,[13] are notable for their inclusion of significant quantities of radioactive uranium isotopes. This is a concern because radioactivity can be released into surface waters[14] from application of the resulting phosphate fertilizer.
+In December 2012, Cominco Resources announced an updated JORC compliant resource of their Hinda project in Congo-Brazzaville of 531 million tons, making it the largest measured and indicated phosphate deposit in the world.[15]
+In July 2022 China announced quotas on phosphate exportation.[16]
+The largest importers in millions of metric tons of phosphate are Brazil 3.2, India 2.9 and the USA 1.6.[17]
+Mining[edit]
+The three principal phosphate producer countries (China, Morocco and the United States) account for about 70% of world production.
+Production and global reserves of natural phosphate by country in 2019(USGS, 2021)[18]
+Country
+Production (millions kg)
+Share of  global  production (%)
+Reserves(millions kg)
+Algeria
+1,300
+0.54
+2,200,000
+Australia
+2,700
+1.17
+1,100,000
+Brazil
+4,700
+3.00
+1,600,000
+China
+95,000
+44.83
+3,200,000
+Egypt
+5,000
+2.47
+2,800,000
+Finland
+995
+-
+1,000,000
+India
+1,480
+0.49
+46,000
+Iraq
+200
+0.09
+430,000
+Israel
+2,810
+1.48
+57,000
+Jordan
+9,220
+3.36
+800,000
+Kazakhstan
+1,500
+0.72
+260,000
+Mexico
+558
+0.76
+30,000
+Morocco and Western Sahara
+35,500
+13.45
+50,000,000
+Peru
+4,000
+1.79
+210,000
+Russia
+13,100
+5.60
+600,000
+Saudi Arabia
+6,500
+1.48
+1,400,000
+Senegal
+3,420
+0.45
+50,000
+South Africa
+2,100
+0.99
+1,400,000
+Syria
+2,000
+0.34
+1,800,000
+Togo
+800
+0.45
+30,000
+Tunisia
+4,110
+1.79
+100,000
+Uzbekistan
+900
+-
+100,000
+United States
+23,300
+12.37
+1,000,000
+Vietnam
+4,650
+1.21
+30,000
+Other countries
+1,140
+1.17
+840,000
+Total
+227,000
+100
+71,000,000
+Ecology[edit]
+ Sea surface phosphate from the World Ocean Atlas
+ Relationship of phosphate to nitrate uptake for photosynthesis in various regions of the ocean. Note that nitrate is more often limiting than phosphate. See the Redfield ratio.
+In ecological terms, because of its important role in biological systems, phosphate is a highly sought after resource. Once used, it is often a limiting nutrient in environments, and its availability may govern the rate of growth of organisms. This is generally true of freshwater environments, whereas nitrogen is more often the limiting nutrient in marine (seawater) environments. Addition of high levels of phosphate to environments and to micro-environments in which it is typically rare can have significant ecological consequences. For example, blooms in the populations of some organisms at the expense of others, and the collapse of populations deprived of resources such as oxygen (see eutrophication) can occur. In the context of pollution, phosphates are one component of total dissolved solids, a major indicator of water quality, but not all phosphorus is in a molecular form that algae can break down and consume.[19]
+Calcium hydroxyapatite and calcite precipitates can be found around bacteria in alluvial topsoil.[20] As clay minerals promote biomineralization, the presence of bacteria and clay minerals resulted in calcium hydroxyapatite and calcite precipitates.[20]
+Phosphate deposits can contain significant amounts of naturally occurring heavy metals. Mining operations processing phosphate rock can leave tailings piles containing elevated levels of cadmium, lead, nickel, copper, chromium, and uranium. Unless carefully managed, these waste products can leach heavy metals into groundwater or nearby estuaries. Uptake of these substances by plants and marine life can lead to concentration of toxic heavy metals in food products.[21]
+See also[edit]
+Diammonium phosphate - (NH4)2HPO4
+Disodium phosphate   Na2HPO4
+Fertilizer
+Hypophosphite   H2(PO2) 
+Metaphosphate   (POn3)
+Monosodium phosphate   NaH2PO4
+Organophosphorus compounds
+Ouled Abdoun Basin
+Phosphate   OP(OR)3, such as triphenyl phosphate
+Phosphate conversion coating
+Phosphate soda, a soda fountain beverage
+Phosphinate   OP(OR)R2
+Phosphine   PR3
+Phosphine oxide   OPR3
+Phosphinite   P(OR)R2
+Phosphite   P(OR)3
+Phosphogypsum
+Phosphonate   OP(OR)2R
+Phosphonite   P(OR)2R
+Phosphorylation
+Polyphosphate   (HPO3)n
+Pyrophosphate   (P2O7)4 
+Sodium tripolyphosphate   Na5P3O10
+References[edit]
+^ "Phosphates   PubChem Public Chemical Database". The PubChem Project. USA: National Center of Biotechnology Information.
+^ a b "Phosphate Primer". Florida Industrial and Phosphate Research Institute. Florida Polytechnic University. Archived from the original on 29 August 2017. Retrieved 30 March 2018.
+^ Campbell, Neil A.; Reece, Jane B. (2005). Biology (Seventh ed.). San Francisco, California: Benjamin Cummings. p. 65. ISBN 0-8053-7171-0.
+^ Kipton J. Powell, Paul L. Brown, Robert H. Byrne, Tam s Gajda, Glenn Hefter, Staffan Sj berg, Hans Wanner (2005): "Chemical speciation of environmentally significant heavy metals with inorganic ligands. Part 1: The Hg2+, Cl , OH , CO2 3, SO2 4, and PO3 4 aqueous systems". Pure and Applied Chemistry, volume 77, issue 4, pages 739 800. doi:10.1351/pac200577040739
+^ a b c "Phosphate Supplement (Oral Route, Parenteral Route) Description and Brand Names - Mayo Clinic". www.mayoclinic.org. Retrieved 2020-11-20.
+^ Ritz, Eberhard; Hahn, Kai; Ketteler, Markus; Kuhlmann, Martin K.; Mann, Johannes (January 2012). "Phosphate additives in food--a health risk". Deutsches  rzteblatt International. 109 (4): 49 55. doi:10.3238/arztebl.2012.0049. ISSN 1866-0452. PMC 3278747. PMID 22334826.
+^ Reilly, Michael (May 26, 2007). "How Long Will it Last?". New Scientist. 194 (2605): 38 9. Bibcode:2007NewSc.194...38R. doi:10.1016/S0262-4079(07)61508-5.
+^ Leo Lewis (2008-06-23). "Scientists warn of lack of vital phosphorus as biofuels raise demand". The Times.
+^ U.S. Geological Survey Phosphate Rock
+^ U.S. Geological Survey "Phosphorus Soil Samples" (PDF).
+^ Floor Anthoni. "Abundance of Elements". Seafriends.org.nz. Retrieved 2013-01-10.
+^ American Geophysical Union, Fall Meeting 2007, abstract #V33A-1161. Mass and Composition of the Continental Crust
+^ Central Florida Phosphate Industry: Environmental Impact Statement. Vol. 2. United States. Environmental Protection Agency. 1979.
+^ C. Michael Hogan (2010). "Water pollution".  In Mark McGinley and C. Cleveland (Washington, DC.: National Council for Science and the Environment) (ed.). Encyclopedia of Earth. Archived from the original on 2010-09-16.
+^ "Updated Hinda Resource Announcement: Now world's largest phosphate deposit (04/12/2012)". Cominco Resources. Archived from the original on 2016-10-05. Retrieved 2013-05-03.
+^ "China issues phosphate quotas to rein in fertiliser exports - analysts". Reuters. 15 July 2022.
+^ "Top countries for Phosphate Fertilizer Imports".
+^ "PHOSPHATE ROCK, usgs" (PDF).
+^ Hochanadel, Dave (December 10, 2010). "Limited amount of total phosphorus actually feeds algae, study finds". Lake Scientist. Retrieved June 10, 2012. [B]ioavailable phosphorus   phosphorus that can be utilized by plants and bacteria   is only a fraction of the total, according to Michael Brett, a UW engineering professor ...
+^ a b Schmittner KE, Giresse P (1999). "Micro-environmental controls on biomineralization: superficial processes of apatite and calcite precipitation in Quaternary soils, Roussillon, France". Sedimentology. 46 (3): 463 76. Bibcode:1999Sedim..46..463S. doi:10.1046/j.1365-3091.1999.00224.x. S2CID 140680495.
+^ Gnandi, K.; Tchangbedjil, G.; Killil, K.; Babal, G.; Abbel, E. (March 2006). "The Impact of Phosphate Mine Tailings on the Bioaccumulation of Heavy Metals in Marine Fish and Crustaceans from the Coastal Zone of Togo". Mine Water and the Environment. 25 (1): 56 62. doi:10.1007/s10230-006-0108-4. S2CID 129497587.
+External links[edit]
+Wikimedia Commons has media related to Phosphates.
+US Minerals Databrowser provides data graphics covering consumption, production, imports, exports and price for phosphate and 86 other minerals
+Phosphate: analyte monograph   The Association for Clinical Biochemistry and Laboratory Medicine
+vtePhosphates
+H3PO4
+He
+Li3PO4
+Be
+BPO4+BO3
+C
+(NH4)3PO4
+O
++F
+Ne
+Na3PO4
+Mg3(PO4)2
+AlPO4
+Si
+P
++SO4
+Cl
+Ar
+K3PO4
+Ca3(PO4)2
+ScPO4
+Ti
+V
+Cr
+Mn3(PO4)2
+Fe3(PO4)2FePO4
+Co3(PO4)2
+Ni3(PO4)2
+Cu3(PO4)2
+Zn3(PO4)2
+GaPO4
+Ge
+As
+Se
+Br
+Kr
+Rb3PO4
+Sr3(PO4)2
+YPO4
+Zr3(PO4)4
+Nb
+Mo
+Tc
+Ru
+Rh
+Pd
+Ag3PO4
+Cd3(PO4)2
+InPO4
+Sn
+Sb
+Te
+I
+Xe
+Cs3PO4
+Ba3(PO4)2
+*
+Lu
+Hf
+Ta
+W
+Re
+Os
+Ir
+Pt
+AuPO4
+Hg
+Tl3PO4
+Pb3(PO4)2
+BiPO4
+Po
+At
+Rn
+Fr
+Ra
+**
+Lr
+Rf
+Db
+Sg
+Bh
+Hs
+Mt
+Ds
+Rg
+Cn
+Nh
+Fl
+Mc
+Lv
+Ts
+Og
+ 
+*
+LaPO4
+CePO4
+PrPO4
+NdPO4
+PmPO4
+Sm
+Eu
+Gd
+Tb
+Dy
+Ho
+ErPO4
+TmPO4
+Yb
+**
+Ac
+Th3(PO4)4
+Pa
+U(PO4)2
+Np
+Pu
+Am
+Cm
+Bk
+Cf
+Es
+Fm
+Md
+No
+vtePhosphate mineralsCrystalline
+Allanpringite
+Beraunite
+Brazilianite
+Eosphorite
+Fluorapatite
+Hydroxyapatite
+Lithiophilite
+Metatorbernite
+Monazite
+Struvite
+Taranakite
+Variscite
+Wavellite
+Xenotime
+Cryptocrystalline
+Turquoise
+Whitlockite
+Amorphous
+Santabarbaraite
+Scorodite
+ Minerals portal
+Authority control: National 
+France
+BnF data
+Germany
+Israel
+United States
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Phosphate&oldid=1149091408"

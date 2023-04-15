@@ -1,0 +1,102 @@
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+The topic of this article may not meet Wikipedia's notability guidelines for products and services. Please help to demonstrate the notability of the topic by citing reliable secondary sources that are independent of the topic and provide significant coverage of it beyond a mere trivial mention. If notability cannot be shown, the article is likely to be merged, redirected, or deleted.Find sources: "Drive Letter Access" news  newspapers  books  scholar  JSTOR (April 2012) (Learn how and when to remove this template message)
+This article relies excessively on references to primary sources. Please improve this article by adding secondary or tertiary sources. Find sources: "Drive Letter Access" news  newspapers  books  scholar  JSTOR (April 2012) (Learn how and when to remove this template message)
+ (Learn how and when to remove this template message)
+Drive Letter AccessDeveloper(s)Sonic SolutionsStable release5.21 build 01C
+   / April 30, 2008
+Operating systemMicrosoft WindowsTypeOptical disc authoring softwareLicensecommercial proprietary softwareWebsitewww.roxio.com/enu/products/dla/
+Drive Letter Access (DLA) is a discontinued commercial packet writing application for the Microsoft Windows operating system that allows optical disc data storage devices to be used in a manner similar to floppy disks. DLA is a packet writing technology for CD and DVD media that uses the UDF file system.
+DLA is not compatible with Windows Vista and newer, although a patch exists to fix this issue under Windows Vista.[1]
+Roxio Burn was introduced on April 30, 2009.[2] As a replacement for DLA, it remedies compatibility issues Internet Explorer 8.[3][4]
+History[edit]
+DLA was originally developed by VERITAS Software and later sold to Sonic Solutions in 2002. It was common as it was shipped with a majority of CD and DVD recording drives, where DLA came as a custom OEM version for the branded drive. Also, most PC systems from Dell, HP, IBM, Sony and Toshiba came with DLA pre-installed. An OEM version was often available for download for the specific computer system.
+With Windows Vista support for DLA was either dropped[5] or it was replaced by a similar product, like Drag-to-Disc.[6]
+Technology[edit]
+To use an optical medium such as a CD-R, CD-RW, DVD R or DVD RW just like a floppy drive it is necessary to utilize a technique called packet writing. After formatting the optical media it is then possible to write data in small packets, hence the name  packet writing.  The optical drive unit has to support the ability to write in small units, which all modern CD and DVD recording drives do. This way it is possible to save files onto optical media, as well as change, rename or delete them, or copy files separately onto the media.
+Without packet writing, optical media like the above-mentioned would have to be written on in one big block, like Disc At Once (DAO), Session At Once (SAO) and Track At Once (TAO), because these media types normally do not support sectors. After formatting with packet writing the medium is sectored in blocks that can be written to individually. The preferred file system is the Universal Disk Format (UDF) in versions from 1.50 onward, which is also used by DLA.
+Packet writing is not required for writing DVD-RAM. DVD-RAM media are already sectored (which can be seen when looking at the surface of an empty DVD-RAM disc) and the hardware logic of DVD-RAM capable drives supports sectored read/write operations as required by the DVD-RAM standard. However, for Windows up to 2000, DLA will also add support for DVD-RAM together with the UDF file system, for Windows XP DLA will only add the UDF support.
+DLA also supports the Mount Rainier standard with MRW capable drives. For Windows up to XP DLA will provide this functionality as well as the UDF support.
+Windows XP is the first Windows operating system to support DVD-RAM. Windows Vista is the first Windows operating system to support full UDF functionality (UDF up to version 2.50, full support meaning read and write operations) and Mount Rainier.
+Versions[edit]
+DLA is available only for Microsoft Windows operating systems and only in the English language.
+Version 4.95 runs on Windows 98SE, Me, NT 4.0, 2000 and XP.
+Version 5.21 is the most recent version for Windows 98SE, Me, 2000 and XP.
+Note: Most OEM versions officially support only Windows 2000 and XP; however, DLA itself also runs on older versions of Windows, like  Windows 98 Second Edition and Windows Me, as well as  Windows NT 4.0.
+A patch is required for Windows Vista compatibility, but it only works on the retail or trial version. The one exception is the Dell OEM version, but instead of patching DLA it will simply install Drag-to-Disc as a replacement.[1]
+Known problems[edit]
+DLA is not compatible with Internet Explorer 8.
+DLA can cause stop errors (BSoD) on the Windows Server 2003 operating system.
+DLA can lock up a Windows XP system when a rewritable (RW) disc is inserted.
+DLA may prevent ejection of media from an optical drive. When this occurs, a solution is to restart the operating system.
+DLA may prevent installation of a program distributed on a rewritable CD or DVD. A solution is to deactivate DLA as follows:
+Launch Windows Explorer or open its My Computer component.
+Select the RW drive.
+Right click on the drive.
+Click "Properties"
+Click the "Hardware" tab
+Deselect (uncheck) Use with DLA
+DLA can block upgrade to Windows 7 on Vista systems where this is installed, and can be very difficult to uninstall.
+See also[edit]
+Live File System
+Techniques used by DLA:
+Mount Rainier (packet writing)
+Universal Disk Format
+Competing applications:
+Nero InCD
+Roxio Drag-to-Disc (formerly Adaptec DirectCD)
+References[edit]
+^ a b "Drive Letter Access driver blocked on Vista launch", Roxio Knowledgebase, Roxio, Knowledgebase Article 000131CR, retrieved April 29, 2012, Through a clerical error, a driver is incorrectly being blocked as incompatible with Windows Vista
+^ "Roxio Delivers Essential Burning Solution for Windows 7 Users", Press release, Roxio, April 30, 2009, archived from the original on June 13, 2009, retrieved April 29, 2012
+^ "Roxio Burn", Product page, Roxio, archived from the original on May 5, 2012, retrieved April 29, 2012, DLA is now called Roxio Burn
+^ "The Drive Letter Access add-on does not work with Internet Explorer 8 or Internet Explorer 9", Microsoft Knowledge Base, Microsoft, retrieved April 29, 2012, Drive Letter Access is now named Roxio Burn
+^ "Optical Drive May Not Eject With Sonic Solutions Roxio Record Now 7.0 DLA Installed", Dell Knowledge Base, Dell, retrieved April 29, 2012, Sonic Solutions DLA is no longer supported.
+^ "Drag2Disc software", Lenovo Support, Lenovo, retrieved April 29, 2012, Drive Letter Access is replaced by Drag2Disc.
+External links[edit]
+Official home page
+About DLA   An article about DLA from Argentum.
+Free DLA Software v 5.2 from HP
+Free DLA Software v 5.21 build 01C from Lenovo
+vteOptical disc image softwareCross-platform
+cdrtools
+Windows
+Alcohol 120%
+Ashampoo Burning Studio
+BlindWrite
+CDBurnerXP
+CDRoller
+CDRWin
+CloneCD
+CloneDVD
+Daemon Tools
+DeepBurner
+DiscJuggler
+ImgBurn
+InCD
+InfraRecorder
+IsoBuster
+MagicISO
+Nero Burning ROM
+Nero Multimedia Suite
+Roxio Creator
+UltraISO
+WinCDEmu
+macOS
+Disk Utility
+Roxio Toast
+Disco
+Unix-like
+AcetoneISO
+Brasero
+CDemu
+cdrkit
+dd
+dvd+rw-tools
+K3b
+K9Copy
+libburnia
+Nero Linux
+X-CD-Roast
+List of optical disc authoring software
+Comparison of disc authoring software
+Comparison of disc image software
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Drive_Letter_Access&oldid=986805171"

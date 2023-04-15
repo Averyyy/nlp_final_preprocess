@@ -1,0 +1,592 @@
+Amino acid peptide hormone secreted by the thyroid gland
+CALCAAvailable structuresPDBHuman UniProt search: PDBe RCSB List of PDB id codes2JXZ,%%s1LS7IdentifiersAliasesCALCA, CT, CGRP-I, CGRP-alpha, KC, PCT, calcitonin related polypeptide alpha, CGRP, CGRP1, CALC1External IDsOMIM: 114130 HomoloGene: 88401 GeneCards: CALCA Gene location (Human)Chr.Chromosome 11 (human)[1]Band11p15.2Start14,966,668 bp[1]End14,972,351 bp[1]RNA expression patternBgeeHumanMouse (ortholog)Top expressed inspinal gangliatrigeminal ganglionkidneyquadriceps femoris musclevastus lateralis musclecerebellar vermisislet of Langerhanstibialis anterior muscleright lobe of liverleft lobe of thyroid glandn/aMore reference expression dataBioGPSMore reference expression dataGene ontologyMolecular function
+hormone activity
+calcitonin receptor binding
+protein binding
+identical protein binding
+signaling receptor binding
+protein-containing complex binding
+Cellular component
+cytoplasm
+intracellular anatomical structure
+extracellular region
+axon
+terminal bouton
+neuronal cell body
+neuron projection
+nucleus
+extracellular space
+Biological process
+cellular response to nerve growth factor stimulus
+positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G protein-coupled signaling pathway
+negative regulation of smooth muscle contraction
+regulation of heart contraction
+monocyte chemotaxis
+negative regulation of blood pressure
+positive regulation of cytosolic calcium ion concentration
+cellular response to tumor necrosis factor
+ageing
+vasodilation
+cellular calcium ion homeostasis
+response to heat
+negative regulation of nervous system process
+positive regulation of ossification
+activation of adenylate cyclase activity
+regulation of heart rate
+detection of temperature stimulus involved in sensory perception of pain
+negative regulation of ossification
+response to pain
+artery vasodilation involved in baroreceptor response to increased systemic arterial blood pressure
+feeding behavior
+inflammatory response
+neuropeptide signaling pathway
+negative regulation of transcription, DNA-templated
+activation of protein kinase activity
+embryo implantation
+negative regulation of bone resorption
+regulation of signaling receptor activity
+G protein-coupled receptor signaling pathway
+adenylate cyclase-activating G protein-coupled receptor signaling pathway
+regulation of cytosolic calcium ion concentration
+leukocyte cell-cell adhesion
+G protein-coupled receptor internalization
+positive regulation of interleukin-1 alpha production
+response to yeast
+negative regulation of osteoclast differentiation
+cell-cell signaling
+antibacterial humoral response
+positive regulation of macrophage differentiation
+receptor internalization
+regulation of blood pressure
+protein phosphorylation
+vasculature development
+defense response to Gram-negative bacterium
+endothelial cell proliferation
+positive regulation of interleukin-8 production
+nervous system process involved in regulation of systemic arterial blood pressure
+negative regulation of calcium ion transport into cytosol
+innate immune response
+endothelial cell migration
+antifungal humoral response
+defense response to Gram-positive bacterium
+antimicrobial humoral immune response mediated by antimicrobial peptide
+amylin receptor signaling pathway
+calcitonin gene-related peptide receptor signaling pathway
+Sources:Amigo / QuickGOOrthologsSpeciesHumanMouseEntrez796n/aEnsemblENSG00000110680n/aUniProtP06881n/aRefSeq (mRNA)NM_001033952NM_001033953NM_001741NM_001378949NM_001378950n/aRefSeq (protein)NP_001029125.1n/aLocation (UCSC)Chr 11: 14.97   14.97 Mbn/aPubMed search[2]n/aWikidataView/Edit Human
+Calcitonin is a 32 amino acid peptide hormone secreted by parafollicular cells (also known as C cells) of the thyroid (or endostyle) in humans and other chordates[3] in the ultimopharyngeal body.[4] It acts to reduce blood calcium (Ca2+), opposing the effects of parathyroid hormone (PTH).[5]
+Its importance in humans has not been as well established as its importance in other animals, as its function is usually not significant in the regulation of normal calcium homeostasis.[6] It belongs to the calcitonin-like protein family.
+Historically calcitonin has also been called thyrocalcitonin.[citation needed]
+Biosynthesis and regulation[edit]
+Calcitonin is formed by the proteolytic cleavage of a larger prepropeptide, which is the product of the CALC1 gene (CALCA). It is functionally an antagonist with PTH and Vitamin D3. The CALC1 gene belongs to a superfamily of related protein hormone precursors including islet amyloid precursor protein, calcitonin gene-related peptide, and the precursor of adrenomedullin.
+Secretion of calcitonin is stimulated by:
+an increase in serum [Ca2+][7]
+gastrin and pentagastrin.[8]
+Function[edit]
+Main article: Calcium metabolism
+The hormone participates in calcium (Ca2+) metabolism. In many ways, calcitonin counteracts parathyroid hormone (PTH) and vitamin D.
+More specifically, calcitonin lowers blood Ca2+ levels in two ways:
+Major effect: Inhibits osteoclast activity in bones, which break down the bone[9]
+Minor effect: Inhibits renal tubular cell reabsorption of Ca2+ and phosphate, allowing them to be excreted in the urine[10][11]
+High concentrations of calcitonin may be able to increase urinary excretion of calcium and phosphate via the renal tubules.[12] leading to marked hypocalcemia. However, this is a minor effect with no physiological significance in humans. It is also a short-lived effect because the kidneys become resistant to calcitonin, as demonstrated by the kidney's unaffected excretion of calcium in patients with thyroid tumors that secrete excessive calcitonin.[13]
+In its skeleton-preserving actions, calcitonin protects against calcium loss from the skeleton during periods of calcium mobilization, such as pregnancy and, especially, lactation. The protective mechanisms include the direct inhibition of bone resorption and the indirect effect through the inhibition of the release of prolactin from the pituitary gland. The reason provided is that prolactin induces the release of PTH related peptide which enhances bone resorption, but is still under investigation.[14][15][16]
+Other effects are in preventing postprandial hypercalcemia resulting from absorption of Ca2+. Also, calcitonin inhibits food intake in rats and monkeys, and may have CNS action involving the regulation of feeding and appetite.
+Calcitonin lowers blood calcium and phosphorus mainly through its inhibition of osteoclasts. Osteoblasts do not have calcitonin receptors and are therefore not directly affected by calcitonin levels. However, since bone resorption and bone formation are coupled processes, eventually calcitonin's inhibition of osteoclastic activity leads to increased osteoblastic activity (as an indirect effect).[13]
+Receptor[edit]
+The calcitonin receptor is a G protein-coupled receptor localized to osteoclasts[17] as well kidney and brain cells. It is coupled to a Gs  subunit, thus stimulating cAMP production by adenylate cyclase in target cells. It may also affect the ovaries in women and the testes in men.[citation needed]
+Discovery[edit]
+Calcitonin was first purified in 1962 by Douglas Harold Copp and B. Cheney at the University of British Columbia, Canada.[18] It was initially thought to be secreted by the parathyroid gland but was shown by Iain Macintyre and his team at the Royal Postgraduate Medical School, London, to be secreted by parafollicular cells of the thyroid gland.[19] Dr. Copp named the discovered hormone calcitonin because of its role in 'maintaining normal calcium tone'.[18]
+Clinical significance[edit]
+Calcitonin assay is used in identifying patients with nodular thyroid diseases. It is helpful in making an early diagnosis of medullary carcinoma of thyroid. A malignancy of the parafollicular cells, i.e. Medullary thyroid cancer, typically produces an elevated serum calcitonin level. Prognosis of MTC depends on early detection and treatment.
+Calcitonin also has significantly impacted molecular biology, as the gene encoding calcitonin was the first gene discovered in mammalian cells to be alternatively spliced, now known to be a ubiquitous mechanism in eukaryotes.[20][21]
+Pharmacology[edit]
+Calcitonin has clinically been used for metabolic bone disorders for more than 50 years.[22] Salmon calcitonin is used for the treatment of:
+Postmenopausal osteoporosis[23]
+Hypercalcaemia[24]
+Bone metastases[25]
+Paget's disease[26]
+Phantom limb pain[27]
+It has been investigated as a possible non-operative treatment for spinal stenosis.[28]
+The following information is from the UK Electronic Medicines Compendium[29]
+General characteristics of the active substance[edit]
+Salmon calcitonin is rapidly absorbed and eliminated. Peak plasma concentrations are attained within the first hour of administration.
+Animal studies have shown that calcitonin is primarily metabolised via proteolysis in the kidney following parenteral administration. The metabolites lack the specific biological activity of calcitonin. Bioavailability following subcutaneous and intramuscular injection in humans is high and similar for the two routes of administration (71% and 66%, respectively).
+Calcitonin has short absorption and elimination half-lives of 10 15 minutes and 50 80 minutes, respectively. Salmon calcitonin is primarily and almost exclusively degraded in the kidneys, forming pharmacologically inactive fragments of the molecule. Therefore, the metabolic clearance is much lower in patients with end-stage kidney failure than in healthy subjects. However, the clinical relevance of this finding is not known.  Plasma protein binding is 30% to 40%.
+Characteristics in patients[edit]
+There is a relationship between the subcutaneous dose of calcitonin and peak plasma concentrations. Following parenteral administration of 100 IU calcitonin, peak plasma concentration lies between about 200 and 400 pg/ml. Higher blood levels may be associated with increased incidence of nausea, vomiting, and secretory diarrhea.
+Preclinical safety data[edit]
+Conventional long-term toxicity, reproduction, mutagenicity, and carcinogenicity studies have been performed in laboratory animals. Salmon calcitonin is devoid of embryotoxic, teratogenic, and mutagenic potential.
+An increased incidence of pituitary adenomas has been reported in rats given synthetic salmon calcitonin for 1 year. This is considered a species-specific effect and of no clinical relevance.[30] Salmon calcitonin does not cross the placental barrier.
+In lactating animals given calcitonin, suppression of milk production has been observed. Calcitonin is secreted into the milk.
+Pharmaceutical manufacture[edit]
+Calcitonin was extracted from the ultimobranchial glands (thyroid-like glands) of fish, particularly salmon.  Salmon calcitonin resembles human calcitonin, but is more active.  At present, it is produced either by recombinant DNA technology or by chemical peptide synthesis.  The pharmacological properties of the synthetic and recombinant peptides have been demonstrated to be qualitatively and quantitatively equivalent.[29]
+Uses of calcitonin[edit]
+Treatments[edit]
+ Calcitonin affecting the spine.
+Calcitonin can be used therapeutically for the treatment of hypercalcemia or osteoporosis.[31]
+In a recent clinical study, subcutaneous injections of calcitonin have reduced the incidence of fractures and reduced the decrease in bone mass in women with type 2 diabetes complicated with osteoporosis.[32]
+Subcutaneous injections of calcitonin in patients with mania resulted in significant decreases in irritability, euphoria and hyperactivity and hence calcitonin holds promise for treating bipolar disorder.[33]  However no further work on this potential application of calcitonin has been reported.
+Diagnostics[edit]
+It may be used diagnostically as a tumor marker for medullary thyroid cancer, in which high calcitonin levels may be present and elevated levels after surgery may indicate recurrence. It may even be used on biopsy samples from suspicious lesions (e.g., lymph nodes that are swollen) to establish whether they are metastases of the original cancer.
+Cutoffs for calcitonin to distinguish cases with medullary thyroid cancer have been suggested to be as follows, with a higher value increasing the suspicion of medullary thyroid cancer:[34]
+females: 5 ng/L or pg/mL
+males: 12 ng/L or pg/mL
+children under 6 months of age: 40 ng/L or pg/mL
+children between 6 months and 3 years of age: 15 ng/L or pg/mL
+When over 3 years of age, adult cutoffs may be used
+A Cochrane systematic review assessed the diagnostic accuracy of basal and stimulated calcitonin for Medullary Thyroid cancer.[35] Although both basal and combined basal and stimulated calcitonin testing presented high accuracy (sensitivity: between 82% and 100%; specificity: between 97.2% and 100%), these results had a high risk of bias due to design flaws of included studies.[35] Overall, the value of routine testing of calcitonin for diagnosis and prognosis of Medullary Thyroid Cancer remains uncertain and questionable.[35]
+Increased levels of calcitonin have also been reported for various other conditions. They include: C-cell hyperplasia, nonthyroidal oat cell carcinoma, nonthyroidal carcinoma and other nonthyroidal malignancies, acute kidney injury and chronic kidney failure, hypercalcemia, hypergastrinemia, and other gastrointestinal disorders, and pulmonary disease.[36]
+Structure[edit]
+Calcitonin is a polypeptide hormone of 32 amino acids, with a molecular weight of 3454.93 daltons. Its structure comprises a single alpha helix.[37] Alternative splicing of the gene coding for calcitonin produces a distantly related peptide of 37 amino acids, called calcitonin gene-related peptide (CGRP), beta type.[38]
+The following are the amino acid sequences of salmon  and human calcitonin:[citation needed][39]
+salmon:
+Cys-Ser-Asn-Leu-Ser-Thr-Cys-Val-Leu-Gly-Lys-Leu-Ser-Gln-Glu-Leu-His-Lys-Leu-Gln-Thr-Tyr-Pro-Arg-Thr-Asn-Thr-Gly-Ser-Gly-Thr-Pro
+human:
+Cys-Gly-Asn-Leu-Ser-Thr-Cys-Met-Leu-Gly-Thr-Tyr-Thr-Gln-Asp-Phe-Asn-Lys-Phe-His-Thr-Phe-Pro-Gln-Thr-Ala-Ile-Gly-Val-Gly-Ala-Pro
+Compared to salmon calcitonin, human calcitonin differs at 16 residues.
+Research[edit]
+In addition to the injectable and nasal spray dosage forms of the salmon calcitonin, noninvasive oral formulations of the peptide are currently under clinical development. The short-half-life of this peptide in serum triggered several attempts to enhance plasma concentrations. The peptide is complexed with a macromolecule that acts as an absorption enhancer through the transcellular pathway and, additionally, protects the peptide from the harsh pH and enzymatic conditions of the GI tract. This complexation is weak, noncovalent and reversible and the drug remains chemically unmodified. After passage through the intestine, the delivery agent dissociates from the peptide. One of the extensively studied oral formulations is the disodium salts of 5-CNAC oral calcitonin. This novel oral platform in a number of clinical trials at different phases has demonstrated promising enhanced pharmacokinetic profile, high bioavailability, well-established safety and comparable efficacy to that of nasal calcitonin especially for treatment of postmenopausal bone loss.[22]
+See also[edit]
+Procalcitonin
+References[edit]
+^ a b c GRCh38: Ensembl release 89: ENSG00000110680 - Ensembl, May 2017
+^ "Human PubMed Reference:". National Center for Biotechnology Information, U.S. National Library of Medicine.
+^ Sekiguchi T, Kuwasako K, Ogasawara M, Takahashi H, Matsubara S, Osugi T,  et al. (January 2016). "Evidence for Conservation of the Calcitonin Superfamily and Activity-regulating Mechanisms in the Basal Chordate Branchiostoma floridae: Insights Into the Molecular and Functional Evolution in Chordates". The Journal of Biological Chemistry. 291 (5): 2345 2356. doi:10.1074/jbc.M115.664003. PMC 4732217. PMID 26644465.
+^ Costoff A. "Sect. 5, Ch. 6: Anatomy, Structure, and Synthesis of Calcitonin (CT)". Endocrinology: hormonal control of calcium and phosphate. Medical College of Georgia. Archived from the original on September 5, 2008. Retrieved 2008-08-07.
+^ Boron WF, Boulpaep EL (2004). "Endocrine system chapter". Medical Physiology: A Cellular And Molecular Approach. Elsevier/Saunders. ISBN 1416023283.
+^ Costoff A. "Sect. 5, Ch. 6: Biological Actions of CT". Medical College of Georgia. Archived from the original on July 5, 2008. Retrieved 2008-08-07.
+^ Costanzo LS (2007). BRS Physiology. Lippincott, Williams, & Wilkins. pp. 263. ISBN 978-0-7817-7311-9.
+^ Erdogan MF, Gursoy A, Kulaksizoglu M (October 2006). "Long-term effects of elevated gastrin levels on calcitonin secretion". J. Endocrinol. Invest. 29 (9): 771 5. doi:10.1007/BF03347369. PMID 17114906. S2CID 41798141.
+^ Costoff A. "Sect. 5, Ch. 6: Effects of CT on Bone". Medical College of Georgia. Archived from the original on June 22, 2008. Retrieved 2008-08-07.
+^ Potts J, J ppner H (2008). "Chapter 353. Disorders of the Parathyroid Gland and Calcium Homeostasis".  In Longo DL, Kasper DL, Jameson JL, Fauci AS, Hauser SL, Loscalzo J (eds.). Harrison's Principles of Internal Medicine (18th ed.). McGraw-Hill. Archived from the original on 2017-05-08. Retrieved 2017-05-29.
+^ Rhoades R (2009). Medical Physiology: Principles for Clinical Medicine. Philadelphia: Lippincott Williams & Wilkins. ISBN 978-0781768528.[page needed]
+^ Carney SL (1997). "Calcitonin and human renal calcium and electrolyte transport". Mineral and Electrolyte Metabolism. 23 (1): 43 47. PMID 9058369.
+^ a b Goodman HM (2009). Basic Medical Endocrinology (Fourth ed.). Elsevier. ISBN 978-0123739759.[page needed]
+^ Horwitz MJ, Tedesco MB, Sereika SM, Syed MA, Garcia-Oca a A, Bisello A, Hollis BW, Rosen CJ, Wysolmerski JJ, Dann P, Gundberg C, Stewart AF (October 2005). "Continuous PTH and PTHrP infusion causes suppression of bone formation and discordant effects on 1,25(OH)2 vitamin D". J. Bone Miner. Res. 20 (10): 1792 1803. doi:10.1359/JBMR.050602. PMID 16160737. S2CID 25594820.
+^ Davey RA, Turner AG, McManus JF, Chiu WS, Tjahyono F, Moore AJ, Atkins GJ, Anderson PH, Ma C, Glatt V, MacLean HE, Vincent C, Bouxsein M, Morris HA, Findlay DM, Zajac JD (August 2008). "Calcitonin receptor plays a physiological role to protect against hypercalcemia in mice". J. Bone Miner. Res. 23 (8): 1182 1193. doi:10.1359/jbmr.080310. PMC 2680171. PMID 18627265.
+^ Woodrow JP, Sharpe CJ, Fudge NJ, Hoff AO, Gagel RF, Kovacs CS (September 2006). "Calcitonin plays a critical role in regulating skeletal mineral metabolism during lactation". Endocrinology. 147 (9): 4010 4021. doi:10.1210/en.2005-1616. PMID 16675524.
+^ Nicholson GC, Moseley JM, Sexton PM, Mendelsohn FA, Martin TJ (August 1986). "Abundant calcitonin receptors in isolated rat osteoclasts. Biochemical and autoradiographic characterization". J. Clin. Invest. 78 (2): 355 360. doi:10.1172/JCI112584. PMC 423551. PMID 3016026.
+^ a b Copp DH, Cheney B (January 1962). "Calcitonin-a hormone from the parathyroid which lowers the calcium-level of the blood". Nature. 193 (4813): 381 2. Bibcode:1962Natur.193..381C. doi:10.1038/193381a0. PMID 13881213. S2CID 4292938.
+^ Foster GV, Baghdiantz A, Kumar MA, Slack E, Soliman HA, Macintyre I (June 1964). "Thyroid origin of calcitonin". Nature. 202 (4939): 1303 5. Bibcode:1964Natur.202.1303F. doi:10.1038/2021303a0. PMID 14210962. S2CID 2443410.
+^ Rosenfeld MG, Amara SG, Roos BA, Ong ES, Evans RM (March 1981). "Altered expression of the calcitonin gene associated with RNA polymorphism". Nature. 290 (5801): 63 65. Bibcode:1981Natur.290...63R. doi:10.1038/290063a0. PMID 7207587. S2CID 4318349.
+^ Rosenfeld MG, Lin CR, Amara SG, Stolarsky L, Roos BA, Ong ES, Evans RM (March 1982). "Calcitonin mRNA polymorphism: peptide switching associated with alternative RNA splicing events". Proceedings of the National Academy of Sciences of the United States of America. 79 (6): 1717 1721. Bibcode:1982PNAS...79.1717R. doi:10.1073/pnas.79.6.1717. PMC 346051. PMID 6952224.
+^ a b das Neves J, Sarmento B (2014). "Eligen  Technology for Oral Delivery of Proteins and Peptides". Mucosal Delivery of Biopharmaceuticals. Boston: Springer US. pp. 407 422. doi:10.1007/978-1-4614-9524-6_18. ISBN 978-1461495246.
+^ "Handout on Health: Osteoporosis". NIAMS. August 2014. Archived from the original on 18 May 2015. Retrieved 16 May 2015.
+^ "Hypercalcemia". The Lecturio Medical Concept Library. Retrieved 1 October 2021.
+^ MedlinePlus Overview bonecancer
+^ "Paget's Disease of Bone". The Lecturio Medical Concept Library. Retrieved 1 October 2021.
+^ Wall GC, Heyneman CA (April 1999). "Calcitonin in phantom limb pain". The Annals of Pharmacotherapy. 33 (4): 499 501. doi:10.1345/aph.18204. PMID 10332543. S2CID 30651328.
+^ Tran DQ, Duong S, Finlayson RJ (July 2010). "Lumbar spinal stenosis: a brief review of the nonsurgical management". Can J Anaesth. 57 (7): 694 703. doi:10.1007/s12630-010-9315-3. PMID 20428988.
+^ a b "Electronic Medicines Compendium". Archived from the original on 2005-11-08. Retrieved 2008-08-07.
+^ "Injectable Salmon Calcitonin" (PDF).
+^ Inzerillo AM, Zaidi M, Huang CL (2004). "Calcitonin: physiological actions and clinical applications". Journal of Pediatric Endocrinology & Metabolism. 17 (7): 931 940. doi:10.1007/s00198-015-3149-3. PMID 15301040. S2CID 23551343.
+^ Dexue L, Yueyue Z (November 2014). "Salmon calcitonin in the treatment of elderly women with type 2 diabetes complicated with osteoporosis". Pak J Pharm Sci. 27 (6 Suppl): 2079 2081. PMID 25410076.
+^ Vik A, Yatham LN (March 1998). "Calcitonin and bipolar disorder: a hypothesis revisited". Journal of Psychiatry & Neuroscience. 23 (2): 109 117. PMC 1188909. PMID 9549251.
+^ Basuyau JP, Mallet E, Leroy M, Brunelle P (October 2004). "Reference intervals for serum calcitonin in men, women, and children". Clin. Chem. 50 (10): 1828 1830. doi:10.1373/clinchem.2003.026963. PMID 15388660.
+^ a b c Verbeek HH, de Groot JW, Sluiter WJ, Muller Kobold AC, van den Heuvel ER, Plukker JT, Links TP,  et al. (Cochrane Metabolic and Endocrine Disorders Group) (March 2020). "Calcitonin testing for detection of medullary thyroid cancer in people with thyroid nodules". The Cochrane Database of Systematic Reviews. 2020 (3): CD010159. doi:10.1002/14651858.CD010159.pub2. PMC 7075519. PMID 32176812.
+^ Burtis CA, Ashwood ER, Bruns DE (2012). Tietz Textbook of Clinical Chemistry and Molecular Diagnostics (5th ed.). Elsevier Saunders. p. 1774. ISBN 978-1-4160-6164-9.
+^ Andreotti G, M ndez BL, Amodeo P, Morelli MA, Nakamuta H, Motta A (August 2006). "Structural determinants of salmon calcitonin bioactivity: the role of the Leu-based amphipathic alpha-helix". J. Biol. Chem. 281 (34): 24193 241203. doi:10.1074/jbc.M603528200. PMID 16766525.
+^ "calcitonin domain annotation". SMART (a Simple Modular Architecture Research Tool). embl-heidelberg.de. Retrieved 2009-02-22.
+^ "Salmon calicitonin". prospecbio.
+Further reading[edit]
+MacIntyre I, Alevizaki M, Bevis PJ, Zaidi M (April 1987). "Calcitonin and the peptides from the calcitonin gene". Clinical Orthopaedics and Related Research. 217 (217): 45 55. doi:10.1097/00003086-198704000-00007. PMID 3549095.
+Di Angelantonio S, Giniatullin R, Costa V, Sokolova E, Nistri A (July 2003). "Modulation of neuronal nicotinic receptor function by the neuropeptides CGRP and substance P on autonomic nerve cells". British Journal of Pharmacology. 139 (6): 1061 1073. doi:10.1038/sj.bjp.0705337. PMC 1573932. PMID 12871824.
+Findlay DM, Sexton PM (December 2004). "Calcitonin". Growth Factors. 22 (4): 217 224. doi:10.1080/08977190410001728033. PMID 15621724. S2CID 218910711.
+Sponholz C, Sakr Y, Reinhart K, Brunkhorst F (2007). "Diagnostic value and prognostic implications of serum procalcitonin after cardiac surgery: a systematic review of the literature". Critical Care. 10 (5): R145. doi:10.1186/cc5067. PMC 1751067. PMID 17038199.
+Schneider HG, Lam QT (August 2007). "Procalcitonin for the clinical laboratory: a review". Pathology. 39 (4): 383 390. doi:10.1080/00313020701444564. PMID 17676478. S2CID 28018130.
+Grani G, Nesca A, Del Sordo M, Calvanese A, Carbotta G, Bianchini M, Fumarola A (June 2012). "Interpretation of serum calcitonin in patients with chronic autoimmune thyroiditis". Endocrine-Related Cancer. Bioscientifica. 19 (3): 345 349. doi:10.1530/ERC-12-0013. PMID 22399011.
+External links[edit]
+Wikimedia Commons has media related to Calcitonin.
+The Calcitonin Protein
+Calcitonin at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+vteHormonesEndocrineglandsHypothalamic-pituitaryHypothalamus
+GnRH
+TRH
+Dopamine
+CRH
+GHRH
+Somatostatin (GHIH)
+MCH
+Posterior pituitary
+Oxytocin
+Vasopressin
+Anterior pituitary
+FSH
+LH
+TSH
+Prolactin
+POMC
+CLIP
+ACTH
+MSH
+Endorphins
+Lipotropin
+GH
+Adrenal axis
+Adrenal cortex
+Aldosterone
+Cortisol
+Cortisone
+DHEA
+DHEA-S
+Androstenedione
+Adrenal medulla
+Adrenaline
+Norepinephrine
+Thyroid
+Thyroid hormones
+T3
+T4
+Calcitonin
+Thyroid axis
+Parathyroid
+PTH
+Gonadal axisTestis
+Testosterone
+AMH
+Inhibin
+Ovary
+Estradiol
+Progesterone
+Activin
+Inhibin
+Relaxin
+GnSAF
+Placenta
+hCG
+HPL
+Estrogen
+Progesterone
+Pancreas
+Glucagon
+Insulin
+Amylin
+Somatostatin
+Pancreatic polypeptide
+Pineal gland
+Melatonin
+N,N-Dimethyltryptamine
+5-Methoxy-N,N-dimethyltryptamine
+OtherThymus
+Thymosins
+Thymosin  1
+Beta thymosins
+Thymopoietin
+Thymulin
+Digestive systemStomach
+Gastrin
+Ghrelin
+Duodenum
+CCK
+GIP
+Secretin
+Motilin
+VIP
+Ileum
+Enteroglucagon
+Peptide YY
+GLP-1
+Liver/other
+Insulin-like growth factor
+IGF-1
+IGF-2
+Adipose tissue
+Leptin
+Adiponectin
+Resistin
+Skeleton
+Osteocalcin
+Kidney
+Renin
+EPO
+Calcitriol
+Prostaglandin
+Heart
+Natriuretic peptide
+ANP
+BNP
+vtePeptides: neuropeptidesHormonessee hormonesOpioid peptidesDynorphins
+Dynorphin A
+Dynorphin A1 8
+Dynorphin B
+Big dynorphin
+Leumorphin
+ -Neoendorphin
+ -Neoendorphin
+Endomorphins
+Endomorphin-1
+Endomorphin-2
+Endorphins
+ -Endorphin
+ -Endorphin
+ -Endorphin
+Enkephalins
+Met-enkephalin
+Leu-enkephalin
+Others
+Adrenorphin
+Amidorphin
+Hemorphin
+Hemorphin-4
+Nociceptin
+Opiorphin
+Spinorphin
+Valorphin
+Other neuropeptidesKinins
+Bradykinins
+Tachykinins: mammal
+Substance P
+Neurokinin A
+Neurokinin B
+amphibian
+Kassinin
+Physalaemin
+Neuromedins
+B
+N
+S
+U
+Orexins
+A
+B
+Other
+Angiotensin
+Bombesin
+Calcitonin gene-related peptide
+Carnosine
+Cocaine- and amphetamine-regulated transcript
+Delta-sleep-inducing peptide
+FMRFamide
+Galanin
+Galanin-like peptide
+Gastrin-releasing peptide
+Ghrelin
+Neuropeptide AF
+Neuropeptide FF
+Neuropeptide SF
+Neuropeptide VF
+Neuropeptide S
+Neuropeptide Y
+Neurophysins
+Neurotensin
+Pancreatic polypeptide
+Pituitary adenylate cyclase-activating peptide
+RVD-Hp 
+VGF
+vteNeurotransmittersAmino acid-derivedMajor excitatory /inhibitory systemsGlutamate system
+Agmatine
+Aspartic acid (aspartate)
+Glutamic acid (glutamate)
+Glutathione
+Glycine
+GSNO
+GSSG
+Kynurenic acid
+NAA
+NAAG
+Proline
+Serine
+GABA system
+GABA
+GABOB
+GHB
+Glycine system
+ -Alanine
+ -Alanine
+Glycine
+Hypotaurine
+Proline
+Sarcosine
+Serine
+Taurine
+GHB system
+GHB
+T-HCA (GHC)
+Biogenic aminesMonoamines
+6-OHM
+Dopamine
+Epinephrine (adrenaline)
+NAS (normelatonin)
+Norepinephrine (noradrenaline)
+Serotonin (5-HT)
+Trace amines
+3-Iodothyronamine
+N-Methylphenethylamine
+N-Methyltryptamine
+m-Octopamine
+p-Octopamine
+Phenylethanolamine
+Phenethylamine
+Synephrine
+Tryptamine
+m-Tyramine
+p-Tyramine
+Others
+Histamine
+Neuropeptides
+See here instead.
+Lipid-derivedEndocannabinoids
+2-AG
+2-AGE (noladin ether)
+2-ALPI
+2-OG
+AA-5-HT
+Anandamide (AEA)
+DEA
+LPI
+NADA
+NAGly
+OEA
+Oleamide
+PEA
+RVD-Hp 
+SEA
+Virodhamine (O-AEA)
+Neurosteroids
+See here instead.
+Nucleobase-derivedNucleosidesAdenosine system
+ADP
+AMP
+ATP
+Vitamin-derivedMiscellaneousCholinergic system
+Acetylcholine
+Gasotransmitters
+Carbon monoxide (CO)
+Hydrogen sulfide (H2S)
+Nitric oxide (NO)
+Candidates
+Acetaldehyde
+Ammonia (NH3)
+Carbonyl sulfide (COS)
+Nitrous oxide (N2O)
+Sulfur dioxide (SO2)
+vteTumor markersBloodLymphoma
+Neprilysin
+Lymphosarcoma
+CD3
+CD79a
+EndocrineThyroid cancer
+Thyroglobulin
+Medullary thyroid cancer (Calcitonin
+Carcinoembryonic antigen)
+Pheochromocytoma
+Normetanephrine
+Enolase 2
+Neuroendocrine tumors
+Synaptophysin
+Chromogranin A
+Neuroblastoma
+Homovanillic acid
+Nervous systemBrain tumor
+PCNA
+Astrocytoma
+Glial fibrillary acidic protein
+NC/Melanoma
+S100 protein
+Melanoma inhibitory activity
+Cardiovascular/respiratoryLung cancer
+Carcinoembryonic antigen
+Enolase 2
+Autocrine motility factor
+hPG80
+Hemangiosarcoma (endothelium)
+Factor VIII
+DigestiveColorectal cancer
+CA19-9
+Carcinoembryonic antigen
+hPG80
+Pancreatic cancer
+CA19-9
+Carcinoembryonic antigen
+CA 242
+Tumor-associated glycoprotein 72
+hPG80
+Hepatocellular carcinoma
+Alpha-fetoprotein/AFP-L3
+Reproductive/urinary/breastOvarian tumor
+Surface epithelial-stromal tumor
+CA-125
+EC
+CD30
+hCG
+EST
+Alpha-fetoprotein
+Choriocarcinoma
+hCG
+Dysgerminoma
+LDH
+Sertoli Leydig cell tumour
+Testosterone
+GCT
+Inhibin
+hPG80
+Testicular cancer
+ hCG
+Alpha-fetoprotein/AFP-L3
+CD30
+hPG80
+Prostate cancer
+Prostate-specific antigen
+Prostatic acid phosphatase
+Glutamate carboxypeptidase II
+erbB-3 receptor
+Early prostate cancer antigen-2
+SPINK1
+GOLM1
+PCA3
+TMPRSS2
+hPG80
+Germ cell tumor
+NANOG
+Bladder cancer
+erbB-3 receptor
+NMP22
+Breast cancer
+CA 15-3
+erbB-2 receptor
+erbB-3 receptor
+Cathepsin D
+CA 27-29
+hPG80
+General histologySarcoma
+Vimentin
+Carcinoma (epithelium)
+Cytokeratin
+MusculoskeletalRhabdomyosarcoma
+Desmin
+vteAmyloidosisCommon amyloid forming proteins
+AA
+ATTR
+A 2M
+AL
+A /APP
+AIAPP
+ACal
+APro
+AANF
+ACys
+ABri
+Systemic amyloidosis
+AL amyloidosis
+AA amyloidosis
+A 2M/Haemodialysis-associated
+AGel/Finnish type
+AA/Familial Mediterranean fever
+ATTR/Transthyretin-related hereditary
+Organ-limited amyloidosisHeartAANF/Isolated atrialBrain
+Familial amyloid neuropathy
+ACys+ABri/Cerebral amyloid angiopathy
+A /Alzheimer's disease
+Kidney
+AApoA1+AFib+ALys/Familial renal
+Skin
+Primary cutaneous amyloidosis
+Amyloid purpura
+Endocrine
+Thyroid
+ACal/Medullary thyroid cancer
+Pituitary
+APro/Prolactinoma
+Pancreas
+AIAPP/Insulinoma
+Type 2 diabetes
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Calcitonin&oldid=1149290647"

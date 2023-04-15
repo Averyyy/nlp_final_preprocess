@@ -1,0 +1,1408 @@
+System that relates geologic strata to time
+ Geologic time scale with proportional representation of eons/eonothems and eras/erathems. Cenozoic is abbreviated to Cz. The image also shows some notable events in Earth's history and the general evolution of life. A megannus (Ma) represents one million (106) years.
+ Alternate representation of the geologic time scale represented as a clock. Note: the GTS is linear and not cyclic.
+The geologic time scale, or geological time scale, (GTS) is a representation of time based on the rock record of Earth. It is a system of chronological dating that uses chronostratigraphy (the process of relating strata to time) and geochronology (scientific branch of geology that aims to determine the age of rocks). It is used primarily by Earth scientists (including geologists, paleontologists, geophysicists, geochemists, and paleoclimatologists) to describe the timing and relationships of events in geologic history. The time scale has been developed through the study of rock layers and the observation of their relationships and identifying features such as lithologies, paleomagnetic properties, and fossils. The definition of standardized international units of geologic time is the responsibility of the International Commission on Stratigraphy (ICS), a constituent body of the International Union of Geological Sciences (IUGS), whose primary objective[1] is to precisely define global chronostratigraphic units of the International Chronostratigraphic Chart (ICC)[2] that are used to define divisions of geologic time. The chronostratigraphic divisions are in turn used to define geochronologic units.[2]
+While some regional terms are still in use,[3] the table of geologic time presented in this article conforms to the nomenclature, ages, and color codes set forth by the ICS as this is the standard, reference global geologic time scale   the International Geological Time Scale.[1][4]
+Principles[edit]
+See also: Age of Earth, History of Earth, and Geological history of Earth
+The geologic time scale is a way of representing deep time based on events that have occurred throughout Earth's history, a time span of about 4.54 0.05 Ga (4.54 billion years).[5] It chronologically organizes strata, and subsequently time, by observing fundamental changes in stratigraphy that correspond to major geological or paleontological events. For example, the Cretaceous Paleogene extinction event, marks the lower boundary of the Paleogene System/Period and thus the boundary between the Cretaceous and Paleogene Systems/Periods. For divisions prior to the Cryogenian, arbitrary numeric boundary definitions (Global Standard Stratigraphic Ages, GSSAs) are used to divide geologic time. Proposals have been made to better reconcile these divisions with the rock record.[6][3]
+Historically, regional geologic time scales were used[3] due to the litho- and biostratigraphic differences around the world in time equivalent rocks. The ICS has long worked to reconcile conflicting terminology by standardizing globally significant and identifiable stratigraphic horizons that can be used to define the lower boundaries of chronostratigraphic units. Defining chronostratigraphic units in such a manner allows for the use of global, standardised nomenclature. The ICC represents this ongoing effort.
+The relative relationships of rocks for determining their chronostratigraphic positions use the overriding principles of:
+Superposition   Newer rock beds will lie on top of older rock beds unless the succession has been overturned.
+Horizontality   All rock layers were originally deposited horizontally.[note 1]
+Lateral continuity   Originally deposited layers of rock extend laterally in all directions until either thinning out or being cut off by a different rock layer.
+Biologic succession (where applicable)   This states that each stratum in a succession contains a distinctive set of fossils. This allows for correlation of stratum even when the horizon between them is not continuous.
+Cross-cutting relationships   A rock feature that cuts across another feature must be younger than the rock it cuts.
+Inclusion   Small fragments of one type of rock but embedded in a second type of rock must have formed first, and were included when the second rock was forming.
+Relationships of unconformities   Geologic features representing periods of erosion or non-deposition, indicating non-continuous sediment deposition.
+Terminology[edit]
+See also: Stratigraphy, Chronostratigraphy, Biostratigraphy, Magnetostratigraphy, Lithostratigraphy, and Geochronology
+The GTS is divided into chronostratigraphic units and their corresponding geochronologic units. These are represented on the ICC published by the ICS; however, regional terms are still in use in some areas.
+Chronostratigraphy is the element of stratigraphy that deals with the relation between rock bodies and the relative measurement of geological time.[7] It is the process where distinct strata between defined stratigraphic horizons are assigned to represent a relative interval of geologic time.
+A chronostratigraphic unit is a body of rock, layered or unlayered, that is defined between specified stratigraphic horizons which represent specified intervals of geologic time. They include all rocks representative of a specific interval of geologic time, and only this time span.[7]
+Eonothem, erathem, system, series, subseries, stage, and substage are the hierarchical chronostratigraphic units.[7]
+Geochronology is the scientific branch of geology that aims to determine the age of rocks, fossils, and sediments either through absolute (e.g., radiometric dating) or relative means (e.g., stratigraphic position, Paleomagnetism, stable isotope ratios).[8]
+A geochronologic unit is a subdivision of geologic time. It is a numeric representation of an intangible property (time).[8] Eon, era, period, epoch, subepoch, age, and subage are the hierarchical geochronologic units.[7] Geochronometry is the field of geochronology that numerically quantifies geologic time.[8]
+A Global Boundary Stratotype Section and Point (GSSP) is an internationally agreed upon reference point on a stratigraphic section which defines the lower boundaries of stages on the geologic time scale.[9] (Recently this has been used to define the base of a system)[10]
+A Global Standard Stratigraphic Age (GSSA)[11] is a numeric only, chronologic reference point used to define the base of geochronologic units prior to the Cryogenian. These points are arbitrarily defined.[7] They are used where GSSPs have not yet been established. Research is ongoing to define GSSPs for the base of all units that are currently defined by GSSAs.
+The numeric (geochronometric) representation of a geochronologic unit can, and is more frequently subject to, change when geochronology refines the geochronometry, while the equivalent chronostratigraphic unit remains the same, and their revision is less common. For example, in early 2022 the boundary between the Ediacaran and Cambrian Periods (geochronologic units) was revised from 541 Ma to 538.8 Ma but the rock definition of the boundary (GSSP) at the base of the Cambrian, and thus the boundary between the Ediacaran and Cambrian Systems (chronostratigraphic units) has not changed, merely the geochronometry has been refined.
+The numeric values on the ICC are represented by the unit Ma (megaannum) meaning "million years", i.e., 201.4  0.2  Ma, the lower boundary of the Jurassic Period, is defined as 201,400,000 years old with an uncertainty of 200,000 years. Other SI prefix units commonly used by geologists are Ga (gigaannum, billion years), and ka (kiloannum, thousand years), with the latter often represented in calibrated units (before present).
+Divisions of geologic time [edit]
+An eon is the largest (formal) geochronologic time unit and is the equivalent of a chronostratigraphic eonothem.[12] As of October 2022[update] there are four formally defined eons/eonothems: the Hadean, Archean, Proterozoic, and Phanerozoic.[2]
+An era is the second largest geochronologic time unit and is the equivalent of a chronostratigraphic erathem.[7][12] As of April 2022[update] there are currently ten defined eras/erathems.[2]
+A period is a major rank below an era and above an epoch. It is the geochronologic equivalent of a chronostratigraphic system.[7][12] As of April 2022[update] there are currently 22 defined periods/systems.[2] As an exception two subperiods/subsystems are used for the Carboniferous Period/System.[7]
+An epoch is the second smallest geochronologic unit, between a period and an age. It is the equivalent of a chronostratigraphic series.[7][12] As of April 2022[update] there are currently 37 defined and one informal epochs/series. There are also 11 subepochs/subseries which are all within the Neogene and Quaternary.[2] The use of subseries/subepochs as formal ranks/units in international chronostratigraphy was ratified in 2022.[13]
+An age is the smallest hierarchical geochronologic unit and is the equivalent of a chronostratigraphic stage.[7][12] As of April 2022[update] there are currently 96 formal and five informal ages/stages.[2]
+A chron is a non-hierarchical formal geochronology unit of unspecified rank and is the equivalent of a chronostratigraphic chronozone.[7] These correlate with magnetostratigraphic, lithostratigraphic, or biostratigraphic units as they are based on previously defined stratigraphic units or geologic features.
+The Early and Late subdivisions are used as the geochronologic equivalents of the chronostratigraphic Lower and Upper, e.g., Early Triassic Period (geochronologic unit) is used in place of Lower Triassic Series (chronostratigraphic unit).
+In essence, it is true to say that rocks representing a given chronostratigraphic unit are that chronostratigraphic unit, and the time they were laid down in is the geochronologic unit, i.e., the rocks that represent the Silurian Series are the Silurian Series and they were deposited during the Silurian Period.
+Formal, hierarchical units of the geologic time scale (largest to smallest)
+Chronostratigraphic unit (strata)
+Geochronologic unit (time)
+Time span[note 2]
+Eonothem
+Eon
+Several hundred millions of years
+Erathem
+Era
+Tens to hundreds of millions of years
+System
+Period
+Millions of years to tens of millions of years
+Series
+Epoch
+Hundreds of thousands of years to tens of millions of years
+Subseries
+Subepoch
+Thousands of years to millions of years
+Stage
+Age
+Thousands of years to millions of years
+Naming of geologic time[edit]
+The names of geologic time units are defined for chronostratigraphic units with the corresponding geochronologic unit sharing the same name with a change to the latter (e.g. Phanerozoic Eonothem becomes the Phanerozoic Eon). Names of erathems in the Phanerozoic were chosen to reflect major changes of the history of life on Earth: Paleozoic (old life), Mesozoic (middle life), and Cenozoic (new life). Names of systems are diverse in origin, with some indicating chronologic position (e.g., Paleogene), while others are named for lithology (e.g., Cretaceous), geography (e.g., Permian), or are tribal (e.g., Ordovician) in origin. Most currently recognised series and subseries are named for their position within a system/series (early/middle/late); however, the ICS advocates for all new series and subseries to be named for a geographic feature in the vicinity of its stratotype or type locality. The name of stages should also be derived from a geographic feature in the locality of its stratotype or type locality.[7]
+Informally, the time before the Cambrian is often referred to as the Precambrian or pre-Cambrian (Supereon).[6][note 3]
+Time span and etymology of eonothem/eon names
+Name
+Time Span
+Duration (million years)
+Etymology of name
+Phanerozoic
+538.8 to 0 million years ago
+538.8
+From the Greek words   (phaner s) meaning 'visible' or 'abundant', and   (zo ) meaning 'life'.
+Proterozoic
+2,500 to 538.8 million years ago
+1961.2
+From the Greek words   (pr teros) meaning 'former' or 'earlier', and   (zo ) meaning 'life'.
+Archean
+4,000 to 2,500 million years ago
+1500
+From the Greek word   (arch ), meaning 'beginning, origin'.
+Hadean
+4,567.3 to 4,000 million years ago
+567.3
+From Hades, Greek:  , translit. H id s, the god of the underworld (hell, the inferno) in Greek mythology.
+Time span and etymology of erathem/era names
+Name
+Time Span
+Duration (million years)
+Etymology of name
+Cenozoic
+66 to 0 million years ago
+66
+From the Greek words   (kain s) meaning 'new', and   (z ) meaning 'life'.
+Mesozoic
+251.9 to 66 million years ago
+185.902
+From the Greek words   (m so) meaning 'middle', and   (z ) meaning 'life'.
+Paleozoic
+538.8 to 251.9 million years ago
+286.898
+From the Greek words   (palai s) meaning 'old', and   (z ) meaning 'life'.
+Neoproterozoic
+1,000 to 538.8 million years ago
+461.2
+From the Greek words   (n os) meaning 'new' or 'young',   (pr teros) meaning 'former' or 'earlier', and   (z ) meaning 'life'.
+Mesoproterozoic
+1,600 to 1,000 million years ago
+600
+From the Greek words   (m so) meaning 'middle',   (pr teros) meaning 'former' or 'earlier', and   (z ) meaning 'life'.
+Paleoproterozoic
+2,500 to 1,600 million years ago
+900
+From the Greek words   (palai s) meaning 'old',   (pr teros) meaning 'former' or 'earlier', and   (z ) meaning 'life'.
+Neoarchean
+2,800 to 2,500 million years ago
+300
+From the Greek words   (n os) meaning 'new' or 'young', and   (arkha os) meaning 'ancient'.
+Mesoarchean
+3,200 to 2,800 million years ago
+400
+From the Greek words   (m so) meaning 'middle', and   (arkha os) meaning 'ancient'.
+Paleoarchean
+3,600 to 3,200 million years ago
+400
+From the Greek words   (palai s) meaning 'old', and   (arkha os) meaning 'ancient'.
+Eoarchean
+4,000 to 3,600 million years ago
+400
+From the Greek words   ( s) meaning 'dawn', and   (arkha os) meaning 'ancient'.
+Time span and etymology of system/period names
+Name
+Time Span
+Duration (million years)
+Etymology of name
+Quaternary
+2.6 to 0 million years ago
+2.58
+First introduced by Jules Desnoyers in 1829 for sediments in France's Seine Basin that appeared to be younger than Tertiary[note 4] rocks.[14]
+Neogene
+23 to 2.6 million years ago
+20.45
+Derived from the Greek words   (n os) meaning 'new', and   (gene ) meaning 'genesis' or 'birth'.
+Paleogene
+66 to 23 million years ago
+42.97
+Derived from the Greek words   (palai s) meaning 'old', and   (gene ) meaning 'genesis' or 'birth'.
+Cretaceous
+~145 to 66 million years ago
+~79
+Derived from Terrain Cr tac  used in 1822 by Jean d'Omalius d'Halloy in reference to extensive beds of chalk within the Paris Basin.[15] Ultimately derived from the Latin cr ta meaning (chalk).
+Jurassic
+201.4 to 145 million years ago
+~56.4
+Named after the Jura Mountains. Originally used by Alexander von Humboldt as 'Jura Kalkstein' (Jura limestone) in 1799.[16] Alexandre Brongniart was the first to publish the term Jurassic in 1829.[17][18]
+Triassic
+251.9 to 201.4 million years ago
+50.502
+From the Trias of Friedrich August von Alberti in reference to a trio of formations widespread in southern Germany.
+Permian
+298.9 to 251.9 million years ago
+46.998
+Named after the historical region of Perm, Russian Empire.[19]
+Carboniferous
+358.9 to 298.9 million years ago
+60
+Means 'coal-bearing', from the Latin carb  (coal) and fer  (to bear, carry).[20]
+Devonian
+419.2 to 358.9 million years ago
+60.3
+Named after Devon, England.[21]
+Silurian
+443.8 to 419.2 million years ago
+24.6
+Named after the Celtic tribe, the Silures.[22]
+Ordovician
+485.4 to 443.8 million years ago
+41.6
+Named after the Celtic tribe, Ordovices.[23][24]
+Cambrian
+538.8 to 485.4 million years ago
+53.4
+Named for Cambria, a latinised form of the Welsh name for Wales, Cymru.[25]
+Ediacaran
+635 to 538.8 million years ago
+~96.2
+Named for the Ediacara Hills. Ediacara is possibly a corruption of the Kuyani words 'Yata Takarra' meaning hard or stony ground.[26][27]
+Cryogenian
+720 to 635 million years ago
+~85
+From the Greek words   (kr os) meaning 'cold', and,   (g nesis) meaning 'birth'.[3]
+Tonian
+1,000 to 720 million years ago
+~280
+From the Greek word   (t nos) meaning 'stretch'.[3]
+Stenian
+1,200 to 1,000 million years ago
+200
+From the Greek word   (sten s) meaning 'narrow'.[3]
+Ectasian
+1,400 to 1,200 million years ago
+200
+From the Greek word   ( ktasis) meaning 'extension'.[3]
+Calymmian
+1,600 to 1,400 million years ago
+200
+From the Greek word   (k lumma) meaning 'cover'.[3]
+Statherian
+1,800 to 1,600 million years ago
+200
+From the Greek word   (stather s) meaning 'stable'.[3]
+Orosirian
+2,050 to 1,800 million years ago
+250
+From the Greek word   (oroseir ) meaning 'mountain range'.[3]
+Rhyacian
+2,300 to 2,050 million years ago
+250
+From the Greek word   (rh ax) meaning 'stream of lava'.[3]
+Siderian
+2,500 to 2,300 million years ago
+200
+From the Greek word   (s d ros) meaning 'iron'.[3]
+History of the geologic time scale[edit]
+See also: History of geology and History of paleontology
+Early history[edit]
+While a modern geological time scale was not formulated until 1911[28] by Arthur Holmes, the broader concept that rocks and time are related can be traced back to (at least) the philosophers of Ancient Greece. Xenophanes of Colophon (c. 570 487 BCE) observed rock beds with fossils of shells located above the sea-level, viewed them as once living organisms, and used this to imply an unstable relationship in which the sea had at times transgressed over the land and at other times had regressed.[29] This view was shared by a few of Xenophanes' contemporaries and those that followed, including Aristotle (384 322 BCE) who (with additional observations) reasoned that the positions of land and sea had changed over long periods of time. The concept of deep time was also recognised by Chinese naturalist Shen Kuo[30] (1031 1095) and Islamic scientist-philosophers, notably the Brothers of Purity, who wrote on the processes of stratification over the passage of time in their treatises.[29] Their work likely inspired that of the 11th-century Persian polymath Avicenna (Ibn S n , 980 1037) who wrote in The Book of Healing (1027) on the concept of stratification and superposition, pre-dating Nicolas Steno by more than six centuries.[29] Avicenna also recognised fossils as "petrifications of the bodies of plants and animals",[31] with the 13th-century Dominican bishop Albertus Magnus (c. 1200 1280) extending this into a theory of a petrifying fluid.[32][verification needed] These works appeared to have little influence on scholars in Medieval Europe who looked to the Bible to explain the origins of fossils and sea-level changes, often attributing these to the 'Deluge', including Ristoro d'Arezzo in 1282.[29] It was not until the Italian Renaissance when Leonardo da Vinci (1452 1519) would reinvigorate the relationships between stratification, relative sea-level change, and time, denouncing attribution of fossils to the 'Deluge':[33][29]
+Of the stupidity and ignorance of those who imagine that these creatures were carried to such places distant from the sea by the Deluge...Why do we find so many fragments and whole shells between the different layers of stone unless they had been upon the shore and had been covered over by earth newly thrown up by the sea which then became petrified? And if the above-mentioned Deluge had carried them to these places from the sea, you would find the shells at the edge of one layer of rock only, not at the edge of many where may be counted the winters of the years during which the sea multiplied the layers of sand and mud brought down by the neighboring rivers and spread them over its shores. And if you wish to say that there must have been many deluges in order to produce these layers and the shells among them it would then become necessary for you to affirm that such a deluge took place every year.
+These views of da Vinci remained unpublished, and thus lacked influence at the time; however, questions of fossils and their significance were pursued and, while views against Genesis were not readily accepted and dissent from religious doctrine was in some places unwise, scholars such as Girolamo Fracastoro shared da Vinci's views, and found the attribution of fossils to the 'Deluge' absurd.[29]
+Establishment of primary principles[edit]
+Niels Stensen, more commonly known as Nicolas Steno (1638 1686), is credited with establishing four of the guiding principles of stratigraphy.[29] In De solido intra solidum naturaliter contento dissertationis prodromus  Steno states:[34][35]
+When any given stratum was being formed, all the matter resting on it was fluid and, therefore, when the lowest stratum was being formed, none of the upper strata existed.
+...strata which are either perpendicular to the horizon or inclined to it were at one time parallel to the horizon.
+When any given stratum was being formed, it was either encompassed at its edges by another solid substance or it covered the whole globe of the earth. Hence, it follows that wherever bared edges of strata are seen, either a continuation of the same strata must be looked for or another solid substance must be found that kept the material of the strata from being dispersed.
+If a body or discontinuity cuts across a stratum, it must have formed after that stratum.
+Respectively, these are the principles of superposition, original horizontality, lateral continuity, and cross-cutting relationships. From this Steno reasoned that strata were laid down in succession and inferred relative time (in Steno's belief, time from Creation). While Steno's principles were simple and attracted much attention, applying them proved challenging.[29] These basic principles, albeit with improved and more nuanced interpretations, still form the foundational principles of determining correlation of strata relative geologic time.
+Over the course of the 18th-century geologists realised that:
+Sequences of strata often become eroded, distorted, tilted, or even inverted after deposition
+Strata laid down at the same time in different areas could have entirely different appearances
+The strata of any given area represented only part of Earth's long history
+Formulation of a modern geologic time scale[edit]
+The apparent, earliest formal division of the geologic record with respect to time was introduced by Thomas Burnet who applied a two-fold terminology to mountains by identifying "montes primarii" for rock formed at the time of the 'Deluge', and younger "monticulos secundarios" formed later from the debris of the "primarii".[36][29] This attribution to the 'Deluge', while questioned earlier by the likes of da Vinci, was the foundation of Abraham Gottlob Werner's (1749 1817) Neptunism theory in which all rocks precipitated out of a single flood.[37] A competing theory, Plutonism, was developed by Anton Moro (1687 1784) and also used primary and secondary divisions for rock units.[38][29] In this early version of the Plutonism theory, the interior of Earth was seen as hot, and this drove the creation of primary igneous and metamorphic rocks and secondary rocks formed contorted and fossiliferous sediments. These primary and secondary divisions were expanded on by Giovanni Targioni Tozzetti (1712 1783) and Giovanni Arduino (1713 1795) to include tertiary and quaternary divisions.[29] These divisions were used to describe both the time during which the rocks were laid down, and the collection of rocks themselves (i.e., it was correct to say Tertiary rocks, and Tertiary Period). Only the Quaternary division is retained in the modern geologic time scale, while the Tertiary division was in use until the early 21st century. The Neputism and Plutonism theories would compete into the early 19th century with a key driver for resolution of this debate being the work of James Hutton (1726 1797), in particular his Theory of the Earth, first presented before the Royal Society of Edinburgh in 1785.[39][40][41] Hutton's theory would later become known as uniformitarianism, popularised by John Playfair[42] (1748 1819) and later Charles Lyell (1797 1875) in his Principles of Geology.[43][44][45] Their theories strongly contested the 6,000 year age of the Earth as suggested determined by James Ussher via Biblical chronology that was accepted at the time by western religion. Instead, using geological evidence, they contested Earth to be much older, cementing the concept of deep time.
+During the early 19th century William Smith, Georges Cuvier, Jean d'Omalius d'Halloy, and Alexandre Brongniart pioneered the systematic division of rocks by stratigraphy and fossil assemblages. These geologists began to use the local names given to rock units in a wider sense, correlating strata across national and continental boundaries based on their similarity to each other. Many of the names below erathem/era rank in use on the modern ICC/GTS were determined during the early to mid-19th century.
+The advent of geochronometry[edit]
+During the 19th century, the debate regarding Earth's age was renewed, with geologists estimating ages based on denudation rates and sedimentary thicknesses or ocean chemistry, and physicists determining ages for the cooling of the Earth or the Sun using basic thermodynamics or orbital physics.[5] These estimations varied from 15,000 million years to 0.075 million years depending on method and author, but the estimations of Lord Kelvin and Clarence King were held in high regard at the time due to their pre-eminence in physics and geology. All of these early geochronometric determinations would later prove to be incorrect.
+The discovery of radioactive decay by Henri Becquerel, Marie Curie, and Pierre Curie laid the ground work for radiometric dating, but the knowledge and tools required for accurate determination of radiometric ages would not be in place until the mid-1950s.[5] Early attempts at determining ages of uranium minerals and rocks by Ernest Rutherford, Bertram Boltwood, Robert Strutt, and Arthur Holmes, would culminate in what are considered the first international geological time scales by Holmes in 1911 and 1913.[28][46][47] The discovery of isotopes in 1913[48] by Frederick Soddy, and the developments in mass spectrometry pioneered by Francis William Aston, Arthur Jeffrey Dempster, and Alfred O. C. Nier during the early to mid-20th century would finally allow for the accurate determination of radiometric ages, with Holmes publishing several revisions to his geological time-scale with his final version in 1960.[5][47][49][50]
+Modern international geologic time scale[edit]
+The establishment of the IUGS in 1961[51] and acceptance of the Commission on Stratigraphy (applied in 1965)[52] to become a member commission of IUGS led to the founding of the ICS. One of the primary objectives of the ICS is "the establishment, publication and revision of the ICS International Chronostratigraphic Chart which is the standard, reference global Geological Time Scale to include the ratified Commission decisions".[1]
+Following on from Holmes, several A Geological Time Scale books were published in 1982,[53] 1989,[54] 2004,[55] 2008,[56] 2012,[57] 2016,[58] and 2020.[59] However, since 2013, the ICS has taken responsibility for producing and distributing the ICC citing the commercial nature, independent creation, and lack of oversight by the ICS on the prior published GTS versions (GTS books prior to 2013) although these versions were published in close association with the ICS.[2] Subsequent Geologic Time Scale books (2016[58] and 2020[59]) are commercial publications with no oversight from the ICS, and do not entirely conform to the chart produced by the ICS. The ICS produced GTS charts are versioned (year/month) beginning at v2013/01. At least one new version is published each year incorporating any changes ratified by the ICS since the prior version.
+The following five timelines show the geologic time scale to scale. The first shows the entire time from the formation of the Earth to the present, but this gives little space for the most recent eon. The second timeline shows an expanded view of the most recent eon. In a similar way, the most recent era is expanded in the third timeline, the most recent period is expanded in the fourth timeline, and the most recent epoch is expanded in the fifth timeline.
+Millions of Years (1st, 2nd, 3rd, and 4th)Thousands of years (5th)
+Major proposed revisions to the ICC[edit]
+Proposed Anthropocene Series/Epoch[edit]
+Main article: Anthropocene
+First suggested in 2000,[60] the Anthropocene is a proposed epoch/series for the most recent time in Earth's history. While still informal, it is a widely used term to denote the present geologic time interval, in which many conditions and processes on Earth are profoundly altered by human impact.[61] As of April 2022[update] the Anthropocene has not been ratified by the ICS; however, in May 2019 the Anthropocene Working Group voted in favour of submitting a formal proposal to the ICS for the establishment of the Anthropocene Series/Epoch.[62] Nevertheless, the definition of the Anthropocene as a geologic time period rather than a geologic event remains controversial and difficult.[63][64][65][66]
+Proposals for revisions to pre-Cryogenian timeline[edit]
+Shields et al. 2021[edit]
+An international working group of the ICS on pre-Cryogenian chronostratigraphic subdivision have outlined a template to improve the pre-Cryogenian geologic time scale based on the rock record to bring it in line with the post-Tonian geologic time scale.[6] This work assessed the geologic history of the currently defined eons and eras of the pre-Cambrian,[note 3] and the proposals in the "Geological Time Scale" books 2004,[67] 2012,[3] and 2020.[68] Their recommend revisions[6] of the pre-Cryogenian geologic time scale were (changes from the current scale [v2022/10] are italicised):
+Three divisions of the Archean instead of four by dropping Eoarchean, and revisions to their geochronometric definition, along with the repositioning of the Siderian into the latest Neoarchean, and a potential Kratian division in the Neoarchean.
+Archean (4000 2450 Ma)
+Paleoarchean (4000 3500 Ma)
+Mesoarchean (3500 3000 Ma)
+Neoarchean (3000 2450 Ma)
+Kratian (no fixed time given, prior to the Siderian)   from Greek word   (kr tos), meaning strength.
+Siderian (? 2450 Ma)   moved from Proterozoic to end of Archean, no start time given, base of Paleoproterozoic defines the end of the Siderian
+Refinement of geochronometric divisions of the Proterozoic, Paleoproterozoic, repositioning of the Statherian into the Mesoproterozoic, new Skourian period/system in the Paleoproterozoic, new Kleisian or Syndian period/system in the Neoproterozoic.
+Paleoproterozoic (2450 1800 Ma)
+Skourian (2450 2300 Ma)   from the Greek word   (skouri ), meaning 'rust'.
+Rhyacian (2300 2050 Ma)
+Orosirian (2050 1800 Ma)
+Mesoproterozoic (1800 1000 Ma)
+Statherian (1800 1600 Ma)
+Calymmian (1600 1400 Ma)
+Ectasian (1400-1200 Ma)
+Stenian (1200 1000 Ma)
+Neoproterozoic (1000 538.8 Ma)[note 5]
+Kleisian or Syndian (1000 800 Ma)   respectively from the Greek words   (kle simo) meaning 'closure', and   (s ndesi) meaning 'connection'.
+Tonian (800 720 Ma)
+Cryogenian (720 635 Ma)
+Ediacaran (635 538.8 Ma)
+Proposed pre-Cambrian timeline (Shield et al. 2021, ICS working group on pre-Cryogenian chronostratigraphy), shown to scale:[note 6]
+Current ICC pre-Cambrian timeline (v2022/10), shown to scale:
+Van Kranendonk et al. 2012 (GTS2012)[edit]
+The book, Geologic Time Scale 2012, was the last commercial publication of an international chronostratigraphic chart that was closely associated with the ICS.[2] It included a proposal to substantially revise the pre-Cryogenian time scale to reflect important events such as the formation of the solar system and the Great Oxidation Event, among others, while at the same time maintaining most of the previous chronostratigraphic nomenclature for the pertinent time span.[69] As of April 2022[update] these proposed changes have not been accepted by the ICS. The proposed changes were (changes from the current scale [v2022/10] are italicised):
+Hadean Eon (4567 4030 Ma)
+Chaotian Era/Erathem (4567 4404 Ma)   the name alluding both to the mythological Chaos and the chaotic phase of planet formation.[57][70][71]
+Jack Hillsian or Zirconian Era/Erathem (4404 4030 Ma)   both names allude to the Jack Hills Greenstone Belt which provided the oldest mineral grains on Earth, zircons.[57][70]
+Archean Eon/Eonothem (4030 2420 Ma)
+Paleoarchean Era/Erathem (4030 3490 Ma)
+Acastan Period/System (4030 3810 Ma)   named after the Acasta Gneiss, one of the oldest preserved pieces of continental crust.[57][70]
+Isuan Period (3810 3490 Ma)   named after the Isua Greenstone Belt.[57]
+Mesoarchean Era/Erathem (3490 2780 Ma)
+Vaalbaran Period/System (3490 3020 Ma)   based on the names of the Kapvaal (Southern Africa) and Pilbara (Western Australia) cratons, to reflect the growth of stable continental nuclei or proto-cratonic kernels.[57]
+Pongolan Period/System (3020 2780 Ma)   named after the Pongola Supergroup, in reference to the well preserved evidence of terrestrial microbial communities in those rocks.[57]
+Neoarchean Era/Erathem (2780 2420 Ma)
+Methanian Period/System (2780 2630 Ma)   named for the inferred predominance of methanotrophic prokaryotes[57]
+Siderian Period/System (2630 2420 Ma)   named for the voluminous banded iron formations formed within its duration.[57]
+Proterozoic Eon/Eonothem (2420 538.8 Ma)[note 5]
+Paleoproterozoic Era/Erathem (2420 1780 Ma)
+Oxygenian Period/System (2420 2250 Ma)   named for displaying the first evidence for a global oxidizing atmosphere.[57]
+Jatulian or Eukaryian Period/System (2250 2060 Ma)   names are respectively for the Lomagundi Jatuli  13C isotopic excursion event spanning its duration, and for the (proposed)[72][73] first fossil appearance of eukaryotes.[57]
+Columbian Period/System (2060 1780 Ma)   named after the supercontinent Columbia.[57]
+Mesoproterozoic Era/Erathem (1780 850 Ma)
+Rodinian Period/System (1780 850 Ma)   named after the supercontinent Rodinia, stable environment.[57]
+Proposed pre-Cambrian timeline (GTS2012), shown to scale:
+Current ICC pre-Cambrian timeline (v2022/10), shown to scale:
+Table of geologic time[edit]
+The following table summarises the major events and characteristics of the divisions making up the geologic time scale of Earth. This table is arranged with the most recent geologic periods at the top, and the oldest at the bottom. The height of each table entry does not correspond to the duration of each subdivision of time. As such, this table is not to scale and does not accurately represent the relative time-spans of each geochronologic unit. While the Phanerozoic Eon looks longer than the rest, it merely spans ~539 million years (~12% of Earth's history), whilst the previous three eons[note 3] collectively span ~3,461 million years (~76% of Earth's history). This bias toward the most recent eon is in part due to the relative lack of information about events that occurred during the first three eons compared to the current eon (the Phanerozoic).[6][74] The use of subseries/subepochs has been ratified by the ICS.[13]
+The content of the table is based on the official ICC produced and maintained by the ICS who also provide an online interactive version of this chart. The interactive version is based on a service delivering a machine-readable Resource Description Framework/Web Ontology Language representation of the time scale, which is available through the Commission for the Management and Application of Geoscience Information GeoSciML project as a service[75] and at a SPARQL end-point.[76][77]
+Eonothem/Eon
+Erathem/Era
+System/Period
+Series/Epoch
+Stage/Age
+Major events
+Start, million years ago[note 7]
+Phanerozoic
+Cenozoic[note 4]
+Quaternary
+Holocene
+Meghalayan
+4.2-kiloyear event, Austronesian expansion, increasing industrial CO2.
+0.0042  *
+Northgrippian
+8.2-kiloyear event, Holocene climatic optimum. Sea level flooding of Doggerland and Sundaland. Sahara becomes a desert. End of Stone Age and start of recorded history. Humans finally expand into the Arctic Archipelago and Greenland.
+0.0082  *
+Greenlandian
+Climate stabilizes. Current interglacial and Holocene extinction begins. Agriculture begins. Humans spread across the wet Sahara and Arabia, the Extreme North, and the Americas (mainland and the Caribbean).
+0.0117  0.000099 *
+Pleistocene
+Upper/Late ('Tarantian')
+Eemian interglacial, last glacial period, ending with Younger Dryas. Toba eruption. Pleistocene megafauna (including the last terror birds) extinction. Humans expand into Near Oceania and the Americas.
+0.129
+Chibanian
+Mid-Pleistocene Transition occurs, high amplitude 100 ka glacial cycles. Rise of Homo sapiens.
+0.774 *
+Calabrian
+Further cooling of the climate. Giant terror birds go extinct. Spread of Homo erectus across Afro-Eurasia.
+1.8  *
+Gelasian
+Start of Quaternary glaciations and unstable climate.[78] Rise of the Pleistocene megafauna and Homo habilis.
+2.58  *
+Neogene
+Pliocene
+Piacenzian
+Greenland ice sheet develops[79] as the cold slowly intensifies towards the Pleistocene. Atmospheric O2 and CO2 content reaches present-day levels while landmasses also reach their current locations (e.g. the Isthmus of Panama joins the North and South Americas, while allowing a faunal interchange). The last non-marsupial metatherians go extinct. Australopithecus common in East Africa; Stone Age begins.[80]
+3.6  *
+Zanclean
+Zanclean flooding of the Mediterranean Basin. Cooling climate continues from the Miocene. First equines and elephantines. Ardipithecus in Africa.[80]
+5.333  *
+Miocene
+Messinian
+Messinian Event with hypersaline lakes in empty Mediterranean Basin. Sahara desert formation begins. Moderate icehouse climate, punctuated by ice ages and re-establishment of East Antarctic Ice Sheet. Choristoderes, the last non-crocodilian crocodylomorphs and creodonts go extinct. After separating from gorilla ancestors, chimpanzee and human ancestors gradually separate; Sahelanthropus and Orrorin in Africa.
+7.246  *
+Tortonian
+11.63  *
+Serravallian
+Middle Miocene climate optimum temporarily provides a warm climate.[81] Extinctions in middle Miocene disruption, decreasing shark diversity. First hippos. Ancestor of great apes.
+13.82  *
+Langhian
+15.97
+Burdigalian
+Orogeny in Northern Hemisphere. Start of Kaikoura Orogeny forming Southern Alps in New Zealand. Widespread forests slowly draw in massive amounts of CO2, gradually lowering the level of atmospheric CO2 from 650 ppmv down to around 100 ppmv during the Miocene.[82][note 8] Modern bird and mammal families become recognizable. The last of the primitive whales go extinct. Grasses become ubiquitous. Ancestor of apes, including humans.[83][84] Afro-Arabia collides with Eurasia, fully forming the Alpide Belt and closing the Tethys Ocean, while allowing a faunal interchange. At the same time, Afro-Arabia splits into Africa and West Asia.
+20.44
+Aquitanian
+23.03  *
+Paleogene
+Oligocene
+Chattian
+Grande Coupure extinction. Start of widespread Antarctic glaciation.[85] Rapid evolution and diversification of fauna, especially mammals (e.g. first macropods and seals). Major evolution and dispersal of modern types of flowering plants. Cimolestans, miacoids and condylarths go extinct. First neocetes (modern, fully aquatic whales) appear.
+27.82  *
+Rupelian
+33.9  *
+Eocene
+Priabonian
+Moderate, cooling climate. Archaic mammals (e.g. creodonts, miacoids, "condylarths" etc.) flourish and continue to develop during the epoch. Appearance of several "modern" mammal families. Primitive whales and sea cows diversify after returning to water. Birds continue to diversify. First kelp, diprotodonts, bears and simians. The multituberculates and leptictidans go extinct by the end of the epoch. Reglaciation of Antarctica and formation of its ice cap; End of Laramide and Sevier Orogenies of the Rocky Mountains in North America. Hellenic Orogeny begins in Greece and Aegean Sea.
+37.71  *
+Bartonian
+41.2
+Lutetian
+47.8  *
+Ypresian
+Two transient events of global warming (PETM and ETM-2) and warming climate until the Eocene Climatic Optimum. The Azolla event decreased CO2 levels from 3500 ppm to 650 ppm, setting the stage for a long period of cooling.[82][note 8] Greater India collides with Eurasia and starts Himalayan Orogeny (allowing a biotic interchange) while Eurasia completely separates from North America, creating the North Atlantic Ocean. Maritime Southeast Asia diverges from the rest of Eurasia. First passerines, ruminants, pangolins, bats and true primates.
+56  *
+Paleocene
+Thanetian
+Starts with Chicxulub impact and the K-Pg extinction event, wiping out all non-avian dinosaurs and pterosaurs, most marine reptiles, many other vertebrates (e.g. many Laurasian metatherians), most cephalopods (only Nautilidae and Coleoidea survived) and many other invertebrates. Climate tropical. Mammals and birds (avians) diversify rapidly into a number of lineages following the extinction event (while the marine revolution stops). Multituberculates and the first rodents widespread. First large birds (e.g. ratites and terror birds) and mammals (up to bear or small hippo size). Alpine orogeny in Europe and Asia begins. First proboscideans and plesiadapiformes (stem primates) appear. Some marsupials migrate to Australia.
+59.2  *
+Selandian
+61.6  *
+Danian
+66  *
+Mesozoic
+Cretaceous
+Upper/Late
+Maastrichtian
+Flowering plants proliferate (after developing many features since the Carboniferous), along with new types of insects, while other seed plants (gymnosperms and seed ferns) decline. More modern teleost fish begin to appear. Ammonoids, belemnites, rudist bivalves, sea urchins and sponges all common. Many new types of dinosaurs (e.g. tyrannosaurs, titanosaurs, hadrosaurs, and ceratopsids) evolve on land, while crocodilians appear in water and probably cause the last temnospondyls to die out; and mosasaurs and modern types of sharks appear in the sea. The revolution started by marine reptiles and sharks reaches its peak, though ichthyosaurs vanish few million years after being heavily reduced at the Bonarelli Event. Toothed and toothless avian birds coexist with pterosaurs. Modern monotremes, metatherian (including marsupials, who migrate to South America) and eutherian (including placentals, leptictidans and cimolestans) mammals appear while the last non-mammalian cynodonts die out. First terrestrial crabs. Many snails become terrestrial. Further breakup of Gondwana creates South America, Afro-Arabia, Antarctica, Oceania, Madagascar, Greater India, and the South Atlantic, Indian and Antarctic Oceans and the islands of the Indian (and some of the Atlantic) Ocean. Beginning of Laramide and Sevier Orogenies of the Rocky Mountains. Atmospheric oxygen and carbon dioxide levels similar to present day. Acritarchs disappear. Climate initially warm, but later it cools.
+72.1  0.2 *
+Campanian
+83.6  0.2 *
+Santonian
+86.3  0.5 *
+Coniacian
+89.8  0.3 *
+Turonian
+93.9  *
+Cenomanian
+100.5  *
+Lower/Early
+Albian
+~113  *
+Aptian
+~121.4
+Barremian
+~129.4
+Hauterivian
+~132.6  *
+Valanginian
+~139.8
+Berriasian
+~145
+Jurassic
+Upper/Late
+Tithonian
+Climate becomes humid again. Gymnosperms (especially conifers, cycads and cycadeoids) and ferns common. Dinosaurs, including sauropods, carnosaurs, stegosaurs and coelurosaurs, become the dominant land vertebrates. Mammals diversify into shuotheriids, australosphenidans, eutriconodonts, multituberculates, symmetrodonts, dryolestids and boreosphenidans but mostly remain small. First birds, lizards, snakes and turtles. First brown algae, rays, shrimps, crabs and lobsters. Parvipelvian ichthyosaurs and plesiosaurs diverse. Rhynchocephalians throughout the world. Bivalves, ammonoids and belemnites abundant. Sea urchins very common, along with crinoids, starfish, sponges, and terebratulid and rhynchonellid brachiopods. Breakup of Pangaea into Laurasia and Gondwana, with the latter also breaking into two main parts; the Pacific and Arctic Oceans form. Tethys Ocean forms. Nevadan orogeny in North America. Rangitata and Cimmerian orogenies taper off. Atmospheric CO2 levels 3 4 times the present-day levels (1200 1500 ppmv, compared to today's 400 ppmv[82][note 8]). Crocodylomorphs (last pseudosuchians) seek out an aquatic lifestyle. Mesozoic marine revolution continues from late Triassic. Tentaculitans disappear.
+149.2  0.9
+Kimmeridgian
+154.8  1.0 *
+Oxfordian
+161.5  1.0
+Middle
+Callovian
+165.3  1.2
+Bathonian
+168.2  1.3 *
+Bajocian
+170.9  1.4 *
+Aalenian
+174.7  1.0 *
+Lower/Early
+Toarcian
+184.2  0.7 *
+Pliensbachian
+192.9  1.0 *
+Sinemurian
+199.5  0.3 *
+Hettangian
+201.4  0.2 *
+Triassic
+Upper/Late
+Rhaetian
+Archosaurs dominant on land as pseudosuchians and in the air as pterosaurs. Dinosaurs also arise from bipedal archosaurs. Ichthyosaurs and nothosaurs (a group of sauropterygians) dominate large marine fauna. Cynodonts become smaller and nocturnal, eventually becoming the first true mammals, while other remaining synapsids die out. Rhynchosaurs (archosaur relatives) also common. Seed ferns called Dicroidium remained common in Gondwana, before being replaced by advanced gymnosperms. Many large aquatic temnospondyl amphibians. Ceratitidan ammonoids extremely common. Modern corals and teleost fish appear, as do many modern insect orders and suborders. First starfish. Andean Orogeny in South America. Cimmerian Orogeny in Asia. Rangitata Orogeny begins in New Zealand. Hunter-Bowen Orogeny in Northern Australia, Queensland and New South Wales ends, (c. 260 225 Ma). Carnian pluvial event occurs around 234 232 Ma, allowing the first dinosaurs and lepidosaurs (including rhynchocephalians) to radiate. Triassic-Jurassic extinction event occurs 201 Ma, wiping out all conodonts and the last parareptiles, many marine reptiles (e.g. all sauropterygians except plesiosaurs and all ichthyosaurs except parvipelvians), all crocopodans except crocodylomorphs, pterosaurs, and dinosaurs, and many ammonoids (including the whole Ceratitida), bivalves, brachiopods, corals and sponges. First diatoms.[86]
+~208.5
+Norian
+~227
+Carnian
+~237  *
+Middle
+Ladinian
+~242  *
+Anisian
+247.2
+Lower/Early
+Olenekian
+251.2
+Induan
+251.902  0.024 *
+Paleozoic
+Permian
+Lopingian
+Changhsingian
+Landmasses unite into supercontinent Pangaea, creating the Urals, Ouachitas and Appalachians, among other mountain ranges (the superocean Panthalassa or Proto-Pacific also forms). End of Permo-Carboniferous glaciation. Hot and dry climate. A possible drop in oxygen levels. Synapsids (pelycosaurs and therapsids) become widespread and dominant, while parareptiles and temnospondyl amphibians remain common, with the latter probably giving rise to modern amphibians in this period. In the mid-Permian, lycophytes are heavily replaced by ferns and seed plants. Beetles and flies evolve. The very large arthropods and non-tetrapod tetrapodomorphs go extinct. Marine life flourishes in warm shallow reefs; productid and spiriferid brachiopods, bivalves, forams, ammonoids (including goniatites), and orthoceridans all abundant. Crown reptiles arise from earlier diapsids, and split into the ancestors of lepidosaurs, kuehneosaurids, choristoderes, archosaurs, testudinatans, ichthyosaurs, thalattosaurs, and sauropterygians. Cynodonts evolve from larger therapsids. Olson's Extinction (273 Ma), End-Capitanian extinction (260 Ma), and Permian-Triassic extinction event (252 Ma) occur one after another: more than 80% of life on Earth becomes extinct in the lattermost, including most retarian plankton, corals (Tabulata and Rugosa die out fully), brachiopods, bryozoans, gastropods, ammonoids (the goniatites die off fully), insects, parareptiles, synapsids, amphibians, and crinoids (only articulates survived), and all eurypterids, trilobites, graptolites, hyoliths, edrioasteroid crinozoans, blastoids and acanthodians. Ouachita and Innuitian orogenies in North America. Uralian orogeny in Europe/Asia tapers off. Altaid orogeny in Asia. Hunter-Bowen Orogeny on Australian continent begins (c. 260 225 Ma), forming the MacDonnell Ranges.
+254.14  0.07 *
+Wuchiapingian
+259.51  0.21 *
+Guadalupian
+Capitanian
+264.28  0.16 *
+Wordian
+266.9  0.4 *
+Roadian
+273.01  0.14 *
+Cisuralian
+Kungurian
+283.5  0.6
+Artinskian
+290.1  0.26 *
+Sakmarian
+293.52  0.17 *
+Asselian
+298.9  0.15 *
+Carboniferous[note 9]
+Pennsylvanian[note 10]
+Gzhelian
+Winged insects radiate suddenly; some (esp. Protodonata and Palaeodictyoptera) of them as well some millipedes and scorpions become very large. First coal forests (scale trees, ferns, club trees, giant horsetails, Cordaites, etc.). Higher atmospheric oxygen levels. Ice Age continues to the Early Permian. Goniatites, brachiopods, bryozoa, bivalves, and corals plentiful in the seas and oceans. First woodlice. Testate forams proliferate. Euramerica collides with Gondwana and Siberia-Kazakhstania, the latter of which forms Laurasia and the Uralian orogeny. Variscan orogeny continues (these collisions created orogenies, and ultimately Pangaea). Amphibians (e.g. temnospondyls) spread in Euramerica, with some becoming the first amniotes. Carboniferous Rainforest Collapse occurs, initiating a dry climate which favors amniotes over amphibians. Amniotes diversify rapidly into synapsids, parareptiles, cotylosaurs, protorothyridids and diapsids. Rhizodonts remained common before they died out by the end of the period. First sharks.
+303.7
+Kasimovian
+307  0.1
+Moscovian
+315.2  0.2
+Bashkirian
+323.2  *
+Mississippian[note 10]
+Serpukhovian
+Large lycopodian primitive trees flourish and amphibious eurypterids live amid coal-forming coastal swamps, radiating significantly one last time. First gymnosperms. First holometabolous, paraneopteran, polyneopteran, odonatopteran and ephemeropteran insects and first barnacles. First five-digited tetrapods (amphibians) and land snails. In the oceans, bony and cartilaginous fishes are dominant and diverse; echinoderms (especially crinoids and blastoids) abundant. Corals, bryozoans, orthoceridans, goniatites and brachiopods (Productida, Spiriferida, etc.) recover and become very common again, but trilobites and nautiloids decline. Glaciation in East Gondwana continues from Late Devonian. Tuhua Orogeny in New Zealand tapers off. Some lobe finned fish called rhizodonts become abundant and dominant in freshwaters. Siberia collides with a different small continent, Kazakhstania.
+330.9  0.2
+Vis an
+346.7  0.4 *
+Tournaisian
+358.9  0.4 *
+Devonian
+Upper/Late
+Famennian
+First lycopods, ferns, seed plants (seed ferns, from earlier progymnosperms), first trees (the progymnosperm Archaeopteris), and first winged insects (palaeoptera and neoptera). Strophomenid and atrypid brachiopods, rugose and tabulate corals, and crinoids are all abundant in the oceans. First fully coiled cephalopods (Ammonoidea and Nautilida, independently)  with the former group very abundant (especially goniatites). Trilobites and ostracoderms decline, while jawed fishes (placoderms, lobe-finned and ray-finned bony fish, and acanthodians and early cartilaginous fish) proliferate. Some lobe finned fish transform into digited fishapods, slowly becoming amphibious. The last non-trilobite artiopods die off. First decapods (like prawns) and isopods. Pressure from jawed fishes cause eurypterids to decline and some cephalopods to lose their shells while anomalocarids vanish. "Old Red Continent" of Euramerica persists after forming in the Caledonian orogeny. Beginning of Acadian Orogeny for Anti-Atlas Mountains of North Africa, and Appalachian Mountains of North America, also the Antler, Variscan, and Tuhua orogenies in New Zealand. A series of extinction events, including the massive Kellwasser and Hangenberg ones, wipe out many acritarchs, corals, sponges, molluscs, trilobites, eurypterids, graptolites, brachiopods, crinozoans (e.g. all cystoids), and fish, including all placoderms and ostracoderms.
+372.2  1.6 *
+Frasnian
+382.7  1.6 *
+Middle
+Givetian
+387.7  0.8 *
+Eifelian
+393.3  1.2 *
+Lower/Early
+Emsian
+407.6  2.6 *
+Pragian
+410.8  2.8 *
+Lochkovian
+419.2  3.2 *
+Silurian
+Pridoli
+Ozone layer thickens. First vascular plants and fully terrestrialized arthropods: myriapods, hexapods (including insects), and arachnids. Eurypterids diversify rapidly, becoming widespread and dominant. Cephalopods continue to flourish. True jawed fishes, along with ostracoderms, also roam the seas. Tabulate and rugose corals, brachiopods (Pentamerida, Rhynchonellida, etc.), cystoids and crinoids all abundant. Trilobites and molluscs diverse; graptolites not as varied. Three minor extinction events. Some echinoderms go extinct. Beginning of Caledonian Orogeny (collision between Laurentia, Baltica and one of the formerly small Gondwanan terranes) for hills in England, Ireland, Wales, Scotland, and the Scandinavian Mountains. Also continued into Devonian period as the Acadian Orogeny, above (thus Euramerica forms). Taconic Orogeny tapers off. Icehouse period ends late in this period after starting in Late Ordovician. Lachlan Orogeny on Australian continent tapers off.
+423  2.3 *
+Ludlow
+Ludfordian
+425.6  0.9 *
+Gorstian
+427.4  0.5 *
+Wenlock
+Homerian
+430.5  0.7 *
+Sheinwoodian
+433.4  0.8 *
+Llandovery
+Telychian
+438.5  1.1 *
+Aeronian
+440.8  1.2 *
+Rhuddanian
+443.8  1.5 *
+Ordovician
+Upper/Late
+Hirnantian
+The Great Ordovician Biodiversification Event occurs as plankton increase in number: invertebrates diversify into many new types (especially brachiopods and molluscs; e.g. long straight-shelled cephalopods like the long lasting and diverse Orthocerida). Early corals, articulate brachiopods (Orthida, Strophomenida, etc.), bivalves, cephalopods (nautiloids), trilobites, ostracods, bryozoans, many types of echinoderms (blastoids, cystoids, crinoids, sea urchins, sea cucumbers, and star-like forms, etc.), branched graptolites, and other taxa all common. Acritarchs still persist and common. Cephalopods become dominant and common, with some trending toward a coiled shell. Anomalocarids decline. Mysterious tentaculitans appear. First eurypterids and ostracoderm fish appear, the latter probably giving rise to the jawed fish at the end of the period. First uncontroversial terrestrial fungi and fully terrestrialized plants. Ice age at the end of this period, as well as a series of mass extinction events, killing off some cephalopods and many brachiopods, bryozoans, echinoderms, graptolites, trilobites, bivalves, corals and conodonts.
+445.2  1.4 *
+Katian
+453  0.7 *
+Sandbian
+458.4  0.9 *
+Middle
+Darriwilian
+467.3  1.1 *
+Dapingian
+470  1.4 *
+Lower/Early
+Floian(formerly Arenig)
+477.7  1.4 *
+Tremadocian
+485.4  1.9 *
+Cambrian
+Furongian
+Stage 10
+Major diversification of (fossils mainly show bilaterian) life in the Cambrian Explosion as oxygen levels increase. Numerous fossils; most modern animal phyla  (including arthropods, molluscs, annelids, echinoderms, hemichordates and chordates) appear. Reef-building archaeocyathan sponges initially abundant, then vanish. Stromatolites replace them, but quickly fall prey to the Agronomic revolution, when some animals started burrowing through the microbial mats (affecting some other animals as well). First artiopods (including trilobites), priapulid worms, inarticulate brachiopods (unhinged lampshells), hyoliths, bryozoans, graptolites, pentaradial echinoderms (e.g. blastozoans, crinozoans and eleutherozoans), and numerous other animals. Anomalocarids are dominant and giant predators, while many Ediacaran fauna die out. Crustaceans and molluscs diversify rapidly. Prokaryotes, protists (e.g., forams), algae and fungi continue to present day. First vertebrates from earlier chordates. Petermann Orogeny on the Australian continent tapers off (550 535 Ma). Ross Orogeny in Antarctica. Delamerian Orogeny (c. 514 490 Ma) on Australian continent. Some small terranes split off from Gondwana. Atmospheric CO2 content roughly 15 times present-day (Holocene) levels (6000 ppm compared to today's 400 ppm)[82][note 8] Arthropods and streptophyta start colonizing land. 3 extinction events occur 517, 502 & 488 Ma, the first and last of which wipe out many of the anomalocarids, artiopods, hyoliths, brachiopods, molluscs, and conodonts (early jawless vertebrates).
+~489.5
+Jiangshanian
+~494  *
+Paibian
+~497  *
+Miaolingian
+Guzhangian
+~500.5  *
+Drumian
+~504.5  *
+Wuliuan
+~509
+Series 2
+Stage 4
+~514
+Stage 3
+~521
+Terreneuvian
+Stage 2
+~529
+Fortunian
+538.8  0.2 *
+Proterozoic
+Neoproterozoic
+Ediacaran
+Good fossils of primitive animals. Ediacaran biota flourish worldwide in seas, possibly appearing after an explosion, possibly caused by a large-scale oxidation event.[87] First vendozoans (unknown affinity among animals), cnidarians and bilaterians. Enigmatic vendozoans include many soft-jellied creatures shaped like bags, disks, or quilts (like Dickinsonia).  Simple trace fossils of possible worm-like Trichophycus, etc.Taconic Orogeny in North America. Aravalli Range orogeny in Indian subcontinent. Beginning of Pan-African Orogeny, leading to the formation of the short-lived Ediacaran supercontinent Pannotia, which by the end of the period breaks up into Laurentia, Baltica, Siberia and Gondwana. Petermann Orogeny forms on Australian continent. Beardmore Orogeny in Antarctica, 633 620 Ma. Ozone layer forms. An increase in oceanic mineral levels.
+~635  *
+Cryogenian
+Possible "Snowball Earth" period. Fossils still rare.  Late Ruker / Nimrod Orogeny in Antarctica tapers off. First uncontroversial animal fossils. First hypothetical terrestrial fungi[88] and streptophyta.[89]
+~720  [note 11]
+Tonian
+Final assembly of Rodinia supercontinent occurs in early Tonian, with breakup beginning c. 800 Ma. Sveconorwegian orogeny ends. Grenville Orogeny tapers off in North America. Lake Ruker / Nimrod Orogeny in Antarctica, 1,000 150 Ma. Edmundian Orogeny (c. 920 850 Ma), Gascoyne Complex, Western Australia. Deposition of Adelaide Superbasin and Centralian Superbasin begins on Australian continent. First hypothetical animals (from holozoans) and terrestrial algal mats. Many endosymbiotic events concerning red and green algae occur, transferring plastids to ochrophyta (e.g. diatoms, brown algae), dinoflagellates, cryptophyta, haptophyta, and euglenids (the events may have begun in the Mesoproterozoic)[90] while the first retarians (e.g. forams) also appear: eukaryotes diversify rapidly, including algal, eukaryovoric and biomineralized forms. Trace fossils of simple multi-celled eukaryotes.
+1000  [note 11]
+Mesoproterozoic
+Stenian
+Narrow highly metamorphic belts due to orogeny as Rodinia forms, surrounded by the Pan-African Ocean. Sveconorwegian orogeny starts. Late Ruker / Nimrod Orogeny in Antarctica possibly begins. Musgrave Orogeny (c. 1,080 ), Musgrave Block, Central Australia. Stromatolites decline as algae proliferate.
+1200  [note 11]
+Ectasian
+Platform covers continue to expand. Algal colonies in the seas. Grenville Orogeny in North America. Columbia breaks up.
+1400  [note 11]
+Calymmian
+Platform covers expand. Barramundi Orogeny, McArthur Basin, Northern Australia, and Isan Orogeny, c. 1,600 Ma, Mount Isa Block, Queensland. First archaeplastidans (the first eukaryotes with plastids from cyanobacteria; e.g. red and green algae) and opisthokonts (giving rise to the first fungi and holozoans). Acritarchs (remains of marine algae possibly) start appearing in the fossil record.
+1600  [note 11]
+Paleoproterozoic
+Statherian
+First uncontroversial eukaryotes: protists with nuclei and endomembrane system. Columbia forms as the second undisputed earliest supercontinent. Kimban Orogeny in Australian continent ends. Yapungku Orogeny on Yilgarn craton, in Western Australia. Mangaroon Orogeny, 1,680 1,620 Ma, on the Gascoyne Complex in Western Australia. Kararan Orogeny (1,650 Ma), Gawler Craton, South Australia. Oxygen levels drop again.
+1800  [note 11]
+Orosirian
+The atmosphere becomes much more oxygenic while more cyanobacterial stromatolites appear. Vredefort and Sudbury Basin asteroid impacts. Much orogeny. Penokean and Trans-Hudsonian Orogenies in North America. Early Ruker Orogeny in Antarctica, 2,000 1,700 Ma. Glenburgh Orogeny, Glenburgh Terrane, Australian continent c. 2,005 1,920 Ma. Kimban Orogeny, Gawler craton in Australian continent begins.
+2050  [note 11]
+Rhyacian
+Bushveld Igneous Complex forms. Huronian glaciation. First hypothetical eukaryotes. Multicellular Francevillian biota. Kenorland disassembles.
+2300  [note 11]
+Siderian
+Great Oxidation Event (due to cyanobacteria) increases oxygen. Sleaford Orogeny on Australian continent, Gawler Craton 2,440 2,420 Ma.
+2500  [note 11]
+Archean
+Neoarchean
+Stabilization of most modern cratons; possible mantle overturn event. Insell Orogeny, 2,650 150 Ma. Abitibi greenstone belt in present-day Ontario and Quebec begins to form, stabilizes by 2,600 Ma. First uncontroversial supercontinent, Kenorland, and first terrestrial prokaryotes.
+2800  [note 11]
+Mesoarchean
+First stromatolites (probably colonial phototrophic bacteria, like cyanobacteria). Oldest macrofossils. Humboldt Orogeny in Antarctica. Blake River Megacaldera Complex begins to form in present-day Ontario and Quebec, ends by roughly 2,696 Ma.
+3200  [note 11]
+Paleoarchean
+Prokaryotic archaea (e.g. methanogens) and bacteria (e.g. cyanobacteria) diversify rapidly, along with early viruses. First known phototrophic bacteria. Oldest definitive microfossils. First microbial mats. Oldest cratons on Earth (such as the Canadian Shield and the Pilbara Craton) may have formed during this period.[note 12] Rayner Orogeny in Antarctica.
+3600  [note 11]
+Eoarchean
+First uncontroversial living organisms: at first protocells with RNA-based genes around 4000 Ma, after which true cells (prokaryotes) evolve along with proteins and DNA-based genes around 3800 Ma. The end of the Late Heavy Bombardment. Napier Orogeny in Antarctica, 4,000 200 Ma.
+4000  [note 11]
+Hadean
+Formation of protolith of the oldest known rock (Acasta Gneiss) c. 4,031 to 3,580 Ma.[91][92] Possible first appearance of plate tectonics. First hypothetical life forms. End of the Early Bombardment Phase. Oldest known mineral (Zircon, 4,404 8 Ma).[93] Asteroids and comets bring water to Earth, forming the first oceans. Formation of Moon (4,533 to 4,527 Ma), probably from a giant impact. Formation of Earth (4,570 to 4,567.17 Ma)
+4567.3  0.16 [note 11]
+Non-Earth based geologic time scales[edit]
+Main articles: Lunar geologic timescale, Martian geologic timescale, and Geology of VenusSome other planets and satellites in the Solar System have sufficiently rigid structures to have preserved records of their own histories, for example, Venus, Mars and the Earth's Moon. Dominantly fluid planets, such as the gas giants, do not comparably preserve their history. Apart from the Late Heavy Bombardment, events on other planets probably had little direct influence on the Earth, and events on Earth had correspondingly little effect on those planets. Construction of a time scale that links the planets is, therefore, of only limited relevance to the Earth's time scale, except in a Solar System context. The existence, timing, and terrestrial effects of the Late Heavy Bombardment are still a matter of debate.[note 13]
+Lunar (selenological) time scale[edit]
+The geologic history of Earth's Moon has been divided into a time scale based on geomorphological markers, namely impact cratering, volcanism, and erosion. This process of dividing the Moon's history in this manner means that the time scale boundaries do not imply fundamental changes in geological processes, unlike Earth's geologic time scale. Five geologic systems/periods (Pre-Nectarian, Nectarian, Imbrian, Eratosthenian, Copernican), with the Imbrian divided into two series/epochs (Early and Late) were defined in the latest Lunar geologic time scale.[94] The Moon is unique in the Solar System in that it is the only other body from which we have rock samples with a known geological context.
+Millions of years before present
+Martian geologic time scale[edit]
+The geological history of Mars has been divided into two alternate time scales. The first time scale for Mars was developed by studying the impact crater densities on the Martian surface. Through this method four periods have been defined, the Pre-Noachian (~4,500 4,100 Ma), Noachian (~4,100 3,700 Ma), Hesperian (~3,700 3,000 Ma), and Amazonian (~3,000 Ma to present).[95][96]
+Martian time periods (millions of years ago)
+A second time scale based on mineral alteration observed by the OMEGA spectrometer on-board the Mars Express. Using this method, three periods were defined, the Phyllocian (~4,500 4,000 Ma), Theiikian (~4,000 3,500 Ma), and Siderikian (~3,500 Ma to present).[97]
+See also[edit]
+Geology portal
+Age of the Earth
+Cosmic calendar
+Deep time
+Evolutionary history of life
+Formation and evolution of the Solar System
+Geological history of Earth
+Geology of Mars
+Geon (geology)
+Graphical timeline of the universe
+History of the Earth
+History of geology
+History of paleontology
+List of fossil sites
+List of geochronologic names
+Logarithmic timeline
+Lunar geologic timescale
+Martian geologic timescale
+Natural history
+New Zealand geologic time scale
+Prehistoric life
+Timeline of the Big Bang
+Timeline of evolution
+Timeline of the geologic history of the United States
+Timeline of human evolution
+Timeline of natural history
+Timeline of paleontology
+Notes[edit]
+^ It is now known that not all sedimentary layers are deposited purely horizontally, but this principle is still a useful concept.
+^ Time spans of geologic time units vary broadly, and there is no numeric limitation on the time span they can represent. They are limited by the time span of the higher rank unit they belong to, and to the chronostratigraphic boundaries they are defined by.
+^ a b c Precambrian or pre-Cambrian is an informal geological term for time before the Cambrian period
+^ a b The Tertiary is a now obsolete geologic system/period spanning from 66 Ma to 2.6 Ma. It has no exact equivalent in the modern ICC, but is approximately equivalent to the merged Palaeogene and Neogene systems/periods.
+^ a b Geochronometric date for the Ediacaran has been adjusted to reflect ICC v2022/10 as the formal definition for the base of the Cambrian has not changed.
+^ Kratian time span is not given in the article. It lies within the Neoarchean, and prior to the Siderian. The position shown here is an arbitrary division.
+^ The dates and uncertainties quoted are according to the International Commission on Stratigraphy International Chronostratigraphic chart (v2022/10). A * indicates boundaries where a Global Boundary Stratotype Section and Point has been internationally agreed.
+^ a b c d For more information on this, see Atmosphere of Earth#Evolution of Earth's atmosphere, Carbon dioxide in the Earth's atmosphere, and climate change. Specific graphs of reconstructed CO2 levels over the past ~550, 65, and 5 million years can be seen at File:Phanerozoic Carbon Dioxide.png, File:65 Myr Climate Change.png, File:Five Myr Climate Change.png, respectively.
+^ The Mississippian and Pennsylvanian are official sub-systems/sub-periods.
+^ a b This is divided into Lower/Early, Middle, and Upper/Late series/epochs
+^ a b c d e f g h i j k l m n Defined by absolute age (Global Standard Stratigraphic Age).
+^ The age of the oldest measurable craton, or continental crust, is dated to 3,600 3,800 Ma.
+^ Not enough is known about extra-solar planets for worthwhile speculation.
+References[edit]
+^ a b c "Statues & Guidelines". International Commission on Stratigraphy. Retrieved 5 April 2022.
+^ a b c d e f g h i Cohen, K.M.; Finney, S.C.; Gibbard, P.L.; Fan, J.-X. (1 September 2013). "The ICS International Chronostratigraphic Chart". Episodes (updated ed.). 36 (3): 199 204. doi:10.18814/epiiugs/2013/v36i3/002. ISSN 0705-3797. S2CID 51819600.
+^ a b c d e f g h i j k l m Van Kranendonk, Martin J.; Altermann, Wladyslaw; Beard, Brian L.; Hoffman, Paul F.; Johnson, Clark M.; Kasting, James F.; Melezhik, Victor A.; Nutman, Allen P. (2012), "A Chronostratigraphic Division of the Precambrian", The Geologic Time Scale, Elsevier, pp. 299 392, doi:10.1016/b978-0-444-59425-9.00016-0, ISBN 978-0-444-59425-9, retrieved 5 April 2022
+^ "International Commission on Stratigraphy". International Geological Time Scale. Retrieved 5 June 2022.
+^ a b c d Dalrymple, G. Brent (2001). "The age of the Earth in the twentieth century: a problem (mostly) solved". Special Publications, Geological Society of London. 190 (1): 205 221. Bibcode:2001GSLSP.190..205D. doi:10.1144/GSL.SP.2001.190.01.14. S2CID 130092094.
+^ a b c d e Shields, Graham A.; Strachan, Robin A.; Porter, Susannah M.; Halverson, Galen P.; Macdonald, Francis A.; Plumb, Kenneth A.; de Alvarenga, Carlos J.; Banerjee, Dhiraj M.; Bekker, Andrey; Bleeker, Wouter; Brasier, Alexander (2022). "A template for an improved rock-based subdivision of the pre-Cryogenian timescale". Journal of the Geological Society. 179 (1): jgs2020 222. Bibcode:2022JGSoc.179..222S. doi:10.1144/jgs2020-222. ISSN 0016-7649. S2CID 236285974.
+^ a b c d e f g h i j k l "Chapter 9. Chronostratigraphic Units". stratigraphy.org. International Commission on Stratigraphy. Retrieved 2 April 2022.
+^ a b c "Chapter 3. Definitions and Procedures". stratigraphy.org. International Commission on Stratigraphy. Retrieved 2 April 2022.
+^ "Global Boundary Stratotype Section and Points". stratigraphy.org. International Commission on Stratigraphy. Retrieved 2 April 2022.
+^ Knoll, Andrew; Walter, Malcolm; Narbonne, Guy; Christie-Blick, Nicholas (2006). "The Ediacaran Period: a new addition to the geologic time scale". Lethaia. 39 (1): 13 30. doi:10.1080/00241160500409223.
+^ Remane, J rgen; Bassett, Michael G; Cowie, John W; Gohrbandt, Klaus H; Lane, H Richard; Michelsen, Olaf; Naiwen, Wang; the cooperation of members of ICS (1 September 1996). "Revised guidelines for the establishment of global chronostratigraphic standards by the International Commission on Stratigraphy (ICS)". Episodes. 19 (3): 77 81. doi:10.18814/epiiugs/1996/v19i3/007. ISSN 0705-3797.
+^ a b c d e Michael Allaby (2020). A dictionary of geology and earth sciences (Fifth ed.). Oxford. ISBN 978-0-19-187490-1. OCLC 1137380460.
+^ a b Aubry, Marie-Pierre; Piller, Werner E.; Gibbard, Philip L.; Harper, David A. T.; Finney, Stanley C. (1 March 2022). "Ratification of subseries/subepochs as formal rank/units in international chronostratigraphy". Episodes. 45 (1): 97 99. doi:10.18814/epiiugs/2021/021016. ISSN 0705-3797. S2CID 240772165.
+^ Desnoyers, J. (1829). "Observations sur un ensemble de d p ts marins plus r cents que les terrains tertiaires du bassin de la Seine, et constituant une formation g ologique distincte; pr c d es d'un aper u de la nonsimultan it  des bassins tertiares" [Observations on a set of marine deposits [that are] more recent than the tertiary terrains of the Seine basin and [that] constitute a distinct geological formation; preceded by an outline of the non-simultaneity of tertiary basins]. Annales des Sciences Naturelles (in French). 16: 171 214, 402 491. From p. 193: "Ce que je d sirerais ... dont il faut  galement les distinguer." (What I would desire to prove above all is that the series of tertiary deposits continued   and even began in the more recent basins   for a long time, perhaps after that of the Seine had been completely filled, and that these later formations   Quaternary (1), so to say   should not retain the name of alluvial deposits any more than the true and ancient tertiary deposits, from which they must also be distinguished.)  However, on the very same page, Desnoyers abandoned the use of the term "Quaternary" because the distinction between Quaternary and Tertiary deposits wasn't clear.  From p. 193:  "La crainte de voir mal comprise ... que ceux du bassin de la Seine." (The fear of seeing my opinion in this regard be misunderstood or exaggerated, has made me abandon the word "quaternary", which at first I had wanted to apply to all deposits more recent than those of the Seine basin.)
+^ d'Halloy, d'O., J.-J. (1822). "Observations sur un essai de carte g ologique de la France, des Pays-Bas, et des contr es voisines" [Observations on a trial geological map of France, the Low Countries, and neighboring countries]. Annales des Mines. 7: 353 376.{{cite journal}}:  CS1 maint: multiple names: authors list (link)  From page 373:  "La troisi me, qui correspond   ce qu'on a d ja appel  formation de la craie, sera d sign  par le nom de terrain cr tac ." (The third, which corresponds to what was already called the "chalk formation", will be designated by the name "chalky terrain".)
+^ Humboldt, Alexander von (1799). Ueber die unterirdischen Gasarten und die Mittel ihren Nachtheil zu vermindern: ein Beytrag zur Physik der praktischen Bergbaukunde (in German). Vieweg.
+^ Brongniart, Alexandre (1770-1847) Auteur du texte (1829). Tableau des terrains qui composent l' corce du globe ou Essai sur la structure de la partie connue de la terre . Par Alexandre Brongniart,... (in French).
+^ Ogg, J.G.; Hinnov, L.A.; Huang, C. (2012), "Jurassic", The Geologic Time Scale, Elsevier, pp. 731 791, doi:10.1016/b978-0-444-59425-9.00026-3, ISBN 978-0-444-59425-9, retrieved 1 May 2022
+^ Murchison; Murchison, Sir Roderick Impey; Verneuil; Keyserling, Graf Alexander (1842). On the Geological Structure of the Central and Southern Regions of Russia in Europe, and of the Ural Mountains. Print. by R. and J.E. Taylor.
+^ Phillips, John (1835). Illustrations of the Geology of Yorkshire: Or, A Description of the Strata and Organic Remains: Accompanied by a Geological Map, Sections and Plates of the Fossil Plants and Animals ... J. Murray.
+^ Sedgwick, A.; Murchison, R. I. (1 January 1840). "XLIII.--On the Physical Structure of Devonshire, and on the Subdivisions and Geological Relations of its older stratified Deposits, &c". Transactions of the Geological Society of London. s2-5 (3): 633 703. doi:10.1144/transgslb.5.3.633. ISSN 2042-5295. S2CID 128475487.
+^ Murchison, Roderick Impey (1835). "VII. On the silurian system of rocks". The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science. 7 (37): 46 52. doi:10.1080/14786443508648654. ISSN 1941-5966.
+^ Lapworth, Charles (1879). "I. On the Tripartite Classification of the Lower Pal ozoic Rocks". Geological Magazine. 6 (1): 1 15. Bibcode:1879GeoM....6....1L. doi:10.1017/S0016756800156560. ISSN 0016-7568. S2CID 129165105.
+^ Bassett, Michael G. (1 June 1979). "100 Years of Ordovician Geology". Episodes. 2 (2): 18 21. doi:10.18814/epiiugs/1979/v2i2/003. ISSN 0705-3797.
+^ Chisholm, Hugh, ed. (1911). "Cambria" . Encyclop dia Britannica (11th ed.). Cambridge University Press.
+^ Butcher, Andy (26 May 2004). "Re: Ediacaran". LISTSERV 16.0 - AUSTRALIAN-LINGUISTICS-L Archives. Archived from the original on 23 October 2007. Retrieved 19 July 2011.
+^ "Place Details: Ediacara Fossil Site   Nilpena, Parachilna, SA, Australia". Department of Sustainability, Environment, Water, Population and Communities. Australian Heritage Database. Commonwealth of Australia. Archived from the original on 3 June 2011. Retrieved 19 July 2011.
+^ a b Holmes, Arthur (9 June 1911). "The association of lead with uranium in rock-minerals, and its application to the measurement of geological time". Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character. 85 (578): 248 256. Bibcode:1911RSPSA..85..248H. doi:10.1098/rspa.1911.0036. ISSN 0950-1207.
+^ a b c d e f g h i j k Fischer, Alfred G.; Garrison, Robert E. (2009). "The role of the Mediterranean region in the development of sedimentary geology: a historical overview". Sedimentology. 56 (1): 3 41. Bibcode:2009Sedim..56....3F. doi:10.1111/j.1365-3091.2008.01009.x. S2CID 128604255.
+^ Sivin, Nathan (1995). Science in ancient China : researches and reflections. Variorum. ISBN 0-86078-492-4. OCLC 956775994.
+^ Adams, Frank D. (1938). The Birth and Development of the Geological Sciences. Williams & Wilkins. ISBN 0-486-26372-X. OCLC 165626104.
+^ Rudwick, M. J. S. (1985). The meaning of fossils : episodes in the history of palaeontology. Chicago: University of Chicago Press. ISBN 0-226-73103-0. OCLC 11574066.
+^ McCurdy, Edward (1938). The notebooks of Leonardo da Vinci. New York: Reynal & Hitchcock. OCLC 2233803.
+^ Steno, Nicolaus (1669). Nicolai Stenonis de solido intra solidvm natvraliter contento dissertationis prodromvs ad serenissimvm Ferdinandvm II ... (in Latin). W. Junk.
+^ Kardel, Troels; Maquet, Paul (2018), "2.27 The Prodromus to a Dissertation on a Solid Naturally Contained Within a Solid", Nicolaus Steno, Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 763 825, doi:10.1007/978-3-662-55047-2_38, ISBN 978-3-662-55046-5, retrieved 20 April 2022
+^ Burnet, Thomas (1681). Telluris Theoria Sacra: orbis nostri originen et mutationes generales, quasi am subiit aut olim subiturus est, complectens. Libri duo priores de Diluvio & Paradiso (in Latin). London: G. Kettiby.
+^ Werner, Abraham Gottlob (1787). Kurze Klassifikation und Beschreibung der verschiedenen Gebirgsarten (in German). Dresden: Walther.
+^ Moro, Anton Lazzaro (1740). De'crostacei e degli altri marini corpi che si truovano su'monti (in Italian). Appresso Stefano Monti.
+^ Hutton, James (1788). "X. Theory of the Earth; or an Investigation of the Laws observable in the Composition, Dissolution, and Restoration of Land upon the Globe ". Transactions of the Royal Society of Edinburgh. 1 (2): 209 304. doi:10.1017/S0080456800029227. ISSN 0080-4568. S2CID 251578886.
+^ Hutton, James (1795). Theory of the Earth. Vol. 1. Edinburgh.
+^ Hutton, James (1795). Theory of the Earth. Vol. 2. Edinburgh.
+^ Playfair, John (1802). Illustrations of the Huttonian theory of the earth. Digitised by London Natural History Museum Library. Edinburgh: Neill & Co.
+^ Lyell, Sir Charles (1832). Principles of Geology: Being an Attempt to Explain the Former Changes of the Earth's Surface, by Reference to Causes Now in Operation. Vol. 1. London: John Murray.
+^ Lyell, Sir Charles (1832). Principles of Geology: Being an Attempt to Explain the Former Changes of the Earth's Surface, by Reference to Causes Now in Operation. Vol. 2. London: John Murray.
+^ Lyell, Sir Charles (1834). Principles of Geology: Being an Inquiry how for the Former Changes of the Earth's Surface are Referrable to Causes Now in Operation. Vol. 3. London: John Murray.
+^ Holmes, Arthur (1913). The age of the earth. Gerstein - University of Toronto. London, Harper.
+^ a b Lewis, Cherry L. E. (2001). "Arthur Holmes' vision of a geological timescale". Geological Society, London, Special Publications. 190 (1): 121 138. Bibcode:2001GSLSP.190..121L. doi:10.1144/GSL.SP.2001.190.01.10. ISSN 0305-8719. S2CID 128686640.
+^ Soddy, Frederick (4 December 1913). "Intra-atomic Charge". Nature. 92 (2301): 399 400. Bibcode:1913Natur..92..399S. doi:10.1038/092399c0. ISSN 0028-0836. S2CID 3965303.
+^ Holmes, A. (1 January 1959). "A revised geological time-scale". Transactions of the Edinburgh Geological Society. 17 (3): 183 216. doi:10.1144/transed.17.3.183. ISSN 0371-6260. S2CID 129166282.
+^ "A Revised Geological Time-Scale". Nature. 187 (4731): 27 28. 1960. Bibcode:1960Natur.187T..27.. doi:10.1038/187027d0. ISSN 0028-0836. S2CID 4179334.
+^ Harrison, James M. (1 March 1978). "The Roots of IUGS". Episodes. 1 (1): 20 23. doi:10.18814/epiiugs/1978/v1i1/005. ISSN 0705-3797.
+^ International Union of Geological Sciences. Commission on Stratigraphy (1986). Guidelines and statutes of the International Commission on Stratigraphy (ICS). J. W. Cowie. Frankfurt a.M.: Herausgegeben von der Senckenbergischen Naturforschenden Gesellschaft. ISBN 3-924500-19-3. OCLC 14352783.
+^ W. B. Harland (1982). A geologic time scale. Cambridge [England]: Cambridge University Press. ISBN 0-521-24728-4. OCLC 8387993.
+^ W. B. Harland (1990). A geologic time scale 1989. Cambridge: Cambridge University Press. ISBN 0-521-38361-7. OCLC 20930970.
+^ F. M. Gradstein; James G. Ogg; A. Gilbert Smith (2004). A geologic time scale 2004. Cambridge, UK: Cambridge University Press. ISBN 0-511-08201-0. OCLC 60770922.
+^ Gradstein, Felix M.; Ogg, James G.; van Kranendonk, Martin (23 July 2008). "On the Geologic Time Scale 2008". Newsletters on Stratigraphy. 43 (1): 5 13. doi:10.1127/0078-0421/2008/0043-0005. ISSN 0078-0421.
+^ a b c d e f g h i j k l m F. M. Gradstein (2012). The geologic time scale 2012. Volume 2 (1st ed.). Amsterdam: Elsevier. ISBN 978-0-444-59448-8. OCLC 808340848.
+^ a b Ogg, James G. (2016). A concise geologic time scale 2016. Gabi Ogg, F. M. Gradstein. Amsterdam, Netherlands: Elsevier. ISBN 978-0-444-59468-6. OCLC 949988705.
+^ a b F. M. Gradstein; James G. Ogg; Mark D. Schmitz; Gabi Ogg (2020). Geologic time scale 2020. Amsterdam, Netherlands. ISBN 978-0-12-824361-9. OCLC 1224105111.
+^ Crutzen, Paul J.; Stoermer, Eugene F. (2021),  Benner, Susanne; Lax, Gregor; Crutzen, Paul J.; P schl, Ulrich (eds.), "The 'Anthropocene' (2000)", Paul J. Crutzen and the Anthropocene: A New Epoch in Earth's History, Cham: Springer International Publishing, vol. 1, pp. 19 21, doi:10.1007/978-3-030-82202-6_2, ISBN 978-3-030-82201-9, S2CID 245639062, retrieved 15 April 2022
+^ "Working Group on the 'Anthropocene' | Subcommission on Quaternary Stratigraphy". Archived from the original on 7 April 2022. Retrieved 17 April 2022.
+^ Subramanian, Meera (21 May 2019). "Anthropocene now: influential panel votes to recognize Earth's new epoch". Nature: d41586 019 01641 5. doi:10.1038/d41586-019-01641-5. ISSN 0028-0836. PMID 32433629. S2CID 182238145.
+^ Gibbard, Philip L.; Bauer, Andrew M.; Edgeworth, Matthew; Ruddiman, William F.; Gill, Jacquelyn L.; Merritts, Dorothy J.; Finney, Stanley C.; Edwards, Lucy E.; Walker, Michael J. C.; Maslin, Mark; Ellis, Erle C. (15 November 2021). "A practical solution: the Anthropocene is a geological event, not a formal epoch". Episodes. 45 (4): 349 357. doi:10.18814/epiiugs/2021/021029. ISSN 0705-3797. S2CID 244165877.
+^ Head, Martin J.; Steffen, Will; Fagerlind, David; Waters, Colin N.; Poirier, Clement; Syvitski, Jaia; Zalasiewicz, Jan A.; Barnosky, Anthony D.; Cearreta, Alejandro; Jeandel, Catherine; Leinfelder, Reinhold (15 November 2021). "The Great Acceleration is real and provides a quantitative basis for the proposed Anthropocene Series/Epoch". Episodes. 45 (4): 359 376. doi:10.18814/epiiugs/2021/021031. ISSN 0705-3797. S2CID 244145710.
+^ Zalasiewicz, Jan; Waters, Colin N.; Ellis, Erle C.; Head, Martin J.; Vidas, Davor; Steffen, Will; Thomas, Julia Adeney; Horn, Eva; Summerhayes, Colin P.; Leinfelder, Reinhold; McNeill, J. R. (2021). "The Anthropocene: Comparing Its Meaning in Geology (Chronostratigraphy) with Conceptual Approaches Arising in Other Disciplines". Earth's Future. 9 (3). Bibcode:2021EaFut...901896Z. doi:10.1029/2020EF001896. ISSN 2328-4277. S2CID 233816527.
+^ Bauer, Andrew M.; Edgeworth, Matthew; Edwards, Lucy E.; Ellis, Erle C.; Gibbard, Philip; Merritts, Dorothy J. (16 September 2021). "Anthropocene: event or epoch?". Nature. 597 (7876): 332. Bibcode:2021Natur.597..332B. doi:10.1038/d41586-021-02448-z. ISSN 0028-0836. PMID 34522014. S2CID 237515330.
+^ Bleeker, W. (17 March 2005),  Gradstein, Felix M.; Ogg, James G.; Smith, Alan G. (eds.), "Toward a "natural" Precambrian time scale", A Geologic Time Scale 2004 (1 ed.), Cambridge University Press, pp. 141 146, doi:10.1017/cbo9780511536045.011, ISBN 978-0-521-78673-7, retrieved 9 April 2022
+^ Strachan, R.; Murphy, J.B.; Darling, J.; Storey, C.; Shields, G. (2020), "Precambrian (4.56 1 Ga)", Geologic Time Scale 2020, Elsevier, pp. 481 493, doi:10.1016/b978-0-12-824360-2.00016-4, ISBN 978-0-12-824360-2, S2CID 229513433, retrieved 9 April 2022
+^ Van Kranendonk, Martin J. (2012). "16: A Chronostratigraphic Division of the Precambrian: Possibilities and Challenges".  In Felix M. Gradstein; James G. Ogg; Mark D. Schmitz; abi M. Ogg (eds.). The geologic time scale 2012 (1st ed.). Amsterdam: Elsevier. pp. 359 365. doi:10.1016/B978-0-444-59425-9.00016-0. ISBN 978-0-44-459425-9.
+^ a b c Goldblatt, C.; Zahnle, K. J.; Sleep, N. H.; Nisbet, E. G. (2010). "The Eons of Chaos and Hades". Solid Earth. 1 (1): 1 3. Bibcode:2010SolE....1....1G. doi:10.5194/se-1-1-2010.
+^ Chambers, John E. (July 2004). "Planetary accretion in the inner Solar System" (PDF). Earth and Planetary Science Letters. 223 (3 4): 241 252. Bibcode:2004E&PSL.223..241C. doi:10.1016/j.epsl.2004.04.031. Archived (PDF) from the original on 19 April 2012.
+^ El Albani, Abderrazak; Bengtson, Stefan; Canfield, Donald E.; Riboulleau, Armelle; Rollion Bard, Claire; Macchiarelli, Roberto;  et al. (2014). "The 2.1 Ga Old Francevillian Biota: Biogenicity, Taphonomy and Biodiversity". PLOS ONE. 9 (6): e99438. Bibcode:2014PLoSO...999438E. doi:10.1371/journal.pone.0099438. PMC 4070892. PMID 24963687.
+^ El Albani, Abderrazak; Bengtson, Stefan; Canfield, Donald E.; Bekker, Andrey; Macchiarelli, Roberto; Mazurier, Arnaud; Hammarlund, Emma U.;  et al. (2010). "Large colonial organisms with coordinated growth in oxygenated environments 2.1 Gyr ago" (PDF). Nature. 466 (7302): 100 104. Bibcode:2010Natur.466..100A. doi:10.1038/nature09166. PMID 20596019. S2CID 4331375.[permanent dead link]
+^ "Geological time scale". Digital Atlas of Ancient Life. Paleontological Research Institution. Retrieved 17 January 2022.
+^ "Geologic Timescale Elements in the International Chronostratigraphic Chart". Retrieved 3 August 2014.
+^ Cox, Simon J. D. "SPARQL endpoint for CGI timescale service". Archived from the original on 6 August 2014. Retrieved 3 August 2014.
+^ Cox, Simon J. D.; Richard, Stephen M. (2014). "A geologic timescale ontology and service". Earth Science Informatics. 8: 5 19. doi:10.1007/s12145-014-0170-6. S2CID 42345393.
+^ Hoag, Colin; Svenning, Jens-Christian (17 October 2017). "African Environmental Change from the Pleistocene to the Anthropocene". Annual Review of Environment and Resources. 42 (1): 27 54. doi:10.1146/annurev-environ-102016-060653. ISSN 1543-5938. Archived from the original on 1 May 2022. Retrieved 5 June 2022.
+^ Bartoli, G; Sarnthein, M; Weinelt, M; Erlenkeuser, H; Garbe-Sch nberg, D; Lea, D.W (2005). "Final closure of Panama and the onset of northern hemisphere glaciation". Earth and Planetary Science Letters. 237 (1 2): 33 44. Bibcode:2005E&PSL.237...33B. doi:10.1016/j.epsl.2005.06.020.
+^ a b Tyson, Peter (October 2009). "NOVA, Aliens from Earth: Who's who in human evolution". PBS. Retrieved 8 October 2009.
+^ Gannon, Colin (26 April 2013). "Understanding the Middle Miocene Climatic Optimum: Evaluation of Deuterium Values ( D) Related to Precipitation and Temperature". Honors Projects in Science and Technology.
+^ a b c d Royer, Dana L. (2006). "CO2-forced climate thresholds during the Phanerozoic" (PDF). Geochimica et Cosmochimica Acta. 70 (23): 5665 75. Bibcode:2006GeCoA..70.5665R. doi:10.1016/j.gca.2005.11.031. Archived from the original (PDF) on 27 September 2019. Retrieved 6 August 2015.
+^ "Here's What the Last Common Ancestor of Apes and Humans Looked Like". Live Science. 10 August 2017.
+^ Nengo, Isaiah; Tafforeau, Paul; Gilbert, Christopher C.; Fleagle, John G.; Miller, Ellen R.; Feibel, Craig; Fox, David L.; Feinberg, Josh; Pugh, Kelsey D.; Berruyer, Camille; Mana, Sara (2017). "New infant cranium from the African Miocene sheds light on ape evolution". Nature. 548 (7666): 169 174. Bibcode:2017Natur.548..169N. doi:10.1038/nature23456. ISSN 0028-0836. PMID 28796200. S2CID 4397839.
+^ Deconto, Robert M.; Pollard, David (2003). "Rapid Cenozoic glaciation of Antarctica induced by declining atmospheric CO2" (PDF). Nature. 421 (6920): 245 249. Bibcode:2003Natur.421..245D. doi:10.1038/nature01290. PMID 12529638. S2CID 4326971.
+^ Medlin, L. K.; Kooistra, W. H. C. F.; Gersonde, R.; Sims, P. A.; Wellbrock, U. (1997). "Is the origin of the diatoms related to the end-Permian mass extinction?". Nova Hedwigia. 65 (1 4): 1 11. doi:10.1127/nova.hedwigia/65/1997/1. hdl:10013/epic.12689.
+^ Williams, Joshua J.; Mills, Benjamin J. W.; Lenton, Timothy M. (2019). "A tectonically driven Ediacaran oxygenation event". Nature Communications. 10 (1): 2690. Bibcode:2019NatCo..10.2690W. doi:10.1038/s41467-019-10286-x. ISSN 2041-1723. PMC 6584537. PMID 31217418.
+^ Naranjo-Ortiz, Miguel A.; Gabald n, Toni (25 April 2019). "Fungal evolution: major ecological adaptations and evolutionary transitions". Biological Reviews of the Cambridge Philosophical Society. Cambridge Philosophical Society (Wiley). 94 (4): 1443 1476. doi:10.1111/brv.12510. ISSN 1464-7931. PMC 6850671. PMID 31021528. S2CID 131775942.
+^  rsk , Jakub;  rsk , Vojt ch; Han ek, Martin;  rsk , Viktor (27 January 2022). "Cryogenian Glacial Habitats as a Plant Terrestrialisation Cradle   The Origin of the Anydrophytes and Zygnematophyceae Split". Frontiers in Plant Science. 12: 735020. doi:10.3389/fpls.2021.735020. ISSN 1664-462X. PMC 8829067. PMID 35154170.
+^ Yoon, Hwan Su; Hackett, Jeremiah D.; Ciniglia, Claudia; Pinto, Gabriele; Bhattacharya, Debashish (2004). "A Molecular Timeline for the Origin of Photosynthetic Eukaryotes". Molecular Biology and Evolution. 21 (5): 809 818. doi:10.1093/molbev/msh075. ISSN 1537-1719. PMID 14963099.
+^ Bowring, Samuel A.; Williams, Ian S. (1999). "Priscoan (4.00 4.03 Ga) orthogneisses from northwestern Canada". Contributions to Mineralogy and Petrology. 134 (1): 3. Bibcode:1999CoMP..134....3B. doi:10.1007/s004100050465. S2CID 128376754.
+^ Iizuka, Tsuyoshi; Komiya, Tsuyoshi; Maruyama, Shigenori (2007), "Chapter 3.1 The Early Archean Acasta Gneiss Complex: Geological, Geochronological and Isotopic Studies and Implications for Early Crustal Evolution", Developments in Precambrian Geology, Elsevier, vol. 15, pp. 127 147, doi:10.1016/s0166-2635(07)15031-3, ISBN 978-0-444-52810-0, retrieved 1 May 2022
+^ Wilde, Simon A.; Valley, John W.; Peck, William H.; Graham, Colin M. (2001). "Evidence from detrital zircons for the existence of continental crust and oceans on the Earth 4.4 Gyr ago". Nature. 409 (6817): 175 178. doi:10.1038/35051550. ISSN 0028-0836. PMID 11196637. S2CID 4319774.
+^ Wilhelms, Don E. (1987). The geologic history of the Moon. Professional Paper. United States Geological Survey. doi:10.3133/pp1348.
+^ Tanaka, Kenneth L. (1986). "The stratigraphy of Mars". Journal of Geophysical Research. 91 (B13): E139. Bibcode:1986JGR....91E.139T. doi:10.1029/JB091iB13p0E139. ISSN 0148-0227.
+^ Carr, Michael H.; Head, James W. (1 June 2010). "Geologic history of Mars". Earth and Planetary Science Letters. Mars Express after 6 Years in Orbit: Mars Geology from Three-Dimensional Mapping by the High Resolution Stereo Camera (HRSC) Experiment. 294 (3): 185 203. Bibcode:2010E&PSL.294..185C. doi:10.1016/j.epsl.2009.06.042. ISSN 0012-821X.
+^ Bibring, Jean-Pierre; Langevin, Yves; Mustard, John F.; Poulet, Fran ois; Arvidson, Raymond; Gendrin, Aline; Gondet, Brigitte; Mangold, Nicolas; Pinet, P.; Forget, F.; Berth , Michel (21 April 2006). "Global Mineralogical and Aqueous Mars History Derived from OMEGA/Mars Express Data". Science. 312 (5772): 400 404. Bibcode:2006Sci...312..400B. doi:10.1126/science.1122659. ISSN 0036-8075. PMID 16627738. S2CID 13968348.
+Further reading[edit]
+Aubry, Marie-Pierre; Van Couvering, John A.; Christie-Blick, Nicholas; Landing, Ed; Pratt, Brian R.; Owen, Donald E.; Ferrusquia-Villafranca, Ismael (2009). "Terminology of geological time: Establishment of a community standard". Stratigraphy. 6 (2): 100 105. doi:10.7916/D8DR35JQ.
+Gradstein, F. M.; Ogg, J. G. (2004). "A Geologic Time scale 2004   Why, How and Where Next!" (PDF). Lethaia. 37 (2): 175 181. doi:10.1080/00241160410006483. Archived from the original (PDF) on 17 April 2018. Retrieved 30 November 2018.
+Gradstein, Felix M.; Ogg, James G.; Smith, Alan G. (2004). A Geologic Time Scale 2004. Cambridge, UK: Cambridge University Press. ISBN 978-0-521-78142-8. Retrieved 18 November 2011.
+Gradstein, Felix M.; Ogg, James G.; Smith, Alan G.; Bleeker, Wouter; Laurens, Lucas, J. (June 2004). "A new Geologic Time Scale, with special reference to Precambrian and Neogene". Episodes. 27 (2): 83 100. doi:10.18814/epiiugs/2004/v27i2/002.
+Ialenti, Vincent (28 September 2014). "Embracing 'Deep Time' Thinking". NPR. NPR Cosmos & Culture.
+Ialenti, Vincent (21 September 2014). "Pondering 'Deep Time' Could Inspire New Ways To View Climate Change". NPR. NPR Cosmos & Culture.
+Knoll, Andrew H.; Walter, Malcolm R.; Narbonne, Guy M.; Christie-Blick, Nicholas (30 July 2004). "A New Period for the Geologic Time Scale" (PDF). Science. 305 (5684): 621 622. doi:10.1126/science.1098803. PMID 15286353. S2CID 32763298. Archived (PDF) from the original on 15 December 2011. Retrieved 18 November 2011.
+Levin, Harold L. (2010). "Time and Geology". The Earth Through Time. Hoboken, New Jersey: John Wiley & Sons. ISBN 978-0-470-38774-0. Retrieved 18 November 2011.
+Montenari, Michael (2016). Stratigraphy and Timescales (1st ed.). Amsterdam: Academic Press (Elsevier). ISBN 978-0-12-811549-7.
+Montenari, Michael (2017). Advances in Sequence Stratigraphy (1st ed.). Amsterdam: Academic Press (Elsevier). ISBN 978-0-12-813077-3.
+Montenari, Michael (2018). Cyclostratigraphy and Astrochronology (1st ed.). Amsterdam: Academic Press (Elsevier). ISBN 978-0-12-815098-6.
+Montenari, Michael (2019). Case Studies in Isotope Stratigraphy (1st ed.). Amsterdam: Academic Press (Elsevier). ISBN 978-0-12-817552-1.
+Montenari, Michael (2020). Carbon Isotope Stratigraphy (1st ed.). Amsterdam: Academic Press (Elsevier). ISBN 978-0-12-820991-2.
+Montenari, Michael (2021). Calcareous Nannofossil Biostratigraphy (1st ed.). Amsterdam: Academic Press (Elsevier). ISBN 978-0-12-824624-5.
+Nichols, Gary (2013). Sedimentology and Stratigraphy (2nd ed.). Hoboken: Wiley-Blackwell. ISBN 978-1-4051-3592-4
+Williams, Aiden (2019). Sedimentology and Stratigraphy (1st ed.). Forest Hills, NY: Callisto Reference. ISBN 978-1-64116-075-9
+External links[edit]
+Wikimedia Commons has media related to Geologic time scale.
+The Wikibook Historical Geology has a page on the topic of: Geological column
+The current version of the International Chronostratigraphic Chart can be found at stratigraphy.org/chart
+Interactive version of the International Chronostratigraphic Chart is found at stratigraphy.org/timescale
+A list of current Global Boundary Stratotype and Section Points is found at stratigraphy.org/gssps
+NASA: Geologic Time
+GSA: Geologic Time Scale
+British Geological Survey: Geological Timechart
+GeoWhen Database
+National Museum of Natural History   Geologic Time
+SeeGrid: Geological Time Systems Archived 23 July 2008 at the Wayback Machine Information model for the geologic time scale
+Exploring Time from Planck Time to the lifespan of the universe
+Episodes, Gradstein, Felix M. et al. (2004) A new Geologic Time Scale, with special reference to Precambrian and Neogene, Episodes, Vol. 27, no. 2 June 2004 (pdf)
+Lane, Alfred C, and Marble, John Putman 1937. Report of the Committee on the measurement of geologic time
+Lessons for Children on Geologic Time
+Deep Time   A History of the Earth : Interactive Infographic
+Geology Buzz: Geologic Time Scale
+vteGeological history of EarthCenozoic Era(66.0 Ma present)Quaternary (2.58 Ma present)
+Pleistocene (2.58 Ma 11.8 ka)
+Holocene (11.8 ka present)
+Neogene (23.0 2.58 Ma)
+Miocene (23.0 5.33 Ma)
+Pliocene (5.33 2.59 Ma)
+Paleogene (66.0 23.0 Ma)
+Paleocene (66.0 56.0 Ma)
+Eocene (56.0 33.9 Ma)
+Oligocene (33.9 23.0 Ma)
+Mesozoic Era(252 66.0 Ma)Cretaceous (145 66.0 Ma)
+Early (145 100 Ma)
+Late (100 66.0 Ma)
+Jurassic (201 145 Ma)
+Early (201 174 Ma)
+Middle (174 164 Ma)
+Late (164 145 Ma)
+Triassic (252 201 Ma)
+Early (252 247 Ma)
+Middle (247 237 Ma)
+Late (237 201 Ma)
+Paleozoic Era(539 252 Ma)Permian (299 252 Ma)
+Cisuralian (299 272 Ma)
+Guadalupian (272 260 Ma)
+Lopingian (260 252 Ma)
+Carboniferous (359 299 Ma)
+Mississippian (359 323 Ma)
+Pennsylvanian (323 299 Ma)
+Devonian (419 359 Ma) Silurian (444 419 Ma)
+Llandovery (444 433 Ma)
+Wenlock (433 427 Ma)
+Ludlow (427 423 Ma)
+Pridoli (423 419 Ma)
+Ordovician (485 444 Ma) Cambrian (539 485 Ma)
+Terreneuvian (539 521 Ma)
+Series 2 (521 509 Ma)
+Miaolingian (509 497 Ma)
+Furongian (497 485 Ma)
+Proterozoic Eon(2.5 Ga 539 Ma)Neoproterozoic (1 Ga 539 Ma)
+Tonian (1 Ga 720 Ma)
+Cryogenian (720 635 Ma)
+Ediacaran (635 539 Ma)
+Mesoproterozoic (1.6 1 Ga)
+Calymmian (1.6 1.4 Ga)
+Ectasian (1.4 1.2 Ga)
+Stenian (1.2 1 Ga)
+Paleoproterozoic (2.5 1.6 Ga)
+Siderian (2.5 2.3 Ga)
+Rhyacian (2.3 2.05 Ga)
+Orosirian (2.05 1.8 Ga)
+Statherian (1.8 1.6 Ga)
+Archean Eon (4 2.5 Ga)
+Eoarchean (4 3.6 Ga)
+Paleoarchean (3.6 3.2 Ga)
+Mesoarchean (3.2 2.8 Ga)
+Neoarchean (2.8 2.5 Ga)
+Hadean Eon (4.6 4 Ga) ka = kiloannum (thousands years ago); Ma = megaannum (millions years ago); Ga = gigaannum (billions years ago). See also: Geologic time scale     Geology portal     World portal
+Articles related to Geologic time scale
+vteTimeKey concepts
+Past
+Present
+Future
+Eternity
+Measurementand standardsChronometry
+UTC
+UT
+TAI
+Unit of time
+Orders of magnitude (time)
+Measurementsystems
+Italian six-hour clock
+Thai six-hour clock
+12-hour clock
+24-hour clock
+Relative hour
+Daylight saving time
+Chinese
+Decimal
+Hexadecimal
+Hindu
+Metric
+Roman
+Sidereal
+Solar
+Time zone
+Calendars
+Main types
+Solar
+Lunar
+Lunisolar
+Gregorian
+Julian
+Hebrew
+Islamic
+Solar Hijri
+Chinese
+Hindu Panchang
+Maya
+List
+Clocks
+Main types
+astronomical
+astrarium
+atomic
+quantum
+hourglass
+marine
+sundial
+watch
+mechanical
+stopwatch
+water-based
+Cuckoo clock
+Digital clock
+Grandfather clock
+History
+Timeline
+ChronologyHistory
+Astronomical chronology
+Big History
+Calendar era
+Deep time
+Periodization
+Regnal year
+Timeline
+Philosophy of time
+A series and B series
+B-theory of time
+Chronocentrism
+Duration
+Endurantism
+Eternal return
+Eternalism
+Event
+Perdurantism
+Presentism
+Static interpretation of time
+Temporal finitism
+Temporal parts
+The Unreality of Time
+ReligionMythology
+Ages of Man
+Destiny
+Immortality
+Dreamtime
+K la
+Time and fate deities
+Father Time
+Wheel of time
+Kalachakra
+Human experienceand use of time
+Chronemics
+Generation time
+Mental chronometry
+Music
+tempo
+time signature
+Rosy retrospection
+Tense aspect mood
+Time discipline
+Time management
+Yesterday   Today   Tomorrow
+Time in scienceGeology
+Geological time
+age
+chron
+eon
+epoch
+era
+period
+Geochronology
+Geological history of Earth
+Physics
+Absolute space and time
+Arrow of time
+Chronon
+Coordinate time
+Instant
+Proper time
+Spacetime
+Theory of relativity
+Time domain
+Time translation symmetry
+Time reversal symmetry
+Other fields
+Chronological dating
+Chronobiology
+Circadian rhythms
+Clock reaction
+Glottochronology
+Time geography
+Related
+Memory
+Moment
+Space
+System time
+Tempus fugit
+Time capsule
+Time immemorial
+Time travel
+ Category
+ Commons
+vteTime measurement and standards
+Chronometry
+Orders of magnitude
+Metrology
+International standards
+Coordinated Universal Time
+offset
+UT
+ T
+DUT1
+International Earth Rotation and Reference Systems Service
+ISO 31-1
+ISO 8601
+International Atomic Time
+12-hour clock
+24-hour clock
+Barycentric Coordinate Time
+Barycentric Dynamical Time
+Civil time
+Daylight saving time
+Geocentric Coordinate Time
+International Date Line
+IERS Reference Meridian
+Leap second
+Solar time
+Terrestrial Time
+Time zone
+180th meridian
+Obsolete standards
+Ephemeris time
+Greenwich Mean Time
+Prime meridian
+Time in physics
+Absolute space and time
+Spacetime
+Chronon
+Continuous signal
+Coordinate time
+Cosmological decade
+Discrete time and continuous time
+Proper time
+Theory of relativity
+Time dilation
+Gravitational time dilation
+Time domain
+Time translation symmetry
+T-symmetry
+Horology
+Clock
+Astrarium
+Atomic clock
+Complication
+History of timekeeping devices
+Hourglass
+Marine chronometer
+Marine sandglass
+Radio clock
+Watch
+stopwatch
+Water clock
+Sundial
+Dialing scales
+Equation of time
+History of sundials
+Sundial markup schema
+Calendar
+Gregorian
+Hebrew
+Hindu
+Holocene
+Islamic (lunar Hijri)
+Julian
+Solar Hijri
+Astronomical
+Dominical letter
+Epact
+Equinox
+Intercalation
+Julian date
+Leap year
+Lunar
+Lunisolar
+Solar
+Solstice
+Tropical year
+Weekday determination
+Weekday names
+Archaeology and geology
+Chronological dating
+Geologic time scale
+International Commission on Stratigraphy
+Astronomical chronology
+Galactic year
+Nuclear timescale
+Precession
+Sidereal time
+Other units of time
+Instant
+Flick
+Shake
+Jiffy
+Second
+Minute
+Moment
+Hour
+Day
+Week
+Fortnight
+Month
+Year
+Olympiad
+Lustrum
+Decade
+Century
+Saeculum
+Millennium
+Related topics
+Chronology
+Duration
+music
+Mental chronometry
+Decimal time
+Metric time
+System time
+Time metrology
+Time value of money
+Timekeeper
+vteBig HistoryThemes and subjects
+Chronology of the universe
+Cosmic evolution
+Deep time
+Time scales
+Goldilocks principle
+Modernity
+Eight thresholds
+1: Creation - Big Bang and cosmogony
+2: Stars - creation of stars
+3: Elements - creation of chemical elements inside dying stars
+4: Planets - formation of planets
+5: Life - abiogenesis and evolution of life
+6: Humans - development of Homo sapiens
+Stone Age
+7: Agriculture - Agricultural Revolution
+8: Modernity - modern era
+Web-based education
+Big History Project
+ChronoZoom
+Notable people
+Walter Alvarez
+Cynthia Stokes Brown
+Eric Chaisson
+David Christian
+Carl Sagan
+Fred Spier
+Graeme Snooks
+Related
+Big History (2013 series)
+vteChronologyKey topics
+Archaeology
+Astronomy
+Geology
+History
+Big History
+Paleontology
+Time
+PeriodsErasEpochsCalendar eras
+Human Era
+Ab urbe condita
+Anno Domini / Common Era
+Anno Mundi
+Bosporan era
+Bostran era
+Byzantine era
+Seleucid era
+Era of Caesar (Iberia)
+Before present
+Hijri
+Egyptian
+Sothic cycle
+Hindu units of time (Yuga)
+Mesoamerican
+Long Count
+Short Count
+Tzolk'in
+Haab'
+Regnal year
+Anka year
+Canon of Kings
+English regnal year
+Lists of kings
+Limmu
+Era names
+Chinese
+Japanese
+Korean
+Vietnamese
+CalendarsPre-Julian / Julian
+Pre-Julian Roman
+Original Julian
+Proleptic Julian
+Revised Julian
+Gregorian
+Gregorian
+Proleptic Gregorian
+Old Style and New Style dates
+Adoption of the Gregorian calendar
+Dual dating
+Astronomical
+Lunisolar (Hebrew, Hindu)
+Solar
+Lunar (Islamic)
+Astronomical year numbering
+Others
+Chinese sexagenary cycle
+Geologic Calendar
+Iranian
+ISO week date
+Mesoamerican
+Maya
+Aztec
+Winter count
+New Earth Time
+Astronomic time
+Cosmic Calendar
+Ephemeris
+Galactic year
+Metonic cycle
+Milankovitch cycles
+Geologic timeConcepts
+Deep time
+Geological history of Earth
+Geological time units
+Standards
+Global Standard Stratigraphic Age (GSSA)
+Global Boundary Stratotype Section and Point (GSSP)
+Methods
+Chronostratigraphy
+Geochronology
+Isotope geochemistry
+Law of superposition
+Luminescence dating
+Samarium neodymium dating
+ChronologicaldatingAbsolute dating
+Amino acid racemisation
+Archaeomagnetic dating
+Dendrochronology
+Ice core
+Incremental dating
+Lichenometry
+Paleomagnetism
+Radiometric dating
+Lead lead
+Potassium argon
+Radiocarbon
+Uranium lead
+Tephrochronology
+Luminescence dating
+Thermoluminescence dating
+Relative dating
+Fluorine absorption
+Nitrogen dating
+Obsidian hydration
+Seriation
+Stratigraphy
+Genetic methods
+Molecular clock
+Linguistic methods
+Glottochronology
+Related topics
+Chronicle
+New Chronology
+Synchronoptic view
+Timeline
+Year zero
+Floruit
+Terminus post quem
+ASPRO chronology
+vteEarthAtmosphere
+Atmosphere of Earth
+Prebiotic atmosphere
+Troposphere
+Stratosphere
+Mesosphere
+Thermosphere
+Exosphere
+Weather
+Climate
+Climate system
+Energy balance
+Climate change
+Climate variability and change
+Climatology
+Paleoclimatology
+Continents
+Africa
+Antarctica
+Asia
+Australia
+Europe
+North America
+South America
+Culture and society
+List of sovereign states
+dependent territories
+In culture
+Earth Day
+Flag
+Symbol
+World economy
+Etymology
+World history
+Time zones
+World
+Environment
+Biome
+Biosphere
+Biogeochemical cycles
+Ecology
+Ecosystem
+Human impact on the environment
+Evolutionary history of life
+Nature
+Geodesy
+Cartography
+Digital mapping
+Earth's orbit
+Geodetic astronomy
+Geomatics
+Gravity
+Navigation
+Remote Sensing
+Geopositioning
+Virtual globe
+Geophysics
+Earth structure
+Fluid dynamics
+Geomagnetism
+Magnetosphere
+Mineral physics
+Seismology
+Plate tectonics
+Signal processing
+Tomography
+Geology
+Age of Earth
+Earth science
+Extremes on Earth
+Future
+Geological history
+Geologic time scale
+Geologic record
+History of Earth
+Oceans
+Antarctic/Southern Ocean
+Arctic Ocean
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+Oceanography
+Planetary science
+Evolution of the Solar System
+Geology of solar terrestrial planets
+Location in the Universe
+The Moon
+Solar System
+ Category
+ Commons
+Outline
+ World portal
+ Earth sciences portal
+ Geology portal
+ Solar System portal
+Authority control: National 
+France
+BnF data
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Geologic_time_scale&oldid=1148879699"

@@ -1,0 +1,839 @@
+Open-source web application framework
+Not to be confused with UNESCO ASPNet.
+For its successor, see ASP.NET Core.
+ASP.NET (software)Developer(s)MicrosoftInitial releaseJanuary 5, 2002; 21 years ago (2002-01-05)Stable release6
+   /    February 8, 2022; 13 months ago (2022-02-08)[1]
+Written in.NET languagesOperating systemMicrosoft Windows, Linux, macOSPlatformCross-platformTypeWeb frameworkLicenseApache License 2.0Websitewww.asp.net ASP.NET (file format)Filename extension.aspx, .cshtml, .vbhtmlInternet media type
+text/htmlDeveloped byMicrosoft
+ASP.NET is an open-source,[2] server-side web-application framework designed for web development to produce dynamic web pages. It was developed by Microsoft to allow programmers to build dynamic web sites, applications and services. The name stands for Active Server Pages Network Enabled Technologies.
+It was first released in January 2002 with version 1.0 of the .NET Framework and is the successor to Microsoft's Active Server Pages (ASP) technology. ASP.NET is built on the Common Language Runtime (CLR), allowing programmers to write ASP.NET code using any supported .NET language. The ASP.NET SOAP extension framework allows ASP.NET components to process SOAP messages.
+ASP.NET's successor is ASP.NET Core. It is a re-implementation of ASP.NET as a modular web framework, together with other frameworks like Entity Framework. The new framework uses the new open-source .NET Compiler Platform (codename "Roslyn") and is cross platform. ASP.NET MVC, ASP.NET Web API, and ASP.NET Web Pages (a platform using only Razor pages) have merged into a unified MVC 6.[3]
+Programming models[edit]
+ASP.NET supports a number of programming models for building web applications:[4]
+ASP.NET Web Forms   A framework for building modular pages out of components, with UI events being processed server-side.
+ASP.NET MVC   allows for building web pages using the model view controller design pattern.
+ASP.NET Web Pages   A lightweight syntax for adding dynamic code and data access directly inside HTML markup.[5]
+ASP.NET Web API   A framework for building Web APIs on top of the .NET Framework.[6]
+ASP.NET WebHooks   Implements the Webhook pattern for subscribing to and publishing events via HTTP.
+SignalR   A real-time communications framework for bi-directional communication between client and server.
+Other ASP.NET extensions include:
+ASP.NET Handler   Components that implement the System.Web.IHttpHandler interface. Unlike ASP.NET Pages, they have no HTML-markup file, no events and other supporting. All they have is a code-file (written in any .NET-compatible language) that writes some data to the server HTTP response. HTTP handlers are similar to ISAPI extensions.
+ASP.NET AJAX   An extension with both client-side as well as server-side components for writing ASP.NET pages that incorporate Ajax functionality.
+ASP.NET Dynamic Data   A scaffolding extension to build data driven web applications.
+IIS integrated pipeline[edit]
+On IIS 6.0 and lower, pages written using different versions of the ASP framework cannot share session state without the use of third-party libraries. This does not apply to ASP.NET and ASP applications running side by side on IIS 7. With IIS 7.0, modules may be run in an integrated pipeline that allows modules written in any language to be executed for any request.[7]
+Third-party frameworks[edit]
+It is not essential to use the standard Web forms development model when developing with ASP.NET. Noteworthy frameworks designed for the platform include:
+Base One Foundation Component Library (BFC) is RAD framework for building .NET database and distributed computing applications.
+DotNetNuke is an open-source solution that provides both a web application framework and a content management system that allows for advanced extensibility through modules, skins, and providers.
+Castle MonoRail, an open-source MVC framework with an execution model similar to Ruby on Rails. The framework is commonly used with Castle ActiveRecord, an ORM layer built on NHibernate.
+Versions[edit]
+The ASP.NET releases history tightly correlates with the .NET Framework releases:
+Date
+Version
+Remarks
+New ASP.NET related features
+January 16, 2002
+Old version, no longer maintained: 1.0
+First version
+released together with Visual Studio .NET
+Object-oriented Web application development supporting inheritance, polymorphism and other standard OOP features
+Developers are no longer forced to use Server.CreateObject(...), so early-binding and type safety are possible.
+Based on Windows programming;  the developer can make use of DLL class libraries and other features of the Web server to build more robust applications that do more than simply rendering HTML (e.g., exception handling)
+April 24, 2003
+Old version, no longer maintained: 1.1
+released together with Windows Server 2003
+released together with Visual Studio .NET 2003
+Mobile controls
+Automatic input validation
+November 7, 2005
+Old version, no longer maintained: 2.0
+codename Whidbey
+released together with Visual Studio 2005 and Visual Web Developer Express
+and SQL Server 2005
+New data controls (GridView, FormView, DetailsView)
+New technique for declarative data access (SqlDataSource, ObjectDataSource, XmlDataSource controls)
+Navigation controls
+Master pages
+Login controls
+Themes
+Skins
+Web parts
+Personalization services
+Full pre-compilation
+New localization technique
+Support for 64-bit processors
+Provider class model
+November 21, 2006
+Old version, no longer maintained: 3.0
+Released with Windows Vista
+Windows Presentation Foundation (WPF)
+Windows Workflow Foundation (WF)
+Windows Communication Foundation, which can use ASP.NET to host services
+Windows CardSpace, which uses ASP.NET for login roles
+November 19, 2007
+Old version, no longer maintained: 3.5
+Released with Visual Studio 2008 and Windows Server 2008
+New data controls (ListView, DataPager)
+ASP.NET AJAX included as part of the framework
+Support for HTTP pipelining and syndication feeds.
+WCF support for RSS, JSON, POX and Partial Trust
+All the .NET Framework 3.5 changes, like LINQ etc.
+August 11, 2008
+Old version, no longer maintained: 3.5 Service Pack 1
+Released with Visual Studio 2008 Service Pack 1
+Incorporation of ASP.NET Dynamic Data
+Support for controlling browser history in an ASP.NET AJAX application
+Ability to combine multiple JavaScript files into one file for more efficient downloading
+New namespaces System.Web.Abstractions and System.Web.Routing
+April 12, 2010
+Old version, no longer maintained: 4.0
+Released with Visual Studio 2010
+Parallel extensions and other .NET Framework 4 features
+The two new properties added in the Page class are MetaKeyword and MetaDescription.
+August 15, 2012
+Old version, no longer maintained: 4.5
+Released with Visual Studio 2012 and Windows Server 2012 for Windows 8
+Parallel extensions and other .NET Framework 4.5 features
+October 17, 2013
+Old version, no longer maintained: 4.5.1
+Released with Visual Studio 2013[8] for Windows Server 2012 R2 and Windows 8.1
+Bootstrap 3.0
+Web API 2: OAuth 2.0, OData improvements, CORS
+MVC 5: Attribute routing, authentication filters and filter overrides
+EF 6
+SignalR
+OWIN
+May 5, 2014[9]
+Older version, yet still maintained: 4.5.2
+Higher reliability HTTP header inspection and modification methods
+New way to schedule background asynchronous worker tasks
+July 20, 2015[9]
+Older version, yet still maintained: 4.6
+Released[10] with Visual Studio 2015[11] and EF 7 Previews for Windows Server 2016 and Windows 10
+HTTP/2 support when running on Windows 10
+More async task-returning APIs
+November 30, 2015[9]
+Older version, yet still maintained: 4.6.1
+August 2, 2016[9]
+Older version, yet still maintained: 4.6.2
+Improved async support (output-cache and session providers)
+April 11, 2017[9]
+Older version, yet still maintained: 4.7
+Included in the Windows 10 Creators Update[12]
+operating system support for TLS protocols
+October 17, 2017[9]
+Older version, yet still maintained: 4.7.1
+Included in the Windows 10 Fall Creators Update.[13]
+Improved accessibility
+Value tuple types serialization
+SHA-2 support
+April 30, 2018[9]
+Older version, yet still maintained: 4.7.2
+August 09, 2022[9]
+Current stable version: 4.8.1   
+Released[14]
+JIT and NGEN Improvements
+Updated ZLib
+Reducing FIPS Impact on Cryptography
+Accessibility Enhancements for WinForms
+Service Behavior Enhancements for WCF
+High DPI Enhancements, UIAutomation Improvements for WPF
+November 18, 2015
+Old version, no longer maintained: 5 RC1
+This version was later separated from ASP.NET and brought into a new project called ASP.NET Core, whose versioning started at 1.0.[15]
+An entirely new project with different development tenets and goals
+Legend:Old versionOlder version, still maintainedLatest versionLatest preview versionFuture release
+Other implementations[edit]
+The Mono Project supports "everything in .NET 4.5 except WPF, WWF, and with limited WCF and limited ASP.NET 4.5 async stack."[16] ASP.NET can be run with Mono using one of three options: Apache hosting using the mod_mono module, FastCGI hosting, and XSP.
+See also[edit]
+ELMAH (Error Logging Modules and Handlers), an ASP.NET debugging tool
+References[edit]
+Citations[edit]
+^ ".net download page".
+^ "ASP.NET is part of a great open source .NET community". Microsoft. Microsoft. May 14, 2013. Archived from the original on May 11, 2020. Retrieved May 11, 2020.
+^ "Introduction to ASP.NET 5   ASP.NET 0.0.1 documentation". asp.net. Archived from the original on May 8, 2020. Retrieved May 11, 2020.
+^ "Choose between ASP.NET and ASP.NET Core". docs.microsoft.com.
+^ "ASP.NET Web Pages (Razor) FAQ". docs.microsoft.com.
+^ "Get Started with ASP.NET Web API 2 (C#)". docs.microsoft.com.
+^ "How to Take Advantage of the IIS 7.0 Integrated Pipeline". iis.net.
+^ "Announcing release of ASP.NET and Web Tools for Visual Studio 2013".
+^ a b c d e f g h ".net framework product lifecycle".
+^ "Announcing .NET Framework 4.6".
+^ "Visual Studio 2015 and Visual Studio 2013 Update 5 Released". msdn.com. Microsoft.
+^ "Announcing the .NET Framework 4.7". 5 April 2017.
+^ "Announcing the .NET Framework 4.7.1". 17 October 2017.
+^ "Announcing the .NET Framework 4.8". 18 April 2019.
+^ "Releases". GitHub.
+^ "Compatibility | Mono". Compatibility | Mono. 8 September 2015. Archived from the original on 2 July 2016. Retrieved 29 August 2016.
+General sources[edit]
+MacDonald, Matthew; Szpuszta, Mario (2005). Pro ASP.NET 2.0 in C# 2005 (1st ed.). Apress. ISBN 1-59059-496-7.
+External links[edit]
+Wikibooks has more on the topic of: ASP.NET
+Official website
+ASP.NET at Curlie
+ASP.NET on MSDN
+Some of new features in ASP.NET 4 and vs 2010 IDE
+vte.NET
+.NET strategy
+Libraries and frameworks
+Implementations
+.NET (Core)
+.NET Framework
+Version history
+.NET Compact Framework
+.NET Micro Framework
+DotGNU
+Mono
+XNA Framework
+Architecture
+Common Language Runtime (CLR)
+COM Interop
+Framework Class Library (FCL)
+Components
+ADO.NET
+Entity Framework
+ASP.NET
+Web Forms
+AJAX
+Core
+Dynamic Data
+MVC
+Razor
+ClickOnce
+Dynamic Language Runtime
+Extensible Application Markup Language (XAML)
+Language Integrated Query (LINQ)
+Managed Extensibility Framework
+Microsoft Silverlight
+Microsoft XNA
+Parallel Extensions
+Windows Communication Foundation (WCF)
+WCF Data Services
+Windows Forms (WinForms)
+Windows Identity Foundation (WIF)
+Windows Presentation Foundation (WPF)
+Windows Workflow Foundation (WF)
+.NET Remoting
+ToolsObfuscators
+Dotfuscator
+SmartAssembly
+Decompilers
+.NET Reflector
+dotPeek
+Misc
+CLR Profiler
+ILAsm
+.NET Compiler Platform
+Native Image Generator (NGen)
+XAMLPad
+IDEs
+Visual Studio
+Blend
+Express
+MonoDevelop
+SharpDevelop
+Xamarin Studio
+Organizations
+.NET Foundation
+Microsoft
+Xamarin
+ Category
+ List
+ Commons
+vteMicrosoft APIs and frameworksGraphics
+Desktop Window Manager
+Direct2D
+Direct3D
+D3D (extensions)
+GDI / GDI+
+WPF
+Silverlight
+WinUI
+Windows Color System
+Windows Image Acquisition
+Windows Imaging Component
+DirectX Graphics Infrastructure (DXGI)
+Windows Advanced Rasterization Platform
+WinG
+Audio
+DirectMusic
+DirectSound
+DirectX plugin
+XACT
+Speech API
+XAudio2
+Multimedia
+DirectX
+Media Objects
+Video Acceleration
+Xinput
+DirectInput
+DirectShow
+Image Mastering API
+Managed DirectX
+Media Foundation
+XNA
+Windows Media
+Video for Windows
+Web
+MSHTML
+RSS Platform
+JScript
+VBScript
+BHO
+XDR
+SideBar Gadgets
+TypeScript
+Data access
+Data Access Components (MDAC)
+ADO
+ADO.NET
+ODBC
+OLE DB
+Extensible Storage Engine
+Entity Framework
+Sync Framework
+Access Database Engine
+MSXML
+OPC
+Networking
+Winsock
+LSP
+Winsock Kernel
+Filtering Platform
+NDIS
+Windows Rally
+BITS
+P2P API
+MSMQ
+MS MPI
+DirectPlay
+Communication
+Messaging API
+Telephony API
+WCF
+Administration andmanagement
+Win32 console
+Windows Script Host
+WMI (extensions)
+PowerShell
+Task Scheduler
+Offline Files
+Shadow Copy
+Windows Installer
+Error Reporting
+Event Log
+Common Log File System
+Component model
+COM
+COM+
+ActiveX
+Distributed Component Object Model
+.NET Framework
+Libraries
+Framework Class Library
+Microsoft Foundation Classes (MFC)
+Active Template Library (ATL)
+Windows Template Library (WTL)
+Device drivers
+WDM
+WDF
+KMDF
+UMDF
+WDDM
+NDIS
+UAA
+BDA
+VxD
+Security
+Crypto API
+CAPICOM
+Windows CardSpace
+Data Protection API
+Security Support Provider Interface (SSPI)
+.NET
+ASP.NET
+ADO.NET
+Remoting
+Silverlight
+TPL
+WCF
+WCS
+WPF
+WF
+Software factories
+EFx Factory
+Enterprise Library
+Composite UI
+CCF
+CSF
+IPC
+MSRPC
+Dynamic Data Exchange (DDE)
+Remoting
+WCF
+Accessibility
+Active Accessibility
+UI Automation
+Text and multilingualsupport
+DirectWrite
+Text Services Framework
+Text Object Model
+Input method editor
+Language Interface Pack
+Multilingual User Interface
+Uniscribe
+vteMicrosoft development toolsDevelopmentenvironmentsVisual Studio
+Code
+Express
+Team System Profiler
+Tools for Applications
+Tools for Office
+Others
+Blend
+Expression Web
+FxCop
+GW-BASIC
+MACRO-80
+Macro Assembler
+MSBuild
+Pascal
+QuickBASIC
+QBasic
+QuickC
+Robotics Developer Studio
+Roslyn
+SharePoint Designer
+FrontPage
+Small Basic
+WebMatrix
+Windows App SDK
+Windows App Studio
+Windows SDK
+CLR Profiler
+ILAsm
+Native Image Generator
+WinDiff
+XAMLPad
+Languages
+Dynamics AX
+BASIC
+Visual Basic
+legacy
+VB.NET
+VBA
+VBScript
+Bosque
+Visual C++
+C++/CX
+C++/CLI
+Managed C++
+C++/WinRT
+C#
+C/AL
+Dafny
+Dexterity
+F#
+F*
+Visual FoxPro
+Java
+J++
+J#
+JavaScript
+TypeScript
+JScript
+IronPython
+IronRuby
+Lean
+P
+Power Fx
+PowerShell
+Project Verona
+Q#
+Small Basic
+VPL
+XAML
+APIs andframeworksNative
+Windows API
+Silverlight
+XNA
+DirectX
+Managed DirectX
+UWP
+Xbox Development Kit
+Windows Installer
+WinUI
+.NET
+ASP.NET
+Core
+AJAX
+Dynamic Data
+MVC
+Razor
+Web Forms
+ADO.NET
+Entity Framework
+MAUI
+CardSpace
+Communication Foundation
+Identity Foundation
+LINQ
+Presentation Foundation
+Workflow Foundation
+Device drivers
+WDK
+WDF
+KMDF
+UMDF
+Windows HLK
+WDM
+DatabaseSQL Server
+Express
+Compact
+Management Studio
+Business Intelligence Development Studio
+MSDE
+SQL services
+Analysis
+Reporting
+Integration
+Notification
+Other
+Visual FoxPro
+Microsoft Access
+Access Database Engine
+Extensible Storage Engine
+Source control
+Visual SourceSafe
+Team Foundation Version Control
+Testing anddebugging
+CodeView
+OneFuzz
+Script Debugger
+WinDbg
+xUnit.net
+Delivery
+Active Setup
+ClickOnce
+npm
+NuGet
+vcpkg
+Web Platform Installer
+Windows Installer
+WiX
+Windows Package Manager
+Microsoft Store
+ Category
+vteMicrosoft free and open-source software (FOSS)Overview
+Microsoft and open source
+Shared Source Initiative
+SoftwareApplications
+3D Movie Maker
+Atom
+Conference XP
+Family.Show
+File Manager
+Open Live Writer
+Microsoft PowerToys
+Terminal
+Windows Calculator
+Windows Console
+Windows Package Manager
+WorldWide Telescope
+XML Notepad
+Video games
+Allegiance
+Programminglanguages
+Bosque
+C#
+Dafny
+F#
+F*
+GW-BASIC
+IronPython
+IronRuby
+Lean
+P
+Power Fx
+PowerShell
+Project Verona
+Q#
+R Open
+Small Basic Online
+TypeScript
+Visual Basic
+Frameworks anddevelopment tools
+.NET
+.NET Bio
+.NET Framework
+.NET Gadgeteer
+.NET MAUI
+.NET Micro Framework
+AirSim
+ASP.NET
+ASP.NET AJAX
+ASP.NET Core
+ASP.NET MVC
+ASP.NET Razor
+ASP.NET Web Forms
+Babylon.js
+BitFunnel
+Blazor
+C++/WinRT
+CCF
+ChakraCore
+CLR Profiler
+Dapr
+DeepSpeed
+DiskSpd
+Dryad
+Dynamic Language Runtime
+eBPF on Windows
+Electron
+Entity Framework
+Fluent Design System
+Fluid Framework
+Infer.NET
+LightGBM
+Managed Extensibility Framework
+Microsoft Automatic Graph Layout
+Microsoft C++ Standard Library
+Microsoft Cognitive Toolkit
+Microsoft Design Language
+Microsoft Detours
+Microsoft Enterprise Library
+Microsoft SEAL
+mimalloc
+ML.NET
+mod_mono
+Mono
+MonoDevelop
+MSBuild
+MsQuic
+Neural Network Intelligence
+npm
+NuGet
+OneFuzz
+Open Management Infrastructure
+Open Neural Network Exchange
+Open Service Mesh
+Open XML SDK
+Orleans
+ProcDump
+ProcMon
+Python Tools for Visual Studio
+R Tools for Visual Studio
+RecursiveExtractor
+Roslyn
+Sandcastle
+SignalR
+StyleCop
+SVNBridge
+T2 Temporal Prover
+Text Template Transformation Toolkit
+TLA+ Toolbox
+U-Prove
+vcpkg
+Virtual File System for Git
+Visual Studio Code
+Voldemort
+VoTT
+Vowpal Wabbit
+Windows App SDK
+Windows Communication Foundation
+Windows Driver Frameworks
+KMDF
+UMDF
+Windows Forms
+Windows Presentation Foundation
+Windows Template Library
+Windows UI Library
+WinJS
+WinObjC
+WiX
+XDP for Windows
+XSP
+xUnit.net
+Z3 Theorem Prover
+Operating systems
+MS-DOS (v1.25 & v2.0)
+Barrelfish
+SONiC
+CBL-Mariner
+Other
+ChronoZoom
+Extensible Storage Engine
+FlexWiki
+FourQ
+Gollum
+Project Mu
+ReactiveX
+SILK
+TLAPS
+TPM 2.0 Reference Implementation
+WikiBhasha
+Licenses
+Microsoft Public License
+Microsoft Reciprocal License
+Forges
+CodePlex
+GitHub
+Related
+.NET Foundation
+F# Software Foundation
+Microsoft Open Specification Promise
+Open Letter to Hobbyists
+Open Source Security Foundation
+Outercurve Foundation
+ Category
+vteWeb frameworks
+Comparison
+.NET
+ASP.NET
+Core
+AJAX
+Dynamic Data
+MVC
+Razor
+Web Forms
+Blazor
+DNN
+BFC
+MonoRail
+Umbraco
+WebSharper
+C++
+CppCMS
+Drogon
+Wt
+ColdFusion
+ColdBox Platform
+ColdSpring
+Fusebox
+Common Lisp
+CL-HTTP
+Haskell
+Yesod
+Snap
+Java
+AppFuse
+Grails
+GWT
+ICEfaces
+JHipster
+JWt
+Mojarra
+Play
+Remote Application Platform
+Seam
+Sling
+Spring
+Stripes
+Struts
+Tapestry
+Vaadin
+Vert.x
+Wicket
+WaveMaker
+ZK
+JavaScript
+Angular/AngularJS
+Backbone.js
+Closure
+Dojo Toolkit
+Ember.js
+Express.js
+Ext JS
+jQuery
+Knockout.js
+Meteor
+MooTools
+Node.js
+OpenUI5
+Prototype
+React
+Sencha Touch
+SproutCore
+Svelte
+Vue.js
+Wakanda
+Perl
+Catalyst
+Dancer
+Maypole
+Mojolicious
+WebGUI
+PHP
+CakePHP
+CodeIgniter
+Drupal
+Fat-Free
+FuelPHP
+Flow
+Grav
+Gyroscope
+Horde
+Joomla
+Laminas
+Laravel
+Lithium
+Midgard
+MODX
+Nette
+Phalcon
+PHP-Fusion
+Pop PHP
+PRADO
+ProcessWire
+Qcodo
+Silex
+SilverStripe
+Symfony
+TYPO3
+WordPress
+XOOPS
+Yii
+PHP-Nuke
+Python
+BlueBream
+CherryPy
+CubicWeb
+Django
+FastAPI
+Flask
+Grok
+Nevow
+Pyjs
+Pylons
+Pyramid
+Quixote
+TACTIC
+Tornado
+TurboGears
+web2py
+Zope 2
+more...
+Ruby
+Camping
+Merb
+Padrino
+Ruby on Rails
+Sinatra
+Rust
+Rocket
+Scala
+Lift
+Play
+Scalatra
+Smalltalk
+AIDA/Web
+Seaside
+Other languages
+Application Express (PL/SQL)
+Grails (Groovy)
+OpenACS (Tcl)
+Phoenix (Elixir)
+SproutCore (JavaScript-Ruby)
+Yaws (Erlang)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=ASP.NET&oldid=1140768468"

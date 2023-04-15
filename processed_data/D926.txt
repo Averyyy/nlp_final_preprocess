@@ -1,0 +1,1102 @@
+Third generation of wireless mobile telecommunications technology
+For other uses, see 3G (disambiguation).
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article may be too technical for most readers to understand. Please help improve it to make it understandable to non-experts, without removing the technical details. (October 2017) (Learn how and when to remove this template message)
+This article needs to be updated. Please help update this article to reflect recent events or newly available information. (April 2021)
+ (Learn how and when to remove this template message)
+ A USB modem for 3G plugged into a laptop.
+Part of a series on theMobile phone generations
+Analog
+0G1G (1.5G)
+Digital
+2G (2.5G, 2.75G, 2.9G)3G (3.5G, 3.75G, 3.9G/3.95G)4G (4G/4.5G,4.5G,4.9G)5G (5.25G)6G
+Mobile telecommunicationsvte
+3G is the third generation of wireless mobile telecommunications technology. It is the upgrade over 2G, 2.5G, GPRS and 2.75G Enhanced Data Rates for GSM Evolution networks, offering faster data transfer, and better voice quality.[1] This network was superseded by 4G, and later on by 5G. This network is based on a set of standards used for mobile devices and mobile telecommunications use services and networks that comply with the International Mobile Telecommunications-2000 (IMT-2000) specifications by the International Telecommunication Union. 3G finds application in wireless voice telephony, mobile Internet access, fixed wireless Internet access, video calls and mobile TV.[1]
+3G telecommunication networks support services that provide an information transfer rate of at least 144 kbit/s.[2][3] Later 3G releases, often denoted 3.5G and 3.75G, also provide mobile broadband access of several Mbit/s to smartphones and mobile modems in laptop computers. This ensures it can be applied to wireless voice calls, mobile Internet access, fixed wireless Internet access, video calls and mobile TV technologies.
+A new generation of cellular standards has appeared approximately every tenth year since 1G systems were introduced in 1979 and the early to mid-1980s. Each generation is characterized by new frequency bands, higher data rates and non backward-compatible transmission technology. The first commercial 3G networks were introduced in mid-2001.[4][5][6][7]
+Overview[edit]
+Several telecommunications companies market wireless mobile Internet services as 3G, indicating that the advertised service is provided over a 3G wireless network. Services advertised as 3G are required to meet IMT-2000 technical standards, including standards for reliability and speed (data transfer rates). To meet the IMT-2000 standards, a system must provide peak data rates of at least 144 kbit/s.[3] However, many services advertised as 3G provide higher speed than the minimum technical requirements for a 3G service.[8] Subsequent 3G releases, denoted 3.5G and 3.75G, provided mobile broadband access of several Mbit/s for smartphones and mobile modems in laptop computers.[9]
+3G branded standards:
+The UMTS (Universal Mobile Telecommunications System) system, standardized by 3GPP in 2001, was used in Europe, Japan, China (with a different radio interface) and other regions predominated by GSM (Global Systems for Mobile) 2G system infrastructure. The cell phones are typically UMTS and GSM hybrids. Several radio interfaces are offered, sharing the same infrastructure:
+The original and most widespread radio interface is called W-CDMA (Wideband Code Division Multiple Access).
+The TD-SCDMA radio interface was commercialized in 2009 and only offered in China.
+The latest UMTS release, HSPA+, can provide peak data rates up to 56 Mbit/s in the downlink in theory (28 Mbit/s in existing services) and 22 Mbit/s in the uplink.
+The CDMA2000 system, first offered in 2002, standardized by 3GPP2, used especially in North America and South Korea, sharing infrastructure with the IS-95 2G standard. The cell phones are typically CDMA2000 and IS-95 hybrids. The latest release EVDO Rev. B offers peak rates of 14.7 Mbit/s downstream.
+The 3G systems and radio interfaces are based on spread spectrum radio transmission technology. While the GSM EDGE standard ("2.9G"), DECT cordless phones and Mobile WiMAX standards formally also fulfill the IMT-2000 requirements and are approved as 3G standards by ITU, these are typically not branded as 3G and are based on completely different technologies.
+The common standards complying with the IMT2000/3G standard are:
+EDGE, a revision by the 3GPP organization to the older 2G GSM based transmission methods, which utilizes the same switching nodes, base station sites, and frequencies as GPRS, but includes a new base station and cellphone RF circuits. It is based on the three times as efficient 8PSK modulation scheme as a supplement to the original GMSK modulation scheme. EDGE is still used extensively due to its ease of upgrade from existing 2G GSM infrastructure and cell phones.
+EDGE combined with the GPRS 2.5G technology is called EGPRS, and allows peak data rates in the order of 200 kbit/s, just like the original UMTS WCDMA versions and thus formally fulfill the IMT2000 requirements on 3G systems. However, in practice, EDGE is seldom marketed as a 3G system, but a 2.9G system. EDGE shows slightly better system spectral efficiency than the original UMTS and CDMA2000 systems, but it is difficult to reach much higher peak data rates due to the limited GSM spectral bandwidth of 200 kHz, and it is thus a dead end.
+EDGE was also a mode in the IS-136 TDMA system, no longer used.
+Evolved EDGE, the latest revision, has peaks of 1 Mbit/s downstream and 400 kbit/s upstream but is not commercially used.
+The Universal Mobile Telecommunications System, created and revised by the 3GPP. The family is a full revision from GSM in terms of encoding methods and hardware, although some GSM sites can be retrofitted to broadcast in the UMTS/W-CDMA format.
+W-CDMA is the most common deployment, commonly operated on the 2,100 MHz band. A few others use the 850, 900, and 1,900 MHz bands.
+HSPA is an amalgamation of several upgrades to the original W-CDMA standard and offers speeds of 14.4 Mbit/s down and 5.76 Mbit/s up. HSPA is backward-compatible and uses the same frequencies as W-CDMA.
+HSPA+, a further revision and upgrade of HSPA, can provide theoretical peak data rates up to 168 Mbit/s in the downlink and 22 Mbit/s in the uplink, using a combination of air interface improvements as well as multi-carrier HSPA and MIMO. Technically though, MIMO and DC-HSPA can be used without the "+" enhancements of HSPA+.
+The CDMA2000 system, or IS-2000, including CDMA2000 1x and CDMA2000 High Rate Packet Data (or EVDO), standardized by 3GPP2 (differing from the 3GPP), evolving from the original IS-95 CDMA system, is used especially in North America, China, India, Pakistan, Japan, South Korea, Southeast Asia, Europe, and Africa.
+CDMA2000 1x Rev. E has an increased voice capacity (by three times the original amount) compared to Rev. 0 EVDO Rev. B offers downstream peak rates of 14.7 Mbit/s while Rev. C enhanced existing and new terminal user experience.
+While DECT cordless phones and Mobile WiMAX standards formally also fulfill the IMT-2000 requirements, they are not usually considered due to their rarity and unsuitability for usage with mobile phones.[10]
+Break-up of 3G systems[edit]
+The 3G (UMTS and CDMA2000) research and development projects started in 1992. In 1999, ITU approved five radio interfaces for IMT-2000 as a part of the ITU-R M.1457 Recommendation; WiMAX was added in 2007.[11]
+There are evolutionary standards (EDGE and CDMA) that are backward-compatible extensions to pre-existing 2G networks as well as revolutionary standards that require all-new network hardware and frequency allocations. The cell phones use UMTS in combination with 2G GSM standards and bandwidths, but do not support EDGE. The latter group is the UMTS family, which consists of standards developed for IMT-2000, as well as the independently developed standards DECT and WiMAX, which were included because they fit the IMT-2000 definition.
+While EDGE fulfills the 3G specifications, most GSM/UMTS phones report EDGE ("2.75G") and UMTS ("3G") functionality.[12]
+History[edit]
+3G technology was the result of research and development work carried out by the International Telecommunication Union (ITU) in the early 1980s. 3G specifications and standards were developed in fifteen years. The technical specifications were made available to the public under the name IMT-2000. The communication spectrum between 400 MHz to 3 GHz was allocated for 3G. Both the government and communication companies approved the 3G standard.  The first pre-commercial 3G network was launched by NTT DoCoMo in Japan in 1998,[13] branded as FOMA. It was first available in May 2001 as a pre-release (test) of W-CDMA technology. The first commercial launch of 3G was also by NTT DoCoMo in Japan on 1 October 2001, although it was initially somewhat limited in scope;[14][15] broader availability of the system was delayed by apparent concerns over its reliability.[16]
+The first European pre-commercial network was an UMTS network on the Isle of Man by Manx Telecom, the operator then owned by British Telecom, and the first commercial network (also UMTS based W-CDMA) in Europe was opened for business by Telenor in December 2001 with no commercial handsets and thus no paying customers.
+The first network to go commercially live was by SK Telecom in South Korea on the CDMA-based 1xEV-DO technology in January 2002. By May 2002, the second South Korean 3G network was by KT on EV-DO and thus the South Koreans were the first to see competition among 3G operators.
+The first commercial United States 3G network was by Monet Mobile Networks, on CDMA2000 1x EV-DO technology, but the network provider later shut down operations. The second 3G network operator in the USA was Verizon Wireless in July 2002, also on CDMA2000 1x EV-DO. AT&T Mobility was also a true 3G UMTS network, having completed its upgrade of the 3G network to HSUPA.
+The first commercial United Kingdom 3G network was started by Hutchison Telecom which was originally behind Orange S.A.[17] In 2003, it announced first commercial third generation or 3G mobile phone network in the UK.
+The first pre-commercial demonstration network in the southern hemisphere was built in Adelaide, South Australia, by m.Net Corporation in February 2002 using UMTS on 2100 MHz. This was a demonstration network for the 2002 IT World Congress. The first commercial 3G network was launched by Hutchison Telecommunications branded as Three or "3" in June 2003.[18]
+In India, on 11 December 2008, the first 3G mobile and internet services were launched by a state-owned company, Mahanagar Telecom Nigam Limited (MTNL), within the metropolitan cities of Delhi and Mumbai. After MTNL, another state-owned company, Bharat Sanchar Nigam Limited (BSNL), began deploying the 3G networks country-wide.
+Emtel launched the first 3G network in Africa.[19]
+Adoption[edit]
+Japan was one of the first countries to adopt 3G, the reason being the process of 3G spectrum allocation, which in Japan was awarded without much upfront cost. The frequency spectrum was allocated in the US and Europe based on auctioning, thereby requiring a huge initial investment for any company wishing to provide 3G services. European companies collectively paid over 100 billion dollars in their spectrum auctions.[20]
+Nepal Telecom adopted 3G Service for the first time in southern Asia. However, its 3G was relatively slow to be adopted in Nepal. In some instances, 3G networks do not use the same radio frequencies as 2G, so mobile operators must build entirely new networks and license entirely new frequencies, especially to achieve high data transmission rates. Other countries' delays were due to the expenses of upgrading transmission hardware, especially for UMTS, whose deployment required the replacement of most broadcast towers. Due to these issues and difficulties with deployment, many carriers could not or delayed the acquisition of these updated capabilities.
+In December 2007, 190 3G networks were operating in 40 countries and 154 HSDPA networks were operating in 71 countries, according to the Global Mobile Suppliers Association (GSA). In Asia, Europe, Canada, and the US, telecommunication companies use W-CDMA technology with the support of around 100 terminal designs to operate 3G mobile networks.
+The roll-out of 3G networks was delayed by the enormous costs of additional spectrum licensing fees in some countries. The license fees in some European countries were particularly high, bolstered by government auctions of a limited number of licenses and sealed bid auctions, and initial excitement over 3G's potential. This led to a telecoms crash that ran concurrently with similar crashes in the fibre-optic and dot.com fields.
+The 3G standard is perhaps well known because of a massive expansion of the mobile communications market post-2G and advances of the consumer mobile phone. An especially notable development during this time is the smartphone (for example, the iPhone, and the Android family), combining the abilities of a PDA with a mobile phone, leading to widespread demand for mobile internet connectivity. 3G has also introduced the term "mobile broadband" because its speed and capability made it a viable alternative for internet browsing, and USB Modems connecting to 3G networks, and now 4G became increasingly common.
+Market penetration[edit]
+By June 2007, the 200 millionth 3G subscriber had been connected of which 10 million were in Nepal and 8.2 million in India. This 200 millionth is only 6.7% of the 3 billion mobile phone subscriptions worldwide. (When counting CDMA2000 1x RTT customers max bitrate 72% of the 200 kbit/s which defines 3G the total size of the nearly-3G subscriber base was 475 million as of June 2007, which was 15.8% of all subscribers worldwide.) In the countries where 3G was launched first   Japan and South Korea   3G penetration is over 70%.[21] In Europe the leading country[when?] for 3G penetration is Italy with a third of its subscribers migrated to 3G. Other leading countries[when?] for 3G use include Nepal, UK, Austria, Australia and Singapore at the 32% migration level.
+According to ITU estimates,[22] as of Q4 2012 there were 2096 million active mobile-broadband[vague] subscribers worldwide out of a total of 6835 million subscribers this is just over 30%.  About half the mobile-broadband subscriptions are for subscribers in developed nations, 934 million out of 1600 million total, well over 50%. Note however that there is a distinction between a phone with mobile-broadband connectivity and a smart phone with a large display and so on although according[23] to the ITU and informatandm.com the USA has 321 million mobile subscriptions, including 256 million that are 3G or 4G, which is both 80% of the subscriber base and 80% of the USA population, according[22] to ComScore just a year earlier in Q4 2011 only about 42% of people surveyed in the USA reported they owned a smart phone.  In Japan, 3G penetration was similar at about 81%, but smart phone ownership was lower at about 17%.[22] In China, there were 486.5 million 3G subscribers in June 2014,[24] in a population of 1,385,566,537 (2013 UN estimate).
+Decline and decommissions[edit]
+This section needs to be updated. Please help update this article to reflect recent events or newly available information. (May 2022)
+Since the increasing adoption of 4G networks across the globe, 3G use has been in decline. Several operators around the world have already or are in the process of shutting down their 3G networks (see table below). In several places, 3G is being shut down while its older predecessor 2G is being kept in operation; Vodafone Europe is doing this, citing 2G's usefulness as a low-power fall-back.[25] EE in the UK have indicated that they plan to phase out 3G by 2023 with the spectrum being used to enhance 5G capacity.[26] In the US, Verizon was planning to shut down its 3G services at the end of 2020 (later delayed to the end of 2022[27]), while T-Mobile/Sprint is planning to do so on 31 March 2022, and AT&T is planning to do so in February 2022.[28][29]
+Currently 3G around the world is declining in availability and support. Technology that depends on 3G for usage will soon become inoperable in many places. For example, the European Union plans to ensure that member countries maintain 2G networks as a fallback[citation needed], so 3G devices that are backwards compatible with 2G frequencies can continue to be used. However, in countries that plan to decommission 2G networks as well, such as the United States, devices supporting only 3G and backwards compatible with 2G will soon be inoperable.[30] As of February 2022, less than 1% of cell phone customers in the United States used 3G; AT&T offered free replacement devices to some customers in the run-up to its shutdown.[31]
+Patents[edit]
+It has been estimated that there are almost 8,000 patents declared essential (FRAND) related to the 483 technical specifications which form the 3GPP and 3GPP2 standards.[32][33] Twelve companies accounted in 2004 for 90% of the patents (Qualcomm, Ericsson, Nokia, Motorola, Philips, NTT DoCoMo, Siemens, Mitsubishi, Fujitsu, Hitachi, InterDigital, and Matsushita).
+Even then, some patents essential to 3G might not have been declared by their patent holders. It is believed that Nortel and Lucent have undisclosed patents essential to these standards.[33]
+Furthermore, the existing 3G Patent Platform Partnership Patent pool has little impact on FRAND protection because it excludes the four largest patent owners for 3G.[34][35]
+Features[edit]
+Data rates[edit]
+ITU has not provided a clear[36][vague] definition of the data rate that users can expect from 3G equipment or providers. Thus users sold 3G service may not be able to point to a standard and say that the rates it specifies are not being met.  While stating in commentary that "it is expected that IMT-2000 will provide higher transmission rates: a minimum data rate of 2 Mbit/s for stationary or walking users, and 348 kbit/s in a moving vehicle,"[37] the ITU does not actually clearly specify minimum required rates, nor required average rates, nor what modes[clarification needed] of the interfaces qualify as 3G, so various[vague] data rates are sold as '3G' in the market.
+In a market implementation, 3G downlink data speeds defined by telecom service providers vary depending on the underlying technology deployed; up to 384kbit/s for UMTS (WCDMA), up to 7.2Mbit/sec for HSPA, and a theoretical maximum of 21.1 Mbit/s for HSPA+ and 42.2 Mbit/s for DC-HSPA+ (technically 3.5G, but usually clubbed under the tradename of 3G).[citation needed]
+Compare data speeds with 3.5G and 4G.
+Security[edit]
+See also: Mobile security  Attacks based on the GSM networks
+3G networks offer greater security than their 2G predecessors. By allowing the UE (User Equipment) to authenticate the network it is attaching to, the user can be sure the network is the intended one and not an impersonator. 3G networks use the KASUMI block cipher instead of the older A5/1 stream cipher. However, a number of serious weaknesses in the KASUMI cipher have been identified.[38]
+In addition to the 3G network infrastructure security, end-to-end security is offered when application frameworks such as IMS are accessed, although this is not strictly a 3G property.
+Applications of 3G[edit]
+The bandwidth and location information available to 3G devices gives rise to applications not previously available to mobile phone users. It became possible to conveniently surf the internet on a 3G network on the go with minimum hassle, and do many other tasks previously a slow and difficult hassle on 2G. Medical devices, fire alarms, ankle monitors use this network for accomplishing their designated tasks alongside mobile phone users.[39] This network marked the first for a cellular communications network to be used in such a wide variety of tasks, kick-starting the beginning of widespread usage of cellular networks.
+Evolution[edit]
+Both 3GPP and 3GPP2 are working on the extensions to 3G standards that are based on an all-IP network infrastructure and using advanced wireless technologies such as MIMO. These specifications already display features characteristic for IMT-Advanced (4G), the successor of 3G. However, falling short of the bandwidth requirements for 4G (which is 1 Gbit/s for stationary and 100 Mbit/s for mobile operation), these standards are classified as 3.9G or Pre-4G.
+3GPP plans to meet the 4G goals with LTE Advanced, whereas Qualcomm has halted UMB development in favour of the LTE family.[40]
+On 14 December 2009, TeliaSonera announced in an official press release that "We are very proud to be the first operator in the world to offer our customers 4G services."[41] With the launch of their LTE network, initially they are offering pre-4G (or beyond 3G) services in Stockholm, Sweden and Oslo, Norway.
+Phase out[edit]
+Country
+Network
+Shutdown date
+Standard
+Notes
+ Argentina
+Personal
+2023 Q1
+UMTS
+[42]
+ Australia
+Optus
+2024-09
+UMTS
+[43]
+Telstra
+2024-06
+UMTS
+[44][45]
+TPG Telecom
+2023-12-15
+UMTS
+[46]
+ Austria
+Magenta Telekom
+2024
+UMTS
+[47]
+ Belgium
+Orange
+2025-12-31
+UMTS
+[48]
+Telenet
+UMTS
+[49]Local shutdowns will begin Sep 2024.
+Proximus
+2024-12-31
+UMTS
+[50]
+ Canada
+Bell
+2025-12-31
+UMTS
+[51]
+Rogers
+2025-12-31
+UMTS
+[51][52]
+Telus
+2025-12-31
+UMTS
+[51]
+ China
+China Mobile
+TD-SCDMA
+[53][54]Local shutdowns commenced on 16 Mar 2016.
+China Telecom
+2025
+CDMA2000 1xEV-DO
+[55][56]Local shutdowns commenced 16 Jun 2020.
+China Unicom
+UMTS
+[57]Local shutdowns commenced in Q4 2022.
+ Czech Republic
+O2
+2021-11-30
+UMTS
+[58]
+Telekom
+2021-11-30
+UMTS
+[58]
+Vodafone
+2021-03-31
+UMTS
+[59]
+ Denmark
+Telenor Denmark
+UMTS
+[60]Service on the 2100MHz band ended in 2021;Shutdown on the 900MHz band commenced in summer 2022.
+ Estonia
+Tele2
+2025-12-31
+UMTS
+[61]
+Telia Eesti
+2023-12-31
+UMTS
+[62][63]
+ France
+Bouygues
+2029
+UMTS
+[64]
+Orange
+2028-12-31
+UMTS
+[48]
+SFR
+2028
+UMTS
+[65]
+ Germany
+Deutsche Telekom
+2021-07-01
+UMTS
+[66]
+O2
+2021-12-31
+UMTS
+[67][68][69]
+Vodafone
+2021-06-30
+UMTS
+[70]
+ Greece
+Cosmote
+2021-12-31
+UMTS
+[71]
+NOVA / Wind Hellas
+2023-03-27
+UMTS
+[72][73][74][75]
+Vodafone
+2023
+UMTS
+[76]
+ Greenland
+Tusass
+2023
+UMTS
+[77]
+ Hungary
+Magyar Telekom
+2022-06-30
+UMTS
+[78][79][80]
+Yettel Hungary
+2023-03-31
+UMTS
+[78][80]
+Vodafone Hungary
+2023-03-31
+UMTS
+[81][80]
+ India
+Airtel
+2020-03-31
+UMTS
+[82][83]
+Vodafone Idea
+2022-10-06
+UMTS
+[84] Complete network refarming to 4G/LTE.
+ Indonesia
+Telkomsel
+UMTS
+[85][86][87]Local shutdowns commenced in Mar 2022.
+Indosat
+2022-12-31
+UMTS
+[88]
+XL Axiata
+2022-03-31
+UMTS
+[85]
+ Iceland
+2025
+per government statement[89]
+ Ireland
+Vodafone
+UMTS
+[90]Local shutdowns commenced in 2022.
+ Israel
+2025-12-31
+per government statement[91]
+ Italy
+TIM
+2022-10-21
+UMTS
+[92][93][94][95]
+Vodafone
+2021-02-28
+UMTS
+[96]
+ Japan
+KDDI
+2022-03-31
+CDMA2000 1xEV-DO
+[97][98]
+NTT docomo
+2026-03-31
+UMTS
+[99]
+Softbank
+2024-01-31
+UMTS
+[100]
+ Lithuania
+Telia
+2022-12-15
+UMTS
+[101][102][103]
+ Luxembourg
+Orange
+2025-12-31
+UMTS
+[48]
+Tango / Telindus
+2024-01
+UMTS
+[104]
+ Malaysia
+Celcom
+2021-12-31
+UMTS
+[105][106]
+Maxis
+2021-12-31
+UMTS
+[107]
+U Mobile
+2021-12-31
+UMTS
+[107]
+Digi
+2021-12-31
+UMTS
+[107][106]
+ Netherlands
+KPN
+UMTS
+[108][109]Local shutdown commenced on 31 Mar 2022.
+Vodafone
+2020-02-04
+UMTS
+[110]
+ New Zealand
+Vodafone
+UMTS
+[111]Local shutdown will commence by Aug 2024.
+Spark
+2025-12-31
+UMTS
+[112]
+ Norway
+Telia
+2021-11-11
+UMTS
+[113]
+Telenor
+UMTS
+[114]Local shutdown commenced in 2021.
+ Oman
+Omantel
+2024 Q3
+UMTS
+[115]
+ Poland
+T-Mobile
+2023-04-??
+UMTS
+[116][117][118]
+Orange
+2025-12-31
+UMTS
+[48][119]Phased shutdown will commence in Sep 2023.
+ Philippines
+Smart (PLDT)
+2023
+UMTS
+[120]
+ Romania
+Digi
+2023 H1
+UMTS
+[121]
+Orange
+2025-12-31
+UMTS
+[48]
+Telekom
+2023-03-31
+UMTS
+[122]
+ Russia
+Beeline
+2025
+UMTS
+[123]Shutdown commenced in Moscow in Feb 2023.
+MTS
+2025
+UMTS
+[124]
+ Saudi Arabia
+stc
+2022-12-31
+UMTS
+[125]
+ Slovakia
+Orange
+2023-12-31
+UMTS
+[48][126]
+ Slovenia
+Telekom Slovenije
+2022-09-30
+UMTS
+[127]
+ South Africa
+2025-03
+per government statement[128][129]
+ South Korea
+KT
+2012-03-19
+CDMA2000 1xEV-DO
+[130][131][132]CDMA2000 1xEV-DO was also referred to as "2G" in South Korea, besides cdmaOne (IS-95).[133]KT also operates an UMTS "3G" network.
+LG U+
+2021-06-30
+CDMA2000 1xEV-DO
+[134][135][130][136]
+SK Telecom
+2020-07-27
+CDMA2000 1xEV-DO
+[137][132][130][138]CDMA2000 1xEV-DO was also referred to as "2G" in South Korea, besides cdmaOne (IS-95).[133]SKT also operates an UMTS "3G" network.
+ Spain
+Orange
+2025-12-31
+UMTS
+[48]
+ Sri Lanka
+Airtel
+2022-06-12
+UMTS
+[139]
+Dialog Axiata
+2023
+UMTS
+[140]
+ Taiwan
+Asia Pacific Telecom
+2017-12-31
+CDMA2000 1xEV-DO
+[141]
+Chunghwa TelecomFar EasToneTaiwan MobileTaiwan Star
+2018-12-31
+per government statement[142][143]
+ United Kingdom
+2033
+per government statement[144]
+EE
+2023
+UMTS
+[145]
+Three
+2024-12-31
+UMTS
+[146]
+Vodafone
+2023
+UMTS
+[147][148]Local shutdown commenced in Mar 2023.
+ United States Puerto Rico US Virgin Islands
+Appalachian Wireless
+2023-01-03
+CDMA2000 1xEV-DO
+[149][150]
+AT&T
+2022-02-22
+UMTS
+[151][152]
+Cellcom
+2023-12-01
+CDMA2000 1xEV-DO
+[153]
+Liberty
+2022-02-22
+UMTS
+[154]
+Silver Star
+2022-12-30
+CDMA2000 1xEV-DO
+[155]
+T-Mobile
+2022-07-01
+UMTS
+[156][157][158][159]
+T-Mobile (Sprint)
+2022-05-31
+CDMA2000 1xEV-DO
+[156][157][158][160][161]Shutdown commenced on 31 Mar 2022.
+U.S. Cellular
+2023-01-01
+CDMA2000 1xEV-DO
+[162][163]Shutdown commenced in 2021.
+Verizon
+2022-12-31
+CDMA2000 1xEV-DO
+[164][165]
+See also[edit]
+List of mobile phone generations
+Mobile radio telephone (also known as "0G")
+Mobile broadband
+Wireless device radiation and health
+1G
+2G
+4G
+5G
+LTE (telecommunication)
+References[edit]
+^ a b "All about the Technology=2011-04-04". itu.int. Retrieved 17 August 2019.
+^ "3G CELLULAR STANDARDS WITH PATENTS". projectsatbangalore.com. 24 June 2014. Retrieved 17 August 2019.
+^ a b "3G vs. 4G: What's the Difference?". PC Magazine. 10 February 2015. Retrieved 17 August 2019.
+^ Charny, Ben (1 October 2001). "World's first 3G phone network goes live". ZDNet. Retrieved 16 August 2019.
+^ McCarthy, Kieren (1 October 2001). "World's first 3G network live today". theregister.co.uk. Retrieved 16 August 2019.
+^ "THE EVOLUTION TO 3G MOBILE   STATUS REPORT". itu.int. 29 July 2003. Retrieved 16 August 2019.
+^ "First 3G mobiles launched in Japan". 1 October 2001. Retrieved 16 August 2019.
+^ "Download Speeds: Comparing 2G, 3G, 4G & 5G Mobile Networks". Ken's Tech Tips. 23 November 2019. Retrieved 17 August 2019.
+^ "HSPA". 3gpp.org. Retrieved 17 August 2019.
+^ "HTC   Touch Phone, PDA Phone, Smartphone, Mobile Computer". 22 November 2008. Archived from the original on 22 November 2008. Retrieved 17 August 2019.
+^ ITU. "ITU Radiocommunication Assembly approves new developments for its 3G standards". press release. Archived from the original on 19 May 2009. Retrieved 1 June 2009.
+^ "EDGE, 3G, H+, Etc: What Are All These Mobile Networks?". MakeUseOf. 15 February 2019. Retrieved 17 August 2019.
+^ "A Brand New Mobile Millennium Ericsson/CATT/DoCoMo jointly demonstrate pioneering W-CDMA technology at PT/Wireless | Press Center | NTT DOCOMO Global". Nttdocomo.com. 9 November 1999. Archived from the original on 6 February 2012. Retrieved 30 October 2012.
+^ "Economists' Pick | HKTDC Research". economists-pick-research.hktdc.com. Archived from the original on 31 March 2020. Retrieved 12 January 2020.
+^ "broadbandmag.co.uk/3G grinds to a start". Archived from the original on 23 April 2009. Retrieved 7 April 2009.
+^ "DoCoMo Delays 3G Launch". Wired. 24 April 2001.
+^ "3G in UK". 3g.co.uk.
+^ "About Hutchison". Hutchison Telecommunications (Australia) Limited. 11 June 2008. Retrieved 7 April 2012.
+^ "Emtel | Africa Outlook Magazine". Africa Outlook Magazine. Archived from the original on 3 February 2018. Retrieved 3 February 2018.
+^ "Radiocommunications Agency : The Auction of Radio Spectrum for the Third Generation of Mobile Telephones   National Audit Office (NAO) Report". National Audit Office. 19 October 2001. Retrieved 17 August 2019.
+^ "Plus 8 Star presentation, "Is 3G a Dog or a Demon   Hints from 7 years of 3G Hype in Asia"". Plus8star.com. 11 June 2008. Archived from the original on 18 February 2012. Retrieved 6 September 2010.
+^ a b c "Global mobile statistics 2013 Part A: Mobile subscribers; handset market share; mobile operators". mobiThinking. May 2013. Archived from the original on 6 September 2014. Retrieved 15 October 2013.
+^ "The 100 million club: the top 10 mobile markets by number of mobile subscriptions". mobiThinking. 13 December 2012. Archived from the original on 26 September 2013. Retrieved 15 October 2013.
+^ Steven Millward (29 July 2014). "China now has 486.5 million 3G subscribers, but only 14 million on new 4G network". Tech in Asia. Retrieved 4 August 2014.
+^ Hall, Kat. "Sod 3G, that can go, but don't rush to turn off 2G, UK still needs it   report". www.theregister.com.
+^ Jackson, Mark (14 July 2021). "EE and BT Aim to Offer 5G Mobile Anywhere in the UK by 2028". ISPreview UK. Retrieved 14 July 2021.
+^ Mike Haberman (30 March 2021). "3G CDMA Network Shut off date set for December 31, 2022".
+^ "Goodbye 3G: Here's when T-Mobile, AT&T and Verizon will shut it off". Light Reading.
+^ Zakrzewski, Cat (13 November 2021). "3G shutdowns could leave most vulnerable without a connection". The Washington Post. Retrieved 14 November 2021. AT&T, which plans to shutter its network in February, says it has reached out to affected customers and provided them with discounted or in some instances free phone upgrades. Other networks, including T-Mobile, have delayed their shutdowns until slightly later to accommodate people who still haven't upgraded; T-Mobile will shut down Sprint's 3G network on March 31, 2022, while Verizon has said it will shut down its network on Dec. 31, 2022.
+^ arsyline.cz. "2G and 3G networks are shutting down globally?! | SECTRON s.r.o". Eshop.sectron.eu. Retrieved 26 February 2022.
+^ AT&T is shutting down its 3G network. Here s how it could impact you 
+^ "3G CELLULAR STANDARDS AND PATENTS". engpaper.com. 13 June 2005. Retrieved 24 June 2012.
+^ a b David J. Goodman (13 June 2005). "3G CELLULAR STANDARDS AND PATENTS" (PDF). IEEE Wireless com. Polytechnic Institute of New York University. Archived from the original (PDF) on 20 June 2015. Retrieved 24 June 2012.
+^ "Study on the Interplay between Standards and Intellectual Property Rights (IPRs)" (PDF). European Commission. 18 July 2009. Archived from the original (PDF) on 24 December 2012. Retrieved 24 June 2012. Pools that cover only a fraction of the actual IPR for a standard are not very useful. It is essential that the large licensees sign up. Examples of pools that have little impact are the 3G Licensing pool (which excludes the four largest IPR owners for 3G) and the 802.11 pool by ViaLicensing.
+^ "Possible 'showstoppers' shadow 3G patent pool". eetimes.com. 21 May 1999. Retrieved 24 June 2012. Even so, Qualcomm (San Diego) is still a wild card in the patent-pooling effort. Qualcomm was a member of the UMTS group when it was formed in February 1998, but deactivated its membership last September.
+^ "3G Licensing Workshop (19 21 September 2001)". www.itu.int. Retrieved 17 June 2021.
+^ "Cellular Standards for the Third Generation". ITU. 1 December 2005. Archived from the original on 24 May 2008.
+^ "Security for the Third Generation (3G) Mobile System" (PDF). Network Systems & Security Technologies. Archived from the original (PDF) on 12 September 2003.
+^ Ashworth, Boone. "3G Service Is Going Away Next Year. Here's What That Means". WIRED. Retrieved 26 February 2022.
+^ Qualcomm halts UMB project, Reuters, 13 November 2008
+^ "first in the world with 4G services". TeliaSonera. 14 December 2009. Retrieved 6 September 2010.
+^ "Personal to commence 3G shutdown in 1Q23". TeleGeography. 2 November 2022. Retrieved 13 November 2022.
+^ "We're upgrading our network with changes to 3G". Optus. Retrieved 16 February 2023.
+^ "3G Service Closure". Telstra. Archived from the original on 21 November 2019. Retrieved 25 June 2021.
+^ "How Telstra, Optus and Vodafone Will Deal With the 3G Shutdown". Gizmodo Australia. 13 December 2021. Retrieved 12 April 2022.
+^ "TPG Telecom confirms it will switch off 3G network in December 2023". TeleGeography. 27 September 2022. Retrieved 6 October 2022.
+^ "Magenta will start 3G shutdown in 2024". TeleGeography. 8 April 2022. Retrieved 18 April 2022.
+^ a b c d e f g "Orange selects 5G SA vendors; provides timetable for 2G/3G shutdowns". TeleGeography. 1 March 2022. Retrieved 6 March 2022.
+^ "Telenet to switch off 3G from September 2024". TeleGeography. 16 September 2022. Retrieved 6 March 2022.
+^ "Proximus to switch off 3G network by end-2024". TeleGeography. 30 November 2022. Retrieved 4 December 2022.
+^ a b c "What's the 3G Sunset and How Will It Affect Existing IoT Deployments?". hologram.io. Retrieved 24 October 2020.
+^ "Important Notice Regarding Upcoming 2G/3G Changes on the Rogers Network". Bulwark. 15 July 2020. Retrieved 24 October 2020.
+^ "China Mobile starts to turn off 3G base stations". GSM Association (GSMA), Mobile World Live. 16 March 2016. Retrieved 22 January 2022.
+^ "China Mobile closing down 3G system, complete switch-off expected by 2020". TeleGeography. 11 March 2019. Retrieved 22 January 2022.
+^ "China Telecom: 3G Network Will Be Shut down Gradually Starting from June". Montnets. 5 June 2020. Retrieved 14 May 2022.
+^ "Turning off 2G in China harder than it looks". Light Reading. 29 June 2022. Retrieved 4 December 2022.
+^ "China Unicom given green light to refarm 900MHz band for 5G". TeleGeography. 4 November 2022. Retrieved 6 November 2022.
+^ a b "T-Mobile, O2 switch off Czech 3G networks". TeleGeography. 3 December 2021. Retrieved 6 December 2021.
+^ "Za ala bombasticky s vrtuln kem, skon  v tichosti za dva t dny. 3G s  Vodafonu" [It started bombastically with a helicopter, ending in silence in two weeks. Vodafone's 3G network] (in Czech). mobilmania.zive.cz. 17 March 2021. Retrieved 14 April 2021.
+^ "Telenor Denmark launching 5G SA in 2022, shutting 3G in late summer". TeleGeography. 9 February 2022. Retrieved 11 April 2022.
+^ "Tele2 Estonia to close 3G network by end-2025". TeleGeography. 24 August 2022. Retrieved 27 August 2022.
+^ "Telia Eesti plans 3G shutdown by end-2023". TeleGeography. 28 May 2021. Retrieved 11 April 2022.
+^ "Telia Estonia to start 3G shutdown at end-February". TeleGeography. 17 January 2023. Retrieved 17 January 2023.
+^ "Bouygues Telecom to decommission 2G in 2026, 3G to follow in 2029". TeleGeography. 3 February 2023. Retrieved 11 February 2023.
+^ "SFR selects Nokia for 5G SA network; to decommission 2G/3G by 2028". TeleGeography. 27 January 2023. Retrieved 28 January 2023.
+^ "Telekom switches off 3G network". TeleGeography. 6 July 2021. Retrieved 13 July 2021.
+^ "Telefonica Deutschland accelerates 3G shutdown". TeleGeography. 19 November 2019. Retrieved 14 April 2021.
+^ "Telefonica Deutschland to begin 3G switch-off on 1 July". TeleGeography. 8 June 2021. Retrieved 8 June 2021.
+^ "Telefonica accelerates 3G switch-off in Germany". TeleGeography. 27 August 2021. Retrieved 27 August 2021.
+^ "Vodafone Germany to switch off 3G on 30 June 2021". TeleGeography. 11 May 2020. Retrieved 14 April 2021.
+^ "Cosmote to switch off 3G by end of year". TeleGeography. 15 April 2021. Retrieved 5 February 2022.
+^ "Wind Hellas to shut down 3G by end-2022". TeleGeography. 6 July 2021. Retrieved 13 July 2021.
+^ "Wind Hellas to begin 3G shutdown". TeleGeography. 4 July 2022. Retrieved 9 July 2022.
+^ "NOVA to finalise 3G shutdown in March". TeleGeography. 13 January 2023. Retrieved 13 January 2023.
+^ "NOVA hangs up on 3G". TeleGeography. 27 March 2023. Retrieved 31 March 2023.
+^ "Vodafone Greece to switch off 3G by mid-2023". TeleGeography. 24 January 2023. Retrieved 28 January 2023.
+^ "Tusass to discontinue 3G services in 2023". TeleGeography. 21 December 2022. Retrieved 22 December 2022.
+^ a b "Subsidies offered to customers exchanging 3G phones from Feb-22". CommsUpdate. 13 October 2021. Retrieved 18 April 2022.
+^ "Telekom confirms 3G shutdown will complete this month". TeleGeography. 17 June 2022. Retrieved 19 June 2022.
+^ a b c "Hungary's 2G/3G handset replacement scheme extended to end-March 2023". TeleGeography. 11 July 2022. Retrieved 28 July 2022.
+^ "M jusban kezdi a 3G-lekapcsol st a Vodafone" (in Hungarian). hwsw.hu. 26 April 2022. Retrieved 6 June 2022.
+^ "Airtel begins phasing out Indian 3G networks". TeleGeography. 1 July 2019. Retrieved 1 January 2022.
+^ "Bharti Airtel shuts down 3G networks across 11 circles". livemint.com. 5 February 2020. Retrieved 14 April 2021.
+^ "Vi Enhances 4G Network Coverage for its Customers in Maharashtra & Goa to Enable Seamless Conversations and Internet Experience" (PDF). Vodafone Idea Limited. 6 October 2022. Retrieved 28 January 2023.
+^ a b "Telkomsel and XL Firmly Turn Off 3G This Year, Indosat Is Not Clear All". World Today News. 27 February 2022. Retrieved 18 April 2022.
+^ "Telkomsel switches off 3G network in Jakarta". TeleGeography. 7 July 2022. Retrieved 9 July 2022.
+^ "Telkomsel upgrades 3G network to 4G in 185 cities/districts". TeleGeography. 24 October 2022. Retrieved 22 March 2023.
+^ "Siap-Siap Indosat Matikan Sinyal 3G Di Akhir 2022". detikcom. 31 May 2022. Retrieved 16 July 2022.
+^ "ECOI postpones 2G shutdown to 2025". TelGeography. 24 November 2022. Retrieved 4 December 2022.
+^ "Vodafone Ireland unveils plans to phase out 3G". TeleGeography. 30 June 2022. Retrieved 3 July 2022.
+^ "Ministry orders shutdown of Israeli 2G, 3G networks by 2025". TelGeography. 2 July 2021. Retrieved 6 June 2022.
+^ "TIM to begin 3G shutdown in April". TeleGeography. 3 February 2022. Retrieved 5 February 2022.
+^ "TIM to delay 3G shutdown until July". TeleGeography. 9 May 2022. Retrieved 14 May 2022.
+^ "TIM 3G switch-off now scheduled for mid-October". TeleGeography. 10 June 2022. Retrieved 19 June 2022.
+^ "TIM completes 3G shutdown". TeleGeography. 21 October 2022. Retrieved 22 October 2022.
+^ "Vodafone begins 3G switch-off in Italy". TeleGeography. 25 January 2021. Retrieved 14 April 2021.
+^ "KDDI to Discontinue 3G Services in March 2022". nippon.com. 16 November 2018. Retrieved 14 April 2021.
+^ "KDDI (au) shutting 3G network today; advises users to upgrade if they wish to keep its services". TeleGeography. 31 March 2022. Retrieved 18 April 2022.
+^ " FOMA i " [End of service for "FOMA" and "i-mode"] (in Japanese). NTT DOCOMO Inc. 29 October 2019. Retrieved 14 April 2021.
+^ "SoftBank confirms date for 3G switch-off". TeleGeography. 21 November 2022. Retrieved 4 December 2022.
+^ "Telia to commence Lithuanian 3G shutdown in March". TeleGeography. 17 February 2022. Retrieved 19 February 2022.
+^ "Telia shuts down a third of 3G base stations". TeleGeography. 6 June 2022. Retrieved 6 June 2022.
+^ "Telia switches off 3G network". TeleGeography. 15 December 2022. Retrieved 18 March 2023.
+^ "Tango and Telindus to shut down 3G network in January 2024". TeleGeography. 2 March 2023. Retrieved 5 March 2023.
+^ "Celcom to shutter 3G network in stages; ready for 5G launch by end-2021". TeleGeography. 8 September 2021. Retrieved 12 September 2021.
+^ a b "Digi confirms 3G shutdown timeline". TeleGeography. 26 November 2021. Retrieved 26 November 2021.
+^ a b c "3G network to be terminated on Dec 31, users advised to switch to 4G". New Straits Times. 25 November 2021. Retrieved 16 February 2022.
+^ "KPN shutting 3G by January 2022". TeleGeography. 27 July 2018. Retrieved 14 April 2021.
+^ "More capacity on KPN's mobile network with 3G-frequencies". KPN. 30 March 2022. Retrieved 22 March 2023.
+^ "VodafoneZiggo closing 3G network on 4 February 2020". TeleGeography. 11 December 2019. Retrieved 14 April 2021.
+^ "Vodafone announces 4G or 5G to fully replace 3G in late 2024". TeleGeography. 24 August 2022. Retrieved 27 August 2022.
+^ "Spark to shutter 3G network in late 2025 to clear space for rural 5G". TeleGeography. 29 March 2023. Retrieved 31 March 2023.
+^ "Telia Norge confirms closure of 3G network". TeleGeography. 11 November 2021. Retrieved 12 November 2021.
+^ "Omsider slutt for 3G i Telenors nett" (in Norwegian). Tek.no. 21 January 2021. Retrieved 19 June 2022.
+^ "Oman plans 3G shutdown from Q3 2024". TeleGeography. 27 February 2023. Retrieved 7 March 2023.
+^ "T-Mobile begins 900MHz 3G migration in Poland". TeleGeography. 2 February 2022. Retrieved 5 February 2022.
+^ "T-Mobile Poland to begin 3G switch-off this month". TeleGeography. 14 September 2022. Retrieved 14 September 2022.
+^ "T-Mobile Poland to close 3G network in April; no plans for tower sale or fixed access rollout". TeleGeography. 9 January 2023. Retrieved 11 January 2023.
+^ "Orange to begin phasing out 3G in Poland in September". TeleGeography. 21 March 2023. Retrieved 31 March 2023.
+^ "PLDT-Smart to sunset 3G in 2023". TeleGeography. 5 August 2022. Retrieved 19 August 2022.
+^ Lidia Neagu (20 December 2022). "Digi va renun a complet la re eaua 3G  n 2023" [Digi will give up its 3G network completely in 2023]. economica.net. Retrieved 27 February 2023.
+^ "Retragere tehnologie 3G" [Withdrawal of 3G technology]. Telekom. Retrieved 27 February 2023.
+^ "Beeline starts replacing 3G UMTS-900 with LTE in Moscow". TeleGeography. 13 February 2023. Retrieved 18 March 2023.
+^ "MTS announces gradual shutdown of 3G networks". BLiTZ Newspaper. 2 March 2023. Retrieved 18 March 2023.
+^ "3G network - How much time do I have to switch to a 4G device?". Saudi Telecom Company. 29 December 2022. Retrieved 29 December 2022.
+^ "Orange Slovakia to complete 3G shutdown a year early". TeleGeography. 20 December 2022. Retrieved 20 December 2022.
+^ "Telekom Slovenije 3G shutdown by end-September". TeleGeography. 5 April 2022. Retrieved 18 April 2022.
+^ "South Africa to ban 2G devices by March 2023". TeleGeography. 16 June 2022. Retrieved 19 June 2022.
+^ "SA comms minister proposes 2G/3G switch-offs in 2024/2025". TeleGeography. 6 September 2022. Retrieved 6 September 2022.
+^ a b c "cdma users top 30 million". TeleGeography. 19 July 2004. Retrieved 23 January 2021.
+^ "Terminating 2G Service in Korea: Policy Issues and Suggestions". International Telecommunications Policy Review. 1 March 2014. Retrieved 23 January 2021.
+^ a b "2G Phone Users Create Dilemma for Telecom Carriers ahead of Beginning of 5G Era". BusinessKorea. 27 March 2018. Retrieved 24 April 2022.
+^ a b "2G Bows Out, 5G Grows in South Korea - Older Technologies in Decline". TeleGeography Blog. 5 November 2020. Retrieved 15 February 2021.
+^ "CDMA2000 Operators - LG UPlus Corp". CDG. 1 October 2000. Retrieved 19 April 2022.
+^ "LGT plans EV-DO Rev. A tests ahead of commercial launch in 1H07". TeleGeography. 11 October 2006. Retrieved 31 December 2016.
+^ "S. Korea to end 2G network services by June". The Korea Herald. 17 January 2021. Retrieved 23 January 2021.
+^ "CDMA2000 Operators - SK Telecom". CDG. 1 October 2000. Retrieved 19 April 2022.
+^ "SK Telecoms shutters 2G service". TeleGeography. 28 July 2020. Retrieved 28 July 2020.
+^ "Airtel Lanka given go-ahead to shut down 3G network from June". TeleGeography. 29 April 2022. Retrieved 7 May 2022.
+^ "Dialog trials 5G mmWave; announces 3G shutdown plan". TeleGeography. 3 January 2023. Retrieved 6 January 2023.
+^ "FET to decommission 5,000 APT towers post-merger". TeleGeography. 28 March 2023. Retrieved 1 April 2023.
+^ "Taiwan to switch off 3G networks at year end". Telecom Asia. 10 January 2018. Retrieved 14 April 2021.
+^ "Taiwan to shut down 3G networks by year end". ZDNet. 18 December 2018. Retrieved 14 April 2021.
+^ "U.K. makes lukewarm commitments for open RAN and 2G, 3G shutdown". Fierce Wireless. 10 December 2021. Retrieved 22 March 2023.
+^ "EE and BT Aim to Offer 5G Mobile Anywhere in the UK by 2028". ISPreview UK. 14 July 2021. Retrieved 14 July 2021.
+^ "Three UK confirms it will switch off 3G at the end of 2024". TeleGeography. 12 May 2022. Retrieved 14 May 2022.
+^ "Vodafone UK to begin retiring its 3G network in 2023". TeleGeography. 26 January 2022. Retrieved 18 April 2022.
+^ "Vodafone UK confirms its first 3G network switch-off in two locations". TeleGeography. 13 March 2023. Retrieved 1 April 2023.
+^ "3G Shutdown Information". Appalachian Wireless. 1 December 2022. Retrieved 1 April 2023.
+^ "Appalachian Wireless to shut down 3G/CDMA service this month". Mountain Top Media. 4 January 2023. Retrieved 18 March 2023.
+^ "AT&T reconfiguring 3G spectrum ahead of February 2022 shutdown". TeleGeography. 21 March 2019. Retrieved 14 April 2021.
+^ "AT&T switches off 3G network". TeleGeography. 23 February 2022. Retrieved 23 February 2022.
+^ "Cellcom announces retirement dates for 2G and 3G networks". Sinclair Broadcast Group, Inc. 27 October 2022. Retrieved 24 December 2022.
+^ "Liberty to switch off Puerto Rican 3G network on 22 February". TeleGeography. 31 January 2022. Retrieved 31 January 2022.
+^ "Wireless Exit FAQs". Silver Star. 20 April 2022. Retrieved 25 January 2023.
+^ a b "T-Mobile's 2G, 3G shutdown dates leaked". TeleGeography. 8 February 2021. Retrieved 14 April 2021.
+^ a b "T-Mobile US eyes October 2021 W-CDMA shutdown". TeleGeography. 10 August 2021. Retrieved 11 August 2021.
+^ a b "T-Mobile US to shut down 3G network on 1 July 2022". TeleGeography. 17 September 2021. Retrieved 18 September 2021.
+^ "Sprint reaches the finishing line: legacy LTE networks switched off by T-Mobile". TeleGeography. 4 July 2022. Retrieved 5 July 2022.
+^ "T-Mobile delays CDMA shutdown by three months". TeleGeography. 25 October 2021. Retrieved 1 November 2021.
+^ "T-Mobile US commences CDMA shutdown; expands 5G Home Internet footprint". TeleGeography. 31 March 2022. Retrieved 18 April 2022.
+^ "UScellular shuts off some 3G services as it upgrades LTE". Fierce Wireless. 4 October 2021. Retrieved 18 March 2023.
+^ "3G Network Shutdown & FAQ". US Cellular. Retrieved 18 March 2023.
+^ "Verizon to shut down 3G CDMA networks on 31 December 2022". TeleGeography. 31 March 2021. Retrieved 14 April 2021.
+^ "Verizon ramps up 5G coverage as 3G shutdown looms". TeleGeography. 6 December 2022. Retrieved 11 December 2022.
+External links[edit]
+ Media related to 3G at Wikimedia Commons
+Preceded by2nd Generation (2G)
+ Mobile Telephony Generations 
+Succeeded by4th Generation (4G)
+vteCellular network standardsList of mobile phone generations0G radio telephones (1946)
+MTS
+IMTS
+Altai
+OLT
+MTA - MTB - MTC - MTD
+AMTS
+Autotel (PALM)
+ARP
+B-Netz
+AMR
+1G (1979)AMPS family
+AMPS - N-AMPS
+TACS - ETACS
+Other
+NMT
+C-450
+Hicap
+Mobitex
+DataTAC
+CT1
+2G (1991)GSM/3GPP family
+GSM
+CSD - HSCSD
+3GPP2 family
+cdmaOne (IS-95)
+AMPS family
+D-AMPS (IS-54 and IS-136)
+Other
+CDPD
+iDEN
+PDC
+PHS
+CT2
+2G transitional(2.5G, 2.75G)GSM/3GPP family
+GPRS
+EDGE/EGPRS - Evolved EDGE
+3GPP2 family
+CDMA2000 1X (TIA/EIA/IS-2000)
+CDMA2000 1X Advanced
+Other
+WiDEN
+DECT
+3G (1998)IMT-2000 (2001)3GPP family
+UMTS
+UTRA-FDD / W-CDMA
+FOMA
+UTRA-TDD LCR / TD-SCDMA
+UTRA-TDD HCR / TD-CDMA
+3GPP2 family
+CDMA2000 1xEV-DO Release 0 (TIA/IS-856)
+3G transitional(3.5G, 3.75G, 3.9G)3GPP family
+HSPA
+HSDPA
+HSUPA
+HSPA+
+DC-HSDPA
+LTE (E-UTRA)
+3GPP2 family
+CDMA2000 1xEV-DO Revision A (TIA/EIA/IS-856-A)
+EV-DO Revision B (TIA/EIA/IS-856-B)
+EV-DO Revision C
+IEEE family
+Mobile WiMAX
+IEEE 802.16e
+Flash-OFDM
+iBurst (IEEE 802.20)
+WiBro
+ETSI family
+HiperMAN
+4G (2009)IMT Advanced (2013)3GPP family
+LTE Advanced (E-UTRA)
+LTE Advanced Pro (4.5G Pro/pre-5G/5G E/4.9G)
+IEEE family
+WiMAX (IEEE 802.16m)
+WiMax 2.1 (LTE-TDD / TD-LTE)
+WiBro
+5G (2018)IMT-2020 (2021)3GPP family
+5G NR
+5G-Advanced
+NR-IIoT
+LTE-M
+NB-IoT
+Other
+DECT-5G
+Related articles
+Cellular networks
+Mobile telephony
+History
+Comparison of standards
+Channel access methods
+FDMA
+OFDMA
+TDMA
+STDMA
+SSMA
+CDMA
+SDMA
+Spectral efficiency comparison table
+Frequency bands
+GSM
+UMTS
+LTE
+5G NR
+CDMA
+Mobile broadband
+Multimedia Broadcast Multicast Service
+NGMN Alliance
+Push-to-talk
+MIMO
+IMS
+VoLTE
+ViLTE
+VoNR
+ViNR
+Wi-Fi Calling
+Osmocom
+ Telecommunication portal Telephones portal
+vteMobile phonesMobilenetworks,protocols
+Channel capacity
+Frequencies
+Multi-band
+Network operator
+list
+Roaming
+Signal
+SIM card
+dual SIM
+SIM lock
+Standards comparison
+Tethering
+VoIP
+WAP
+XHTML-MP
+Generations
+Analogue:
+0G
+1G
+Digital:
+2G
+3G
+adoption
+3.5G
+4G
+4.5G
+5G
+6G
+Generaloperation
+Features
+GSM
+services
+History
+Operating system
+Security
+phone cloning
+Telephony
+airplane mode
+Text messaging
+SMS
+MMS
+RCS
+Spam
+Tracking
+Web browsing
+Mobiledevices
+Manufacturers
+3D phone
+Camera phone
+Car phone
+Feature phone
+Projector phone
+Satellite phone
+Smartphone
+Form factors
+Bar
+Flip
+Phablet
+Slider
+Slate
+Smartwatch
+Fold
+Smartphones
+Android devices
+rooting
+BlackBerry 10
+iPhone
+iOS jailbreaking
+Open-source mobile phones
+Symbian devices
+Windows Phone devices
+MobilespecificsoftwareApps
+Development
+Distribution
+Management
+Cloud computing
+Commerce
+Banking
+Marketing
+advertising
+campaigns
+Payments
+contactless
+donating
+Ticketing
+Content
+Blogging
+Email
+Gambling
+Gaming
+Health
+Instant messaging
+Learning
+Music
+News
+Search
+local
+Social
+address book
+Television
+Culture
+Box breaking
+Charms
+Comics
+Dating
+Japanese culture
+Novels
+Ringtones
+silent mode
+Selfie
+Txt-spk
+Wallpaper
+Environmentand health
+BlackBerry thumb
+Driving safety
+Electronic waste
+External power supply
+Mental health from overuse
+Phantom vibration syndrome
+Radiation and health
+Recycling
+Law
+Carrier IQ
+Legality of recording by civilians
+Mobile phones in prison
+Photography and the law
+Telephone tapping
+Texting while driving
+USA use restrictions while driving
+ Telecommunication portal
+ Telephones portal
+ Category
+vteTelecommunicationsHistory
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Data compression
+audio
+DCT
+image
+video
+Digital media
+Internet video
+online video platform
+social media
+streaming
+Drums
+Edholm's law
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Information Age
+Information revolution
+Internet
+Mass media
+Mobile phone
+Smartphone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Semiconductor
+device
+MOSFET
+transistor
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+digital
+streaming
+Undersea telegraph line
+Videotelephony
+Whistled language
+Wireless revolution
+Pioneers
+Nasir Ahmed
+Edwin Howard Armstrong
+Mohamed M. Atalla
+John Logie Baird
+Paul Baran
+John Bardeen
+Alexander Graham Bell
+Emile Berliner
+Tim Berners-Lee
+Francis Blake (telephone)
+Jagadish Chandra Bose
+Charles Bourseul
+Walter Houser Brattain
+Vint Cerf
+Claude Chappe
+Yogen Dalal
+Daniel Davis Jr.
+Donald Davies
+Amos Dolbear
+Thomas Edison
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Oliver Heaviside
+Robert Hooke
+Erna Schneider Hoover
+Harold Hopkins
+Gardiner Greene Hubbard
+Internet pioneers
+Bob Kahn
+Dawon Kahng
+Charles K. Kao
+Narinder Singh Kapany
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Robert Metcalfe
+Antonio Meucci
+Samuel Morse
+Jun-ichi Nishizawa
+Charles Grafton Page
+Radia Perlman
+Alexander Stepanovich Popov
+Tivadar Pusk s
+Johann Philipp Reis
+Claude Shannon
+Almon Brown Strowger
+Henry Sutton
+Charles Sumner Tainter
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Thomas A. Watson
+Charles Wheatstone
+Vladimir K. Zworykin
+Transmissionmedia
+Coaxial cable
+Fiber-optic communication
+optical fiber
+Free-space optical communication
+Molecular communication
+Radio waves
+wireless
+Transmission line
+data transmission circuit
+telecommunication circuit
+Network topologyand switching
+Bandwidth
+Links
+Nodes
+terminal
+Network switching
+circuit
+packet
+Telephone exchange
+Multiplexing
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+Concepts
+Communication protocol
+Computer network
+Data transmission
+Store and forward
+Telecommunications equipment
+Types of network
+Cellular network
+Ethernet
+ISDN
+LAN
+Mobile
+NGN
+Public Switched Telephone
+Radio
+Television
+Telex
+UUCP
+WAN
+Wireless network
+Notable networks
+ARPANET
+BITNET
+CYCLADES
+FidoNet
+Internet
+Internet2
+JANET
+NPL network
+Toasternet
+Usenet
+Locations
+Africa
+Americas
+North
+South
+Antarctica
+Asia
+Europe
+Oceania
+(Global telecommunications regulation bodies)
+ Telecommunication portal
+ Category
+ Outline
+ Commons
+Retrieved from "https://en.wikipedia.org/w/index.php?title=3G&oldid=1149382083"

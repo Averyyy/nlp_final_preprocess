@@ -1,0 +1,72 @@
+Telephone answering device
+For other uses, see Answering machine (disambiguation).
+ A Panasonic answering machine with a dual compact cassette tape drive to record and replay messages
+An answering machine, answerphone, or message machine, also known as telephone messaging machine (or TAM) in the UK and some Commonwealth countries, ansaphone or ansafone (from a trade name), or telephone answering device (TAD), is used for answering telephone calls and recording callers' messages. When a telephone rings a set number of times predetermined by the call's recipient the answering machine will activate and play either a generic announcement or a customized greeting created by the recipient.[1] Unlike voicemail, an answering machine is placed at the user's premises alongside or incorporated within the user's landline telephone, and unlike operator messaging, the caller does not talk to a human. As landlines become less important due to the shift to cell phone technology, and as unified communications evolve, the installed base of TADs is shrinking.[citation needed]
+History[edit]
+Most 20th century answering machines used magnetic recording, which Valdemar Poulsen invented in 1898.[2]  The creation of the first practical automatic answering device for telephones, however, is in dispute. Starting in 1930, Clarence Hickman worked for Bell Laboratories, where he developed methods for magnetic recording and worked on the recognition of speech patterns and electromechanical switching systems.[3] In 1934, he developed a tape-based answering machine which phone company AT&T, as the owner of Bell Laboratories, kept under wraps for years for fear that an answering machine would result in fewer telephone calls.[4] Many claim the answering machine was invented by William Muller in 1935, but it may already have been created in 1931 by William Schergens whose device used phonographic cylinders.[5] Schergens  device is featured in Behind the Mask (1932 film). Ludwig Blattner promoted a telephone answering machine in 1929 based on his Blattnerphone magnetic recording technology.[6] In 1935, inventor Benjamin Thornton developed a machine to record voice messages from the caller. The device reportedly also was able to keep track of the time the recordings were made.[7] Although many sources maintain that he invented it in 1935, Thornton had actually filed a patent in 1930 (Number 1831331) for this machine, which utilized a phonographic record as the recording medium.[8]
+A commercial answering machine, the Tel-Magnet, offered in the United States in 1949, played outgoing messages and recorded incoming messages on a magnetic wire. It was priced at $200 but was not a commercial success.[9]
+In 1949, the first commercially successful answering machine was the Electronic Secretary created by inventor Joseph Zimmerman and businessman George W. Danner, who founded Electronic Secretary Industries in Wisconsin. The Electronic Secretary used the then state-of-the-art technology of a 45 rpm record player for announcements and a wire recorder for message capture and playback. Electronic Secretary Industries was purchased in 1957 by General Telephone and Electronics.[10][11][12]
+Another commercially successful answering machine was the Ansafone created by inventor Dr. Kazuo Hashimoto, who was employed by a company called Phonetel. This company began selling the first answering machines in the US in 1960.[13] Another early model known as the Code-a-Phone was introduced in 1966.[14]
+Answering machines became more widely used after the restructuring of AT&T in 1984, which was when the machines became affordable and sales reached one million units per year in the US.[15][16] The first post-breakup device went by the trade name of DuoPhone and was sold by Tandy (Radio Shack). This device and its successors were designed by Sava Jacobson, an electrical engineer with a private consulting business.[17] While early answering machines used magnetic tape technology, most modern equipment uses solid state memory storage; some devices use a combination of both, with a solid-state circuit for the outgoing message and a cassette for the incoming messages.
+James P. Mitchell displayed a working prototype of a digital outgoing message with a taped incoming system at an Iowa State University VEISHEA engineering openhouse in April 1982. This system won a gold award from the Engineering department.[18] In 1983, Kazuo Hashimoto received a patent for a digital answering machine architecture with US Patent 4,616,110.[19] The first digital answering machine brought to the market was AT&T's Model 1337 in 1990; an activity led by Trey Weaver. Mr. Hashimoto sued AT&T but quickly dropped the suit because the AT&T architecture was significantly different from his patent.
+Answering and ending calls[edit]
+There are two possibilities for answering an incoming call: (1) waiting arbitrarily long for operator intervention, or (2) automatically answering after a specified number of rings in a certain state of the TAD (e.g. "toll saving" below). This is useful if the owner is screening calls and does not wish to speak with all callers.
+In any case after going off-hook, the calling party should be informed about the call having been answered (in most cases this starts the charging), either by some remark of the operator, or by some greeting message of the TAD, or addressed to non-human callers (e.g. fax machines) by implementing an appropriate protocol over the landline. In some cases the terminal equipment answering a call just sends a slightly modified ringback tone to the caller, while processing the protocol.
+Similarly, the called equipment can end a call by going on-hook deliberately, because of some specific signalling, or because of some time out.
+Pure voice operation[edit]
+In case of voice-only environments any accepted call can be directly handed over to a TAD, which may be preemptively superseded by a human-operated handset, taking control by simply going off-hook itself, forcing the TAD (back) on-hook. Voice signals may simply be captured to and replayed from analogue media (mostly tapes), but later TADs shifted to digital storage, with all of its convenience for compression and handling, for both the greeting and for the recorded messages.
+Greeting message[edit]
+ An endless-loop outgoing message tape used in dual-cassette-based answering machines
+Most modern answering machines have a system for greeting. The owner may record a message that will be played back to the caller, or an automatic message will be played if the owner does not record one. This holds especially for the TADs with digitally stored greeting messages or for earlier machines (before the rise of microcassettes) with a special endless loop tape, separate from a second cassette, dedicated to recording.
+There have been answer-only devices with no recording capabilities, where the greeting message had to inform callers of a state of current unattainability, or e.g. about availability hours. In recording TADs the greeting usually contains an invitation to leave a message "after the beep".
+Recording messages[edit]
+ An answering machine that uses a microcassette to record messages
+On a dual-cassette answerphone, there is an outgoing cassette, which after the specified number of rings plays a pre-recorded message to the caller. Once the message is complete, the outgoing cassette stops and the incoming cassette starts recording the caller's message, and then stops when the caller hangs up.
+Single-cassette answering machines contain the outgoing message at the beginning of the tape and incoming messages on the remaining space. They first play the announcement, then fast-forward to the next available space for recording, then record the caller's message. If there are many previous messages, fast-forwarding through them can cause a significant delay. This delay is taken care of by playing back a beep to the caller, when the TAD is ready to record. This beep is often referred to in the greeting message, requesting that the caller leave a message "after the beep".
+TADs with digital storage for the recorded messages do not show this delay, of course.
+Remote control[edit]
+A TAD may offer a remote control facility, whereby the answerphone owner can ring the home number and, by entering a code on the remote telephone's keypad, can listen to recorded messages, or delete them, even when away from home.
+Many devices offer a "toll-saver" function for this purpose. Thereby the machine increases the number of rings after which it answers the call (typically by two, resulting in four rings), if no unread messages are currently stored, but answers after the set number of rings (usually two) if there are unread messages. This allows the owner to find out whether there are messages waiting; if there are none, the owner can hang up the phone on the, e.g., third ring without incurring a call charge.
+Some machines also allow themselves to be remotely activated, if they have been switched off, by calling and letting the phone ring a certain large number of times (usually 10-15). Some service providers abandon calls already after a smaller number of rings, making remote activation impossible.
+In the early days of  TADs a special transmitter for DTMF tones (dual-tone multi-frequency signalling) was regionally required for remote control, since the formerly employed pulse dialling is not apt to convey appropriate signalling along an active connection, and the dual-tone multi-frequency signalling was implemented stepwise.
+ A General Electric corded telephone with a built-in microcassette answering machine
+Combined operation[edit]
+This refers to analogue sites, which support voice, fax and data transmission via landlines by adhering to specific protocols established by the ITU-T. Any incoming call is not identifiable with respect to these properties in advance of going "off hook" by the terminal equipment. So after going off hook the calls must be switched to appropriate devices and only the voice-type is immediately accessible to a human, but perhaps, nevertheless should be routed to a TAD (e.g. after the caller has identified itself, or has been identified by a recognized caller ID).
+Starting with the integration of faxing devices into computers via Fax modems the automated answering of voice calls by a computer went live via specific software, like e.g. TalkWorks. These systems allowed for quite elaborate voice box systems, navigated via dual-tone multi-frequency signaling, allowing a computer on a (single) telephony line to sound like a professional telephony system with hierarchical fax and message boxes with an automatic call distributor, where a caller might deposit his messages, leave his faxes behind, might listen to specific messages, or start a fax-back service.
+ MicroLink Office, a voice-fax-data modem with standalone voice/fax box functionality
+Besides these solutions, mostly requiring a constantly running computer, since a wake-on-ring function then (~1995) started to take too much time to boot up an operating system, a few so-called selfmodems were available from e.g. USRobotics or ELSA Technology: the Sportster MessagePlus, the 56K Message Modem External, and the MicroLink Office. These devices answered incoming calls by playing a welcome message while discriminating fax calls (CNG-tone at 1100 Hz) from voice calls, storing an incoming fax, or a voice message, respectively. A computer was only necessary afterwards to retrieve the faxes, or for storing the voice messages. In case of a full storage the devices changed their welcome message to another, prerecorded message, played upon answering an incoming call, possibly explaining that a message cannot be taken at the present time.
+See also[edit]
+Business telephone system
+Call-recording hardware
+Voicemail
+Portals: Electronics Telephones Technology Telecommunication
+References[edit]
+^ TheFreeDictionary > answering machine Citing: The American Heritage  Dictionary of the English Language, Fourth Edition copyright  2000 by Houghton Mifflin Company. Updated in 2009.
+^ Dr Naughton, Russell. "A d v e n t u r e s in C y b e r s o u n d". Archived from the original on 2 March 2004. Retrieved 27 May 2014.
+^ Clemons, Elizabeth G. "Clarence Hickman And Charles Stoddard Papers, 1886 1999" (PDF). Retrieved 13 August 2015.
+^ Wu, Tim. The Master Switch: The Rise and Fall of Information Empires. Vintage Books. ISBN 9780307269935. Retrieved 13 August 2015.
+^ "Popular Mechanics". Popular Mechanics. Hearst Magazines. July 1931. ISSN 0032-4558. Retrieved 24 January 2016.
+^ 1929:Answering Machine : IN OUR PAGES:100, 75 AND 50 YEARS AGO New York Times, 10 October 1929, reprinted 11 October 2004, retrieved 7 November 2014.
+^ Chamberlain, Gaius (2012). Benjamin Thornton. blackinventor.com
+^ see Apparatus for automatically recording telephonic messages:US 1831331 A.  and Apparatus for automatically recording telephonic messages: Figure 1, etc.
+^ "Robot Takes Messages". Popular Science. May 1949.
+^ David L. Danner, IDEAMATICS, In., McLean, VA
+^ The History Of Sound Recording, https://recordinghistory.org/technology/answering-machines/atts-first-official-answering-machine/ 
+^ Electronic Tele-Communications, Inc. "Corporate History". etcia.com. Retrieved 24 January 2016.
+^ "The History of... Answering Machines". Consumer & Governmental Affairs Bureau. Retrieved 27 May 2014.
+^ "Telephone Answering Machine".
+^ "The History of the Telephone Answering Machine". Recording History. Retrieved 6 March 2016.
+^ "The Answering Machine Industry Since Edison". Recording History. Retrieved 6 March 2016.
+^ "Sava Jacobson, Inventor of the Modern Answering Machine, Dies at Age 87". PRWeb. Retrieved 18 June 2019.
+^ Mitchell's Iowa State University Digital Outgoing Answering System: https://news.engineering.iastate.edu/2016/04/21/veishea-project-could-be-first-answering-machine/
+^ "Patent US4616110   Automatic digital telephone answering apparatus". google.com.
+External links[edit]
+ Media related to Answering machines at Wikimedia Commons
+Related articles on a diagram
+Novelty Greetings for Telephone Answering Machines
+Samples of common answering machine outgoing messages
+Authority control: National 
+Germany
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Answering_machine&oldid=1147410871"

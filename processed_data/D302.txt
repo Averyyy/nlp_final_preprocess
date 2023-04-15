@@ -1,0 +1,483 @@
+Internet country-code top level domain for the European Union
+.euIntroduced28 April 2005; 17 years ago (2005-04-28)TLD typeCountry codeStatusActiveRegistryEURidSponsorEuropean CommissionIntended useEntities connected with the  European UnionActual useGradually increasing, mostly among sites with pan-European or cross-border intentions. (details)Registered domains3,704,478 (2022-12-16)[1]Registration restrictionsRegistrants must be located within the EEAStructureNames are registered directly at second levelDocumentsCommission Regulation (EC) No. 874/2004Dispute policiesEU ADRDNSSECyesRegistry websitewww.eurid.eu
+.eu is the country code top-level domain (ccTLD) for the European Union (EU).[2] Launched on 7 December 2005, the domain is available for any person, company or organization based in the European Union. This was extended to the European Economic Area in 2014, after the regulation was incorporated into the EEA Agreement, and hence is also available for any person, company or organization based in Iceland, Liechtenstein and Norway.[3][4] The TLD is administered by EURid, a consortium originally consisting of the national ccTLD registry operators of Belgium, Sweden, and Italy, joined later by the national registry operator of the Czech Republic. Trademark owners were able to submit registrations through a sunrise period, in an effort to prevent cybersquatting. Full registration started on 7 April 2006.[5]
+History[edit]
+Regulation 2019/517European Union regulationText with EEA relevanceTitleRegulation (EU) 2019/517 of the European Parliament and of the Council of 19 March 2019 on the implementation and functioning of the .eu top-level domain name and amending and repealing Regulation (EC) No 733/2002 and repealing Commission Regulation (EC) No 874/2004Made byEuropean Parliament & CouncilJournal referenceOJ L 91, 29.3.2019, p. 25 35 Other legislationReplaces874/2004Amends733/2002Current legislation
+Establishment[edit]
+The .eu ccTLD was approved by ICANN on 22 March 2005[6] and put in the Internet root zone on 2 May 2005.[7] Even though the EU is not a country (it is a sui generis intergovernmental and supranational organisation), it has an exceptional reservation in ISO 3166. The Commission and ICANN had extended negotiations lasting more than five years to secure its acceptance.[8]
+.eu.int was the subdomain most used by the European Commission and the European Parliament, based on the .int generic top-level domain (gTLD) for international bodies, until 9 May 2006. The .eu domain (ccTLD) was launched in December 2005, and because of this most .eu.int domain names changed to .europa.eu on Europe day, 9 May 2006.
+Sunrise period[edit]
+The Sunrise Period was broken into two phases. The first phase, which began on 7 December 2005 was to facilitate applications by registrants with prior rights based on trademarks and geographic names. The second phase began on 7 February 2006 and covered company, trade and personal names. In the case of all Sunrise applications, the application needed to be accompanied by documents proving the claim to ownership of a certain right. The decision was then made by PricewaterhouseCoopers Belgium, which had been chosen as the validation agent by EURid.
+On 7 February 2006, the registry was opened for company, trade and personal names. In the first 15 minutes, there were 27,949 total applications, and after one hour, 71,235.
+Landrush[edit]
+On 7 April 2006 at 11 am CET registration became possible for non-trademark holders. Most people requesting domains had asked their registrars to put their requested domains in a queue, ensuring the best chance to register a domain. This way more than 700,000 domains were registered during the first 4 hours of operation. Some large registrars like Go Daddy and small registrars like Dotster suffered from long queues and unresponsiveness, allowing people to 'beat the queue' by registering through a registrar that had already processed its queue. By August 2006, 2 Million .eu domains had been registered. It was then fourth-largest ccTLD in Europe, after .de, .uk and .nl, and is one of the largest internationally.
+The number of .eu domain registrations during the year after the landrush 7 April 2006 to 6 April 2007 seems to have peaked at approximately 2.6 million .eu domains. The market adjustment that follows a landrush in any domain name extension ensures that the number of registered domains will fall as many speculative domain registrations that failed to be resold will not be renewed. This is sometimes referred to as the Junk Dump. On the morning of 7 April 2007, the number of active .eu domains stood at 2,590,160 with approximately 15,000 domains having been deleted since 5 April 2007.
+Stabilisation[edit]
+Approximately 1.5 million .eu domains were up for renewal in April 2007. The EURid registry software is based on the DNS.be software and domains are physically renewed at the end of the month of their anniversary of registration. This process differs from more sophisticated registries like that of .com TLD and other ccTLDs that operate on a daily basis. As with any post-landrush phase, an extension shrinks as the Junk Dump takes effect.
+Over one year after the launch of .eu (5 July 2007), the number of .de domains registered was 11,079,557 according to the German .de registry's statistics page, while number of German owned .eu domains according to EURid's statistics page was 796,561. The number of .uk domains registered was 6,038,732 according to .uk registry Nominet's statistics page. The number of apparently UK owned .eu domains was 344,584.
+The extent of the shrinkage of .eu ccTLD is difficult to estimate because EURid does not publish detailed statistics on the number of new domains registered each day. Instead it provides only a single figure for the number of active domains. The number of new registrations are combined with numbers of domains registered. Approximately 250,000 .eu domains were either deleted or moved into quarantine by 30 April 2007. In the intervening years the renewal rate has stabilised to approximately 80%, which is above the industry average.[9]
+Brexit[edit]
+On 29 March 2018, as a consequence of the United Kingdom's exit from the European Union, it was announced that "as of the withdrawal date, undertakings and organisations that are established in the United Kingdom but not in the EU, and natural persons who reside in the United Kingdom will no longer be eligible to register .eu domain names or, if they are .eu registrants, to renew .eu domain names registered before the withdrawal date".[10][11] The commission announced on 27 April 2018 that it would like to open registration to all EU and EEA citizens, including those living outside the EU.[12] The Parliament, the council, and the Commission reached an agreement on this in December 2018,[13] and the corresponding regulation passed the Parliament on 31 January 2019.[14]
+The 317,000 British .eu domain names were subject to Brexit negotiations because the .eu domain is reserved for European Union use. The .eu Brexit would have occurred on 30 March 2020, in case of no deal,[15] but had since been postponed to January 2021. The UK-EU free trade deal does not cover .eu domains.[16]
+The United Kingdom Government released guidance for British citizens regarding .eu domains in October 2020,[17] and .eu holders with a British address attached have been contacted twice by the domain registry regarding their domains   once in October 2020, once in December 2020.[18]
+British citizens had their .eu domains suspended on 1 January 2021 for three months, and then deleted on 1 March 2021 after a grace period to allow EU/EEA citizens to update the registration information to show their non-UK address.[18] This is the first case of its kind where an institution managing an internet top-level domain has withdrawn domains en masse for an entire country.
+Use by the European Union institutions[edit]
+Main article: Europa (web portal)
+The second-level domain .europa.eu has been reserved for EU institution sites, with institutions and agencies making the switch from .eu.int to .europa.eu domains on the Europe day of 9 May 2006.
+Actual use[edit]
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: ".eu" news  newspapers  books  scholar  JSTOR (December 2008) (Learn how and when to remove this template message)
+The main users of .eu domains are websites with pan-European or cross-border intentions and audiences. It is often used to emphasise the 'European identity' of a website, as opposed to the website having a strictly national ccTLD or global "dotcom" nature. Alternative (opportunistic) uses include Basque webpages (as the initial letters of Euskadi or the language Euskara) and Romanian, Portuguese, or Galician personal sites, as eu is the equivalent of the English pronoun 'I' in those languages.
+In most countries of the EU, the national ccTLDs have the major share of the market with the remainder spread over .com/.net/.org/.info/.biz. As a result of this, .eu has had an uphill battle to gain a significant share of these national markets. The dominant players tend to be the national ccTLD and .com. The other TLDs such as .net, .org and to a lesser extent .info and .biz have progressively smaller shares of these national markets.
+Some .eu domain names have had some popularity, such as torrentz2.eu. As of November 2019, according to the Tranco rank, the top 100 thousand most popular domains in the world included over 200 .eu domains.[19]
+Parking and redirects[edit]
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: ".eu" news  newspapers  books  scholar  JSTOR (December 2008) (Learn how and when to remove this template message)
+As of around 2010, some statistics indicated a large number of .eu domains being used to direct to other domains.
+Some domain registrants use their .eu website as a web portal containing a list of their national websites with national ccTLDs.
+Other registrants have registered a .eu domain name to protect the brand name of their main website or domain, and redirect visitors to their pre-existing national ccTLD or .com website. (example: www.champagne.eu)
+12.8% of .eu websites are parking pages with pay per click (PPC) advertisements.[20] ISPs and web hosters will often point unused domains to a domain parking webpage with PPC advertising. This percentage does not include .eu domains that are pointed to holding pages or not set up in DNS.
+26% of .eu domain names are redirects for existing national ccTLD or .com websites.[20]
+According to page 20 of EURid's Annual Report for 2006, the breakdown of .eu domain ownership figures on 31 December 2006 was:
+Registrants with more than 10,000 domains: 6
+Registrants with 5,000 9,999 domains: 18
+Registrants with 1,000 4,999 domains: 64
+Registrants with 100-999 domains: 1,257
+Registrants with 10 99 domains: 20,886
+Registrants with 6 9 domains: 22,933
+Registrants with 5 domains: 13,200   (66,000 domains)
+Registrants with 4 domains: 23,007   (92,028 domains)
+Registrants with 3 domains: 42,887   (128,661 domains)
+Registrants with 2 domains: 115,543   (231,086 domains)
+Registrants with 1 domain: 610,679
+The number of registrants with five domains or fewer registered in .eu ccTLD was, according to these statistics, 805,316. These registrants accounted for 1,128,454 domains out of 2,444,947 .eu domains registered as of 31 December 2006. These registrations, typically those of individuals and companies protecting their brand,[citation needed] only represent 46% of the number of registered .eu domains.
+Cyrillic domain[edit]
+. , a top-level domain using Cyrillic letters was put into operation on 1 June 2016. A Cyrillic domain was needed because Bulgaria, a member of the EU, uses the Cyrillic alphabet. Keyboards and smartphones used in Bulgaria have special key combinations to change script, but in order to avoid that, all-Cyrillic addresses are used. The EU is called   (   ) in Bulgarian Cyrillic, but .  (in Cyrillic letters) is much too similar to .ec (in Latin letters), the existing top-level domain of Ecuador, so .  was chosen. (While some Latin and Cyrillic letters may look identical, they have different character encodings and are distinct for data processing purposes. Consequently, there is an opportunity for misrepresentation unless steps are taken to prevent abusive registration).
+EURid has a rule that the second-level domain name must be in the same script as the top-level domain,[21] so Cyrillic second-level domains must go under .  instead of .eu, and all domain names under .  must be spelt using Cyrillic.[22] Older Cyrillic domains under .eu were cloned into .  at its launch.
+As of December 2022, there are 1,320 registered domains under . .[1]
+Greek domain[edit]
+An application for a top-level domain using Greek letters, .  was submitted in 2016.
+The application was originally turned down because it was too visually similar to .eu.[23]
+The Greek name of the EU is     ( ), but .  would be too visually similar to .ee, the top-level domain of Estonia.
+In 2019 steps were taken towards approving .  as a domain. The proposal was to have one and the same registry manager of .eu, .e  and . , which shall make sure second-level domains are not visually similar and in the long-term assign all Cyrillic domains under .eu to .e  and all Greek letters domains to . .[24] .  domain names were officially launched in November 2019.[25]
+As of December 2022, there are 2,625 registered domains under . .[1]
+Allegations of abuse[edit]
+Domain name speculation, domain name warehousing and cybersquatting are always features of the launch of any new TLD; however, this was more widespread in the case of the .eu launch.
+Bob Parsons, CEO and co-founder of GoDaddy, criticized the landrush process designed by EURid. Particularly, he condemned the use of shell companies by some registrars. In his blog, he stated "These companies, instead of only registering their real active registrars, created hundreds of new "phantom" registrars."[26] Parsons cited a group of about 400 companies, all with similar address and contact information based in New York, each registered as an LLC; in his opinion, these were phantom registrars "created to hijack the .EU landrush."
+These "phantom" registrars effectively had hundreds of opportunities of registering a domain whereas a genuine registrar effectively only had one opportunity to register the same domain. Thus some registrants were crowded out of the .eu landrush process and many generic .eu domain names are now owned by the companies using these "phantom" registrars.
+Patrik Lind n, spokesman for EURid at the time, denied the allegations by Parsons, stating that "[EURid] verified that each registrar was an individual legal entity. Each had to sign an agreement with us, and prepay  10,000."[27] Parsons didn't dispute that each registrar was a separate legal entity, but noted that creating such entities was trivial: "Mr. Linden seemed proud that the EURid registry verified that each applicant was a legal entity before it was accredited. Take a moment and think about what that means. You can form a "legal entity" for $50   an LLC   and you are good to go. Is that what we want a registry to do? Don't we want them instead to make sure that the organization it allows to provide end-users with its domain names   especially Europe's very own domain name   are actually in the domain name registration business?"[28]
+Others claimed that .eu domain had been actively targeted during the sunrise period by speculators using fast-track Benelux trademarks to create prior rights on various high-value generic terms and during the landrush by speculators using EU front companies in the UK and Cyprus to register large numbers of domains. While speculative activity occurred with the launch of other domains, it was the scale of the activity that called into question the competence of EURid in protecting the integrity of eu ccTLD.
+The EURid organisation investigated some allegations of abuse, and in July 2006 announced the suspension of over 74,000 domain names and that they were suing 400 registrars for breach of contract.[29] The status of the domains was changed from active to on-hold. This meant that the domains could not be moved or have their ownership changed. The registrars also lost their access to the EURid registration database meaning that they could no longer register .eu domain names. The legal action relates to the practice of domain name warehousing, whereby large numbers of domain names are registered, often by registrars, with the intention of subsequently selling them on to third parties.  EURid rules state that applications for domains can only be made after a legitimate application has been made to a registrar.  The 74,000 applications were made in the name of only three Cyprus registered companies   Ovidio Ltd., Fausto Ltd. and Gabino Ltd.
+The affected registrars, joined in the action by the affected registrants, obtained a provisional order from the Court of First Instance in Brussels, Belgium on 27 September 2006. The court ordered EURid to release the blocked domain names or else pay a fine of  25,000 per hour for each affected domain name. EURid complied with the court order and changed the status of the domains from on-hold to active and restored EURid registration database access to the affected registrars.
+The main legal action, that of EURid seeking the registrar agreements between EURid and the registrars in question to be dissolved has still to be heard.
+See also[edit]
+Internet in Europe
+References[edit]
+^ a b c "Statistics - EURid". EURid. 16 December 2022. Archived from the original on 16 December 2022. Retrieved 16 December 2022.
+^ "IANA   .eu Domain Delegation Data". www.iana.org.
+^ Europaportalen (15 January 2014). "N  kan du registrere domenet .eu i Norge". Regjeringen.no (in Norwegian). Retrieved 26 August 2020.
+^ "Register a domain name".
+^ "Eurid's .eu Timeline". Archived from the original on 15 January 2010. Retrieved 30 January 2010.
+^ ".EU Update". ICANN. 23 March 2005. Retrieved 28 November 2019.
+^ "Check out our domain name: .eu is now in the internet root" (PDF). EURid. 2 May 2005. Retrieved 26 June 2006.
+^ "Letter from Erkki Liikanen (EU Commission) to Mike Roberts (CEO, ICANN) regarding .eu Top-Level Domain". European Commission. 6 July 2000. Retrieved 29 November 2019.
+^ "Annual Report 2011 - The .eu registry, EURid" (PDF). EURid. 5 June 2011. Archived from the original (PDF) on 2 December 2012. Retrieved 4 October 2012.
+^ "Notice to stakeholders: withdrawal of the United Kingdom and EU rules on .eu domain names". European Commission. Retrieved 29 March 2018.
+^ "UK citizens might lose .EU domains after Brexit". Engadget. Retrieved 5 April 2018.
+^ "The Commission proposes more flexibility in the .eu top-level-domain". europa.eu. 27 April 2018. Retrieved 6 May 2018.
+^ "Agreement on new rules for the functioning of the .eu top level domain". europa.eu. 6 December 2018. Retrieved 11 February 2019.
+^ "2018/0110(COD): Implementation and functioning of the .eu top level domain name". europarl.europa.eu. Retrieved 11 February 2019.
+^ "Brexit: Les Britanniques n'auront plus le droit aux noms de domaine en .eu".
+^ "EU-UK Draft Free Trade and Cooperation Agreement" (PDF).
+^ ".eu domain names - what you need to do before the end of the transition period". GOV.UK. Retrieved 28 December 2020.
+^ a b "Brexit notice". eurid.eu. Retrieved 28 December 2020.
+^ Le Pochat, Victor; Van Goethem, Tom; Tajalizadehkhoob, Samaneh; Korczynski, Maciej; Joosen, Wouter. "Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation" (PDF). Network and Distributed Systems Security (NDSS) Symposium 2019. doi:10.14722/ndss.2019.23386. ISBN 1-891562-55-X.
+^ a b "Website usage trends among top-level domains" (PDF). EURid. 24 November 2011. Archived from the original (PDF) on 2 December 2012. Retrieved 4 October 2012.
+^ "Guidelines for .eu in Greek". eurid.eu. Retrieved 1 December 2019.
+^ "Guidelines for .eu in Cyrillic".
+^ ".  delegation" (PDF). Archived from the original (PDF) on 4 October 2016. Retrieved 17 July 2016.
+^ "A Case Study and Evaluation of a Sample Risk Mitigation Plan" (PDF).
+^ "The launch of the .eu domain in Greek". Digital Single Market - European Commission. 14 November 2019. Retrieved 1 December 2019.
+^ Parsons, Bob (9 April 2006). "The .EU landrush fiasco. A bumbling registry allows Europe's very own domain name to be highjacked!". Archived from the original on 26 June 2006. Retrieved 26 June 2006.
+^ Keizer, Gregg (11 April 2006). "New .EU Domain Name System Irks U.S. Firm". TechWeb Technology News. Archived from the original on 12 April 2006. Retrieved 26 June 2006.
+^ Parsons, Bob (12 April 2006). "EURid denies .EU landrush abuse. These guys couldn't spin a top". Archived from the original on 26 June 2006. Retrieved 26 June 2006.
+^ "EURid suspends 74 000 .eu domain names". EURud. 24 July 2006. Archived from the original on 13 May 2007. Retrieved 26 July 2006.
+External links[edit]
+EURid   Registry for .eu
+IANA .eu whois information
+Domain registration regulations, policies, and terms, and other related documents
+EURid registration status report, including breakdown of registrations by country
+PWC Belgium's validation service for Eurid Archived 27 November 2005 at the Wayback Machine
+EU to launch its own web domain (BBC)
+No .eu domain for the Swiss (and Iceland, Liechtenstein and Norway) (The Register)
+"The .eu Top Level Domain". Archived from the original on 17 February 2013.
+ADR Decisions Wiki providing texts of Ovidio/Fausto/Gabino court order and details on litigation
+DECISION OF THE EEA JOINT COMMITTEE    Incorporation into the EEA agreement
+vteCountry code top-level domainsISO 3166-1
+A .ac .ad .ae .af .ag .ai .al .am .ao .aq .ar .as .at .au .aw .ax .az 
+B .ba .bb .bd .be .bf .bg .bh .bi .bj .bm .bn .bo .br .bs .bt .bw .by .bz 
+C .ca .cc .cd .cf .cg .ch .ci .ck .cl .cm .cn .co .cr .cu .cv .cw .cx .cy .cz 
+D .de .dj .dk .dm .do .dz 
+E .ec .ee .eg .er .es .et .eu 
+F .fi .fj .fk .fm .fo .fr 
+G .ga .gd .ge .gf .gg .gh .gi .gl .gm .gn .gp .gq .gr .gs .gt .gu .gw .gy 
+H .hk .hm .hn .hr .ht .hu 
+I .id .ie .il .im .in .io .iq .ir .is .it 
+J .je .jm .jo .jp 
+K .ke .kg .kh .ki .km .kn .kp .kr .kw .ky .kz 
+L .la .lb .lc .li .lk .lr .ls .lt .lu .lv .ly 
+M .ma .mc .md .me .mg .mh .mk .ml .mm .mn .mo .mp .mq .mr .ms .mt .mu .mv .mw .mx .my .mz 
+N .na .nc .ne .nf .ng .ni .nl .no .np .nr .nu .nz 
+O .om 
+P .pa .pe .pf .pg .ph .pk .pl .pm .pn .pr .ps .pt .pw .py 
+Q .qa 
+R .re .ro .rs .ru .rw 
+S .sa .sb .sc .sd .se .sg .sh .si .sk .sl .sm .sn .so .sr .ss .st .su .sv .sx .sy .sz 
+T .tc .td .tf .tg .th .tj .tk .tl .tm .tn .to .tr .tt .tv .tw .tz 
+U .ua .ug .uk .us .uy .uz 
+V .va .vc .ve .vg .vi .vn .vu 
+W .wf .ws 
+Y .ye .yt 
+Z .za .zm .zw
+Internationalized (IDN) ccTLDCyrillic scriptArabic scriptBrahmic scriptsChinese charactersOther scripts
+.  (bg, Bulgaria)
+.  (bie , Belarus)
+.  (eyu, European Union)
+.  (qaz, Kazakhstan)
+.  (mon, Mongolia)
+.  (mkd, North Macedonia)
+.  (rf, Russia)
+.  (srb, Serbia)
+.  (ukr, Ukraine)
+ . (al-Jaz ir, Algeria)
+ . (Misr, Egypt)
+ . (Bh rat, India)
+ . (Ir n, Iran)
+ . (al-Urdun, Jordan)
+ . (Filastin, Palestine)
+ . (P kist n, Pakistan)
+ . (Qatar)
+ . (al-Saudiah, Saudi Arabia)
+ . (S ry , Syria)
+ . (Tunis, Tunisia)
+ . (Emarat, UAE)
+ . ( Um n, Oman)
+ . (Maleesya, Malaysia)
+ . (al-Ma rib, Morocco)
+ . (S d n, Sudan)
+ . (al-Yaman, Yemen)
+.  (B la, Bangladesh)
+.  (Bh rat, India)
+.  (Bh rat, India)
+.  (Bh rat, India)
+.  (Bh rat, India)
+.  (Bh rat, India)
+.  (Bh rat, India)
+.  (Bh rata, India)
+.  (Indiy , India)
+.  (Lao, Laos)
+.  (Cinkapp r, Singapore)
+.  (La k , Sri Lanka)
+.  (Ila kai, Sri Lanka)
+.  (Thai, Thailand)
+.  (Zh nggu /Zung1gwok3/Tiong-kok/Ch ng-koet, China)
+.  (Zh nggu /Zung1gwok3/Tiong-kok/Ch ng-koet, China)
+.  (Xi ngg ng/Hoeng1gong2, Hong Kong)
+.  ( om n/Ou3mun4, Macau)
+.  ( om n/Ou3mun4, Macau)
+.  (X nji p /Sin-ka-pho, Singapore)
+.  (T iw n/T i-u n/Th i-v n, Taiwan)
+.  (T iw n/T i-u n/Th i-v n, Taiwan)
+.  (hay, Armenia)
+.  (ey, European Union)
+.  (ge, Georgia)
+.  (el, Greece)
+.  (Han-guk, South Korea)
+ . (Yisrael, Israel)
+Proposed ccTLDs 
+.  (kp, Cyprus) - .  (Nippon, Japan)
+OthersReserved / unassignedAllocated / unusedPhased out / deleted
+.bl .bq .eh .mf .xk
+.bv .gb .sj
+.an .bu .cs .dd .tp .um .yu .zr
+See also: Generic top-level domains
+vteEuropean Union articlesHistoryTimeline
+Pre-1948
+1948 1957
+1958 1972
+1973 1993
+1993 2004
+Since 2004
+Predecessors
+Timeline
+Founders
+Western Union (1948 1954)/Western European Union (1954 2011)
+International Authority for the Ruhr (1949 1951)
+European Communities (1967 2009)
+European Coal and Steel Community (1951 2002)
+European Economic Community (1958 1993)/European Community (1993 2009)
+Euratom (1958 present)
+European Investment Bank Group (2000 present)
+European Investment Bank (1958 present)
+European Investment Fund (1994 present)
+European University Institute (1972 present)
+European Monetary Cooperation Fund (1973 1994)/European Monetary Institute (1994 1998)/European Central Bank (1998 present)
+European Financial Stability Facility (2010 2012)/European Financial Stability Mechanism (2010 2012)/European Stability Mechanism (2012 present)
+Unified Patent Court (2022 present)
+Past enlargements
+1973
+1981
+1986
+1995
+2004
+2007
+2013
+Geography
+Geography
+Demographics
+External border
+Environmental issues
+Extreme points
+Geographic centre
+Larger urban zones
+Member states
+Protected areas
+Regions (first-level NUTS)
+Special territories
+Statistics
+BodiesInstitutionsof the EUInternational organisations
+European Central Bank
+European System of Central Banks
+Otherinstitutions
+European Council
+European Commission
+European Parliament
+Committees of the European Parliament
+Council of the European Union
+European Court of Auditors
+Court of Justice of the European Union
+Other EU bodies being international organizationsEIB Group
+European Investment Bank
+European Investment Fund
+EIB Institute
+Other
+Energy Community
+European Atomic Energy Community
+European Stability Mechanism
+European University Institute
+Unified Patent Court
+EU secondary-lawjuridical persons
+Agencies, decentralised independent bodies, corporate bodies and joint undertakings
+Other bodies
+European Ombudsman
+European Data Protection Supervisor
+European Committee of the Regions
+European Economic and Social Committee
+Political and Security Committee
+European Union Military Committee
+EU/ESA Space Council
+EEA Joint Committee
+PoliticsConcepts
+Eurosphere
+Intergovernmentalism
+Multi-speed Europe
+Neofunctionalism
+Optimum currency area
+Supranational union
+Euroscepticism
+Euromyths
+Federalisation
+Pro-Europeanism
+Democratic legitimacy
+Policies
+Area of freedom, security and justice
+Migration and asylum policy
+Schengen Area
+European Judicial Network (criminal matters)
+European Judicial Network in civil and commercial matters
+Common Foreign and Security Policy
+Common Security and Defence Policy
+Permanent Structured Cooperation
+Enlargement Policy
+Neighbourhood Policy
+Global Strategy
+Economic and Monetary Union (EMU)
+Eurozone
+European banking union
+Single Supervisory Mechanism
+Single Resolution Mechanism
+Capital Markets Union
+European System of Financial Supervision
+Single market
+Agricultural policy
+Cultural policies
+Customs Union
+Educational policies
+Energy policy
+Environmental policy
+European Green Deal
+Fisheries policy
+Healthcare
+Labour mobility
+Regional development
+Space policy
+Sport policies
+VAT Area
+Enhanced cooperation
+Politics
+Elections
+parliamentary constituencies
+National parties by affiliation
+Integration
+Hypothetical dissolution
+Parliamentary groups
+Withdrawal
+Greenland
+United Kingdom
+2012 Nobel Peace Prize
+Law
+Acquis
+Charter of Fundamental Rights
+Citizenship
+passports
+identity card (list)
+Driving licence
+Competition law
+Copyright law
+Directive
+Citizens' Rights
+Mechanism for Cooperation and Verification
+Official Journal
+Legislative procedure
+Citizens' Initiative
+Regulation
+Treaties
+opt-outs
+LGBT rights
+Foreign relations
+Potential superpower status
+Neighbourhood Policy
+European Economic Area
+Economic Partnership Agreements
+European Union Association Agreement
+Stabilisation and Association Process
+Eastern Partnership
+Euronest Parliamentary Assembly
+EU Strategy for the South Caucasus
+Northern Dimension
+Union for the Mediterranean
+Global Strategy
+Free trade agreements
+EU/ESA Framework Agreement
+Enlargement
+Current agenda
+Statistics
+Economy
+Budget
+Currencies
+Community preference
+Government procurement
+Eurozone
+Euro
+International status and usage
+Eurosystem
+Eurogroup
+Euro summit
+Transport
+Minimum wage
+Average wage
+Unemployment rate
+Health expense per person
+Health Insurance Card
+Driving licence
+European Common Aviation Area
+European Structural and Investment Funds
+Culture
+Douzelage
+House of European History
+Laissez-passer
+Languages
+Media freedom
+Public holidays
+Religion
+Telephone numbers
+Symbols
+Lists
+Books on the subject
+Cities with more than 100,000 inhabitants
+Directives
+Largest cities by population within city limits
+Presidents of the institutions
+Tallest buildings
+Terrorist incidents
+Urban areas
+Vehicle registration plates
+Outline
+Category
+Portal
+vteInternet in  Europe Sovereign states
+Albania
+Andorra
+Armenia
+Austria
+Azerbaijan
+Belarus
+Belgium
+Bosnia and Herzegovina
+Bulgaria
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Georgia
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Italy
+Kazakhstan
+Latvia
+Liechtenstein
+Lithuania
+Luxembourg
+Malta
+Moldova
+Monaco
+Montenegro
+Netherlands
+North Macedonia
+Norway
+Poland
+Portugal
+Romania
+Russia
+San Marino
+Serbia
+Slovakia
+Slovenia
+Spain
+Sweden
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+States with limitedrecognition
+Abkhazia
+Artsakh
+Kosovo
+Northern Cyprus
+South Ossetia
+Transnistria
+Dependencies andother entities
+ land
+Faroe Islands
+Gibraltar
+Guernsey
+Isle of Man
+Jersey
+Svalbard
+Other entities
+European Union
+Retrieved from "https://en.wikipedia.org/w/index.php?title=.eu&oldid=1127758510"

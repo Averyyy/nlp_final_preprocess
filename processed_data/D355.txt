@@ -1,0 +1,1371 @@
+American air superiority fighter
+"F22" redirects here. For other uses, see F22 (disambiguation).
+F-22 Raptor
+An F-22 Raptor flies over Kadena Air Base, Japan, on a routine training mission in 2009.
+Role
+Air superiority fighterType of aircraft
+National origin
+United States
+Manufacturer
+Lockheed Martin AeronauticsBoeing Defense, Space & Security
+First flight
+7 September 1997; 25 years ago (1997-09-07)
+Introduction
+15 December 2005
+Status
+In service
+Primary user
+United States Air Force
+Produced
+1996 2011
+Number built
+195 (8 test and 187 production aircraft)[N 1][1]
+Developed from
+Lockheed YF-22
+Developed into
+Lockheed Martin X-44 MANTALockheed Martin FB-22
+The Lockheed Martin F-22 Raptor is an American single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed for the United States Air Force (USAF). As the result of the USAF's Advanced Tactical Fighter (ATF) program, the aircraft was designed as an air superiority fighter, but also has ground attack, electronic warfare, and signals intelligence capabilities. The prime contractor, Lockheed Martin, built most of the F-22's airframe and weapons systems and conducted final assembly, while Boeing provided the wings, aft fuselage, avionics integration, and training systems.
+The aircraft first flew in 1997 and was variously designated F-22 and F/A-22 before it formally entered service in December 2005 as the F-22A. Although the USAF had originally planned to buy a total of 750 ATFs, the program was cut to 187 production aircraft in 2009 due to high costs, a lack of air-to-air missions at the time of production, and the development of the more affordable and versatile F-35.[N 2] The last F-22 was delivered in 2012.
+While it had a protracted development and initial operational difficulties, the F-22 has become a critical component of the USAF's tactical airpower. The fighter's combination of stealth, aerodynamic performance, and mission systems enabled a leap in air combat capabilities and set the benchmark for its generation.[3][4] The F-22 is expected to serve into the 2030s and eventually be succeeded by the USAF's Next Generation Air Dominance (NGAD) manned fighter component.[5]
+Development[edit]
+Origins[edit]
+Main articles: Advanced Tactical Fighter and Lockheed YF-22
+ ATF SPO Patch, 1990
+In 1981, the U.S. Air Force identified a requirement for an Advanced Tactical Fighter (ATF) to replace the F-15 Eagle and F-16 Fighting Falcon. Code-named "Senior Sky", this air-superiority fighter program was influenced by emerging worldwide threats, including new developments in Soviet air defense systems and the proliferation of the Sukhoi Su-27 "Flanker"- and Mikoyan MiG-29 "Fulcrum"-class of fighter aircraft.[6] It would take advantage of the new technologies in fighter design on the horizon, including composite materials, lightweight alloys, advanced flight control systems and avionics, more powerful propulsion systems, and most importantly, stealth technology. In 1983, the ATF concept development team became the System Program Office (SPO) and managed the program at Wright-Patterson Air Force Base. The demonstration and validation (Dem/Val) request for proposals (RFP) was issued in September 1985, with requirements placing a strong emphasis on stealth and supercruise. Owing to the immense investments required to develop the technology needed to achieve performance goals, teaming between companies was encouraged. Of the seven bidding companies,[N 3] Lockheed and Northrop were selected on 31 October 1986. Lockheed, through its Skunk Works division, then teamed with Boeing and General Dynamics while Northrop teamed with McDonnell Douglas, and the two contractor teams undertook a 50-month Dem/Val phase, culminating in the flight test of two technology demonstrator prototypes, the YF-22 and the YF-23, respectively. Concurrently, Pratt & Whitney and General Electric were awarded contracts to develop the YF119 and YF120 engines respectively for the ATF engine competition.[7][8]
+Dem/Val was focused on system engineering, technology development plans, and risk reduction over point aircraft designs; in fact, after the down-select, the Lockheed team completely changed the airframe configuration in the summer of 1987 due to weight analysis during detailed design, with notable changes including the wing planform from swept trapezoidal to diamond-like delta and a reduction in forebody planform area.[9] Contractors made extensive use of analytical and empirical methods, including computational fluid dynamics, wind-tunnel testing, and radar cross-section (RCS) calculations and pole testing; the Lockheed team would conduct nearly 18,000 hours of wind-tunnel testing.  Avionics development was marked by extensive testing and prototyping and supported by ground and flying laboratories.[10] During Dem/Val, the SPO used the results of performance and cost trade studies conducted by contractor teams to adjust ATF requirements and delete ones that were significant weight and cost drivers while having marginal value. The short takeoff and landing (STOL) requirement was relaxed to delete thrust-reversers, saving substantial weight. As avionics was a major cost driver, side-looking radars were deleted, and the dedicated infra-red search and track (IRST) system was downgraded from multi-color to single color and then deleted as well. Space and cooling provisions were retained to allow for the later addition of these components. The ejection seat requirement was downgraded from a fresh design to the existing McDonnell Douglas ACES II. Despite efforts by the contractor teams to rein in weight, the takeoff gross weight estimate was increased from 50,000 lb (22,700 kg) to 60,000 lb (27,200 kg), resulting in engine thrust requirement increasing from 30,000 lbf (133 kN) to 35,000 lbf (156 kN) class.[11]
+Each team built two prototype air vehicles for Dem/Val, one for each of the two engine options. The YF-22 had its maiden flight on 29 September 1990 and in-flight tests achieved up to Mach 1.58 in supercruise. After the Dem/Val flight test of the prototypes, on 23 April 1991, Secretary of the USAF Donald Rice announced the Lockheed team and Pratt & Whitney as the winners of the ATF and engine competitions.[12] The YF-23 design was considered stealthier and faster, while the YF-22, with its thrust vectoring nozzles, was more maneuverable as well as less expensive and risky.[13] The press speculated that the Lockheed team's design was also more adaptable to the U.S. Navy's Navalized Advanced Tactical Fighter (NATF),[N 4] but by fiscal year (FY) 1992, the Navy had abandoned NATF.[14]
+Production and procurement[edit]
+As the program moved to full-scale development, or Engineering & Manufacturing Development (EMD), the production F-22 design had notable differences from the YF-22, despite having a similar configuration. The wing's leading edge sweep angle was decreased from 48  to 42 , while the vertical stabilizers were shifted rearward and decreased in area by 20%.[15] The radome shape was changed for better radar performance and the wingtips were clipped for antennas. To improve pilot visibility and aerodynamics, the canopy was moved forward 7 inches (18 cm) and the engine inlets moved rearward 14 inches (36 cm). The shapes of the fuselage, wing, and stabilator trailing edges were refined to improve aerodynamics, strength, and stealth characteristics. The production airframe was designed with a service life of 8,000 hours.[16][17] Increasing weight during EMD caused slight reductions in projected range and maneuver performance.[18]
+ The Flying Test Bed avionics laboratory in flight alongside an EMD F-22
+Aside from advances in air vehicle and propulsion technology, the F-22's avionics and software were unprecedented in terms of complexity and scale, with the fusion of multiple sensors systems and software integration of 1.7 million lines of code.[19] To enable early looks and troubleshooting for mission software development, a Boeing 757 was modified with F-22 mission systems to serve as the Flying Test Bed avionics laboratory.[20]
+ Manufacturers of the F-22
+The end of the Cold War and the dissolution of the Soviet Union in 1991 reduced the Department of Defense's (DoD) urgency for new weapon systems and the following years would see reductions in DoD spending; this resulted in the F-22's EMD being rescheduled and lengthened multiple times. The roughly equal division of work amongst the team largely carried through from Dem/Val to EMD, although prime contractor Lockheed acquired General Dynamics' fighter portfolio at Fort Worth, Texas in 1993 and thus had the majority of the airframe manufacturing. While Lockheed Martin Aeronautics[N 5] primarily performed Dem/Val work at its Skunk Works sites in Burbank and Palmdale, California, it would shift the program office and EMD work from Burbank to Marietta, Georgia, where it performed final assembly; program partner Boeing provided additional airframe components as well as avionics integration and training systems in Seattle, Washington.[21] The first F-22, an EMD aircraft with tail number 4001, was unveiled at Dobbins Air Reserve Base in Marietta on 9 April 1997 and first flew on 7 September 1997.[22][23] In 2006, the F-22 development team won the Collier Trophy, American aviation's most prestigious award.[24]
+The USAF originally envisioned ordering 750 ATFs at a total program cost of $44.3 billion and procurement cost of $26.2 billion in FY 1985 dollars, with production beginning in 1994 and service entry in the late 1990s. The 1990 Major Aircraft Review led by Secretary of Defense Dick Cheney reduced this to 648 aircraft beginning in 1996 and in service in the early-to-mid 2000s. After the end of the Cold War, this was further curtailed to 442 in the 1993 Bottom-Up Review while the USAF eventually set its requirement to 381 to adequately support its Air Expeditionary Force structure. However, funding instability had reduced the total to 339 by 1997 and again to 277 by 2003.[25] In 2004, with its focus on asymmetric counterinsurgency warfare in Iraq and Afghanistan, the DoD under Secretary Donald Rumsfeld further cut the planned procurement to 183 production aircraft, despite the USAF's requirement for 381.[26][27] A multi-year procurement plan was implemented in 2006 to save $15 billion, with total program cost projected to be $62 billion for 183 F-22s distributed to seven combat squadrons.[28] In 2008, Congress passed a defense spending bill that raised the total orders for production aircraft to 187.[29][30] Production, with the first lot awarded in September 2000, supported over 1,000 subcontractors and suppliers from 46 states and up to 95,000 jobs, and spanned 15 years at a peak rate of roughly two airplanes per month.[31][32][33]
+The first two F-22s built were EMD aircraft in the Block 1.0[N 6] configuration for initial flight testing and envelope expansion, while the third was a Block 2.0 aircraft built to represent the internal structure of production airframes and enabled it to test full flight loads. Six more EMD aircraft were built in the Block 10 configuration for development and upgrade testing, with the last two considered essentially production quality jets. Production for operational squadrons consisted of 74 Block 10/20 training aircraft and 112 Block 30/35 combat aircraft; one of the Block 30 aircraft is dedicated to flight sciences at Edwards Air Force Base, California.[34][35] Block 20 aircraft from Lot 3 onward were upgraded to Block 30 standards, increasing the Block 30/35 fleet to 149 aircraft while 37 remain in the Block 20 configuration.[N 7][37][38]
+The numerous new technologies in the F-22 resulted in substantial cost overruns and delays.[39] Many capabilities were deferred to post-service upgrades, reducing the initial cost but increasing total program cost.[40] Due to the aircraft's sophisticated capabilities, contractors have been targeted by cyberattacks and technology theft.[41] As production wound down in 2011, the total program cost is estimated to be about $67.3 billion (about $360 million for each production aircraft delivered), with $32.4 billion spent on Research, Development, Test and Evaluation (RDT&E) and $34.9 billion on procurement and military construction (MILCON) in then year dollars. The incremental cost for an additional F-22 was estimated at $138 million in 2009.[42][43]
+Ban on exports[edit]
+ Two F-22s during flight testing, the upper one being the first EMD F-22, Raptor 4001
+The F-22 cannot be exported under US federal law to protect its stealth technology and classified features.[44][45] Customers for U.S. fighters are acquiring earlier designs such as the F-15 Eagle and F-16 Fighting Falcon or the newer F-35 Lightning II, which contains technology from the F-22 but was designed to be cheaper, more flexible, and available for export.[46] In September 2006, Congress upheld the ban on foreign F-22 sales.[47] Despite the ban, the 2010 defense authorization bill included provisions requiring the DoD to report on the costs and feasibility for an F-22 export variant, and another report on the effect of F-22 export sales on the US aerospace industry.[48][49]
+Some Australian politicians and defense commentators proposed that Australia should attempt to purchase F-22s instead of the planned F-35s,[50][51] citing the F-22's known capabilities and F-35's delays and developmental uncertainties.[52] The Royal Australian Air Force (RAAF) soon determined that the F-22 was unable to perform the F-35's strike and close air support roles.[53]
+The Japanese government also showed interest in the F-22 for its Replacement-Fighter program. The Japan Air Self-Defense Force (JASDF) would reportedly require fewer fighters for its mission if it obtained the F-22, thus reducing engineering and staffing costs. In 2009 it was reported that acquiring the F-22 would require increases to the Japanese government's defense budget beyond the historical 1 percent of its GDP.[54][55] With the end of F-22 production, Japan chose the F-35 in December 2011.[56] Israel also expressed interest, but eventually chose the F-35 because of the F-22's price and unavailability.[57][58]
+Production termination[edit]
+Throughout the 2000s when the Department of Defense was primarily fighting counterinsurgency wars in Iraq and Afghanistan, the USAF's procurement goal of 381 F-22s was questioned over rising costs, initial reliability and availability problems, limited multirole versatility, and a lack of relevant adversaries for air combat missions.[46][59] In 2006, Comptroller General of the United States David Walker found that "the DoD has not demonstrated the need" for more investment in the F-22,[60] and further opposition was expressed by Bush Administration Secretary of Defense Rumsfeld and his successor Robert Gates, Deputy Secretary of Defense Gordon R. England, and Chairman of U.S. Senate Armed Services Committee (SASC) Senators John Warner and John McCain.[61][62] Under Rumsfeld, procurement was severely cut to 183 aircraft. The F-22 lost influential supporters in 2008 after the forced resignations of Secretary of the Air Force Michael Wynne and the Chief of Staff of the Air Force General T. Michael Moseley.[63] In November 2008, Gates stated that the F-22 lacked relevance in asymmetric post-Cold War conflicts,[64] and in April 2009, under the Obama Administration, he called for production to end in FY 2011 after completing 187 F-22s.[65]
+ Two F-22As in close trail formation
+The loss of staunch F-22 advocates in the upper DoD echelons resulted in the erosion of its political support. In July 2008, General James Cartwright, Vice Chairman of the Joint Chiefs of Staff, stated to the SASC his reasons for supporting the termination of F-22 production, including shifting resources to the multi-service F-35 and preserving the F/A-18 production line for the EA-18G Growler's electronic warfare capabilities.[66] Although Russian and Chinese fighter developments fueled concern for the USAF, Gates dismissed this and in 2010, he set the F-22 requirement to 187 aircraft by lowering the number of major regional conflict preparations from two to one, despite an effort by Moseley's successor General Norton Schwartz to raise the number to 243.[67] After President Barack Obama threatened to veto further production at Gates' urging, the Senate voted in July 2009 in favor of ending production and the House agreed to abide by the 187 cap.[68][69] Gates highlighted the F-35's role in the decision,[70] and in 2011, he explained that Chinese fighter developments had been accounted for when the F-22 numbers were set, and that the U.S. would have a considerable advantage in stealth aircraft in 2025 even with F-35 delays.[71] In December 2011, the 195th and final F-22 was completed out of 8 test and 187 production aircraft built; the jet was delivered on 2 May 2012.[72][73] The curtailed procurement would force the USAF to operate the F-15C/D into the 2020s in order to retain adequate numbers of air superiority fighters.[74]
+Although production ended, F-22 tooling was retained for supporting repairs and maintenance as well as the possibility of a production restart or a Service Life Extension Program (SLEP).[75] A RAND Corporation paper from a 2010 USAF study estimated that restarting production and building an additional 75 F-22s would cost $17 billion, resulting in $227 million per aircraft, $54 million higher than the flyaway cost.[76] At that time, Lockheed Martin stated that restarting the production line itself would cost about $200 million.[77] Production tooling and associated documentation were subsequently stored at the Sierra Army Depot to support the fleet life cycle while its Marietta plant space was repurposed to support the C-130J and F-35; engineering work for sustainment and upgrades continued at Fort Worth, Texas and Palmdale, California.[78]
+In April 2016, the House Armed Services Committee (HASC) Tactical Air and Land Forces Subcommittee, citing advances in air warfare systems of Russia and China, directed the USAF to conduct a cost study and assessment associated with resuming production of the F-22.[79] On 9 June 2017, the USAF submitted their report to Congress stating they had no plans to restart the F-22 production line due to economic and logistical challenges; it estimated it would cost approximately $50 billion to procure 194 additional F-22s at a cost of $206 216 million per aircraft, including approximately $9.9 billion for non-recurring start-up costs and $40.4 billion for aircraft procurement costs with the first delivery in the mid-to-late 2020s. The long time gap since the end of production meant hiring new workers and sourcing replacement vendors, contributing to the high start-up costs and lead times. The USAF believed that the funding would be better invested in its next-generation Air Superiority 2030 effort, which evolved into the Next Generation Air Dominance.[80][81]
+Upgrades[edit]
+The F-22 and its subsystems were designed to be upgraded over its life cycle. The modernization and upgrades consist of software and hardware modifications, or Tactical Mandates, captured under numbered Increments, originally called Spirals, as well as software-only Operational Flight Program (OFP) Updates.[82] Amid debates over the airplane's relevance in asymmetric counterinsurgency warfare, the first Increments and OFP Updates primarily focused on ground attack, or strike capabilities. Increment 2, the first upgrade program, was implemented in 2005 for Block 20 aircraft onward and enabled the employment of Joint Direct Attack Munitions (JDAM). The improved AN/APG-77(V)1 radar, which incorporates air-to-ground modes, was certified in March 2007 and fitted on airframes from Lot 5 onward.[83] Increment 3.1 and Updates 3 and 4 for Block 30/35 aircraft improved ground-attack capabilities through synthetic aperture radar mapping and radio emitter direction finding, electronic attack and Small Diameter Bomb (SDB) integration; testing began in 2009 and the first upgraded aircraft was delivered in 2011.[84][85] To address oxygen deprivation issues, F-22s were fitted with an automatic backup oxygen system (ABOS) and modified life support system starting in 2012.[86]
+ An F-22A of the 411th Flight Test Squadron test-fires an AIM-9X in 2015.
+In contrast to prior upgrades, Increment 3.2 for Block 30/35 aircraft emphasized air combat capabilities and was a two-part process. 3.2A focused on electronic warfare, communications and identification, while 3.2B included geolocation improvements and full integration of the AIM-9X and AIM-120D; fleet releases began in 2013 and 2019, respectively. Concurrent with Increment 3.2, Update 5 in 2016 added Automatic Ground Collision Avoidance System (AGCAS), datalink updates, and more.[87][88] Update 6, deployed in tandem with 3.2B, incorporated cryptographic and avionics stability enhancements.[89] Following 3.2B, an open mission system (OMS) processor module and architecture were added and an agile software development process was implemented to enable faster enhancements from additional vendors. The Multifunctional Information Distribution System-Joint Tactical Radio System (MIDS-JTRS) for Mode 5 IFF and Link 16 traffic was installed starting in 2021, and the airplane can also use the Battlefield Airborne Communications Node (BACN) as a two-way communication gateway.[90]
+Additional modernization and enhancements are under development, with funding currently extending to 2031. Upgrades currently being tested include new sensors and antennas as well as reliability improvements such as more durable stealth coatings; the dedicated long range advanced IRST, originally deleted during Dem/Val, is one of the new sensors added.[91][92] Other enhancements being developed include all-aspect IRST functionality for the Missile Launch Detector (MLD), manned-unmanned teaming capability, and cockpit improvements.[89][93][94] The planned Multifunction Advanced Data Link (MADL) integration was cut due to development delays and lack of proliferation among USAF platforms. Although the Thales Scorpion helmet-mounted cuing system (HMCS) was successfully tested on the F-22 in 2013, funding cuts prevented its deployment.[95] Lockheed Martin has proposed upgrading all Block 20 training aircraft to Block 30/35 in order to increase numbers available for combat.[38] The F-22 has also been used to test technology for its eventual successor from the Next Generation Air Dominance (NGAD) program; some advances are expected to be applied to the F-22 as well.[5]
+Aside from capability upgrades, the F-22 fleet underwent a $350 million "structures retrofit program" to address improper titanium heat treatment in the parts of certain airframe batches.[96][97] By January 2021, all aircraft had gone through the Structural Repair Program to ensure full lifetimes for all aircraft.[98][99] In the long term, the F-22 is expected to eventually be succeeded by the NGAD's sixth-generation manned fighter component.[100][101]
+Design[edit]
+Overview[edit]
+ F-22 flight demonstration video
+The F-22 Raptor is a fifth-generation air superiority fighter that is considered fourth generation in stealth aircraft technology by the USAF.[102] It is the first operational aircraft to combine supercruise, supermaneuverability, stealth, and sensor fusion in a single weapons platform.[103] The F-22 has clipped diamond-like delta wings blended into the fuselage with four empennage surfaces and leading edge root extensions running to the upper outboard corner of the caret inlets. Flight control surfaces include leading-edge flaps, flaperons, ailerons, rudders on the canted vertical stabilizers, and all-moving horizontal tails (stabilators); for speed brake function, the ailerons deflect up, flaperons down, and rudders outwards to increase drag. The aircraft has a refueling boom receptacle centered on its spine and retractable tricycle landing gear as well as an emergency tailhook.[20]
+The aircraft's dual Pratt & Whitney F119 augmented turbofan engines are closely spaced and incorporate pitch-axis thrust vectoring nozzles with a range of  20 degrees; the nozzles are fully integrated into the F-22's flight controls and vehicle management system. Each engine has maximum thrust in the 35,000 lbf (156 kN) class. The F-22's thrust-to-weight ratio at typical combat weight is nearly at unity in maximum military power and 1.25 in full afterburner. The caret inlets generate oblique shocks with the upper inboard corners to ensure good total pressure recovery and efficient supersonic flow compression.[104] Maximum speed without external stores is approximately Mach 1.8 at military power and greater than Mach 2 with afterburners.[105][N 8]
+ F-22 flying with its Pratt & Whitney F119 engines on full afterburner during testing
+The F-22's high cruise speed and operating altitude over prior fighters improve the effectiveness of its sensors and weapon systems, and increase survivability against ground defenses such as surface-to-air missiles.[107][108] The ability to supercruise, or sustain supersonic flight without using afterburners, allows it to intercept targets that afterburner-dependent aircraft would lack the fuel to reach.  The use of internal weapons bays permits the aircraft to maintain comparatively higher performance over most other combat-configured fighters due to a lack of parasitic drag from external stores.[109] The F-22's thrust and aerodynamics enable regular combat speeds of Mach 1.5 at 50,000 feet (15,000 m), thus providing 50% greater employment range for air-to-air missiles and twice the effective range for JDAMs than with prior platforms.[N 9][111][112] Its structure contains a significant amount of high-strength materials to withstand stress and heat of sustained supersonic flight. Respectively, titanium alloys and bismaleimide/epoxy composites comprise 42% and 24% of the structural weight.[113][114]
+The F-22's aerodynamics, relaxed stability, and powerful thrust-vectoring engines give it excellent maneuverability and energy potential across its flight envelope. The airplane has excellent high alpha (angle of attack) characteristics, capable of flying at trimmed alpha of over 60  while maintaining roll control and performing maneuvers such as the Herbst maneuver (J-turn) and Pugachev's Cobra.[115][116] The triplex redundant fly-by-wire control system and full-authority digital engine control (FADEC) make the aircraft highly departure resistant and controllable, thus giving the pilot carefree handling.[117][109]
+Avionics[edit]
+ An F-22 releases a flare during a training flight
+The aircraft has an integrated avionics system where through sensor fusion, data from all onboard sensor systems as well as off-board inputs are filtered and processed into a combined tactical picture, thus enhancing the pilot's situational awareness and reducing workload. Key mission systems include Sanders/General Electric AN/ALR-94 electronic warfare system, Martin Marietta AN/AAR-56 infrared and ultraviolet Missile Launch Detector (MLD), Westinghouse/Texas Instruments AN/APG-77 active electronically scanned array (AESA) radar, TRW Communication/Navigation/Identification (CNI) suite, and long range advanced IRST currently being tested.[94] The F-22's baseline software has some 1.7 million lines of code, the majority involving the mission systems such as processing radar data.[118] The integrated nature of the avionics, as well as the use of Ada,[N 10] has made the development and testing of upgrades challenging. To enable more rapid upgrades, the avionics suite added an open mission systems (OMS) processor, as well as an open-source Kubernetes platform called the Open Systems Enclave (OSE) to enable the use of containerized software from third-party vendors.[89][120]
+The F-22's ability to operate close to the battlefield gives the aircraft threat detection and identification capability comparative with the RC-135 Rivet Joint, and the ability to function as a "mini-AWACS", though its radar is less powerful than those of dedicated platforms. This allows the F-22 to rapidly designate targets for allies and coordinate friendly aircraft.[115] Data can be transferred to other aircraft through a BACN or via Link 16 using MIDS-JTRS.[90] The IEEE 1394B bus developed for the F-22 was derived from the commercial IEEE 1394 "FireWire" bus system.[121] In 2007, the F-22's radar was tested as a wireless data transceiver, transmitting data at 548 megabits per second and receiving at gigabit speed, far faster than the Link 16 system.[122] The radio frequency receivers of the electronic support measures (ESM) system give the aircraft the ability to perform intelligence, surveillance, and reconnaissance (ISR) tasks.[123]
+The APG-77 radar has a low-observable, active-aperture, electronically scanned antenna with multiple target track-while-scan in all weather conditions; radar emissions can also be focused to overload enemy sensors as an electronic-attack capability. The radar changes frequencies more than 1,000 times per second to lower interception probability and has an estimated range of 125 150 mi (201 241 km) against an 11 sq ft (1 m2) target and 250 mi (400 km) or more in narrow beams. The upgraded APG-77(V)1 provides air-to-ground functionality through synthetic aperture radar mapping and strike modes.[83][115] Alongside the radar is the ALR-94 electronic warfare system, among the most technically complex equipment on the F-22, that integrates more than 30 antennas blended into the wings and fuselage for all-round radar warning receiver (RWR) coverage and threat geolocation. It can be used as a passive detector capable of searching targets, with range (250+ nmi) exceeding the radar's, and can provide enough information for a radar lock and cue emissions to a narrow beam (down to 2  by 2  in azimuth and elevation). Depending on the detected threat, the defensive systems can prompt the pilot to release countermeasures such as flares or chaff. The MLD uses six sensors to provide full spherical infrared coverage while the advanced IRST, housed in a stealthy pod on the wing, is a narrow field-of-view sensor for long-range passive identification and targeting.[124] To ensure stealth in the radio frequency spectrum, CNI emissions are strictly controlled and confined to specific sectors, with tactical communication between F-22s performed using the directional Inter/Intra-Flight Data Link (IFDL).[125][126] Radar and CNI information are processed by two Hughes Common Integrated Processor (CIP)s, each capable of processing up to 10.5 billion instructions per second.[127] The aircraft has also been upgraded to incorporate an automatic ground collision avoidance system (GCAS).[128]
+Cockpit[edit]
+ Cockpit of the F-22, showing instruments, head-up display and throttle top (lower left)
+The F-22 has a glass cockpit with all-digital flight instruments. The monochrome head-up display offers a wide field of view and serves as a primary flight instrument; information is also displayed upon six color liquid-crystal display (LCD) panels.[129] The primary flight controls are a force-sensitive side-stick controller and a pair of throttles. The USAF initially wanted to implement direct voice input (DVI) controls, but this was judged to be too technically risky and was abandoned.[130] The canopy's dimensions are approximately 140 inches long, 45 inches wide, and 27 inches tall (355 cm   115 cm   69 cm) and weighs 360 pounds.[131] The canopy was redesigned after the original design lasted an average of 331 hours instead of the required 800 hours.[59]
+The F-22 has integrated radio functionality, the signal processing systems are virtualized rather than as a separate hardware module.[132] The integrated control panel (ICP) is a keypad system for entering communications, navigation, and autopilot data. Two 3 in  4 in (7.6 cm  10.2 cm) up-front displays located around the ICP are used to display integrated caution advisory/warning (ICAW) data, CNI data and also serve as the stand-by flight instrumentation group and fuel quantity indicator for redundancy.[133] The stand-by flight group displays an artificial horizon, for basic instrument meteorological conditions. The 8 in  8 in (20 cm  20 cm) primary multi-function display (PMFD) is located under the ICP, and is used for navigation and situation assessment. Three 6.25 in  6.25 in (15.9 cm  15.9 cm) secondary multi-function displays are located around the PMFD for tactical information and stores management.[134]
+The ejection seat is a version of the ACES II commonly used in USAF aircraft, with a center-mounted ejection control.[135] The F-22 has a complex life support system, which includes the onboard oxygen generation system (OBOGS), protective pilot garments, and a breathing regulator/anti-g (BRAG) valve controlling flow and pressure to the pilot's mask and garments. The pilot garments were developed under the Advanced Technology Anti-G Suit (ATAGS) project and protect against chemical/biological hazards and cold-water immersion, counter g-forces and low pressure at high altitudes, and provide thermal relief.[136] Following a series of hypoxia-related issues, the life support system was consequently revised to include an automatic backup oxygen system and a new flight vest valve.[86]
+Armament[edit]
+ One AIM-120 AMRAAM (right) and four GBU-39 SDB (left) fitted in the main weapons bay of an F-22
+The F-22 has three internal weapons bays: a large main bay on the bottom of the fuselage, and two smaller bays on the sides of the fuselage, aft of the engine inlets; a small bay for countermeasures such as flares is located behind each side bay.[137] The main bay is split along the centerline and can accommodate six LAU-142/A launchers for beyond-visual-range (BVR) missiles and each side bay has an LAU-141/A launcher for short-range missiles. The primary air-to-air missiles are the AIM-120 AMRAAM and the AIM-9 Sidewinder, with planned integration of the AIM-260 JATM.[138] Missile launches require the bay doors to be open for less than a second, during which pneumatic or hydraulic arms push missiles clear of the aircraft; this is to reduce vulnerability to detection and to deploy missiles during high-speed flight.[139] An internally mounted M61A2 Vulcan 20 mm rotary cannon is embedded in the airplane's right wing root with the muzzle covered by a retractable door.[140] The radar projection of the cannon fire's path is displayed on the pilot's head-up display.[141]
+Although designed for air-to-air missiles, the main bay can replace four launchers with two bomb racks that can each carry one 1,000 lb (450 kg) or four 250 lb (110 kg) bombs for a total of 2,000 pounds (910 kg) of air-to-surface ordnance.[142][103] While capable of carrying weapons with GPS guidance such as JDAMs and SDBs, the F-22 cannot self-designate laser-guided weapons.[143]
+ F-22 with external weapons pylons
+While the F-22 typically carries weapons internally, the wings include four hardpoints, each rated to handle 5,000 lb (2,300 kg). Each hardpoint can accommodate a pylon that can carry a detachable 600-gallon (2,270 L) external fuel tank or a launcher holding two air-to-air missiles; the two inboard hardpoints are "plumbed" for external fuel tanks. The two outboard hardpoints have since been dedicated to a pair of stealthy pods housing the IRST and mission systems. To preserve the aircraft's stealth while enabling additional payload and fuel capacity, stealthy external carriage has been investigated since the mid-2000s, with a low drag, low-observable 600-gallon external tank and pylon currently under development.[144] The aircraft can jettison external tanks and non-stealthy stores and their attachments to restore its stealth and kinematic performance.[145]
+Stealth[edit]
+ For stealth, the F-22 carries weapons in internal bays. The doors for the center and side bays are open; the six LAU-142/A AMRAAM Vertical Eject Launchers (AVEL) are visible.
+The F-22 was designed to be highly difficult to detect and track by radar. Measures to reduce RCS include airframe shaping such as alignment of edges, internal carriage of weapons, fixed-geometry serpentine inlets and curved vanes that prevent line-of-sight of the engine faces and turbines from any exterior view, use of radar-absorbent material (RAM), and attention to detail such as hinges and pilot helmets that could provide a radar return. The F-22 was also designed to have decreased radio frequency emissions, infrared signature and acoustic signature as well as reduced visibility to the naked eye.[146] The aircraft's flat thrust-vectoring nozzles reduce infrared emissions of the exhaust plume to mitigate the threat of infrared homing ("heat seeking") surface-to-air or air-to-air missiles.[147] Additional measures to reduce the infrared signature include special topcoat and active cooling to manage the heat buildup from supersonic flight.[148]
+Compared to previous stealth designs like the F-117, the F-22 is less reliant on RAM, which are maintenance-intensive and susceptible to adverse weather conditions. Unlike the B-2, which requires climate-controlled hangars, the F-22 can undergo repairs on the flight line or in a normal hangar. The F-22 incorporates a Signature Assessment System which delivers warnings when the radar signature is degraded and necessitates repair.[115] While the F-22's exact RCS is classified, in 2009 Lockheed Martin released information indicating that from certain angles the airplane has an RCS of 0.0001 m2 or  40 dBsm   equivalent to the radar reflection of a "steel marble"; the aircraft can mount a Luneburg lens reflector to mask its RCS.[149][150] Effectively maintaining the stealth features can decrease the F-22's mission capable rate to 62 70%.[N 11]
+ Front fuselage detail of an F-22
+The effectiveness of the stealth characteristics is difficult to gauge. The RCS value is a restrictive measurement of the aircraft's frontal or side area from the perspective of a static radar. When an aircraft maneuvers it exposes a completely different set of angles and surface area, potentially increasing radar observability. Furthermore, the F-22's stealth contouring and radar-absorbent materials are chiefly effective against high-frequency radars, usually found on other aircraft. The effects of Rayleigh scattering and resonance mean that low-frequency radars such as weather radars and early-warning radars are more likely to detect the F-22 due to its physical size. These are also conspicuous, susceptible to clutter, and have low precision.[152] Additionally, while faint or fleeting radar contacts make defenders aware that a stealth aircraft is present, reliably vectoring interception to attack the aircraft is much more challenging.[153][154] According to the USAF an F-22 surprised an Iranian F-4 Phantom II that was attempting to intercept an American UAV, despite Iran's assertion of having military VHF radar coverage over the Persian Gulf.[155]
+Beginning in 2021, the F-22 has been seen testing a new chrome-like surface coating.[156][157] This highly polished surface appears to change color based on the viewer's orientation to the aircraft. It is speculated that the new coating will help to reduce the F-22's detectability by IRST and other infrared tracking systems and missiles. This coating has also been seen on some F-35 and F-117 test aircraft.[158]
+Maintenance[edit]
+Each airplane requires a three-week packaged maintenance plan (PMP) every 300 flight hours.[159] The stealth coatings of the F-22 were designed to be more robust and weather-resistant than those used in earlier stealth aircraft.[115] However, early coatings failed against rain and moisture when F-22s were initially posted to Guam in 2009.[160] The stealth system account for almost one third of maintenance, with coatings being particularly demanding; more durable coatings are being developed in order to reduce maintenance efforts.[161][89] F-22 depot maintenance is performed at Ogden Air Logistics Complex at Hill AFB, Utah, and considerable care is taken during maintenance due to the limited attrition reserve aircraft numbers of the small fleet size.[162]
+F-22s were available for missions 63% of the time on average in 2015, up from 40% when the aircraft was introduced in 2005. Maintenance hours per flight hour was also improved from 30 early on to 10.5 by 2009, lower than the requirement of 12; man-hours per flight hour was 43 in 2014. When introduced, the F-22 had a Mean Time Between Maintenance (MTBM) of 1.7 hours, short of the required 3.0; this rose to 3.2 hours in 2012.[59][97] By fiscal year 2015, the cost per flight hour was $59,116.[163]
+Operational history[edit]
+Designation and testing[edit]
+ An EMD F-22 refuels from a KC-135 during testing; the attachment on the back top is for a spin recovery chute
+The YF-22 was originally given the unofficial name "Lightning II", from the World War II Lockheed P-38 Lightning fighter which persisted until the mid-1990s, when the USAF officially named the F-22 "Raptor". The "Lightning II" name was later given to the F-35. The aircraft was also briefly dubbed "SuperStar" and "Rapier".[164] In September 2002, USAF changed the Raptor's designation to F/A-22, mimicking the Navy's McDonnell Douglas F/A-18 Hornet and intended to highlight a planned ground-attack capability amid debate over the aircraft's role and relevance. The F-22 designation was reinstated in December 2005, when the aircraft entered service.[103][165]
+The F-22 flight test program consisted of flight sciences, developmental test (DT), and operational test and evaluation (OT&E) by the 411th Flight Test Squadron at Edwards AFB, California, as well as development of tactics and operational employment by the 422nd Test and Evaluation Squadron at Nellis AFB, Nevada. Flight testing began in 1997 with Raptor 4001, the first EMD F-22, and eight more EMD jets assigned to the 411th FLTS would participate in the test program under the Combined Test Force (CTF) at Edwards. The first two aircraft conducted envelope expansion testing such as flying qualities, air vehicle performance, propulsion, and stores separation. The third aircraft, the first to have production-level internal structure, tested flight loads, flutter, and JDAM separation, while two non-flying F-22s were built for testing static loads and fatigue. Subsequent EMD aircraft and the Boeing 757 FTB tested avionics, CNI, environmental qualifications, and observables, with the first combat-capable Block 3.0 software flying in 2001.[166] Raptor 4001 was retired from flight testing in 2000 and subsequently sent to Wright-Patterson AFB for survivability testing, including live fire testing and battle damage repair training.[167] Other retired EMD F-22s have been used as maintenance trainers.[168]
+ An F-22 of the 411th FLTS flies over Edwards Air Force Base, California, in 2018
+The first production F-22 was delivered to Edwards in October 2002 for Initial Operational Test & Evaluation (IOT&E), and the first aircraft for the 422nd TES at Nellis arrived in January 2003. Originally planned to start in mid-2003, IOT&E was repeatedly delayed due to challenges from the numerous technological advances, with avionics stability being particularly problematic.[169] Following a preliminary assessment, called OT&E Phase 1, IOT&E began in April 2004 and was completed in December of that year. This marked the successful demonstration of the jet's air-to-air mission capability, although it was also more maintenance intensive than expected.[170] A Follow-On OT&E (FOT&E) in 2005 cleared the F-22's air-to-ground mission capability.[171] Delivery of operational aircraft for pilot training at Tyndall AFB, Florida began in September 2003, and the first combat ready F-22 of the 1st Fighter Wing arrived at Langley AFB, Virginia in January 2005.[167] As the F-22 was designed for upgrades throughout its lifecycle, the 411th FLTS and 422nd TES would continue the DT/OT&E and tactics development of these upgrades. The 411th FLTS' fleet was further augmented by a dedicated Block 30 test aircraft in 2010.[168]
+In August 2008, an unmodified F-22 of the 411th FLTS performed the first ever air-to-air refueling of an aircraft using synthetic jet fuel as part of a wider USAF effort to qualify aircraft to use the fuel, a 50/50 mix of JP-8 and a Fischer Tropsch process-produced, natural gas-based fuel.[172] In 2011, an F-22 flew supersonic on a 50% mixture of biofuel derived from camelina.[173]
+Training[edit]
+ 2005: An F-22 of the 43d Fighter Squadron flies alongside an F-15 of the 27th Fighter Squadron.
+The 43rd Fighter Squadron was reactivated in 2002 as the F-22 Formal Training Unit (FTU) for the type's basic course at Tyndall AFB. Following severe damage to the installation in the wake of Hurricane Michael in 2018, the squadron and its aircraft were relocated to nearby Eglin AFB; the storm had also damaged several F-22s, which were later repaired.[174] The FTU and its aircraft were reassigned to the 71st Fighter Squadron at Langley AFB in 2023.[175] To reduce operating costs and prolong the F-22's service life, some pilot training sorties are performed using flight simulators, while the T-38 Talon is used for adversary training.[159] The advanced F-22 weapons instructor course at USAF Weapons School is conducted by the 433rd Weapons Squadron at Nellis AFB.[176]
+Introduction into service[edit]
+ An F-22 fires an AIM-120 AMRAAM
+In December 2005, the USAF announced that the F-22 had achieved Initial Operational Capability (IOC) with the 94th Fighter Squadron.[177] The unit subsequently participated in Exercise Northern Edge in Alaska in June 2006 and Exercise Red Flag 07 1 at Nellis AFB in February 2007, where it demonstrated the F-22's greatly increased air combat capabilities when flying against Red Force Aggressor F-15s and F-16s and also refined operational tactics and employment.[28][178]
+The F-22 achieved Full Operational Capability (FOC) in December 2007, when General John Corley of Air Combat Command (ACC) officially declared the F-22s of the integrated active duty 1st Fighter Wing and Virginia Air National Guard 192d Fighter Wing fully operational.[179] This was followed by an Operational Readiness Inspection (ORI) of the integrated wing in April 2008, in which it was rated "excellent" in all categories, with a simulated kill-ratio of 221 0.[180]
+Operational service[edit]
+ An F-22 from Elmendorf AFB, Alaska, intercepting a Russian Tupolev Tu-95 bomber near American airspace
+Following IOC and large-scale exercises, the F-22 flew its first homeland defense mission in January 2007. In November 2007, F-22s of 90th Fighter Squadron at Elmendorf AFB, Alaska, performed their first North American Aerospace Defense Command (NORAD) interception of two Russian Tu-95MS bombers.[181] Since then, F-22s have also escorted probing Tu-160 bombers.[182]
+The F-22 was first deployed overseas in February 2007 with the 27th Fighter Squadron to Kadena Air Base in Okinawa, Japan.[183] This first overseas deployment was initially marred by problems when six F-22s flying from Hickam AFB, Hawaii, experienced multiple software-related system failures while crossing the International Date Line (180th meridian of longitude). The aircraft returned to Hawaii by following tanker aircraft. Within 48 hours, the error was resolved and the journey resumed.[184][185] Kadena would be a frequent rotation for F-22 units; they have also been involved in training exercises in South Korea and Malaysia.[186][187]
+Defense Secretary Gates initially refused to deploy F-22s to the Middle East in 2007;[188] the type made its first deployment in the region at Al Dhafra Air Base in the UAE in 2009. In April 2012, F-22s have been rotating into Al Dhafra, less than 200 miles from Iran.[189][190] In March 2013, the USAF announced that an F-22 had intercepted an Iranian F-4 Phantom II that approached within 16 miles of an MQ-1 Predator flying off the Iranian coastline.[155]
+ An F-22 refueling prior to combat operations in Syria, September 2014
+On 22 September 2014, F-22s performed the type's first combat sorties by conducting some of the opening strikes of Operation Inherent Resolve, the American-led intervention in Syria; aircraft dropped 1,000-pound GPS-guided bombs on Islamic State targets near Tishrin Dam.[191][192] Between September 2014 and July 2015, F-22s flew 204 sorties over Syria, dropping 270 bombs at some 60 locations.[193] Throughout their deployment, F-22s conducted close air support (CAS) and also deterred Syrian, Iranian, and Russian aircraft from attacking U.S.-backed Kurdish forces and disrupting U.S. operations in the region.[194][195][196] F-22s also participated in the U.S. strikes that defeated pro-government and Russian Wagner Group paramilitary forces near Khasham in eastern Syria on 7 February 2018.[197][198][199] These strikes notwithstanding, the F-22's main role in the operation was conducting intelligence, surveillance and reconnaissance.[200]
+In late 2014, the USAF tested a rapid deployment concept involving four F-22s and one C-17 for support, first proposed in 2008 by two F-22 pilots. The goal was for the type to be able to set up and engage in combat within 24 hours.[201][202] Four F-22s were deployed to Spangdahlem Air Base in Germany in August,  ask Air Base in Poland, and  mari Air Base in Estonia in September 2015, to train with NATO allies.[203]
+In November 2017, F-22s operating alongside B-52s bombed opium production and storage facilities in Taliban-controlled regions of Afghanistan.[204] In 2019, the F-22 cost US$35,000 per flight hour to operate.[205]
+On 4 February 2023, an F-22 of the 1st Fighter Wing shot down an alleged Chinese spy balloon within visual range off the coast of South Carolina at an altitude of 60,000 to 65,000 ft.[206] The wreckage landed approximately 6 miles offshore and was subsequently secured by ships of the U.S. Navy and U.S. Coast Guard.[207] F-22s shot down additional high-altitude objects near the coast of Alaska on 10 February and over Yukon on 11 February.[208]
+Operational problems[edit]
+During the initial years of service, F-22 pilots experienced symptoms as a result of oxygen system issues that include loss of consciousness, memory loss, emotional lability and neurological changes as well as lingering respiratory problems and a chronic cough; the issues resulted in a four-month grounding in 2011.[209][210] In August 2012, the DoD found that the BRAG valve, used to inflate the pilot's vest during high-g maneuvers, was defective and restricted breathing and the OBOGS (onboard oxygen generation system) unexpectedly reduced oxygen levels during high-g maneuvers.[211][212] The Raptor Aeromedical Working Group had recommended several changes in 2005 regarding oxygen supply issues that were initially unfunded but received further consideration in 2012.[213][214] The F-22 CTF and 412th Aerospace Medicine Squadron eventually determined that breathing restrictions were the root cause. The coughing symptoms were attributed to acceleration atelectasis[N 12] from high g exposure and the OBOGS delivering excessive oxygen concentration at low altitudes. The presence of toxins and particles in some ground crew was deemed to be unrelated.[215] Modifications to the life-support equipment and oxygen system allowed the distance and altitude flight restrictions to be lifted on 4 April 2013.[86][216]
+Variants[edit]
+YF-22A
+Pre-production technology demonstrator for Advanced Tactical Fighter (ATF) demonstration/validation phase; two were built.
+F-22A
+Single-seat version, was designated F/A-22A in early 2000s; 195 built, consisting of 8 test and 187 production aircraft.[N 1]
+F-22B
+Planned two-seat version, cancelled in 1996 to save development costs with test aircraft orders converted to F-22A.[217]
+Naval F-22 variant
+Planned carrier-borne variant of the F-22 with variable-sweep wings for the U.S. Navy's Navy Advanced Tactical Fighter (NATF) program to replace the F-14 Tomcat. Program was cancelled in 1991.[217]
+Proposed derivatives[edit]
+The FB-22 was a proposed medium-range supersonic stealth bomber for the USAF.[218] The design was projected to carry up to 30 Small Diameter Bombs to about twice the range of the F-22A.[219] The FB-22 proposals were cancelled with the 2006 Quadrennial Defense Review and subsequent developments, in lieu of a larger subsonic bomber with a much greater range.[220][221]
+The X-44 MANTA, or multi-axis, no-tail aircraft, was a planned experimental aircraft based on the F-22 with enhanced thrust vectoring controls and no aerodynamic surface backup.[222] The aircraft was to be solely controlled by thrust vectoring, without featuring any rudders, ailerons, or elevators. Funding for this program was halted in 2000.[223]
+In August 2018, Lockheed Martin proposed an F-22 derivative to the USAF and JASDF that would combine an improved F-22 airframe with the avionics and improved stealth coatings of the F-35.[224] The proposal was not considered by the USAF or JASDF due to cost and existing export restrictions.[225][226]
+Operators[edit]
+ F-22 from Tyndall Air Force Base, Florida, cruising over the Florida Panhandle
+ An F-22 landing at Holloman AFB, New Mexico
+ An F-22, based at Elmendorf AFB, Alaska, over mountain terrain
+ F-22 with drop tanks in transit to Kadena Air Base, Japan, from Langley AFB, Virginia
+The United States Air Force is the only operator of the F-22. As of August 2022, it has 183 aircraft in its inventory.[227]
+Frontline squadrons[edit]
+1st Fighter Wing at Langley Air Force Base, Virginia[228]
+27th Fighter Squadron
+94th Fighter Squadron
+71st Fighter Squadron (Training Unit, originally based at Tyndall Air Force Base with the 43rd FS, relocated after Hurricane Michael to Eglin, then to Langley.)
+3rd Wing at Joint Base Elmendorf Richardson, Alaska[229]
+90th Fighter Squadron
+525th Fighter Squadron
+15th Wing at Hickam Air Force Base, Hawaii
+19th Fighter Squadron (Pacific Air Forces associate unit)
+154th Wing at Hickam Air Force Base, Hawaii
+199th Fighter Squadron (Air National Guard unit)
+192nd Fighter Wing at Joint Base Langley Eustis, Virginia[230]
+149th Fighter Squadron (Air National Guard associate unit)
+477th Fighter Group   Elmendorf AFB, Alaska
+302d Fighter Squadron (Air Force Reserve Command associate unit)[231]
+Test and Evaluation Squadrons[edit]
+57th Wing at Nellis Air Force Base, Nevada[176]
+422nd Test and Evaluation Squadron[177]
+433rd Weapons Squadron[176]
+412th Test Wing at Edwards Air Force Base, California
+411th Flight Test Squadron
+Accidents[edit]
+For accidents relating to the F-22's technology demonstrator, see Lockheed YF-22  Accidents.
+The first F-22 crash occurred during takeoff at Nellis AFB on 20 December 2004, in which the pilot ejected safely before impact.[232] The investigation revealed that a brief interruption in power during an engine shutdown prior to flight caused a flight-control system malfunction;[233] consequently the aircraft design was corrected to avoid the problem. Following a brief grounding, F-22 operations resumed after a review.[234]
+On 25 March 2009, an EMD F-22 crashed 35 miles (56 km) northeast of Edwards AFB during a test flight, resulting in the death of Lockheed Martin test pilot David P. Cooley. An Air Force Materiel Command investigation found that Cooley momentarily lost consciousness during a high-G maneuver, or g-LOC, then ejected when he found himself too low to recover. Cooley was killed during ejection by blunt-force trauma from windblast due to the aircraft's speed. The investigation found no design issues.[235][236]
+On 16 November 2010, an F-22 from Elmendorf AFB crashed, killing the pilot, Captain Jeffrey Haney. F-22s were restricted to flying below 25,000 feet, then grounded during the investigation.[237] The crash was attributed to a bleed air system malfunction after an engine overheat condition was detected, shutting down the Environmental Control System (ECS) and OBOGS. The accident review board ruled Haney was to blame, as he did not react properly to engage the emergency oxygen system.[238] Haney's widow sued Lockheed Martin, claiming equipment defects, and later reached a settlement.[239][240][215] After the ruling, the emergency oxygen system engagement handle was redesigned;[241] the system was eventually replaced by an automatic backup oxygen system (ABOS).[242] On 11 February 2013, the DoD's Inspector General released a report stating that the USAF had erred in blaming Haney, and that facts did not sufficiently support conclusions; the USAF stated that it stood by the ruling.[243]
+During a training mission, an F-22 crashed to the east of Tyndall AFB, on 15 November 2012. The pilot ejected safely and no injuries were reported on the ground.[244] The investigation determined that a "chafed" electrical wire ignited the fluid in a hydraulic line, causing a fire that damaged the flight controls.[245]
+On 15 May 2020, an F-22 from Eglin Air Force Base crashed during a routine training mission shortly after takeoff; the pilot ejected safely. The cause of the crash was attributed to a maintenance error after an aircraft wash resulting in faulty air data sensor readings.[246]
+Aircraft on display[edit]
+ F-22A 91-4003 at the National Museum of the United States Air Force in Dayton, Ohio
+91-4002   Hill Air Force Base Aerospace Museum in Ogden, Utah[247]
+91-4003   National Museum of the United States Air Force in Dayton, Ohio[248]
+Specifications (F-22A)[edit]
+ F-22 Raptor 3-view drawings
+ USAF poster of key F-22 features and armament
+ F-22's underside with main bay doors open
+Data from USAF,[103] manufacturers' data,[249][250][251] Aviation Week,[115][252] AirForces Monthly,[105] and Journal of Electronic Defense[126]General characteristics
+Crew: 1
+Length: 62 ft 1 in (18.92 m)
+Wingspan: 44 ft 6 in (13.56 m)
+Height: 16 ft 8 in (5.08 m)
+Wing area: 840 sq ft (78.04 m2)
+Aspect ratio: 2.36
+Airfoil: NACA 6 series airfoil
+Empty weight: 43,340 lb (19,700 kg)
+Gross weight: 64,840 lb (29,410 kg)
+Max takeoff weight: 83,500 lb (38,000 kg)
+Fuel capacity: 18,000 lb (8,200 kg) internally, or 26,000 lb (12,000 kg) with two 2  600 US gal tanks
+Powerplant: 2   Pratt & Whitney F119-PW-100 augmented turbofans, 26,000 lbf (116 kN) thrust each dry, 35,000 lbf (156 kN) with afterburner[N 13]
+Performance
+Maximum speed: Mach 2.25, 1,500 mph (2,414 km/h) at altitude
+Mach 1.21, 800 knots (921 mph; 1,482 km/h) at sea level
+Mach 1.82, 1,220 mph (1,963 km/h) supercruise at altitude
+Range: 1,600 nmi (1,800 mi, 3,000 km) or more with 2 external fuel tanks
+Combat range: 460 nmi (530 mi, 850 km) clean with 100 nmi (115 mi, 185 km) in supercruise
+590 nmi (679 mi, 1,093 km) clean subsonic[N 14]
+Ferry range: 1,740 nmi (2,000 mi, 3,220 km)
+Service ceiling: 65,000 ft (20,000 m)
+g limits: +9.0/ 3.0
+Wing loading: 77.2 lb/sq ft (377 kg/m2)
+Thrust/weight: 1.08 (1.25 with loaded weight and 50% internal fuel)
+Armament
+Guns: 1  20 mm M61A2 Vulcan rotary cannon, 480 rounds
+Internal weapons bays:
+Air-to-air mission loadout:
+6x AIM-120C/D AMRAAM
+2  AIM-9 Sidewinder
+Air-to-ground mission loadout:
+2  1,000 lb (450 kg) JDAM or 8  250 lb (110 kg) GBU-39 Small Diameter Bombs
+2  AIM-120 AMRAAM
+2  AIM-9 Sidewinder
+Hardpoint (external):
+4  under-wing pylon stations can be fitted to carry weapons, each with a capacity of 5,000 lb (2,270 kg) or 600 U.S. gallon (2,270 L) drop tanks[254]
+4x AIM-120 AMRAAM (external)
+Avionics
+AN/APG-77 or AN/APG-77(V)1 radar: 125 150 miles (201 241 km) against 1 m2 (11 sq ft) targets (estimated range), more than 250 miles (400 km) in narrow beams
+AN/AAR-56 Missile Launch Detector (MLD)
+AN/ALR-94 electronic warfare system: 250 nautical miles (460 km) or more detection range for radar warning receiver (RWR)
+Integrated CNI Avionics
+MJU-39/40 flares for protection against IR missiles[255]
+See also[edit]
+Aviation portalUnited States portal
+Aircraft in fiction#F-22 Raptor
+Related development
+Lockheed YF-22
+Lockheed Martin FB-22
+Lockheed Martin X-44 MANTA
+Aircraft of comparable role, configuration, and era
+Chengdu J-20
+Lockheed Martin F-35 Lightning II
+Sukhoi Su-57
+Related lists
+List of fighter aircraft
+List of Lockheed aircraft
+List of active United States military aircraft
+List of megaprojects, Aerospace
+Notes[edit]
+^ a b Total production run consisted of 9 EMD and 186 production aircraft; the last two EMD aircraft were Production Representative Test Vehicles (PRTV), while one of the production aircraft was a dedicated flight sciences vehicle. Thus, the production run is often listed as 8 test and 187 production aircraft.
+^ Referring to statements made by the Secretary of Defense Robert Gates: "The secretary once again highlighted his ambitious next-year request for the more-versatile F-35s."[2]
+^ The seven bidding companies for the ATF Dem/Val RFP were Lockheed, Northrop, General Dynamics, Boeing, McDonnell Douglas, Grumman, and Rockwell.
+^ The naval F-22 design was to be carrier-borne and had variable-sweep wings and additional sensors.
+^ Lockheed merged with Martin Marietta in 1995 to form Lockheed Martin.
+^ Block number designates production variation groups.
+^ The combat-coded fleet consist of 123 primary and 20 reserve airframes, while several Block 30 aircraft are devoted to operational testing and tactics development at Nellis AFB.[36]
+^ This capability was demonstrated in 2005 when General John P. Jumper exceeded Mach 1.7 in the F-22 without afterburners.[106]
+^ In testing, an F-22 cruising at Mach 1.5 at 50,000 feet (15,000 m) struck a moving target 24 miles (39 km) away.[110]
+^ Former Secretary of the USAF Michael Wynne blamed the use of the DoD's Ada for cost overruns and delays on many military projects, including the F-22.[119]
+^ "... noting that Raptors are ready for a mission around 62 percent of the time, if its low-observable requirements are met (DAILY, 20 November). Reliability goes up above 70 percent for missions with lower stealth demands."[151] 
+^ Atelectasis is the collapse or closure of a lung resulting in reduced or absent gas exchange.
+^ Actual thrust is up to 37,000 lbf (165 kN).[253]
+^ 750 nmi (with 100 nmi in supercruise), 860 nmi subsonic with 2  600 US gal tanks. Figures include  6% routing factor, combat and 2  GBU-32 + 2  AIM-9 + 2  AIM-120.
+References[edit]
+Citations[edit]
+^ Parsons, Gary. "Final F-22 Delivered" Archived 13 March 2016 at the Wayback Machine Combat Aircraft Monthly, 3 May 2012. Retrieved 10 April 2014.
+^ Baron, Kevin (16 September 2009). "Gates outlines Air Force priorities and expectations". Stars and Stripes. Archived from the original on 31 October 2013. Retrieved 30 October 2013.
+^ Pace 1999, p. 95.
+^ Aronstein and Hirschberg 1998, p. 254.
+^ a b "F-22 Being Used To Test Next Generation Air Dominance 'Fighter' Tech". The War Zone. 25 April 2022. Archived from the original on 16 December 2022. Retrieved 13 March 2023.
+^ Jenkins, Dennis R. Lockheed Secret Projects: Inside the Skunk Works. St. Paul, Minnesota: MBI Publishing Company, 2001. ISBN 0-7603-0914-0. pp. 70.
+^ Jenkins and Landis 2008, pp. 233 234.
+^ Williams 2002, pp. 5 6.
+^ Aronstein and Hirschberg 1998, p. 119.
+^ Aronstein and Hirschberg 1998, pp. 104 121
+^ Aronstein and Hirschberg 1998, pp. 105 108.
+^ Jenkins and Landis 2008, p. 234.
+^ Goodall 1992, p. 110.
+^ Miller 2005, p. 76.
+^ "F-22 Partners". NASA. Archived from the original on 18 January 2004. Retrieved 25 July 2009.
+^ Hehs, Eric (16 October 1998). "F-22 Raptor Design Evolution, Part 2". Lockheed Martin. Archived from the original on 19 December 2022. Retrieved 13 March 2023.
+^ Pace 1999, pp. 12 13.
+^ "F-22 weight increase agreed". Flight International. 3 May 1995. Archived from the original on 12 January 2014.
+^ "F-22 aircraft No. 4005 completes successful first flight." Archived 29 June 2017 at the Wayback Machine Federation of American Scientists. Retrieved 23 July 2009.
+^ a b Kohn, Lt. Col. Allen E. and Lt. Col. Steven M. Rainey. "F-22 Flight Test Program Update." 9 April 1999. Archived from original.
+^ Aronstein and Hirschberg 1998, p. 118.
+^ "Chronology of the F-22 Program." Archived 7 March 2008 at the Wayback Machine F-22 Team, 4 November 2012. Retrieved 23 July 2009.
+^ "F-22 Raptor". Lockheed Martin. Archived from original. Retrieved: 1 July 2014.
+^ "F-22 Raptor Wins 2006 Collier Trophy" (PDF). National Aeronautic Association (Press release). Archived from the original (PDF) on 1 April 2016. Retrieved 23 July 2009.
+^ Williams 2002, p. 22.
+^ Grant, Rebecca (December 2008). "Losing Air Dominance" (PDF). Air Force Magazine. Archived from the original (PDF) on 2 October 2013.
+^ Hedgpeth, Dana (18 February 2009). "Air Force Pares Request for Additional Lockheed F-22s". The Washington Post. Archived from the original on 3 July 2017.
+^ a b Lopez, C.T. (23 June 2006). "F-22 excels at establishing air dominance". U.S. Air Force. Archived from the original on 25 April 2016.
+^ Trimble, Stephen (24 September 2008). "US Congress passes $487.7 defence spending bill, slashes aircraft". FlightGlobal. Archived from the original on 19 April 2013. Retrieved 10 November 2012.
+^ Wolf, Jim (12 November 2008). "Pentagon OKs funds to preserve F-22 line". Reuters. Archived from the original on 19 October 2012. Retrieved 27 August 2011.
+^ Kaplan, Fred (24 February 2009). "The Air Force tries to save a fighter plane that's never seen battle". Slate. Archived from the original on 21 October 2010. Retrieved 31 August 2011.
+^ Brumby, Otis; Bill Kinney; Joe Kirby. (6 June 2011). "Around Town: As the F-35 program revs up the F-22 ramps down". The Marietta Daily Journal. Archived from the original on 11 July 2012. Retrieved 31 August 2011.
+^ Barnes, Julian E. (11 February 2009). "Lockheed lobbies for F-22 production on job grounds". Los Angeles Times. Archived from the original on 14 September 2015.
+^ "PBL Award Pkg 2008 System F-22   Defense Acquisition University" (PDF). dau.mil. Archived (PDF) from the original on 6 March 2019. Retrieved 5 March 2019.
+^ "Lockheed Martin F/A-22 Raptor". Joe Baugher. Archived from the original on 23 November 2010. Retrieved 10 January 2020.
+^ Majumdar, David (16 May 2014). "Air Force Evaluating New Targeting Monocle for F-22 Raptor". USNI News. Archived from the original on 19 October 2021. Retrieved 19 October 2021.
+^ Schanz, Marc V. (1 April 2012). "Raptors for the long haul". Air Force Magazine. Archived from the original on 11 August 2022. Retrieved 13 March 2023.
+^ a b Drew, James (20 April 2016). "US lawmakers want cost data for building 194 more F-22s". FlightGlobal. Archived from the original on 18 April 2019.
+^ Younossi, Obaid et al. "Lessons Learned from the F/A 22 and F/A 18E/F Development Programs." Archived 25 April 2011 at the Wayback Machine RAND, 2005. Retrieved 27 August 2011.
+^ Sweetman, Bill. "Rivals Target JSF." Archived 19 August 2016 at the Wayback Machine Aviation Week, 30 November 2010. Retrieved 31 August 2011.
+^ Minnick, Wendell (24 March 2016). "Chinese Businessman Pleads Guilty of Spying on F-35 and F-22". Defense News. Archived from the original on 13 March 2023. Retrieved 9 April 2019.
+^ "FY 2009 Budget Estimates", p. 1-13. Archived 7 November 2017 at the Wayback Machine U.S. Air Force, February 2008. Retrieved 23 July 2009.
+^ "Selected Acquisition Report (SAR)   F-22, RCS: DD-A&T(Q&A)823 265." Department of Defense, 31 December 2010. Retrieved 13 March 2019.
+^ "H.Amdt.295 to H.R.2266   105th Congress (1997 1998) | Congress.gov | Library of Congress" Archived 26 April 2019 at the Wayback Machine Library of Congress. Retrieved 9 May 2010.
+^ "Senate panel seeks end to F-22 export ban | Reuters". Reuters. 10 September 2009. Archived from the original on 24 September 2015. Retrieved 28 April 2019.
+^ a b Smith, R. Jeffrey. "Premier U.S. fighter jet has major shortcomings: F-22's maintenance demands growing." Archived 12 September 2017 at the Wayback Machine The Washington Post, 10 July 2009. Retrieved 24 July 2009.
+^ Bruno, M. "Appropriators Approve F-22A Multiyear, But Not Foreign Sales." Archived 25 June 2017 at the Wayback Machine Aviation Week, 27 September 2006. Retrieved 28 August 2011.
+^ "H.R. 2647: National Defense Authorization Act for Fiscal Year 2010 (overview)." Archived 3 November 2013 at the Wayback Machine U.S. House of Representatives via Opencongress.org. Retrieved: 27 April 2012.
+^ "H.R.2647 National Defense Authorization Act for Fiscal Year 2010 (see Sections 1250 & 8056.)". United States Congress. Archived from the original on 30 March 2019. Retrieved 23 September 2016.
+^ Carmen, G. "Rapped in the Raptor: why Australia must have the best." Archived 9 November 2006 at the Wayback Machine The Age, 2 October 2006. Retrieved 31 August 2011.
+^ Kopp, Dr. Carlo. "Is The Joint Strike Fighter Right For Australia?" Archived 5 May 2012 at the Wayback Machine Air Power Australia. Retrieved 23 July 2009.
+^ "Australia and the F22 Raptor." Archived 6 November 2018 at the Wayback Machine kuro5hin.org, 26 June 2006. Retrieved 3 July 2006.
+^ Houston, A. "Strategic Insight 9   Is the JSF good enough?" Archived 27 July 2015 at the Wayback Machine Australian Strategic Policy Institute, 18 August 2004.
+^ Bolkcom, Christopher and Chanlett-Avery, Emma. Potential F-22 Raptor Export to Japan. U.S. Congressional Research Service. 11 March 2009.
+^ Govindasamy, Siva. "Japan makes another push for F-22." FlightGlobal, 10 June 2009.
+^ "JASDF's Next Generation Fighter". Lockheed Martin. Archived from the original on 1 July 2014. Retrieved 31 May 2014.
+^ "Israeli Plans to Buy F-35s Hitting Obstacles." Archived 18 August 2007 at the Wayback Machine Defense Industry Daily, 27 June 2006. Retrieved 23 July 2009.
+^ Egozi, Arie. "Israel in talks with USA over F-22 orders". Archived 31 March 2019 at the Wayback Machine Flight Global, 20 April 2007. Retrieved 30 June 2014.
+^ a b c "Assertion and Facts." Archived 3 July 2012 at the Wayback Machine senate.gov. Retrieved: 17 January 2012.
+^ GAO-06-455R "Tactical Aircraft: DOD Should Present a New F-22A Business Case before Making Further Investments." Government Accountability Office. Retrieved 9 May 2010.
+^ Wayne, Leslie. "Air Force Jet Wins Battle in Congress". The New York Times, 28 September 2006. Archived from original. Archived 4 April 2019 at the Wayback Machine Retrieved: 29 June 2014.
+^ Carroll, Ward. "Dogfight Over F-22 Reveals DoD Schisms". Archived 3 July 2017 at the Wayback Machine Defense Tech, 19 November 2008. Retrieved 29 June 2014.
+^ Wolf, Jim (18 June 2009). "Top general warns against ending F-22 fighter". Reuters. Archived from the original on 3 November 2013. Retrieved 1 November 2013.
+^ Cole, August. "Lawmakers Pressure Pentagon to Release Funds for Controversial F-22 Fighter Jet". The Wall Street Journal, 5 November 2008. Archived from original. Retrieved: 29 June 2014.
+^ Levine, Adam, Mike Mount and Alan Silverleib. "Gates Announces Major Pentagon Priority Shifts." Archived 21 January 2012 at the Wayback Machine CNN, 9 April 2009. Retrieved 31 August 2011.
+^ "Transcripts." U.S. Senate, Committee on Armed Services, 9 July 2009. Archived 17 May 2013 at the Wayback Machine
+^ "CRS RL31673 Air Force F-22 Fighter Program: Background and Issues for Congress, p. 15." Archived 4 August 2009 at the Wayback Machine Assets.opencrs.com. Retrieved 26 September 2010.
+^ Matthews, William. "House Reverses Itself, Votes To Kill F-22 Buy." Defense News, 31 July 2009. Archived from original.
+^ Thomas "S.AMDT.1469 to cut F-22 funding." Archived 15 December 2012 at the Wayback Machine Thomas.loc.gov. Retrieved 13 June 2010.
+^ Gates, Robert (16 July 2009). Economic Club of Chicago (Speech). Economic Club of Chicago. Chicago, Illinois: US Department of Defense. Archived from the original on 28 February 2010. Retrieved 1 November 2013.
+^ Media Availability with Secretary Gates en route to Beijing, China from Andrews Air Force Base. Archived 30 September 2017 at the Wayback Machine U.S. Department of Defense, 11 January 2011.
+^ Butler, Amy (27 December 2011). "Last Raptor Rolls Off Lockheed Martin Line". Aviation Week. Archived from the original on 24 March 2015. Retrieved 10 April 2014.
+^ Majumdar, Dave (3 May 2012). "USAF receives last F-22 Raptor". FlightGlobal. Archived from the original on 28 May 2014. Retrieved 9 June 2014.
+^ Trimble, Steve (10 December 2020). "Three Generations Of Fighters Compete For Limited Resources". Aviation Week. Archived from the original on 9 February 2023. Retrieved 13 March 2023.
+^ Trimble, Stephen (5 March 2010). "USAF considers options to preserve F-22 production tooling". FlightGlobal. Archived from the original on 31 October 2013. Retrieved 30 October 2013.
+^ "RAND: Ending F-22A Production: Costs and Industrial Base Implications of Alternative Options." Archived 7 October 2012 at the Wayback Machine rand.org. Retrieved: 26 September 2010.
+^ Wolf, Jim (12 December 2011). "U.S. to mothball gear to build top F-22 fighter". Reuters. Archived from the original on 22 October 2013. Retrieved 30 October 2013.
+^ Wolf, Jim. "U.S. to mothball gear to build top F-22 fighter." Archived 30 March 2019 at the Wayback Machine Reuters, 12 December 2011.
+^ House Lawmakers Want Air Force to Study Restarting F-22 Production Archived 31 March 2019 at the Wayback Machine   Military.com, 19 April 2016
+^ The F-22 Fighter Jet Restart Is Dead: Study Archived 6 March 2019 at the Wayback Machine   Military.com, 21 June 2017
+^ Report to Congress: F-22A Production Restart Assessment. U.S. Air Force (Report). February 2017. Archived from the original on 9 December 2022. Retrieved 13 March 2023.
+^ Ayton, Mark (22 December 2016). "Testing the Combat Edge". Air Forces Monthly. Archived from the original on 13 September 2022. Retrieved 13 March 2023.
+^ a b AP/APG-77(V). Archived 23 November 2016 at the Wayback Machine Forecast International. March 2012
+^ DOT&E FY2013 Annual Report   F-22A Advanced Tactical Fighter (PDF), OSD, archived (PDF) from the original on 2 February 2014, retrieved 29 January 2014
+^ Wall, Robert and Amy Butler. "USAF Weighs Future Priority Needs." Archived 29 December 2014 at the Wayback Machine Aviation Week, 21 November 2011.
+^ a b c "Air Force F-22 resumes normal flight operations". Air Combat Command Public Affairs. U.S. Air Force. 4 April 2013. Archived from the original on 1 November 2013. Retrieved 30 October 2013.
+^ Majumdar, Dave (30 May 2011). "F-22 Getting New Brain". Defense News. Archived from the original on 29 July 2012. Retrieved 30 October 2013.
+^ "A transitional year for military combat aircraft", Aviation Week and Space Technology, 1/8 December 2014, p. 60.
+^ a b c d Zazulia, Nick (11 October 2018). "Rejuvenating the Raptor: Roadmap for F-22 Modernization". Avionics Today. Archived from the original on 16 February 2019. Retrieved 15 February 2019.
+^ a b "BAE Systems receives certification for F-22 friend-or-foe capability". Intelligent Aerospace. 23 November 2020. Archived from the original on 26 September 2021. Retrieved 26 September 2021.
+^ Losey, Stephen (5 November 2021). "Lockheed wins $10.9B contract to modernize F-22". Defense News. Archived from the original on 13 March 2023. Retrieved 8 November 2021.
+^ Trimble, Steve (12 January 2022). "USAF Seeks Third-Party Vendors For F-22 Sensor, Capability Upgrades". Aviation Week. Archived from the original on 26 November 2022. Retrieved 13 March 2023.
+^ Osborn, Kris. "Air Force upgrades F-22 sensors, weapons hardware." Archived 15 March 2017 at the Wayback Machine DefenseSystems.net, 14 March 2017.
+^ a b Hunter, Jamie (11 August 2022). "F-22 Raptor Being Readied for AIM-260 Missile by Green Bats Testers". The War Zone. Archived from the original on 15 August 2022. Retrieved 21 August 2022.
+^ Osborn, Kris (14 May 2019). "Air Force Gives Stealthy F-22 Raptors New Air-to-Air Attack Weapons". Warrior Maven. Archived from the original on 18 April 2021. Retrieved 13 March 2023.
+^ Offley, Ed (4 May 2006). "Flaw Could Shorten Raptors' Lives". News-Herald (Panama City, FL). Archived from the original on 11 June 2014. Retrieved 12 February 2014.
+^ a b Drew, James (5 July 2015). "F-22 Raptor retrofit to take longer, but availability hits 63%". FlightGlobal. Archived from the original on 9 July 2015.
+^ Lloyd, Alex R. (26 January 2021). "F-22 Raptor gets major upgrades courtesy of Hill AFB's 574th Aircraft Maintenance Squadron". dvidshub.net. Ogden Air Logistics Complex. Archived from the original on 27 January 2021. Retrieved 27 January 2021.
+^ Rolfsen, Bruce. "F-22 design problems force expensive fixes." Air Force Times, 12 November 2007.
+^ Sherman, Jason. "Air Force Sets Plan To Launch Sixth-Gen Fighter Program In 2018". Archived 12 March 2014 at the Wayback Machine Inside Defense, 11 March 2014. Retrieved 30 June 2014.
+^ "New Force Design: NGAD Needed Soon, F-22 Sunset Begins in 2030". AFM. 13 May 2021. Archived from the original on 5 June 2022. Retrieved 18 May 2021.
+^ Carlson, Maj. Gen. Bruce. "Subject: Stealth Fighters." Archived 29 August 2010 at the Wayback Machine U.S. Department of Defense Office of the Assistant Secretary of Defense (Public Affairs) News Transcript. Retrieved 28 August 2011.
+^ a b c d "F-22 Raptor fact sheet." Archived 3 March 2016 at the Wayback Machine U.S. Air Force, March 2009. Retrieved 23 July 2009.
+^ Jeffrey W. Hamstra; Brent N. McCallum (15 September 2010). Tactical Aircraft Aerodynamic Integration. doi:10.1002/9780470686652.eae490. ISBN 9780470754405. Archived from the original on 19 October 2021. Retrieved 19 October 2021.
+^ a b Ayton, Mark. "F-22 Raptor". AirForces Monthly, August 2008, p. 75. Retrieved 19 July 2008.
+^ Powell, 2nd Lt. William. "General Jumper qualifies in F/A-22 Raptor." Archived 6 April 2016 at the Wayback Machine Air Force Link, 13 January 2005.
+^ Bedard, David (11 May 2012). "Bird of Prey: Bulldogs accept delivery of last Raptor". Joint Base Elmendorf-Richardson Public Affairs. Archived from the original on 12 May 2014. Retrieved 14 July 2012.
+^ Grant, Rebecca. "Why The F-22 Is Vital Part 13." Archived 13 October 2012 at the Wayback Machine United Press International, 31 March 2009.
+^ a b "F-22 Pilot Perspective". Code One Magazine, October 2000
+^ "U.S. orders two dozen Raptors for 2010". United Press International. 22 November 2006. Archived from the original on 23 June 2011. Retrieved 24 June 2010.
+^ "USAF Almanac." Air Force magazine, May 2006.
+^ Tirpak, John A. "Airpower, led by the F-22, can 'kick the door down' for the other forces." Archived 20 November 2012 at the Wayback Machine Air Force Magazine, March 2001.
+^ Anderson, William D.; Mortara, Sean (23 26 April 2007). "F-22 Aeroelastic Design and Test Validation". American Institute of Aeronautics and Astronautics (AIAA): 4. doi:10.2514/6.2007-1764. ISBN 978-1-62410-013-0.
+^ Cotton, J.D.; Clark, L.P., and Phelps, Hank (May 2002). "Titanium alloys on the F-22 fighter airframe". Advanced Materials & Processes Magazine. American Society for Metals (ASM International). 160 (5).{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+^ a b c d e f Fulghum, D.A. and M.J. Fabey. "F-22 Combat Ready." Aviation Week, 8 January 2007. Archived from original. Retrieved: 7 November 2009.
+^ Peron, L. R. "F-22 Initial High Angle-of-Attack Flight Results." (Abstract). Air Force Flight Test Center. Retrieved 7 November 2009.
+^ "F119 Engine". Pratt & Whitney. Archived from original.
+^ Pace 1999, p. 58.
+^ Wynne, Michael. "Michael Wynne on: The Industrial Impact of the Decision to Terminate the F-22 Program." Archived 31 March 2019 at the Wayback Machine Second Line of Defense. Retrieved 31 August 2011.
+^ "Flight Test Clears F-22 Fleet To Accept Third-Party Software". Aviation Week. 30 August 2022. Archived from the original on 31 August 2022. Retrieved 31 August 2022.
+^ Philips, E.H. "The Electric Jet." Aviation Week, 5 February 2007.
+^ Page, Lewis. "F-22 superjets could act as flying Wi-Fi hotspots." Archived 5 October 2010 at the Wayback Machine The Register, 19 June 2007. Retrieved 7 November 2009.
+^ Reed, John. (20 December 2009). "Official: Fighters should be used for spying". Air Force Times. Archived from the original on 4 June 2012. Retrieved 9 May 2010.
+^ "Missile Launch Detector (MLD)". Lockheed Martin. Archived from the original on 17 October 2012. Retrieved 10 November 2012.
+^ Klass, Philip J. "Sanders Will Give BAE Systems Dominant Role in Airborne EW." Aviation Week, Volume 153, issue 5, 31 July 2000, p. 74.
+^ a b Sweetman 2000, pp. 41 47.
+^ "Defense Science Board report on Concurrency and risk of the F-22 program." Archived 1 December 2012 at the Wayback Machine Dtic.mil, April 1995. Retrieved 31 August 2011.
+^ Tirpak, John (25 July 2019). "Air Force Starts Fielding Auto Ground Collision Avoidance System in F-35s". Air Force Mag. Archived from the original on 31 July 2020. Retrieved 31 March 2020.
+^ Williams 2002, p. 10.
+^ Goebel, Greg. "The Lockheed Martin F-22 Raptor." Archived 30 March 2019 at the Wayback Machine airvectors.net, 1 July 2011. Retrieved 10 November 2012.
+^ "Lockheed Martin's Affordable Stealth" (PDF). Lockheed Martin. 15 November 2000. p. 2. Archived from the original (PDF) on 20 September 2013. Retrieved 3 December 2012.
+^ Kopp, Carlo. "~Just How Good Is The F-22 Raptor?" Archived 7 December 2006 at the Wayback Machine "Australian Air Power", September 1998.
+^ "Military Avionics Systems", Ian Moir and Allan Seabridge, Wiley, pp. 360
+^ Williams 2002, p. 11.
+^ "ACES II Pre-Planned Product Improvement (P3I) Program Update." Archived 22 February 2017 at the Wayback Machine dtic.mil. Retrieved: 24 December 2014.
+^ "A preliminary investigation of a fluid-filled ECG-triggered anti-g suit", February 1994
+^ Pace 1999, pp. 65 66.
+^ "Technologies for Future Precision Strike Missile Systems   Missile/Aircraft Integration. ADA387602." Archived 21 March 2019 at the Wayback Machine dtic.mil.
+^ "LAU-142/A   AVEL   AMRAAM Vertical Eject Launcher." Exelis. Retrieved 7 November 2009.
+^ Miller 2005, p. 94.
+^ DeMarban, Alex. "Target-towing Cessna pilot unconcerned about live-fire practice with F-22s." Alaska Dispatch, 3 May 2012.
+^ Polmar 2005, p. 397.
+^ "The F-22 Raptor: Program & Events". Defense Industry Daily. 13 October 2013. Archived from the original on 22 October 2013. Retrieved 1 November 2013.
+^ Tirpak, John A. "The Raptor as Bomber." Archived 7 July 2011 at the Wayback Machine Air Force magazine, January 2005. Retrieved 25 July 2009.
+^ Pace 1999, pp. 71 72.
+^ Jenn, D. (Fall 2011). "RCS Reduction (Lecture Notes)" (PDF). Naval Postgraduate School. Archived (PDF) from the original on 22 December 2022. Retrieved 13 March 2023.
+^ Katz, Dan (7 July 2017). The Physics And Techniques of Infrared Stealth. Aviation Week. Archived from the original on 14 August 2018. Retrieved 12 April 2019.
+^ "Analogues of Stealth" (PDF) (analysis paper). Northrop Grumman. 27 April 2012. Archived (PDF) from the original on 19 February 2018. Retrieved 10 April 2019.
+^ Fulghum, David A. "F-22 Raptor To Make Paris Air Show Debut" Archived 19 August 2016 at the Wayback Machine Aviation Week, 4 February 2009. Retrieved 15 February 2009.
+^ Lockie, Alex (5 May 2017). "This strange mod to the F-35 kills its stealth near Russian defenses   and there's good reason for that". Business Insider. Archived from the original on 24 August 2020. Retrieved 15 February 2020.
+^ Butler, Amy. "USAF Chief Defends F-22 Need, Capabilities." Archived 19 August 2016 at the Wayback Machine Aviation Week, 17 February 2009. Retrieved 31 August 2011.
+^ Ralston, J; Heagy, J; et al. "Environmental/Noise Effects on UHF/VHF UWB SAR". Archived 2 January 2015 at the Wayback Machine dtic.mil, September 1998. Retrieved 2 January 2015.
+^ Plopsky, Guy and Fabrizio Bozzato. "The F-35 vs. The VHF Threat." Archived 26 December 2014 at the Wayback Machine The Diplomat, 21 August 2014.
+^ Grant, Rebecca (September 2010). The Radar Game: Understanding Stealth and Aircraft Survivability (PDF). Mitchell Institute. Archived from the original (PDF) on 3 December 2016. Retrieved 28 April 2019.
+^ a b "F-22 Flew to Drone's Rescue off Iran Coast". Military. 17 September 2013. Archived from the original on 27 April 2014. Retrieved 28 April 2019.
+^ "This Video Provides Another Look at the F-22 Raptor Covered with a Mirror-Like Coating". 10 December 2021. Archived from the original on 30 January 2023. Retrieved 13 March 2023.
+^ "There's Now a Second 'Chrome' F-22 Raptor Flying with Mirror-Like Coating at Nellis AFB". 19 March 2022. Archived from the original on 12 December 2022. Retrieved 13 March 2023.
+^ "F-35 and F-117 Spotted Flying with Mysterious Mirror-Like Skin". 23 January 2022. Archived from the original on 13 December 2022. Retrieved 13 March 2023.
+^ a b Camelo, Maj. Wilson. "Tyndall AFB takes F-22 pilot training to next level". U.S. Air Force, 30 July 2014. Archived from original.
+^ Holmes, Erik. "F-22 problems linked to rain in Guam." Air Force Times, 5 October 2009. Retrieved 9 May 2010.
+^ Seligman, Lara (30 November 2016). "U.S. Air Force Tackles Repair To F-22 Stealth Coating". Aviation Week. Archived from the original on 20 July 2018. Retrieved 19 March 2019.
+^ "Air Force to consolidate F-22 depot maintenance at Hill". Archived 14 July 2014 at the Wayback Machine U.S. Air Force, 29 May 2013. Retrieved 3 July 2014.
+^ Drew, James (2 February 2015). "F-35A cost and readiness data improves in 2015 as fleet grows". FlightGlobal. Archived from the original on 6 March 2019. Retrieved 4 March 2019.
+^ "Military Aircraft Names." Archived 12 October 2009 at the Portuguese Web Archive Aerospaceweb.org. Retrieved: 26 September 2010.
+^ "U.S. to Declare F-22 Fighter Operational." Agence France-Presse, 15 December 2005.
+^ "F-22 program completes program milestone in first flight of Block 3.0 software". Aviation Week. 8 January 2001. Archived from the original on 22 December 2022. Retrieved 13 March 2023.
+^ a b "F-22 Milestones   Part 2". Code One Magazine. Archived from the original on 11 November 2013. Retrieved 16 November 2013.
+^ a b Majumdar, Dave (7 May 2013). "Raptor 4007 starts testing Inc 3.2A upgrade on its 1000th sortie". FlightGlobal. Archived from the original on 11 November 2013. Retrieved 16 November 2013.
+^ Warwick, Graham (8 September 2003). "Ready or not..." Flight International.
+^ Miller 2005, pp. 64-65.
+^ "F-22 Raptor Clears FOT&E". Air Force Magazine. 13 January 2006. Archived from the original on 21 December 2022. Retrieved 21 December 2022.
+^ Delos Reyes, Julius. "Edwards F-22 Raptor performs aerial refueling using synthetic fuel." Archived 31 May 2017 at the Wayback Machine U.S. Air Force. 3 September 2008. Retrieved 14 September 2011.
+^ Quick, Darren. "F-22 Raptor hits Mach 1.5 on camelina-based biofuel." Archived 26 February 2012 at the Wayback Machine Gizmag, 23 March 2011.
+^ Cohen, Rachel (13 June 2021). "'A perfect storm': Airmen, F-22s struggle at Eglin nearly three years after Hurricane Michael". Air Force Times. Archived from the original on 13 March 2023. Retrieved 20 December 2022.
+^ "F-22 Raptor FTU begins move to JBLE". U.S. Air Force (Air Combat Command). 1 March 2023. Archived from the original on 11 March 2023. Retrieved 13 March 2023.
+^ a b c "433d Weapons Squadron." Archived 22 August 2007 at the Wayback Machine U.S. Air Force. Retrieved 5 April 2010.
+^ a b "F-22A Raptor goes operational". U.S. Air Force. 15 December 2005. Archived from the original on 25 April 2016. Retrieved 11 April 2016.
+^ Schanz, Marc V. (May 2007). "Aerospace World: Red Flag Raptors". Air Force Magazine. Archived from the original on 1 May 2008. Retrieved 9 February 2008.
+^ Hopper, David (12 December 2007). "F-22s at Langley receive FOC status". U.S. Air Force. Archived from the original on 25 April 2016. Retrieved 1 November 2013.
+^ 2nd Lt. Schultz, Georganne E. (22 April 2007). "Langley earns "excellent" in ORI". 1st Fighter Wing. Archived from the original on 22 April 2019. Retrieved 9 May 2010.
+^ "Raptors Perform First Intercept of Russian Bombers." Archived 6 November 2018 at the Wayback Machine Air Force magazine, Daily Report, 14 December 2007. Retrieved 9 May 2010.
+^ "Russia denies violating British Air Space". Deccan Herald. Moscow. 26 March 2010. Archived from the original on 11 October 2021. Retrieved 11 October 2021.
+^ "12 F-22 Raptors deployed to Japan." Archived 29 March 2019 at the Wayback Machine Air recognition, 14 January 2013.
+^ Wastnage, Justin (14 February 2007). "Navigational software glitch forces Lockheed Martin F-22 Raptors back to Hawaii, abandoning first foreign deployment to Japan". FlightGlobal. Archived from the original on 16 May 2013. Retrieved 11 May 2012.
+^ Johnson, Maj. Dani (19 February 2007). "Raptors arrive at Kadena". US Air Force. Archived from the original on 26 June 2010.
+^ "US sends F-22 jets to join South Korea drills". Fox News. 1 April 2013. Archived from the original on 10 November 2013. Retrieved 31 October 2013.
+^ Mahadzir, Dzirhan (4 June 2014). "F-22s land in Malaysia for first Southeast Asian exercise". Jane's 360. Kuala Lumpur: IHS. Archived from the original on 15 June 2014. Retrieved 29 June 2014.
+^ Clark, Colin. "Gates Opposed AF Plans to Deploy F-22 to Iraq." Archived 4 October 2011 at the Wayback Machine DOD Buzz, 30 June 2008. Retrieved 31 August 2011.
+^ Butler, Amy (12 April 2012). "UAE-based F-22s a Signal to Iran". Aviation Week. Archived from the original on 15 July 2014. Retrieved 3 June 2014.
+^ Munoz, Carlos. "Reports: DOD deploys F-22 fighters near Iranian border". Archived 11 October 2014 at the Wayback Machine The Hill, 27 April 2012.
+^ Butler, Amy. "F-22s takes first shot against ground, not air target". Aviation week. Archived from the original on 10 April 2019. Retrieved 28 April 2019.
+^ Lara Seligman; Aaron Smith (23 May 2017). "Inside The Cockpit: Flying The F-22 Against Islamic State in Syria". Aviation Week & Space Technology. Archived from the original on 28 July 2018. Retrieved 28 April 2019.
+^ F-22 Raptor Ensures other War-Fighting Aircraft Survive Over Syria Archived 30 March 2019 at the Wayback Machine   Military.com, 21 July 2015
+^ F-22 adapts to OIR conflict,  Cleared Hot  in Iraq, Syria Archived 27 September 2015 at the Wayback Machine   AF.mil, 7 September 2015
+^ Starr, Barbara; Browne, Ryan. "Aerial close encounter between US, Syrian jets". CNN. Archived from the original on 11 April 2019. Retrieved 20 August 2016.
+^ Lockie, Alex (6 November 2018). "F-22 stealth jets got 587 aircraft to back off in their combat surge over Syria". Air Force Times. Archived from the original on 13 March 2023. Retrieved 13 March 2023.
+^ US-led coalition strikes kill pro-regime forces in Syria Archived 30 April 2018 at the Wayback Machine CNN, 8 February 2018.
+^ Pawlyk, Oriana (8 February 2018). "US Scrambles Firepower to Defend SDF Against Pro-Assad Forces". Military.com. Archived from the original on 30 March 2019. Retrieved 23 February 2018.
+^ News Transcript: Department Of Defense Press Briefing by Lieutenant General Harrigian via teleconference from Al Udeid Airbase, Qatar: Press Operations: Lieutenant General Jeffrey Harrigian, commander, U.S. Air Forces Central Command Archived 2 August 2018 at the Wayback Machine U.S. Department of Defense, 13 February 2018.
+^ F-22 Continuing Operations in Syria   Defensenews.com, 29 September 2014
+^ Schanz, Marc (28 September 2013). "Rapid Raptor Package". Air force mag. Air Force Association. Archived from the original on 29 September 2013. Retrieved 1 October 2013.
+^ Clark, Behak. "Hickam Airmen exercise Rapid Raptor in Guam." Archived 8 December 2014 at the Wayback Machine U.S. Air Force, 3 December 2014.
+^ "F-22s Arrive in Estonia". U.S. Air Force. Archived from the original on 28 September 2015.
+^ Nichols, Hans; Gains, Mosheh (20 November 2017). "U.S. bombs Afghan opium plants in new strategy to cut Taliban funds". NBC News. Archived from the original on 20 November 2017. Retrieved 20 November 2017.
+^ "How the US military's opium war in Afghanistan was lost". BBC. 25 April 2019. p. 1. Archived from the original on 26 April 2019. Retrieved 28 April 2019.
+^ "US shoots down Chinese 'spy' balloon over Atlantic". BBC News. 4 February 2023. Archived from the original on 11 February 2023. Retrieved 5 February 2023.
+^ Garamone, Jim (4 February 2023). "F-22 Safely Shoots Down Chinese Spy Balloon Off South Carolina Coast". United States Department of Defense. Archived from the original on 11 February 2023. Retrieved 7 February 2023.
+^ "US jet shoots down unknown object flying off Alaska coast". AP NEWS. 10 February 2023. Archived from the original on 11 February 2023. Retrieved 11 February 2023.
+^ Cox, Bob. "Despite investigation, safety concerns linger on F-22." Star Telegram, 25 August 2012.
+^ Sughrue, Karen (producer) and Lesley Stahl. "Is the Air Force's F-22 fighter jet making pilots sick?" Archived 21 November 2013 at the Wayback Machine 60 Minutes: CBC News, 6 May 2012. Retrieved 7 May 2012.
+^ Hoffman, Michael (1 August 2012), "Air Force Confident F-22 Oxygen Riddle Solved", Military, archived from the original on 30 March 2019, retrieved 28 April 2019
+^ Fabey, Michael. "USAF Still Reviewing Oxygen Concentration Levels For F-22 Cockpit." Archived 19 April 2013 at the Wayback Machine Aerospace Daily & Defense Report, 12 October 2012.
+^ Talmadge, Eric. "AP Impact: Air Force insiders foresaw F-22 woes." Associated Press, 27 September 2012.
+^ Axe, David (13 September 2012). "Stealth Fighter's Oxygen Woes Still A Mystery, Air Force Admits". Wired. Archived from the original on 3 December 2013. Retrieved 1 November 2013.
+^ a b "H.A.S.C. No. 112-154, F-22 pilot physiological issues." Archived 25 September 2018 at the Wayback Machine  GPO. Retrieved 16 August 2013.
+^ Mowry, Laura (17 April 2013). "Edwards Airmen vital to Raptor's return". U.S. Air Force. Archived from the original on 3 June 2013. Retrieved 18 April 2013.
+^ a b Pace 1999, p. 28.
+^ Tirpak, John A. "Long Arm of the Air Force." Archived 7 July 2011 at the Wayback Machine Air Force magazine, October 2002. Retrieved 31 August 2011.
+^ Bolkcom, Christopher. "Air Force FB-22 Bomber Concept." Archived 9 July 2017 at the Wayback Machine Digital.library.unt.edu. Retrieved 28 August 2011.
+^ "Quadrennial Defense Review Report" Archived 28 October 2012 at the Wayback Machine. US Department of Defense, 6 February 2006. Retrieved 28 August 2011.
+^ Hebert, Adam J. "The 2018 Bomber and Its Friends." Archived 23 September 2009 at the Wayback Machine Air Force magazine, October 2006. Retrieved 31 August 2011.
+^ Jenkins, Dennis R., Tony Landis and Jay Miller. "Monographs in Aerospace History, No. 31: American X-Vehicles: An Inventory, X-1 to X-50." Archived 17 November 2008 at the Wayback Machine NASA, June 2003. Retrieved 13 June 2010.
+^ "X-Planes Explained". Archived from the original on 15 October 2007. Retrieved 1 June 2016. NASAExplores.com, 9 October 2003. Retrieved 23 July 2009.
+^ "Lockheed Pitching F-22/F-35 Hybrid to U.S. Air Force". Defense One. 30 August 2018. Archived from the original on 3 September 2018. Retrieved 3 September 2018.
+^ "Air Force not considering new F-15 or hybrid F-22/F-35, top civilian says". DefenseNews. 12 September 2018. Archived from the original on 13 March 2023. Retrieved 21 February 2019.
+^ "Defense Ministry to develop own fighter jet to succeed F-2, may seek int'l project". Mainichi Shimbun. 4 October 2018. Archived from the original on 25 April 2019. Retrieved 28 April 2019.
+^ "F-22 Raptor". af.mil. United States Air Force. August 2022. Archived from the original on 1 September 2022. Retrieved 1 September 2022.
+^ DeMayo, Airman 1st Class Chase S. "Langley receives last Raptor, completes fleet."Archived 25 April 2016 at the Wayback Machine U.S. Air Force, 19 January 2007.
+^ Canfield, Tech. Sgt. Mikal (8 August 2007). "Elmendorf welcomes F-22 Raptor". U.S. Air Force. Archived from the original on 25 April 2016. Retrieved 11 April 2016.
+^ "Air Force eyes Langley-Eustis as new F-22 training home". Air Force Times. 27 March 2019. Archived from the original on 13 March 2023. Retrieved 2 April 2020.
+^ Home page of the 477th Fighter Group (af.mil)[full citation needed]
+^ Mount, Mike. "Nevada crash grounds F-22 fighters." Archived 24 January 2012 at the Wayback Machine CNN, 22 December 2004. Retrieved 28 August 2011.
+^ USAF AIB Report Executive Summary on 20 December 2004 F-22A mishap (PDF) (Report). Archived from the original (PDF) on 16 February 2013.
+^ "Raptors cleared to fly again." af.mil, 6 January 2005. Archived from original.
+^ "F-22 Crash Linked To G-Forces". The Washington Post. 5 August 2009. p. 2.
+^ USAF AIB Report on 25 March 2009 F-22A mishap (PDF) (Report). Archived from the original (PDF) on 31 March 2019. Retrieved 31 May 2014.
+^ Fontaine, Scott and Dave Majumdar. "Air Force grounds entire F-22 fleet." Military Times, 5 May 2011.
+^ USAF AIB Report on 16 November 2010 F-22A mishap (PDF) (Report). Archived from the original (PDF) on 14 July 2014. Retrieved 1 July 2014.
+^ Bouboushian, Jack (12 March 2012). "Pilot's Widow Calls F-22 Raptor Defective". Courthouse News Service. Archived from the original on 30 April 2012.
+^ Majumdar, Dave (13 August 2012). "Settlement reached in Haney F-22 crash lawsuit". FlightGlobal. Archived from the original on 24 October 2013. Retrieved 30 October 2013.
+^ "Fatal crash leads to change in F-22's backup oxygen system". Los Angeles Times. 20 March 2012. p. B1. Archived from the original on 13 March 2023. Retrieved 13 November 2020   via Newspapers.com.
+^ "Installation of backup oxygen system in F-22 combat fleet continues". U.S. Air Force. 10 April 2014. Archived from the original on 8 August 2022. Retrieved 13 March 2023.
+^ DoD IG report on 16 November 2010 F-22A mishap AIB report (Report). Archived from the original on 15 February 2013. Retrieved 11 February 2013.
+^ "Safety paramount as F-22 investigation continues (press release)". U.S. Air Force. 16 November 2012. Archived from the original on 15 December 2013. Retrieved 16 November 2013.
+^ Everstine, Brian (9 August 2013). "Air Force: Faulty wire brought down F-22". Air Force Times. Archived from the original on 10 August 2013. Retrieved 16 August 2013.
+^ Thompson, Jim (28 July 2021). "A $201M maintenance error: Air Force releases cause of F-22 crash at Eglin AFB in 2020". Northwest Florida Daily News Herald. Archived from the original on 31 July 2021. Retrieved 31 July 2021.
+^ "Hill Aerospace Museum Receives a Raptor". U.S. Air Force. 21 December 2022. Archived from the original on 28 December 2022. Retrieved 28 December 2022.
+^ "Museum adds the world's first stealthy air dominance fighter to collection". National Museum of the U.S. Air Force (Press release). Archived from the original on 30 March 2008. Retrieved 23 July 2009.
+^ "F-22 Raptor Specifications". Lockheed Martin. Archived from the original on 3 June 2012. Retrieved 21 April 2012.
+^ "F-22 Technical Specs." Boeing. Retrieved 16 October 2011.
+^ "F-22 Combat Radius". Archived from the original on 5 November 2016. Retrieved 7 June 2016.
+^ Bill Sweetman (3 November 2014). J-20 Stealth Fighter Design Balances Speed And Agility. Aviation Week & Space Technology. Archived from the original on 5 November 2014. Retrieved 8 November 2014.
+^ AIR International, July 2015, p. 63.
+^ Miller 2005, pp. 94 100.
+^ Wild, Lee. "US quick to return for Chemring's flares." Archived 16 July 2011 at the Wayback Machine Share cast, 26 March 2010. Retrieved 26 September 2010.
+Bibliography[edit]
+Aronstein, David C. and Michael J. Hirschberg. Advanced Tactical Fighter to F-22 Raptor: Origins of the 21st Century Air Dominance Fighter. Arlington, Virginia: American Institute of Aeronautics & Astronautics, 1998. ISBN 978-1-56347-282-4.
+Goodall, James C (1992). "The Lockheed YF-22 and Northrop YF-23 Advanced Tactical Fighters". America's Stealth Fighters and Bombers: B-2, F-117, YF-22 and YF-23. St. Paul, Minnesota: Motorbooks International. ISBN 0-87938-609-6.
+Jenkins, Dennis R., and Tony R. Landis. Experimental & Prototype U.S. Air Force Jet Fighters. North Branch, Minnesota: Specialty Press, 2008. ISBN 978-1-58007-111-6.
+Miller, Jay. Lockheed Martin F/A-22 Raptor, Stealth Fighter. Hinckley, UK: Midland Publishing, 2005. ISBN 1-85780-158-X.
+Pace, Steve. F-22 Raptor: America's Next Lethal War Machine. New York: McGraw-Hill, 1999. ISBN 0-07-134271-0.
+Polmar, Norman. The Naval Institute Guide to the Ships and Aircraft of the U.S. Fleet. Annapolis, Maryland: Naval Institute Press, 2005. ISBN 978-1-59114-685-8
+Sweetman, Bill. "Fighter EW: The Next Generation". Journal of Electronic Defense, Volume 23, Issue 7, July 2000.
+Williams, Mel, ed. (2002). "Lockheed Martin F-22A Raptor". Superfighters: The Next Generation of Combat Aircraft. London: AIRtime Publishing. ISBN 1-880588-53-6.
+Further reading[edit]
+Holder, Bill, and Mike Wallace. Lockheed-Martin F-22 Raptor: An Illustrated History (Schiffer Military/Aviation History). Atglen, Pennsylvania: Schiffer Publishing, 1998. ISBN 978-0-76430-558-0.
+External links[edit]
+Wikimedia Commons has media related to:
+Lockheed Martin F-22 Raptor (category)
+Official website
+F-22 Demo at 2007 Capital Airshow in Sacramento   with narrative by F-22 pilot Paul "Max" Moga
+vteLockheed and Lockheed Martin aircraft and spacecraftTransportsConstellation family
+Constellation
+L-049
+L-649
+L-749
+L-1049
+L-1249
+L-1649 Starliner
+C-69
+C-121
+EC-121
+R6V
+XB-30
+Hercules family
+C-130
+C-130J
+AC-130
+DC-130
+HC-130
+EC-130
+EC-130H
+KC-130
+LC-130
+MC-130
+WC-130
+L-100
+Model 10 Electra family
+Model 10
+Electra Junior
+Lodestar
+Hudson
+Super Electra
+Ventura
+L-188 Electra family
+L-188
+P-3
+EP-3
+CP-140
+P-7
+Other types
+Air Express
+Altair
+C-5
+C-141
+Excalibur
+JetStar
+L-1011
+L-2000
+Orion
+Saturn
+Sirius
+TriStar
+RAF
+Vega
+Vega Starliner
+Fighter-bombersLightning family
+P-38
+XP-49
+XP-58
+Shooting Star family
+F-80
+F-94
+T-33
+T2V
+Starfighter family
+XF-104
+F-104
+NF-104A
+CL-288
+CL-1200
+Raptor family
+YF-22
+F-22
+FB-22
+X-44 MANTA
+Other types
+A-4AR
+A-9
+F-16
+F-21
+F-35
+F-117
+XFM-2
+XF-90
+YP-24
+ReconnaissanceBlackbird family
+A-12
+SR-71 Blackbird
+YF-12
+M-21
+D-21
+Maritime patrol
+P-2 Neptune
+S-3 Viking
+Other manned
+CL-400
+U-2
+YO-3 Quiet Star
+TR-X
+Other UAVs
+Aequare
+AQM-60
+Cormorant (UAV)
+Desert Hawk
+Desert Hawk III
+Fury
+MQM-105
+Polecat
+RQ-3
+RQ-170
+SR-72
+X-44 (UAV)
+Trainers
+T-33
+T2V
+T-50A
+Helicopters
+CL-475
+XH-51
+AH-56 Cheyenne
+VH-71 Kestrel
+VH-92 Patriot
+Experimental
+Have Blue
+L-133
+L-301
+Senior Peg
+Senior Prom
+Star Clipper
+XC-35
+X-7
+X-17
+X-24C
+X-26B
+X-33
+X-35
+X-55
+X-56
+X-59
+XFV
+XV-4
+Light aircraft
+Big Dipper
+Explorer
+L-402
+Little Dipper
+Missiles
+Agena
+High Virgo
+Perseus
+Ping-Pong
+Polaris
+Poseidon
+Trident I
+Trident II
+Engines
+J37/T35
+Modelnumbers
+1
+2
+3
+4
+5
+61
+7
+8
+A/D
+9
+10
+11
+12
+131
+14
+15
+16
+171
+18
+19
+20
+21
+22
+23
+24
+251
+26
+27
+281
+29
+30
+31
+32
+33
+34
+35
+361
+37
+381
+391
+40
+41
+42
+44
+45
+49
+50
+51
+52
+60
+61
+62
+75
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+99
+100
+104
+105
+122
+129
+133
+136
+137
+140
+141
+144
+149
+170
+171
+182
+185
+186
+188
+189
+193
+199
+200
+204
+206
+207
+210
+212
+222
+244
+245
+246
+249
+282 (I)
+282 (II)
+285
+286
+288
+293
+295
+296
+298
+300
+301
+320
+322
+325
+329
+330
+331
+346
+349
+351
+379
+380
+382
+389
+400 (I)
+400 (II)
+402
+407
+414
+422
+437
+449
+475
+480
+489
+500
+520
+522
+549
+580
+595
+622
+645
+649
+680
+685
+704
+749
+760
+780
+785
+822
+823
+840
+849
+880
+901
+915
+934
+949
+977
+980
+981
+984
+985
+995
+1000
+1010
+1011
+1020
+1026
+1049
+A
+1060
+1080
+1090
+1132
+1149
+1195
+1200
+1201
+1235
+1236
+1237
+1249
+1329
+1400
+1449
+1549
+1600
+1649
+1700
+1800
+1980
+2000
+2329
+Vega
+1
+2
+31
+41
+5
+6
+7 101
+11
+12 141
+15
+161
+17
+18
+191
+201
+21
+22
+23
+24
+251
+26
+27 321
+33
+34
+35
+361
+37
+381
+391
+40
+41
+42
+43
+1 Not assigned
+vteBoeing military aircraftFighters/attack aircraft:
+PW-9/FB
+F2B
+F3B
+F4B
+F5B
+XF6B
+XF7B
+XF8B
+XP-4
+XP-7
+XP-8
+XP-9
+P-12
+XP-15
+P-26
+P-29
+XP-32
+818
+F-15E
+YF-22
+F-22
+AV-8B
+F/A-18E/F
+EA-18G
+Bombers
+YB-9
+XB-15
+B-17
+Y1B-20
+B-29
+XB-38
+XB-39
+YB-40
+XB-44
+B-47
+B-50
+B-52
+B-54
+XB-55
+XB-56
+XB-59
+B-1
+Piston-engined transports
+C-73
+C-75
+C-97
+C-98
+C-108
+Jet transports
+C-135
+C-137
+CC-137
+YC-14
+C-17
+C-22
+VC-25
+C-32
+C-40
+CT-43
+Tanker-transports
+KB-29
+KB-50
+KC-97
+KC-135
+KC-137
+KC-10
+KC-46
+KC-767
+Trainers
+PT-13
+PT-17
+PT-18
+PT-27
+XAT-15
+T-43
+T-45
+T-7
+Patrol and surveillance
+XPB
+XPBB
+XP3B
+P-8
+EC-135
+EC-18
+E-3
+E-4
+E-6
+E-8
+E-10
+E-767
+737 AEW&C
+Reconnaissance
+NC-135
+OC-135B
+RC-135
+WC-135
+Drones/UAVs
+YQM-94
+CQM-121
+MQ-18
+RQ-21
+MQ-25
+MQ-27
+MQ-28
+X-50
+Experimental/prototypes
+AFTI/F-111A
+Bird of Prey
+Phantom Eye
+Phantom Ray
+Skyfox
+X-20
+X-32
+X-36
+X-37
+X-40
+X-45
+X-48
+X-50
+X-51
+X-53
+YAL-1
+vteUSAAS/USAAC/USAAF/USAF fighter designations 1924 1962, and Tri-Service post-1962 systems1924 sequences(1924 1962)Pursuit (1924 1948)
+P-1
+P-2
+P-3
+P-43
+Curtiss P-4
+Boeing P-4
+P-5
+P-6
+P-7
+P-8
+P-9
+P-10
+P-11
+P-12
+P-13
+P-14
+P-15
+P-16
+P-17
+P-18
+P-19
+P-20
+P-21
+P-22
+P-23
+P-24
+P-25
+P-26
+P-27
+P-28
+P-29
+P-30
+P-31
+P-32
+P-33
+P-34
+P-35
+P-36
+P-37
+P-38
+P-39
+E
+P-40
+P-41
+P-42
+P-43
+P-44
+P-45
+P-46
+P-47
+P-48
+P-49
+P-50
+P-51
+P-52
+P-53
+P-54
+P-55
+P-56
+P-57
+P-58
+P-593
+XP-59
+P-59
+P-60
+P-61
+P-62
+P-63
+P-64
+P-65
+P-66
+P-67
+P-68
+P-69
+P-70
+P-71
+P-72
+P-732
+P-741
+P-75
+P-76
+P-77
+P-78
+P-79
+P-80
+P-81
+P-82
+P-83
+P-84
+P-85
+P-86
+P-87
+P-88
+P-89
+P-90
+P-91
+P-92
+Fighter (1948 1962)
+F-38
+F-39
+F-40
+F-47
+F-51
+F-59
+F-61
+RF-61C
+F-63
+F-80
+F-81
+F-82
+F-83
+F-84
+F/J
+H
+F-85
+F-86
+C
+D/G/K/L
+F-87
+F-88
+F-89
+F-90
+F-91
+F-92
+F-93
+F-94
+F-95
+F-96
+F-97
+F-98
+F-99
+F-100
+B
+F-101
+F-102
+B
+F-103
+F-104
+S
+XF-104
+NF-104A
+F-105
+F-1063
+XF-106
+F-106
+F-107
+F-108
+F-1092
+F-110
+F-111
+B
+C
+K
+AFTI
+EF-111A
+Pursuit, Biplace
+PB-1
+PB-2
+PB-3
+Fighter, Multiplace
+FM-1
+FM-2
+Non-sequential
+F-24
+P-322
+P-400
+Tri-service sequence(1962 present)Main sequence
+F-1
+C/D
+E/F
+F-2
+F-3
+F-4
+K/M
+F-5
+G
+F-6
+F-7
+F-8
+F-9
+F/G/H/J
+F-10
+F-11
+F-12
+C2
+F-131
+F-14
+F-15
+E
+J
+STOL/MTD
+F-16
+XL
+VISTA
+F-17
+F-18
+E/F
+G
+F-191
+F-20
+F-21
+F-22
+YF-22
+FB-22
+F-23
+Non-sequential
+F-35
+I
+X-35
+F-117
+Covert designations
+YF-110
+B/D
+C
+YF-113 (I)
+A
+YF-113 (II)
+B/D
+YF-113 (III)
+C
+YF-114
+C/D
+YF-117
+A
+D
+YF-118
+Related designations
+FV-12
+1 Not assigned    2 Unofficial    3 Assigned to multiple typesSee also: "F-19"    1919-1924 sequence
+vteStealth aircraftStealth technologyUnited StatesAttack aircraft
+Lockheed F-117 Nighthawk
+Bomber
+Northrop Grumman B-2 Spirit
+Northrop Grumman B-21 Raider
+Next-Generation Bomber
+Experimental aircraft
+Boeing Model 853 Quiet Bird
+Lockheed Have Blue
+Northrop Tacit Blue
+Boeing Bird of Prey
+Boeing X-32
+Lockheed Martin X-35
+Lockheed Martin X-44 MANTA
+Boeing X-45
+Northrop Grumman X-47B
+Lockheed YF-22
+Northrop YF-23
+Fighter aircraft
+Lockheed Martin F-22 Raptor
+Lockheed Martin F-35 Lightning II
+Next Generation Air Dominance
+F/A-XX program
+UAV
+General Atomics MQ-20 Avenger
+Boeing MQ-25 Stingray
+Boeing MQ-28 Ghost Bat
+Boeing Phantom Ray
+Lockheed Martin Sea Ghost
+Lockheed Martin RQ-170 Sentinel
+Northrop Grumman RQ-180
+Kratos XQ-58 Valkyrie
+ChinaFighter aircraft
+Chengdu J-20
+Shenyang FC-31
+Bomber
+Xian H-20
+UAV
+Hongdu GJ-11
+AVIC Dark Sword
+CAIG Wing Loong-10
+CASC Rainbow-7
+CASIC Tianying
+FL-71
+RussiaExperimental aircraft
+Yakovlev Yak-43
+Sukhoi Su-47
+Mikoyan Project 1.44
+Fighter aircraft
+Mikoyan LMFS
+Mikoyan PAK DP
+Sukhoi Su-57
+Sukhoi Su-75 Checkmate
+Sukhoi/HAL FGFA
+Bomber
+Tupolev PAK DA
+UAV
+Mikoyan Skat
+Sukhoi S-70 Okhotnik-B
+United KingdomExperimental aircraft
+BAE Systems Replica
+Fighter aircraft
+Global Combat Air Programme
+UAV
+BAE Systems Taranis
+JapanExperimental aircraft
+Mitsubishi X-2 Shinshin
+Fighter aircraft
+Global Combat Air Programme
+ItalyFighter aircraft
+Global Combat Air Programme
+IndiaFighter aircraft
+HAL AMCA
+Sukhoi/HAL FGFA
+UAV
+DRDO Ghatak
+FranceFighter aircraft
+Future Combat Air System
+UAV
+Dassault nEUROn
+GermanyExperimental aircraftMBB LampyridaeFighter aircraft
+Future Combat Air System
+UAV
+EADS Barracuda
+SwedenFighter aircraft
+Flygsystem 2020
+TurkeyFighter aircraft
+TAI TF-X
+UAV
+Bayraktar K z lelma
+IranFighter aircraft
+IAIO Qaher-313
+HESA Shafaq 
+South KoreaFighter aircraft
+KAI KF-21 Boramae
+Northrop N-9M (United States) and Horten Ho 229 (Nazi Germany) are the first propeller-powered and jet-powered flying wing-stealth aircraft in the world, respectively.
+Authority control: National 
+Germany
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Lockheed_Martin_F-22_Raptor&oldid=1149567341"

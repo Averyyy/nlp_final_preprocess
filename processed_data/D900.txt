@@ -1,0 +1,643 @@
+Mechanism for regulating the speed of clocks
+This article is about the weight suspended from a pivot. For the band, see Pendulum (Australian band). For other uses, see Pendulum (disambiguation).
+ "Simple gravity pendulum" model assumes no friction or air resistance.
+A pendulum is a weight suspended from a pivot so that it can swing freely.[1] When a pendulum is displaced sideways from its resting, equilibrium position, it is subject to a restoring force due to gravity that will accelerate it back toward the equilibrium position. When released, the restoring force acting on the pendulum's mass causes it to oscillate about the equilibrium position, swinging back and forth. The time for one complete cycle, a left swing and a right swing, is called the period. The period depends on the length of the pendulum and also to a slight degree on the amplitude, the width of the pendulum's swing.
+The regular motion of pendulums was used for timekeeping and was the world's most accurate timekeeping technology until the 1930s.[2] The pendulum clock invented by Christiaan Huygens in 1656 became the world's standard timekeeper, used in homes and offices for 270 years, and achieved accuracy of about one second per year before it was superseded as a time standard by the quartz clock in the 1930s.  Pendulums are also used in scientific instruments such as accelerometers and seismometers. Historically they were used as gravimeters to measure the acceleration of gravity in geo-physical surveys, and even as a standard of length. The word pendulum is new Latin, from the Latin pendulus, meaning hanging.[3]
+Simple gravity pendulum[edit]
+The simple gravity pendulum[4] is an idealized mathematical model of a pendulum.[5][6][7] This is a weight (or bob) on the end of a massless cord suspended from a pivot, without friction. When given an initial push, it will swing back and forth at a constant amplitude. Real pendulums are subject to friction and air drag, so the amplitude of their swings declines.
+PendulumAnimation of a pendulum showing forces acting on the bob: the tension T in the rod and the gravitational force mg.Animation of a pendulum showing the velocity and acceleration vectors.
+Period of oscillation[edit]
+The period of a pendulum gets longer as the amplitude  0 (width of swing) increases.
+Main article: Pendulum (mechanics)
+The period of swing of a simple gravity pendulum depends on its length, the local strength of gravity, and to a small extent on the maximum angle that the pendulum swings away from vertical,  0, called the amplitude.[8]  It is independent of the mass of the bob.  If the amplitude is limited to small swings,[Note 1]  the period T of a simple pendulum, the time taken for a complete cycle, is:[9]
+T
+ 
+2
+ 
+L
+g
+ 
+0
+ 
+1
+ radian
+{\displaystyle T\approx 2\pi {\sqrt {\frac {L}{g}}}\qquad \qquad \qquad \theta _{0}\ll 1{\text{ radian}}}
+ 
+ 
+ 
+ 
+(1)
+where 
+L
+{\displaystyle L}
+ is the length of the pendulum and 
+g
+{\displaystyle g}
+ is the local acceleration of gravity.
+For small swings the period of swing is approximately the same for different size swings: that is, the period is independent of amplitude. This property, called isochronism, is the reason pendulums are so useful for timekeeping.[10]  Successive swings of the pendulum, even if changing in amplitude, take the same amount of time.
+For larger amplitudes, the period increases gradually with amplitude so it is longer than given by equation (1). For example, at an amplitude of  0 = 0.4 radians (23 ) it is 1% larger than given by (1). The period increases asymptotically (to infinity) as  0 approaches   radians (180 ), because the value  0 =   is an unstable equilibrium point for the pendulum. The true period of an ideal simple gravity pendulum can be written in several different forms (see pendulum (mathematics)), one example being the infinite series:[11][12]
+T
+=
+2
+ 
+L
+g
+[
+ 
+n
+=
+0
+ 
+(
+(
+2
+n
+)
+!
+2
+2
+n
+(
+n
+!
+)
+2
+)
+2
+sin
+2
+n
+ 
+(
+ 
+0
+2
+)
+]
+=
+2
+ 
+L
+g
+(
+1
++
+1
+16
+ 
+0
+2
++
+11
+3072
+ 
+0
+4
++
+ 
+)
+{\displaystyle T=2\pi {\sqrt {\frac {L}{g}}}\left[\sum _{n=0}^{\infty }\left({\frac {\left(2n\right)!}{2^{2n}\left(n!\right)^{2}}}\right)^{2}\sin ^{2n}\left({\frac {\theta _{0}}{2}}\right)\right]=2\pi {\sqrt {\frac {L}{g}}}\left(1+{\frac {1}{16}}\theta _{0}^{2}+{\frac {11}{3072}}\theta _{0}^{4}+\cdots \right)}
+where 
+ 
+0
+{\displaystyle \theta _{0}}
+ is in radians.
+The difference between this true period and the period for small swings (1) above is called the circular error. In the case of a typical grandfather clock whose pendulum has a swing of 6  and thus an amplitude of 3  (0.05 radians), the difference between the true period and the small angle approximation (1) amounts to about 15 seconds per day.
+For small swings the pendulum approximates a harmonic oscillator, and its motion as a function of time, t, is approximately simple harmonic motion:[5]
+ 
+(
+t
+)
+=
+ 
+0
+cos
+ 
+(
+2
+ 
+T
+t
++
+ 
+)
+{\displaystyle \theta (t)=\theta _{0}\cos \left({\frac {2\pi }{T}}\,t+\varphi \right)}
+where 
+ 
+{\displaystyle \varphi }
+ is a constant value, dependent on initial conditions.
+For real pendulums, the period varies slightly with factors such as the buoyancy and viscous resistance of the air, the mass of the string or rod, the size and shape of the bob and how it is attached to the string, and flexibility and stretching of the string.[11][13]  In precision applications, corrections for these factors may need to be applied to eq. (1) to give the period accurately.
+Compound pendulum[edit]
+Any swinging rigid body free to rotate about a fixed horizontal axis is called a compound pendulum or physical pendulum. The appropriate equivalent length 
+L
+eq
+{\displaystyle L_{\text{eq}}}
+ for calculating the period of any such pendulum is the distance from the pivot to the center of oscillation.[14] This point is located under the center of mass at a distance from the pivot traditionally called the radius of oscillation, which depends on the mass distribution of the pendulum. If most of the mass is concentrated in a relatively small bob compared to the pendulum length, the center of oscillation is close to the center of mass.[15]
+The radius of oscillation or equivalent length 
+L
+eq
+{\displaystyle L_{\text{eq}}}
+ of any physical pendulum can be shown to be
+L
+eq
+=
+I
+m
+R
+{\displaystyle L_{\text{eq}}={\frac {I}{mR}}}
+where 
+I
+{\displaystyle I}
+ is the moment of inertia of the pendulum about the pivot point, 
+m
+{\displaystyle m}
+ is the mass of the pendulum, and 
+R
+{\displaystyle R}
+ is the distance between the pivot point and the center of mass.
+Substituting this expression in (1) above, the period 
+T
+{\displaystyle T}
+ of a compound pendulum is given by
+T
+=
+2
+ 
+I
+m
+g
+R
+{\displaystyle T=2\pi {\sqrt {\frac {I}{mgR}}}}
+for sufficiently small oscillations.[16]
+For example, a rigid uniform rod of length 
+L
+{\displaystyle L}
+ pivoted about one end has moment of inertia 
+I
+=
+1
+3
+m
+L
+2
+{\textstyle I={\frac {1}{3}}mL^{2}}
+. The center of mass is located at the center of the rod, so 
+R
+=
+1
+2
+L
+{\textstyle R={\frac {1}{2}}L}
+ Substituting these values into the above equation gives 
+T
+=
+2
+ 
+2
+L
+/
+3
+g
+{\textstyle T=2\pi {\sqrt {2L/3g}}}
+. This shows that a rigid rod pendulum has the same period as a simple pendulum of 2/3 its length.
+Christiaan Huygens proved in 1673 that the pivot point and the center of oscillation are interchangeable.[17]  This means if any pendulum is turned upside down and swung from a pivot located at its previous center of oscillation, it will have the same period as before and the new center of oscillation will be at the old pivot point. In 1817 Henry Kater used this idea to produce a type of reversible pendulum, now known as a Kater pendulum, for improved measurements of the acceleration due to gravity.
+History[edit]
+ Replica of Zhang Heng's seismometer. The pendulum is contained inside.
+One of the earliest known uses of a pendulum was a 1st-century seismometer device of Han Dynasty Chinese scientist Zhang Heng.[18] Its function was to sway and activate one of a series of levers after being disturbed by the tremor of an earthquake far away.[19]  Released by a lever, a small ball would fall out of the urn-shaped device into one of eight metal toads' mouths below, at the eight points of the compass, signifying the direction the earthquake was located.[19]
+Many sources[20][21][22][23] claim that the 10th-century Egyptian astronomer Ibn Yunus used a pendulum for time measurement, but this was an error that originated in 1684 with the British historian Edward Bernard.[24][25][26][27]
+During the Renaissance, large hand-pumped pendulums were used as sources of power for manual reciprocating machines such as saws, bellows, and pumps.[28] Leonardo da Vinci made many drawings of the motion of pendulums, though without realizing its value for timekeeping.
+1602: Galileo's research[edit]
+Italian scientist Galileo Galilei was the first to study the properties of pendulums, beginning around 1602.[29] The earliest extant report of his research is contained in a letter to Guido Ubaldo dal Monte, from Padua, dated November 29, 1602.[30] His biographer and student, Vincenzo Viviani, claimed his interest had been sparked around 1582 by the swinging motion of a chandelier in Pisa Cathedral.[31][32] Galileo discovered the crucial property that makes pendulums useful as timekeepers, called isochronism; the period of the pendulum is approximately independent of the amplitude or width of the swing.[33] He also found that the period is independent of the mass of the bob, and proportional to the square root of the length of the pendulum. He first employed freeswinging pendulums in simple timing applications. Santorio Santori in 1602 invented a device which measured a patient's pulse by the length of a pendulum; the pulsilogium.[34] In 1641 Galileo dictated to his son Vincenzo a design for a pendulum clock;[33] Vincenzo began construction, but had not completed it when he died in 1649.[35]
+1656: The pendulum clock[edit]
+The first pendulum clock
+In 1656 the Dutch scientist Christiaan Huygens built the first pendulum clock.[36]  This was a great improvement over existing mechanical clocks; their best accuracy was improved from around 15 minutes deviation a day to around 15 seconds a day.[37]  Pendulums spread over Europe as existing clocks were retrofitted with them.[38]
+The English scientist Robert Hooke studied the conical pendulum around 1666, consisting of a pendulum that is free to swing in two dimensions, with the bob rotating in a circle or ellipse.[39]  He used the motions of this device as a model to analyze the orbital motions of the planets.[40] Hooke suggested to Isaac Newton in 1679 that the components of orbital motion consisted of inertial motion along a tangent direction plus an attractive motion in the radial direction. This played a part in Newton's formulation of the law of universal gravitation.[41][42] Robert Hooke was also responsible for suggesting as early as 1666 that the pendulum could be used to measure the force of gravity.[39]
+During his expedition to Cayenne, French Guiana in 1671, Jean Richer found that a pendulum clock was 2+1 2 minutes per day slower at Cayenne than at Paris. From this he deduced that the force of gravity was lower at Cayenne.[43][44]  In 1687, Isaac Newton in Principia Mathematica showed that this was because the Earth was not a true sphere but slightly oblate (flattened at the poles) from the effect of centrifugal force due to its rotation, causing gravity to increase with latitude.[45]  Portable pendulums began to be taken on voyages to distant lands, as precision gravimeters to measure the acceleration of gravity at different points on Earth, eventually resulting in accurate models of the shape of the Earth.[46]
+1673: Huygens' Horologium Oscillatorium[edit]
+In 1673, 17 years after he invented the pendulum clock, Christiaan Huygens published his theory of the pendulum, Horologium Oscillatorium sive de motu pendulorum.[47][48] Marin Mersenne and Ren  Descartes had discovered around 1636 that the pendulum was not quite isochronous; its period increased somewhat with its amplitude.[49]  Huygens analyzed this problem by determining what curve an object must follow to descend by gravity to the same point in the same time interval, regardless of starting point; the so-called tautochrone curve. By a complicated method that was an early use of calculus, he showed this curve was a cycloid, rather than the circular arc of a pendulum,[50] confirming that the pendulum was not isochronous and Galileo's observation of isochronism was accurate only for small swings.[51]  Huygens also solved the problem of how to calculate the period of an arbitrarily shaped pendulum (called a compound pendulum), discovering the center of oscillation, and its interchangeability with the pivot point.[52]
+The existing clock movement, the verge escapement, made pendulums swing in very wide arcs of about 100 .[53] Huygens showed this was a source of inaccuracy, causing the period to vary with amplitude changes caused by small unavoidable variations in the clock's drive force.[54]  To make its period isochronous, Huygens mounted cycloidal-shaped metal guides next to the pivots in his clocks, that constrained the suspension cord and forced the pendulum to follow a cycloid arc (see cycloidal pendulum).[55]  This solution didn't prove as practical as simply limiting the pendulum's swing to small angles of a few degrees. The realization that only small swings were isochronous  motivated the development of the anchor escapement around 1670, which reduced the pendulum swing in clocks to 4 6 .[53][56] This became the standard escapement used in pendulum clocks.
+1721: Temperature compensated pendulums[edit]
+ The Foucault pendulum in 1851 was the first demonstration of the Earth's rotation that did not involve celestial observations, and it created a "pendulum mania". In this animation the rate of precession is greatly exaggerated.
+During the 18th and 19th century, the pendulum clock's role as the most accurate timekeeper motivated much practical research into improving pendulums. It was found that a major source of error was that the pendulum rod expanded and contracted with changes in ambient temperature, changing the period of swing.[8][57]  This was solved with the invention of temperature compensated pendulums, the mercury pendulum in 1721[58] and the gridiron pendulum in 1726, reducing errors in precision pendulum clocks to a few seconds per week.[55]
+The accuracy of gravity measurements made with pendulums was limited by the difficulty of finding the location of their center of oscillation. Huygens had discovered in 1673 that a pendulum has the same period when hung from its center of oscillation as when hung from its pivot,[17] and the distance between the two points was equal to the length of a simple gravity pendulum of the same period.[14]  In 1818 British Captain Henry Kater invented the reversible Kater's pendulum[59] which used this principle, making possible very accurate measurements of gravity. For the next century the reversible pendulum was the standard method of measuring absolute gravitational acceleration.
+1851: Foucault pendulum[edit]
+Main article: Foucault pendulum
+In 1851, Jean Bernard L on Foucault showed that the plane of oscillation of a pendulum, like a gyroscope, tends to stay constant regardless of the motion of the pivot, and that this could be used to demonstrate the  rotation of the Earth. He suspended a pendulum free to swing in two dimensions (later named the Foucault pendulum) from the dome of the Panth on in Paris. The length of the cord was 67 m (220 ft). Once the pendulum was set in motion, the plane of swing was observed to precess or rotate 360  clockwise in about 32 hours.[60]
+This was the first demonstration of the Earth's rotation that didn't depend on celestial observations,[61] and a "pendulum mania" broke out, as Foucault pendulums were displayed in many cities and attracted large crowds.[62][63]
+1930: Decline in use[edit]
+Around 1900 low-thermal-expansion materials began to be used for pendulum rods in the highest precision clocks and other instruments, first invar, a nickel steel alloy, and later fused quartz, which made temperature compensation trivial.[64]  Precision pendulums were housed in low pressure tanks, which kept the air pressure constant to prevent changes in the period due to changes in buoyancy of the pendulum due to changing atmospheric pressure.[64]  The best pendulum clocks achieved accuracy of around a second per year.[65][66]
+The timekeeping accuracy of the pendulum was exceeded by the quartz crystal oscillator, invented in 1921, and quartz clocks, invented in 1927, replaced pendulum clocks as the world's best timekeepers.[2]  Pendulum clocks were used as time standards until World War 2, although the French Time Service continued using them in their official time standard ensemble until 1954.[67]  Pendulum gravimeters were superseded by "free fall" gravimeters in the 1950s,[68] but pendulum instruments continued to be used into the 1970s.
+Use for time measurement[edit]
+For 300 years, from its discovery around 1582 until development of the quartz clock in the 1930s, the pendulum was the world's standard for accurate timekeeping.[2][69]  In addition to clock pendulums, freeswinging seconds pendulums were widely used as precision timers in scientific experiments in the 17th and 18th centuries. Pendulums require great mechanical stability: a length change of only 0.02%, 0.2 mm in a grandfather clock pendulum, will cause an error of a minute per week.[70]
+Clock pendulumsLongcase clock  (Grandfather clock) pendulumOrnamented pendulum in a French Comtoise clockMercury pendulumGridiron pendulumEllicott pendulum, another temperature compensated typeInvar pendulum in low pressure tank in Riefler regulator clock, used as the US time standard from 1909 to 1929
+Clock pendulums[edit]
+Main article: Pendulum clock
+Pendulum and anchor escapement from a grandfather clockAnimation of anchor escapement, one of the most widely used escapements in pendulum clocks
+Pendulums in clocks (see example at right) are usually made of a weight or bob (b)  suspended by a rod of wood or metal (a).[8][71]  To reduce air resistance (which accounts for most of the energy loss in precision clocks)[72]  the bob is traditionally a smooth disk with a lens-shaped cross section, although in antique clocks it often had carvings or decorations specific to the type of clock. In quality clocks the bob is made as heavy as the suspension can support and the movement can drive, since this improves the regulation of the clock (see Accuracy below). A common weight for seconds pendulum bobs is 15 pounds (6.8 kg).[73]  Instead of hanging from a pivot, clock pendulums are usually supported by a short straight spring (d) of flexible metal ribbon. This avoids the friction and 'play' caused by a pivot, and the slight bending force of the spring merely adds to the pendulum's restoring force. The highest precision clocks have pivots of 'knife' blades resting on agate plates. The impulses to keep the pendulum swinging are provided by an arm hanging behind the pendulum called the crutch, (e), which ends in a fork, (f) whose prongs embrace the pendulum rod. The crutch is pushed back and forth by the clock's escapement, (g,h).
+Each time the pendulum swings through its centre position, it releases one tooth of the escape wheel (g). The force of the clock's mainspring or a driving weight hanging from a pulley, transmitted through the clock's gear train, causes the wheel to turn, and a tooth presses against one of the pallets (h), giving the pendulum a short push. The clock's wheels, geared to the escape wheel, move forward a fixed amount with each pendulum swing, advancing the clock's hands at a steady rate.
+The pendulum always has a means of adjusting the period, usually by an adjustment nut (c) under the bob which moves it up or down on the rod.[8][74]  Moving the bob up decreases the pendulum's length, causing the pendulum to swing faster and the clock to gain time. Some precision clocks have a small auxiliary adjustment weight on a threaded shaft on the bob, to allow finer adjustment. Some tower clocks and precision clocks use a tray attached near to the midpoint of the pendulum rod, to which small weights can be added or removed. This effectively shifts the centre of oscillation and allows the rate to be adjusted without stopping the clock.[75][76]
+The pendulum must be suspended from a rigid support.[8][77]  During operation, any elasticity will allow tiny imperceptible swaying motions of the support, which disturbs the clock's period, resulting in error. Pendulum clocks should be attached firmly to a sturdy wall.
+The most common pendulum length in quality clocks, which is always used in grandfather clocks, is the seconds pendulum, about 1 metre (39 inches) long.  In mantel clocks, half-second pendulums, 25 cm (9.8 in) long, or shorter, are used. Only a few large tower clocks use longer pendulums, the 1.5 second pendulum, 2.25 m (7.4 ft) long, or occasionally the two-second pendulum, 4 m (13 ft) [8][78] which is used in Big Ben.[79]
+Temperature compensation[edit]
+ Mercury pendulum in Howard astronomical regulator clock, 1887
+The largest source of error in early pendulums was slight changes in length due to thermal expansion and contraction of the pendulum rod with changes in ambient temperature.[80]  This was discovered when people noticed that pendulum clocks ran slower in summer, by as much as a minute per week[57][81] (one of the first was Godefroy Wendelin, as reported by Huygens in 1658).[82]  Thermal expansion of pendulum rods was first studied by Jean Picard in 1669.[83][84]  A pendulum with a steel rod will expand by about 11.3 parts per million (ppm) with each degree Celsius increase, causing it to lose about 0.27 seconds per day for every degree Celsius increase in temperature, or 9 seconds per day for a 33 C (59 F) change. Wood rods expand less, losing only about 6 seconds per day for a 33 C (59 F) change, which is why quality clocks often had wooden pendulum rods. The wood had to be varnished to prevent water vapor from getting in, because changes in humidity also affected the length.
+Mercury pendulum[edit]
+The first device to compensate for this error was the mercury pendulum, invented by George Graham[58] in 1721.[8][81]  The liquid metal mercury expands in volume with temperature. In a mercury pendulum, the pendulum's weight (bob) is a container of mercury. With a temperature rise, the pendulum rod gets longer, but the mercury also expands and its surface level rises slightly in the container, moving its centre of mass closer to the pendulum pivot. By using the correct height of mercury in the container these two effects will cancel, leaving the pendulum's centre of mass, and its period, unchanged with temperature. Its main disadvantage was that when the temperature changed, the rod would come to the new temperature quickly but the mass of mercury might take a day or two to reach the new temperature, causing the rate to deviate during that time.[85]  To improve thermal accommodation several thin containers were often used, made of metal. Mercury pendulums were the standard used in precision regulator clocks into the 20th century.[86]
+Gridiron pendulum[edit]
+ Diagram of a gridiron pendulumexterior schematicnormal temperaturehigher temperature
+Main article: Gridiron pendulum
+The most widely used compensated pendulum was the gridiron pendulum, invented in 1726 by John Harrison.[8][81][85]  This consists of alternating rods of two different metals, one with lower thermal expansion (CTE), steel, and one with higher thermal expansion, zinc or brass. The rods are connected by a frame, as shown in the drawing at the right, so that an increase in length of the zinc rods pushes the bob up, shortening the pendulum.  With a temperature increase, the low expansion steel rods make the pendulum longer, while the high expansion zinc rods make it shorter. By making the rods of the correct lengths, the greater expansion of the zinc cancels out the expansion of the steel rods which have a greater combined length, and the pendulum stays the same length with temperature.
+Zinc-steel gridiron pendulums are made with 5 rods, but the thermal expansion of brass is closer to steel, so brass-steel gridirons usually require 9 rods. Gridiron pendulums adjust to temperature changes faster than mercury pendulums, but scientists found that friction of the rods sliding in their holes in the frame caused gridiron pendulums to adjust in a series of tiny jumps.[85] In high precision clocks this caused the clock's rate to change suddenly with each jump. Later it was found that zinc is subject to creep. For these reasons mercury pendulums were used in the highest precision clocks, but gridirons were used in quality regulator clocks.
+Gridiron pendulums became so associated with good quality that, to this day, many ordinary clock pendulums have decorative 'fake' gridirons that don't actually have any temperature compensation function.
+Invar and fused quartz[edit]
+Around 1900, low thermal expansion materials were developed which could be used as pendulum rods in order to make elaborate temperature compensation unnecessary.[8][81] These were only used in a few of the highest precision clocks before the pendulum became obsolete as a time standard. In 1896 Charles  douard Guillaume invented the nickel steel alloy Invar. This has a CTE of around 0.5  in/(in F), resulting in pendulum temperature errors over 71 F of only 1.3 seconds per day, and this residual error could be compensated to zero with a few centimeters of aluminium under the pendulum bob[2][85] (this can be seen in the Riefler clock image above). Invar pendulums were first used in 1898 in the Riefler regulator clock[87]  which achieved accuracy of 15 milliseconds per day. Suspension springs of Elinvar were used to eliminate temperature variation of the spring's restoring force on the pendulum. Later fused quartz was used which had even lower CTE. These materials are the choice for modern high accuracy pendulums.[88]
+Atmospheric pressure[edit]
+The effect of the surrounding air on a moving pendulum is complex and requires fluid mechanics to calculate precisely, but for most purposes its influence on the period can be accounted for by three effects:[64][89]
+By Archimedes' principle the effective weight of the bob is reduced by the buoyancy of the air it displaces, while the mass (inertia) remains the same, reducing the pendulum's acceleration during its swing and increasing the period. This depends on the air pressure and the density of the pendulum, but not its shape.
+The pendulum carries an amount of air with it as it swings, and the mass of this air increases the inertia of the pendulum, again reducing the acceleration and increasing the period. This depends on both its density and shape.
+Viscous air resistance slows the pendulum's velocity. This has a negligible effect on the period, but dissipates energy, reducing the amplitude. This reduces the pendulum's Q factor, requiring a stronger drive force from the clock's mechanism to keep it moving, which causes increased disturbance to the period.
+Increases in barometric pressure increase a pendulum's period slightly due to the first two effects, by about 0.11 seconds per day per kilopascal (0.37 seconds per day per inch of mercury or 0.015 seconds per day per torr).[64] Researchers using pendulums to measure the acceleration of gravity had to correct the period for the air pressure at the altitude of measurement, computing the equivalent period of a pendulum swinging in vacuum. A pendulum clock was first operated in a constant-pressure tank by Friedrich Tiede in 1865 at the Berlin Observatory,[90][91] and by 1900 the highest precision clocks were mounted in tanks that were kept at a constant pressure to eliminate changes in atmospheric pressure. Alternatively, in some a small aneroid barometer mechanism attached to the pendulum compensated for this effect.
+Gravity[edit]
+Pendulums are affected by changes in gravitational acceleration, which varies by as much as 0.5% at different locations on Earth, so precision pendulum clocks have to be recalibrated after a move. Even moving a pendulum clock to the top of a tall building can cause it to lose measurable time from the reduction in gravity.
+Accuracy of pendulums as timekeepers[edit]
+The timekeeping elements in all clocks, which include pendulums, balance wheels, the quartz crystals used in quartz watches, and even the vibrating atoms in atomic clocks, are in physics called harmonic oscillators. The reason harmonic oscillators are used in clocks is that they vibrate or oscillate at a specific resonant frequency or period and resist oscillating at other rates. However, the resonant frequency is not infinitely 'sharp'.  Around the resonant frequency there is a narrow natural band of frequencies (or periods), called the resonance width or bandwidth, where the harmonic oscillator will oscillate.[92][93]  In a clock, the actual frequency of the pendulum may vary randomly within this resonance width in response to disturbances, but at frequencies outside this band, the clock will not function at all. The resonance width is determined by the damping, the frictional energy loss per swing of the pendulum.
+Q factor[edit]
+ A Shortt-Synchronome free pendulum clock, the most accurate pendulum clock ever made, at the NIST museum, Gaithersburg, MD, USA. It kept time with two synchronized pendulums. The master pendulum in the vacuum tank (left) swung free of virtually any disturbance, and controlled the slave pendulum in the clock case (right) which performed the impulsing and timekeeping tasks. Its accuracy was about a second per year.
+The measure of a harmonic oscillator's resistance to disturbances to its oscillation period is a dimensionless parameter called the Q factor equal to the resonant frequency divided by the resonance width.[93][94]  The higher the Q, the smaller the resonance width, and the more constant the frequency or period of the oscillator for a given disturbance.[95]  The reciprocal of the Q is roughly proportional to the limiting accuracy achievable by a harmonic oscillator as a time standard.[96]
+The Q is related to how long it takes for the oscillations of an oscillator to die out. The Q of a pendulum can be measured by counting the number of oscillations it takes for the amplitude of the pendulum's swing to decay to 1/e = 36.8%  of its initial swing, and multiplying by 2 .
+In a clock, the pendulum must receive pushes from the clock's movement to keep it swinging, to replace the energy the pendulum loses to friction. These pushes, applied by a mechanism called the escapement, are the main source of disturbance to the pendulum's motion. The Q is equal to 2  times the energy stored in the pendulum, divided by the energy lost to friction during each oscillation period, which is the same as the energy added by the escapement each period. It can be seen that the smaller the fraction of the pendulum's energy that is lost to friction, the less energy needs to be added, the less the disturbance from the escapement, the more 'independent' the pendulum is of the clock's mechanism, and the more constant its period is. The Q of a pendulum is given by:
+Q
+=
+M
+ 
+ 
+{\displaystyle Q={\frac {M\omega }{\Gamma }}}
+where M is the mass of the bob,    = 2 /T is the pendulum's radian frequency of oscillation, and   is the frictional damping force on the pendulum per unit velocity.
+  is fixed by the pendulum's period, and M is limited by the load capacity and rigidity of the suspension. So the Q of clock pendulums is increased by minimizing frictional losses ( ). Precision pendulums are suspended on low friction pivots consisting of triangular shaped 'knife' edges resting on agate plates. Around 99% of the energy loss in a freeswinging pendulum is due to air friction, so mounting a pendulum in a vacuum tank can increase the Q, and thus the accuracy, by a factor of 100.[97]
+The Q of pendulums ranges from several thousand in an ordinary clock to several hundred thousand for precision regulator pendulums swinging in vacuum.[98]  A quality home pendulum clock might have a Q of 10,000 and an accuracy of 10 seconds per month. The most accurate commercially produced pendulum clock was the Shortt-Synchronome free pendulum clock, invented in 1921.[2][65][99][100][101]  Its Invar master pendulum swinging in a vacuum tank had a Q of 110,000[98] and an error rate of around a second per year.[65]
+Their Q of 103 105  is one reason why pendulums are more accurate timekeepers than the balance wheels in watches, with Q around 100 300, but less accurate than the quartz crystals in quartz clocks, with Q of 105 106.[2][98]
+Escapement[edit]
+Pendulums (unlike, for example, quartz crystals) have a low enough Q that the disturbance caused by the impulses to keep them moving is generally the limiting factor on their timekeeping accuracy. Therefore, the design of the escapement, the mechanism that provides these impulses, has a large effect on the accuracy of a clock pendulum. If the impulses given to the pendulum by the escapement each swing could be exactly identical, the response of the pendulum would be identical, and its period would be constant. However, this is not achievable; unavoidable random fluctuations in the force due to friction of the clock's pallets, lubrication variations, and changes in the torque provided by the clock's power source as it runs down, mean that the force of the impulse applied by the escapement varies.
+If these variations in the escapement's force cause changes in the pendulum's width of swing (amplitude), this will cause corresponding slight changes in the period, since (as discussed at top) a pendulum with a finite swing is not quite isochronous. Therefore, the goal of traditional escapement design is to apply the force with the proper profile, and at the correct point in the pendulum's cycle, so force variations have no effect on the pendulum's amplitude. This is called an isochronous escapement.
+The Airy condition[edit]
+Clockmakers had known for centuries that the disturbing effect of the escapement's drive force on the period of a pendulum is smallest if given as a short impulse as the pendulum passes through its bottom equilibrium position.[2]  If the impulse occurs before the pendulum reaches bottom, during the downward swing, it will have the effect of shortening the pendulum's natural period, so an increase in drive force will decrease the period.  If the impulse occurs after the pendulum reaches bottom, during the upswing, it will lengthen the period, so an increase in drive force will increase the pendulum's period.  In 1826 British astronomer George Airy proved this; specifically, he proved that if a pendulum is driven by an impulse that is symmetrical about its bottom equilibrium position, the pendulum's period will be unaffected by changes in the drive force.[102]  The most accurate escapements, such as the deadbeat, approximately satisfy this condition.[103]
+Gravity measurement[edit]
+The presence of the acceleration of gravity g in the periodicity equation (1) for a pendulum means that the local gravitational acceleration of the Earth can be calculated from the period of a pendulum.  A pendulum can therefore be used as a gravimeter to measure the local gravity, which varies by over 0.5% across the surface of the Earth.[104][Note 2] The pendulum in a clock is disturbed by the pushes it receives from the clock movement, so freeswinging pendulums were used, and were the standard instruments of gravimetry up to the 1930s.
+The difference between clock pendulums and gravimeter pendulums is that to measure gravity, the pendulum's length as well as its period has to be measured. The period of freeswinging pendulums could be found to great precision by comparing their swing with a precision clock that had been adjusted to keep correct time by the passage of stars overhead. In the early measurements, a weight on a cord was suspended in front of the clock pendulum, and its length adjusted until the two pendulums swung in exact synchronism. Then the length of the cord was measured. From the length and the period, g could be calculated from equation (1).
+The seconds pendulum[edit]
+ The seconds pendulum, a pendulum with a period of two seconds so each swing takes one second
+The seconds pendulum, a pendulum with a period of two seconds so each swing takes one second, was widely used to measure gravity, because its period could be easily measured by comparing it to precision regulator clocks, which all had seconds pendulums.  By the late 17th century, the length of the seconds pendulum became the standard measure of the strength of gravitational acceleration at a location. By 1700 its length had been measured with submillimeter accuracy at several cities in Europe. For a seconds pendulum, g is proportional to its length:
+g
+ 
+L
+.
+{\displaystyle g\propto L.}
+Early observations[edit]
+1620: British scientist Francis Bacon was one of the first to propose using a pendulum to measure gravity, suggesting taking one up a mountain to see if gravity varies with altitude.[105]
+1644: Even before the pendulum clock, French priest Marin Mersenne first determined the length of the seconds pendulum was 39.1 inches (990 mm), by comparing the swing of a pendulum to the time it took a weight to fall a measured distance.  He also was first to discover the dependence of the period on amplitude of swing.
+1669: Jean Picard determined the length of the seconds pendulum at Paris, using a 1-inch (25 mm) copper ball suspended by an aloe fiber, obtaining 39.09 inches (993 mm).[106]  He also did the first experiments on thermal expansion and contraction of pendulum rods with temperature.
+1672: The first observation that gravity varied at different points on Earth was made in 1672 by Jean Richer, who took a pendulum clock to Cayenne, French Guiana and found that it lost 2+1 2 minutes per day; its seconds pendulum had to be shortened by 1+1 4 lignes (2.6 mm) shorter than at Paris, to keep correct time.[107][108]  In 1687 Isaac Newton in Principia Mathematica showed this was because the Earth had a slightly  oblate shape (flattened at the poles) caused by the centrifugal force of its rotation.  At higher latitudes the surface was closer to the center of the Earth, so gravity increased with latitude.[108]  From this time on, pendulums began to be taken to distant lands to measure gravity, and tables were compiled of the length of the seconds pendulum at different locations on Earth. In 1743 Alexis Claude Clairaut created the first hydrostatic model of the Earth, Clairaut's theorem,[106] which allowed the ellipticity of the Earth to be calculated from gravity measurements. Progressively more accurate models of the shape of the Earth followed.
+1687: Newton experimented with pendulums (described in Principia) and found that equal length pendulums with bobs made of different materials had the same period, proving that the gravitational force on different substances was exactly proportional to their mass (inertia).  This principle, called the equivalence principle, confirmed to greater accuracy in later experiments, became the foundation on which Albert Einstein based his general theory of relativity.
+ Borda & Cassini's 1792 measurement of the length of the seconds pendulum
+1737: French mathematician Pierre Bouguer made a sophisticated series of pendulum observations in the Andes mountains, Peru.[109]  He used a copper pendulum bob in the shape of a double pointed cone suspended by a thread; the bob could be reversed to eliminate the effects of nonuniform density. He calculated the length to the center of oscillation of thread and bob combined, instead of using the center of the bob. He corrected for thermal expansion of the measuring rod and barometric pressure, giving his results for a pendulum swinging in vacuum. Bouguer swung the same pendulum at three different elevations, from sea level to the top of the high Peruvian altiplano. Gravity should fall with the inverse square of the distance from the center of the Earth. Bouguer found that it fell off slower, and correctly attributed the 'extra' gravity to the gravitational field of the huge Peruvian plateau. From the density of rock samples he calculated an estimate of the effect of the altiplano on the pendulum, and comparing this with the gravity of the Earth was able to make the first rough estimate of the density of the Earth.
+1747: Daniel Bernoulli showed how to correct for the lengthening of the period due to a finite angle of swing  0 by using the first order correction  02/16, giving the period of a pendulum with an extremely small swing.[109]
+1792: To define a pendulum standard of length for use with the new metric system, in 1792 Jean-Charles de Borda and Jean-Dominique Cassini made a precise measurement of the seconds pendulum at Paris. They used a 1+1 2-inch (14 mm)[clarification needed] platinum ball suspended by a 12-foot (3.7 m) iron wire. Their main innovation was a technique called the "method of coincidences" which allowed the period of pendulums to be compared with great precision.  (Bouguer had also used this method). The time interval  t between the recurring instants when the two pendulums swung in synchronism was timed. From this the difference between the periods of the pendulums, T1 and T2, could be calculated: 
+1
+ 
+t
+=
+1
+T
+1
+ 
+1
+T
+2
+{\displaystyle {\frac {1}{\Delta t}}={\frac {1}{T_{1}}}-{\frac {1}{T_{2}}}}
+1821: Francesco Carlini made pendulum observations on top of Mount Cenis, Italy, from which, using methods similar to Bouguer's, he calculated the density of the Earth.[110]  He compared his measurements to an estimate of the gravity at his location assuming the mountain wasn't there, calculated from previous nearby pendulum measurements at sea level. His measurements showed 'excess' gravity, which he allocated to the effect of the mountain. Modeling the mountain as a segment of a sphere 11 miles (18 km) in diameter and 1 mile (1.6 km) high, from rock samples he calculated its gravitational field, and estimated the density of the Earth at 4.39 times that of water. Later recalculations by others gave values of 4.77 and 4.95, illustrating the uncertainties in these geographical methods.
+Kater's pendulum[edit]
+Main article: Kater's pendulum
+ Kater's pendulum and stand
+ Measuring gravity with Kater's reversible pendulum, from Kater's 1818 paper
+ A Kater's pendulum
+The precision of the early gravity measurements above was limited by the difficulty of measuring the length of the pendulum, L .  L was the length of an idealized simple gravity pendulum (described at top), which has all its mass concentrated in a point at the end of the cord. In 1673 Huygens had shown that the period of a rigid bar pendulum (called a compound pendulum) was equal to the period of a simple pendulum with a length equal to the distance between the pivot point and a point called the center of oscillation, located under the center of gravity, that depends on the mass distribution along the pendulum. But there was no accurate way of determining the center of oscillation in a real pendulum.
+To get around this problem, the early researchers above approximated an ideal simple pendulum as closely as possible by using a metal sphere suspended by a light wire or cord. If the wire was light enough, the center of oscillation was close to the center of gravity of the ball, at its geometric center. This "ball and wire" type of pendulum wasn't very accurate, because it didn't swing as a rigid body, and the elasticity of the wire caused its length to change slightly as the pendulum swung.
+However Huygens had also proved that in any pendulum, the pivot point and the center of oscillation were interchangeable.[17]  That is, if a pendulum were turned upside down and hung from its center of oscillation, it would have the same period as it did in the previous position, and the old pivot point would be the new center of oscillation.
+British physicist and army captain Henry Kater in 1817 realized that Huygens' principle could be used to find the length of a simple pendulum with the same period as a real pendulum.[59]  If a pendulum was built with a second adjustable pivot point near the bottom so it could be hung upside down, and the second pivot was adjusted until the periods when hung from both pivots were the same, the second pivot would be at the center of oscillation, and the distance between the two pivots would be the length L of a simple pendulum with the same period.
+Kater built a reversible pendulum (shown at right) consisting of a brass bar with two opposing pivots made of short triangular "knife" blades (a) near either end. It could be swung from either pivot, with the knife blades supported on agate plates. Rather than make one pivot adjustable, he attached the pivots a meter apart and instead adjusted the periods with a moveable weight on the pendulum rod (b,c). In operation, the pendulum is hung in front of a precision clock, and the period timed, then turned upside down and the period timed again. The weight is adjusted with the adjustment screw until the periods are equal. Then putting this period and the distance between the pivots into equation (1) gives the gravitational acceleration g very accurately.
+Kater timed the swing of his pendulum using the "method of coincidences" and measured the distance between the two pivots with a micrometer. After applying corrections for the finite amplitude of swing, the buoyancy of the bob, the barometric pressure and altitude, and temperature, he obtained a value of 39.13929 inches for the seconds pendulum at London, in vacuum, at sea level, at 62 F. The largest variation from the mean of his 12 observations was 0.00028 in.[111] representing a precision of gravity measurement of 7 10 6 (7 mGal or 70  m/s2). Kater's measurement was used as Britain's official standard of length (see below) from 1824 to 1855.
+Reversible pendulums (known technically as "convertible" pendulums) employing Kater's principle were used for absolute gravity measurements into the 1930s.
+Later pendulum gravimeters[edit]
+The increased accuracy made possible by Kater's pendulum helped make gravimetry a standard part of geodesy. Since the exact location (latitude and longitude) of the 'station' where the gravity measurement was made was necessary, gravity measurements became part of surveying, and pendulums were taken on the great geodetic surveys of the 18th century, particularly the Great Trigonometric Survey of India.
+ Measuring gravity with an invariable pendulum, Madras, India, 1821
+Invariable pendulums:  Kater introduced the idea of relative gravity measurements, to supplement the absolute measurements made by a Kater's pendulum.[112]  Comparing the gravity at two different points was an easier process than measuring it absolutely by the Kater method. All that was necessary was to time the period of an ordinary (single pivot) pendulum at the first point, then transport the pendulum to the other point and time its period there. Since the pendulum's length was constant, from (1) the ratio of the gravitational accelerations was equal to the inverse of the ratio of the periods squared, and no precision length measurements were necessary. So once the gravity had been measured absolutely at some central station, by the Kater or other accurate method, the gravity at other points could be found by swinging pendulums at the central station and then taking them to the other location and timing their swing there. Kater made up a set of "invariable" pendulums, with only one knife edge pivot, which were taken to many countries after first being swung at a central station at Kew Observatory, UK.
+Airy's coal pit experiments: Starting in 1826, using methods similar to Bouguer, British astronomer George Airy attempted to determine the density of the Earth by pendulum gravity measurements at the top and bottom of a coal mine.[113][114]  The gravitational force below the surface of the Earth decreases rather than increasing with depth, because by Gauss's law the mass of the spherical shell of crust above the subsurface point does not contribute to the gravity. The 1826 experiment was aborted by the flooding of the mine, but in 1854 he conducted an improved experiment at the Harton coal mine, using seconds pendulums swinging on agate plates, timed by precision chronometers synchronized by an electrical circuit. He found the lower pendulum was slower by 2.24 seconds per day. This meant that the gravitational acceleration at the bottom of the mine, 1250 ft below the surface, was 1/14,000 less than it should have been from the inverse square law; that is the attraction of the spherical shell was 1/14,000 of the attraction of the Earth. From samples of surface rock he estimated the mass of the spherical shell of crust, and from this estimated that the density of the Earth was 6.565 times that of water. Von Sterneck attempted to repeat the experiment in 1882 but found inconsistent results.
+ Repsold pendulum, 1864
+Repsold-Bessel pendulum: It was time-consuming and error-prone to repeatedly swing the Kater's pendulum and adjust the weights until the periods were equal.  Friedrich Bessel showed in 1835 that this was unnecessary.[115]  As long as the periods were close together, the gravity could be calculated from the two periods and the center of gravity of the pendulum.[116]  So the reversible pendulum didn't need to be adjustable, it could just be a bar with two pivots. Bessel also showed that if the pendulum was made symmetrical in form about its center, but was weighted internally at one end, the errors due to air drag would cancel out. Further, another error due to the finite diameter of the knife edges could be made to cancel out if they were interchanged between measurements. Bessel didn't construct such a pendulum, but in 1864 Adolf Repsold, under contract by the Swiss Geodetic Commission made a pendulum along these lines.  The Repsold pendulum was about 56 cm long and had a period of about 3 4 second. It was used extensively by European geodetic agencies, and with the Kater pendulum in the Survey of India. Similar pendulums of this type were designed by Charles Pierce and C. Defforges.
+ Pendulums used in Mendenhall gravimeter, 1890
+Von Sterneck and Mendenhall gravimeters: In 1887 Austro-Hungarian scientist Robert von Sterneck developed a small gravimeter pendulum mounted in a temperature-controlled vacuum tank to eliminate the effects of temperature and air pressure. It used a "half-second pendulum," having a period close to one second, about 25 cm long.  The pendulum was nonreversible, so the instrument was used for relative gravity measurements, but their small size made them small and portable. The period of the pendulum was picked off by reflecting the image of an electric spark created by a precision chronometer off a mirror mounted at the top of the pendulum rod. The Von Sterneck instrument, and a similar instrument developed by Thomas C. Mendenhall of the United States Coast and Geodetic Survey in 1890,[117] were used extensively for surveys into the 1920s.
+The Mendenhall pendulum was actually a more accurate timekeeper than the highest precision clocks of the time, and as the 'world's best clock' it was used by Albert A. Michelson in his 1924 measurements of the speed of light on Mt. Wilson, California.[117]
+Double pendulum gravimeters: Starting in 1875, the increasing accuracy of pendulum measurements revealed another source of error in existing instruments: the swing of the pendulum caused a slight swaying of the tripod stand used to support portable pendulums, introducing error. In 1875 Charles S Peirce calculated that measurements of the length of the seconds pendulum made with the Repsold instrument required a correction of 0.2 mm due to this error.[118]  In 1880 C. Defforges used a Michelson interferometer to measure the sway of the stand dynamically, and interferometers were added to the standard Mendenhall apparatus to calculate sway corrections.[119]  A method of preventing this error was first suggested in 1877 by Herv  Faye and advocated by Peirce, Cell rier and Furtwangler: mount two identical pendulums on the same support, swinging with the same amplitude, 180  out of phase. The opposite motion of the pendulums would cancel out any sideways forces on the support. The idea was opposed due to its complexity, but by the start of the 20th century the Von Sterneck device and other instruments were modified to swing multiple pendulums simultaneously.
+ Quartz pendulums used in Gulf gravimeter, 1929
+Gulf gravimeter: One of the last and most accurate pendulum gravimeters was the apparatus developed in 1929 by the Gulf Research and Development Co.[120][121]  It used two pendulums made of fused quartz, each 10.7 inches (270 mm) in length with a period of 0.89 second, swinging on pyrex knife edge pivots, 180  out of phase. They were mounted in a permanently sealed temperature and humidity controlled vacuum chamber. Stray electrostatic charges on the quartz pendulums had to be discharged by exposing them to a radioactive salt before use. The period was detected by reflecting a light beam from a mirror at the top of the pendulum, recorded by a chart recorder and compared to a precision crystal oscillator calibrated against the WWV radio time signal. This instrument was accurate to within (0.3 0.5) 10 7 (30 50 microgals or 3 5 nm/s2).[120] It was used into the 1960s.
+Relative pendulum gravimeters were superseded by the simpler LaCoste zero-length spring gravimeter, invented in 1934 by Lucien LaCoste.[117]  Absolute (reversible) pendulum gravimeters were replaced in the 1950s by free fall gravimeters, in which a weight is allowed to fall in a vacuum tank and its acceleration is measured by an optical interferometer.[68]
+Standard of length[edit]
+Because the acceleration of gravity is constant at a given point on Earth, the period of a simple pendulum at a given location depends only on its length. Additionally, gravity varies only slightly at different locations. Almost from the pendulum's discovery until the early 19th century, this property led scientists to suggest using a pendulum of a given period as a standard of length.
+Until the 19th century, countries based their systems of length measurement on prototypes, metal bar primary standards, such as the standard yard in Britain kept at the Houses of Parliament, and the standard toise in France, kept at Paris. These were vulnerable to damage or destruction over the years, and because of the difficulty of comparing prototypes, the same unit often had different lengths in distant towns, creating opportunities for fraud.[122]  During the Enlightenment scientists argued for a length standard that was based on some property of nature that could be determined by measurement, creating an indestructible, universal standard. The period of pendulums could be measured very precisely by timing them with clocks that were set by the stars. A pendulum standard amounted to defining the unit of length by the gravitational force of the Earth, for all intents constant, and the second, which was defined by the rotation rate of the Earth, also constant. The idea was that anyone, anywhere on Earth, could recreate the standard by constructing a pendulum that swung with the defined period and measuring its length.
+Virtually all proposals were based on the seconds pendulum, in which each swing (a half period) takes one second, which is about a meter (39 inches) long, because by the late 17th century it had become a standard for measuring gravity (see previous section). By the 18th century its length had been measured with sub-millimeter accuracy at a number of cities in Europe and around the world.
+The initial attraction of the pendulum length standard was that it was believed (by early scientists such as Huygens and Wren) that gravity was constant over the Earth's surface, so a given pendulum had the same period at any point on Earth.[122]  So the length of the standard pendulum could be measured at any location, and would not be tied to any given nation or region; it would be a truly democratic, worldwide standard. Although Richer found in 1672 that gravity varies at different points on the globe, the idea of a pendulum length standard remained popular, because it was found that gravity only varies with latitude. Gravitational acceleration increases smoothly from the equator to the poles, due to the oblate shape of the Earth, so at any given latitude (east west line), gravity was constant enough that the length of a seconds pendulum was the same within the measurement capability of the 18th century. Thus the unit of length could be defined at a given latitude and measured at any point along that latitude. For example, a pendulum standard defined at 45  north latitude, a popular choice, could be measured in parts of France, Italy, Croatia, Serbia, Romania, Russia, Kazakhstan, China, Mongolia, the United States and Canada. In addition, it could be recreated at any location at which the gravitational acceleration had been accurately measured.
+By the mid 19th century, increasingly accurate pendulum measurements by Edward Sabine and Thomas Young revealed that gravity, and thus the length of any pendulum standard, varied measurably with local geologic features such as mountains and dense subsurface rocks.[123]  So a pendulum length standard had to be defined at a single point on Earth and could only be measured there. This took much of the appeal from the concept, and efforts to adopt pendulum standards were abandoned.
+Early proposals[edit]
+One of the first to suggest defining length with a pendulum was Flemish scientist Isaac Beeckman[124] who in 1631 recommended making the seconds pendulum "the invariable measure for all people at all times in all places".[125] Marin Mersenne, who first measured the seconds pendulum in 1644, also suggested it. The first official proposal for a pendulum standard was made by the British Royal Society in 1660, advocated by Christiaan Huygens and Ole R mer, basing it on Mersenne's work,[126] and Huygens in Horologium Oscillatorium proposed a "horary foot" defined as 1/3 of the seconds pendulum.  Christopher Wren was another early supporter. The idea of a pendulum standard of length must have been familiar to people as early as 1663, because Samuel Butler satirizes it in Hudibras:[127]
+Upon the bench I will so handle  em
+That the vibration of this pendulum
+Shall make all taylors  yards of one
+Unanimous opinion
+In 1671 Jean Picard proposed a pendulum-defined 'universal foot' in his influential Mesure de la Terre.[128] Gabriel Mouton around 1670 suggested defining the toise either by a seconds pendulum or a minute of terrestrial degree. A plan for a complete system of units based on the pendulum was advanced in 1675 by Italian polymath Tito Livio Burratini. In France in 1747, geographer Charles Marie de la Condamine proposed defining length by a seconds pendulum at the equator; since at this location a pendulum's swing wouldn't be distorted by the Earth's rotation. James Steuart (1780) and George Skene Keith were also supporters.
+By the end of the 18th century, when many nations were reforming their weight and measure systems, the seconds pendulum was the leading choice for a new definition of length, advocated by prominent scientists in several major nations. In 1790, then US Secretary of State Thomas Jefferson proposed to Congress a comprehensive decimalized US 'metric system' based on the seconds pendulum at 38  North latitude, the mean latitude of the United States.[129]  No action was taken on this proposal. In Britain the leading advocate of the pendulum was politician John Riggs Miller.[130]  When his efforts to promote a joint British French American metric system fell through in 1790, he proposed a British system based on the length of the seconds pendulum at London. This standard was adopted in 1824 (below).
+The metre[edit]
+In the discussions leading up to the French adoption of the metric system in 1791, the leading candidate for the definition of the new unit of length, the metre, was the seconds pendulum at 45  North latitude. It was advocated by a group led by French politician Talleyrand and mathematician Antoine Nicolas Caritat de Condorcet. This was one of the three final options considered by the French Academy of Sciences committee. However, on March 19, 1791, the committee instead chose to base the metre on the length of the meridian through Paris. A pendulum definition was rejected because of its variability at different locations, and because it defined length by a unit of time. (However, since 1983 the metre has been officially defined in terms of the length of the second and the speed of light.) A possible additional reason is that the radical French Academy didn't want to base their new system on the second, a traditional and nondecimal unit from the ancien regime.
+Although not defined by the pendulum, the final length chosen for the metre, 10 7 of the pole-to-equator meridian arc, was very close to the length of the seconds pendulum (0.9937 m), within 0.63%. Although no reason for this particular choice was given at the time, it was probably to facilitate the use of the seconds pendulum as a secondary standard, as was proposed in the official document. So the modern world's standard unit of length is certainly closely linked historically with the seconds pendulum.
+Britain and Denmark[edit]
+Britain and Denmark appear to be the only nations that (for a short time) based their units of length on the pendulum. In 1821 the Danish inch was defined as 1/38 of the length of the mean solar seconds pendulum at 45  latitude at the meridian of Skagen, at sea level, in vacuum.[131][132]  The British parliament passed the Imperial Weights and Measures Act in 1824, a reform of the British standard system which declared that if the prototype standard yard was destroyed, it would be recovered by defining the inch so that the length of the solar seconds pendulum at London, at sea level, in a vacuum, at 62 F was 39.1393 inches.[133]  This also became the US standard, since at the time the US used British measures. However, when the prototype yard was lost in the 1834 Houses of Parliament fire, it proved impossible to recreate it accurately from the pendulum definition, and in 1855 Britain repealed the pendulum standard and returned to prototype standards.
+Other uses[edit]
+Seismometers[edit]
+A pendulum in which the rod is not vertical but almost horizontal was used in early seismometers for measuring Earth tremors. The bob of the pendulum does not move when its mounting does, and the difference in the movements is recorded on a drum chart.
+Schuler tuning[edit]
+Main article: Schuler tuning
+As first explained by Maximilian Schuler in a 1923 paper, a pendulum whose period exactly equals the orbital period of a hypothetical satellite orbiting just above the surface of the Earth (about 84 minutes) will tend to remain pointing at the center of the Earth when its support is suddenly displaced. This principle, called Schuler tuning, is used in inertial guidance systems in ships and aircraft that operate on the surface of the Earth. No physical pendulum is used, but the control system that keeps the inertial platform containing the gyroscopes stable is modified so the device acts as though it is attached to such a pendulum, keeping the platform always facing down as the vehicle moves on the curved surface of the Earth.
+Coupled pendulums[edit]
+ Two pendulums with the same period coupled by suspending them from a common support string. The oscillation alternates between the two.
+ Repetition of Huygens experiment showing synchronization of two clocks
+Main article: injection locking
+In 1665 Huygens made a curious observation about pendulum clocks. Two clocks had been placed on his mantlepiece, and he noted that they had acquired an opposing motion. That is, their pendulums were beating in unison but in the opposite direction; 180  out of phase. Regardless of how the two clocks were started, he found that they would eventually return to this state, thus making the first recorded observation of a coupled oscillator.[134]
+The cause of this behavior was that the two pendulums were affecting each other through slight motions of the supporting mantlepiece. This process is called entrainment or mode locking in physics and is observed in other coupled oscillators. Synchronized pendulums have been used in clocks and were widely used in gravimeters in the early 20th century. Although Huygens only observed out-of-phase synchronization, recent investigations have shown the existence of in-phase synchronization, as well as "death" states wherein one or both clocks stops.[135][136]
+Religious practice[edit]
+ Pendulum in the Metropolitan Cathedral, Mexico City.
+Pendulum motion appears in religious ceremonies as well. The swinging incense burner called a censer, also known as a thurible, is an example of a pendulum.[137]  Pendulums are also seen at many gatherings in eastern Mexico where they mark the turning of the tides on the day which the tides are at their highest point. See also pendulums for divination and dowsing.
+Education[edit]
+Pendulums are widely used in science education as an example of a harmonic oscillator, to teach dynamics and oscillatory motion.  One use is to demonstrate the law of conservation of energy.[138][139] A heavy object such as a bowling ball[140] or wrecking ball[138] is attached to a string. The weight is then moved to within a few inches of a volunteer's face, then released and allowed to swing and come back. In most instances, the weight reverses direction and then returns to (almost) the same position as the original release location   i.e. a small distance from the volunteer's face   thus leaving the volunteer unharmed. On occasion the volunteer is injured if either the volunteer does not stand still[141] or the pendulum is initially released with a push (so that when it returns it surpasses the release position).
+Torture device[edit]
+It is claimed that the pendulum was used as an instrument of torture and execution by the Spanish Inquisition[142] in the 18th century. The allegation is contained in the 1826 book The history of the Inquisition of Spain   by the Spanish priest, historian and liberal activist Juan Antonio Llorente.[143]  A swinging pendulum whose edge is a knife blade slowly descends toward a bound prisoner until it cuts into his body.[144]  This method of torture came to popular consciousness through the 1842 short story "The Pit and the Pendulum" by American author Edgar Allan Poe[145] but there is considerable skepticism that it actually was used.
+Most knowledgeable sources are skeptical that this torture was ever actually used.[146][147][148]  The only evidence of its use is one paragraph in the preface to Llorente's  1826 History,[143] relating a second-hand account by a single prisoner released from the Inquisition's Madrid dungeon in 1820, who purportedly described the pendulum torture method.  Modern sources point out that due to Jesus' admonition against bloodshed, Inquisitors were only allowed to use torture methods which did not spill blood, and the pendulum method would have violated this stricture.  One theory is that Llorente misunderstood the account he heard; the prisoner was actually referring to another common Inquisition torture, the strappado (garrucha), in which the prisoner has his hands tied behind his back and is hoisted off the floor by a rope tied to his hands.[148] This method was also known as the "pendulum".  Poe's popular horror tale, and public awareness of the Inquisition's other brutal methods, has kept the myth of this elaborate torture method alive.
+Pendulum wave[edit]
+ SVG animation of a pendulum wave
+A pendulum wave is a physics demonstration and kinetic art comprising several uncoupled pendulums with different lengths. As the pendulums oscillate, they appear to produce travelling and standing waves, beating, and random motion.[149]
+See also[edit]
+Barton's pendulums
+Blackburn pendulum
+Conical pendulum
+Cycloidal pendulum
+Double pendulum
+Double inverted pendulum
+Doubochinski's pendulum
+Foucault pendulum
+Furuta pendulum
+Gridiron pendulum
+Harmonograph (a.k.a. "Lissajous pendulum")
+Inertia wheel pendulum
+Inverted pendulum
+Kapitza's pendulum
+Kater's pendulum
+Metronome
+N-pendulum[150]
+Pendulum (mechanics)
+Pendulum clock
+Pendulum rocket fallacy
+Quantum pendulum
+Rayleigh Lorentz pendulum
+Seconds pendulum
+Simple harmonic motion
+Spherical pendulum
+Spring pendulum
+Torsional pendulum
+Notes[edit]
+^ A "small" swing is one in which the angle   is small enough that sin( ) can be approximated by   when   is measured in radians
+^ The value of "g" (acceleration due to gravity) at the equator is 9.780 m/s2 and at the poles is 9.832 m/s2, a difference of 0.53%.
+The value of g reflected by the period of a pendulum varies from place to place. The gravitational force varies with distance from the center of the Earth, i.e. with altitude   or because the Earth's shape is oblate, g varies  with latitude.
+A more important cause of this reduction in g at the equator is because the equator is spinning at one revolution per day, so the acceleration by the gravitational force is partially canceled there by the centrifugal force.
+References[edit]
+^ "Pendulum". Miriam Webster's Collegiate Encyclopedia. Miriam Webster. 2000. p. 1241. ISBN 978-0-87779-017-4.
+^ a b c d e f g Marrison, Warren (1948). "The Evolution of the Quartz Crystal Clock". Bell System Technical Journal. 27 (3): 510 588. doi:10.1002/j.1538-7305.1948.tb01343.x. Archived from the original on 2011-07-17.
+^ Morris, William, Ed. (1979). The American Heritage Dictionary, New College Ed. New York: Houghton-Mifflin. p. 969. ISBN 978-0-395-20360-6.
+^ defined by Christiaan Huygens: Huygens, Christian (1673). "Horologium Oscillatorium" (PDF). 17centurymaths. 17thcenturymaths.com. Retrieved 2009-03-01., Part 4, Definition 3, translated July 2007 by Ian Bruce
+^ a b Nave, Carl R. (2006). "Simple pendulum". Hyperphysics. Georgia State Univ. Retrieved 2008-12-10.
+^ Xue, Linwei (2007). "Pendulum Systems". Seeing and Touching Structural Concepts. Civil Engineering Dept., Univ. of Manchester, UK. Retrieved 2008-12-10.
+^ Weisstein, Eric W. (2007). "Simple Pendulum". Eric Weisstein's world of science. Wolfram Research. Retrieved 2009-03-09.
+^ a b c d e f g h i Milham, Willis I. (1945). Time and Timekeepers. MacMillan., p.188-194
+^ Halliday, David; Robert Resnick; Jearl Walker (1997). Fundamentals of Physics, 5th Ed. New York: John Wiley & Sons. p. 381. ISBN 978-0-471-14854-8.
+^ Cooper, Herbert J. (2007). Scientific Instruments. New York: Hutchinson's. p. 162. ISBN 978-1-4067-6879-4.
+^ a b Nelson, Robert; M. G. Olsson (February 1987). "The pendulum   Rich physics from a simple system" (PDF). American Journal of Physics. 54 (2): 112 121. Bibcode:1986AmJPh..54..112N. doi:10.1119/1.14703. S2CID 121907349. Retrieved 2008-10-29.
+^ Penderel-Brodhurst, James George Joseph (1911). "Clock" .  In Chisholm, Hugh (ed.). Encyclop dia Britannica. Vol. 06 (11th ed.). Cambridge University Press. pp. 536 553, see page 538. Pendulum. Suppose that we have a body... includes a derivation
+^ Deschaine, J. S.; Suits, B. H. (2008). "The hanging cord with a real tip mass". European Journal of Physics. 29 (6): 1211 1222. Bibcode:2008EJPh...29.1211D. doi:10.1088/0143-0807/29/6/010. S2CID 122637957.
+^ a b Huygens, Christian (1673). "Horologium Oscillatorium". 17centurymaths. Translated by Bruce, Ian. 17thcenturymaths.com. Retrieved 2009-03-01., Part 4, Proposition 5
+^ Glasgow, David (1885). Watch and Clock Making. London: Cassel & Co. p. 278.
+^ Fowles, Grant R (1986). Analytical Mechanics, 4th Ed. NY, NY: Saunders. pp. 202 ff.
+^ a b c Huygens (1673) Horologium Oscillatorium, Part 4, Proposition 20
+^ Morton, W. Scott and Charlton M. Lewis (2005). China: Its History and Culture. New York: McGraw-Hill, Inc., p. 70
+^ a b Needham, Volume 3, 627-629
+^ Good, Gregory (1998). Sciences of the Earth: An Encyclopedia of Events, People, and Phenomena. Routledge. p. 394. ISBN 978-0-8153-0062-5.
+^ "ibn+yunus"+pendulum&pg=RA2-PA126 "Pendulum". Encyclopedia Americana. Vol. 21. The Americana Corp. 1967. p. 502. ISBN 978-0-19-538207-5. Retrieved 2009-02-20.
+^ Baker, Cyril Clarence Thomas (1961). Dictionary of Mathematics. G. Newnes. p. 176.
+^ Newton, Roger G. (2004). Galileo's Pendulum: From the Rhythm of Time to the Making of Matter. US: Harvard University Press. p. 52. ISBN 978-0-674-01331-5.
+^ King, D. A. (1979). "Ibn Yunus and the pendulum: a history of errors". Archives Internationales d'Histoire des Sciences. 29 (104): 35 52., reprinted on the Muslim Heritage website.
+^ Hall, Bert S. (September 1978). "The scholastic pendulum". Annals of Science. 35 (5): 441 462. doi:10.1080/00033797800200371. ISSN 0003-3790.
+^ O'Connor, J. J.; Robertson, E. F. (November 1999). "Abu'l-Hasan Ali ibn Abd al-Rahman ibn Yunus". University of St Andrews. Retrieved 2007-05-29.
+^ Akyeampong, Emmanuel K.; Gates, Henry Louis (2012). "ibn+yunus"+pendulum&pg=RA2-PA126 Dictionary of African Biography, Vol. 1. Oxford Univ. Press. p. 126. ISBN 9780195382075.
+^ Matthews, Michael R. (2000). Time for science education. Springer. p. 87. ISBN 978-0-306-45880-4.
+^ Drake, Stillman (2003). Galileo at Work: His scientific biography. USA: Courier Dover. pp. 20 21. ISBN 978-0-486-49542-2.
+^ Galilei, Galileo (1909).  Favaro, Antonio [in Italian] (ed.). Le Opere di Galileo Galilei, Edizione Nazionale [The Works of Galileo Galilei, National Edition] (in Italian). Florence: Barbera. ISBN 978-88-09-20881-0.
+^ Murdin, Paul (2008). Full Meridian of Glory: Perilous Adventures in the Competition to Measure the Earth. Springer. p. 41. ISBN 978-0-387-75533-5.
+^ La Lampada di Galileo, by Francesco Malaguzzi Valeri, for Archivio storico dell'arte, Volume 6 (1893); Editor, Domenico Gnoli; Publisher Danesi, Rome; Page 215-218.
+^ a b Van Helden, Albert (1995). "Pendulum Clock". The Galileo Project. Rice Univ. Retrieved 2009-02-25.
+^ Bigotti, Fabrizio; Taylor, David (2017). "The Pulsilogium of Santorio: New Light on Technology and Measurement in Early Modern Medicine". Societate si politica. 11 (2): 53 113. ISSN 1843-1348. PMC 6407692. PMID 30854144.
+^ Drake 2003, p.419 420
+^ although there are unsubstantiated references to prior pendulum clocks made by others: Usher, Abbott Payson (1988). A History of Mechanical Inventions. Courier Dover. pp. 310 311. ISBN 978-0-486-25593-4.
+^ Eidson, John C. (2006). Measurement, Control, and Communication using IEEE 1588. Burkhausen. p. 11. ISBN 978-1-84628-250-8.
+^ Milham 1945, p.145
+^ a b O'Connor, J.J.; E.F. Robertson (August 2002). "Robert Hooke". Biographies, MacTutor History of Mathematics Archive. School of Mathematics and Statistics, Univ. of St. Andrews, Scotland. Archived from the original on 2009-03-03. Retrieved 2009-02-21.
+^ Nauenberg, Michael (2006). "Robert Hooke's seminal contribution to orbital dynamics". Robert Hooke: Tercentennial Studies. Ashgate Publishing. pp. 17 19. ISBN 0-7546-5365-X.
+^ Nauenberg, Michael (2004). "Hooke and Newton: Divining Planetary Motions". Physics Today. 57 (2): 13. Bibcode:2004PhT....57b..13N. doi:10.1063/1.1688052. Retrieved 2007-05-30.
+^ The KGM Group, Inc. (2004). "Heliocentric Models". Science Master. Archived from the original on 2007-07-13. Retrieved 2007-05-30.
+^ Lenzen, Victor F.; Robert P. Multauf (1964). "Paper 44: Development of gravity pendulums in the 19th century". United States National Museum Bulletin 240: Contributions from the Museum of History and Technology reprinted in Bulletin of the Smithsonian Institution. Washington: Smithsonian Institution Press. p. 307. Retrieved 2009-01-28.
+^ Richer, Jean (1679). Observations astronomiques et physiques faites en l'isle de Ca enne. M moires de l'Acad mie Royale des Sciences. Bibcode:1679oaep.book.....R. cited in Lenzen & Multauf, 1964, p.307
+^ Lenzen & Multauf, 1964, p.307
+^ Poynting, John Henry; Joseph John Thompson (1907). A Textbook of Physics, 4th Ed. London: Charles Griffin & Co. pp. 20 22.
+^ Huygens, Christian; translated by Ian Bruce (July 2007). "Horologium Oscillatorium" (PDF). 17centurymaths. 17thcenturymaths.com. Retrieved 2009-03-01.
+^ The constellation of Horologium was later named in honor of this book.
+^ Matthews, Michael R. (1994). Science Teaching: The Role of History and Philosophy of Science. Psychology Press. pp. 121 122. ISBN 978-0-415-90899-3.
+^ Huygens, Horologium Oscillatorium, Part 2, Proposition 25
+^ Mahoney, Michael S. (March 19, 2007). "Christian Huygens: The Measurement of Time and of Longitude at Sea". Princeton University. Archived from the original on December 4, 2007. Retrieved 2007-05-27.
+^ Bevilaqua, Fabio; Lidia Falomo; Lucio Fregonese; Enrico Gianetto; Franco Giudise; Paolo Mascheretti (2005). "The pendulum: From constrained fall to the concept of potential". The Pendulum: Scientific, Historical, Philosophical, and Educational Perspectives. Springer. pp. 195 200. ISBN 1-4020-3525-X. Retrieved 2008-02-26. gives a detailed description of Huygens' methods
+^ a b Headrick, Michael (2002). "Origin and Evolution of the Anchor Clock Escapement". Control Systems Magazine, Inst. Of Electrical and Electronic Engineers. 22 (2). Archived from the original on October 25, 2009. Retrieved 2007-06-06.
+^ "...it is affected by either the intemperance of the air or any faults in the mechanism so the crutch QR is not always activated by the same force... With large arcs the swings take longer, in the way I have explained, therefore some inequalities in the motion of the timepiece exist from this cause...",  Huygens, Christiaan (1658). Horologium (PDF). The Hague: Adrian Vlaqc., translation by Ernest L. Edwardes (December 1970) Antiquarian Horology, Vol.7, No.1
+^ a b Andrewes, W.J.H. Clocks and Watches: The leap to precision in Macey, Samuel (1994). Encyclopedia of Time. Taylor & Francis. pp. 123 125. ISBN 978-0-8153-0615-3.
+^ Usher, 1988, p.312
+^ a b Beckett, Edmund (1874). A Rudimentary Treatise on Clocks and Watches and Bells, 6th Ed. London: Lockwood & Co. p. 50.
+^ a b Graham, George (1726). "A contrivance to avoid irregularities in a clock's motion occasion'd by the action of heat and cold upon the rod of the pendulum". Philosophical Transactions of the Royal Society. 34 (392 398): 40 44. doi:10.1098/rstl.1726.0006. S2CID 186210095. cited in Day, Lance; Ian McNeil (1996). Biographical Dictionary of the History of Technology. Taylor & Francis. p. 300. ISBN 978-0-415-06042-4.
+^ a b Kater, Henry (1818). "An account of experiments for determining the length of the pendulum vibrating seconds in the latitude of London". Phil. Trans. R. Soc. 104 (33): 109. Retrieved 2008-11-25.
+^ Oprea, John (1995). "Geometry and the Focault Pebdulum" (PDF). The American Mathematical Monthly. Mathematical Association of America. 102 (6): 515 522. doi:10.1080/00029890.1995.12004611. Archived (PDF) from the original on 2022-10-09. Retrieved 13 April 2021.
+^ Amir Aczel (2003) Leon Foucault: His life, times and achievements, in Matthews, Michael R.; Colin F. Gauld; Arthur Stinner (2005). The Pendulum: Scientific, Historical, Educational, and Philosophical Perspectives. Springer. p. 177. ISBN 978-1-4020-3525-8.
+^ Giovannangeli, Fran oise (November 1996). "Spinning Foucault's Pendulum at the Panth on". The Paris Pages. Archived from the original on 2007-06-09. Retrieved 2007-05-25.
+^ Tobin, William (2003). The Life and Science of Leon Foucault: The man who proved the Earth rotates. UK: Cambridge University Press. pp. 148 149. ISBN 978-0-521-80855-2.
+^ a b c d Penderel-Brodhurst, James George Joseph (1911). "Clock" .  In Chisholm, Hugh (ed.). Encyclop dia Britannica. Vol. 06 (11th ed.). Cambridge University Press. pp. 536 553, see pages 540 and 541.
+^ a b c Jones, Tony (2000). Splitting the Second: The Story of Atomic Time. CRC Press. p. 30. ISBN 978-0-7503-0640-9.
+^ Kaler, James B. (2002). Ever-changing Sky: A Guide to the Celestial Sphere. UK: Cambridge Univ. Press. p. 183. ISBN 978-0-521-49918-7.
+^ Audoin, Claude; Bernard Guinot; Stephen Lyle (2001). The Measurement of Time: Time, Frequency, and the Atomic Clock. UK: Cambridge Univ. Press. p. 83. ISBN 978-0-521-00397-1.
+^ a b Torge, Wolfgang (2001). Geodesy: An Introduction. Walter de Gruyter. p. 177. ISBN 978-3-11-017072-6.
+^ Milham 1945, p.334
+^ calculated from equation (1)
+^ Glasgow, David (1885). Watch and Clock Making. London: Cassel & Co. pp. 279 284.
+^ Matthys, Robert J. (2004). Accurate Pendulum Clocks. UK: Oxford Univ. Press. p. 4. ISBN 978-0-19-852971-2.
+^ Mattheys, 2004, p. 13
+^ Matthys 2004, p.91-92
+^ Beckett 1874, p.48
+^ "Regulation". Encyclopedia of Clocks and Watches. Old and Sold antiques marketplace. 2006. Retrieved 2009-03-09.
+^ Beckett 1874, p.43
+^ Glasgow 1885, p.282
+^ "Great Clock facts". Big Ben. London: UK Parliament. 13 November 2009. Archived from the original on 7 October 2009. Retrieved 31 October 2012.
+^ Matthys 2004, p.3
+^ a b c d Penderel-Brodhurst, James George Joseph (1911). "Clock" .  In Chisholm, Hugh (ed.). Encyclop dia Britannica. Vol. 06 (11th ed.). Cambridge University Press. pp. 536 553, see pages 539 and 540.
+^ Huygens, Christiaan (1658). Horologium (PDF). The Hague: Adrian Vlaqc., translation by Ernest L. Edwardes (December 1970) Antiquarian Horology, Vol.7, No.1
+^ Zupko, Ronald Edward (1990). Revolution in Measurement: Western European Weights and Measures since the Age of Science. Diane Publishing. p. 131. ISBN 978-0-87169-186-6.
+^ Picard, Jean, La Mesure de la Terre [The measurement of the Earth] (Paris, France:  Imprimerie Royale, 1671), p. 4.  Picard described a pendulum consisting of a copper ball which was an inch in diameter and was suspended by a strand of pite, a fiber from the aloe plant.  Picard then mentions that temperature slightly effects the length of this pendulum:  "Il est vray que cette longueur ne s'est pas to jours trouv es si pr cise, & qu'il a sembl  qu'elle devoit estre to jours un peu accourcie en Hyver, & allong e en est ; mais c'est seulement de la dixieme partie d'une ligne   "  (It is true that this length [of the pendulum] is not always found [to be] so precise, and that it seemed that it should be always a bit shortened in winter, and lengthened in summer; but it is only by a tenth part of a line [1 ligne (line) = 2.2558 mm]   )
+^ a b c d Matthys 2004, p.7-12
+^ Milham 1945, p.335
+^ Milham 1945, p.331-332
+^ Matthys 2004, Part 3, p.153-179
+^ Poynting & Thompson, 1907, p.13-14
+^ Updegraff, Milton (February 7, 1902). "On the measurement of time". Science. 15 (371): 218 219. doi:10.1126/science.ns-15.374.218-a. PMID 17793345. S2CID 21030470. Retrieved 2009-07-13.
+^ Dunwoody, Halsey (1917). Notes, Problems, and Laboratory Exercises in Mechanics, Sound, Light, Thermo-Mechanics and Hydraulics, 1st Ed. New York: John Wiley & Sons. p. 87.
+^ "Resonance Width". Glossary. Time and Frequency Division, US National Institute of Standards and Technology. 2009. Archived from the original on 2009-01-30. Retrieved 2009-02-21.
+^ a b Jespersen, James; Fitz-Randolph, Jane; Robb, John (1999). From Sundials to Atomic Clocks: Understanding Time and Frequency. New York: Courier Dover. pp. 41 50. ISBN 978-0-486-40913-9. p.39
+^ Matthys, Robert J. (2004). Accurate Pendulum Clocks. UK: Oxford Univ. Press. pp. 27 36. ISBN 978-0-19-852971-2. has an excellent comprehensive discussion of the controversy over the applicability of Q to the accuracy of pendulums.
+^ "Quality Factor, Q". Glossary. Time and Frequency Division, US National Institute of Standards and Technology. 2009. Archived from the original on 2008-05-04. Retrieved 2009-02-21.
+^ Matthys, 2004, p.32, fig. 7.2 and text
+^ Matthys, 2004, p.81
+^ a b c "Q, Quality Factor". Watch and clock magazine. Orologeria Lamberlin website. Retrieved 2009-02-21.
+^ Milham 1945, p.615
+^ "The Reifler and Shortt clocks". JagAir Institute of Time and Technology. Retrieved 2009-12-29.
+^ Betts, Jonathan (May 22, 2008). "Expert's Statement, Case 6 (2008-09) William Hamilton Shortt regulator". Export licensing hearing, Reviewing Committee on the Export of Works of Art and Objects of Cultural Interest. UK Museums, Libraries, and Archives Council. Archived from the original (DOC) on October 25, 2009. Retrieved 2009-12-29.
+^ Airy, George Biddle (November 26, 1826). "On the Disturbances of Pendulums and Balances and on the Theory of Escapements". Transactions of the Cambridge Philosophical Society. 3 (Part 1): 105. Retrieved 2008-04-25.
+^ Beckett 1874, p.75-79
+^ Vo adlo, Lidunka. "Gravity, the shape of the Earth, isostasy, moment of inertia". Retrieved 5 November 2012.
+^ Baker, Lyman A. (Spring 2000). "Chancellor Bacon". English 233   Introduction to Western Humanities. English Dept., Kansas State Univ. Retrieved 2009-02-20.
+^ a b Poynting & Thompson 1907, p.9
+^ Poynting, John Henry; Joseph John Thompson (1907). A Textbook of Physics, 4th Ed. London: Charles Griffin & Co. p. 20.
+^ a b Victor F., Lenzen; Robert P. Multauf (1964). "Paper 44: Development of gravity pendulums in the 19th century". United States National Museum Bulletin 240: Contributions from the Museum of History and Technology reprinted in Bulletin of the Smithsonian Institution. Washington: Smithsonian Institution Press. p. 307. Retrieved 2009-01-28.
+^ a b Poynting & Thompson, 1907, p.10
+^ Poynting, John Henry (1894). The Mean Density of the Earth. London: Charles Griffin. pp. 22 24.
+^ Cox, John (1904). Mechanics. Cambridge, UK: Cambridge Univ. Press. pp. 311 312.
+^ Poynting & Thomson 1904, p.23
+^ Poynting, John Henry (1894). The Mean Density of the Earth. London: Charles Griffin & Co. pp. 24 29.
+^ Poynting, John Henry (1911). "Gravitation" .  In Chisholm, Hugh (ed.). Encyclop dia Britannica. Vol. 12 (11th ed.). Cambridge University Press. pp. 384 389, see page 386. Airy's Experiment. In 1854 Sir G. B. Airy....
+^ Lenzen & Multauf 1964, p.320
+^ Poynting & Thompson 1907, p.18
+^ a b c "The downs and ups of gravity surveys". NOAA Celebrates 200 Years. US National Oceanographic and Atmospheric Administration. 2007-07-09.
+^ Lenzen & Multauf 1964, p.324
+^ Lenzen & Multauf 1964, p.329
+^ a b Woolard, George P. (June 28 29, 1957). "Gravity observations during the IGY". Geophysics and the IGY: Proceedings of the symposium at the opening of the International Geophysical Year. Washington, D.C.: American Geophysical Union, Nat'l Academy of Sciences. p. 200. Retrieved 2009-05-27.
+^ Lenzen & Multauf 1964, p.336, fig.28
+^ a b Michael R., Matthews (2001). "Methodology and Politics in Science: The fate of Huygens 1673 proposal of the pendulum as an international standard of length and some educational suggestions". Science, Education, and Culture: The contribution of history and philosophy of science. Springer. p. 296. ISBN 0-7923-6972-6.
+^ Renwick, James (1832). The Elements of Mechanics. Philadelphia: Carey & Lea. pp. 286 287.
+^ Alder, Ken (2003). The measure of all things: The seven-year odyssey and hidden error that transformed the world. US: Simon and Schuster. p. 88. ISBN 978-0-7432-1676-0.
+^ cited in Jourdan, Louis (22 October 2001). "Re: SI and dictionaries". USMA (Mailing list). Retrieved 2009-01-27.
+^ Agnoli, Paolo; Giulio D'Agostini (December 2004). "Why does the meter beat the second?". arXiv:physics/0412078.
+^ quoted in LeConte, John (August 1885). "The Metric System". The Overland Monthly. 6 (2): 178. Retrieved 2009-03-04.
+^ Zupko, 1990, p.131
+^ Zupko, 1990, p.140-141
+^ Zupko, 1990, p.93
+^ Schumacher, Heinrich (1821). "Danish standard of length". The Quarterly Journal of Science, Literature and the Arts. 11 (21): 184 185. Retrieved 2009-02-17.
+^ "Schumacher, Heinrich Christian". The American Cyclopedia. Vol. 14. D. Appleton & Co., London. 1883. p. 686. Retrieved 2009-02-17.
+^ Trautwine, John Cresson (1907). The Civil Engineer's Pocket-Book, 18th Ed. New York: John Wiley. p. 216.
+^ Toon, John (September 8, 2000). "Out of Time: Researchers Recreate 1665 Clock Experiment to Gain Insights into Modern Synchronized Oscillators". Georgia Tech. Retrieved 2007-05-31.
+^ A.L. Fradkov and B. Andrievsky, "Synchronization and phase relations in the motion of two-pendulum system", International Journal of Non-linear Mechanics, vol. 42 (2007), pp. 895 901.
+^ I.I. Blekhman, "Synchronization in science and technology", ASME Press, New York, 1988, (Translated from Russian into English)
+^ An interesting simulation of thurible motion can be found at this site Archived 2011-05-23 at the Wayback Machine.
+^ a b Hart, Matthew (2 February 2016). "Physics Risks Death by Wrecking Ball for Science". Nerdist. Archived from the original on 15 March 2017. Retrieved 14 March 2017.
+^ Sorenson, Roy (2014). "Novice Thought Experiments".  In Booth, Anthony Robert; Rowbottom, Darrell P. (eds.). Intuitions. Oxford Univ Pr. p. 139. ISBN 9780199609192. Retrieved 15 March 2017.
+^ "Bowling Ball Pendulum". The Wonders of Physics. University of Wisconsin Madison. Retrieved 14 March 2017.
+^ weknowmemes (8 August 2014). "Physics Ball Test Gone Wrong". YouTube. Archived from the original on 2021-11-10. Retrieved 14 March 2017.
+^ Scott, George Ryley (2009). The History Of Torture Throughout the Ages. Routledge. p. 242. ISBN 978-1136191602.
+^ a b Llorente, Juan Antonio (1826). The history of the Inquisition of Spain. Abridged and translated by George B. Whittaker. Oxford University. pp. XX, preface.
+^ Abbott, Geoffrey (2006). Execution: The Guillotine, the Pendulum, the Thousand Cuts, the Spanish Donkey, and 66 Other Ways of Putting Someone to Death. St. Martin's Press. ISBN 978-0-312-35222-6.
+^ Poe, Edgar Allan (1842). The Pit and the Pendulum. Booklassic. ISBN 978-9635271900.
+^ Roth, Cecil (1964). The Spanish Inquisition. W. W. Norton and Company. pp. 258. ISBN 978-0-393-00255-3. pendulum.
+^ Mannix, Daniel P. (2014). The History of Torture. eNet Press. p. 76. ISBN 978-1-61886-751-3.
+^ a b Pavlac, Brian (2009). Witch Hunts in the Western World: Persecution and Punishment from the Inquisition through the Salem Trials. ABC-CLIO. p. 152. ISBN 978-0-313-34874-7.
+^ Harvard Natural Sciences Lecture Demonstrations, Pendulum Waves
+^ Yurchenko, D.; Alevras, P. (2013). "Dynamics of the N-pendulum and its application to a wave energy converter concept". International Journal of Dynamics and Control. 1 (4): 4. doi:10.1007/s40435-013-0033-x.
+Further reading[edit]
+G. L. Baker and J. A. Blackburn (2009).  The Pendulum: A Case Study in Physics (Oxford University Press).
+M. Gitterman (2010).  The Chaotic Pendulum (World Scientific).
+Michael R. Matthews, Arthur Stinner, Colin F. Gauld (2005) The Pendulum: Scientific, Historical, Philosophical and Educational Perspectives, Springer
+Matthews, Michael R.; Gauld, Colin; Stinner, Arthur (2005). "The Pendulum: Its Place in Science, Culture and Pedagogy". Science & Education. 13 (4/5): 261 277. Bibcode:2004Sc&Ed..13..261M. doi:10.1023/b:sced.0000041867.60452.18. S2CID 195221704.
+Schlomo Silbermann,(2014) "Pendulum Fundamental; The Path Of Nowhere" (Book)
+Matthys, Robert J. (2004). Accurate Pendulum Clocks. UK: Oxford Univ. Press. ISBN 978-0-19-852971-2.
+Nelson, Robert; M. G. Olsson (February 1986). "The pendulum   Rich physics from a simple system". American Journal of Physics. 54 (2): 112 121. Bibcode:1986AmJPh..54..112N. doi:10.1119/1.14703. S2CID 121907349.
+L. P. Pook (2011).  Understanding Pendulums: A Brief Introduction (Springer).
+External links[edit]
+ Media related to Pendulums at Wikimedia Commons
+vteGalileo GalileiScientific career
+Observational astronomy
+Galileo affair
+Galileo's escapement
+Galilean invariance
+Galilean moons
+Galilean transformation
+Leaning Tower of Pisa experiment
+Phases of Venus
+Celatone
+Thermoscope
+Works
+De Motu Antiquiora (1589-1592, pub. 1687)
+Sidereus Nuncius (1610)
+Letters on Sunspots (1613)
+Letter to Benedetto Castelli (1613)
+"Letter to the Grand Duchess Christina" (1615)
+"Discourse on the Tides" (1616)
+Discourse on Comets (1619)
+The Assayer (1623)
+Dialogue Concerning the Two Chief World Systems (1632)
+Two New Sciences (1638)
+Family
+Vincenzo Galilei (father)
+Michelagnolo Galilei (brother)
+Vincenzo Gamba (son)
+Maria Celeste (daughter)
+Marina Gamba (mistress)
+Related
+"And yet it moves"
+Villa Il Gioiello
+Galileo's paradox
+Sector
+Museo Galileo
+Galileo's telescopes
+Galileo's objective lens
+Tribune of Galileo
+Galileo thermometer
+Galileo project
+spacecraft
+Galileo Galilei Airport
+Galileo National Telescope
+In popular culture
+Life of Galileo (1943 play)
+Lamp At Midnight (1947 play)
+Galileo (1968 film)
+Galileo (1975 film)
+Starry Messenger (1996 book)
+Galileo's Daughter: A Historical Memoir of Science, Faith, and Love (1999 book)
+Galileo Galilei (2002 opera)
+Galileo's Dream (2009 novel)
+Authority control National
+France
+BnF data
+Germany
+Israel
+United States
+Japan
+Czech Republic
+Other
+Encyclopedia of Modern Ukraine
+NARA
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pendulum&oldid=1149196084"

@@ -1,0 +1,276 @@
+List of words or phrases and associated pointers
+ The first page of the index of Novus Atlas Sinensis by Martino Martini, an altas of China published in 1655
+An index (plural: usually indexes, more rarely indices; see below) is a list of words or phrases ('headings') and associated pointers ('locators') to where useful material relating to that heading can be found in a document or collection of documents. Examples are an index in the back matter of a book and an index that serves as a library catalog. An index differs from a word index, or concordance, in focusing on the subject of the text rather than the exact words in a text, and it differs from a table of contents because the index is ordered by subject, regardless of whether it is early or late in the book, while the listed items in a table of contents is placed in the same order as the book.[1]
+In a traditional back-of-the-book index, the headings will include names of people, places, events, and concepts selected as being relevant and of interest to a possible reader of the book. The indexer performing the selection may be the author, the editor, or a professional indexer working as a third party. The pointers are typically page numbers, paragraph numbers or section numbers.
+In a library catalog the words are authors, titles, subject headings, etc., and the pointers are call numbers. Internet search engines (such as Google) and full-text searching help provide access to information but are not as selective as an index, as they provide non-relevant links, and may miss relevant information if it is not phrased in exactly the way they expect.[2]
+Perhaps the most advanced investigation of problems related to book indexes is made in the development of topic maps, which started as a way of representing the knowledge structures inherent in traditional back-of-the-book indexes. The concept embodied by book indexes lent its name to database indexes, which similarly provide an abridged way to look up information in a larger collection, albeit one for computer use rather than human use.
+Earliest examples in English[edit]
+In the English language, indexes have been referred to as early as 1593, as can be seen from lines in Christopher Marlowe's Hero and Leander of that year:
+Therefore, even as an index to a book
+So to his mind was young Leander's look.
+A similar reference to indexes is in Shakespeare's lines from Troilus and Cressida (I.3.344), written nine years later:
+And in such indexes, although small pricks 
+To their subsequent volumes, there is seen 
+The baby figure of the giant mass 
+Of things to come at large.
+ Table of contents of My Secret Life, showing lengthy chapter titles
+But according to G. Norman Knight, "at that period, as often as not, by an 'index to a book' was meant what we should now call a table of contents."[3] Until about the end of the nineteenth century, books, fiction as well as non-fiction, sometimes had very detailed chapter titles, which could be several sentences long.
+Among the first indexes   in the modern sense   to a book in the English language was Leonard Mascall's  [4] "A booke of the arte and maner how to plant and graffe all sortes of trees" printed in 1575. Another was one in Plutarch's Parallel Lives, in Sir Thomas North's 1595 translation.[3] A section entitled "An Alphabetical Table of the most material contents of the whole book" may be found in Henry Scobell's Acts and Ordinances of Parliament of 1658. This section comes after "An index of the general titles comprised in the ensuing Table".[3] Both of these indexes predate the index to Alexander Cruden's Concordance (1737), which is erroneously held to be the earliest index found in an English book.[3]
+Etymology and plural[edit]
+The word is derived from Latin, in which index means "one who points out", an "indication", or a "forefinger".
+In Latin, the plural form of the word is indices. In English, the plural "indices" is commonly used in mathematical and computing contexts, and sometimes in bibliographical contexts   for example, in the 17-volume Women in World History: A Biographical Encyclopedia (1999 2002).[5] However, this form is now seen as an archaism by many writers and commentators, who prefer the anglicised plural "indexes". "Indexes" is widely used in the publishing industry; in the International Standard ISO 999, Information and documentation   Guidelines for the content, organization and presentation of indexes; and is preferred by the Oxford Style Manual.[6] The Chicago Manual of Style allows both forms.[7]
+G. Norman Knight quotes Shakespeare's lines from Troilus and Cressida (I.3.344)   "And in such indexes ..."   and comments:
+"But the real importance of this passage is that it establishes for all time the correct literary plural; we can leave the Latin form "indices" to the mathematicians (and similarly "appendices" to the anatomists)."[3]
+Indexing process[edit]
+Conventional indexing[edit]
+The indexer reads through the text, identifying indexable concepts (those for which the text provides useful information and which will be of relevance for the text's readership). The indexer creates index headings to represent those concepts, which are phrased such that they can be found when in alphabetical order (so, for example, one would write 'indexing process' rather than 'how to create an index'). These headings and their associated locators (indicators to position in the text) are entered into specialist indexing software which handles the formatting of the index and facilitates the editing phase. The index is then edited to impose consistency throughout the index.
+Indexers must analyze the text to enable presentation of concepts and ideas in the index that may not be named within the text. The index is intended to help the reader, researcher, or information professional, rather than the author, find information, so the professional indexer must act as a liaison between the text and its ultimate user.
+In the United States, according to tradition, the index for a non-fiction book is the responsibility of the author, but most authors don't actually do it. Most indexing is done by freelancers hired by authors, publishers or an independent business which manages the production of a book,[8] publishers or book packagers. Some publishers and database companies employ indexers.
+Before indexing software existed, indexes were created using slips of paper or, later, index cards. After hundreds of such slips or cards were filled out (as the indexer worked through the pages of the book proofs), they could then be shuffled by hand into alphabetical order, at which point they served as manuscript to be typeset into the printed index.
+Indexing software[edit]
+Main article: Indexing software
+Software is available to aid the indexer in building a book index.[9][10] There are several dedicated indexing software programs available to assist with the special sorting and copying needs involved in index preparation.
+Embedded indexing[edit]
+Embedded indexing involves including the index headings in the midst of the text itself, but surrounded by codes so that they are not normally displayed. A usable index is then generated automatically from the embedded text using the position of the embedded headings to determine the locators. Thus, when the pagination is changed the index can be regenerated with the new locators.
+LaTeX documents support embedded indexes primarily through the MakeIndex package. Several widely used XML DTDs, including DocBook and TEI, have elements that allow index creation directly in the XML files. Most word processing software, such as StarWriter/OpenOffice.org Writer, Microsoft Word, and WordPerfect, as well as some desktop publishing software (for example, FrameMaker and InDesign), as well as other tools (for example, MadCap Software's Flare), have some facility for embedded indexing as well. TExtract and IndexExploit support embedded indexing of Microsoft Word documents.[9]
+An embedded index requires more time to create than a conventional static index; however, an embedded index can save time in the long run when the material is updated or repaginated. This is because, with a static index, if even a few pages change, the entire index must be revised or recreated while, with an embedded index, only the pages that changed need updating or indexing.
+Purpose[edit]
+Indexes are also designed to help the reader find information quickly and easily. A complete and truly useful index is not simply a list of the words and phrases used in a publication (which is properly called a concordance), but an organized map of its contents, including cross-references, grouping of like concepts, and other useful intellectual analysis.
+Sample back-of-the-book index excerpt:
+sage, 41 42. See also Herbs   directing the reader to related terms
+Scarlet Sages. See Salvia coccinea   redirecting the reader to term used in the text
+shade plants   grouping term (may not appear in the text; may be generated by indexer)
+hosta, 93   subentries
+myrtle, 46
+Solomon's
+sunflower, 47   regular entry
+In books, indexes are usually placed near the end (this is commonly known as "BoB" or back-of-book indexing). They complement the table of contents by enabling access to information by specific subject, whereas contents listings enable access through broad divisions of the text arranged in the order they occur. It has been remarked that, while "[a]t first glance the driest part of the book, on closer inspection the index may provide both interest and amusement from time to time."[11]
+Index quality[edit]
+Some principles of good indexing include:[12]
+Ensuring each topic/section includes a variety of relevant index entries; use two or three entries per topic
+Understanding the audience and understand what kind of index entries they're likely to look for
+Use the same form throughout (singular vs. plural, capitalisation, etc.), using standard indexing conventions
+Indexing pitfalls:
+Significant topics with no index entries at all
+Indexing 'mere mentions': "But John Major was no Winston Churchill..." indexed under 'Churchill, Winston'
+Circular cross-references: 'Felidae. See Cats'; 'Cats. See Felidae'
+References to discussions of a single topic scattered among several main headings: 'Cats, 50 62'; 'Felidae, 175 183'
+Inconsistently indexing similar topics
+Confusing similar names: Henry V of England, Henri V of France
+Incorrect alphabetization: ' -Linolenic acid' under 'A' instead of 'L'
+Inappropriate inversions: 'processors, word' for 'word processors'
+Inappropriate subheadings: 'processors: food, 213 6; word, 33 7'
+Computer indexing from section headings: e.g. 'Getting to know your printer' under 'G'
+Indexer roles[edit]
+Some indexers specialize in specific formats, such as scholarly books, microforms, web indexing (the application of a back-of-book-style index to a website or intranet), search engine indexing, database indexing (the application of a pre-defined controlled vocabulary such as MeSH to articles for inclusion in a database), and periodical indexing[13] (indexing of newspapers, journals, magazines).
+Some indexers with expertise in controlled vocabularies also work as taxonomists and ontologists.
+Some indexers specialize in particular subject areas, such as anthropology, business, computers, economics, education, government documents, history, law, mathematics, medicine, psychology, and technology. An indexer can be found for any subject.
+References in popular culture[edit]
+In  "The Library of Babel", a short story by Jorge Luis Borges, there is an index of indexes that catalogues all of the books in the library, which contains all possible books.
+Kurt Vonnegut's novel Cat's Cradle includes a character who is a professional indexer and believes that "indexing [is] a thing that only the most amateurish author [undertakes] to do for his own book." She claims to be able to read an author's character through the index he created for his own history text, and warns the narrator, an author, "Never index your own book."
+Vladimir Nabokov's novel Pale Fire includes a parody of an index, reflecting the insanity of the narrator.
+Mark Danielewski's novel House of Leaves contains an exhaustive 41 page index of words in the novel, including even large listings for inconsequential words such as the, and, and in.
+J. G. Ballard's "The Index" is a short story told through the form of an index to an "unpublished and perhaps suppressed" autobiography.[14]
+Standards[edit]
+ISO 999:1996 Guidelines for the Content, Organization, and Presentation of Indexes (this is also the national standard in the UK, Australia, and New Zealand)
+Societies[edit]
+The American Society for Indexing, Inc. (ASI) is a national association founded in 1968 to promote excellence in indexing and increase awareness of the value of well-designed indexes. ASI serves indexers, librarians, abstractors, editors, publishers, database producers, data searchers, product developers, technical writers, academic professionals, researchers and readers, and others concerned with indexing. It is the only professional organization in the United States devoted solely to the advancement of indexing, abstracting and related methods of information retrieval.
+Other similar societies include:
+Association of Southern African Indexers and Bibliographers (ASAIB)[15]
+Australian and New Zealand Society of Indexers[16]
+British Record Society[17]
+China Society of Indexers[18]
+German Network of Indexers/Deutsches Netzwerk der Indexer (DNI)[19]
+Indexing Society of Canada/Soci t  canadienne d'indexation (ISC/SCI)[20]
+Nederlands Indexers Netwerk (NIN)[21]
+Society of Indexers[22]
+See also[edit]
+Concordance (publishing)
+Indexing and abstracting service
+Index, A History of the
+Subject (documents)
+Subject indexing
+Table of contents
+Web indexing
+References[edit]
+^ Duncan, Dennis (2022). Index, A History of the. W.W. Norton and Company. p. 11. ISBN 978-1-324-00254-3.
+^ "Search vs Index". Indexers.org.uk. 2013-04-05. Retrieved 2019-02-17.
+^ a b c d e Knight, G. Norman (1979) Indexing, the Art of: A Guide to the Indexing of Books and Periodicals (HarperCollins), pp. 17 18
+^ Mascall, Leonard (1575). A booke of the arte and maner how to plant and graffe all sortes of trees. London: John Wight.
+^ Commire, Anne, ed. (1999 2002). Women in World History: a biographical encyclopedia. Detroit: Yorkin Publications. ISBN 0-7876-3736-X.
+^ Ritter, R. M., ed. (2003). The Oxford Style Manual. Oxford: Oxford University Press. p. 772.
+^ "7.6: Alternative plural forms". The Chicago Manual of Style (16th ed.). Chicago: University of Chicago Press. 2010. ISBN 978-0-226-10420-1.
+^ "Frequently Asked Questions". asindexing.org. The American Society for Indexing. Retrieved 2019-07-10.
+^ a b "Software". asindexing.org. The American Society for Indexing. Retrieved 2016-12-21.
+^ "Equipment, technology and software". indexers.org.uk. Society of Indexers. Retrieved 2019-07-10.
+^ Robert L. Collison, Book Collecting, London, 1957, p. 121.
+^ "Creating Online Help (Part 2): Strategies and Implementation". Adobe.com. Archived from the original on 2009-04-19.
+^ Weaver, Carolyn. "The Gist of Journal Indexing Archived 2008-10-29 at the Wayback Machine", Key Words 10.1 (Jan./Feb. 2002), 16 22.
+^ "The Index". johntranter.com.
+^ "ASAIB   Home". asaib.org.za.
+^ "Home   Australian and New Zealand Society of Indexers". anzsi.org.
+^ "Home   British Record Society". britishrecordsociety.org.
+^ " ". Cnindex.fudan.edu.cn. Retrieved 2014-02-23.
+^ Indexers, German Network of. "German Network of Indexers: Welcome". d-indexer.eu.
+^ "Home Accueil   Indexing Society of Canada". indexers.ca.
+^ "NIN   Nederlands Indexers Netwerk". indexers.nl.
+^ "Home :: The Society of Indexers". indexers.org.uk.
+Further reading[edit]
+This further reading section may contain inappropriate or excessive suggestions that may not follow Wikipedia's guidelines. Please ensure that only a  reasonable number of balanced, topical, reliable, and notable further reading suggestions are given; removing less relevant or redundant publications with the same point of view where appropriate. Consider utilising appropriate texts as inline sources or creating a separate bibliography article.  (June 2015) (Learn how and when to remove this template message)
+Booth, Pat (2001) Indexing: The Manual of Good Practice (K. G. Saur), ISBN 3-598-11536-9
+Borko, Harold & Bernier, Charles L. (1978) Indexing Concepts and Methods, ISBN 0-12-118660-1
+Browne, Glenda and Jermey, Jon (2007), The Indexing Companion (Cambridge University Press), ISBN 978-0-521-68988-5
+Diodato, V. (1994). User preferences for features in back of book indexes. Journal of the American Society for Information Science. 45(7), 529 536.
+Diodato, V. & Gandt, G. (1991). Back of book indexes and the characteristics of author and nonauthor indexing: Report of an exploratory study. Journal of the American Society for Information Science. 42(5), 341 350.
+Enser, P. G. B. (1985). Automatic classification of book material represented by back-of-the-book index. Journal of Documentation. 41(3), 135 155.
+Fugmann, R. (2006). Das Buchregister Methodische Grundlagen und praktische Anwendung. Frankfurt am Main : DGI. (DGI Schrift; Informationswissenschaft   10).
+Grosch, A. N. (1986). Index-aid: Computer assisted back-of-the-book indexing. Electronic Library. 4(5), 278 280.
+Hornyak, B. (2002). Indexing Specialties: Psychology. Medford, NJ : Information Today, Inc.
+Kendrick, P. & Zafran, E. L. (Eds.). (2001). Indexing Specialties: Law. Medford, NJ : Information Today, Inc.
+Mulvany, Nancy (2005) Indexing Books, 2nd ed. (University of Chicago Press) ISBN 0-226-55276-4
+School of Library, archival and information studies, The University of British Columbia. Indexing resources on the WWW. Back-of-the-Book indexing. Hentet fra: https://web.archive.org/web/20140805233922/http://www.slais.ubc.ca/resources/indexing/backof2.htm
+Sch tze, H. (1998). The Hypertext Concordance: A Better Back-of-the-Book Index. I: Proceedings of Computerm  98 (Montreal, Canada, 1998). D. Bourigault, C. Jacquemin, and M.-C. L Homme, Eds., pp. 101 104.
+Smith, Sherry & Kells, Kari (2005) Inside Indexing: the Decision-Making Process (Northwest Indexing Press), ISBN 0-9771035-0-1
+Stauber, Do Mi (2004) Facing the Text: Content and Structure in Book Indexing (Cedar Row Press) ISBN 0-9748345-0-5
+Towery, M. (Ed.). (1998). Indexing Specialties: History. Medford, NJ : Information Today, Inc.
+Wellisch, Hans (1995) Indexing from A to Z, 2nd ed. (H. W. Wilson) ISBN 0-8242-0807-2
+Wellisch, Hans, H. (1986). "The Oldest Printed Indexes." The Indexer vol 15 no 2 October., pp. 1 10.
+Witty, F. J. (1965). Early indexing techniques. Library Quarterly 35, 141 148.
+Witty, F. J. (1973). Beginnings of indexing and abstracting: some notes towards a history of indexing and abstracting in antiquity and the Middle Ages. The Indexer : Journal of the Society of Indexers., 8, 193 198.
+Wu, Z. etc. (2013). Can Back-of-the-Book Indexes be Automatically Created? In Proceedings of CIKM 2013. San Francisco, CA, USA.
+Wyman, L. P. (Ed.). (1999). Indexing Specialities: Medicine. Medford, NJ : Information Today, Inc.
+External links[edit]
+Wikimedia Commons has media related to Indexes.
+The Indexer (the international journal)
+Consideration in Indexing Online Documents
+Usability studies for indexes
+Reflections on Authorship and Indexing
+"The Definite Article: Acknowledging 'The' in Index Entries Archived 2009-03-25 at the Wayback Machine", Glenda Browne, The Indexer, vol. 22, no. 3 April 2001, pp. 119 22.
+The role of indexing in technical communication
+Indexing FAQ/Intro Archived 2015-09-23 at the Wayback Machine
+Author-Created Indexes
+Should Authors Index Their Own Books? Archived 2016-02-05 at the Wayback Machine
+vteThe book publishing processCopy preparation
+Submission
+Literary agent
+Publisher's reader
+Contract negotiation
+intellectual property rights
+royalty rates, format, etc.
+Editing
+Literary editor
+Commissioning editor
+Developmental editor
+Authors' editor
+Book editor
+Copy editing
+Prepress
+Design
+Indexing
+Typesetting
+Proof-reading
+List of proofreader's marks
+Book production
+Printing
+Folding
+Binding
+Trimming
+Imprint
+vteBook designPage layout and typography
+Annotation
+Footnote
+Gloss
+Marginal note
+Scholia
+Canons of page construction
+Catchword
+Column
+Footer
+Header
+Headpiece
+Illumination
+Initial
+Historiated
+Inhabited
+Margin
+Miniature
+Ornament
+Page numbering
+Pull quote
+Recto and verso
+Rubric
+Rubrication
+Typeface
+Font
+Front and back covers
+Anthropodermic bibliopegy
+Bookbinding
+Buckram
+Dust jacket
+Hardcover
+Leather
+Paperback
+Picture cover
+Treasure binding
+Endpapers
+Marbled
+Front matter
+Half-title
+bastard title
+Frontispiece
+Title page
+Edition notice
+Imprimi potest
+Nihil obstat
+Imprimatur
+Dedication
+Epigraph
+Table of contents
+Foreword
+Preface
+Acknowledgments
+Introduction
+Prologue
+Printer's mark
+Body matter
+Body text
+Chapters
+Illustrations
+Parts
+Sections
+Tipped-in pages
+Back matter
+Afterword
+Conclusion
+Epilogue
+Outro
+Postscript
+Addendum/Appendix
+Endnotes
+Glossary
+Bibliography
+Index
+Errata
+Colophon
+Postface
+Other elements
+Book curse
+Bookplate
+ex-libr s
+Book rhyme
+Die-cutting
+Extra-illustration
+Fore-edge painting
+Intentionally blank page
+Pop-ups
+Slipcase
+Thumb index
+Authority control: National 
+France
+BnF data
+Israel
+United States
+Latvia
+Japan
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Index_(publishing)&oldid=1134263346"

@@ -1,0 +1,279 @@
+Family of industrial methods for generating hydrogen
+Hydrogen production is the family of industrial methods for generating hydrogen gas. As of 2020, the majority of hydrogen ( 95%) is produced from fossil fuels by steam reforming of natural gas and other light hydrocarbons, partial oxidation of heavier hydrocarbons, and coal gasification.[1][2] Other methods of hydrogen production include biomass gasification, zero-CO2-emission methane pyrolysis, and electrolysis of water. The latter processes, methane pyrolysis as well as water electrolysis can be done directly with any source of electricity, such as solar power.
+The production of hydrogen plays a key role in any industrialized society, since hydrogen is required for many essential chemical processes.[3] In 2020, roughly 87 million tons of hydrogen was produced[4] worldwide for various uses, such as oil refining, in the production of ammonia through the Haber process, and in the production of methanol through reduction of carbon monoxide. The global hydrogen generation market was valued at US$135.94 billion in 2021, and expected to grow to US$219.2 billion by 2030, with a compound annual growth rate (CAGR) of 5.4% from 2021 to 2030.[5]
+Methods of hydrogen production[edit]
+ Gasification
+There are four main sources for the commercial production of hydrogen: natural gas, oil, coal, and electrolysis; which account for 48%, 30%, 18% and 4% of the world's hydrogen production respectively.[6] Fossil fuels are the dominant source of industrial hydrogen.[7] Carbon dioxide can be separated from natural gas with a 70 85% efficiency for hydrogen production and from other hydrocarbons to varying degrees of efficiency.[8] Specifically, bulk hydrogen is usually produced by the steam reforming of methane or natural gas.[9]
+Steam methane reforming[edit]
+Main article: Steam reforming
+Steam methane reforming (SMR) is a method of producing hydrogen from natural gas, which is mostly methane (CH4). It is currently the cheapest source of industrial hydrogen. Nearly 50% of the world's hydrogen is being produced by this method.[10] The process consists of heating the gas to between 700 1,100 C (1,292 2,012 F) in the presence of steam and a nickel catalyst. The resulting endothermic reaction breaks up the methane molecules and forms carbon monoxide and molecular hydrogen (H2).[6]
+The carbon monoxide gas can then be passed with steam over iron oxide or other oxides and undergo a water-gas shift reaction to obtain further quantities of H2. The downside to this process is that its byproducts are major atmospheric release of CO2, CO and other greenhouse gases.[6] Depending on the quality of the feedstock (natural gas, rich gases, naphtha, etc.), one ton of hydrogen produced will also produce 9 to 12 tons of CO2, a greenhouse gas that may be captured.[11]
+ Illustrating inputs and outputs of steam reforming of natural gas, a process to produce hydrogen and CO2 greenhouse gas that may be captured with CCS
+For this process, high temperature steam (H2O) reacts with methane (CH4) in an endothermic reaction to yield syngas.[12]
+CH4 + H2O       CO  +  3 H2
+In a second stage, additional hydrogen is generated through the lower-temperature, exothermic, water-gas shift reaction, performed at about 360 C (680 F):
+CO + H2O   CO2 + H2
+Essentially, the oxygen (O) atom is stripped from the additional water (steam) to oxidize CO to CO2. This oxidation also provides energy to maintain the reaction.  Additional heat required to drive the process is generally supplied by burning some portion of the methane.
+Other fossil fuel methods[edit]
+Methane pyrolysis[edit]
+ Illustrating inputs and outputs of methane pyrolysis, an efficient one-step process to produce hydrogen and no greenhouse gas
+Pyrolysis of methane is a hydrogen production process from natural gas. Hydrogen separation occurs in one step via flow through a molten metal catalyst[13] in a "bubble column".[14] It is a "no-greenhouse-gas" approach for potentially low-cost hydrogen production being measured for its capability to scale up[15] and for operation at scale.[16][17]
+The process is conducted at higher temperatures (1065 C or 1950 F).[18][19][20] Other forms of methane pyrolysis, such as the thermo-catalytic decomposition of methane, however, are able to operate at a reduced temperature between 600 C - 1000 C depending on the chosen catalyst.[21]
+CH4(g)   C(s) + 2 H2(g)  H  = 74.8 kJ/mol
+The industrial quality solid carbon can then be sold as manufacturing feedstock or landfilled, it is not released into the atmosphere and does not pollute groundwater in landfills.
+Partial oxidation[edit]
+Hydrogen production from heavy hydrocarbons, which are unsuitable for catalytic steam reforming, is achieved by partial oxidation. A fuel-air or fuel-oxygen mixture is partially combusted, resulting in a hydrogen- and carbon monoxide-rich syngas. More hydrogen and carbon dioxide are then obtained from carbon monoxide (and water) via the water-gas shift reaction.[6]  Carbon dioxide can be co-fed to lower the hydrogen to carbon monoxide ratio.
+The partial oxidation reaction occurs when a substoichiometric fuel-air mixture or fuel-oxygen is partially combusted in a reformer or partial oxidation reactor. A distinction is made between thermal partial oxidation (TPOX) and catalytic partial oxidation (CPOX). The chemical reaction takes the general form:
+CnHm + n/2 O2   n CO + m/2 H2
+Idealized examples for heating oil and coal, assuming compositions C12H24 and C24H12 respectively, are as follows:
+C12H24 + 6 O2   12 CO + 12 H2
+C24H12 + 12 O2   24 CO + 6 H2
+Plasma reforming[edit]
+The Kv rner process or Kvaerner carbon black & hydrogen process (CB&H)[22] is a plasma reforming method, developed in the 1980s by a Norwegian company of the same name, for the production of hydrogen and carbon black from liquid hydrocarbons (CnHm). Of the available energy of the feed, approximately 48% is contained in the hydrogen, 40% is contained in activated carbon and 10% in superheated steam.[23] CO2 is not produced in the process.
+A variation of this process is presented in 2009 using, plasma arc waste disposal technology for the production of hydrogen, heat and carbon from methane and natural gas in a plasma converter.[24]
+Coal[edit]
+For the production of hydrogen from coal, coal gasification is used. The process of coal gasification uses steam and oxygen to break molecular bonds in coal and form a gaseous mixture of hydrogen and carbon monoxide.[25] Carbon dioxide and pollutants may be more easily removed from gas obtained from coal gasification versus coal combustion.[26][27]  Another method for conversion is low-temperature and high-temperature coal carbonization.[28]
+Coke oven gas made from pyrolysis (oxygen free heating) of coal has about 60% hydrogen, the rest being methane, carbon monoxide, carbon dioxide, ammonia, molecular nitrogen, and hydrogen sulfide (H2S).  Hydrogen can be separated from other impurities by the pressure-swing adsorption process.  Japanese steel companies have carried out production of hydrogen by this method.
+Petroleum coke[edit]
+Petroleum coke can also be converted to hydrogen-rich syngas via coal gasification. The produced syngas consists mainly of hydrogen, carbon monoxide and H2S from the sulfur in the coke feed. Gasification is an option for producing hydrogen from almost any carbon source.[29]
+Depleted oil wells[edit]
+Injecting appropriate microbes into depleted oil wells allows them to extract hydrogen from the remaining, unrecoverable oil. Since the only inputs are the microbes, production costs are low. The method also produces concentrated CO2 that needs to be captured and stored.[30]
+From water[edit]
+Main article: Water splitting
+Methods to produce hydrogen without the use of fossil fuels involve the process of water splitting, or splitting the water molecule (H2O) into its components oxygen and hydrogen. When the source of energy for water splitting is renewable or low-carbon, the hydrogen produced is sometimes referred to as green hydrogen. The conversion can be accomplished in several ways, but all methods are currently considered more expensive than fossil-fuel based production methods.
+Electrolysis[edit]
+Main article: Electrolysis of water
+ Illustrating inputs and outputs of electrolysis of water, for production of hydrogen and no greenhouse gas
+Around 8 GW of electrolysis capacity is installed worldwide in 2020, accounting for around 4% of global hydrogen production.[31]
+Electrolysis consists of using electricity to split water into hydrogen and oxygen. Electrolysis of water is 70 80% efficient (a 20 30% conversion loss)[32][33] while steam reforming of natural gas has a thermal efficiency between 70 and 85%.[34] The electrical efficiency of electrolysis is expected to reach 82 86%[35] before 2030, while also maintaining durability as progress in this area continues apace.[36]
+Water electrolysis can operate between 50 80 C (122 176 F), while steam methane reforming requires temperatures between 700 1,100 C (1,292 2,012 F).[37] The difference between the two methods is the primary energy used; either electricity (for electrolysis) or natural gas (for steam methane reforming).  Due to their use of water, a readily available resource, electrolysis and similar water-splitting methods have attracted the interest of the scientific community. With the objective of reducing the cost of hydrogen production, renewable sources of energy have been targeted to allow electrolysis.[25]
+There are three main types of electrolytic cells, solid oxide electrolyser cells (SOECs), polymer electrolyte membrane cells (PEM) and alkaline electrolysis cells (AECs).[38] Traditionally, alkaline electrolysers are cheaper in terms of investment (they generally use nickel catalysts), but less-efficient; PEM electrolysers, conversely, are more expensive (they generally use expensive platinum group metal catalysts) but are more efficient and can operate at higher current densities, and can therefore be possibly cheaper if the hydrogen production is large enough.[39]
+SOECs operate at high temperatures, typically around 800 C (1,470 F). At these high temperatures, a significant amount of the energy required can be provided as thermal energy (heat), and as such is termed high-temperature electrolysis. The heat energy can be provided from a number of different sources, including waste industrial heat, nuclear power stations or concentrated solar thermal plants. This has the potential to reduce the overall cost of the hydrogen produced by reducing the amount of electrical energy required for electrolysis.[40][41][42][43]
+PEM electrolysis cells typically operate below 100 C (212 F).[40] These cells have the advantage of being comparatively simple and can be designed to accept widely varying voltage inputs, which makes them ideal for use with renewable sources of energy such as photovoltaic solar panels.[44] AECs optimally operate at high concentrations of electrolyte (KOH or potassium carbonate) and at high temperatures, often near 200 C (392 F).
+Industrial output and efficiency[edit]
+Efficiency of modern hydrogen generators is measured by energy consumed per standard volume of hydrogen (MJ/m3), assuming standard temperature and pressure of the H2. The lower the energy used by a generator, the higher would be its efficiency; a 100%-efficient electrolyser would consume 39.4 kilowatt-hours per kilogram (142 MJ/kg) of hydrogen,[45] 12,749 joules per litre (12.75 MJ/m3).  Practical electrolysis typically uses a rotating electrolyser, where centrifugal force helps separate gas bubbles from water.[46] Such an electrolyser at 15 bar pressure may consume 50 kilowatt-hours per kilogram (180 MJ/kg), and a further 15 kilowatt-hours (54 MJ) if the hydrogen is compressed for use in hydrogen cars.[47]
+Conventional alkaline electrolysis has an efficiency of about 70%,[48] however advanced alkaline water electrolyser with efficiency of up to 82% are available.[49] Accounting for the use of the higher heat value (because inefficiency via heat can be redirected back into the system to create the steam required by the catalyst), average working efficiencies for PEM electrolysis are around 80%, or 82% using the most modern alkaline electrolysers.[50]
+PEM efficiency is expected to increase to approximately 86%[51] before 2030. Theoretical efficiency for PEM electrolysers is predicted up to 94%.[52]
+ H2 production cost ($-gge untaxed) at varying natural gas prices
+As of 2020, the cost of hydrogen by electrolysis is around $3 8/kg.[53] Considering the industrial production of hydrogen, and using current best processes for water electrolysis (PEM or alkaline electrolysis) which have an effective electrical efficiency of 70 82%,[54][55][56] producing 1 kg of hydrogen (which has a specific energy of 143 MJ/kg or about 40 kWh/kg) requires 50 55 kWh of electricity. At an electricity cost of $0.06/kWh, as set out in the Department of Energy hydrogen production targets for 2015,[57] the hydrogen cost is $3/kg.
+The US DOE target price for hydrogen in 2020 is $2.30/kg, requiring an electricity cost of $0.037/kWh, which is achievable given recent PPA tenders for wind and solar in many regions.[58] The report by IRENA.ORG is an extensive factual report of present-day industrial hydrogen production consuming about 53 to 70  kWh per kg could go down to about 45 kWh/kg H2.[59] The thermodynamic energy required for hydrogen by electrolysis  translates to 33 kWh/kg, which is higher than steam reforming with carbon capture and higher than methane pyrolysis.
+One of the advantages of electrolysis over hydrogen from steam methane reforming (SMR) is that the hydrogen can be produced on-site, meaning that the costly process of delivery via truck or pipeline is avoided.
+Steam methane reforming is between $1[53] 3/kg on average.[citation needed] This makes production of hydrogen via electrolysis cost competitive in many regions already, as outlined by Nel Hydrogen[60] and others, including an article by the IEA[61] examining the conditions which could lead to a competitive advantage for electrolysis.
+Chemically assisted electrolysis[edit]
+In addition to reduce the voltage required for electrolysis via the increasing of the temperature of the electrolysis cell it is also possible to electrochemically consume the oxygen produced in an electrolyser by introducing a fuel (such as carbon/coal,[62] methanol,[63][64] ethanol,[65] formic acid,[66]  glycerol,[66] etc.) into the oxygen side of the reactor. This reduces the required electrical energy and has the potential to reduce the cost of hydrogen to less than 40~60% with the remaining energy provided in this manner.[67]
+Carbon/hydrocarbon assisted water electrolysis (CAWE) has the potential to offer a less energy intensive, cleaner method of using chemical energy in various sources of carbon, such as low-rank and high sulfur coals, biomass, alcohols and methane (Natural Gas), where pure CO2 produced can be easily sequestered without the need for separation.[68][69]
+Radiolysis[edit]
+Nuclear radiation can break water bonds through radiolysis.[70][71] In the Mponeng gold mine, South Africa, researchers found bacteria in a naturally occurring high radiation zone. The bacterial community which was dominated by a new phylotype of Desulfotomaculum, was feeding on primarily radiolytically produced hydrogen.[72]
+Thermolysis[edit]
+Water spontaneously dissociates at around 2500 C, but this thermolysis occurs at temperatures too high for usual process piping and equipment resulting in a rather low commercialization potential.[73]
+Thermolysis via solar energy[edit]
+Hydrogen production via water thermolysis based on solar energy involves using solar concentrators to directly collect solar energy to heat water to 2500 K, at which temperature it decomposes into H2 and O2.[74] The heating temperature can be reduced by applying catalysts which allow the water decomposition by steps with lower energy.
+Pyrolysis on biomass[edit]
+Pyrolysis can be divided into different types based on the pyrolysis temperature, namely low-temperature slow pyrolysis, medium-temperature rapid pyrolysis, and high-temperature flash pyrolysis.[75] The source energy is mainly solar energy, with help of photosynthetic microorganisms to decompose water or biomass to produce hydrogen. However, this process has relatively low hydrogen yields and high operating cost. It is not a feasible method for industry.
+Nuclear-assisted thermolysis[edit]
+The high-temperature gas-cooled reactor (HTGR) is one of the most promising CO2-free nuclear technique to produce hydrogen by splitting water in a large scale. In this method, iodine-sulfur (IS) thermo-chemical cycle for splitting water and high-temperature steam electrolysis (HTSE) were selected as the main processes for nuclear hydrogen production. The S-I cycle follows three chemical reactions:[76]
+Bunsen reaction: I2+SO2+2H2O=H2SO4+2HI
+HI decomposition: 2HI=H2+I2
+Sulfuric acid decomposition: H2SO4=SO2+1/2O2+H2O
+The hydrogen production rate of HTGR with IS cycle is approximately 0.68 kg/s, and the capital cost to build a unit of power plant is $100 million.
+Thermochemical cycle[edit]
+Main article: thermochemical cycle
+Thermochemical cycles combine solely heat sources (thermo) with chemical reactions to split water into its hydrogen and oxygen components.[77] The term cycle is used because aside from water, hydrogen and oxygen, the chemical compounds used in these processes are continuously recycled. If electricity is partially used as an input, the resulting thermochemical cycle is defined as a hybrid one.
+The sulfur-iodine cycle (S-I cycle) is a thermochemical cycle processes which generates hydrogen from water with an efficiency of approximately 50%.  The sulfur and iodine used in the process are recovered and reused, and not consumed by the process.  The cycle can be performed with any source of very high temperatures, approximately 950 C, such as by Concentrating solar power systems (CSP) and is regarded as being well suited to the production of hydrogen by high-temperature nuclear reactors,[78] and as such, is being studied in the High-temperature engineering test reactor in Japan.[79][80][81][82] There are other hybrid cycles that use both high temperatures and some electricity, such as the Copper chlorine cycle, it is classified as a hybrid thermochemical cycle because it uses an electrochemical reaction in one of the reaction steps, it operates at 530 C and has an efficiency of 43 percent.[83]
+Ferrosilicon method[edit]
+Ferrosilicon is used by the military to quickly produce hydrogen for balloons. The chemical reaction uses sodium hydroxide, ferrosilicon, and water. The generator is small enough to fit a truck and requires only a small amount of electric power, the materials are stable and not combustible, and they do not generate hydrogen until mixed.[84] The method has been in use since World War I.  A heavy steel pressure vessel is filled with sodium hydroxide and ferrosilicon, closed, and a controlled amount of water is added; the dissolving of the hydroxide heats the mixture to about 93 C and starts the reaction; sodium silicate, hydrogen and steam are produced.[85]
+Photobiological water splitting[edit]
+ An algae bioreactor for hydrogen production.
+Main article: Biological hydrogen production (Algae)
+Biological hydrogen can be produced in an algae bioreactor.[86] In the late 1990s it was discovered that if the algae are deprived of sulfur it will switch from the production of oxygen, i.e. normal photosynthesis, to the production of hydrogen. It seems that the production is now economically feasible by surpassing the 7 10 percent energy efficiency (the conversion of sunlight into hydrogen) barrier.[87] with a hydrogen production rate of 10 12 ml per liter culture per hour.[88]
+Photocatalytic water splitting[edit]
+Main article: Photocatalytic water splitting
+The conversion of solar energy to hydrogen by means of water splitting process is one of the most interesting ways to achieve clean and renewable energy systems. However, if this process is assisted by photocatalysts suspended directly in water instead of using photovoltaic and an electrolytic system the reaction is in just one step, it can be made more efficient.[89][90][91]
+Biohydrogen routes[edit]
+Biomass and waste streams can in principle be converted into biohydrogen with biomass gasification, steam reforming, or biological conversion like biocatalysed electrolysis[67] or fermentative hydrogen production.[7]
+Among hydrogen production methods such as steam methane reforming, thermal cracking, coal and biomass gasification and pyrolysis, electrolysis, and photolysis, biological ones are more eco-friendly and less energy intensive. In addition, a wide variety of waste and low-value materials such as agricultural biomass as renewable sources can be utilized to produce hydrogen via biochemical pathways. Nevertheless, at present hydrogen is produced mainly from fossil fuels, in particular, natural gas which are non-renewable sources. Hydrogen is not only the cleanest fuel but also widely used in a number of industries, especially fertilizer, petrochemical and food ones.[92]
+This makes it logical to investigate alternative sources for hydrogen production. The main biochemical technologies to produce hydrogen are dark and photo fermentation processes. In dark fermentation, carbohydrates are converted to hydrogen by fermentative microorganisms including strict anaerobe and facultative anaerobe bacteria. A theoretical maximum of 4 mol H2/mol glucose can be produced and, besides hydrogen, sugars are converted to volatile fatty acids (VFAs) and alcohols as by-products during this process. Photo fermentative bacteria are able to generate hydrogen from VFAs. Hence, metabolites formed in dark fermentation can be used as feedstock in photo fermentation to enhance the overall yield of hydrogen.[92]
+Fermentative hydrogen production[edit]
+Main articles: fermentative hydrogen production and dark fermentation
+Biohydrogen can be produced in bioreactors. The process involves bacteria consuming hydrocarbons and producing hydrogen and CO2. The CO2 and hydrogen can be separated.
+Fermentative hydrogen production is the fermentative conversion of organic substrate to biohydrogen manifested by a diverse group of bacteria using multi enzyme systems involving three steps similar to anaerobic conversion. Dark fermentation reactions do not require light energy, so they are capable of constantly producing hydrogen from organic compounds throughout the day and night. Photofermentation differs from dark fermentation because it only proceeds in the presence of light. For example, photo-fermentation with Rhodobacter sphaeroides SH2C can be employed to convert small molecular fatty acids into hydrogen.[93]
+Fermentative hydrogen production can be done using direct biophotolysis by green algae, indirect biophotolysis by cyanobacteria, photo-fermentation by anaerobic photosynthetic bacteria and dark fermentation by anaerobic fermentative bacteria. For example, studies on hydrogen production using H. salinarium, an anaerobic photosynthetic bacteria, coupled to a hydrogenase donor like E. coli,  are reported in literature.[94] Enterobacter aerogenes is another hydrogen producer.[95]
+Enzymatic hydrogen generation[edit]
+Diverse enzymatic pathways have been designed to generate hydrogen from sugars.[96]
+Biocatalysed electrolysis[edit]
+ A microbial electrolysis cell
+Main articles: electrohydrogenesis and microbial fuel cell
+Besides dark fermentation, electrohydrogenesis (electrolysis using microbes) is another possibility. Using microbial fuel cells, wastewater or plants can be used to generate power. Biocatalysed electrolysis should not be confused with biological hydrogen production, as the latter only uses algae and with the latter, the algae itself generates the hydrogen instantly, where with biocatalysed electrolysis, this happens after running through the microbial fuel cell and a variety of aquatic plants[97] can be used. These include reed sweetgrass, cordgrass, rice, tomatoes, lupines and algae.[98]
+ Nano-galvanic aluminum-based powder developed by the U.S. Army Research Laboratory
+Nanogalvanic aluminum alloy powder[edit]
+Main article: Aluminum based nanogalvanic alloys
+An aluminum alloy powder invented by the U.S. Army Research Laboratory in 2017 was shown to be capable of producing hydrogen gas upon contact with water or any liquid containing water due to its unique nanoscale galvanic microstructure. It reportedly generates hydrogen at 100 percent of the theoretical yield without the need for any catalysts, chemicals, or externally supplied power.[99][100]
+CC-HOD[edit]
+Main article: CC-HOD
+CC-HOD (Catalytic Carbon - Hydrogen On Demand) is a low-temperature process in which carbon and aluminium are submerged and heated to about 80 C (176 F), causing a chemical reaction which produces hydrogen.
+Environmental impact[edit]
+As of 2020, most hydrogen is produced from fossil fuels, resulting in carbon dioxide emissions.[101] This is often referred to as grey hydrogen when emissions are released to the atmosphere, and blue hydrogen when emissions are captured through carbon capture and storage (CCS).[102] Blue hydrogen has been estimated to have a carbon footprint 20% greater than burning gas or coal for heat and 60% greater when compared to burning diesel for heat, assuming US up- and mid-stream methane leakage rates and production via steam methane reformers (SMR) retrofitted with carbon dioxide capture.[103]
+The use of autothermal reformers (ATR) with integrated capture of carbon dioxide allows higher capture rates at satisfactory energy efficiencies and life cycle assessments have shown lower greenhouse gas emissions for such plants compared to SMRs with carbon dioxide capture.[104] Application of ATR technology with integrated capture of carbon dioxide in Europe has been assessed to have a lower greenhouse gas footprint than burning natural gas, e.g. for the H21 project with a reported reduction of 68% due to a reduced carbon dioxide intensity of natural gas combined with a more suitable reactor type for capture of carbon dioxide.[105]
+Hydrogen produced using the newer, non-polluting technology methane pyrolysis[106] is often referred to as turquoise hydrogen. High quality hydrogen is produced directly  from natural gas and the associated non-polluting solid carbon is not released into the atmosphere and can then be sold for industrial use or stored in landfill.
+Hydrogen produced from renewable energy sources is often referred to as green hydrogen. There are two practical ways of producing hydrogen from renewable energy sources. One is to use power to gas, in which electric power is used to produce hydrogen from electrolysis of water, and the other is to use landfill gas to produce hydrogen in a steam reformer. Hydrogen fuel, when produced by renewable sources of energy like wind or solar power, is a renewable fuel.[107] Hydrogen produced from nuclear energy via electrolysis is sometimes viewed as a subset of green hydrogen, but can also be referred to as pink hydrogen. The Oskarshamn Nuclear Power Plant made an agreement in January 2022 to supply commercial pink hydrogen in the order of kilograms per day.[108]
+As of 2020[update], estimated costs of production are $1 1.80/kg for grey hydrogen and  blue hydrogen,[109] and $2.50 6.80 for green hydrogen.[109]
+94 million tonnes of grey hydrogen are currently produced globally using fossil fuels as of 2022, primarily natural gas, and are therefore a significant source of greenhouse gas emissions.[110][111][112][113]
+Use of hydrogen[edit]
+See also: Hydrogen economy
+Hydrogen is used for the conversion of heavy petroleum fractions into lighter ones via hydrocracking.  It is also used in other processes including the aromatization process, hydrodesulfurization and the production of ammonia via the Haber process, the primary industrial method for the production of synthetic nitrogen fertilizer for growing 47 percent of food worldwide.[114]
+Hydrogen may be used in fuel cells for local electricity generation or potentially as a transportation fuel.
+Hydrogen is produced as a by-product of industrial chlorine production by electrolysis. Although requiring expensive technologies, hydrogen can be cooled, compressed and purified for use in other processes on site or sold to a customer via pipeline, cylinders or trucks. The discovery and development of less expensive methods of production of bulk hydrogen is relevant to the establishment of a hydrogen economy.[7]
+See also[edit]
+Wikimedia Commons has media related to Hydrogen production.
+Ammonia production
+Artificial photosynthesis
+Biohydrogen
+Hydrogen analyzer
+Hydrogen compressor
+Hydrogen economy  Color codes
+Hydrogen embrittlement
+Hydrogen leak testing
+Hydrogen pipeline transport
+Hydrogen purifier
+Hydrogen purity
+Hydrogen safety
+Hydrogen sensor
+Hydrogen storage
+Hydrogen station
+Hydrogen tank
+Hydrogen tanker
+Hydrogen technologies
+Hydrogen valve
+Industrial gas
+Liquid hydrogen
+Next Generation Nuclear Plant (partly for hydrogen production)
+Hy4Heat
+Lane hydrogen producer
+Linde Frank Caro process
+Underground hydrogen storage
+References[edit]
+^ Liu, Ke; Song, Chunshan; Subramani, Velu, eds. (2009). Hydrogen and Syngas Production and Purification Technologies. doi:10.1002/9780470561256. ISBN 9780470561256.
+^ "Life cycle emissions of hydrogen". 4thgeneration.energy. Retrieved 2020-05-27.
+^ Energy, U. S. D. o. The Impact of Increased Use of Hydrogen on Petroleum Consumption and Carbon Dioxide Emissions. 84 (Energy Information Administration, Washington, DC, 2008)
+^ Collins, Leigh (2021-05-18). "A net-zero world 'would require 306 million tonnes of green hydrogen per year by 2050': IEA | Recharge". Recharge | Latest renewable energy news. Archived from the original on 2021-05-21.
+^ "Global Hydrogen Generation Market Size Report, 2030".
+^ a b c d Press, Roman J.; Santhanam, K. S. V.; Miri, Massoud J.; Bailey, Alla V.; Takacs, Gerald A. (2008). Introduction to hydrogen Technology. John Wiley & Sons. p. 249. ISBN 978-0-471-77985-8.
+^ a b c H ussinger, Peter; Lohm ller, Reiner; Watson, Allan M. (2011). "Hydrogen, 1. Properties and Occurrence". Ullmann's Encyclopedia of Industrial Chemistry. doi:10.1002/14356007.a13_297.pub2. ISBN 978-3-527-30673-2.
+^ "About Hydrogen Fuel Cell Vehicles (They're Not Clean)". 4 June 2014.
+^ "How Fuel Processors Work". HowStuffWorks. October 4, 2000.
+^ Dincer, Ibrahim; Acar, Canan (2015). "Review and evaluation of hydrogen production methods for better sustainability". International Journal of Hydrogen Energy. 40 (34): 11096. doi:10.1016/j.ijhydene.2014.12.035. ISSN 0360-3199.
+^ Collodi, Guido (2010-03-11). "Hydrogen Production via Steam Reforming with CO2 Capture" (PDF). CISAP4 4th International Conference on Safety and Environment in the Process Industry. Retrieved 2015-11-28.
+^ "HFCIT Hydrogen Production: Natural Gas Reforming". U.S. Department of Energy. 2008-12-15.
+^ 
+Upham, D. Chester (17 November 2017). "Catalytic molten metals for the direct conversion of methane to hydrogen and separable carbon in a single reaction step commercial process (at potentially low-cost). This would provide no-pollution hydrogen from natural gas, essentially forever". Science. American Association for Advancement of Science. 358 (6365): 917 921. Bibcode:2017Sci...358..917U. doi:10.1126/science.aao5023. PMID 29146810. S2CID 206663568. Retrieved 31 October 2020.
+^ 
+Upham, D. Chester (17 November 2017). "Catalytic molten metals for the direct conversion of methane to hydrogen and separable carbon in a single reaction step commercial process (at potentially low-cost). This would provide no-pollution hydrogen from natural gas, essentially forever". Science. American Association for Advancement of Science. 358 (6365): 917 921. Bibcode:2017Sci...358..917U. doi:10.1126/science.aao5023. PMID 29146810. S2CID 206663568. Retrieved 31 October 2020.
+^ 
+Fernandez, Sonia. "Researchers at University of California - Santa Barbara chemical engineering team develop potentially low-cost, low-emissions, scalable technology that can convert methane to hydrogen without forming CO2". Phys-Org. American Institute of Physics. Retrieved 19 October 2020.
+^ 
+BASF. "BASF researchers working on fundamentally new, low-carbon hydrogen production processes, Methane Pyrolysis". United States Sustainability. BASF. Retrieved 19 October 2020.
+^ Schneider, Stefan (2020). "State of the Art of Hydrogen Production via Pyrolysis of Natural Gas". ChemBioEng Reviews. Wiley Online Library. 7 (5): 150 158. doi:10.1002/cben.202000014.
+^ Clarke, Palmer (2020). "Dry reforming of methane catalyzed by molten metal alloys". Nature Catalysis. 3: 83 89. doi:10.1038/s41929-019-0416-2. S2CID 210862772. Retrieved 31 October 2020.
+^ Cartwright, Jon. "The reaction that would give us clean fossil fuels forever". NewScientist. New Scientist Ltd. Retrieved 30 October 2020.
+^ Karlsruhe Institute of Technology. "Hydrogen from methane without CO2 emissions". Phys.Org. Phys.Org. Retrieved 30 October 2020.
+^ Lumbers, Brock (2022). "Mathematical modelling and simulation of the thermo-catalytic decomposition of methane for economically improved hydrogen production". International Journal of Hydrogen Energy. 47 (7): 4265 4283. doi:10.1016/j.ijhydene.2021.11.057. S2CID 244814932. Retrieved 16 March 2022.
+^ "Hydrogen technologies". www.interstatetraveler.us.
+^ [1][permanent dead link][full citation needed]
+^ "Kv rner-process with plasma arc waste disposal technology". Archived from the original on 2014-03-13. Retrieved 2009-10-13.
+^ a b Hordeski, M. F. Alternative fuels: the future of hydrogen.  171-199 (The Fairmont Press, inc., 2007).
+^ "Emissions Advantages of Gasification". National Energy Technology Laboratory. U.S. Department of Energy.
+^ "Emissions from burning coal". U.S. EIA. U.S. Energy Information Administration.
+^ Lee, Woon-Jae; Lee, Yong-Kuk (2001). "Internal Gas Pressure Characteristics Generated during Coal Carbonization in a Coke Oven". Energy & Fuels. 15 (3): 618 23. doi:10.1021/ef990178a.
+^ Gemayel, Jimmy El; MacChi, Arturo; Hughes, Robin; Anthony, Edward John (2014). "Simulation of the integration of a bitumen upgrading facility and an IGCC process with carbon capture". Fuel. 117: 1288 97. doi:10.1016/j.fuel.2013.06.045.
+^ Blain, Loz (2022-10-04). "Oil-eating microbes excrete the world's cheapest "clean" hydrogen". New Atlas. Retrieved 2022-10-06.
+^ Petrova, Magdalena (2020-12-04). "Green hydrogen is gaining traction, but still has massive hurdles to overcome". CNBC. Retrieved 2021-06-20.
+^ "ITM - Hydrogen Refuelling Infrastructure - February 2017" (PDF). level-network.com. Retrieved 17 April 2018.
+^ "Cost reduction and performance increase of PEM electrolysers" (PDF). fch.europa.eu. Fuel Cells and Hydrogen Joint Undertaking. Retrieved 17 April 2018.
+^ Kalamaras, Christos M.; Efstathiou, Angelos M. (2013). "Hydrogen Production Technologies: Current State and Future Developments". Conference Papers in Energy. 2013: 1 9. doi:10.1155/2013/690627.
+^ "Cost reduction and performance increase of PEM electrolysers" (PDF). fch.europa.eu. Fuel Cell and Hydrogen Joint Undertaking. Retrieved 17 April 2018.
+^ "Report and Financial Statements 30 April 2016" (PDF). itm-power.com. Retrieved 17 April 2018.
+^ "Hydrogen Production: Natural Gas Reforming". energy.gov. US Department of Energy. Retrieved 17 April 2018.
+^ Badwal, Sukhvinder P.S.; Giddey, Sarbjit; Munnings, Christopher (2013). "Hydrogen production via solid electrolytic routes". Wiley Interdisciplinary Reviews: Energy and Environment. 2 (5): 473 487. doi:10.1002/wene.50. S2CID 135539661.
+^ Sebbahi, Seddiq; Nabil, Nouhaila;  et al. (2022). "Assessment of the three most developed water electrolysis technologies: Alkaline Water Electrolysis, Proton Exchange Membrane and Solid-Oxide Electrolysis". Materials Today: Proceedings. 66: 140 145. doi:10.1016/j.matpr.2022.04.264. ISSN 2214-7853. S2CID 248467810.
+^ a b Ogden, J.M. (1999). "Prospects for building a hydrogen energy infrastructure". Annual Review of Energy and the Environment. 24: 227 279. doi:10.1146/annurev.energy.24.1.227.
+^ Hauch, Anne; Ebbesen, Sune Dalgaard; Jensen, S ren H jgaard; Mogensen, Mogens (2008). "Highly efficient high temperature electrolysis". Journal of Materials Chemistry. 18 (20): 2331 40. doi:10.1039/b718822f.
+^ In the laboratory, water electrolysis can be done with a simple apparatus like a Hofmann voltameter:"Electrolysis of water and the concept of charge". Archived from the original on 2010-06-13.
+^ "Nuclear power plants can produce hydrogen to fuel the 'hydrogen economy'" (Press release). American Chemical Society. March 25, 2012. Archived from the original on December 10, 2019. Retrieved March 9, 2013.
+^ Clarke, R.E.; Giddey, S.; Ciacchi, F.T.; Badwal, S.P.S.; Paul, B.; Andrews, J. (2009). "Direct coupling of an electrolyser to a solar PV system for generating hydrogen". International Journal of Hydrogen Energy. 34 (6): 2531 42. doi:10.1016/j.ijhydene.2009.01.053.
+^ Luca Bertuccioli;  et al. (7 February 2014). "Development of water electrolysis in the European Union" (PDF). Client Fuel Cells and Hydrogen Joint Undertaking. Archived from the original (PDF) on 31 March 2015. Retrieved 2 May 2018.
+^ L. Lao; C. Ramshaw; H. Yeung (2011). "Process intensification: water electrolysis in a centrifugal acceleration field". Journal of Applied Electrochemistry. 41 (6): 645 656. doi:10.1007/s10800-011-0275-2. hdl:1826/6464. S2CID 53760672. Retrieved June 12, 2011.
+^ Stensvold, Tore (26 January 2016).  Coca-Cola-oppskrift  kan gj re hydrogen til nytt norsk industrieventyr. Teknisk Ukeblad, .
+^ Stolten, Detlef (Jan 4, 2016). Hydrogen Science and Engineering: Materials, Processes, Systems and Technology. John Wiley & Sons. p. 898. ISBN 9783527674299. Retrieved 22 April 2018.
+^ thyssenkrupp. "Hydrogen from water electrolysis - solutions for sustainability". thyssenkrupp-uhde-chlorine-engineers.com. Archived from the original on 19 July 2018. Retrieved 28 July 2018.
+^ "ITM - Hydrogen Refuelling Infrastructure - February 2017" (PDF). level-network.com. Retrieved 17 April 2018.
+^ "Cost reduction and performance increase of PEM electrolysers" (PDF). fch.europa.eu. Fuel Cells and Hydrogen Joint Undertaking. Retrieved 17 April 2018.
+^ Bj rnar Kruse; Sondre Grinna; Cato Buch (13 February 2002). "Hydrogen Status and Possibilities" (PDF). The Bellona Foundation. p. 20. Archived from the original on 16 September 2013.{{cite web}}:  CS1 maint: unfit URL (link)
+^ a b Fickling, David (2 December 2020). "Hydrogen Is a Trillion Dollar Bet on the Future". Bloomberg.com. Archived from the original on 2 December 2020. green hydrogen .. current pricing of around $3 to $8 a kilogram .. gray hydrogen, which costs as little as $1
+^ Werner Zittel; Reinhold Wurster (1996-07-08). "Chapter 3: Production of Hydrogen. Part 4: Production from electricity by means of electrolysis". HyWeb: Knowledge - Hydrogen in the Energy Sector. Ludwig-B lkow-Systemtechnik GmbH.
+^ Bj rnar Kruse; Sondre Grinna; Cato Buch (2002-02-13). "Hydrogen Status and Possibilities". The Bellona Foundation. Archived from the original (PDF) on 2011-07-02. Efficiency factors for PEM electrolysers up to 94% are predicted, but this is only theoretical at this time.
+^ "high-rate and high efficiency 3D water electrolysis". Grid-shift.com. Archived from the original on 2012-03-22. Retrieved 2011-12-13.
+^ "DOE Technical Targets for Hydrogen Production from Electrolysis". energy.gov. US Department of Energy. Retrieved 22 April 2018.
+^ Deign, Jason. "Xcel Attracts 'Unprecedented' Low Prices for Solar and Wind Paired With Storage". greentechmedia.com. Wood MacKenzie. Retrieved 22 April 2018.
+^ accessed June 22, 2021
+^ "Wide Spread Adaption of Competitive Hydrogen Solution" (PDF). nelhydrogen.com. Nel ASA. Retrieved 22 April 2018.
+^ Philibert, C dric. "Commentary: Producing industrial hydrogen from renewable energy". iea.org. International Energy Agency. Retrieved 22 April 2018.
+^ Giddey, S; Kulkarni, A; Badwal, S.P.S (2015). "Low emission hydrogen generation through carbon assisted electrolysis". International Journal of Hydrogen Energy. 40 (1): 70 4. doi:10.1016/j.ijhydene.2014.11.033.
+^ Uhm, Sunghyun; Jeon, Hongrae; Kim, Tae Jin; Lee, Jaeyoung (2012). "Clean hydrogen production from methanol water solutions via power-saved electrolytic reforming process". Journal of Power Sources. 198: 218 22. doi:10.1016/j.jpowsour.2011.09.083.
+^ Ju, Hyungkuk; Giddey, Sarbjit; Badwal, Sukhvinder P.S (2017). "The role of nanosized SnO2 in Pt-based electrocatalysts for hydrogen production in methanol assisted water electrolysis". Electrochimica Acta. 229: 39 47. doi:10.1016/j.electacta.2017.01.106.
+^ Ju, Hyungkuk; Giddey, Sarbjit; Badwal, Sukhvinder P.S; Mulder, Roger J (2016). "Electro-catalytic conversion of ethanol in solid electrolyte cells for distributed hydrogen generation". Electrochimica Acta. 212: 744 57. doi:10.1016/j.electacta.2016.07.062.
+^ a b Lamy, Claude; Devadas, Abirami; Simoes, Mario; Coutanceau, Christophe (2012). "Clean hydrogen generation through the electrocatalytic oxidation of formic acid in a Proton Exchange Membrane Electrolysis Cell (PEMEC)". Electrochimica Acta. 60: 112 20. doi:10.1016/j.electacta.2011.11.006.
+^ a b Badwal, Sukhvinder P. S; Giddey, Sarbjit S; Munnings, Christopher; Bhatt, Anand I; Hollenkamp, Anthony F (2014). "Emerging electrochemical energy conversion and storage technologies". Frontiers in Chemistry. 2: 79. Bibcode:2014FrCh....2...79B. doi:10.3389/fchem.2014.00079. PMC 4174133. PMID 25309898.
+^ Ju, H; Badwal, S.P.S; Giddey, S (2018). "A comprehensive review of carbon and hydrocarbon assisted water electrolysis for hydrogen production". Applied Energy. 231: 502 533. doi:10.1016/j.apenergy.2018.09.125. S2CID 117669840.
+^ Ju, Hyungkuk; Badwal, Sukhvinder; Giddey, Sarbjit (2018). "A comprehensive review of carbon and hydrocarbon assisted water electrolysis for hydrogen production". Applied Energy. 231: 502 533. doi:10.1016/j.apenergy.2018.09.125. S2CID 117669840.
+^ An Introduction to Radiation Chemistry Chapter 7
+^ Nuclear Hydrogen Production Handbook Chapter 8
+^ Li-Hung Lin; Pei-Ling Wang; Douglas Rumble; Johanna Lippmann-Pipke; Erik Boice; Lisa M. Pratt; Barbara Sherwood Lollar; Eoin L. Brodie; Terry C. Hazen; Gary L. Andersen; Todd Z. DeSantis; Duane P. Moser; Dave Kershaw; T. C. Onstott (2006). "Long-Term Sustainability of a High-Energy, Low-Diversity Crustal Biome". Science. 314 (5798): 479 82. Bibcode:2006Sci...314..479L. doi:10.1126/science.1127376. PMID 17053150. S2CID 22420345.
+^ "Dream or Reality? Electrification of the Chemical Process Industries". www.aiche-cep.com. Retrieved 2021-08-22.
+^ Wang, Mengjiao; Wang, Guizhou; Sun, Zhenxin; Zhang, Yukui; Xu, Dong (2019-10-01). "Review of renewable energy-based hydrogen production processes for sustainable energy innovation". Global Energy Interconnection. 2 (5): 436 443. doi:10.1016/j.gloei.2019.11.019. ISSN 2096-5117. S2CID 213994188.
+^ Guoxin, Hu; Hao, Huang (May 2009). "Hydrogen rich fuel gas production by gasification of wet biomass using a CO2 sorbent". Biomass and Bioenergy. 33 (5): 899 906. doi:10.1016/j.biombioe.2009.02.006. ISSN 0961-9534.
+^ Ping, Zhang; Laijun, Wang; Songzhe, Chen; Jingming, Xu (2018-01-01). "Progress of nuclear hydrogen production through the iodine sulfur process in China". Renewable and Sustainable Energy Reviews. 81: 1802 1812. doi:10.1016/j.rser.2017.05.275. ISSN 1364-0321.
+^ Producing hydrogen: The Thermochemical cycles
+^ IEA Energy Technology Essentials - Hydrogen Production & Distribution Archived 2011-11-03 at the Wayback Machine, April 2007
+^ "HTTR High Temperature engineering Test Reactor". Httr.jaea.go.jp. Archived from the original on 2014-02-03. Retrieved 2014-01-23.
+^ https://smr.inl.gov/Document.ashx?path=DOCS%2FGCR-Int%2FNHDDELDER.pdf Archived 2016-12-21 at the Wayback Machine. Progress in Nuclear Energy 
+Nuclear heat for hydrogen production: Coupling a very high/high temperature
+reactor to a hydrogen production plant. 2009
+^ "Status report 101 - Gas Turbine High Temperature Reactor (GTHTR300C)" (PDF).
+^ "JAEA'S VHTR FOR HYDROGEN AND ELECTRICITY COGENERATION: GTHTR300C" (PDF). Archived from the original (PDF) on 2017-08-10. Retrieved 2013-12-04.
+^ Chukwu, C., Naterer, G. F., Rosen, M. A., "Process Simulation of Nuclear-Produced Hydrogen with a Cu-Cl Cycle", 29th Conference of the Canadian Nuclear Society, Toronto, Ontario, Canada, June 1 4, 2008. "Process Simulation of Nuclear-Based Thermochemical Hydrogen Production with a Copper-Chlorine Cycle" (PDF). Archived from the original (PDF) on 2012-02-20. Retrieved 2013-12-04.
+^ Report No 40: The ferrosilicon process for the generation of hydrogen
+^ Candid science: conversations with famous chemists, Istv n Hargittai, Magdolna Hargittai, p. 261, Imperial College Press (2000)
+ISBN 1-86094-228-8
+^ Hemschemeier, Anja; Melis, Anastasios; Happe, Thomas (2009). "Analytical approaches to photobiological hydrogen production in unicellular green algae". Photosynthesis Research. 102 (2 3): 523 40. doi:10.1007/s11120-009-9415-5. PMC 2777220. PMID 19291418.
+^ "DOE 2008 Report 25 %" (PDF).
+^ Jenvanitpanjakul, Peesamai (February 3 4, 2010). Renewable Energy Technology And Prospect On Biohydrogen Study In Thailand (PDF). Steering Committee Meeting and Workshop of APEC Research Network for Advanced Biohydrogen Technology. Taichung: Feng Chia University. Archived from the original (PDF) on July 4, 2013.
+^ Navarro Yerga, Rufino M.;  lvarez Galv n, M. Consuelo; Del Valle, F.; Villoria De La Mano, Jos  A.; Fierro, Jos  L. G. (2009). "Water Splitting on Semiconductor Catalysts under Visible-Light Irradiation". ChemSusChem. 2 (6): 471 85. doi:10.1002/cssc.200900018. PMID 19536754.
+^ Navarro, R.M.; Del Valle, F.; Villoria De La Mano, J.A.;  lvarez-Galv n, M.C.; Fierro, J.L.G. (2009). "Photocatalytic Water Splitting Under Visible Light: Concept and Catalysts Development". Photocatalytic Technologies. Advances in Chemical Engineering. Vol. 36. pp. 111 43. doi:10.1016/S0065-2377(09)00404-9. ISBN 978-0-12-374763-1.
+^ Ropero-Vega, J.L.; Pedraza-Avella, J.A.; Ni o-G mez, M.E. (September 2015). "Hydrogen production by photoelectrolysis of aqueous solutions of phenol using mixed oxide semiconductor films of Bi Nb M O (M=Al, Fe, Ga, In) as photoanodes". Catalysis Today. 252: 150 156. doi:10.1016/j.cattod.2014.11.007.
+^ a b Asadi, Nooshin; Karimi Alavijeh, Masih; Zilouei, Hamid (2017). "Development of a mathematical methodology to investigate biohydrogen production from regional and national agricultural crop residues: A case study of Iran". International Journal of Hydrogen Energy. 42 (4): 1989 2007. doi:10.1016/j.ijhydene.2016.10.021.
+^ Tao, Y; Chen, Y; Wu, Y; He, Y; Zhou, Z (2007). "High hydrogen yield from a two-step process of dark- and photo-fermentation of sucrose". International Journal of Hydrogen Energy. 32 (2): 200 6. doi:10.1016/j.ijhydene.2006.06.034.
+^ Rajanandam, Brijesh; Kiran, Siva (2011). "Optimization of hydrogen production by Halobacterium salinarium coupled with E coli using milk plasma as fermentative substrate". Journal of Biochemical Technology. 3 (2): 242 4. Archived from the original on 2013-07-31. Retrieved 2013-03-09.
+^ Asadi, Nooshin; Zilouei, Hamid (March 2017). "Optimization of organosolv pretreatment of rice straw for enhanced biohydrogen production using Enterobacter aerogenes". Bioresource Technology. 227: 335 344. doi:10.1016/j.biortech.2016.12.073. PMID 28042989.
+^ Percival Zhang, Y-H; Sun, Jibin; Zhong, Jian-Jiang (2010). "Biofuel production by in vitro synthetic enzymatic pathway biotransformation". Current Opinion in Biotechnology. 21 (5): 663 9. doi:10.1016/j.copbio.2010.05.005. PMID 20566280.
+^ Strik, David P. B. T. B.; Hamelers (Bert), H. V. M.; Snel, Jan F. H.; Buisman, Cees J. N. (2008). "Green electricity production with living plants and bacteria in a fuel cell". International Journal of Energy Research. 32 (9): 870 6. doi:10.1002/er.1397. S2CID 96849691.
+"Living plants produce energy". Wageningen University and Research Centre (Press release). Archived from the original on 2010-05-17.
+^ Timmers, Ruud (2012). Electricity generation by living plants in a plant microbial fuel cell (PhD Thesis). ISBN 978-94-6191-282-4.[page needed]
+^ "Aluminum Based Nanogalvanic Alloys for Hydrogen Generation". U.S. Army Combat Capabilities Development Command Army Research Laboratory. Retrieved January 6, 2020.
+^ McNally, David (July 25, 2017). "Army discovery may offer new energy source". U.S. Army. Retrieved January 6, 2020.
+^ "You are being redirected..." 4thgeneration.energy.
+^ Welle, Deutsche. "First element in periodic table: Why all the fuss about hydrogen? | DW | 12.06.2020". DW.COM.
+^ Robert W. Howarth; Mark Z. Jacobson (12 August 2021). "How green is blue hydrogen?". Energy Science & Engineering. doi:10.1002/ESE3.956. ISSN 2050-0505. Wikidata Q108067259.
+^ "  Hydrogen production from natural gas and biomethane with carbon capture and storage   A techno-environmental analysis", Antonini et al. 2020, https://pubs.rsc.org/en/content/articlelanding/2020/SE/D0SE00222D
+^ "Facts on low-carbon hydrogen   A European perspective", ZEP Oct 2021, 2021, https://zeroemissionsplatform.eu/wp-content/uploads/ZEP-paper-Facts-on-low-carbon-hydrogen-%E2%80%93-A-European-perspective-October-2021.pdf
+^ Upham, D. Chester; Agarwal, Vishal; Khechfe, Alexander; Snodgrass, Zachary R.; Gordon, Michael J.; Metiu, Horia; McFarland, Eric W. (November 17, 2017). "Catalytic molten metals for the direct conversion of methane to hydrogen and separable carbon". Science. 358 (6365): 917 921. Bibcode:2017Sci...358..917U. doi:10.1126/science.aao5023. PMID 29146810. S2CID 206663568   via www.science.org.
+^ "New Horizons for Hydrogen" (PDF). Research Review. National Renewable Energy Laboratory (2): 2 9. April 2004.
+^ Collins, Leigh (25 January 2022). "World first for nuclear-powered pink hydrogen as commercial deal signed in Sweden | Recharge". Recharge | Latest renewable energy news.
+^ a b Collins, Leigh (19 March 2020). "A wake-up call on green hydrogen: the amount of wind and solar needed is immense | Recharge". Recharge | Latest renewable energy news. Archived from the original on 4 June 2021.
+^ "How does the energy crisis affect the transition to net zero?". European Investment Bank. Retrieved 2022-12-23.
+^ "Hydrogen - Fuels & Technologies". IEA. Retrieved 2022-12-23.
+^ Castelvecchi, Davide (2022-11-16). "How the hydrogen revolution can help save the planet   and how it can't". Nature. 611 (7936): 440 443. doi:10.1038/d41586-022-03699-0. PMID 36385542. S2CID 253525130.
+^ "Hydrogen". energy.ec.europa.eu. Retrieved 2022-12-23.
+^ Ritchie, Hannah. "How many people does synthetic fertilizer feed?". Our World in Data. Global Change Data Lab. Retrieved 16 September 2021.
+Further reading[edit]
+Francesco Calise;  et al., eds. (2019). Solar Hydrogen Production. Academic Press. ISBN 978-0-12-814853-2.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Hydrogen_production&oldid=1149471647"

@@ -1,0 +1,47 @@
+Device for interconnecting Ethernet devices
+ 4-port 10BASE-T Ethernet hub with selectable MDI-X/MDI port
+ 8-port Ethernet hub with one 10BASE2 connector and eight 10BASE-T ports
+An Ethernet hub, active hub, network hub, repeater hub, multiport repeater, or simply hub is a network hardware device for connecting multiple Ethernet devices together and  making them act as a single network segment. It has multiple input/output (I/O) ports, in which a signal introduced at the input of any port appears at the output of every port except the original incoming.[1] A hub works at the physical layer (layer 1) of the OSI model.[2] A repeater hub also participates in collision detection, forwarding a jam signal to all ports if it detects a collision. In addition to standard 8P8C ("RJ45") ports, some hubs may also come with a BNC or an Attachment Unit Interface (AUI) connector to allow connection to legacy 10BASE2 or 10BASE5 network segments.
+Hubs are now largely obsolete, having been replaced by network switches except in very old installations or specialized applications. As of 2011, connecting network segments by repeaters or hubs is deprecated by IEEE 802.3.[3][4][5]
+Physical layer function[edit]
+A layer 1 network device such as a hub transfers data but does not manage any of the traffic coming through it. Any packet entering a port is repeated to the output of every other port except for the port of entry. Specifically, each bit or symbol is repeated as it flows in. A repeater hub can therefore only receive and forward at a single speed. Dual-speed hubs internally consist of two hubs with a bridge between them. Since every packet is repeated on every other port, packet collisions affect the entire network, limiting its overall capacity.
+A network hub is an unsophisticated device in comparison with a switch. As a multiport repeater it works by repeating transmissions received from one of its ports to all other ports. It is aware of physical layer packets, that is it can detect their start (preamble), an idle line (interpacket gap) and sense a collision which it also propagates by sending a jam signal. A hub cannot further examine or manage any of the traffic that comes through it.[6] A hub has no memory to store data and can handle only one transmission at a time. Therefore, hubs can only run in half duplex mode. Due to a larger collision domain, packet collisions are more likely in networks connected using hubs than in networks connected using more sophisticated devices.[2]
+Connecting multiple hubs[edit]
+The need for hosts to be able to detect collisions limits the number of hubs and the total size of a network built using hubs (a network built using switches does not have these limitations).  For 10 Mbit/s networks built using repeater hubs, the 5-4-3 rule must be followed: up to five segments (four hubs) are allowed between any two end stations.[6] For 10BASE-T networks, up to five segments and four repeaters are allowed between any two hosts.[7] For 100 Mbit/s networks, the limit is reduced to 3 segments (2 Class II hubs) between any two end stations, and even that is only allowed if the hubs are of Class II. Some hubs have manufacturer-specific stack ports allowing them to be combined in a way that allows more hubs than simple chaining through Ethernet cables, but even so, a large Fast Ethernet network is likely to require switches to avoid the chaining limits of hubs.[2]
+Additional functions[edit]
+Most hubs detect typical problems, such as excessive collisions and jabbering on individual ports, and partition the port, disconnecting it from the shared medium. Thus, hub-based twisted-pair Ethernet is generally more robust than coaxial cable-based Ethernet (e.g. 10BASE2), where a misbehaving device can adversely affect the entire collision domain.[6]  Even if not partitioned automatically, a hub simplifies troubleshooting because hubs remove the need to troubleshoot faults on a long cable with multiple taps; status lights on the hub can indicate the possible problem source or, as a last resort, devices can be disconnected from a hub one at a time much more easily than from a coaxial cable.[citation needed]
+To pass data through the repeater in a usable fashion from one segment to the next, the framing and data rate must be the same on each segment. This means that a repeater cannot connect an 802.3 segment (Ethernet) and an 802.5 segment (Token Ring) or a 10 Mbit/s segment to 100 Mbit/s Ethernet.[citation needed]
+Dual-speed hub[edit]
+In the early days of Fast Ethernet, Ethernet switches were relatively expensive devices. Hubs suffered from the problem that if there were any 10BASE-T devices connected then the whole network needed to run at 10 Mbit/s. Therefore, a compromise between a hub and a switch was developed, known as a dual-speed hub. These devices make use of an internal two-port switch, bridging the 10 Mbit/s and 100 Mbit/s segments. When a network device becomes active on any of the physical ports, the device attaches it to either the 10 Mbit/s segment or the 100 Mbit/s segment, as appropriate.  This obviated the need for an all-or-nothing migration to Fast Ethernet networks.  These devices are considered hubs because the traffic between devices connected at the same speed is not switched.[citation needed]
+Fast Ethernet[edit]
+100 Mbit/s hubs and repeaters come in two different classes: Class I delay the signal for a maximum of 140 bit times. This delay allows for translation/recoding between 100BASE-TX, 100BASE-FX and 100BASE-T4. Class II hubs delay the signal for a maximum of 92 bit times. This shorter delay allows the installation of two hubs in a single collision domain.[8]
+Gigabit Ethernet[edit]
+Repeater hubs are defined in the standards for Gigabit Ethernet[9] but commercial products have failed to appear due to the industry's transition to switching.
+Uses[edit]
+Historically, the main reason for purchasing hubs rather than switches was their price. By the early 2000s, there was little price difference between a hub and a low-end switch.[10] Hubs can still be useful in special circumstances:
+For inserting a protocol analyzer into a network connection, a hub is an alternative to a network tap or port mirroring.[11]
+A hub with both 10BASE-T ports and a 10BASE2 port can be used to connect a 10BASE2 segment to a modern Ethernet-over-twisted-pair network.
+A hub with both 10BASE-T ports and an AUI port can be used to connect a 10BASE5 segment to a modern network.
+As hubs have lower latency and jitter compared to switches    as long as there are no collisions  , they may be better suited for real-time networks, e.g. Ethernet Powerlink.[12]
+See also[edit]
+Wikimedia Commons has media related to Ethernet hubs.
+Router (computing)
+USB hub
+References[edit]
+^ IEEE 802.3-2012 Clause 9.1
+^ a b c Dean, Tamara (2010). Network+ Guide to Networks. Delmar. pp. 256 257.
+^ IEEE 802.3 9. Repeater unit for 10 Mb/s baseband networks
+^ IEEE 802.3 27. Repeater unit for 100 Mb/s baseband networks
+^ IEEE 802.3 41. Repeater unit for 1000 Mb/s baseband networks
+^ a b c Hallberg, Bruce (2010). Networking: A Beginner's Guide, Fifth Edition. McGraw Hill. pp. 68 69.
+^ Charles Spurgeon (2000-02-16). "Chapter 13: Multi-Segment Configuration Guidelines". Ethernet: The Definitive Guide. ISBN 978-1-56592-660-8. Retrieved 2012-01-08. The transmission path permitted between any two DTEs may consist of up to five segments, four repeater sets (including optional AUIs), two MAUs, and two AUIs.
+^ "What is the difference between Class I and Class II hubs?" Intel. Retrieved 2011-03-16.
+^ IEEE 802.3 Clause 41
+^ Matthew Glidden (October 2001). "Switches and Hubs". About This Particular Macintosh blog. Retrieved June 9, 2011.
+^ "Sniffing Tutorial part 1 - Intercepting Network Traffic". NETRESEC Network Security Blog. 2011-03-11. Retrieved 2011-03-13.
+^ Ethernet Powerlink Standardization Group (2018), Ethernet POWERLINK Communication Profile Specification. Version 1.4.0 (PDF), p. 35, retrieved 2019-05-06
+External links[edit]
+"Hub Reference". GitLab. Retrieved 2021-12-01.
+Authority control: National 
+Germany
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Ethernet_hub&oldid=1096815942"

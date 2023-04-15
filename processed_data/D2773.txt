@@ -1,0 +1,589 @@
+Integrated development environment
+Microsoft Visual Studio ExpressVisual Studio Express 2012 for Desktop, developing a Windows app called Wikipedia Recon DroneDeveloper(s)MicrosoftFinal release2017[1]
+   /    March 7, 2017; 6 years ago (2017-03-07)[2]
+Operating systemWindowsTypeIntegrated development environmentLicenseFreeware, registerware[3]Websitevisualstudio.com/products/visual-studio-express-vs
+This article needs to be updated. Please help update this article to reflect recent events or newly available information. (September 2022)
+Microsoft Visual Studio Express is a set of integrated development environments (IDEs) that Microsoft developed and released free of charge. They are function-limited version of the non-free Visual Studio and require mandatory registration.[3] Express editions started with Visual Studio 2005.
+In 2013, Microsoft began supplanting Visual Studio Express with the more feature-rich community edition of Visual Studio, which is available free of charge[4] with a different license that disallow some scenarios in enterprise settings. The last version of the Express edition is the desktop-only 2017.
+2005 2010: Language-centric editions[edit]
+History[edit]
+Visual Studio 2005 Express, the first version of the Express edition, was released in October 2005. It runs on Windows 2000 SP4 and later. The first service pack for 2005 Express was released in December 2006. This version is freeware and requires no registration.
+Visual Studio 2008 Express reached general availability in November 2007. Its first service pack was first publicly available in on 11 August 2008. This version requires Windows XP SP3, although it can develop apps compatible with Windows 2000. Microsoft introduced mandatory registration in this version.[5]
+Visual Studio 2010 Express was released in April 2010, alongside Visual Studio 2010. While most of its components (see below) ran on Windows XP, its Windows Phone component needed Windows Vista.
+Characteristics[edit]
+The 2005, 2008, and 2010 versions of Visual Studio Express consist of several standalone IDEs, each of which is focused on a single programming language:
+Visual Basic Express (the Visual Basic .NET language)
+Visual C++ Express (the Visual C++ language)
+Visual C# Express (the C# language)
+Visual J# Express (the ill-fated J# language, 2005 only)
+Visual Web Developer Express (ASP.NET)
+Visual Studio Express for Windows Phone (2010 only)
+Visual Basic Express[edit]
+Visual Basic Express has the following limitations:[6][7]
+No IDE support for databases other than SQL Server Express and Microsoft Access
+No support for web applications with ASP.NET (although, it is supported by Visual Web Developer Express)
+No support for developing for mobile devices (no templates or emulators)
+Absence of Crystal Reports
+Fewer project templates (e.g. Windows services template and Excel Workbook template are unavailable)
+Limited options for debugging and breakpoints
+No support for creating Windows Services (needs a separate project template)
+No support for OpenMP
+Limited deployment options for finished programs
+No code folding
+Visual Basic 2008 Express includes the following improvements over 2005:
+Includes the visual Windows Presentation Foundation designer codenamed "Cider"
+Debugs at runtime
+Better IntelliSense support
+Fixes common spelling errors
+Corrects most forms of invalid syntax
+Provides suggestions to class names when specified classes are not found
+Visual Basic 2005 and Visual Basic 2008 Express feature a Visual Basic 6.0 converter that makes it possible to upgrade Visual Basic 6.0 projects to Visual Basic.NET. The converter is not included with the Visual Basic 2010 Express.
+Visual Web Developer Express[edit]
+Visual Web Developer Express is a freeware web development tool[8] that allows developers to evaluate the web development and editing capabilities of the other Visual Studio editions at no charge. Its main function is to create ASP.NET websites.  It has a WYSIWYG interface, drag-and-drop user interface designer, enhanced HTML and code editors, a limited database explorer, support for CSS, JavaScript and XML, and integrated, design-time validation for standards including  XHTML 1.0/1.1 and CSS 2.1.
+Visual Web Developer 2005 Express lacks certain features, such as the Accessibility Checker, the ability to create standalone class library projects, third-party add-ins and macros.[9] Visual Web Developer 2008 Express SP1 supports both class library and web application projects.[10]  It also includes a new integrated HTML designer based on Microsoft Expression Web. However, this edition cannot publish self-developed websites.[clarification needed]
+Visual C++ Express[edit]
+Visual C++ Express compiles .NET and Win32 applications in 32-bit only.[11][12] It includes Windows SDK's compilers and core files, which developers can use to build Win32 applications.
+Limitations of Visual C++ Express:
+No support for MFC or ATL. These libraries can, however, be installed from an older version of the Windows SDK and Windows Driver Kit,[13] or a Visual Studio Trial installation.
+Lack of a resource editor, which is available in commercial editions of Visual Studio.[14]
+No profiling support
+No support for add-ins or IDE macros
+No option for crash dump generation
+No "list of all breakpoints" window.
+No support for cross-language debugging, for example, a C# application calling a C++ DLL.
+Limitations in earlier versions:
+No out-of-box support for developing 64-bit applications (prior to 2012).
+No support for OpenMP (prior to 2012)
+The debugger cannot be attached to a running process (prior to 2010)
+While Microsoft lists memory windows as unavailable in Visual Studio 2010 Express,[15] third parties have reported that they are available when Expert Settings are enabled.[16][17]
+Many open-source projects have started providing project files created with Visual C++ Express; noteworthy examples include the Ogre and Irrlicht engines. Modding kits for commercial engines, such as Valve's Source engine, also support this development system.[18]
+Visual C# Express[edit]
+Visual C# Express is a free, lightweight, integrated development environment (IDE) designed for novice developers, students and hobbyists to create applications and (when combined with the XNA Game Studio) video games for Windows, Xbox 360 and Zune. It can build console, Windows Forms and Windows Presentation Foundation applications, and class libraries.
+Microsoft has found that a substantial community of game players are taking up C# programming.[19][20][21]
+Visual C# Express does not have a breakpoint control panel; breakpoints can only be toggled. The following refactoring modes were also unavailable:[22]
+Encapsulate field
+Promote local to parameter
+Reorder parameters
+Remove parameters
+Extract interface
+The limitations effectively reduce the refactoring capabilities of Visual C# Express to renaming and extracting methods. According to Microsoft, the reason the listed features are absent is "to simplify the C# Express user experience". Some users remarked that the omission of refactoring capabilities removed useful functionality without actually simplifying use.[23]
+The ability to attach the debugger to an already-running process is also unavailable, hindering scenarios such as writing Windows services and re-attaching a debugger under ASP.NET when errors under the original debugging session cause breakpoints to be ignored.
+2012 2017: Ecosystem-centric[edit]
+For the 2012 release of Visual Express, Microsoft changed its distribution of editions so that each version is geared toward an overall solution type, and can contain more than one project type. (This is unlike previous Express editions, each of which was geared around a single programming language.) For example, a web solution might consist of a web application project and a couple of C# class-library projects. This change was made to reflect the wide diversity of applications available for the web and the new WinRT platform used on Windows 8 and Windows Phone 8.
+Microsoft has released five Visual Studio Express 2012 products:
+Edition
+Description
+Desktop OS
+Server OS
+Visual Studio Express 2012 for Web[24][25]
+Allows development of web applications. Includes integrated features for deploying to Microsoft's Windows Azure cloud computing platform.
+Windows 7 SP1
+Windows 8
+Windows Server 2008 R2 (only x64)
+Windows Server 2012
+Visual Studio Express 2012 for Windows 8[26][27]
+Allows development of Metro-style applications for Windows Store in C#, VB.NET, C++ and JavaScript. Note: This edition runs only on Windows 8.
+Windows 8
+ 
+Visual Studio Express 2012 for Windows Desktop[28][29]
+Allows development of conventional Windows desktop applications in C#, VB.NET and C++, targeting Windows client technologies such as Windows Presentation Foundation (WPF), Windows Forms, and the Win32 API. Unlike previous Express editions, it has built-in support for compiling 64-bit applications through IDE. Update 1 adds support for Windows XP in C++ applications.
+Windows 7 SP1
+Windows 8
+Windows Server 2008 R2 (only x64)
+Windows Server 2012
+Visual Studio Team Foundation Server Express 2012[30]
+Provides source control, work-item tracking, application lifecycle management and build automation for teams of up to five developers.
+Windows 7 SP1
+Windows 8
+Windows Server 2008 SP2 (only x64)
+Windows Server 2008 R2 SP1 (only x64)
+Windows Server 2012
+Visual Studio Express 2012 for Windows Phone[31]
+Consists of the Windows Phone 8 SDK that enables developing applications for Windows Phone 7.5 and Windows Phone 8 and testing them on an emulator. Supports C++, .NET Framework and DirectX. As part of its .NET Framework support, it can integrate with Microsoft Expression Blend.
+Windows 8 (x64 only)
+ 
+In October 2013, Microsoft released four new versions of its Visual Studio Express products. Like the 2012 Express edition, they are geared toward an overall solution type that may mix different types of projects. However, different IDEs are still offered for different destination platforms. They are:[32][33]
+Visual Studio Express 2013 for Web[34]
+Visual Studio Express 2013 for Windows:[34] Note: Works on Windows 8.1 only (x86 and x64).
+Visual Studio Express 2013 for Windows Desktop[34]
+Visual Studio Team Foundation Server Express 2013[34]
+Note that Visual Studio Express for Windows Phone was not released in the set of 2013 products, but Visual Studio Express for Windows Phone is now merged with Visual Studio Express for Windows 2013.2.[35] With this new release, Windows 8.1 x86 is now supported for Windows Phone 8.1 development, but not for Windows Phone 8.0 development or the Windows Phone Emulator, the latter of which also requires a processor that supports Client Hyper-V and Second Level Address Translation (SLAT).
+The Visual Studio Express 2015 editions are:
+Express for Desktop   for creating desktop Windows programs[36]
+Express for Web - for creating responsive websites, web APIs, or "real-time online experiences"[36]
+Express for Windows   core tools for creating Universal Windows Platform apps. Requires Windows 10.[36]
+Team Foundation Server 2015 Express   platform for source code control, for project management, and for team collaboration[36][37]
+Microsoft terminated the Visual Studio Express lineage with the release of Visual Studio Express 2017 for Windows Desktop. This last release has no siblings specialized in Web or UWP projects. Developers interested a free solution for those projects were instead directed towards Visual Studio Community Edition or Visual Studio Code.[1]
+References[edit]
+^ a b "Visual Studio Express". VisualStudio.com. Microsoft. Retrieved 2 December 2021.
+^ "Visual Studio build numbers and release dates". Visual Studio documentation. Microsoft. Retrieved 2 December 2021   via Microsoft Docs.
+^ a b "Registration FAQ". microsoft.com. Microsoft. Archived from the original on 5 December 2007.
+^ "Visual Studio Community 2013 Announcement". VisualStudio.com. Microsoft. 12 November 2014. Archived from the original on 30 November 2014.
+^ "Support". microsoft.com. Archived from the original on 5 December 2007.
+^ "Visual Basic 2005 Editions". Microsoft Corporation. Retrieved 2007-07-19.
+^ "Visual Basic 2008 Editions". Microsoft Corporation. Retrieved 2009-04-30.
+^ "Visual Studio 2005 Express Developer Center - Frequently Asked Questions (FAQ) - questions 23 to 35, especially question 28". Archived from the original on April 6, 2008. Retrieved 2011-12-06.
+^ "Which features are missing from Visual Web Developer Express: Mikhail Arkhipov's blog". Blogs.msdn.com. Retrieved 2009-06-28.
+^ Scott Guthrie. "Scott Guthrie's post on VS2008/.NET Framework 3.5 SP1 Beta (bottom of page)". Aspalliance.com. Retrieved 2009-06-28.
+^ Visual C++ Editions (Visual Studio 2010)
+^ Visual C++ Editions (Visual Studio 2008)
+^ "Windows Driver Kit (WDK) Version 7.1.0 Release Notes". Microsoft. 2010-02-26. Retrieved 2013-04-27.
+^ "Visual C++ Editions". Microsoft Corporation. Retrieved 2007-09-29.
+^ "Memory Windows". Microsoft Corporation. Retrieved 2011-09-27.
+^ "Microsoft Visual Studio 2010 Debugger". Retrieved 2011-09-27.
+^ "Visual Studio Hints". Williams, Kenneth A. Retrieved 2011-09-27.
+^ "Source SDK wiki: Compiler Choices". Retrieved 2009-08-12.
+^ "Visual C# at C# Online.NET (CSharp-Online.NET)". Csharp-online.net wiki. Retrieved 2010-02-09.
+^ "C# C Sharp and Tutorials on C# Friends.com". www.csharpfriends.com/. Archived from the original on 2010-02-06. Retrieved 2010-02-09.
+^ "XNA Developer Center". Microsoft. Retrieved 2010-02-09.
+^ "Technologies site about MSDN". MSDNER. Retrieved 2007-10-21.
+^ "Aaron Stebner's WebLog". Microsoft Corporation. Retrieved 2004-10-20.
+^ "Visual Studio Express 2012 for Web". Visual Studio portal. Microsoft. Retrieved 30 November 2012.
+^ "Visual Studio Express 2012 for Web". MSDN. Microsoft. Retrieved 30 November 2012.
+^ "Visual Studio Express 2012 for Windows 8". Visual Studio portal. Microsoft. Retrieved 30 November 2012.
+^ "Develop Windows Store apps using Visual Studio 2012 (Windows)". MSDN. Microsoft. 2 November 2012. Retrieved 30 November 2012.
+^ "Visual Studio Express 2012 for Windows Desktop". Visual Studio portal. Microsoft. Retrieved 30 November 2012.
+^ "Visual Studio Express 2012 for Windows Desktop is Here". The Visual Studio Blog. Microsoft. 12 September 2012. Retrieved 30 November 2012.
+^ "Visual Studio Team Foundation Server Express 2012". Visual Studio portal. Microsoft. Retrieved 30 November 2012.
+^ "Visual Studio Express 2012 for Windows Phone". Visual Studio portal. Microsoft. Retrieved 30 November 2012.
+^ "Visual Studio 2013". Retrieved 2014-01-15.
+^ "What's New in Visual Studio 2013". Retrieved 2014-01-15.
+^ a b c d "Download Overview". Visual Studio. Retrieved 2014-01-31.
+^ "Microsoft Developer".
+^ a b c d "Visual Studio Express". Archived from the original on 27 August 2016. Retrieved 29 August 2016.
+^ "Overview of Visual Studio 2015 Products". Microsoft. Archived from the original on 1 August 2016. Retrieved 29 August 2016.
+External links[edit]
+Official website
+Semi-official listing for Visual Studio Express 2013 downloads
+vteIntegrated development environmentsC and C++Open source
+Android Studio
+Anjuta
+Code::Blocks
+CodeLite
+Dev-C++
+Eclipse
+Emacs
+Geany
+GNAT Programming Studio
+GNOME Builder
+KDevelop
+MonoDevelop
+NetBeans
+TheIDE
+QDevelop
+Qt Creator
+SharpDevelop
+Vi/Vim
+OpenWatcom
+Freeware
+Oracle Developer Studio
+Visual Studio Community
+Xcode
+Retail
+C++Builder
+Eclipse-based
+CodeWarrior
+MyEclipse
+Visual Studio
+By JetBrains
+IntelliJ IDEA
+AppCode
+CLion
+LabWindows/CVI
+IBM Rational Software Architect
+Understand
+SlickEdit
+Discontinued
+VisualAge
+Visual C++ Express
+Borland Turbo C / C++
+JavaOpen source
+Anjuta
+BlueJ
+DrJava
+Eclipse
+Geany
+Greenfoot
+IntelliJ IDEA Community Edition
+Android Studio
+NetBeans
+Servoy Community Edition
+Freeware
+jGRASP
+JDeveloper
+Retail
+JCreator
+MyEclipse
+IBM
+WebSphere Integration Developer
+JetBrains IntelliJ IDEA
+Servoy Business Application Platform Edition
+SlickEdit
+Understand
+Discontinued
+Metrowerks CodeWarrior Pro for Java
+JBuilder
+Sun Java Studio Creator (superseded by NetBeans)
+VisualAge (superseded by Eclipse)
+Visual Caf  (aka Espresso, superseded by JBuilder)
+Visual J++
+Xelfi (became NetBeans)
+JavaScriptOpen source
+Vim
+Visual Studio Code
+Atom
+Chromium
+CLI (.NET)Open source
+MonoDevelop
+SharpDevelop
+Visual Studio Code
+PascalABC.NET
+Freeware
+Visual Studio Community
+Retail
+Visual Studio
+Rider
+Understand
+Discontinued
+Xamarin Studio
+Visual Basic Express
+Visual Web Developer Express
+Visual J# Express
+Visual Studio Express for Windows Phone
+Visual C++ Express
+Visual C# Express
+Express for Desktop
+Express for Web
+Express for Windows
+Flash
+Adobe Flash Builder
+FlashDevelop
+Powerflasher FDT
+PHPOpen source
+Aptana
+NetBeans
+Komodo Edit
+Komodo IDE
+KDevelop
+Proprietary
+Codelobster
+PhpStorm
+PHPEdit
+SlickEdit
+Zend Studio
+R
+RStudio
+R Tools for Visual Studio
+PythonOpen source
+Anjuta
+IDLE
+Eric
+Light Table
+Ninja-IDE
+PyDev
+PyScripter
+PIDA
+Spyder
+Komodo Edit
+Komodo IDE
+KDevelop
+Vim
+Visual Studio Code
+Thonny
+Proprietary
+PyCharm
+PythonAnywhere
+SlickEdit
+Wing IDE
+Pascal and Object PascalOpen source
+Free Pascal IDE
+Lazarus
+Dev-Pascal
+GNAVI
+Freeware
+Delphi Community
+Retail
+Delphi
+Discontinued
+Turbo Pascal
+Virtual Pascal
+Borland Kylix
+BASICOpen source
+Basic-256
+B4X
+MonoDevelop
+SharpDevelop
+Microsoft Small Basic
+SdlBasic
+Gambas
+HBasic
+Basic For Qt
+Basic4GL
+QB64
+Freeware
+FutureBASIC
+RapidQ
+thinAir
+Visual Studio Community
+Retail
+Visual Studio
+NS Basic
+PureBasic
+GLBasic
+Liberty BASIC
+Xojo
+Discontinued
+CA-Realizer
+Phoenix Object Basic
+QuickBASIC
+QBasic
+Visual Basic
+Visual Basic Express
+GoOpen source
+Vim
+Visual Studio Code (VSCode)
+Eclipse
+Freeware
+LiteIDE
+The Go Playground
+Cloud9 IDE
+Retail
+GoLand
+Online
+AWS Cloud9 IDE
+Eclipse Che
+SourceLair
+Category
+Comparison
+vteMicrosoft development toolsDevelopmentenvironmentsVisual Studio
+Code
+Express
+Team System Profiler
+Tools for Applications
+Tools for Office
+Others
+Blend
+Expression Web
+FxCop
+GW-BASIC
+MACRO-80
+Macro Assembler
+MSBuild
+Pascal
+QuickBASIC
+QBasic
+QuickC
+Robotics Developer Studio
+Roslyn
+SharePoint Designer
+FrontPage
+Small Basic
+WebMatrix
+Windows App SDK
+Windows App Studio
+Windows SDK
+CLR Profiler
+ILAsm
+Native Image Generator
+WinDiff
+XAMLPad
+Languages
+Dynamics AX
+BASIC
+Visual Basic
+legacy
+VB.NET
+VBA
+VBScript
+Bosque
+Visual C++
+C++/CX
+C++/CLI
+Managed C++
+C++/WinRT
+C#
+C/AL
+Dafny
+Dexterity
+F#
+F*
+Visual FoxPro
+Java
+J++
+J#
+JavaScript
+TypeScript
+JScript
+IronPython
+IronRuby
+Lean
+P
+Power Fx
+PowerShell
+Project Verona
+Q#
+Small Basic
+VPL
+XAML
+APIs andframeworksNative
+Windows API
+Silverlight
+XNA
+DirectX
+Managed DirectX
+UWP
+Xbox Development Kit
+Windows Installer
+WinUI
+.NET
+ASP.NET
+Core
+AJAX
+Dynamic Data
+MVC
+Razor
+Web Forms
+ADO.NET
+Entity Framework
+MAUI
+CardSpace
+Communication Foundation
+Identity Foundation
+LINQ
+Presentation Foundation
+Workflow Foundation
+Device drivers
+WDK
+WDF
+KMDF
+UMDF
+Windows HLK
+WDM
+DatabaseSQL Server
+Express
+Compact
+Management Studio
+Business Intelligence Development Studio
+MSDE
+SQL services
+Analysis
+Reporting
+Integration
+Notification
+Other
+Visual FoxPro
+Microsoft Access
+Access Database Engine
+Extensible Storage Engine
+Source control
+Visual SourceSafe
+Team Foundation Version Control
+Testing anddebugging
+CodeView
+OneFuzz
+Script Debugger
+WinDbg
+xUnit.net
+Delivery
+Active Setup
+ClickOnce
+npm
+NuGet
+vcpkg
+Web Platform Installer
+Windows Installer
+WiX
+Windows Package Manager
+Microsoft Store
+ Category
+vteJavaScriptCode analysis
+ESLint
+JSHint
+JSLint
+Supersets
+JS++
+TypeScript
+Transpilers
+AtScript
+Babel
+ClojureScript
+CoffeeScript
+Dart
+Elm
+Emscripten
+Google Closure Compiler
+Google Web Toolkit
+Haxe
+LiveScript
+Morfik
+Nim
+Opa
+PureScript
+Reason
+WebSharper
+Concepts
+JavaScript library
+JavaScript syntax
+Debuggers
+Chrome DevTools
+Firefox Inspector
+Komodo IDE
+Microsoft Edge DevTools
+Opera DevTools
+Safari Web Inspector
+Doc generators
+JSDoc
+Editors (comparison)
+Ace
+Cloud9 IDE
+Atom
+CodeMirror
+Brackets
+Light Table
+PhpStorm
+Orion
+Visual Studio
+Visual Studio Express
+Visual Studio Code
+Visual Studio Team Services
+Vim
+Engines
+List of ECMAScript engines
+Frameworks
+Comparison of JavaScript frameworks
+List of JavaScript libraries
+Related technologies
+Ajax
+AssemblyScript
+asm.js
+Cascading Style Sheets
+Document Object Model
+HTML
+HTML5
+JSON
+WebAssembly
+WebAuthn
+Package managers
+npm
+yarn
+Module bundlers
+Webpack
+Server-side
+Active Server Pages
+Bun
+CommonJS
+Deno
+JSGI
+Node.js
+Wakanda
+Unit testing frameworks (list)
+Jasmine
+Jest
+Mocha
+QUnit
+People
+Douglas Crockford
+Ryan Dahl
+Brendan Eich
+John Resig
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Microsoft_Visual_Studio_Express&oldid=1147825483"

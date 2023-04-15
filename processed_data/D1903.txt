@@ -1,0 +1,116 @@
+Relational database management system
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article's lead section may be too short to adequately summarize the key points. Please consider expanding the lead to provide an accessible overview of all important aspects of the article. (June 2020)
+This article relies excessively on references to primary sources. Please improve this article by adding secondary or tertiary sources. Find sources: "Firebird" database server news  newspapers  books  scholar  JSTOR (December 2012) (Learn how and when to remove this template message)
+ (Learn how and when to remove this template message)
+FirebirdScreenshot
+Original author(s)BorlandDeveloper(s)Firebird FoundationInitial release2000 (2000)Stable release4.0.2[1] 
+   / 11 August 2022; 8 months ago (11 August 2022)
+Repositorygithub.com/FirebirdSQL/firebird 
+Written inC++Operating systemCross-platformTypeRDBMSLicenseIPL, IDPLWebsitewww.firebirdsql.org 
+Firebird is an open-source SQL relational database management system that supports Linux, Microsoft Windows, macOS and other Unix platforms.[2] The database forked from Borland's open source edition of InterBase in 2000 but the code has been largely rewritten since Firebird 1.5.[3]
+History[edit]
+Within a week of the InterBase 6.0 source being released by Borland on 25 July 2000,[4][5] the Firebird project was created on SourceForge.[6][7] Firebird 1.0 was released for Linux, Microsoft Windows and Mac OS X on 11 March 2002,[8] with ports to Solaris, FreeBSD 4, HP-UX over the next two months.[9]
+Work on porting the codebase from C to C++ began in 2000. On 23 February 2004, Firebird 1.5 was released,[10] which was the first stable release of the new codebase. Version 1.5 featured an improved query optimizer, SQL-92 conditional expressions, SQL:1999 savepoints and support for explicit locking.[11] Firebird 2.0 was released on 12 November 2006,[12] adding support for 64-bit architectures, tables nested in FROM clauses, and programmable lock timeouts in blocking transactions.[13]
+The previous stable release was version 2.1.6, which added new features including procedural triggers, recursive queries, and support for SQL:2003 MERGE statements.[14]
+Firebird 2.5 introduced new features like improved multithreading, regular expression syntax and the ability to query remote databases.[15]
+The most recent stable version is Firebird 3.0, released 19 April 2016, with focus in performance and security. A major re-architecture of the code allowed total support to SMP machines when using the SuperServer version.[16]
+Through the Google Summer of Code 2013 work has begun on integrating Firebird as a replacement for HSQLDB in LibreOffice Base.[17][18]
+Mozilla Firefox name conflict[edit]
+In April 2003, the Mozilla Organization announced a rename of its web browser from Phoenix to Firebird after a trademark dispute with Phoenix Technologies.[19]
+This decision caused concern within the Firebird database project due to the assumption that users and Internet search engines would be confused by a database and a web browser both using the name Firebird.[20][21] The Mozilla developers issued a statement,[22] making clear that their software package was called "Mozilla Firebird", not "Firebird".[23][24] The statement also said that the Mozilla Firebird name was a project codename.
+The dispute was resolved on 9 February 2004, when Mozilla changed the name of its browser to Mozilla Firefox, thus ending the conflict.[25][26][27]
+Main features[edit]
+Full support for stored procedures and triggers[28]
+Full ACID compliant transactions
+Referential integrity
+Multi Generational Architecture (sometimes called MVCC)[29]
+Support for External Functions (UDFs)
+SQL activity can send asynchronous notification events to clients
+Third-party tools, including GUI administrative tools and replication tools
+Careful writes - fast recovery, no need for transaction logs
+Many access methods: native/API, dbExpress/FireDAC[30] drivers, ODBC, OLE DB, .NET provider, JDBC native type 4 driver, Python module,[31] PHP, Perl
+Incremental backups
+Full cursor implementation in PSQL
+Storage and index technology[edit]
+The Multi-Generational Architecture (MGA)[edit]
+Firebird inherited the storage architecture of Interbase. To ensure the ACID properties of transactions, the database engine keeps different versions of each record changed by the active users in the database. When the transactions are committed, the last version of every changed record is marked as the definitive. If transactions are rolled back, the database engine keeps the mark on the original record versions, leaving them untouched.[32] As a result, Firebird disk writes are very reduced compared to databases that use the traditional transaction log architecture.[33] Writing transactions does not prevent reading and vice versa, because each one sees its own version of the database.[34] The tradeoff is that some maintenance ("sweeping") is required from time to time to clean up old record versions and free disk space.[35]
+The multi-generational architecture ensures that OLTP and DSS/OLAP operations can be run simultaneously without the delays caused by locking mechanisms found in other products.[36]
+Indexes[edit]
+Firebird makes all indices of the database behave like well-tuned "clustered indexes" used by other architectures. Firebird index buckets aren't subject to two-phase locking, and boolean "and" and "or" operations can be performed on intermediate bitmaps at a negligible cost, eliminating the need for the optimizer to choose between alternative indexes.[37]
+Variants[edit]
+Firebird SuperServer has a single daemon/server for all client connections, multithreaded with shared cache
+Firebird SuperClassic also has a single daemon/server for all client connections, multithreaded with separate caches
+Firebird Classic uses inetd to run one copy of the server per client connection, recommended for SMP systems but might have event-notification issues if access is via a firewall
+Firebird Embedded for creating CD-ROM catalogs, single user or evaluation versions of applications
+Licensing[edit]
+The Firebird database engine and its modules are released under an open-source license, the Initial Developer's Public License (IDPL), a variant of the Mozilla Public License (MPL) version 1.1. It does not require the developer to open the products using Firebird or even custom-derivatives made from its source code, but if the developer chooses to do so, then some terms and conditions should be honored. The IDPL allows the developer to make proprietary, closed-source applications that use Firebird or are based on it.[38]
+Connectivity APIs[edit]
+Low-level Firebird Native API, Services API and embedded SQL[edit]
+The Firebird native API is used directly or indirectly by applications or middleware that connect to a Firebird database. It is implemented in the client library, fbclient.dll, on Windows systems, and in libfbclient.so on Unix ones.[39]
+The Services API is a special function set for accessing and controlling service administration tasks such as user management, backup/restore and statistics gathering.
+Embedded SQL is a technique that simplifies the development of C/C++ and COBOL Firebird applications, by using a preprocessor called gpre, which allows the embedding of SQL statements directly into the source code of the host language.[40]
+Awards[edit]
+2007. SourceForge Community Choice Award: Best Project for enterprise, Best user support.[41]
+2009. SourceForge Community Choice Award: Best Project for enterprise. Finalist on Best Project and Best Project for Government.[42]
+See also[edit]
+Free and open-source software portal
+Comparison of relational database management systems
+List of relational database management systems
+Multiversion concurrency control
+References[edit]
+^ "Firebird 4.0.2". 11 August 2022. Retrieved 3 September 2022.
+^ "Firebird: A powerful, cross platform, SQL database system". SourceForge. SourceForge Media, LLC. 25 April 2018. Retrieved 2 May 2018.
+^ "Firebird 1.5.5 Release Notes". Retrieved 29 September 2009. Firebird 1.5.5 General Notes for rewriting it from C to C++ language
+^ "Inprise/Borland Introduces InterBase 6.0 Now Free and Open Source on Linux, Windows, and Solaris". 16 July 2000. Archived from the original on 6 December 2004. Retrieved 29 January 2009.
+^ "Borland.com: Inprise/Borland Introduces Interbase 6.0 Now Free and Open Source on Linux". Linux Today. Retrieved 29 January 2009.
+^ "Firebird History". Retrieved 14 March 2014.
+^ Paul Reeves. "What's happening to InterBase". Borland User Group. p. 2. Retrieved 14 March 2014.
+^ "IBPhoenix Community News Archive". 11 March 2000. Retrieved 29 January 2009.[permanent dead link]
+^ "IBPhoenix Community News Archive". 11 April 2000. Retrieved 29 January 2009.[permanent dead link]
+^ "Firebird Relational Database 1.5 Final Out". Slashdot. 23 February 2004. Retrieved 31 January 2009.
+^ Helen Borrie (5 October 2009). "Firebird 1.5.6 Release Notes". Firebird Project. Retrieved 10 June 2012.
+^ Dmitry Yemanov. "Firebird 2.0 Final Release Launches in Prague". Retrieved 5 February 2009.
+^ Helen Borrie (5 April 2012). "Firebird 2.0.7 Release Notes". Retrieved 10 June 2012.
+^ Helen Borrie (20 July 2014). "Firebird 2.1 Release Notes". Retrieved 20 July 2014.
+^ Helen Borrie (19 November 2015). "Firebird 2.5.5 Release Notes". Retrieved 19 November 2015.
+^ Gray, James (29 July 2016). "The Firebird Project's Firebird Relational Database | Linux Journal". www.linuxjournal.com. Linux Journal. Archived from the original on 1 March 2020. Retrieved 1 March 2020.
+^ mariuz (14 February 2012). "Firebird Embedded and LibreOffice is the killer combination to scale from a single file application to a client/server approach". Firebirdnews.org. Retrieved 8 July 2013.
+^ ahunt (28 May 2013). "GSOC 2013: LibreOffice Firebird SQL Connector". Retrieved 8 July 2013.
+^ Dotzler, Asa (14 April 2003). "Phoenix and Minotaur to be renamed Firebird and Thunderbird". MozillaZine. MozillaZine. Retrieved 29 January 2016.
+^ Mozilla browser becomes Firebird, IBPhoenix, archived from the original on 23 April 2003, retrieved 29 January 2016
+^ Bishop, Alex (21 April 2003). "Firebird Database Project Admin Ann Harrison Interviewed". MozillaZine. MozillaZine. Retrieved 29 January 2016.
+^ "mozilla branding". The Mozilla Organization. 25 April 2003. Archived from the original on 26 April 2003. Retrieved 31 January 2016.
+^ Festa, Paul (7 May 2003). "Mozilla's Firebird gets wings clipped". CNET. CBS Interactive. Retrieved 29 January 2016.
+^ Bishop, Alex (14 May 2003). "Christopher Blizzard of mozilla.org speaks on the Firebird naming conflict". MozillaZine. MozillaZine. Retrieved 29 January 2016.
+^ Paul Festa (9 February 2004). "Mozilla holds 'fire' in naming fight". CNET. CBS Interactive. Retrieved 29 January 2016.
+^ "Mozilla Firebird Renamed Firefox, Version 0.8 Released". MozillaZine. MozillaZine. 9 February 2004. Retrieved 29 January 2016.
+^ "Mozilla Firefox - Brand Name Frequently Asked Questions". mozilla.org. Mozilla Foundation. Retrieved 29 January 2016.
+^ "Get to know Firebird in 2 minutes".
+^ Roman Rokytskyy. "A not-so-very technical discussion of Multi Version Concurrency Control". Retrieved 21 November 2011.
+^ "Connect to Firebird (FireDAC)".FireDAC
+^ "FDB: The Python driver for Firebird".
+^ "Multi-generational architecture (MGA) and record versioning". HK-Software. Archived from the original on 1 October 2011. Retrieved 14 July 2011.
+^ "Interview with Jim Starkey from InterBase World". Marina Novikova, InterBase World. Retrieved 14 July 2011.
+^ "What is Multi Generational Architecture (MGA)?". The Firebird FAQ. Retrieved 14 July 2011.
+^ "Database Housekeeping And Garbage Collection". The Firebird Project. Retrieved 14 July 2011.
+^ "What is Multi Generational Architecture (MGA)?". The Firebird FAQ. Retrieved 14 July 2011.
+^ "Interview with Jim Starkey from InterBase World". Marina Novikova, InterBase World. Retrieved 14 July 2011.
+^ "Firebird: Initial Developer's Public License Version 1.0". Firebird Project. Retrieved 13 July 2011.
+^ "The Firebird client library". The Firebird Project. Retrieved 14 July 2011.
+^ "Application development". The Firebird Project. Retrieved 14 July 2011.
+^ "SourceForge.net 2007 Community Choice Awards Winners". SourceForge.net. Retrieved 13 July 2011.
+^ "SourceForge.net: 2009 CCA: Winners". SourceForge.net. Retrieved 13 July 2011.
+External links[edit]
+Wikimedia Commons has media related to Firebird (database server).
+Official website 
+Firebird - Developer portal
+Firebird collations, charts.
+Firebird documentation by IBProvider
+FirebirdFAQ
+FirebirdNews - News about Firebird and related projects
+Migration Guide to Firebird 3 - eBook
+Firebird Ole Db Driver (alternative for ODBC)
+Jaybird   JDBC driver for Firebird (on github.com)
+Jaybird   JDBC driver for Firebird (on firebirdsql.org)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Firebird_(database_server)&oldid=1129624877"

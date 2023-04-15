@@ -1,0 +1,846 @@
+Overview of the history of the internet
+History of computing
+Hardware
+Hardware before 1960
+Hardware 1960s to present
+Software
+Software
+Software configuration management
+Unix
+Free software and open-source software
+Computer science
+Artificial intelligence
+Compiler construction
+Early computer science
+Operating systems
+Programming languages
+Prominent pioneers
+Software engineering
+Modern concepts
+General-purpose CPUs
+Graphical user interface
+Internet
+Laptops
+Personal computers
+Video games
+World Wide Web
+By country
+Bulgaria
+Eastern Bloc
+Poland
+Romania
+Soviet Union
+Yugoslavia
+Timeline of computing
+before 1950
+1950 1979
+1980 1989
+1990 1999
+2000 2009
+2010 2019
+2020 present
+more timelines ...
+Glossary of computer science
+ Categoryvte
+InternetAn Opte Project visualization of routing paths through a portion of the Internet
+General
+Access
+Activism
+Censorship
+Data activism
+Democracy
+Digital divide
+Digital rights
+Freedom
+Freedom of information
+Internet phenomena
+Net neutrality
+Privacy
+Right to Internet access
+Slacktivism
+Sociology
+Usage
+Vigilantism
+Virtual community
+Virtual volunteering
+Governance
+IGF
+NRO
+IANA
+ICANN
+IETF
+ISOC
+Information infrastructure
+Domain Name System
+Hypertext Transfer Protocol
+Internet exchange point
+Internet protocol suite
+Internet Protocol
+Transmission Control Protocol
+Internet service provider
+IP address
+Internet Message Access Protocol
+Simple Mail Transfer Protocol
+Services
+Blogs
+Microblogging
+Email
+Fax
+File sharing
+File transfer
+Games
+Instant messaging
+Podcasts
+Shopping
+Television
+Voice over IP
+World Wide Web
+search
+History
+History of the Internet
+Oldest domain names
+Pioneers
+Protocol Wars
+Guides
+ Index
+Outline
+ Internet portalvte
+The history of the Internet has its origin in information theory and the efforts of scientists and engineers to build and interconnect computer networks. The Internet Protocol Suite, the set of rules used to communicate between networks and devices on the Internet, arose from research and development in the United States and involved international collaboration, particularly with researchers in the United Kingdom and France.[1][2][3][4]
+Computer science was an emerging discipline in the late 1950s that began to consider time-sharing between computer users, and later, the possibility of achieving this over wide area networks. J. C. R. Licklider developed the idea of a universal network at the Information Processing Techniques Office (IPTO) of the United States Department of Defense (DoD) Advanced Research Projects Agency (ARPA). Independently, Paul Baran at the RAND Corporation proposed a distributed network based on data in message blocks in the early 1960s, and Donald Davies conceived of packet switching in 1965 at the National Physical Laboratory (NPL), proposing a national commercial data network in the United Kingdom.
+ARPA awarded contracts in 1969 for the development of the ARPANET project, directed by Robert Taylor and managed by Lawrence Roberts. ARPANET adopted the packet switching technology proposed by Davies and Baran, underpinned by mathematical work in the early 1970s by Leonard Kleinrock at UCLA. The network was built by a team at Bolt, Beranek, and Newman, which included Bob Kahn.
+Several early packet-switched networks emerged in the 1970s which researched and provided data networking. ARPA projects, international working groups and commercial initiatives led to the development of various standards and protocols for internetworking, in which multiple separate networks could be joined into a network of networks. Bob Kahn, now at DARPA, and Vint Cerf, at Stanford University, published research in 1974 that evolved into the Transmission Control Protocol (TCP) and Internet Protocol (IP), two protocols of the Internet protocol suite. The design included concepts from the French CYCLADES project directed by Louis Pouzin.
+In the early 1980s, national and international public data networks emerged based on the X.25 protocol, the design of which included the work of R mi Despr s. In the United States, the National Science Foundation (NSF) funded national supercomputing centers at several universities in the United States, and provided interconnectivity in 1986 with the NSFNET project, thus creating network access to these supercomputer sites for research and academic organizations in the United States. International connections to NSFNET, the emergence of architecture such as the Domain Name System, and the adoption of TCP/IP internationally on existing networks marked the beginnings of the Internet.[5][6][7] Commercial Internet service providers (ISPs) emerged in 1989 in the United States and Australia.[8] The ARPANET was decommissioned in 1990.[9] Limited private connections to parts of the Internet by officially commercial entities emerged in several American cities by late 1989 and 1990.[10]  The optical backbone of the NSFNET was decommissioned in 1995, removing the last restrictions on the use of the Internet to carry commercial traffic, as traffic transitioned to optical networks managed by Sprint, MCI and AT&T.
+Research at CERN in Switzerland by the British computer scientist Tim Berners-Lee in 1989 90 resulted in the World Wide Web, linking hypertext documents into an information system, accessible from any node on the network.[11] The dramatic expansion of capacity of the Internet with the advent of wave division multiplexing (WDM) and the roll out of fiber optic cables in the mid-1990s had a revolutionary impact on culture, commerce, and technology. This made possible the rise of near-instant communication by electronic mail, instant messaging, voice over Internet Protocol (VoIP) telephone calls, video chat, and the World Wide Web with its discussion forums, blogs, social networking services, and online shopping sites. Increasing amounts of data are transmitted at higher and higher speeds over fiber-optic networks operating at 1 Gbit/s, 10 Gbit/s, and 800 Gbit/s by 2019.[12] The Internet's takeover of the global communication landscape was rapid in historical terms: it only communicated 1% of the information flowing through two-way telecommunications networks in the year 1993, 51% by 2000, and more than 97% of the telecommunicated information by 2007.[13] The Internet continues to grow, driven by ever greater amounts of online information, commerce, entertainment, and social networking services. However, the future of the global network may be shaped by regional differences.[14]
+Foundations
+Precursors
+Data communication
+The concept of data communication   transmitting data between two different places through an electromagnetic medium such as radio or an electric wire   pre-dates the introduction of the first computers. Such communication systems were typically limited to point to point communication between two end devices. Semaphore lines, telegraph systems and telex machines can be considered early precursors of this kind of communication. The telegraph in the late 19th century was the first fully digital communication system.
+Information theory
+Fundamental theoretical work on information theory was developed by Harry Nyquist and Ralph Hartley in the 1920s. Information theory, as enunciated by Claude Shannon, in the 1948, provided a firm theoretical underpinning to understand the trade-offs between signal-to-noise ratio, bandwidth, and error-free transmission in the presence of noise, in telecommunications technology. This was one of the three key developments, along with advances in transistor technology (specifically MOS transistors) and laser technology, that made possible the rapid growth of telecommunication bandwidth over the next half-century.[15]
+Computers
+Early computers in the 1940s had a central processing unit and user terminals. As the technology evolved in the 1950s, new systems were devised to allow communication over longer distances (for terminals) or with higher speed (for interconnection of local devices) that were necessary for the mainframe computer model. These technologies made it possible to exchange data (such as files) between remote computers. However, the point-to-point communication model was limited, as it did not allow for direct communication between any two arbitrary systems; a physical link was necessary. The technology was also considered vulnerable for strategic and military use because there were no alternative paths for the communication in case of a broken link.
+Inspiration
+The earliest computers were connected directly to terminals used by an individual user. Christopher Strachey, who became Oxford University's first Professor of Computation, filed a patent application for time-sharing in February 1959.[16][17] In June that year, he gave a paper "Time Sharing in Large Fast Computers" at the UNESCO Information Processing Conference in Paris where he passed the concept on to J. C. R. Licklider.[18][19] Licklider, vice president at Bolt Beranek and Newman, Inc., went on to propose a computer network in his January 1960 paper Man-Computer Symbiosis:[20]
+A network of such centers, connected to one another by wide-band communication lines [...] the functions of present-day libraries together with anticipated advances in information storage and retrieval and symbiotic functions suggested earlier in this paper
+In August 1962, Licklider and Welden Clark published the paper "On-Line Man-Computer Communication"[21] which was one of the first descriptions of a networked future.
+In October 1962, Licklider was hired by Jack Ruina as director of the newly established Information Processing Techniques Office (IPTO) within DARPA, with a mandate to interconnect the United States Department of Defense's main computers at Cheyenne Mountain, the Pentagon, and SAC HQ. There he formed an informal group within DARPA to further computer research. He began by writing memos in 1963 describing a distributed network to the IPTO staff, whom he called "Members and Affiliates of the Intergalactic Computer Network".[22]
+Although he left the IPTO in 1964, five years before the ARPANET went live, it was his vision of universal networking that provided the impetus for one of his successors, Robert Taylor, to initiate the ARPANET development. Licklider later returned to lead the IPTO in 1973 for two years.[23]
+Packet switching
+Main article: Packet switching
+The issue of connecting separate physical networks to form one logical network was the first of many problems. Early networks used message switched systems that required rigid routing structures prone to single point of failure. In the 1960s, Paul Baran of the RAND Corporation produced a study of survivable networks for the U.S. military in the event of nuclear war.[24] Information transmitted across Baran's network would be divided into what he called "message blocks".[25] Independently, Donald Davies (National Physical Laboratory, UK), proposed and put into practice a local area network based on what he called packet switching, the term that would ultimately be adopted.
+Packet switching is a rapid store and forward networking design that divides messages up into arbitrary packets, with routing decisions made per-packet. It provides better bandwidth utilization and response times than the traditional circuit-switching technology used for telephony, particularly on resource-limited interconnection links.[26]
+Networks that led to the Internet
+NPL network
+Main article: NPL network
+Following discussions with J. C. R. Licklider in 1965, Donald Davies became interested in data communications for computer networks.[27][28] Later that year, at the National Physical Laboratory in the United Kingdom, Davies designed and proposed a national commercial data network based on packet switching. The following year, he described the use of an "Interface computer" to act as a router.[29] The proposal was not taken up nationally but he produced a design for a local network to serve the needs of NPL and prove the feasibility of packet switching using high-speed data transmission.[30][31] To deal with packet permutations (due to dynamically updated route preferences) and to datagram losses (unavoidable when fast sources send to a slow destinations), he assumed that "all users of the network will provide themselves with some kind of error control",[32] thus inventing what came to be known the end-to-end principle. He and his team were one of the first to use the term 'protocol' in a data-commutation context in 1967.[33] The network's development was described at a 1968 conference.[34][35]
+By 1968,[36] Davies had begun building the Mark I packet-switched network to meet the needs of the multidisciplinary laboratory and prove the technology under operational conditions.[37][38] The NPL local network and the ARPANET were the first two networks in the world to use packet switching,[39] and the NPL network was the first to use high-speed links.[40] Many other packet switching networks built in the 1970s were similar "in nearly all respects" to Davies' original 1965 design.[41] The NPL team carried out simulation work on packet networks, including datagram networks, and research into internetworking and computer network security.[42][43] The Mark II version which operated from 1973 used a layered protocol architecture.[40] In 1976, 12 computers and 75 terminal devices were attached,[44] and more were added until the network was replaced in 1986.
+ARPANET
+Main article: ARPANET
+Robert Taylor was promoted to the head of the Information Processing Techniques Office (IPTO) at Defense Advanced Research Projects Agency (DARPA) in 1966. He intended to realize Licklider's ideas of an interconnected networking system.[45] As part of the IPTO's role, three network terminals had been installed: one for System Development Corporation in Santa Monica, one for Project Genie at University of California, Berkeley, and one for the Compatible Time-Sharing System project at Massachusetts Institute of Technology (MIT).[46] Taylor's identified need for networking became obvious from the waste of resources apparent to him.
+For each of these three terminals, I had three different sets of user commands. So if I was talking online with someone at S.D.C. and I wanted to talk to someone I knew at Berkeley or M.I.T. about this, I had to get up from the S.D.C. terminal, go over and log into the other terminal and get in touch with them.... 
+I said, oh man, it's obvious what to do: If you have these three terminals, there ought to be one terminal that goes anywhere you want to go where you have interactive computing. That idea is the ARPAnet.[46]Bringing in Larry Roberts from MIT in January 1967, he initiated a project to build such a network. Roberts and Thomas Merrill had been researching computer time-sharing over wide area networks (WANs).[47] Wide area networks emerged during the 1950s and became established during the 1960s. At the first ACM Symposium on Operating Systems Principles in October 1967, Roberts presented a proposal for the "ARPA net", based on Wesley Clark's proposal to use Interface Message Processors to create a message switching network.[48][49][50]  At the conference, Roger Scantlebury presented Donald Davies' work on packet switching for data communications and mentioned the work of Paul Baran at RAND. Roberts incorporated the packet switching concepts into the ARPANET design and upgraded the proposed communications speed from 2.4 kbps to 50 kbps.[51][52][53][54] Leonard Kleinrock subsequently developed the mathematical theory to model and measure the performance of this technology, building on his earlier work on queueing theory.[55]
+ARPA awarded the contract to build the network to Bolt Beranek & Newman, and the first ARPANET link was established between the Network Measurement Center at the University of California, Los Angeles (UCLA) Henry Samueli School of Engineering and Applied Science directed by Leonard Kleinrock, and the NLS system at Stanford Research Institute (SRI) directed by Douglas Engelbart in Menlo Park, California at 22:30 hours on October 29, 1969.[56]
+"We set up a telephone connection between us and the guys at SRI ...", Kleinrock ... said in an interview: "We typed the L and we asked on the phone,
+"Do you see the L?"
+"Yes, we see the L," came the response.
+We typed the O, and we asked, "Do you see the O."
+"Yes, we see the O."
+Then we typed the G, and the system crashed ...
+Yet a revolution had begun" ....[57] 
+ 35 Years of the Internet, 1969 2004. Stamp of Azerbaijan, 2004.
+By December 1969, a four-node network was connected by adding the Culler-Fried Interactive Mathematics Center at the University of California, Santa Barbara followed by the University of Utah Graphics Department.[58] In the same year, Taylor helped fund ALOHAnet, a system designed by professor Norman Abramson and others at the University of Hawai i at M noa that transmitted data by radio between seven computers on four islands on Hawaii.[59]
+Steve Crocker formed a "Networking Working Group" in 1969 at UCLA. ARPANET development was centered around the Request for Comments (RFC) process, still used today for proposing and distributing Internet Protocols and Systems. RFC 1, entitled "Host Software", was written by Steve Crocker and published on April 7, 1969. The protocol for establishing links between network sites in the ARPANET, the Network Control Protocol (NCP), was completed in 1970. These early years were documented in the 1972 film Computer Networks: The Heralds of Resource Sharing.
+Early international collaborations on the ARPANET were sparse. Connections were made in 1973 to the Norwegian Seismic Array (NORSAR),[60] via a satellite link at the Tanum Earth Station in Sweden, and to Peter Kirstein's research group at University College London, which provided a gateway to British academic networks, forming the first international heterogenous resource sharing network.[61] By 1981, the number of hosts had grown to 213.[62] The ARPANET became the technical core of what would become the Internet, and a primary tool in developing the technologies used.
+Merit Network
+Main article: Merit Network
+The Merit Network[63] was formed in 1966 as the Michigan Educational Research Information Triad to explore computer networking between three of Michigan's public universities as a means to help the state's educational and economic development.[64] With initial support from the State of Michigan and the National Science Foundation (NSF), the packet-switched network was first demonstrated in December 1971 when an interactive host to host connection was made between the IBM mainframe computer systems at the University of Michigan in Ann Arbor and Wayne State University in Detroit.[65] In October 1972 connections to the CDC mainframe at Michigan State University in East Lansing completed the triad. Over the next several years in addition to host to host interactive connections the network was enhanced to support terminal to host connections, host to host batch connections (remote job submission, remote printing, batch file transfer), interactive file transfer, gateways to the Tymnet and Telenet public data networks, X.25 host attachments, gateways to X.25 data networks, Ethernet attached hosts, and eventually TCP/IP and additional public universities in Michigan join the network.[65][66] All of this set the stage for Merit's role in the NSFNET project starting in the mid-1980s.
+CYCLADES
+Main article: CYCLADES
+The CYCLADES packet switching network was a French research network designed and directed by Louis Pouzin.[67] He developed the network to explore alternatives to the early ARPANET design and to support internetworking research. First demonstrated in 1973, it was the first network to implement the end-to-end principle conceived by Donald Davies and make the hosts responsible for reliable delivery of data, rather than the network itself, using unreliable datagrams. Concepts implemented in this network influenced TCP/IP architecture.[68][69][67]
+X.25 and public data networks
+Main articles: X.25 and public data network
+ 1974 ABC interview with Arthur C. Clarke, in which he describes a future of ubiquitous networked personal computers
+Based on international research initiatives, particularly the contributions of R mi Despr s, packet switching network standards were developed by the International Telegraph and Telephone Consultative Committee (ITU-T) in the form of X.25 and related standards.[70][71] X.25 is built on the concept of virtual circuits emulating traditional telephone connections. In 1974, X.25 formed the basis for the SERCnet network between British academic and research sites, which later became JANET, the United Kingdom's high-speed national research and education network (NREN). The initial ITU Standard on X.25 was approved in March 1976.[72] Existing networks, such as Telenet in the United States adopted X.25 as well as new public data networks, such as DATAPAC in Canada and TRANSPAC in France.[70][71] X.25 was supplemented by the X.75 protocol which enabled internetworking.
+The British Post Office, Western Union International and Tymnet collaborated to create the first international packet switched network, referred to as the International Packet Switched Service (IPSS), in 1978. This network grew from Europe and the US to cover Canada, Hong Kong, and Australia by 1981. By the 1990s it provided a worldwide networking infrastructure.[73]
+Unlike ARPANET, X.25 was commonly available for business use. Telenet offered its Telemail electronic mail service, which was also targeted to enterprise use rather than the general email system of the ARPANET.
+The first public dial-in networks used asynchronous TTY terminal protocols to reach a concentrator operated in the public network. Some networks, such as Telenet and CompuServe, used X.25 to multiplex the terminal sessions into their packet-switched backbones, while others, such as Tymnet, used proprietary protocols. In 1979, CompuServe became the first service to offer electronic mail capabilities and technical support to personal computer users. The company broke new ground again in 1980 as the first to offer real-time chat with its CB Simulator. Other major dial-in networks were America Online (AOL) and Prodigy that also provided communications, content, and entertainment features.[74] Many bulletin board system (BBS) networks also provided on-line access, such as FidoNet which was popular amongst hobbyist computer users, many of them hackers and amateur radio operators.[citation needed]
+UUCP and Usenet
+Main articles: UUCP and Usenet
+In 1979, two students at Duke University, Tom Truscott and Jim Ellis, originated the idea of using Bourne shell scripts to transfer news and messages on a serial line UUCP connection with nearby University of North Carolina at Chapel Hill. Following public release of the software in 1980, the mesh of UUCP hosts forwarding on the Usenet news rapidly expanded. UUCPnet, as it would later be named, also created gateways and links between FidoNet and dial-up BBS hosts. UUCP networks spread quickly due to the lower costs involved, ability to use existing leased lines, X.25 links or even ARPANET connections, and the lack of strict use policies compared to later networks like CSNET and Bitnet. All connects were local. By 1981 the number of UUCP hosts had grown to 550, nearly doubling to 940 in 1984.[75]
+Sublink Network, operating since 1987 and officially founded in Italy in 1989, based its interconnectivity upon UUCP to redistribute mail and news groups messages throughout its Italian nodes (about 100 at the time) owned both by private individuals and small companies. Sublink Network represented possibly one of the first examples of the Internet technology becoming progress through popular diffusion.
+1973 1989: Merging the networks and creating the Internet
+ Map of the TCP/IP test network in February 1982
+TCP/IP
+Main article: Internet Protocol Suite
+See also: Transmission Control Protocol and Internet Protocol
+ First Internet demonstration, linking the ARPANET, PRNET, and SATNET on November 22, 1977With so many different network methods, something was needed to unify them. Louis Pouzin initiated the CYCLADES project in 1971, building on the work of Donald Davies. In his work, Pouzin coined the term catenet for concatenated network. An International Networking Working Group formed in 1972; active members included Vint Cerf from Stanford University, Alex McKenzie from BBN, Donald Davies and Roger Scantlebury from NPL, and Louis Pouzin and Hubert Zimmermann from IRIA.[76][77][78] Later that year, Bob Kahn of DARPA recruited Vint Cerf to work with him on the problem. Bob Metcalfe at Xerox PARC outlined the idea of Ethernet. By 1973, these groups had worked out a fundamental reformulation, where the differences between network protocols were hidden by using a common internetwork protocol, and instead of the network being responsible for reliability, as in the ARPANET, the hosts became responsible.[1][3]
+Kahn and Cerf published their ideas in May 1974,[79] which incorporated concepts implemented by Louis Pouzin and Hubert Zimmermann in the CYCLADES network.[80] The specification of the resulting protocol, the Transmission Control Program, was published as RFC 675 by the Network Working Group in December 1974.[81] It contains the first attested use of the term internet, as a shorthand for internetwork. This software was monolithic in design using two simplex communication channels for each user session.
+With the role of the network reduced to a core of functionality, it became possible to exchange traffic with other networks independently from their detailed characteristics, thereby solving the fundamental problems of internetworking. DARPA agreed to fund development of prototype software. Testing began in 1975 through concurrent implementations at Stanford, BBN and University College London (UCL).[2] After several years of work, the first demonstration of a gateway between the Packet Radio network (PRNET) in the SF Bay area and the ARPANET was conducted by the Stanford Research Institute. On November 22, 1977, a three network demonstration was conducted including the ARPANET, the SRI's Packet Radio Van on the Packet Radio Network and the Atlantic Packet Satellite Network (SATNET) including a node at UCL.[82][83]
+The software was redesigned as a modular protocol stack, using full-duplex channels; between 1976 and 1977, Yogen Dalal and Robert Metcalfe among others, proposed separating TCP's routing and transmission control functions into two discrete layers,[84][85] which led to the splitting of the Transmission Control Program into the Transmission Control Protocol (TCP) and the Internet Protocol (IP) in version 3 in 1978.[85][86] Originally referred to as IP/TCP, version 4 was described in IETF publication RFC 791 (September 1981), 792 and 793. It was installed on SATNET in 1982 and the ARPANET in January 1983 after the DoD made it standard for all military computer networking.[87][88] This resulted in a networking model that became known informally as TCP/IP. It was also referred to as the Department of Defense (DoD) model, DARPA model, or ARPANET model.[89] Cerf credits his graduate students Yogen Dalal, Carl Sunshine, Judy Estrin, Richard Karp, and G rard Le Lann with important work on the design and testing.[90] DARPA sponsored or encouraged the development of TCP/IP implementations for many operating systems.
+ Decomposition of the quad-dotted IPv4 address representation to its binary value
+From ARPANET to NSFNET
+Main article: NSFNET
+ BBN Technologies TCP/IP Internet map of early 1986
+After the ARPANET had been up and running for several years, ARPA looked for another agency to hand off the network to; ARPA's primary mission was funding cutting-edge research and development, not running a communications utility. Eventually, in July 1975, the network had been turned over to the Defense Communications Agency, also part of the Department of Defense. In 1983, the U.S. military portion of the ARPANET was broken off as a separate network, the MILNET. MILNET subsequently became the unclassified but military-only NIPRNET, in parallel with the SECRET-level SIPRNET and JWICS for TOP SECRET and above. NIPRNET does have controlled security gateways to the public Internet.
+The networks based on the ARPANET were government funded and therefore restricted to noncommercial uses such as research; unrelated commercial use was strictly forbidden. This initially restricted connections to military sites and universities. During the 1980s, the connections expanded to more educational institutions, which began to form networks of fiber optic lines. A growing number of companies such as Digital Equipment Corporation and Hewlett-Packard, which were participating in research projects or providing services to those who were. Data transmission speeds depended upon the type of connection, the slowest being analog telephone lines and the fastest using optical networking technology.
+Several other branches of the U.S. government, the National Aeronautics and Space Administration (NASA), the National Science Foundation (NSF), and the Department of Energy (DOE) became heavily involved in Internet research and started development of a successor to ARPANET. In the mid-1980s, all three of these branches developed the first Wide Area Networks based on TCP/IP. NASA developed the NASA Science Network, NSF developed CSNET and DOE evolved the Energy Sciences Network or ESNet.
+ T3 NSFNET Backbone, c. 1992
+NASA developed the TCP/IP based NASA Science Network (NSN) in the mid-1980s, connecting space scientists to data and information stored anywhere in the world. In 1989, the DECnet-based Space Physics Analysis Network (SPAN) and the TCP/IP-based NASA Science Network (NSN) were brought together at NASA Ames Research Center creating the first multiprotocol wide area network called the NASA Science Internet, or NSI. NSI was established to provide a totally integrated communications infrastructure to the NASA scientific community for the advancement of earth, space and life sciences. As a high-speed, multiprotocol, international network, NSI provided connectivity to over 20,000 scientists across all seven continents.
+In 1981, NSF supported the development of the Computer Science Network (CSNET). CSNET connected with ARPANET using TCP/IP, and ran TCP/IP over X.25, but it also supported departments without sophisticated network connections, using automated dial-up mail exchange. CSNET played a central role in popularizing the Internet outside the ARPANET.[91]
+In 1986, the NSF created NSFNET, a 56 kbit/s backbone to support the NSF-sponsored supercomputing centers. The NSFNET also provided support for the creation of regional research and education networks in the United States, and for the connection of university and college campus networks to the regional networks.[92] The use of NSFNET and the regional networks was not limited to supercomputer users and the 56 kbit/s network quickly became overloaded. NSFNET was upgraded to 1.5 Mbit/s in 1988 under a cooperative agreement with the Merit Network in partnership with IBM, MCI, and the State of Michigan. The existence of NSFNET and the creation of Federal Internet Exchanges (FIXes) allowed the ARPANET to be decommissioned in 1990.
+NSFNET was expanded and upgraded to dedicated fiber, optical lasers and optical amplifier systems capable of delivering T3 start up speeds or 45 Mbit/s in 1991. However, the T3 transition by MCI took longer than expected, allowing Sprint to establish a coast-to-coast long-distance commercial Internet service. When NSFNET was decommissioned in 1995, its optical networking backbones were handed off to several commercial Internet service providers, including MCI, PSI Net and Sprint.[93] As a result, when the handoff was complete, Sprint and its Washington DC Network Access Points began to carry Internet traffic, and by 1996, Sprint was the world's largest carrier of Internet traffic.[94]
+The research and academic community continues to develop and use advanced networks such as Internet2 in the United States and JANET in the United Kingdom.
+Transition towards the Internet
+The term "internet" was reflected in the first RFC published on the TCP protocol (RFC 675:[95] Internet Transmission Control Program, December 1974) as a short form of internetworking, when the two terms were used interchangeably. In general, an internet was a collection of networks linked by a common protocol. In the time period when the ARPANET was connected to the newly formed NSFNET project in the late 1980s, the term was used as the name of the network, Internet, being the large and global TCP/IP network.[96]
+Opening the Internet and the fiber optic backbone to corporate and consumers increased demand for network capacity. The expense and delay of laying new fiber led providers to test a fiber bandwidth expansion alternative that had been pioneered in the late 1970s by Optelecom using  interactions between light and matter, such as lasers and optical devices used for optical amplification and wave mixing .[97] This technology became known as wave division multiplexing (WDM). Bell Labs deployed a 4-channel WDM system in 1995.[98] To develop a mass capacity (dense) WDM system, Optelecom and its former head of Light Systems Research, David R. Huber formed a new venture, Ciena Corp., that deployed the world's first dense WDM system on the Sprint fiber network in June 1996.[99]  This was referred to as the real start of optical networking.[100]
+As interest in networking grew by needs of collaboration, exchange of data, and access of remote computing resources, the Internet technologies spread throughout the rest of the world. The hardware-agnostic approach in TCP/IP supported the use of existing network infrastructure, such as the International Packet Switched Service (IPSS) X.25 network, to carry Internet traffic.
+Many sites unable to link directly to the Internet created simple gateways for the transfer of electronic mail, the most important application of the time. Sites with only intermittent connections used UUCP or FidoNet and relied on the gateways between these networks and the Internet. Some gateway services went beyond simple mail peering, such as allowing access to File Transfer Protocol (FTP) sites via UUCP or mail.[101]
+Finally, routing technologies were developed for the Internet to remove the remaining centralized routing aspects. The Exterior Gateway Protocol (EGP) was replaced by a new protocol, the Border Gateway Protocol (BGP). This provided a meshed topology for the Internet and reduced the centric architecture which ARPANET had emphasized. In 1994, Classless Inter-Domain Routing (CIDR) was introduced to support better conservation of address space which allowed use of route aggregation to decrease the size of routing tables.[102]
+Optical networking
+To address the need for transmission capacity beyond that provided by radio, satellite and analog copper telephone lines, engineers developed optical communications systems based on fiber optic cables powered by lasers and optical amplifier techniques.
+The concept of lasing arose from a 1917 paper by Albert Einstein,  On the Quantum Theory of Radiation.  Einstein expanded upon a dialog with Max Planck on how atoms absorb and emit light, part of a thought process that, with input from Erwin Schr dinger, Werner Heisenberg and others, gave rise to Quantum Mechanics. Specifically, in his quantum theory, Einstein mathematically determined that light could be generated not only by spontaneous emission, such as the light emitted by an incandescent light or the Sun, but also by stimulated emission.
+Forty years later, on November 13, 1957, Columbia University physics student Gordon Gould first realized how to make light by stimulated emission through a process of optical amplification. He coined the term LASER for this technology Light Amplification by Stimulated Emission of Radiation.[103] Using Gould's light amplification method (patented as  Optically Pumped Laser Amplifier ) [1], Theodore Maiman made the first working laser on May 16, 1960.[104]
+Gould co-founded Optelecom, Inc. in 1973 to commercialize his inventions in optical fiber telecommunications.[105] just as Corning Glass was producing the first commercial fiber optic cable in small quantities. Optelecom configured its own fiber lasers and optical amplifiers into the first commercial optical communication systems which it delivered to Chevron and the US Army Missile Defense.[106] Three years later, GTE deployed the first optical telephone system in 1977 in Long Beach, California.[107] By the early 1980s, optical networks powered by lasers, LED and optical amplifier equipment supplied by Bell Labs, NTT and Perelli were used by select universities and long-distance telephone providers.
+TCP/IP goes global (1980s)
+CERN and the European Internet
+See also: Protocol Wars
+In early 1982, NORSAR and Peter Kirstein's group at University College London (UCL) left the ARPANET and began to use TCP/IP over SATNET.[108] UCL continued to provide access between the ARPANET and academic networks in the UK, a role it had performed since 1973.[61][109]
+Between 1984 and 1988, CERN began installation and operation of TCP/IP to interconnect its major internal computer systems, workstations, PCs, and an accelerator control system. CERN continued to operate a limited self-developed system (CERNET) internally and several incompatible (typically proprietary) network protocols externally. There was considerable resistance in Europe towards more widespread use of TCP/IP, and the CERN TCP/IP intranets remained isolated from the Internet until 1989, when a transatlantic connection to Cornell University was established.[110][111][112]
+The Computer Science Network (CSNET) began operation in 1981 to provide networking connections to institutions that could not connect directly to ARPANET. Its first international connection was to Israel in 1984. Soon after, connections were established to computer science departments in Canada, France, and Germany.[91]
+In 1988, the first international connections to NSFNET was established by France's INRIA,[113][114] and Piet Beertema at the Centrum Wiskunde & Informatica (CWI) in the Netherlands.[115] Daniel Karrenberg, from CWI, visited Ben Segal, CERN's TCP/IP coordinator, looking for advice about the transition of EUnet, the European side of the UUCP Usenet network (much of which ran over X.25 links), over to TCP/IP. The previous year, Segal had met with Len Bosack from the then still small company Cisco about purchasing some TCP/IP routers for CERN, and Segal was able to give Karrenberg advice and forward him on to Cisco for the appropriate hardware. This expanded the European portion of the Internet across the existing UUCP networks. The NORDUnet connection to NSFNET was in place soon after, providing open access for university students in Denmark, Finland, Iceland, Norway, and Sweden.[116] In January 1989, CERN opened its first external TCP/IP connections.[117] This coincided with the creation of R seaux IP Europ ens (RIPE), initially a group of IP network administrators who met regularly to carry out coordination work together. Later, in 1992, RIPE was formally registered as a cooperative in Amsterdam.
+The United Kingdom's national research and education network (NREN), JANET, began operation in 1984 using the UK's Coloured Book protocols and connected to NSFNET in 1989. In 1991, JANET adopted Internet Protocol on the existing network.[118][119] The same year, Dai Davies introduced Internet technology into the pan-European NREN, EuropaNet, which was built on the X.25 protocol.[120][121] The European Academic and Research Network (EARN) and RARE adopted IP around the same time, and the European Internet backbone EBONE became operational in 1992.[110]
+Nonetheless, for a period in the late 1980s and early 1990s, engineers, organizations and nations were polarized over the issue of which standard, the OSI model or the Internet protocol suite would result in the best and most robust computer networks.[77][122][123]
+The link to the Pacific
+South Korea set up a two-node domestic TCP/IP network in 1982, the System Development Network (SDN), adding a third node the following year. SDN was connected to the rest of the world in August 1983 using UUCP (Unix-to-Unix-Copy); connected to CSNET in December 1984;[91] and formally connected to the NSFNET in 1990.[124][125][126]
+Japan, which had built the UUCP-based network JUNET in 1984, connected to CSNET,[91] and later to NSFNET in 1989, marking the spread of the Internet to Asia.
+In Australia, ad hoc networking to ARPA and in-between Australian universities formed in the late 1980s, based on various technologies such as X.25, UUCPNet, and via a CSNET.[91] These were limited in their connection to the global networks, due to the cost of making individual international UUCP dial-up or X.25 connections. In 1989, Australian universities joined the push towards using IP protocols to unify their networking infrastructures. AARNet was formed in 1989 by the Australian Vice-Chancellors' Committee and provided a dedicated IP based network for Australia.
+New Zealand adopted the UK's Coloured Book protocols as an interim standard and established its first international IP connection to the U.S. in 1989.[127]
+A "digital divide" emerges
+ Internet users in 2015 as a percentage of a country's populationSource: International Telecommunication Union.[128]
+Main articles: Global digital divide and Digital divide
+ Fixed broadband Internet subscriptions in 2012as a percentage of a country's populationSource: International Telecommunication Union.[129]
+ Mobile broadband Internet subscriptions in 2012as a percentage of a country's populationSource: International Telecommunication Union.[130]
+While developed countries with technological infrastructures were joining the Internet, developing countries began to experience a digital divide separating them from the Internet. On an essentially continental basis, they built organizations for Internet resource administration and to share operational experience, which enabled more transmission facilities to be put into place.
+Africa
+At the beginning of the 1990s, African countries relied upon X.25 IPSS and 2400 baud modem UUCP links for international and internetwork computer communications.
+In August 1995, InfoMail Uganda, Ltd., a privately held firm in Kampala now known as InfoCom, and NSN Network Services of Avon, Colorado, sold in 1997 and now known as Clear Channel Satellite, established Africa's first native TCP/IP high-speed satellite Internet services. The data connection was originally carried by a C-Band RSCC Russian satellite which connected InfoMail's Kampala offices directly to NSN's MAE-West point of presence using a private network from NSN's leased ground station in New Jersey. InfoCom's first satellite connection was just 64 kbit/s, serving a Sun host computer and twelve US Robotics dial-up modems.
+In 1996, a USAID funded project, the Leland Initiative, started work on developing full Internet connectivity for the continent. Guinea, Mozambique, Madagascar and Rwanda gained satellite earth stations in 1997, followed by Ivory Coast and Benin in 1998.
+Africa is building an Internet infrastructure. AFRINIC, headquartered in Mauritius, manages IP address allocation for the continent. As do the other Internet regions, there is an operational forum, the Internet Community of Operational Networking Specialists.[131]
+There are many programs to provide high-performance transmission plant, and the western and southern coasts have undersea optical cable. High-speed cables join North Africa and the Horn of Africa to intercontinental cable systems. Undersea cable development is slower for East Africa; the original joint effort between New Partnership for Africa's Development (NEPAD) and the East Africa Submarine System (Eassy) has broken off and may become two efforts.[132]
+Asia and Oceania
+The Asia Pacific Network Information Centre (APNIC), headquartered in Australia, manages IP address allocation for the continent. APNIC sponsors an operational forum, the Asia-Pacific Regional Internet Conference on Operational Technologies (APRICOT).[133]
+In South Korea, VDSL, a last mile technology developed in the 1990s by NextLevel Communications, connected corporate and consumer copper-based telephone lines to the Internet.[134]
+The People's Republic of China established its first TCP/IP college network, Tsinghua University's TUNET in 1991. The PRC went on to make its first global Internet connection in 1994, between the Beijing Electro-Spectrometer Collaboration and Stanford University's Linear Accelerator Center. However, China went on to implement its own digital divide by implementing a country-wide content filter.[135]
+Japan hosted the annual meeting of the Internet Society, INET'92, in Kobe. Singapore developed TECHNET in 1990, and Thailand gained a global Internet connection between Chulalongkorn University and UUNET in 1992.[136]
+Latin America
+As with the other regions, the Latin American and Caribbean Internet Addresses Registry (LACNIC) manages the IP address space and other resources for its area. LACNIC, headquartered in Uruguay, operates DNS root, reverse DNS, and other key services.
+1990 2003: Rise of the global Internet, Web 1.0
+Main articles: History of the World Wide Web and Digital revolution
+Initially, as with its predecessor networks, the system that would evolve into the Internet was primarily for government and government body use. Although commercial use was forbidden, the exact definition of commercial use was unclear and subjective. UUCPNet and the X.25 IPSS had no such restrictions, which would eventually see the official barring of UUCPNet use of ARPANET and NSFNET connections. (Some UUCP links still remained connecting to these networks however, as administrators cast a blind eye to their operation.)[citation needed]
+ Number of Internet hosts worldwide: 1969 2019Source: Internet Systems Consortium.[137]
+As a result, during the late 1980s, the first Internet service provider (ISP) companies were formed. Companies like PSINet, UUNET, Netcom, and Portal Software were formed to provide service to the regional research networks and provide alternate network access, UUCP-based email and Usenet News to the public. The first commercial dialup ISP in the United States was The World, which opened in 1989.[138]
+In 1992, the U.S. Congress passed the Scientific and Advanced-Technology Act, 42 U.S.C. 1862(g), which allowed NSF to support access by the research and education communities to computer networks which were not used exclusively for research and education purposes, thus permitting NSFNET to interconnect with commercial networks.[139][140] This caused controversy within the research and education community, who were concerned commercial use of the network might lead to an Internet that was less responsive to their needs, and within the community of commercial network providers, who felt that government subsidies were giving an unfair advantage to some organizations.[141]
+By 1990, ARPANET's goals had been fulfilled and new networking technologies exceeded the original scope and the project came to a close. New network service providers including PSINet, Alternet, CERFNet, ANS CO+RE, and many others were offering network access to commercial customers. NSFNET was no longer the de facto backbone and exchange point of the Internet. The Commercial Internet eXchange (CIX), Metropolitan Area Exchanges (MAEs), and later Network Access Points (NAPs) were becoming the primary interconnections between many networks. The final restrictions on carrying commercial traffic ended on April 30, 1995, when the National Science Foundation ended its sponsorship of the NSFNET Backbone Service.[142][143] NSF provided initial support for the NAPs and interim support to help the regional research and education networks transition to commercial ISPs. NSF also sponsored the very high speed Backbone Network Service (vBNS) which continued to provide support for the supercomputing centers and research and education in the United States.[144]
+An event held on 11 January 1994, The Superhighway Summit at UCLA's Royce Hall, was the "first public conference bringing together all of the major industry, government and academic leaders in the field [and] also began the national dialogue about the Information Superhighway and its implications".[145]
+Internet use in wider society
+The invention of the World Wide Web by Tim Berners-Lee at CERN, as an application on the Internet,[146] brought many social and commercial uses to what was, at the time, a network of networks for academic and research institutions.[147][148] The Web opened to the public in 1991 and began to enter general use in 1993-4, when websites for everyday use started to become available.[149] Stamped envelope of Russian Post issued in 1993 with stamp and graphics dedicated to first Russian underwater digital optic cable laid in 1993 by Rostelecom from Kingisepp to Copenhagen
+During the first decade or so of the public Internet, the immense changes it would eventually enable in the 2000s were still nascent. In terms of providing context for this period, mobile cellular devices ("smartphones" and other cellular devices) which today provide near-universal access, were used for business and not a routine household item owned by parents and children worldwide. Social media in the modern sense had yet to come into existence, laptops were bulky and most households did not have computers. Data rates were slow and most people lacked means to video or digitize video; media storage was transitioning slowly from analog tape to digital optical discs (DVD and to an extent still, floppy disc to CD). Enabling technologies used from the early 2000s such as PHP, modern JavaScript and Java, technologies such as AJAX, HTML 4 (and its emphasis on CSS), and various software frameworks, which enabled and simplified speed of web development, largely awaited invention and their eventual widespread adoption.
+The Internet was widely used for mailing lists, emails, e-commerce and early popular online shopping (Amazon and eBay for example), online forums and bulletin boards, and personal websites and blogs, and use was growing rapidly, but by more modern standards the systems used were static and lacked widespread social engagement. It awaited a number of events in the early 2000s to change from a communications technology to gradually develop into a key part of global society's infrastructure.
+Typical design elements of these "Web 1.0" era websites included:[150] Static pages instead of dynamic HTML;[151] content served from filesystems instead of relational databases; pages built using Server Side Includes or CGI instead of a web application written in a dynamic programming language; HTML 3.2-era structures such as frames and tables to create page layouts; online guestbooks; overuse of GIF buttons and similar small graphics promoting particular items;[152] and HTML forms sent via email. (Support for server side scripting was rare on shared servers so the usual feedback mechanism was via email, using mailto forms and their email program.[153]
+During the period 1997 to 2001, the first speculative investment bubble related to the Internet took place, in which "dot-com" companies (referring to the ".com" top level domain used by businesses) were propelled to exceedingly high valuations as investors rapidly stoked stock values, followed by a market crash; the first dot-com bubble. However this only temporarily slowed enthusiasm and growth, which quickly recovered and continued to grow.
+The history of the World Wide Web up to around 2004 was retrospectively named and described by some as "Web 1.0".[154]
+IPv6
+The last available IPv4 address was assigned in January 2011.[155] IPv4 uses 32-bit addresses which limits the address space to 232 addresses, i.e. 4294967296 addresses.[86] IPv4 is being replaced by its successor, called "IPv6", which uses 128 bit addresses, providing 2128 addresses, i.e. 340282366920938463463374607431768211456,[156] a vastly increased address space. The shift to IPv6 is expected to take many years, decades, or perhaps longer, to complete, since there were four billion machines with IPv4 when the shift began.[155]
+2004 present: Web 2.0, global ubiquity, social media
+Main articles: Web 2.0 and History of the World Wide Web  Web 2.0
+The rapid technical advances that would propel the Internet into its place as a social system which have completely transformed the way humans interact with each other, took place during a relatively short period of no more than five years, from around 2005 to 2010, coinciding with the point in time in which IoT devices surpassed the number of humans alive at some point in the late 2000s. They included:
+The call to "Web 2.0" in 2004 (first suggested in 1999),
+Accelerating adoption and commoditization among households of, and familiarity with, the necessary hardware (such as computers).
+Accelerating storage technology and data access speeds   hard drives emerged, took over from far smaller, slower floppy discs, and grew from megabytes to gigabytes (and by around 2010, terabytes), RAM from hundreds of kilobytes to gigabytes as typical amounts on a system, and Ethernet, the enabling technology for TCP/IP, moved from common speeds of kilobits to tens of megabits per second, to gigabits per second.
+High speed Internet and wider coverage of data connections, at lower prices, allowing larger traffic rates, more reliable simpler traffic, and traffic from more locations,
+The public's accelerating perception of the potential of computers to create new means and approaches to communication, the emergence of social media and websites such as Twitter and Facebook to their later prominence, and global collaborations such as Wikipedia (which existed before but gained prominence as a result),
+The mobile device revolution, particularly with smartphones and tablet computers becoming widespread, which began to provide easy access to the Internet to much of human society of all ages, in their daily lives, and allowed them to share, discuss, and continually update, inquire, and respond.
+Non-volatile RAM rapidly grew in size and reliability, and decreased in price, becoming a commodity capable of enabling high levels of computing activity on these small handheld devices as well as solid-state drives (SSD).
+An emphasis on power efficient processor and device design, rather than purely high processing power; one of the beneficiaries of this was ARM, a British company which had focused since the 1980s on powerful but low cost simple microprocessors. ARM architecture family rapidly gained dominance in the market for mobile and embedded devices.
+The term "Web 2.0" describes websites that emphasize user-generated content (including user-to-user interaction), usability, and interoperability. It first appeared in a January 1999 article called "Fragmented Future" written by Darcy DiNucci, a consultant on electronic information design, where she wrote:[157][158][159][160]
+"The Web we know now, which loads into a browser window in essentially static screenfuls, is only an embryo of the Web to come. The first glimmerings of Web 2.0 are beginning to appear, and we are just starting to see how that embryo might develop. The Web will be understood not as screenfuls of text and graphics but as a transport mechanism, the ether through which interactivity happens. It will [...] appear on your computer screen, [...] on your TV set [...] your car dashboard [...] your cell phone [...] hand-held game machines [...] maybe even your microwave oven."
+The term resurfaced during 2002 2004,[161][162][163][164] and gained prominence in late 2004 following presentations by Tim O'Reilly and Dale Dougherty at the first Web 2.0 Conference. In their opening remarks, John Battelle and Tim O'Reilly outlined their definition of the "Web as Platform", where software applications are built upon the Web as opposed to upon the desktop. The unique aspect of this migration, they argued, is that "customers are building your business for you".[165] They argued that the activities of users generating content (in the form of ideas, text, videos, or pictures) could be "harnessed" to create value.
+Web 2.0 does not refer to an update to any technical specification, but rather to cumulative changes in the way Web pages are made and used. Web 2.0 describes an approach, in which sites focus substantially upon allowing users to interact and collaborate with each other in a social media dialogue as creators of user-generated content in a virtual community, in contrast to Web sites where people are limited to the passive viewing of content. Examples of Web 2.0 include social networking services, blogs, wikis, folksonomies, video sharing sites, hosted services, Web applications, and mashups.[166] Terry Flew, in his 3rd Edition of New Media described what he believed to characterize the differences between Web 1.0 and Web 2.0:
+"[The] move from personal websites to blogs and blog site aggregation, from publishing to participation, from web content as the outcome of large up-front investment to an ongoing and interactive process, and from content management systems to links based on tagging (folksonomy)".[167]
+This era saw several household names gain prominence through their community-oriented operation   YouTube, Twitter, Facebook, Reddit and Wikipedia being some examples.
+The mobile revolution
+Main articles: History of mobile phones, Mobile Web, and Responsive web design
+The process of change that generally coincided with "Web 2.0" was itself greatly accelerated and transformed only a short time later by the increasing growth in mobile devices.  This mobile revolution meant that computers in the form of smartphones became something many people used, took with them everywhere, communicated with, used for photographs and videos they instantly shared or to shop or seek information "on the move"   and used socially, as opposed to items on a desk at home or just used for work.[citation needed]
+Location-based services, services using location and other sensor information, and crowdsourcing (frequently but not always location based), became common, with posts tagged by location, or websites and services becoming location aware. Mobile-targeted websites (such as "m.website.com") became common, designed especially for the new devices used. Netbooks, ultrabooks, widespread 4G and Wi-Fi, and mobile chips capable or running at nearly the power of desktops from not many years before on far lower power usage, became enablers of this stage of Internet development, and the term "App" emerged (short for "Application program" or "Program") as did the "App store".
+This "mobile revolution" has allowed for people to have a nearly unlimited amount of information at their fingertips. With the ability to access the internet from cell phones came a change in the way we consume media. In fact, looking at media consumption statistics, over half of media consumption between those aged 18 and 34 were using a smartphone.[168]
+Networking in outer space
+Main article: Interplanetary Internet
+The first Internet link into low Earth orbit was established on January 22, 2010, when astronaut T. J. Creamer posted the first unassisted update to his Twitter account from the International Space Station, marking the extension of the Internet into space.[169] (Astronauts at the ISS had used email and Twitter before, but these messages had been relayed to the ground through a NASA data link before being posted by a human proxy.) This personal Web access, which NASA calls the Crew Support LAN, uses the space station's high-speed Ku band microwave link. To surf the Web, astronauts can use a station laptop computer to control a desktop computer on Earth, and they can talk to their families and friends on Earth using Voice over IP equipment.[170]
+Communication with spacecraft beyond Earth orbit has traditionally been over point-to-point links through the Deep Space Network. Each such data link must be manually scheduled and configured. In the late 1990s NASA and Google began working on a new network protocol, Delay-tolerant networking (DTN) which automates this process, allows networking of spaceborne transmission nodes, and takes the fact into account that spacecraft can temporarily lose contact because they move behind the Moon or planets, or because space weather disrupts the connection. Under such conditions, DTN retransmits data packages instead of dropping them, as the standard TCP/IP Internet Protocol does. NASA conducted the first field test of what it calls the "deep space internet" in November 2008.[171] Testing of DTN-based communications between the International Space Station and Earth (now termed Disruption-Tolerant Networking) has been ongoing since March 2009, and is scheduled to continue until March 2014.[172]
+This network technology is supposed to ultimately enable missions that involve multiple spacecraft where reliable inter-vessel communication might take precedence over vessel-to-Earth downlinks. According to a February 2011 statement by Google's Vint Cerf, the so-called "Bundle protocols" have been uploaded to NASA's EPOXI mission spacecraft (which is in orbit around the Sun) and communication with Earth has been tested at a distance of approximately 80 light seconds.[173]
+Internet governance
+Main article: Internet governance
+As a globally distributed network of voluntarily interconnected autonomous networks, the Internet operates without a central governing body. Each constituent network chooses the technologies and protocols it deploys from the technical standards that are developed by the Internet Engineering Task Force (IETF).[174] However, successful interoperation of many networks requires certain parameters that must be common throughout the network. For managing such parameters, the Internet Assigned Numbers Authority (IANA) oversees the allocation and assignment of various technical identifiers.[175]  In addition, the Internet Corporation for Assigned Names and Numbers (ICANN) provides oversight and coordination for the two principal name spaces in the Internet, the Internet Protocol address space and the Domain Name System.
+NIC, InterNIC, IANA, and ICANN
+The IANA function was originally performed by USC Information Sciences Institute (ISI), and it delegated portions of this responsibility with respect to numeric network and autonomous system identifiers to the Network Information Center (NIC) at Stanford Research Institute (SRI International) in Menlo Park, California. ISI's Jonathan Postel managed the IANA, served as RFC Editor and performed other key roles until his premature death in 1998.[176]
+As the early ARPANET grew, hosts were referred to by names, and a HOSTS.TXT file would be distributed from SRI International to each host on the network. As the network grew, this became cumbersome. A technical solution came in the form of the Domain Name System, created by ISI's Paul Mockapetris in 1983.[177] The Defense Data Network Network Information Center (DDN-NIC) at SRI handled all registration services, including the top-level domains (TLDs) of .mil, .gov, .edu, .org, .net, .com and .us, root nameserver administration and Internet number assignments under a United States Department of Defense contract.[175] In 1991, the Defense Information Systems Agency (DISA) awarded the administration and maintenance of DDN-NIC (managed by SRI up until this point) to Government Systems, Inc., who subcontracted it to the small private-sector Network Solutions, Inc.[178][179]
+The increasing cultural diversity of the Internet also posed administrative challenges for centralized management of the IP addresses. In October 1992, the Internet Engineering Task Force (IETF) published RFC 1366,[180] which described the "growth of the Internet and its increasing globalization" and set out the basis for an evolution of the IP registry process, based on a regionally distributed registry model. This document stressed the need for a single Internet number registry to exist in each geographical region of the world (which would be of "continental dimensions"). Registries would be "unbiased and widely recognized by network providers and subscribers" within their region.
+The RIPE Network Coordination Centre (RIPE NCC) was established as the first RIR in May 1992. The second RIR, the Asia Pacific Network Information Centre (APNIC), was established in Tokyo in 1993, as a pilot project of the Asia Pacific Networking Group.[181]
+Since at this point in history most of the growth on the Internet was coming from non-military sources, it was decided that the Department of Defense would no longer fund registration services outside of the .mil TLD. In 1993 the U.S. National Science Foundation, after a competitive bidding process in 1992, created the InterNIC to manage the allocations of addresses and management of the address databases, and awarded the contract to three organizations. Registration Services would be provided by Network Solutions; Directory and Database Services would be provided by AT&T; and Information Services would be provided by General Atomics.[182]
+Over time, after consultation with the IANA, the IETF, RIPE NCC, APNIC, and the Federal Networking Council (FNC), the decision was made to separate the management of domain names from the management of IP numbers.[181] Following the examples of RIPE NCC and APNIC, it was recommended that management of IP address space then administered by the InterNIC should be under the control of those that use it, specifically the ISPs, end-user organizations, corporate entities, universities, and individuals. As a result, the American Registry for Internet Numbers (ARIN) was established as in December 1997, as an independent, not-for-profit corporation by direction of the National Science Foundation and became the third Regional Internet Registry.[183]
+In 1998, both the IANA and remaining DNS-related InterNIC functions were reorganized under the control of ICANN, a California non-profit corporation contracted by the United States Department of Commerce to manage a number of Internet-related tasks. As these tasks involved technical coordination for two principal Internet name spaces (DNS names and IP addresses) created by the IETF, ICANN also signed a memorandum of understanding with the IAB to define the technical work to be carried out by the Internet Assigned Numbers Authority.[184] The management of Internet address space remained with the regional Internet registries, which collectively were defined as a supporting organization within the ICANN structure.[185] ICANN provides central coordination for the DNS system, including policy coordination for the split registry / registrar system, with competition among registry service providers to serve each top-level-domain and multiple competing registrars offering DNS services to end-users.
+Internet Engineering Task Force
+The Internet Engineering Task Force (IETF) is the largest and most visible of several loosely related ad-hoc groups that provide technical direction for the Internet, including the Internet Architecture Board (IAB), the Internet Engineering Steering Group (IESG), and the Internet Research Task Force (IRTF).
+The IETF is a loosely self-organized group of international volunteers who contribute to the engineering and evolution of Internet technologies. It is the principal body engaged in the development of new Internet standard specifications. Much of the work of the IETF is organized into Working Groups. Standardization efforts of the Working Groups are often adopted by the Internet community, but the IETF does not control or patrol the Internet.[186][187]
+The IETF grew out of quarterly meetings with U.S. government-funded researchers, starting in January 1986. Non-government representatives were invited by the fourth IETF meeting in October 1986. The concept of Working Groups was introduced at the fifth meeting in February 1987. The seventh meeting in July 1987 was the first meeting with more than one hundred attendees. In 1992, the Internet Society, a professional membership society, was formed and IETF began to operate under it as an independent international standards body. The first IETF meeting outside of the United States was held in Amsterdam, The Netherlands, in July 1993. Today, the IETF meets three times per year and attendance has been as high as ca. 2,000 participants. Typically one in three IETF meetings are held in Europe or Asia. The number of non-US attendees is typically ca. 50%, even at meetings held in the United States.[186]
+The IETF is not a legal entity, has no governing board, no members, and no dues. The closest status resembling membership is being on an IETF or Working Group mailing list. IETF volunteers come from all over the world and from many different parts of the Internet community. The IETF works closely with and under the supervision of the Internet Engineering Steering Group (IESG)[188] and the Internet Architecture Board (IAB).[189] The Internet Research Task Force (IRTF) and the Internet Research Steering Group (IRSG), peer activities to the IETF and IESG under the general supervision of the IAB, focus on longer-term research issues.[186][190]
+Request for Comments
+Request for Comments (RFCs) are the main documentation for the work of the IAB, IESG, IETF, and IRTF. RFC 1, "Host Software", was written by Steve Crocker at UCLA in April 1969, well before the IETF was created. Originally they were technical memos documenting aspects of ARPANET development and were edited by Jon Postel, the first RFC Editor.[186][191]
+RFCs cover a wide range of information from proposed standards, draft standards, full standards, best practices, experimental protocols, history, and other informational topics.[192] RFCs can be written by individuals or informal groups of individuals, but many are the product of a more formal Working Group. Drafts are submitted to the IESG either by individuals or by the Working Group Chair. An RFC Editor, appointed by the IAB, separate from IANA, and working in conjunction with the IESG, receives drafts from the IESG and edits, formats, and publishes them. Once an RFC is published, it is never revised. If the standard it describes changes or its information becomes obsolete, the revised standard or updated information will be re-published as a new RFC that "obsoletes" the original.[186][191]
+The Internet Society
+The Internet Society (ISOC) is an international, nonprofit organization founded during 1992 "to assure the open development, evolution and use of the Internet for the benefit of all people throughout the world". With offices near Washington, DC, USA, and in Geneva, Switzerland, ISOC has a membership base comprising more than 80 organizational and more than 50,000 individual members. Members also form "chapters" based on either common geographical location or special interests. There are currently more than 90 chapters around the world.[193]
+ISOC provides financial and organizational support to and promotes the work of the standards settings bodies for which it is the organizational home: the Internet Engineering Task Force (IETF), the Internet Architecture Board (IAB), the Internet Engineering Steering Group (IESG), and the Internet Research Task Force (IRTF). ISOC also promotes understanding and appreciation of the Internet model of open, transparent processes and consensus-based decision-making.[194]
+Globalization and Internet governance in the 21st century
+Since the 1990s, the Internet's governance and organization has been of global importance to governments, commerce, civil society, and individuals. The organizations which held control of certain technical aspects of the Internet were the successors of the old ARPANET oversight and the current decision-makers in the day-to-day technical aspects of the network. While recognized as the administrators of certain aspects of the Internet, their roles and their decision-making authority are limited and subject to increasing international scrutiny and increasing objections. These objections have led to the ICANN removing themselves from relationships with first the University of Southern California in 2000,[195] and in September 2009, gaining autonomy from the US government by the ending of its longstanding agreements, although some contractual obligations with the U.S. Department of Commerce continued.[196][197][198] Finally, on October 1, 2016, ICANN ended its contract with the United States Department of Commerce National Telecommunications and Information Administration (NTIA), allowing oversight to pass to the global Internet community.[199]
+The IETF, with financial and organizational support from the Internet Society, continues to serve as the Internet's ad-hoc standards body and issues Request for Comments.
+In November 2005, the World Summit on the Information Society, held in Tunis, called for an Internet Governance Forum (IGF) to be convened by United Nations Secretary General. The IGF opened an ongoing, non-binding conversation among stakeholders representing governments, the private sector, civil society, and the technical and academic communities about the future of Internet governance. The first IGF meeting was held in October/November 2006 with follow up meetings annually thereafter.[200] Since WSIS, the term "Internet governance" has been broadened beyond narrow technical concerns to include a wider range of Internet-related policy issues.[201][202]
+Tim Berners-Lee, inventor of the web, was becoming concerned about threats to the web's future and in November 2009 at the IGF in Washington DC launched the World Wide Web Foundation (WWWF) to campaign to make the web a safe and empowering tool for the good of humanity with access to all.[203][204]  In November 2019 at the IGF in Berlin, Berners-Lee and the WWWF went on to launch the Contract for the Web, a campaign initiative to persuade governments, companies and citizens to commit to nine principles to stop "misuse" with the warning "If we don't act now - and act together - to prevent the web being misused by those who want to exploit, divide and undermine, we are at risk of squandering" (its potential for good).[205]
+Politicization of the Internet
+Due to its prominence and immediacy as an effective means of mass communication, the Internet has also become more politicized as it has grown.  This has led in turn, to discourses and activities that would once have taken place in other ways, migrating to being mediated by internet.
+Examples include political activities such as public protest and canvassing of support and votes, but also:
+The spreading of ideas and opinions;
+Recruitment of followers, and "coming together" of members of the public, for ideas, products, and causes;
+Providing and widely distributing and sharing information that might be deemed sensitive or relates to whistleblowing (and efforts by specific countries to prevent this by censorship);
+Criminal activity and terrorism (and resulting law enforcement use, together with its facilitation by mass surveillance);
+Politically motivated fake news.
+Net neutrality
+Main article: Net neutrality
+The examples and perspective in this section  may not represent a worldwide view of the subject. You may improve this section , discuss the issue on the talk page, or create a new section, as appropriate. (April 2015) (Learn how and when to remove this template message)
+On April 23, 2014, the Federal Communications Commission (FCC) was reported to be considering a new rule that would permit Internet service providers to offer content providers a faster track to send content, thus reversing their earlier net neutrality position.[206][207][208] A possible solution to net neutrality concerns may be municipal broadband, according to Professor Susan Crawford, a legal and technology expert at Harvard Law School.[209] On May 15, 2014, the FCC decided to consider two options regarding Internet services: first, permit fast and slow broadband lanes, thereby compromising net neutrality; and second, reclassify broadband as a telecommunication service, thereby preserving net neutrality.[210][211] On November 10, 2014, President Obama recommended the FCC reclassify broadband Internet service as a telecommunications service in order to preserve net neutrality.[212][213][214] On January 16, 2015, Republicans presented legislation, in the form of a U.S. Congress HR discussion draft bill, that makes concessions to net neutrality but prohibits the FCC from accomplishing the goal or enacting any further regulation affecting Internet service providers (ISPs).[215][216] On January 31, 2015, AP News reported that the FCC will present the notion of applying ("with some caveats") Title II (common carrier) of the Communications Act of 1934 to the internet in a vote expected on February 26, 2015.[217][218][219][220][221] Adoption of this notion would reclassify internet service from one of information to one of telecommunications[222] and, according to Tom Wheeler, chairman of the FCC, ensure net neutrality.[223][224] The FCC is expected to enforce net neutrality in its vote, according to The New York Times.[225][226]
+On February 26, 2015, the FCC ruled in favor of net neutrality by applying Title II (common carrier) of the Communications Act of 1934 and Section 706 of the Telecommunications act of 1996 to the Internet.[227][228][229] The FCC chairman, Tom Wheeler, commented, "This is no more a plan to regulate the Internet than the First Amendment is a plan to regulate free speech. They both stand for the same concept."[230]
+On March 12, 2015, the FCC released the specific details of the net neutrality rules.[231][232][233] On April 13, 2015, the FCC published the final rule on its new "Net Neutrality" regulations.[234][235]
+On December 14, 2017, the FCC repealed their March 12, 2015 decision by a 3 2 vote regarding net neutrality rules.[236]
+Use and culture
+Email and Usenet
+E-mail has often been called the killer application of the Internet. It predates the Internet, and was a crucial tool in creating it. Email started in 1965 as a way for multiple users of a time-sharing mainframe computer to communicate. Although the history is undocumented, among the first systems to have such a facility were the System Development Corporation (SDC) Q32 and the Compatible Time-Sharing System (CTSS) at MIT.[237]
+The ARPANET computer network made a large contribution to the evolution of electronic mail. An experimental inter-system transferred mail on the ARPANET shortly after its creation.[238] In 1971 Ray Tomlinson created what was to become the standard Internet electronic mail addressing format, using the @ sign to separate mailbox names from host names.[239]
+A number of protocols were developed to deliver messages among groups of time-sharing computers over alternative transmission systems, such as UUCP and IBM's VNET email system. Email could be passed this way between a number of networks, including ARPANET, BITNET and NSFNET, as well as to hosts connected directly to other sites via UUCP. See the history of SMTP protocol.
+In addition, UUCP allowed the publication of text files that could be read by many others. The News software developed by Steve Daniel and Tom Truscott in 1979 was used to distribute news and bulletin board-like messages. This quickly grew into discussion groups, known as newsgroups, on a wide range of topics. On ARPANET and NSFNET similar discussion groups would form via mailing lists, discussing both technical issues and more culturally focused topics (such as science fiction, discussed on the sflovers mailing list).
+During the early years of the Internet, email and similar mechanisms were also fundamental to allow people to access resources that were not available due to the absence of online connectivity. UUCP was often used to distribute files using the 'alt.binary' groups. Also, FTP e-mail gateways allowed people that lived outside the US and Europe to download files using ftp commands written inside email messages. The file was encoded, broken in pieces and sent by email; the receiver had to reassemble and decode it later, and it was the only way for people living overseas to download items such as the earlier Linux versions using the slow dial-up connections available at the time. After the popularization of the Web and the HTTP protocol such tools were slowly abandoned.
+File sharing
+Main articles: File sharing, Peer-to-peer file sharing, and Timeline of file sharing
+Resource or file sharing has been an important activity on computer networks from well before the Internet was established and was supported in a variety of ways including bulletin board systems (1978), Usenet (1980), Kermit (1981), and many others. The File Transfer Protocol (FTP) for use on the Internet was standardized in 1985 and is still in use today.[240] A variety of tools were developed to aid the use of FTP by helping users discover files they might want to transfer, including the Wide Area Information Server (WAIS) in 1991, Gopher in 1991, Archie in 1991, Veronica in 1992, Jughead in 1993, Internet Relay Chat (IRC) in 1988, and eventually the World Wide Web (WWW) in 1991 with Web directories and Web search engines.
+In 1999, Napster became the first peer-to-peer file sharing system.[241] Napster used a central server for indexing and peer discovery, but the storage and transfer of files was decentralized. A variety of peer-to-peer file sharing programs and services with different levels of decentralization and anonymity followed, including: Gnutella, eDonkey2000, and Freenet in 2000, FastTrack, Kazaa, Limewire, and BitTorrent in 2001, and Poisoned in 2003.[242]
+All of these tools are general purpose and can be used to share a wide variety of content, but sharing of music files, software, and later movies and videos are major uses.[243] And while some of this sharing is legal, large portions are not. Lawsuits and other legal actions caused Napster in 2001, eDonkey2000 in 2005, Kazaa in 2006, and Limewire in 2010 to shut down or refocus their efforts.[244][245] The Pirate Bay, founded in Sweden in 2003, continues despite a trial and appeal in 2009 and 2010 that resulted in jail terms and large fines for several of its founders.[246] File sharing remains contentious and controversial with charges of theft of intellectual property on the one hand and charges of censorship on the other.[247][248]
+File Hosting Services
+Main article: File hosting service
+File hosting allowed for people to expand their computer's hard drives and "host" their files on a server. Most file hosting services offer free storage, as well as larger storage amount for a fee. These services have greatly expanded the internet for business and personal use.
+Google Drive, launched on April 24, 2012, has become the most popular file hosting service. Google Drive allows users to store, edit, and share files with themselves and other users. Not only does this application allow for file editing, hosting, and sharing. It also acts as Google's own free-to-access office programs, such as Google Docs, Google Slides, and Google Sheets. This application served as a useful tool for University professors and students, as well as those who are in need of Cloud storage.[249][250]
+Dropbox, released in June 2007 is a similar file hosting service that allows users to keep all of their files in a folder on their computer, which is synced with Dropbox's servers. This differs from Google Drive as it is not web-browser based. Now, Dropbox works to keep workers and files in sync and efficient.[251]
+Mega, having over 200 million users, is an encrypted storage and communication system that offers users free and paid storage, with an emphasis on privacy.[252] Being three of the largest file hosting services, Google Drive, Dropbox, and Mega all represent the core ideas and values of these services.
+Online piracy
+Main article: Online piracy
+The earliest form of online piracy began with a P2P (peer to peer) music sharing service named Napster, launched in 1999. Sites like LimeWire, The Pirate Bay, and BitTorrent allowed for anyone to engage in online piracy, sending ripples through the media industry. With online piracy came a change in the media industry as a whole.[253]
+Mobile phones and the Internet
+See also: Mobile Web
+Total global mobile data traffic reached 588 exabytes during 2020,[254] a 150-fold increase from 3.86 exabytes/year in 2010.[255] Most recently, smartphones accounted for 95% of this mobile data traffic with video accounting for 66% by type of data.[254] Mobile traffic travels by radio frequency to the closest cell phone tower and its base station where the radio signal is converted into an optical signal that is transmitted over high-capacity optical networking systems that convey the information to data centers. The optical backbones enable much of this traffic as well as a host of emerging mobile services including the Internet of things, 3-D virtual reality, gaming and autonomous vehicles. The most popular mobile phone application is texting, of which 2.1 trillion messages were logged in 2020.[256] The texting phenomenon began on December 3, 1992, when Neil Papworth sent the first text message of  Merry Christmas  over a commercial cell phone network to the CEO of Vodafone.[257]
+The first mobile phone with Internet connectivity was the Nokia 9000 Communicator, launched in Finland in 1996. The viability of Internet services access on mobile phones was limited until prices came down from that model, and network providers started to develop systems and services conveniently accessible on phones. NTT DoCoMo in Japan launched the first mobile Internet service, i-mode, in 1999 and this is considered the birth of the mobile phone Internet services. In 2001, the mobile phone email system by Research in Motion (now BlackBerry Limited) for their BlackBerry product was launched in America. To make efficient use of the small screen and tiny keypad and one-handed operation typical of mobile phones, a specific document and networking model was created for mobile devices, the Wireless Application Protocol (WAP). Most mobile device Internet services operate using WAP. The growth of mobile phone services was initially a primarily Asian phenomenon with Japan, South Korea and Taiwan all soon finding the majority of their Internet users accessing resources by phone rather than by PC.[258] Developing countries followed, with India, South Africa, Kenya, the Philippines, and Pakistan all reporting that the majority of their domestic users accessed the Internet from a mobile phone rather than a PC. The European and North American use of the Internet was influenced by a large installed base of personal computers, and the growth of mobile phone Internet access was more gradual, but had reached national penetration levels of 20 30% in most Western countries.[259] The cross-over occurred in 2008, when more Internet access devices were mobile phones than personal computers. In many parts of the developing world, the ratio is as much as 10 mobile phone users to one PC user.[260]
+Growth in demand
+Global Internet traffic continues to grow at a rapid rate, rising 23% from 2020 to 2021[261] when the number of active Internet users reached 4.66 billion people, representing half of the global population. Further demand for data, and the capacity to satisfy this demand, are forecast to increase to 717 terabits per second in 2021.[262] This capacity stems from the optical amplification and WDM systems that are the common basis of virtually every metro, regional, national, international and submarine telecommunications networks.[263] These optical networking systems have been installed throughout the 5 billion kilometers of fiber optic lines deployed around the world.[264] Continued growth in traffic is expected for the foreseeable future from a combination of new users, increased mobile phone adoption, machine-to-machine connections, connected homes, 5G devices and the burgeoning requirement for cloud and Internet services such as Amazon, Facebook, Apple Music and YouTube.
+Historiography
+Further information: Protocol Wars  Historiography
+There are nearly insurmountable problems in supplying a historiography of the Internet's development. The process of digitization represents a twofold challenge both for historiography in general and, in particular, for historical communication research.[265] A sense of the difficulty in documenting early developments that led to the internet can be gathered from the quote:
+"The Arpanet period is somewhat well documented because the corporation in charge   BBN   left a physical record. Moving into the NSFNET era, it became an extraordinarily decentralized process. The record exists in people's basements, in closets. ... So much of what happened was done verbally and on the basis of individual trust." Doug Gale (2007)[266]
+Notable works on the subject were published by Katie Hafner and Matthew Lyon, Where Wizards Stay Up Late: The Origins Of The Internet (1996), Roy Rosenzweig, "Wizards, Bureaucrats, Warriors, and Hackers: Writing the History of the Internet" (1998), and Janet Abbate, Inventing the Internet (2000).
+These histories of the Internet have since been characterized as  teleologies  or  Whig history ; that is, they take the present to be the end point toward which history has been unfolding based on a single cause:
+In the case of Internet history, the epoch-making event is usually said to be the demonstration of the 4-node ARPANET network in 1969. From that single happening the global Internet developed. Martin Campbell-Kelly, Daniel D. Garcia-Swartz (2005; published 2013)[267][268]
+In addition to these characteristics, historians have cited methodological problems arising in their work:
+ Internet history  ... tends to be too close to its sources. Many Internet pioneers are alive, active, and eager to shape the histories that describe their accomplishments. Many museums and historians are equally eager to interview the pioneers and to publicize their stories. Andrew L. Russell (2012)[269]
+See also
+Internet portalHistory portalHistory of science portalWorld portal
+History of email
+History of hypertext
+History of telecommunication
+History of the World Wide Web
+Index of Internet-related articles
+Internet activism
+Internet censorship
+List of Internet pioneers
+MH & xmh: Email for Users & Programmers
+Nerds 2.0.1: A Brief History of the Internet
+On the Internet, nobody knows you're a dog
+Outline of the Internet
+References
+^ a b "The Computer History Museum, SRI International, and BBN Celebrate the 40th Anniversary of First ARPANET Transmission, Precursor to Today's Internet". SRI International. October 27, 2009. Archived from the original on March 29, 2019. Retrieved September 25, 2017. But the ARPANET itself had now become an island, with no links to the other networks that had sprung up. By the early 1970s, researchers in France, the UK, and the U.S. began developing ways of connecting networks to each other, a process known as internetworking.
+^ a b by Vinton Cerf, as told to Bernard Aboba (1993). "How the Internet Came to Be". Archived from the original on September 26, 2017. Retrieved September 25, 2017. We began doing concurrent implementations at Stanford, BBN, and University College London. So effort at developing the Internet protocols was international from the beginning.
+^ a b Hauben, Ronda (May 1, 2004). "The Internet: On its International Origins and Collaborative Vision A Work In-Progress". Retrieved September 25, 2017.
+^ Kim, Byung-Keun (2005). Internationalising the Internet the Co-evolution of Influence and Technology. Edward Elgar. pp. 51 55. ISBN 978-1845426750.
+^ "The Untold Internet". Internet Hall of Fame. October 19, 2015. Retrieved April 3, 2020. many of the milestones that led to the development of the modern Internet are already familiar to many of us: the genesis of the ARPANET, the implementation of the standard network protocol TCP/IP, the growth of LANs (Large Area Networks), the invention of DNS (the Domain Name System), and the adoption of American legislation that funded U.S. Internet expansion which helped fuel global network access to name just a few.
+^ "Study into UK IPv4 and IPv6 allocations" (PDF). Reid Technical Facilities Management LLP. 2014. As the network continued to grow, the model of central co-ordination by a contractor funded by the US government became unsustainable. Organisations were using IP-based networking even if they were not directly connected to the ARPAnet. They needed to get globally unique IP addresses. The nature of the ARPAnet was also changing as it was no longer limited to organisations working on ARPA-funded contracts. The US National Science Foundation set up a national IP-based backbone network, NSFnet, so that its grant-holders could be interconnected to supercomputer centres, universities and various national/regional academic/research networks, including ARPAnet. That resulting network of networks was the beginning of today's Internet.
+^ "So, who really did invent the Internet?" Archived 3 September 2011 at the Wayback Machine, Ian Peter, The Internet History Project, 2004. Retrieved 27 June 2014.
+^ Clarke, Roger. "Origins and Nature of the Internet in Australia". Archived from the original on February 9, 2021. Retrieved January 21, 2014.
+^ Zakon, Robert (November 1997). RFC 2235. IETF. p. 8. doi:10.17487/RFC2235. Retrieved December 2, 2020.
+^ "The First ISP". Indra.com. August 13, 1992. Archived from the original on March 5, 2016. Retrieved 2015-10-17.
+^ Couldry, Nick (2012). Media, Society, World: Social Theory and Digital Media Practice. London: Polity Press. p. 2. ISBN 9780745639208.
+^ Nelson, Patrick (March 20, 2019). "Data center fiber to jump to 800 gigabits in 2019". Network World.
+^ "The World's Technological Capacity to Store, Communicate, and Compute Information", Martin Hilbert and Priscila L pez (2011), Science, 332(6025), pp. 60 65; free access to the article through here: martinhilbert.net/WorldInfoCapacity.html
+^ The Editorial Board (October 15, 2018). "There May Soon Be Three Internets. America's Won't Necessarily Be the Best.   A breakup of the web grants privacy, security and freedom to some, and not so much to others". The New York Times. Archived from the original on January 2, 2022. Retrieved October 16, 2018.
+^ Jindal, R. P. (2009). "From millibits to terabits per second and beyond - Over 60 years of innovation". 2009 2nd International Workshop on Electron Devices and Semiconductor Technology: 1 6. doi:10.1109/EDST.2009.5166093. ISBN 978-1-4244-3831-0. S2CID 25112828.
+^ "Computer Pioneers - Christopher Strachey". history.computer.org. Retrieved January 23, 2020.
+^ "Computer - Time-sharing and minicomputers". Encyclopedia Britannica. Retrieved January 23, 2020.
+^ F. J. Corbat , et al., The Compatible Time-Sharing System A Programmer's Guide (MIT Press, 1963) ISBN 978-0-262-03008-3. "the first paper on time-shared computers by C. Strachey at the June 1959 UNESCO Information Processing conference".
+^ Gillies & Cailliau 2000, p. 13
+^ J. C. R. Licklider (March 1960). "Man-Computer Symbiosis". IRE Transactions on Human Factors in Electronics. HFE-1: 4 11. doi:10.1109/thfe2.1960.4503259. Archived from the original on November 3, 2005. Retrieved January 25, 2014.
+^ J. C. R. Licklider and Welden Clark (August 1962). "On-Line Man-Computer Communication" (PDF). AIEE-IRE '62 (Spring): 113 128. Archived from the original (PDF) on October 31, 2014. Retrieved October 31, 2014.
+^ Licklider, J. C. R. (April 23, 1963). "Topics for Discussion at the Forthcoming Meeting, Memorandum For: Members and Affiliates of the Intergalactic Computer Network". Washington, D.C.: Advanced Research Projects Agency. Retrieved January 26, 2013.
+^ "J.C.R. Licklider and the Universal Network". The Internet. 2000. Archived from the original on October 17, 2019. Retrieved February 16, 2010.
+^ Baran, Paul (May 27, 1960). Reliable Digital Communications Using Unreliable Network Repeater Nodes (PDF) (Report). The RAND Corporation. p. 1. Retrieved July 25, 2012.
+^ "About Rand". Paul Baran and the Origins of the Internet. Retrieved July 25, 2012.
+^ Ruthfield, Scott (September 1995). "The Internet's History and Development From Wartime Tool to the Fish-Cam". Crossroads. Vol. 2, no. 1. pp. 2 4. doi:10.1145/332198.332202. Archived from the original on October 18, 2007. Retrieved April 1, 2016.
+^ Roberts, Dr. Lawrence G. (November 1978). "The Evolution of Packet Switching". Archived from the original on March 24, 2016. Retrieved September 5, 2017. Almost immediately after the 1965 meeting, Donald Davies conceived of the details of a store-and-forward packet switching system
+^ Roberts, Dr. Lawrence G. (May 1995). "The ARPANET & Computer Networks". Archived from the original on March 24, 2016. Retrieved April 13, 2016.
+^ Roberts, Dr. Lawrence G. (May 1995). "The ARPANET & Computer Networks". Archived from the original on March 24, 2016. Retrieved April 13, 2016. Then in June 1966, Davies wrote a second internal paper, "Proposal for a Digital Communication Network" In which he coined the word packet,- a small sub part of the message the user wants to send, and also introduced the concept of an "Interface computer" to sit between the user equipment and the packet network.
+^ K.G. Coffman & A.M. Odlyzco (May 22, 2002). Optical Fiber Telecommunications IV-B: Systems and Impairments. Optics and Photonics (edited by I. Kaminow & T. Li). Academic Press. pp. 1022 pages. ISBN 978-0123951731. Retrieved August 15, 2015.
+^ B. Steil, Council on Foreign Relations (2002). Technological Innovation and Economic Performance. published by Princeton University Press 1 Jan 2002, 476 pages. ISBN 978-0691090917. Retrieved August 15, 2015.
+^ "A Digital Communication Network for Computers Giving Rapid Response at remote Terminals" (PDF). 1967. Retrieved September 15, 2020.
+^ Naughton, John (September 24, 2015). A Brief History of the Future. Orion. ISBN 978-1-4746-0277-8.
+^ Smith, Ed; Miller, Chris; Norton, Jim. "Packet Switching: The first steps on the road to the information society". Its development was described at a 1968 conference, two years before similar progress on ARPANET, the precursor to the Internet, was demonstrated
+^ "The accelerator of the modern age". BBC News. August 5, 2008. Retrieved May 19, 2009.
+^ Scantlebury, R. A.; Wilkinson, P.T. (1974). "The National Physical Laboratory Data Communications Network". Proceedings of the 2nd ICCC 74. pp. 223 228.
+^ C. Hempstead, W. Worthington, ed. (2005). Encyclopedia of 20th-Century Technology. Routledge. ISBN 9781135455514.
+^ Ward, Mark (October 29, 2009). "Celebrating 40 years of the net". BBC News.
+^ "Donald Davies". internethalloffame.org; "Donald Davies". thocp.net. Archived from the original on November 5, 2020. Retrieved April 9, 2016.
+^ a b Cambell-Kelly, Martin (1987). "Data Communications at the National Physical Laboratory (1965-1975)". Annals of the History of Computing. 9 (3/4): 221 247. doi:10.1109/MAHC.1987.10023. S2CID 8172150.
+^ Roberts, Dr. Lawrence G. (November 1978). "The Evolution of Packet Switching" (PDF). IEEE Invited Paper. Archived from the original (PDF) on December 31, 2018. Retrieved September 10, 2017. In nearly all respects, Davies' original proposal, developed in late 1965, was similar to the actual networks being built today.
+^ C. Hempstead; W. Worthington (2005). Encyclopedia of 20th-Century Technology. Routledge. ISBN 9781135455514.
+^ Pelkey, James. "6.3 CYCLADES Network and Louis Pouzin 1971-1972". Entrepreneurial Capitalism and Innovation: A History of Computer Communications 1968-1988.
+^ "The National Physical Laboratory Data Communications Netowrk". 1974. Retrieved September 5, 2017.
+^ Hafner & Lyon 1998, pp. 39 41
+^ a b Markoff, John (December 20, 1999). "An Internet Pioneer Ponders the Next Revolution". The New York Times. Archived from the original on March 4, 2005. Retrieved March 7, 2020.
+^ Roberts, Larry; Marrill, Tom (October 1966). Toward a Cooperative Network of Time-Shared Computers. Fall AFIPS Conference. Archived from the original on April 1, 2002. Retrieved September 10, 2017.
+^ Press, Gil (January 2, 2015). "A Very Short History Of The Internet And The Web". Forbes. Archived from the original on January 9, 2015. Retrieved February 7, 2020. Roberts' proposal that all host computers would connect to one another directly ... was not endorsed ... Wesley Clark ... suggested to Roberts that the network be managed by identical small computers, each attached to a host computer. Accepting the idea, Roberts named the small computers dedicated to network administration 'Interface Message Processors' (IMPs), which later evolved into today's routers.
+^ "SRI Project 5890-1; Networking (Reports on Meetings).[1967]". Stanford University. Archived from the original on February 2, 2020. Retrieved February 15, 2020. W. Clark's message switching proposal (appended to Taylor's letter of April 24, 1967 to Engelbart)were reviewed.
+^ Roberts, Lawrence (1967). "Multiple computer networks and intercomputer communication" (PDF). Multiple Computer Networks and Intercomputer Communications. pp. 3.1 3.6. doi:10.1145/800001.811680. S2CID 17409102. Thus the set of IMP's, plus the telephone lines and data sets would constitute a message switching network
+^ Press, Gil. "A Very Short History Of The Internet And The Web". Forbes. Retrieved January 30, 2020.
+^ "Inductee Details   Donald Watts Davies". National Inventors Hall of Fame. Archived from the original on September 6, 2017. Retrieved September 6, 2017.
+^ Cambell-Kelly, Martin (Autumn 2008). "Pioneer Profiles: Donald Davies". Computer Resurrection (44). ISSN 0958-7403.
+^ Cade Metz, "Paul Baran, the link between nuclear war and the internet", Wired, 3 September 2012: "Baran was very conscious of people mistaken belief that the work he did at RAND somehow led to the creation of the ARPAnet. It didn't, and he was very honest about that." -- Vint Cerf
+^ Gillies & Cailliau 2000, p. 26
+^ Strickland, Jonathan (December 28, 2007). "How ARPANET Works". HowStuffWorks. Archived from the original on January 12, 2008. Retrieved March 7, 2020.
+^ Gromov, Gregory (1995). "Roads and Crossroads of Internet History".
+^ Hafner & Lyon 1998, pp. 154 156
+^ Hafner & Lyon 1998, p. 220
+^ "NORSAR and the Internet". NORSAR. Archived from the original on June 7, 2009. Retrieved June 5, 2009.
+^ a b Kirstein, P.T. (1999). "Early experiences with the Arpanet and Internet in the United Kingdom" (PDF). IEEE Annals of the History of Computing. 21 (1): 38 44. doi:10.1109/85.759368. ISSN 1934-1547. S2CID 1558618. Archived from the original (PDF) on February 7, 2020.
+^ Grant, August E.; Meadows, Jennifer E. (2008). Communication Technology Update and Fundamentals (11th ed.). Burlington, Massachusetts: Focal Press. p. 289. ISBN 978-0-240-81062-1.
+^ The Merit Network, Inc. is an independent non-profit 501(c)(3) corporation governed by Michigan's public universities. Merit receives administrative services under an agreement with the University of Michigan.
+^ A Chronicle of Merit's Early History Archived February 7, 2009, at the Wayback Machine, John Mulcahy, 1989, Merit Network, Ann Arbor, Michigan
+^ a b Merit Network Timeline: 1970 1979 Archived January 1, 2016, at the Wayback Machine, Merit Network, Ann Arbor, Michigan
+^ Merit Network Timeline: 1980 1989 Archived January 1, 2016, at the Wayback Machine, Merit Network, Ann Arbor, Michigan
+^ a b "The internet's fifth man". The Economist. November 30, 2013. ISSN 0013-0613. Retrieved April 22, 2020. In the early 1970s Mr Pouzin created an innovative data network that linked locations in France, Italy and Britain. Its simplicity and efficiency pointed the way to a network that could connect not just dozens of machines, but millions of them. It captured the imagination of Dr Cerf and Dr Kahn, who included aspects of its design in the protocols that now power the internet.
+^ "A Technical History of CYCLADES". Technical Histories of the Internet & other Network Protocols. Computer Science Department, University of Texas Austin. Archived from the original on September 1, 2013.
+^ 
+"The Cyclades Experience: Results and Impacts", Zimmermann, H., Proc. IFIP'77 Congress, Toronto, August 1977, pp. 465 469
+^ a b Rybczynski, Tony (2009). "Commercialization of packet switching (1975-1985): A Canadian perspective [History of Communications]". IEEE Communications Magazine. 47 (12): 26 31. doi:10.1109/MCOM.2009.5350364. ISSN 1558-1896. S2CID 23243636.
+^ a b Schwartz, Mischa (2010). "X.25 Virtual Circuits - TRANSPAC IN France - Pre-Internet Data Networking [History of communications]". IEEE Communications Magazine. 48 (11): 40 46. doi:10.1109/MCOM.2010.5621965. ISSN 1558-1896. S2CID 23639680.
+^ tsbedh. "History of X.25, CCITT Plenary Assemblies and Book Colors". Itu.int. Retrieved June 5, 2009.
+^ "Events in British Telecomms History". Events in British TelecommsHistory. Archived from the original on April 5, 2003. Retrieved November 25, 2005.
+^ Council, National Research; Sciences, Division on Engineering and Physical; Board, Computer Science and Telecommunications; Applications, Commission on Physical Sciences, Mathematics, and; Committee, NII 2000 Steering (February 5, 1998). The Unpredictable Certainty: White Papers. National Academies Press. ISBN 978-0-309-17414-5.
+^ UUCP Internals Frequently Asked Questions
+^ McKenzie, Alexander (2011). "INWG and the Conception of the Internet: An Eyewitness Account". IEEE Annals of the History of Computing. 33 (1): 66 71. doi:10.1109/MAHC.2011.9. ISSN 1934-1547. S2CID 206443072.
+^ a b Andrew L. Russell (July 30, 2013). "OSI: The Internet That Wasn't". IEEE Spectrum. Vol. 50, no. 8.
+^ "Vinton Cerf : How the Internet Came to Be". www.netvalley.com. Retrieved December 21, 2021.
+^ Cerf, V.; Kahn, R. (1974). "A Protocol for Packet Network Intercommunication" (PDF). IEEE Transactions on Communications. 22 (5): 637 648. doi:10.1109/TCOM.1974.1092259. ISSN 1558-0857. The authors wish to thank a number of colleagues for helpful comments during early discussions of international network protocols, especially R. Metcalfe, R. Scantlebury, D. Walden, and H. Zimmerman; D. Davies and L. Pouzin who constructively commented on the fragmentation and accounting issues; and S. Crocker who commented on the creation and destruction of associations.
+^ "The internet's fifth man". Economist. December 13, 2013. Retrieved September 11, 2017. In the early 1970s Mr Pouzin created an innovative data network that linked locations in France, Italy and Britain. Its simplicity and efficiency pointed the way to a network that could connect not just dozens of machines, but millions of them. It captured the imagination of Dr Cerf and Dr Kahn, who included aspects of its design in the protocols that now power the internet.
+^ Vint Cerf, Yogen Dalal, Carl Sunshine, (December 1974), RFC 675, Specification of Internet Transmission Control Protocol
+^ "Computer History Museum and Web History Center Celebrate 30th Anniversary of Internet Milestone". Retrieved November 22, 2007.
+^ Ogg, Erica (November 8, 2007). "'Internet van' helped drive evolution of the Web". CNET. Retrieved November 12, 2011.
+^ Panzaris, Georgios (2008). Machines and romances: the technical and narrative construction of networked computing as a general-purpose platform, 1960-1995. Stanford University. p. 128. Despite the misgivings of Xerox Corporation (which intended to make PUP the basis of a proprietary commercial networking product), researchers at Xerox PARC, including ARPANET pioneers Robert Metcalfe and Yogen Dalal, shared the basic contours of their research with colleagues at TCP and Internet working group meetings in 1976 and 1977, suggesting the possible benefits of separating TCPs routing and transmission control functions into two discrete layers.
+^ a b Pelkey, James L. (2007). "Yogen Dalal". Entrepreneurial Capitalism and Innovation: A History of Computer Communications, 1968-1988. Archived from the original on September 5, 2019. Retrieved September 5, 2019.
+^ a b "BGP Analysis Reports". Retrieved January 9, 2013.
+^ "TCP/IP Internet Protocol". www.livinginternet.com. Archived from the original on July 26, 2020. Retrieved February 20, 2020.
+^ Jon Postel, NCP/TCP Transition Plan, RFC 801
+^ "The TCP/IP Guide   TCP/IP Architecture and the TCP/IP Model". www.tcpipguide.com. Retrieved February 11, 2020.
+^ "Smithsonian Oral and Video Histories: Vinton Cerf". National Museum of American History. Smithsonian Institution. April 24, 1990. Retrieved September 23, 2019.
+^ a b c d e CSNET History
+^ David Roessner; Barry Bozeman; Irwin Feller; Christopher Hill; Nils Newman (1997). "The Role of NSF's Support of Engineering in Enabling Technological Innovation". Archived from the original on December 19, 2008. Retrieved May 28, 2009.
+^  Internet Traffic Exchange: Developments and Policy , OECD Digital Economy Papers, No. 34, OECD Publishing, Paris. http://dx.doi.org/10.1787/236767263531
+^ "Sprint Boosts Fiber-Optic Network Capacity 1600 Percent" (Press release). Kansas City, MO: Ciena Corporation. June 11, 1996. Retrieved December 20, 2022.
+^ Cerf, V.; Dalal, Y.; Sunshine, C. (1974). "RFC 675   Specification of internet transmission control program". Tools.ietf.org. doi:10.17487/RFC0675. Retrieved May 28, 2009. {{cite journal}}: Cite journal requires |journal= (help)
+^ Tanenbaum, Andrew S. (1996). Computer Networks. Prentice Hall. ISBN 978-0-13-394248-4.
+^ Saleh, Bahaa EA; Teich, Malvin Carl (2019). Fundamentals of Photonics. John Wiley and Son. pp. Preface xxii.
+^ Winzer, Peter J.; Neilson, David T.; Andrew R., Chraplyvy (September 3, 2018). "Fiber-optic transmission and networking: the previous 20 and the next 20 years". Optics Express. 26 (18): 24190 24239. doi:10.1364/OE.26.024190. PMID 30184909. S2CID 52168806.
+^ Winzer, Peter J.; Neilson, David T.; Chraplyvy, Andrew R. (September 3, 2018). "Fiber-optic transmission and networking: the previous 20 and the next 20 years". Optics Express. 26 (18): 24190 24239. doi:10.1364/OE.26.024190. PMID 30184909. S2CID 52168806.
+^ Cvijetic, Milorad and Djordjevic, Ivan B.  Advanced Optical Communication Systems and Networks . Artech House. January 1, 2013
+^ "Internet Access Provider Lists". Archived from the original on January 12, 2002. Retrieved May 10, 2012.
+^ Postel, Jon (November 1995). "RFC 1871   CIDR and Classful Routing". Tools.ietf.org. doi:10.17487/RFC1871. Retrieved May 28, 2009. {{cite journal}}: Cite journal requires |journal= (help)
+^ Taylor, Nick (2000). Laser. New York: Simon & Schuster. p. 212.
+^ Garwin, Laura and Tim Lincoln.  The first laser: Charles H. Townes  from A Century of Nature: Twenty-One Discoveries that Changed Science and the World. University of Chicago Press. 2003
+^ Bertolotti, Mario (2015). Masers and Lasers: An Historical Approach (2nd ed.). Chicago: CRC Press. p. 151.
+^ Taylor, Nick (2000). Laser. New York: Simon & Schuster. pp. 225 226.
+^ Kangovi, Sachidananda. Peering Carrier Ethernet Networks. 2017. p46
+^ Hauben, Ronda (2004). "The Internet: On its International Origins and Collaborative Vision". Amateur Computerist. 12 (2). Retrieved May 29, 2009.
+^ "Oral-History:Silvia Wilbur". ETHW. January 26, 2021. Retrieved July 18, 2022.
+^ a b Fluckiger, Francois (February 2000). "The European Researchers' Network" (PDF). La Recherche (328). Archived from the original (PDF) on September 29, 2018. Retrieved February 20, 2020.
+^ "How the Web Got its 'Lingua Franca' | Internet Hall of Fame". www.internethalloffame.org. July 2, 2014. Retrieved April 3, 2020.
+^ "The Internet From Modest Beginnings". NSF website. Archived from the original on October 7, 2016. Retrieved September 30, 2011.
+^ "The path to digital literacy and network culture in France (1980s to 1990s)". The Routledge Companion to Global Internet Histories. Taylor & Francis. 2017. pp. 84 89. ISBN 978-1317607656.
+^ Andrianarisoa, Menjanirina (March 2, 2012). "A brief history of the internet".
+^ "CWI History: details". CWI. Retrieved February 9, 2020.
+^ Lehtisalo, Kaarina (2005). The history of NORDUnet: twenty-five years of networking cooperation in the noridic countries (PDF). NORDUnet. ISBN 978-87-990712-0-3. Archived from the original (PDF) on March 4, 2016. Retrieved May 2, 2020.
+^ Ben Segal (1995). "A Short History of Internet Protocols at CERN".
+^ "FLAGSHIP". Central Computing Department Newsletter (12). January 1991. Archived from the original on February 13, 2020. Retrieved February 20, 2020.
+^ "FLAGSHIP". Central Computing Department Newsletter (16). September 1991. Archived from the original on February 13, 2020. Retrieved February 20, 2020.
+^ "Dai Davies | Internet Hall of Fame". www.internethalloffame.org. Retrieved January 23, 2020.
+^ "Protocol Wars | Internet Hall of Fame". www.internethalloffame.org. January 16, 2015. Retrieved February 5, 2020.
+^ Russell, Andrew L. "Rough Consensus and Running Code' and the Internet-OSI Standards War" (PDF). IEEE Annals of the History of Computing.
+^ Davies, Howard; Bressan, Beatrice (April 26, 2010). A History of International Research Networking: The People who Made it Happen. John Wiley & Sons. ISBN 978-3-527-32710-2.
+^ "A Brief History of the Internet in Korea", Kilnam Chon, Hyunje Park, Kyungran Kang, and Youngeum Lee.  Retrieved 16 April 2017.
+^ "A Brief History of the Internet in Korea (2005)          ". sites.google.com. Retrieved May 30, 2016.
+^ Shrum, Wesley; Benson, Keith; Bijker, Wiebe; Brunnstein, Klaus (December 14, 2007). Past, Present and Future of Research in the Information Society. Springer Science & Business Media. p. 55. ISBN 978-0-387-47650-6.
+^ "History of University of Waikato: University of Waikato". www.waikato.ac.nz. Archived from the original on August 1, 2020. Retrieved February 9, 2020.
+^ "Percentage of Individuals using the Internet 2000 2012", International Telecommunication Union (Geneva), June 2013, retrieved 22 June 2013
+^ "Fixed (wired)-broadband subscriptions per 100 inhabitants 2012", Dynamic Report, ITU ITC EYE, International Telecommunication Union. Retrieved on 29 June 2013.
+^ "Active mobile-broadband subscriptions per 100 inhabitants 2012", Dynamic Report, ITU ITC EYE, International Telecommunication Union. Retrieved on 29 June 2013.
+^ "ICONS webpage". Icons.afrinic.net. Archived from the original on May 9, 2007. Retrieved May 28, 2009.
+^ "Nepad, Eassy partnership ends in divorce". South African Financial Times. Archived from the original on April 23, 2012.
+^ "APRICOT webpage". Apricot.net. May 4, 2009. Retrieved May 28, 2009.
+^ "Next Level Communications, Inc. - Next Level Announces Purchase Order For DSL Equipment in South Korea From Hansol Electronics". Business Wire. September 11, 2000. Retrieved December 20, 2022.
+^ "A brief history of the Internet in China". China celebrates 10 years of being connected to the Internet. Retrieved December 25, 2005.
+^ "Internet History in Asia". 16th APAN Meetings/Advanced Network Conference in Busan. Archived from the original on February 1, 2006. Retrieved December 25, 2005.
+^ "Internet host count history". Internet Systems Consortium. Archived from the original on May 18, 2012. Retrieved May 16, 2012.
+^ "The World internet provider". Retrieved May 28, 2009.
+^ OGC-00-33R Department of Commerce: Relationship with the Internet Corporation for Assigned Names and Numbers (PDF). Government Accountability Office. July 7, 2000. p. 6. Archived from the original (PDF) on June 15, 2009. Retrieved June 5, 2009.
+^ Even after the appropriations act was amended in 1992 to give NSF more flexibility with regard to commercial traffic, NSF never felt that it could entirely do away with its Acceptable Use Policy and its restrictions on commercial traffic, see the response to Recommendation 5 in NSF's response to the Inspector General's review (an April 19, 1993 memo from Frederick Bernthal, Acting Director, to Linda Sundro, Inspector General, that is included at the end of Review of NSFNET, Office of the Inspector General, National Science Foundation, March 23, 1993)
+^ Management of NSFNET, a transcript of the March 12, 1992 hearing before the Subcommittee on Science of the Committee on Science, Space, and Technology, U.S. House of Representatives, One Hundred Second Congress, Second Session, Hon. Rick Boucher, subcommittee chairman, presiding
+^ "Retiring the NSFNET Backbone Service: Chronicling the End of an Era" Archived January 1, 2016, at the Wayback Machine, Susan R. Harris, PhD, and Elise Gerich, ConneXions, Vol. 10, No. 4, April 1996
+^ "A Brief History of the Internet".
+^ NSF Solicitation 93-52 Archived March 5, 2016, at the Wayback Machine   Network Access Point Manager, Routing Arbiter, Regional Network Providers, and Very High Speed Backbone Network Services Provider for NSFNET and the NREN(SM) Program, May 6, 1993
+^ "UCLA Center for Communication Policy". Digitalcenter.org. Archived from the original on May 26, 2009. Retrieved May 28, 2009.
+^ Tobin, James (June 12, 2012). Great Projects: The Epic Story of the Building of America, from the Taming of the Mississippi to the Invention of the Internet. Simon and Schuster. ISBN 978-0-7432-1476-6.
+^ In, Lee (June 30, 2012). Electronic Commerce Management for Business Activities and Global Enterprises: Competitive Advantages: Competitive Advantages. IGI Global. ISBN 978-1-4666-1801-5.
+^ Misiroglu, Gina (March 26, 2015). American Countercultures: An Encyclopedia of Nonconformists, Alternative Lifestyles, and Radical Ideas in US History: An Encyclopedia of Nonconformists, Alternative Lifestyles, and Radical Ideas in US History. Routledge. ISBN 978-1-317-47729-7.
+^ Couldry, Nick (2012). Media, Society, World: Social Theory and Digital Media Practice. London: Polity Press. p. 2. ISBN 9780745639208.
+^ Viswanathan, Ganesh; Dutt Mathur, Punit; Yammiyavar, Pradeep (March 2010). From Web 1.0 to Web 2.0 and beyond: Reviewing usability heuristic criteria taking music sites as case studies. IndiaHCI Conference. Mumbai. Retrieved February 20, 2015.
+^ Web 1.0 defined   How stuff works
+^ "Web 1.0 Revisited   Too many stupid buttons". Complexify.com. Archived February 16, 2006, at the Wayback Machine
+^ "The Right Size of Software".
+^ Jurgenson, Nathan; Ritzer, George (February 2, 2012),  Ritzer, George (ed.), "The Internet, Web 2.0, and Beyond", The Wiley-Blackwell Companion to Sociology, John Wiley & Sons, Ltd, pp. 626 648, doi:10.1002/9781444347388.ch33, ISBN 9781444347388
+^ a b "State of IPv6 Deployment 2017". Archived from the original on April 6, 2018.
+^ "What is the Difference Between IPv6 and IPv4?". January 27, 2010.
+^ Graham, Paul (November 2005). "Web 2.0". Retrieved August 2, 2006. I first heard the phrase 'Web 2.0' in the name of the Web 2.0 conference in 2004.
+^ O'Reilly, Tim (September 30, 2005). "What Is Web 2.0". O'Reilly Network. Retrieved August 6, 2006.
+^ Strickland, Jonathan (December 28, 2007). "How Web 2.0 Works". computer.howstuffworks.com. Retrieved February 28, 2015.
+^ DiNucci, Darcy (1999). "Fragmented Future" (PDF). Print. 53 (4): 32.
+^ Idehen, Kingsley. 2003. RSS: INJAN (It's not just about news). Blog. Blog Data Space. August 21 OpenLinkSW.com
+^ Idehen, Kingsley. 2003. Jeff Bezos Comments about Web Services. Blog. Blog Data Space. September 25. OpenLinkSW.com
+^ Knorr, Eric. 2003. The year of Web services. CIO, December 15.
+^ "John Robb's Weblog". Jrobb.mindplex.org. Archived from the original on December 5, 2003. Retrieved February 6, 2011.
+^ O'Reilly, Tim, and John Battelle. 2004. Opening Welcome: State of the Internet Industry. In San Francisco, California, October 5.
+^ "Web 2.0: Compact Definition". Scholar.googleusercontent.com. October 1, 2005. Archived from the original on March 12, 2021. Retrieved June 15, 2013.
+^ Flew, Terry (2008). New Media: An Introduction (3rd ed.). Melbourne: Oxford University Press. p. 19.
+^ Boyadzhieva, Yanitsa (February 12, 2020). "Media consumption on mobile skyrockets in the US". Mobile World Live. Retrieved November 1, 2020.
+^ "Twitter post". January 22, 2010. Archived from the original on November 8, 2013. Retrieved 2013-03-10.
+^ NASA Extends the World Wide Web Out Into Space. NASA media advisory M10-012, January 22, 2010. Archived
+^ NASA Successfully Tests First Deep Space Internet. NASA media release 08-298, November 18, 2008 Archived
+^ "Disruption Tolerant Networking for Space Operations (DTN). July 31, 2012". Archived from the original on July 29, 2012. Retrieved August 26, 2012.
+^ "Cerf: 2011 will be proving point for 'InterPlanetary Internet'". Network World interview with Vint Cerf. February 18, 2011. Archived from the original on May 24, 2012. Retrieved April 23, 2012.
+^ "Internet Architecture". IAB Architectural Principles of the Internet. Retrieved April 10, 2012.
+^ a b "DDN NIC". IAB Recommended Policy on Distributing Internet Identifier Assignment. Retrieved December 26, 2005.
+^ Internet Hall of Fame
+^ Elizabeth Feinler, IEEE Annals [3B2-9] man2011030074.3d 29/7/011 11:54 Page 74
+^ "GSI-Network Solutions". TRANSITION OF NIC SERVICES. Retrieved December 26, 2005.
+^ "Thomas v. NSI, Civ. No. 97-2412 (TFH), Sec. I.A. (DCDC April 6, 1998)". Lw.bna.com. Archived from the original on December 22, 2008. Retrieved May 28, 2009.
+^ "RFC 1366". Guidelines for Management of IP Address Space. Retrieved April 10, 2012.
+^ a b "Development of the Regional Internet Registry System". Cisco. Archived from the original on January 1, 2016. Retrieved April 10, 2012.
+^ "NIS Manager Award Announced". NSF Network information services awards. Archived from the original on May 24, 2005. Retrieved December 25, 2005.
+^ "Internet Moves Toward Privatization". www.nsf.gov. June 24, 1997.
+^ "RFC 2860". Memorandum of Understanding Concerning the Technical Work of the Internet Assigned Numbers Authority. Retrieved December 26, 2005.
+^ "ICANN Bylaws". Retrieved April 10, 2012.
+^ a b c d e "The Tao of IETF: A Novice's Guide to the Internet Engineering Task Force", FYI 17 and RFC 4677, P. Hoffman and S. Harris, Internet Society, September 2006
+^ "A Mission Statement for the IETF", H. Alvestrand, Internet Society, BCP 95 and RFC 3935, October 2004
+^ "An IESG charter", H. Alvestrand, RFC 3710, Internet Society, February 2004
+^ "Charter of the Internet Architecture Board (IAB)", B. Carpenter, BCP 39 and RFC 2850, Internet Society, May 2000
+^ "IAB Thoughts on the Role of the Internet Research Task Force (IRTF)", S. Floyd, V. Paxson, A. Falk (eds), RFC 4440, Internet Society, March 2006
+^ a b "The RFC Series and RFC Editor", L. Daigle, RFC 4844, Internet Society, July 2007
+^ "Not All RFCs are Standards", C. Huitema, J. Postel, S. Crocker, RFC 1796, Internet Society, April 1995
+^ Internet Society (ISOC)   Introduction to ISOC
+^ Internet Society (ISOC)   ISOC's Standards Activities Archived December 13, 2011, at the Wayback Machine
+^ USC/ICANN Transition Agreement
+^ ICANN cuts cord to US government, gets broader oversight: ICANN, which oversees the Internet's domain name system, is a private nonprofit that reports to the US Department of Commerce. Under a new agreement, that relationship will change, and ICANN's accountability goes global Nate Anderson, September 30, 2009
+^ Rhoads, Christopher (October 2, 2009). "U.S. Eases Grip Over Web Body: Move Addresses Criticisms as Internet Usage Becomes More Global". The Wall Street Journal.
+^ Rabkin, Jeremy; Eisenach, Jeffrey (October 2, 2009). "The U.S. Abandons the Internet: Multilateral governance of the domain name system risks censorship and repression". The Wall Street Journal.
+^ "Stewardship of IANA Functions Transitions to Global Internet Community as Contract with U.S. Government Ends   ICANN". www.icann.org. Retrieved October 1, 2016.
+^ Mueller, Milton L. (2010). Networks and States: The Global Politics of Internet Governance. MIT Press. p. 67. ISBN 978-0-262-01459-5.
+^ Mueller, Milton L. (2010). Networks and States: The Global Politics of Internet Governance. MIT Press. pp. 79 80. ISBN 978-0-262-01459-5.
+^ DeNardis, Laura, The Emerging Field of Internet Governance (September 17, 2010). Yale Information Society Project Working Paper Series.
+^ "Warning sounded on web's future". September 15, 2008. Archived from the original on September 16, 2008. Retrieved November 26, 2008   via news.bbc.co.uk.
+^ Staff, Ars (November 17, 2009). "Tim Berners-Lee launches "WWW Foundation" at IGF 2009". Ars Technica. Archived from the original on April 16, 2011. Retrieved November 25, 2019.
+^ CNA Staff (November 25, 2019). "Web inventor Tim Berners-Lee launches plan to stop Internet abuse". Archived from the original on November 25, 2019. Retrieved November 25, 2019.
+^ Wyatt, Edward (April 23, 2014). "F.C.C., in 'Net Neutrality' Turnaround, Plans to Allow Fast Lane". The New York Times. Archived from the original on January 2, 2022. Retrieved April 23, 2014.
+^ Staff (April 24, 2014). "Creating a Two-Speed Internet". The New York Times. Archived from the original on January 2, 2022. Retrieved April 25, 2014.
+^ Carr, David (May 11, 2014). "Warnings Along F.C.C.'s Fast Lane". The New York Times. Archived from the original on January 2, 2022. Retrieved May 11, 2014.
+^ Crawford, Susan (April 28, 2014). "The Wire Next Time". The New York Times. Retrieved April 28, 2014.
+^ Staff (May 15, 2014). "Searching for Fairness on the Internet". The New York Times. Archived from the original on January 2, 2022. Retrieved May 15, 2014.
+^ Wyatt, Edward (May 15, 2014). "F.C.C. Backs Opening Net Rules for Debate". The New York Times. Archived from the original on January 2, 2022. Retrieved May 15, 2014.
+^ Wyatt, Edward (November 10, 2014). "Obama Asks F.C.C. to Adopt Tough Net Neutrality Rules". The New York Times. Archived from the original on January 2, 2022. Retrieved November 15, 2014.
+^ NYT Editorial Board (November 14, 2014). "Why the F.C.C. Should Heed President Obama on Internet Regulation". The New York Times. Archived from the original on January 2, 2022. Retrieved November 15, 2014.
+^ Sepulveda, Ambassador Daniel A. (January 21, 2015). "The World Is Watching Our Net Neutrality Debate, So Let's Get It Right". Wired. Retrieved January 20, 2015.
+^ Weisman, Jonathan (January 19, 2015). "Shifting Politics of Net Neutrality Debate Ahead of F.C.C. Vote". The New York Times. Archived from the original on January 2, 2022. Retrieved January 20, 2015.
+^ Staff (January 16, 2015). "H. R. _ 114th Congress, 1st Session [Discussion Draft]   To amend the Communications Act of 1934 to ensure Internet openness..." (PDF). U. S. Congress. Retrieved January 20, 2015.
+^ Lohr, Steve (February 2, 2015). "In Net Neutrality Push, F.C.C. Is Expected to Propose Regulating Internet Service as a Utility". The New York Times. Archived from the original on January 2, 2022. Retrieved February 2, 2015.
+^ Lohr, Steve (February 2, 2015). "F.C.C. Chief Wants to Override State Laws Curbing Community Net Services". The New York Times. Retrieved February 2, 2015.
+^ Flaherty, Anne (January 31, 2015). "Just whose Internet is it? New federal rules may answer that". Associated Press. Retrieved January 31, 2015.
+^ Fung, Brian (January 2, 2015). "Get ready: The FCC says it will vote on net neutrality in February". The Washington Post. Retrieved January 2, 2015.
+^ Staff (January 2, 2015). "FCC to vote next month on net neutrality rules". Associated Press. Retrieved January 2, 2015.
+^ Lohr, Steve (February 4, 2015). "F.C.C. Plans Strong Hand to Regulate the Internet". The New York Times. Archived from the original on January 2, 2022. Retrieved February 5, 2015.
+^ Wheeler, Tom (February 4, 2015). "FCC Chairman Tom Wheeler: This Is How We Will Ensure Net Neutrality". Wired. Retrieved February 5, 2015.
+^ The Editorial Board (February 6, 2015). "Courage and Good Sense at the F.C.C.   Net Neutrality's Wise New Rules". The New York Times. Archived from the original on January 2, 2022. Retrieved February 6, 2015.
+^ Weisman, Jonathan (February 24, 2015). "As Republicans Concede, F.C.C. Is Expected to Enforce Net Neutrality". The New York Times. Archived from the original on January 2, 2022. Retrieved February 24, 2015.
+^ Lohr, Steve (February 25, 2015). "The Push for Net Neutrality Arose From Lack of Choice". The New York Times. Archived from the original on January 2, 2022. Retrieved February 25, 2015.
+^ Staff (February 26, 2015). "FCC Adopts Strong, Sustainable Rules To Protect The Open Internet" (PDF). Federal Communications Commission. Retrieved February 26, 2015.
+^ Ruiz, Rebecca R.; Lohr, Steve (February 26, 2015). "In Net Neutrality Victory, F.C.C. Classifies Broadband Internet Service as a Public Utility". The New York Times. Archived from the original on January 2, 2022. Retrieved February 26, 2015.
+^ Flaherty, Anne (February 25, 2015). "FACT CHECK: Talking heads skew 'net neutrality' debate". Associated Press. Retrieved February 26, 2015.
+^ Liebelson, Dana (February 26, 2015). "Net Neutrality Prevails in Historic FCC Vote". The Huffington Post. Retrieved February 27, 2015.
+^ Ruiz, Rebecca R. (March 12, 2015). "F.C.C. Sets Net Neutrality Rules". The New York Times. Archived from the original on January 2, 2022. Retrieved March 13, 2015.
+^ Sommer, Jeff (March 12, 2015). "What the Net Neutrality Rules Say". The New York Times. Retrieved March 13, 2015.
+^ FCC Staff (March 12, 2015). "Federal Communications Commission   FCC 15 24   In the Matter of Protecting and Promoting the Open Internet   GN Docket No. 14-28   Report and Order on Remand, Declaratory Ruling, and Order" (PDF). Federal Communications Commission. Retrieved March 13, 2015.
+^ Reisinger, Don (April 13, 2015). "Net neutrality rules get published   let the lawsuits begin". CNET. Retrieved April 13, 2015.
+^ Federal Communications Commission (April 13, 2015). "Protecting and Promoting the Open Internet   A Rule by the Federal Communications Commission on 04/13/2015". Federal Register. Retrieved April 13, 2015.
+^ Kang, Cecilia (December 14, 2017). "F.C.C. Repeals Net Neutrality Rules". The New York Times. ISSN 0362-4331. Archived from the original on January 2, 2022. Retrieved February 2, 2018.
+^ Neumann, Peter G. (March 20, 1999). "The Risks Digest". Great Moments in E-mail History. 20 (25). Retrieved April 27, 2006.
+^ "The History of Electronic Mail". Retrieved December 23, 2005.
+^ "The First Network Email". Archived from the original on May 6, 2006. Retrieved December 23, 2005.
+^ RFC 765: File Transfer Protocol (FTP), J. Postel and J. Reynolds, ISI, October 1985
+^ Kenneth P. Birman (March 25, 2005). Reliable Distributed Systems: Technologies, Web Services, and Applications. Springer-Verlag New York Incorporated. p. 532. ISBN 9780387215099. Retrieved January 20, 2012.
+^ Menta, Richard (July 20, 2001). "Napster Clones Crush Napster. Take 6 out of the Top 10 Downloads on CNet". MP3 Newswire. Archived from the original on March 4, 2016. Retrieved March 30, 2012.
+^ Movie File-Sharing Booming: Study Archived February 17, 2012, at the Wayback Machine, Solutions Research Group, Toronto, 24 January 2006
+^ Menta, Richard (December 9, 1999). "RIAA Sues Music Startup Napster for $20 Billion". MP3 Newswire. Archived from the original on June 27, 2017. Retrieved March 30, 2012.
+^ "EFF: What Peer-to-Peer Developers Need to Know about Copyright Law". W2.eff.org. Archived from the original on January 15, 2012. Retrieved January 20, 2012.
+^ Kobie, Nicole (November 26, 2010). "Pirate Bay trio lose appeal against jail sentences". pcpro.co.uk. PCPRO. Archived from the original on April 21, 2014. Retrieved November 26, 2010.
+^ "Poll: Young Say File Sharing OK", Bootie Cosgrove-Mather, CBS News, 11 February 2009
+^ Green, Stuart P. (March 29, 2012). "OP-ED CONTRIBUTOR; When Stealing Isn't Stealing". The New York Times. p. 27. Archived from the original on January 2, 2022.
+^ Nolledo, Michael. "What is Google Drive? A guide to navigating Google's file storage service and collaboration tools". Business Insider. Retrieved November 16, 2020.
+^ "Introducing Google Drive... yes, really". Official Google Blog. Retrieved November 16, 2020.
+^ "About". www.dropbox.com. Retrieved November 17, 2020.
+^ "About - MEGA". mega.nz. Retrieved November 17, 2020.
+^ "1) History of Internet Piracy - The Truth About Internet Piracy". sites.google.com. Retrieved December 7, 2020.
+^ a b Mobile Data Traffic Outlook. Ericsson
+^ Statista  Global Mobile Traffic per year from 2010-2020
+^ CTIA 2020 Annual Survey
+^ Eveleth, Rose (December 5, 2012). "The first text message sent twenty years ago was 'Merry Christmas". Smithsonian Magazine.
+^ GSMA. "ANALYSIS: Mobile internet usage challenges in Asia   awareness, literacy and local content.  June 2015 p 8 9
+https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2015/07/150709-asia-local-content-final.pdf
+^ Susmita Dasgupta; Somik V. Lall; David Wheeler (2001). Policy Reform, Economic Growth, and the Digital Divide: An Econometric Analysis. World Bank Publications. pp. 1 3. GGKEY:YLS5GEUEBAR. Retrieved February 11, 2013.
+^ Hillebrand, Friedhelm (2002).  Hillebrand, Friedhelm (ed.). GSM and UMTS, The Creation of Global Mobile Communications. John Wiley & Sons. ISBN 978-0-470-84322-2.
+^ Mauldin, Alan (September 7, 2021). "Global Internet Traffic and Capacity Return to Regularly Scheduled Programming". TeleGeography.
+^ Cisco 2021 VNI Forecast p2
+^ Grobe, Klaus; Eiselt, Michael (2013). Wavelength Division Multiplexing: A Practical Engineering Guide. John T Wiley & Sons. p. 2.
+^ Corning Glass Products/Optical Fiber
+^ Christoph Classen, Susanne Kinnebrock & Maria L blich (Eds.): Towards Web History: Sources, Methods, and Challenges in the Digital Age Archived May 9, 2013, at the Wayback Machine. In Historical Social Research 37 (4): 97 188. 2012.
+^ Barras, Colin (August 23, 2007). "An Internet Pioneer Ponders the Next Revolution". Illuminating the net's Dark Ages. Retrieved February 26, 2008.
+^ Campbell-Kelly, Martin; Garcia-Swartz, Daniel D. (2005). "The History of the Internet: The Missing Narratives". SSRN. doi:10.2139/ssrn.867087. SSRN 867087.
+^ Campbell-Kelly, Martin; Garcia-Swartz, Daniel D (2013). "The History of the Internet: The Missing Narratives". Journal of Information Technology. 28 (1): 18 33. doi:10.1057/jit.2013.4. ISSN 0268-3962. S2CID 41013.
+^ Russell, Andrew (2012). Histories of Networking vs. the History of the Internet (PDF). 2012 SIGCIS Workshop. p. 6.
+Sources
+Abbate, Janet (1999). Inventing the Internet. Cambridge, Massachusetts: MIT Press. ISBN 978-0262011723.
+Cerf, Vinton (1993). How the Internet Came to Be.
+Gillies, James; Cailliau, Robert (2000). How the Web was Born: The Story of the World Wide Web. New York: Oxford University Press. ISBN 0-19-286207-3.
+Hafner, Katie; Lyon, Matthew (1998) [1996]. Where Wizards Stay Up Late: The Origins Of The Internet. New York: Touchstone. ISBN 978-0-684-83267-8.
+Rosenzweig, Roy (1998). "Wizards, Bureaucrats, Warriors, and Hackers: Writing the History of the Internet" (PDF). The American Historical Review. 103 (5): 1530 1552. doi:10.2307/2649970. ISSN 0002-8762. JSTOR 2649970.
+Russell, Andrew L. (2014). Open Standards and the Digital Age: History, Ideology, and Networks. Cambridge University Press. ISBN 978-1-139-91661-5.
+Ryan, Johnny (2010). A history of the Internet and the digital future. London, England: Reaktion Books. ISBN 978-1861897770.
+Thomas Greene; Larry James Landweber; George Strawn (2003). "A Brief History of NSF and the Internet". National Science Foundation.
+External links
+Wikimedia Commons has media related to Internet history.
+Internet History Timeline   Computer History Museum
+Histories of the Internet   Internet Society
+Hobbes' Internet Timeline 12
+History of the Internet, a short animated film (2009)
+History of the Internet at Curlie
+vteTelecommunicationsHistory
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Data compression
+audio
+DCT
+image
+video
+Digital media
+Internet video
+online video platform
+social media
+streaming
+Drums
+Edholm's law
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Information Age
+Information revolution
+Internet
+Mass media
+Mobile phone
+Smartphone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Semiconductor
+device
+MOSFET
+transistor
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+digital
+streaming
+Undersea telegraph line
+Videotelephony
+Whistled language
+Wireless revolution
+Pioneers
+Nasir Ahmed
+Edwin Howard Armstrong
+Mohamed M. Atalla
+John Logie Baird
+Paul Baran
+John Bardeen
+Alexander Graham Bell
+Emile Berliner
+Tim Berners-Lee
+Francis Blake (telephone)
+Jagadish Chandra Bose
+Charles Bourseul
+Walter Houser Brattain
+Vint Cerf
+Claude Chappe
+Yogen Dalal
+Daniel Davis Jr.
+Donald Davies
+Amos Dolbear
+Thomas Edison
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Oliver Heaviside
+Robert Hooke
+Erna Schneider Hoover
+Harold Hopkins
+Gardiner Greene Hubbard
+Internet pioneers
+Bob Kahn
+Dawon Kahng
+Charles K. Kao
+Narinder Singh Kapany
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Robert Metcalfe
+Antonio Meucci
+Samuel Morse
+Jun-ichi Nishizawa
+Charles Grafton Page
+Radia Perlman
+Alexander Stepanovich Popov
+Tivadar Pusk s
+Johann Philipp Reis
+Claude Shannon
+Almon Brown Strowger
+Henry Sutton
+Charles Sumner Tainter
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Thomas A. Watson
+Charles Wheatstone
+Vladimir K. Zworykin
+Transmissionmedia
+Coaxial cable
+Fiber-optic communication
+optical fiber
+Free-space optical communication
+Molecular communication
+Radio waves
+wireless
+Transmission line
+data transmission circuit
+telecommunication circuit
+Network topologyand switching
+Bandwidth
+Links
+Nodes
+terminal
+Network switching
+circuit
+packet
+Telephone exchange
+Multiplexing
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+Concepts
+Communication protocol
+Computer network
+Data transmission
+Store and forward
+Telecommunications equipment
+Types of network
+Cellular network
+Ethernet
+ISDN
+LAN
+Mobile
+NGN
+Public Switched Telephone
+Radio
+Television
+Telex
+UUCP
+WAN
+Wireless network
+Notable networks
+ARPANET
+BITNET
+CYCLADES
+FidoNet
+Internet
+Internet2
+JANET
+NPL network
+Toasternet
+Usenet
+Locations
+Africa
+Americas
+North
+South
+Antarctica
+Asia
+Europe
+Oceania
+(Global telecommunications regulation bodies)
+ Telecommunication portal
+ Category
+ Outline
+ Commons
+Retrieved from "https://en.wikipedia.org/w/index.php?title=History_of_the_Internet&oldid=1149346104"

@@ -1,0 +1,161 @@
+Water content of an animal's body
+Not to be confused with Body of water.
+In physiology, body water is the water content of an animal body that is contained in the tissues, the blood, the bones and elsewhere. The percentages of body water contained in various fluid compartments add up to total body water (TBW). This water makes up a significant fraction of the human body, both by weight and by volume. Ensuring the right amount of body water is part of fluid balance, an aspect of homeostasis.
+Location[edit]
+By weight, the average adult human is approximately 60% water, and the average child is approximately 70% water.[1][2] There can be considerable variation in body water percentage based on a number of factors like age, health, water intake, weight, and sex. In a large study of adults of all ages and both sexes, the adult human body averaged ~65% water. However, this varied substantially by age, sex, and adiposity (amount of fat in body composition). The figure for water fraction by weight in this sample was found to be 58  8% water for males and 48  6% for females.[3] The body water constitutes as much as 75% of the body weight of a newborn infant, whereas some obese people are as little as 45% water by weight.[4] This is due to how fat tissue does not retain water as well as lean tissue. These statistical averages will vary with factors such as type of population, age of people sampled, number of people sampled, and methodology. So there is not, and cannot be, a figure that is exactly the same for all people, for this or any other physiological measure.
+Most animal body water is contained in various body fluids. These include intracellular fluid; extracellular fluid; plasma; interstitial fluid; and transcellular fluid.[5]  Water is also contained inside organs, in gastrointestinal, cerebrospinal, peritoneal, and ocular fluids.  Adipose tissue contains about 10% of water, while muscle tissue contains about 75%.[6][7]
+In Netter's Atlas of Human Physiology (2002), body water is broken down into the following compartments:[5]
+Intracellular fluid (2/3 of body water) is fluid contained within cells. In a 72 kg (159 lb) body containing 40 litres of fluid, about 25 litres is intracellular,[8] which amounts to 62.5%. Jackson's texts states 70% of body fluid is intracellular.[9]
+Extracellular fluid (1/3 of body water) is fluid contained in areas outside of cells. For a 40-litre body, about 15 litres is extracellular,[8] which amounts to 37.5%.
+Plasma (1/5 of extracellular fluid). Of this 15 litres of extracellular fluid, plasma volume averages 3 litres,[8] or 20%.
+Interstitial fluid (4/5 of extracellular fluid)
+Transcellular fluid (a.k.a. "third space," normally ignored in calculations) contained inside organs, such as the gastrointestinal, cerebrospinal, peritoneal, and ocular fluids.
+Measurement[edit]
+Dilution and equilibration[edit]
+An individual s total body water can be determined using flowing-afterglow mass spectrometry (FA-MS) to measure the abundance of deuterium in breath samples.  A known dose of deuterated water (heavy water, D2O) is ingested and allowed to equilibrate within the body water. Then, the FA-MS instrument measures the ratio D:H of deuterium to hydrogen in the water vapour in exhaled breath.  The total body water is then accurately measured from the increase in breath deuterium content in relation to the volume of D2O ingested.
+The water in individual compartments can be measured with different substances:[10]
+total body water: tritiated water or heavy water.
+extracellular fluid: inulin
+blood plasma: Evans blue
+Intracellular fluid may then be estimated by subtracting extracellular fluid from total body water.
+Bioelectrical impedance analysis[edit]
+Another method of determining total body water percentage (TBW%) is via bioelectrical impedance analysis (BIA). In the traditional BIA method, a person lies on a cot and spot electrodes are placed on the hands and bare feet. Electrolyte gel is applied first, and then a weak current of frequency 50kHz is introduced. This AC waveform allows the creation of a current inside the body via the very capacitive skin without causing a DC flow or burns, and limited in the ~20mA range current for safety.[11]
+BIA has emerged as a promising technique because of its simplicity, low cost, high reproducibility, and noninvasiveness. BIA prediction equations can be either generalized or population-specific, allowing this method to be potentially very accurate. Selecting the appropriate equation is important to determining the quality of the results.[citation needed]
+For clinical purposes, scientists are developing a multi-frequency BIA method that may further improve the method's ability to predict a person's hydration level. New segmental BIA equipment that uses more electrodes may lead to more precise measurements of specific parts of the body.
+Calculation[edit]
+In humans, total body water can be estimated based on the premorbid (or ideal) body weight and correction factor.
+T
+B
+W
+=
+w
+e
+i
+g
+h
+t
+ 
+C
+{\displaystyle TBW=weight*C}
+C is a coefficient for the expected percentage of weight made up of free water. For adult, non-elderly males, C = 0.6. For adult elderly males, malnourished males, or females, C = 0.5. For adult elderly or malnourished females, C = 0.45. A total body water deficit (TBWD) can then be approximated by the following formula:
+T
+B
+W
+D
+=
+T
+B
+W
+ 
+(
+1
+ 
+[
+N
+a
+]
+t
+[
+N
+a
+]
+m
+)
+{\displaystyle TBWD=TBW*(1-{\frac {[Na]t}{[Na]m}})}
+Where [Na]t = target sodium concentration (usually 140 mEq/L), and [Na]m = measured sodium concentration.
+The resultant value is the approximate volume of free water required to correct a hypernatremic state. In practice, the value rarely approximates the actual amount of free water required to correct a deficit due to insensible losses, urinary output, and differences in water distribution among patients. [12]
+Functions[edit]
+Water in the animal body performs a number of functions: as a solvent for transportation of nutrients; as a medium for excretion; a means for heat control; as a lubricant for joints; and for shock absorption.[6]
+Changes[edit]
+The usual way of adding water to a body is by drinking.  Water also enters the body with foods, especially those rich in water, such as plants, raw meat, and fish. About 10% of human adult water intake comes as a by-product of metabolism.[13]
+The amount of this water that is retained in animals is affected by several factors. Water amounts vary with the age of the animal. The older the vertebrate animal, the higher its relative bone mass and the lower its body water content.
+In diseased states, where body water is affected, the fluid compartment or compartments that have changed can give clues to the nature of the problem, or problems. Body water is regulated by hormones, including antidiuretic hormone, aldosterone and atrial natriuretic peptide.
+Loss of water[edit]
+Main articles: Volume contraction and Dehydration
+Volume contraction is a decrease in body fluid volume, with or without a concomitant loss of osmolytes. The loss of the body water component of body fluid is specifically termed dehydration.[14]
+Sodium loss approximately correlates with fluid loss from extracellular fluid, since sodium has a much higher concentration in extracellular fluid (ECF) than intracellular fluid (ICF). In contrast, K+ has a much higher concentration in ICF than ECF, and therefore its loss rather correlates with fluid loss from ICF, since K+ loss from ECF causes the K+ in ICF to diffuse out of the cells, dragging water with it by osmosis.[citation needed]
+References[edit]
+^ "The water in you". Howard Perlman. December 2016.
+^ Lote, Christopher J. Principles of Renal Physiology, 5th edition. Springer. p. 2.
+^ Watson, P. E.; Watson, I. D.; Batt, R. D. (January 1980). "Total body water volumes for adult males and females estimated from simple anthropometric measurements" (PDF). The American Journal of Clinical Nutrition. 33 (1): 27 39. doi:10.1093/ajcn/33.1.27. PMID 6986753.
+^ Guyton, Arthur C. (1976). Textbook of Medical Physiology (5th ed.). Philadelphia: W.B. Saunders. pp. 284, 424. ISBN 0-7216-4393-0.
+^ a b John T. Hansen; Bruce M. Koeppen (2002). Netter's Atlas of Human Physiology. Teterboro, N.J: Icon Learning Systems. ISBN 1-929007-01-9.
+^ a b FCS Animal Production L2. 2007. ISBN 9781868917297.
+^ Nutrient Requirements of Nonhuman Primates. 2003-02-01. ISBN 9780309172042.
+^ a b c Guyton, Arthur C. (1976). Textbook of Medical Physiology (5th ed.). Philadelphia: W.B. Saunders. pp. 275. ISBN 0-7216-4393-0.
+^ Jackson, Sheila (1985). Anatomy & Physiology for Nurses. Nurses' Aids Series (9th ed.). London: Bailliere Tindall. ISBN 0-7020-0737-4.
+^ Nosek, Thomas M. "Section 7/7ch02/7ch02p13". Essentials of Human Physiology. Archived from the original on 2016-03-24.
+^ "US Patent 4719922, Stimulator Apparatus - this website has ended". patentstorm.us. Archived from the original on 2012-10-13.
+^ Lee., Goldman; I., Schafer, Andrew; Fayette., Cecil, Russell La (2012-01-01). Goldman's Cecil medicine. Elsevier/Saunders. ISBN 9781437716047. OCLC 779501249.
+^ Yamada, Yosuke; Zhang, Xueying; Henderson, Mary E. T.; Sagayama, Hiroyuki; Pontzer, Herman; Speakman, John R. (2022). "Variation in human water turnover associated with environmental and lifestyle factors". Science. 378 (6622): 909 915. doi:10.1126/science.abm8668. PMC 9764345. PMID 36423296.
+^ MedicineNet > Definition of Dehydration Retrieved on July 2, 2009
+Further reading[edit]
+Fluid, Electrolyte, and Acid-Base Disorders in Small Animal Practice
+Essentials of Animal Physiology
+The Encyclopedia of Farm Animal Nutrition
+Animal Osmoregulation
+Animal Nutrition Science
+External links[edit]
+Animals portal
+Body+water at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+Body+fluid+compartments at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+vtePhysiology of the kidneys and acid base physiologyCreating urineSecretion
+Clearance
+Pharmacokinetics
+Clearance of medications
+Urine flow rate
+Reabsorption
+Solvent drag
+Sodium
+Chloride
+Urea
+Glucose
+Oligopeptides
+Protein
+Filtration
+Renal blood flow
+Renal plasma flow
+Ultrafiltration
+Countercurrent exchange
+Filtration fraction
+Other functionsHormones
+Antidiuretic hormone
+Aldosterone
+Atrial natriuretic peptide
+Renin
+Erythropoietin
+Calcitriol
+Prostaglandins
+Fluid balanceBody water: Intracellular fluid/Cytosol
+Extracellular fluid
+(Interstitial fluid
+Plasma
+Transcellular fluid)Acid base balance
+Darrow Yannet diagram
+Base excess
+Davenport diagram
+Anion gap (Delta ratio)
+Winters' formula
+Buffering
+Bicarbonate buffer system
+Respiratory compensation
+Renal compensation
+Assessment and measurement
+Glomerular filtration rate
+Creatinine clearance
+Augmented renal clearance
+Renal clearance ratio
+Urea reduction ratio
+Kt/V
+Standardized Kt/V
+Dialysis adequacy
+Hemodialysis product
+PAH clearance (Effective renal plasma flow
+Extraction ratio)
+Other
+Fractional excretion of sodium
+BUN-to-creatinine ratio
+Tubuloglomerular feedback
+Natriuresis
+Urine
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Body_water&oldid=1138406754"

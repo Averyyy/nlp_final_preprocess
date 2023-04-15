@@ -1,0 +1,618 @@
+Mammalian protein found in Homo sapiens
+PECAM1Available structuresPDBOrtholog search: PDBe RCSB List of PDB id codes2KY5, 5C14IdentifiersAliasesPECAM1, CD31, CD31/EndoCAM, GPIIA', PECA1, PECAM-1, endoCAM, platelet and endothelial cell adhesion molecule 1, PCAM-1External IDsOMIM: 173445 MGI: 97537 HomoloGene: 47925 GeneCards: PECAM1 Gene location (Human)Chr.Chromosome 17 (human)[1]Band17q23.3Start64,319,415 bp[1]End64,413,776 bp[1]Gene location (Mouse)Chr.Chromosome 11 (mouse)[2]Band11|11 E1Start106,545,043 bp[2]End106,641,454 bp[2]RNA expression patternBgeeHumanMouse (ortholog)Top expressed invisceral pleuralower lobe of lungpericardiumright lungparietal pleuramonocyteupper lobe of lungupper lobe of left lungAchilles tendonbone marrow cellsTop expressed inright lung lobeleft lungleft lung lobeascending aortaaortic valveglomerular capillarydigastric muscledermisbody of femursoleus muscleMore reference expression dataBioGPSMore reference expression dataGene ontologyMolecular function
+protein binding
+protein homodimerization activity
+Cellular component
+integral component of membrane
+platelet alpha granule membrane
+membrane raft
+cell junction
+plasma membrane
+extracellular exosome
+membrane
+extracellular space
+secretory granule membrane
+cytoplasm
+external side of plasma membrane
+smooth muscle contractile fiber
+cell-cell contact zone
+cell periphery
+Biological process
+diapedesis
+glomerular endothelium development
+platelet degranulation
+cell adhesion
+extracellular matrix organization
+cell recognition
+leukocyte migration
+signal transduction
+phagocytosis
+neutrophil degranulation
+leukocyte cell-cell adhesion
+neutrophil extravasation
+cell-cell adhesion via plasma-membrane adhesion molecules
+angiogenesis
+endothelial cell morphogenesis
+homophilic cell adhesion via plasma membrane adhesion molecules
+Rho protein signal transduction
+regulation of cell migration
+monocyte extravasation
+wound healing
+positive regulation of tyrosine phosphorylation of STAT protein
+endothelial cell migration
+endothelial cell-matrix adhesion
+Sources:Amigo / QuickGOOrthologsSpeciesHumanMouseEntrez517518613EnsemblENSG00000261371ENSMUSG00000020717UniProtP16284Q08481RefSeq (mRNA)NM_000442NM_001032378NM_008816NM_001305157NM_001305158RefSeq (protein)NP_000433NP_001027550NP_001292086NP_001292087NP_032842Location (UCSC)Chr 17: 64.32   64.41 MbChr 11: 106.55   106.64 MbPubMed search[3][4]WikidataView/Edit HumanView/Edit Mouse
+Platelet endothelial cell adhesion molecule (PECAM-1) also known as cluster of differentiation 31 (CD31)  is a protein that in humans is encoded by the PECAM1 gene found on chromosome17q23.3.[5][6][7][8] PECAM-1 plays a key role in removing aged neutrophils from the body.
+Structure[edit]
+PECAM-1 is a highly glycosylated protein with a mass of approximately 130 kDa.[9] The structure of this protein was determined by molecular cloning in 1990, when it was found out that PECAM-1 has N-terminal domain with 574 amino acids, transmembrane domain with 19 amino acids and C-terminal cytoplasmic domain with 118 amino acids. The N-terminal domain consists of six extracellular Ig-like domains.[10]
+Interactions[edit]
+PECAM-1 is a cell-cell adhesion protein[11] which interacts with other PECAM-1 molecules through homophilic interactions or with non-PECAM-1 molecules through heterophilic interactions.[12] Homophilic interactions between PECAM-1 molecules are mediated by antiparallel interactions between extracellular Ig-like domain 1 and Ig-like domain 2. These interactions are regulated by the level of PECAM-1 expression. Homophilic interactions occur, only when the surface expression of PECAM-1 is high. Otherwise, when expression is low, heterophilic interactions occur.[13]
+Tissue distribution[edit]
+CD31 is normally found on endothelial cells, platelets, macrophages and Kupffer cells, granulocytes, lymphocytes (T cells, B cells, and NK cells), megakaryocytes, and osteoclasts.
+Immunohistochemistry[edit]
+ Micrograph of an angiosarcoma stained with a CD31 immunostain (dark brown).
+In immunohistochemistry, CD31 is used primarily to demonstrate the presence of endothelial cells in histological tissue sections. This can help to evaluate the degree of tumor angiogenesis, which can imply a rapidly growing tumor. Malignant endothelial cells also commonly retain the antigen, so that CD31 immunohistochemistry can also be used to demonstrate both angiomas and angiosarcomas. It can also be demonstrated in small lymphocytic and lymphoblastic lymphomas, although more specific markers are available for these conditions.[14]
+Function[edit]
+PECAM-1 is found on the surface of platelets, monocytes, neutrophils, and some types of T-cells, and makes up a large portion of endothelial cell intercellular junctions. The encoded protein is a member of the immunoglobulin superfamily and is likely involved in leukocyte transmigration, angiogenesis, and integrin activation.[5] CD31 on endothelial cells binds to the CD38 receptor on natural killer cells for those cells to attach to the endothelium.[15][16]
+Role in signalling[edit]
+PECAM-1 plays a role in signalling. In cytoplasmic domain of PECAM-1 are serine and tyrosine residues which are suitable for phosphorylation. After the tyrosine is phosphorylated, PECAM-1 recruits Src homology 2 domain containing signalling proteins. Then these proteins can initiate signalling pathways. Of all these proteins, mostly SH2 domain containing protein-tyrosine phosphatase interacts with the PECAM-1 cytoplasmic domain.[17] Signalling through PECAM-1 leads to the activation of neutrophils, monocytes and leukocytes.[18]
+Leukocyte transmigration[edit]
+PECAM-1 is involved in migration of monocytes and neutrophils,[19] natural killer cells,[20] V 1+   T lymphocytes[21] and CD34+ hematopoietic progenitor cells[22] through the endothelial cells. Moreover, PECAM-1 is involved in transendothelial migration of recent thymic emigrants to the secondary lymphoid organs.[23] Mechanism of leukocyte transmigration can be explained by creating a homophilic interaction. In this interaction migrating leukocytes express PECAM-1 on the surface and then they react with PECAM-1 on the surface of endothelial cell.[24]
+Angiogenesis[edit]
+PECAM-1 is also important for angiogenesis because it enables the formation of new blood vessels through the cell-cell adhesion.[25]
+Role of CD31 in diseases[edit]
+Cancer[edit]
+PECAM-1 is expressed by many solid tumor cell lines such as hemangioma, angiosarcoma, Kaposi s sarcoma, breast carcinoma, glioblastoma, colon carcinoma, skin carcinoma and other tumor cell lines.[26] On the surface of these tumor cells PECAM-1 mediates the adhesion to endothelial cells.[27] PECAM-1 modulates tumor growth by the formation of new endothelial cell tubes. In mice, this process can be inhibited using an anti-PECAM-1 antibody.[28]
+Recently, it was found out that elderly patients with gastric cancer have high concentration of PECAM-1 in the serum. That suggests that the use of a serum PECAM-1 level can be a good prognostic marker.[29]
+Atherosclerosis[edit]
+Inhibition of PECAM-1 leads to a reduction of atherosclerotic lesions in mice.[30] That means that PECAM-1 is involved in atherosclerosis. The exact mechanism, how PECAM-1 contributes to atherosclerosis is not known, but there are some theories. PECAM-1 can act as a mechanoresponsive molecule. Or the pathogenesis can be caused by the infiltration of leukocytes mediated by PECAM-1. Finally, polymorphisms in the PECAM-1 gene can lead to the progression of atherosclerosis.[31]
+Disseminated intravascular coagulation[edit]
+Extensive microvascular thrombosis and increased microvascular permeability are main characteristics of disseminated intravascular coagulation, a fatal complication of sepsis. Patients with this devastating condition have high levels of PECAM-1 in the serum indicating PECAM-1 as a good diagnostic marker. Moreover, PECAM-1 can protect from the development of disseminated intravascular coagulation by inhibiting macrophage pyroptosis.[32]
+Neuroinflammation[edit]
+PECAM-1 contributes to at least two of the nervous system diseases, multiple sclerosis and cerebral ischaemia. First signs of multiple sclerosis are defects in the blood brain barrier and leukocyte migration mediated by adhesion molecules such as PECAM-1. Moreover, monocytes in patients with multiple sclerosis express high level of PECAM-1. Cerebral ischaemia is caused by the accumulation of leukocytes, which then infiltrate brain parenchyma and release toxic compounds such as oxygen radicals. Interactions between leukocyte and endothelium are mediated by PECAM-1. High levels of soluble PECAM-1 can be used to diagnose both diseases. Increased PECAM-1 levels indicate damage in the blood brain barrier in patients with multiple sclerosis and high PECAM-1 levels can be used as a short-term prediction of a stroke in patients with cerebral ischaemia.[33]
+References[edit]
+^ a b c GRCh38: Ensembl release 89: ENSG00000261371 - Ensembl, May 2017
+^ a b c GRCm38: Ensembl release 89: ENSMUSG00000020717 - Ensembl, May 2017
+^ "Human PubMed Reference:". National Center for Biotechnology Information, U.S. National Library of Medicine.
+^ "Mouse PubMed Reference:". National Center for Biotechnology Information, U.S. National Library of Medicine.
+^ a b "Entrez Gene: platelet/endothelial cell adhesion molecule".
+^ Newman PJ, Berndt MC, Gorski J, White GC, Lyman S, Paddock C, Muller WA (March 1990). "PECAM-1 (CD31) cloning and relation to adhesion molecules of the immunoglobulin gene superfamily". Science. 247 (4947): 1219 1222. Bibcode:1990Sci...247.1219N. doi:10.1126/science.1690453. PMID 1690453.
+^ Gumina RJ, Kirschbaum NE, Rao PN, vanTuinen P, Newman PJ (June 1996). "The human PECAM1 gene maps to 17q23". Genomics. 34 (2): 229 232. doi:10.1006/geno.1996.0272. PMID 8661055.
+^ Xie Y, Muller WA (October 1996). "Fluorescence in situ hybridization mapping of the mouse platelet endothelial cell adhesion molecule-1 (PECAM1) to mouse chromosome 6, region F3-G1". Genomics. 37 (2): 226 228. doi:10.1006/geno.1996.0546. PMID 8921400.
+^ Simmons DL, Walker C, Power C, Pigott R (June 1990). "Molecular cloning of CD31, a putative intercellular adhesion molecule closely related to carcinoembryonic antigen". The Journal of Experimental Medicine. 171 (6): 2147 2152. doi:10.1084/jem.171.6.2147. PMC 2187965. PMID 2351935.
+^ Newman PJ, Berndt MC, Gorski J, White GC, Lyman S, Paddock C, Muller WA (March 1990). "PECAM-1 (CD31) cloning and relation to adhesion molecules of the immunoglobulin gene superfamily". Science. 247 (4947): 1219 1222. Bibcode:1990Sci...247.1219N. doi:10.1126/science.1690453. PMID 1690453.
+^ Albelda SM, Muller WA, Buck CA, Newman PJ (September 1991). "Molecular and cellular properties of PECAM-1 (endoCAM/CD31): a novel vascular cell-cell adhesion molecule". The Journal of Cell Biology. 114 (5): 1059 1068. doi:10.1083/jcb.114.5.1059. PMC 2289123. PMID 1874786.
+^ DeLisser HM, Newman PJ, Albelda SM (October 1994). "Molecular and functional aspects of PECAM-1/CD31". Immunology Today. 15 (10): 490 495. doi:10.1016/0167-5699(94)90195-3. PMID 7945775.
+^ Sun J, Williams J, Yan HC, Amin KM, Albelda SM, DeLisser HM (August 1996). "Platelet endothelial cell adhesion molecule-1 (PECAM-1) homophilic adhesion is mediated by immunoglobulin-like domains 1 and 2 and depends on the cytoplasmic domain and the level of surface expression". The Journal of Biological Chemistry. 271 (31): 18561 18570. doi:10.1074/jbc.271.31.18561. PMID 8702505.
+^ Leong, Anthony S-Y; Cooper, Kumarason; Leong, F Joel W-M (2003). Manual of Diagnostic Cytology (2 ed.). Greenwich Medical Media, Ltd. p. 103. ISBN 978-1-84110-100-2.
+^ Zambello R, Baril  G, Manni S, Piazza F, Semenzato G (March 2020). "NK cells and CD38: Implication for (Immuno)Therapy in Plasma Cell Dyscrasias". Cells. 9 (3): 768. doi:10.3390/cells9030768. PMC 7140687. PMID 32245149.
+^ Glar a E, Valledor AF (January 2020). "Roles of CD38 in the Immune Response to Infection". Cells. 9 (1): 228. doi:10.3390/cells9010228. PMC 7017097. PMID 31963337.
+^ Newman PJ, Newman DK (June 2003). "Signal transduction pathways mediated by PECAM-1: new roles for an old molecule in platelet and vascular cell biology". Arteriosclerosis, Thrombosis, and Vascular Biology. 23 (6): 953 964. doi:10.1161/01.ATV.0000071347.69358.D9. PMID 12689916.
+^ Elias CG, Spellberg JP, Karan-Tamir B, Lin CH, Wang YJ, McKenna PJ,  et al. (June 1998). "Ligation of CD31/PECAM-1 modulates the function of lymphocytes, monocytes and neutrophils". European Journal of Immunology. 28 (6): 1948 1958. doi:10.1002/(SICI)1521-4141(199806)28:06<1948::AID-IMMU1948>3.0.CO;2-C. PMID 9645377. S2CID 32378668.
+^ Muller WA, Weigl SA, Deng X, Phillips DM (August 1993). "PECAM-1 is required for transendothelial migration of leukocytes". The Journal of Experimental Medicine. 178 (2): 449 460. doi:10.1084/jem.178.2.449. PMC 2191108. PMID 8340753.
+^ Berman ME, Xie Y, Muller WA (February 1996). "Roles of platelet/endothelial cell adhesion molecule-1 (PECAM-1, CD31) in natural killer cell transendothelial migration and beta 2 integrin activation". Journal of Immunology. 156 (4): 1515 1524. doi:10.4049/jimmunol.156.4.1515. PMID 8568255. S2CID 1741600.
+^ Poggi A, Zocchi MR, Carosio R, Ferrero E, Angelini DF, Galgani S,  et al. (June 2002). "Transendothelial migratory pathways of V delta 1+TCR gamma delta+ and V delta 2+TCR gamma delta+ T lymphocytes from healthy donors and multiple sclerosis patients: involvement of phosphatidylinositol 3 kinase and calcium calmodulin-dependent kinase II". Journal of Immunology. 168 (12): 6071 6077. doi:10.4049/jimmunol.168.12.6071. PMID 12055216. S2CID 82477153.
+^ Voermans C, Rood PM, Hordijk PL, Gerritsen WR, van der Schoot CE (2000). "Adhesion molecules involved in transendothelial migration of human hematopoietic progenitor cells". Stem Cells. 18 (6): 435 443. doi:10.1634/stemcells.18-6-435. PMID 11072032. S2CID 37713443.
+^ Kimmig S, Przybylski GK, Schmidt CA, Laurisch K, M wes B, Radbruch A, Thiel A (March 2002). "Two subsets of naive T helper cells with distinct T cell receptor excision circle content in human adult peripheral blood". The Journal of Experimental Medicine. 195 (6): 789 794. doi:10.1084/jem.20011756. PMC 2193736. PMID 11901204.
+^ Mamdouh Z, Chen X, Pierini LM, Maxfield FR, Muller WA (February 2003). "Targeted recycling of PECAM from endothelial surface-connected compartments during diapedesis". Nature. 421 (6924): 748 753. Bibcode:2003Natur.421..748M. doi:10.1038/nature01300. PMID 12610627. S2CID 26318819.
+^ DeLisser HM, Christofidou-Solomidou M, Strieter RM, Burdick MD, Robinson CS, Wexler RS,  et al. (September 1997). "Involvement of endothelial PECAM-1/CD31 in angiogenesis". The American Journal of Pathology. 151 (3): 671 677. PMC 1857836. PMID 9284815.
+^ Bergom C, Gao C, Newman PJ (October 2005). "Mechanisms of PECAM-1-mediated cytoprotection and implications for cancer cell survival". Leukemia & Lymphoma. 46 (10): 1409 1421. doi:10.1080/10428190500126091. PMID 16194886. S2CID 25682089.
+^ Tang DG, Chen YQ, Newman PJ, Shi L, Gao X, Diglio CA, Honn KV (October 1993). "Identification of PECAM-1 in solid tumor cells and its potential involvement in tumor cell adhesion to endothelium". The Journal of Biological Chemistry. 268 (30): 22883 22894. doi:10.1016/S0021-9258(18)41609-2. PMID 8226797.
+^ Zhou Z, Christofidou-Solomidou M, Garlanda C, DeLisser HM (1999). "Antibody against murine PECAM-1 inhibits tumor angiogenesis in mice". Angiogenesis. 3 (2): 181 188. doi:10.1023/a:1009092107382. PMID 14517436. S2CID 33204411.
+^ Li Y, Guo XB, Wei YH, Kang XL (January 2021). "Serum CXCL13 and PECAM-1 can be used as diagnostic and prognostic markers in elderly patients with gastric cancer". Clinical & Translational Oncology. 23 (1): 130 138. doi:10.1007/s12094-020-02403-w. PMID 32500259. S2CID 219313556.
+^ Stevens HY, Melchior B, Bell KS, Yun S, Yeh JC, Frangos JA (September 2008). "PECAM-1 is a critical mediator of atherosclerosis". Disease Models & Mechanisms. 1 (2 3): 175 81, discussion 179. doi:10.1242/dmm.000547. PMC 2562188. PMID 19048083.
+^ Woodfin A, Voisin MB, Nourshargh S (December 2007). "PECAM-1: a multi-functional molecule in inflammation and vascular biology". Arteriosclerosis, Thrombosis, and Vascular Biology. 27 (12): 2514 2523. doi:10.1161/ATVBAHA.107.151456. PMID 17872453.
+^ Luo L, Xu M, Liao D, Deng J, Mei H, Hu Y (August 2020). "PECAM-1 protects against DIC by dampening inflammatory responses via inhibiting macrophage pyroptosis and restoring vascular barrier integrity". Translational Research. 222: 1 16. doi:10.1016/j.trsl.2020.04.005. PMID 32417429. S2CID 218678428.
+^ Kalinowska A, Losy J (December 2006). "PECAM-1, a key player in neuroinflammation". European Journal of Neurology. 13 (12): 1284 1290. doi:10.1111/j.1468-1331.2006.01640.x. PMID 17116209. S2CID 22437957.
+Further reading[edit]
+Jackson DE (April 2003). "The unfolding tale of PECAM-1". FEBS Letters. 540 (1 3): 7 14. doi:10.1016/S0014-5793(03)00224-2. PMID 12681475. S2CID 21470915.
+Newman PJ, Newman DK (June 2003). "Signal transduction pathways mediated by PECAM-1: new roles for an old molecule in platelet and vascular cell biology". Arteriosclerosis, Thrombosis, and Vascular Biology. 23 (6): 953 964. doi:10.1161/01.ATV.0000071347.69358.D9. PMID 12689916.
+Ilan N, Madri JA (October 2003). "PECAM-1: old friend, new partners". Current Opinion in Cell Biology. 15 (5): 515 524. doi:10.1016/S0955-0674(03)00100-5. PMID 14519385.
+Wong MX, Jackson DE (2004). "Regulation of B cell activation by PECAM-1: implications for the development of autoimmune disorders". Current Pharmaceutical Design. 10 (2): 155 161. doi:10.2174/1381612043453504. PMID 14754395.
+Kalinowska A, Losy J (December 2006). "PECAM-1, a key player in neuroinflammation". European Journal of Neurology. 13 (12): 1284 1290. doi:10.1111/j.1468-1331.2006.01640.x. PMID 17116209. S2CID 22437957.
+Stockinger H, Gadd SJ, Eher R, Majdic O, Schreiber W, Kasinrerk W,  et al. (December 1990). "Molecular characterization and functional analysis of the leukocyte surface protein CD31". Journal of Immunology. 145 (11): 3889 3897. doi:10.4049/jimmunol.145.11.3889. PMID 1700999. S2CID 27015871.
+Albelda SM, Muller WA, Buck CA, Newman PJ (September 1991). "Molecular and cellular properties of PECAM-1 (endoCAM/CD31): a novel vascular cell-cell adhesion molecule". The Journal of Cell Biology. 114 (5): 1059 1068. doi:10.1083/jcb.114.5.1059. PMC 2289123. PMID 1874786.
+Simmons DL, Walker C, Power C, Pigott R (June 1990). "Molecular cloning of CD31, a putative intercellular adhesion molecule closely related to carcinoembryonic antigen". The Journal of Experimental Medicine. 171 (6): 2147 2152. doi:10.1084/jem.171.6.2147. PMC 2187965. PMID 2351935.
+Kirschbaum NE, Gumina RJ, Newman PJ (December 1994). "Organization of the gene for human platelet/endothelial cell adhesion molecule-1 shows alternatively spliced isoforms and a functionally complex cytoplasmic domain". Blood. 84 (12): 4028 4037. doi:10.1182/blood.V84.12.4028.bloodjournal84124028. PMID 7994021.
+Tang DG, Chen YQ, Newman PJ, Shi L, Gao X, Diglio CA, Honn KV (October 1993). "Identification of PECAM-1 in solid tumor cells and its potential involvement in tumor cell adhesion to endothelium". The Journal of Biological Chemistry. 268 (30): 22883 22894. doi:10.1016/S0021-9258(18)41609-2. PMID 8226797.
+Behar E, Chao NJ, Hiraki DD, Krishnaswamy S, Brown BW, Zehnder JL, Grumet FC (February 1996). "Polymorphism of adhesion molecule CD31 and its role in acute graft-versus-host disease". The New England Journal of Medicine. 334 (5): 286 291. doi:10.1056/NEJM199602013340502. PMID 8532023.
+Lu TT, Yan LG, Madri JA (October 1996). "Integrin engagement mediates tyrosine dephosphorylation on platelet-endothelial cell adhesion molecule 1". Proceedings of the National Academy of Sciences of the United States of America. 93 (21): 11808 11813. Bibcode:1996PNAS...9311808L. doi:10.1073/pnas.93.21.11808. PMC 38140. PMID 8876219.
+Almendro N, Bell n T, Rius C, Lastres P, Langa C, Corb  A, Bernab u C (December 1996). "Cloning of the human platelet endothelial cell adhesion molecule-1 promoter and its tissue-specific expression. Structural and functional characterization". Journal of Immunology. 157 (12): 5411 5421. doi:10.4049/jimmunol.157.12.5411. PMID 8955189. S2CID 6694530.
+Jackson DE, Ward CM, Wang R, Newman PJ (March 1997). "The protein-tyrosine phosphatase SHP-2 binds platelet/endothelial cell adhesion molecule-1 (PECAM-1) and forms a distinct signaling complex during platelet aggregation. Evidence for a mechanistic link between PECAM-1- and integrin-mediated cellular signaling". The Journal of Biological Chemistry. 272 (11): 6986 6993. doi:10.1074/jbc.272.11.6986. PMID 9054388.
+Famiglietti J, Sun J, DeLisser HM, Albelda SM (September 1997). "Tyrosine residue in exon 14 of the cytoplasmic domain of platelet endothelial cell adhesion molecule-1 (PECAM-1/CD31) regulates ligand binding specificity". The Journal of Cell Biology. 138 (6): 1425 1435. doi:10.1083/jcb.138.6.1425. PMC 2132561. PMID 9298995.
+Deaglio S, Morra M, Mallone R, Ausiello CM, Prager E, Garbarino G,  et al. (January 1998). "Human CD38 (ADP-ribosyl cyclase) is a counter-receptor of CD31, an Ig superfamily member". Journal of Immunology. 160 (1): 395 402. doi:10.4049/jimmunol.160.1.395. PMID 9551996. S2CID 15132619.
+Coukos G, Makrigiannakis A, Amin K, Albelda SM, Coutifaris C (April 1998). "Platelet-endothelial cell adhesion molecule-1 is expressed by a subpopulation of human trophoblasts: a possible mechanism for trophoblast-endothelial interaction during haemochorial placentation". Molecular Human Reproduction. 4 (4): 357 367. doi:10.1093/molehr/4.4.357. PMID 9620836.
+Cao MY, Huber M, Beauchemin N, Famiglietti J, Albelda SM, Veillette A (June 1998). "Regulation of mouse PECAM-1 tyrosine phosphorylation by the Src and Csk families of protein-tyrosine kinases". The Journal of Biological Chemistry. 273 (25): 15765 15772. doi:10.1074/jbc.273.25.15765. PMID 9624175.
+Ma L, Mauro C, Cornish GH, Chai JG, Coe D, Fu H,  et al. (November 2010). "Ig gene-like molecule CD31 plays a nonredundant role in the regulation of T-cell immunity and tolerance". Proceedings of the National Academy of Sciences of the United States of America. 107 (45): 19461 19466. Bibcode:2010PNAS..10719461M. doi:10.1073/pnas.1011748107. PMC 2984185. PMID 20978210.
+External links[edit]
+Human CD Antigen Chart (eBioscience)
+Mouse CD Antigen Chart (eBioscience)
+Human PECAM1 genome location and PECAM1 gene details page  in the UCSC Genome Browser.
+Overview of all the structural information available in the PDB for UniProt: P16284 (Platelet endothelial cell adhesion molecule) at the PDBe-KB.
+vteProteins: clusters of differentiation (see also list of human clusters of differentiation)1 50
+CD1
+a-c
+1A
+1B
+1D
+1E
+CD2
+CD3
+ 
+ 
+ 
+CD4
+CD5
+CD6
+CD7
+CD8
+a
+CD9
+CD10
+CD11
+a
+b
+c
+d
+CD13
+CD14
+CD15
+CD16
+A
+B
+CD18
+CD19
+CD20
+CD21
+CD22
+CD23
+CD24
+CD25
+CD26
+CD27
+CD28
+CD29
+CD30
+CD31
+CD32
+A
+B
+CD33
+CD34
+CD35
+CD36
+CD37
+CD38
+CD39
+CD40
+CD41
+CD42
+a
+b
+c
+d
+CD43
+CD44
+CD45
+CD46
+CD47
+CD48
+CD49
+a
+b
+c
+d
+e
+f
+CD50
+51 100
+CD51
+CD52
+CD53
+CD54
+CD55
+CD56
+CD57
+CD58
+CD59
+CD61
+CD62
+E
+L
+P
+CD63
+CD64
+A
+B
+C
+CD66
+a
+b
+c
+d
+e
+f
+CD68
+CD69
+CD70
+CD71
+CD72
+CD73
+CD74
+CD78
+CD79
+a
+b
+CD80
+CD81
+CD82
+CD83
+CD84
+CD85
+a
+d
+e
+h
+j
+k
+CD86
+CD87
+CD88
+CD89
+CD90
+CD91 - CD92
+CD93
+CD94
+CD95
+CD96
+CD97
+CD98
+CD99
+CD100
+101 150
+CD101
+CD102
+CD103
+CD104
+CD105
+CD106
+CD107
+a
+b
+CD108
+CD109
+CD110
+CD111
+CD112
+CD113
+CD114
+CD115
+CD116
+CD117
+CD118
+CD119
+CD120
+a
+b
+CD121
+a
+b
+CD122
+CD123
+CD124
+CD125
+CD126
+CD127
+CD129
+CD130
+CD131
+CD132
+CD133
+CD134
+CD135
+CD136
+CD137
+CD138
+CD140b
+CD141
+CD142
+CD143
+CD144
+CD146
+CD147
+CD148
+CD150
+151 200
+CD151
+CD152
+CD153
+CD154
+CD155
+CD156
+a
+b
+c
+CD157
+CD158 (a
+d
+e
+i
+k)
+CD159
+a
+c
+CD160
+CD161
+CD162
+CD163
+CD164
+CD166
+CD167
+a
+b
+CD168
+CD169
+CD170
+CD171
+CD172
+a
+b
+g
+CD174
+CD177
+CD178
+CD179
+a
+b
+CD180
+CD181
+CD182
+CD183
+CD184
+CD185
+CD186
+CD191
+CD192
+CD193
+CD194
+CD195
+CD196
+CD197
+CDw198
+CDw199
+CD200
+201 250
+CD201
+CD202b
+CD204
+CD205
+CD206
+CD207
+CD208
+CD209
+CDw210
+a
+b
+CD212
+CD213a
+1
+2
+CD217
+CD218 (a
+b)
+CD220
+CD221
+CD222
+CD223
+CD224
+CD225
+CD226
+CD227
+CD228
+CD229
+CD230
+CD233
+CD234
+CD235
+a
+b
+CD236
+CD238
+CD239
+CD240CE
+CD240D
+CD241
+CD243
+CD244
+CD246
+CD247 - CD248
+CD249
+251 300
+ CD252
+CD253
+CD254
+CD256
+CD257
+CD258
+CD261
+CD262
+CD263
+CD264
+CD265
+CD266
+CD267
+CD268
+CD269
+CD271
+CD272
+CD273
+CD274
+CD275
+CD276
+CD278
+CD279
+CD280
+CD281
+CD282
+CD283
+CD284
+CD286
+CD288
+CD289
+CD290
+CD292
+CDw293
+CD294
+CD295
+CD297
+CD298
+CD299
+301 350
+CD300A
+CD301
+CD302
+CD303
+CD304
+CD305
+CD306
+CD307
+CD309
+CD312
+CD314
+CD315
+CD316
+CD317
+CD318
+CD320
+CD321
+CD322
+CD324
+CD325
+CD326
+CD327
+CD328
+CD329
+CD331
+CD332
+CD333
+CD334
+CD335
+CD336
+CD337
+CD338
+CD339
+CD340
+CD344
+CD349
+CD350
+vteMembrane proteins: cell adhesion moleculesCalcium-independentIgSF CAM
+N-CAM (Myelin protein zero)
+ICAM (1, 5)
+VCAM-1
+PE-CAM
+L1 family
+L1-CAM
+NRCAM
+NFASC
+CHL1
+Nectin
+PVRL1
+PVRL2
+PVRL3
+CADM1
+CADM3
+CD155
+Integrins
+LFA-1 (CD11a+CD18)
+Integrin alphaXbeta2 (CD11c+CD18)
+Macrophage-1 antigen (CD11b+CD18)
+VLA-4 (CD49d+CD29)
+Glycoprotein IIb/IIIa (ITGA2B+ITGB3)
+Calcium-dependentCadherinsClassical
+CDH1
+CDH2
+CDH3
+Desmosomal
+Desmoglein (DSG1, DSG2, DSG3, DSG4)
+Desmocollin (DSC1, DSC2, DSC3)
+Protocadherin
+PCDH1
+PCDH15
+PCDH19
+Unconventional/ungrouped
+T-cadherin
+CDH4
+CDH5
+CDH6
+CDH8
+CDH11
+CDH12
+CDH15
+CDH16
+CDH17
+CDH9
+CDH10
+Selectins
+E-selectin
+L-selectin
+P-selectin
+Other
+Lymphocyte homing receptor: CD44
+L-selectin
+integrin (VLA-4, LFA-1)
+Carcinoembryonic antigen
+CD22
+CD24
+CD44
+CD146
+CD164
+vteCluster of differentiation by lineageLymphoidB cell
+Pre-B cell: CD10/CALLA
+CD79A
+mature: CD19
+CD20
+CD21/CR2
+CD23/Fc RII
+CD127
+CD40
+plasma cell: CD38
+CD138
+T/NKT cell
+Pan-T antigens: CD3
+CD7
+CD1
+CD4
+CD8
+CD13
+CD18
+CD26
+CD27
+CD28
+NK cell
+CD16
+CD56/NCAM
+CD57
+All
+CD2
+All
+CD5
+MyeloidCFU-GM/Myelomonocyte
+CD11c
+CD14
+CD15
+CD31
+CD64
+CD68
+MEPCFU-Meg
+CD34/CD36
+CD42
+CD41/CD61
+CFU-E
+CD36
+CD71
+All (pan-myeloid)
+CD13
+CD33
+Stem cell
+CD34
+Retrieved from "https://en.wikipedia.org/w/index.php?title=CD31&oldid=1136408305"

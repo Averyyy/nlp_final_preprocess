@@ -1,0 +1,172 @@
+Segment of time corresponding to a specific number of beats
+For other uses, see Bar (disambiguation).
+ Types of bar lines
+In musical notation, a bar (or measure) is a segment of music bounded by vertical lines, known as barlines (or bar lines), usually indicating one of more recurring beats. The length of the bar, measured by the number of note values it contains, is normally indicated by the time signature.
+Types of Barlines[edit]
+A double bar line (or double bar) consists of two single bar lines drawn close together, separating two sections within a piece, or a bar line followed by a thicker bar line, indicating the end of a piece or movement. Note that double bar refers not to a type of bar (i.e., measure), but to a type of bar line. Another term for the bar line denoting the end of a piece of music is music end.[1] Typically, a double bar is used when followed by a new key signature, whether or not it marks the beginning of a new section.
+A repeat sign (or, repeat bar line[2]) looks like the music end, but it has two dots, one above the other, indicating that the section of music that is before is to be repeated. The beginning of the repeated passage can be marked by a begin-repeat sign; if this is absent, the repeat is understood to be from the beginning of the piece or movement. This begin-repeat sign, if appearing at the beginning of a staff, does not act as a bar line because no bar is before it; its only function is to indicate the beginning of the passage to be repeated.
+A mensurstrich is a barline which stretches only between staves of a score, not through each staff; this is a specialized notation used by editors of early music to help orient modern musicians when reading music which was originally written without barlines. Fifteen-bar multirestSome composers use dashed or dotted bar lines; others (including Hugo Distler) have placed bar lines at different places in the different parts to indicate different stress patterns from part to part.
+If many consecutive bars contain only rests, they may be replaced by a single bar containing a multirest, as shown at right. The number above shows the number of bars replaced.
+Bars and stresses[edit]
+Whether the music contains a regular meter or mixed meters, the first note in the bar (known as the downbeat) is usually stressed slightly in relation to the other notes in the bar. 
+Igor Stravinsky said of bar lines:
+The bar line is much, much more than a mere accent, and I don't believe that it can be simulated by an accent, at least not in my music.[3]
+Bars and bar lines also indicate grouping: rhythmically of beats within and between bars, within and between phrases, and on higher levels such as meter.
+Numbering bars[edit]
+The first metrically complete bar within a piece of music is called "bar 1" or "m. 1". When the piece begins with an anacrusis (an incomplete bar at the beginning of a piece of music), "bar 1" or "m. 1" is the following bar. Bars contained within first or second endings are numbered consecutively.
+History[edit]
+The earliest barlines, used in keyboard and vihuela music in the 15th and 16th centuries, didn't reflect a regular meter at all but were only section divisions, or in some cases marked off every beat.
+Barlines began to be introduced into ensemble music in the late 16th century but continued to be used irregularly. Not until the mid-17th century were barlines used in the modern style with every measure being the same length, and they began to be associated with time signatures.[4]
+Modern editions of early music that was originally notated without barlines sometimes use a mensurstrich as a compromise.
+Hypermeasure[edit]
+ Hypermeter: 4 beat measure, 4 measure hypermeasure, and 4 hypermeasure verses. Hyperbeats in red.
+A hypermeasure, large-scale or high-level measure, or measure-group is a metric unit in which, generally, each regular measure is one beat (actually hyperbeat) of a larger meter. Thus a beat is to a measure as a measure/hyperbeat is to a hypermeasure. Hypermeasures must be larger than a notated bar, perceived as a unit, consist of a pattern of strong and weak beats, and along with adjacent hypermeasures, which must be of the same length, create a sense of hypermeter. The term was coined by Edward T. Cone in Musical Form and Musical Performance (New York: Norton, 1968),[5] and is similar to the less formal notion of a phrase.
+See also[edit]
+Bar-line shift
+Tala (music)
+Wazn
+References[edit]
+^ "Dolmetsch Online - Chart of Musical Symbols". Archived from the original on 2007-02-08. Retrieved 2007-01-07.   Chart of Musical Symbols
+^ Nickol, Peter (2008). Learning to Read Music, p.105. ISBN 1-84528-278-7.
+^ Winold, Allen (1975). "Rhythm in Twentieth-Century Music", Aspects of Twentieth-Century Music. Wittlich, Gary (ed.). Englewood Cliffs, New Jersey: Prentice Hall. ISBN 0-13-049346-5.
+^ Harvard Dictionary of Music, Second ed. (1972), "Barline"
+^ Stein, Deborah (2005). Engaging Music: Essays in Music Analysis, p.18-19 and "Glossary", p.329. New York: Oxford University Press. ISBN 0-19-517010-5.
+Further reading[edit]
+Cone, Edward T. (1968). Musical Form and Musical Performance. ISBN 0-393-09767-6.
+vteMusical notationStaff
+8va
+15ma
+Abbreviation
+Bar / barline / measure
+Clef
+Da capo
+Dal segno
+Key signature
+Ledger line
+Mode
+Ossia
+Scale
+Rehearsal letter
+Repeat sign
+Tempo
+Time signature
+Transposition
+Transposing instrument
+Musical notes
+Accidental (flat
+natural
+sharp)
+Cue note
+Dotted note
+Grace note
+Note value (beam
+notehead
+stem)
+Pitch
+Rest
+Tacet
+Tuplet
+Tremolo
+Interval
+Helmholtz pitch notation
+Letter notation
+Scientific pitch notation
+Articulation
+Accent
+Caesura
+Damping
+Dynamics
+Fermata
+Fingering
+Legato
+Marcato
+Ornament (appoggiatura
+glissando
+grace note
+mordent
+slide
+trill)
+Portato
+Slur
+Staccato
+Tenuto
+Tie
+Tonguing
+Sheet music
+History of music publishing
+Music engraving
+Music publisher
+Scorewriter
+Alternative
+Braille music
+Chord chart
+ Chord diagram
+Eye music
+Figured bass
+Graphic notation
+Lead sheet
+Nashville Number System
+Numbered musical notation
+Klavarskribo
+Tablature ("Tab")
+Parsons
+Percussion notation
+Simplified
+Non-Westernand ancient
+Ancient Greek
+Chinese
+Ekphonetic
+Gamelan
+Kunkunshi
+Neume
+Swaralipi
+Shakuhachi
+Znamenny
+Related
+Mensural notation
+Music stand
+Perfect pitch
+Sight-reading
+Transcription
+ List of musical symbols
+ Category:Musical notation
+vteRhythm and meter
+Additive and divisive
+Anacrusis
+Bar
+Beat
+Canter rhythm
+Colotomy
+Counting
+Count off
+Cross-beat
+Duration
+Note value
+Gatra
+Groove
+Half-time
+Harmonic rhythm
+Hemiola
+Homorhythm
+Iqa'
+Isorhythm
+Metric modulation
+Non-retrogradable rhythm
+Notes in gales
+Note value
+Polyrhythm
+Prolation and tempus
+Prosody
+Pulse
+Rhythmic mode
+Stop-time
+Swing
+Syncopation
+Tala
+Tempo
+Time point
+Time signature
+Tuplet
+Authority control: National 
+Germany
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Bar_(music)&oldid=1146768254"

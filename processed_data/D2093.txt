@@ -1,0 +1,587 @@
+Process of learning a second language
+This article is about natural acquisition of a second language. For classroom learning, see Language education.
+Part of a series onLinguistics
+OutlineHistoryIndex
+General linguistics
+Diachronic
+Lexicography
+Morphology
+Phonology
+Pragmatics
+Semantics
+Syntax
+Syntax semantics interface
+Typology
+Applied linguistics
+Acquisition
+Anthropological
+Applied
+Computational
+Discourse analysis
+Documentation
+Forensic
+History of linguistics
+Neurolinguistics
+Philosophy of language
+Phonetics
+Psycholinguistics
+Sociolinguistics
+Text and corpus linguistics
+Translating and interpreting
+Writing systems
+Theoretical frameworks
+Formalist
+Glossematics
+Constituency
+Dependency
+Distributionalism
+Generative
+Functional
+Prague school
+Functional discourse grammar
+Cognitive
+Usage-based
+Systemic functional
+Structuralism
+Topics
+Autonomy of syntax
+Compositionality
+Conservative/innovative forms
+Descriptivism
+Etymology
+Iconicity
+Internet linguistics
+LGBT linguistics
+Origin of language
+Orthography
+Philosophy of linguistics
+Prescriptivism
+Second-language acquisition
+Theory of language
+ Portalvte
+Second-language acquisition (SLA), sometimes called second-language learning   otherwise referred to as L2 (language 2) acquisition, is the process by which people learn a second language. Second-language acquisition is also the scientific discipline devoted to studying that process. The field of second-language acquisition is regarded by some but not everybody as a sub-discipline of applied linguistics but also receives research attention from a variety of other disciplines, such as psychology and education.
+A central theme in SLA research is that of interlanguage: the idea that the language that learners use is not simply the result of differences between the languages that they already know and the language that they are learning, but a complete language system in its own right, with its own systematic rules. This interlanguage gradually develops as learners are exposed to the targeted language. The order in which learners acquire features of their new language stays remarkably constant, even for learners with different native languages and regardless of whether they have had language instruction. However, languages that learners already know can have a significant influence on the process of learning a new one. This influence is known as language transfer.
+The primary factor driving SLA appears to be the language input that learners receive. Learners become more advanced the longer they are immersed in the language they are learning and the more time they spend voluntarily reading. The input hypothesis developed by linguist Stephen Krashen theorizes that comprehensible input alone is necessary for second language acquisition. Krashen makes a distinction between language acquisition and language learning (the acquisition learning distinction),[1] claiming that acquisition is a subconscious process, whereas learning is a conscious one. According to this hypothesis, the acquisition process in L2 (Language 2) is the same as L1 (Language 1) acquisition. Learning, on the other hand, refers to conscious learning and analysis of the language being learned.[2] Krashen argues that consciously learned language rules play a limited role in language use, serving as a monitor that could check second language output for form   assuming the learner has time, sufficient knowledge, and inclination (the monitor hypothesis). Subsequent work, by other researchers, on the interaction hypothesis and the comprehensible output hypothesis, has suggested that opportunities for output and interaction may also be necessary for learners to reach more advanced levels.
+Research on how exactly learners acquire a new language spans several different areas. Focus is directed toward providing proof of whether basic linguistic skills are innate (nature), acquired (nurture), or a combination of the two attributes. Cognitive approaches to SLA research deal with the processes in the brain that underpin language acquisition, for example how paying attention to language affects the ability to learn it, or how language acquisition is related to short-term memory and long-term memory. Sociocultural approaches reject the notion that SLA is a purely psychological phenomenon and attempt to explain it in a social context. Some key social factors that influence SLA are the level of immersion, connection to the L2 community, and gender. Linguistic approaches consider language separately from other kinds of knowledge and attempt to use findings from the wider study of linguistics to explain SLA. There is also a considerable body of research about how SLA can be affected by individual factors such as age and learning strategies. A commonly discussed topic regarding age in SLA is the critical period hypothesis, which suggests that individuals lose the ability to fully learn a language after a particular age in childhood. Another topic of interest in SLA is the differences between adult and child learners. Learning strategies are commonly categorized as learning or communicative strategies and are developed to improve their respective acquisition skills. Affective factors are emotional factors that influence an individual's ability to learn a new language. Common affective factors that influence acquisition are anxiety, personality, social attitudes, and motivation. In the domain of personality, introversion and extroversion in particular can affect learning.
+Individuals may also lose a language through a process called second-language attrition. This is often caused by a lack of use or exposure to a language over time. The severity of attrition depends on a variety of factors including level of proficiency, age, social factors, and motivation at the time of acquisition. Finally, classroom research deals with the effect that language instruction has on acquisition.
+Definitions[edit]
+Second language refers to any language learned in addition to a person's first language; although the concept is named second-language acquisition, it can also incorporate the learning of third, fourth, or subsequent languages.[3] Second-language acquisition refers to what learners do; it does not refer to practices in language teaching, although teaching can affect acquisition. The term acquisition was originally used to emphasize the non-conscious nature of the learning process,[note 1] but in recent years learning and acquisition have become largely synonymous.
+SLA can incorporate heritage language learning,[4] but it does not usually incorporate bilingualism. Most SLA researchers see bilingualism as being the result of learning a language, not the process itself, and see the term as referring to native-like fluency. Writers in fields such as education and psychology, however, often use bilingualism loosely to refer to all forms of multilingualism.[5] SLA is also not to be contrasted with the acquisition of a foreign language; rather, the learning of second languages and the learning of foreign languages involve the same fundamental processes in different situations.[6]
+Research background[edit]
+The academic discipline of second-language acquisition is a sub-discipline of applied linguistics. It is broad-based and relatively new. As well as the various branches of linguistics, second-language acquisition is also closely related to psychology and education. To separate the academic discipline from the learning process itself, the terms second-language acquisition research, second-language studies, and second-language acquisition studies are also used.
+SLA research began as an interdisciplinary field; because of this, it is difficult to identify a precise starting date.[7] However, two papers in particular are seen as instrumental to the development of the modern study of SLA: Pit Corder's 1967 essay The Significance of Learners' Errors and Larry Selinker's 1972 article Interlanguage.[8] The field saw a great deal of development in the following decades.[7] Since the 1980s, SLA has been studied from a variety of disciplinary perspectives, and theoretical perspectives. In the early 2000s, some research suggested an equivalence between the acquisition of human languages and that of computer languages (e.g. Java) by children in the 5 to 11 year age window, though this has not been widely accepted amongst educators.[9]  Significant approaches in the field today are systemic functional linguistics, sociocultural theory, cognitive linguistics, Noam Chomsky's universal grammar, skill acquisition theory and connectionism.[8]
+There has been much debate about exactly how language is learned and many issues are still unresolved. There are many theories of second-language acquisition, but none are accepted as a complete explanation by all SLA researchers. Due to the interdisciplinary nature of the field of SLA, this is not expected to happen in the foreseeable future. Although attempts have been made to provide a more unified account that tries to bridge first language acquisition and second language learning research.[10]
+Stages[edit]
+Krashen stages[edit]
+Stephen Krashen divides the process of second-language acquisition into five stages: preproduction, early production, speech emergence, intermediate fluency, and advanced fluency.[11][12] The first stage, preproduction, is also known as the silent period. Learners at this stage have a receptive vocabulary of up to 500 words, but they do not yet speak their second language.[12] Not all learners go through a silent period. Some learners start speaking straight away, although their output may consist of imitation rather than creative language use. Others may be required to speak from the start as part of a language course. For learners that do go through a silent period, it may last around three to six months.[13]
+The second of Krashen's stages of acquisition is early production, during which learners can speak in short phrases of one or two words. They can also memorize chunks of language, although they may make mistakes when using them. Learners typically have both an active and receptive vocabulary of around 1000 words. This stage normally lasts for around six months.[12]
+The third stage is speech emergence. Learners' vocabularies increase to around 3000 words during this stage, and they can communicate using simple questions and phrases. They may often make grammatical errors.
+The fourth stage is intermediate fluency. At this stage, learners have a vocabulary of around 6000 words and can use more complicated sentence structures. They are also able to share their thoughts and opinions. Learners may make frequent errors with more complicated sentence structures.
+The final stage is advanced fluency, which is typically reached somewhere between five and ten years of learning the language. Learners at this stage can function at a level close to native speakers.[12]
+Krashen has also developed several hypotheses discussing the nature of second language learners' thought processes and the development of self-awareness during second language acquisition. The most prominent of these hypotheses are Monitor Theory and the Affective Filter hypothesis.[14]
+Kleine and Perdue stages[edit]
+From the early 1980s, a large research project into SLA was carried over at the Max Planck Institute for Psycholinguistics, headed by Wolfgang Klein and coordinated by Clive Perdue, which studied Second Language Acquisition by Adult Immigrants coming into Europe. The results, published in the early 1990s, proposed that second language acquisition proceeds along three stages: pre-basic variety (or nominal utterance organisation), basic variety (or infinite utterance organisation), and post-basic variety (or finite utterance organisation).[15][16][17][18]
+The pre-basic stage is usually very short, with a small lexicon of nouns and no verbs. The basic stage sees the introduction of verbs in their basic form not marked for finiteness (like participles). In the third stage functional morphology starts to appear, with the flection of nouns and verbs[19][20][18]
+Language difficulty and learning time[edit]
+The time taken to reach a high level of proficiency can vary depending on the language learned. In the case of native English speakers, some estimates were provided by the Foreign Service Institute (FSI) of the U.S. Department of State   which compiled approximate learning expectations for several languages for their professional staff (native English speakers who generally already know other languages).[21] Category I Languages include e.g. Italian and Swedish (24 weeks or 600 class hours) and French (30 weeks or 750 class hours). Category II Languages include German, Haitian Creole, Indonesian, Malay, and Swahili (approx. 36 weeks or 900 class hours). Category III Languages include a lot of languages like Finnish, Polish, Russian, Tagalog, Vietnamese, and many others (approx. 44 weeks, 1100 class hours).
+Of the 63 languages analyzed, the five most difficult languages to reach proficiency in speaking and reading, requiring 88 weeks (2200 class hours, Category IV Languages), are Arabic, Cantonese, Mandarin, Japanese, and Korean. The Foreign Service Institute and the National Virtual Translation Center both note that Japanese is typically more difficult to learn than other languages in this group.[22]
+There are other rankings of language difficulty as the one by The British Foreign Office Diplomatic Service Language Centre which lists the difficult languages in Class I
+(Cantonese, Japanese, Korean, Mandarin); the easier languages are in Class V (e.g. Afrikaans, Bislama, Catalan, French, Spanish, Swedish).[23]
+The bottleneck hypothesis[edit]
+The bottleneck hypothesis strives to identify components of grammar that are easier or more difficult to acquire than others. It argues that functional morphology is the bottleneck of language acquisition, meaning that it is more difficult than other linguistic domains such as syntax, semantics, and phonology because it combines syntactic, semantic, and phonological features that affect the meaning of a sentence.[24] For example, knowledge of the formation of the past tense in English requires both phonological patterns such as allomorphs at the end of the verb and irregular verb forms. Article acquisition is also difficult for L1 speakers of languages without articles, such as Korean and Russian. One study compared learner judgments of a syntactic feature, V2, and a morphological property, subject-verb agreement, using an acceptability judgment task. Researchers found that while Norwegian speakers who are intermediate and advanced learners of English could successfully assess the grammaticality of V2, they had significantly more difficulty with subject-verb agreement, which is predicted by the bottleneck hypothesis.[25]
+Cognitive and scientific reasons for the importance of this theory aside, the bottleneck hypothesis can also be of practical benefit as educators can maximize their time and focus on difficult problems in SLA classroom settings rather than placing attention on concepts that can be grasped with relative ease.
+The cumulative effects hypothesis[edit]
+This hypothesis claims that second-language acquisition may impose extra difficulties on children with specific language impairment (SLI), whose language delay extends into their school years due to deficits in verbal memory and processing mechanisms in comparison to children with typical development (TD). Existing research on individuals with SLI and bilingualism has been limited and thus there is a need for data showing how to support bilingual development in children with SLI.  Cumulative  refers to the combination of the effects of both internal deficits in language learning and external complications in input and experience caused by bilingualism, which could in turn overwhelm the learner with SLI. The theory predicts that bilingual children with SLI will be disadvantaged, falling behind both their monolingual peers with SLI and bilingual peers with TD. Paradis' longitudinal study examined the acquisition of tense morphology over time in children with SLI who are learning English as a second language.[26] The study found that the acquisition profile for children with SLI is similar to those reported for monolinguals with SLI and TD, showing inconsistencies with CEH. This has provided evidence that SLA will not negatively harm children with SLI and could be beneficial.
+Comparisons with first-language acquisition[edit]
+Adults who learn a second language differ from children learning their first language in at least three ways: children are still developing their brains whereas adults have mature minds, and adults have at least a first language that orients their thinking and speaking. Although some adult second-language learners reach very high levels of proficiency, pronunciation tends to be non-native. This lack of native pronunciation in adult learners is explained by the critical period hypothesis. When a learner's speech plateaus, it is known as fossilization.
+Some errors that second-language learners make in their speech originate in their first language. For example, Spanish speakers learning English may say "Is raining" rather than "It is raining", leaving out the subject of the sentence. This kind of influence of the first language on the second is known as negative language transfer. French speakers learning English, however, do not usually make the same mistake of leaving out "it" in "It is raining." This is because pronominal and impersonal sentence subjects can be omitted (or as in this case, are not used in the first place) in Spanish but not in French.[27] The French speaker knowing to use a pronominal sentence subject when speaking English is an example of positive language transfer. Not all errors occur in the same ways; even two individuals with the same native language learning the same second language still have the potential to utilize different parts of their native language. Likewise, these same two individuals may develop near-native fluency in different forms of grammar.[28] Another error that can occur is called language convergence. This can occur for children acquiring a second language. The grammar structures or common grammatical patterns of one language may influence another. In a study, Singaporean elementary school students who were learning both English and Mandarin showed signs of language convergence. In this study, these students showed a preference for using grammatical patterns common in Mandarin when speaking English.[29] Language convergence occurs because the children are not only acquiring the grammar of the new language but still developing the grammar of their native language, so the two grammars converge.
+Also, when people learn a second language, the way they speak their first language changes in subtle ways. These changes can be with any aspect of language, from pronunciation and syntax to the gestures the learner makes and the language features they tend to notice.[30] For example, French speakers who spoke English as a second language pronounced the /t/ sound in French differently from monolingual French speakers.[31] This kind of change in pronunciation has been found even at the onset of second-language acquisition; for example, English speakers pronounced the English /p t k/ sounds, as well as English vowels, differently after they began to learn Korean.[32] These effects of the second language on the first led Vivian Cook to propose the idea of multi-competence, which sees the different languages a person speaks not as separate systems, but as related systems in their mind.[33]
+Learner language[edit]
+Learner language is the written or spoken language produced by a learner. It is also the main type of data used in second-language acquisition research.[34] Much research in second-language acquisition is concerned with the internal representation of a language in the mind of the learner, and how those representations change over time. It is not yet possible to inspect these representations directly with brain scans or similar techniques, so SLA researchers are forced to make inferences about these rules from learners' speech or writing.[35]
+Interlanguage[edit]
+Main article: Interlanguage
+Originally, attempts to describe learner language were based on comparing different languages and on analyzing learners' errors. However, these approaches were unable to predict all the errors that learners made when in the process of learning a second language. For example, Serbo-Croat speakers learning English may say "What does Pat doing now?", although this is not a valid sentence in either language.[36] Additionally, Yip found that ergative verbs in English are regularly mis-passivized by L2 learners of English whose first language is Mandarin.[37] For instance, even advanced learners may form utterances such as "what was happened?" despite the fact that this construction has no obvious source in either L1 or L2. This could be because L2 speakers interpret ergatives as transitive, as these are the only types of verbs that allow passivization in English.
+To explain this kind of systematic error, the idea of the interlanguage was developed.[38] An interlanguage is an emerging language system in the mind of a second-language learner. A learner's interlanguage is not a deficient version of the language being learned filled with random errors, nor is it a language purely based on errors introduced from the learner's first language. Rather, it is a language in its own right, with its own systematic rules.[39] It is possible to view most aspects of language from an interlanguage perspective, including grammar, phonology, lexicon, and pragmatics.
+Three different processes influence the creation of interlanguages:[36]
+Language transfer. Learners fall back on their mother tongue to help create their language system. Transfer can be positive, i.e. promote learning, or negative, i.e. lead to mistakes. In the latter case, linguists also use the term interference error.
+Overgeneralization. Learners use rules from the second language in roughly the same way that children overgeneralize in their first language. For example, a learner may say "I goed home", overgeneralizing the English rule of adding -ed to create past tense verb forms. English children also produce forms like goed, sticked, and bringed. German children equally overextend regular past tense forms to irregular forms.
+Simplification. Learners use a highly simplified form of language, similar to speech by children or in pidgins. This may be related to linguistic universals.
+The concept of interlanguage has become very widespread in SLA research and is often a basic assumption made by researchers.[39]
+ Sequences in the acquisition of English inflectional morphology[edit]
+1.
+Plural -s
+Girls go.
+2.
+Progressive -ing
+Girls going.
+3.
+Copula forms of be
+Girls are here.
+4.
+Auxiliary forms of be
+Girls are going.
+5.
+Definite and indefinite articles the and a
+The girls go.
+6.
+Irregular past tense
+The girls went.
+7.
+Third person -s
+The girl goes.
+8.
+Possessive 's
+The girl's book.
+A typical order of acquisition for English, according to Vivian Cook's 2008 book Second Language Learning and Language Teaching.[40]
+Main article: Order of acquisition
+In the 1970s, several studies investigated the order in which learners acquired different grammatical structures.[note 2]  These studies showed that there was little change in this order among learners with different first languages. Furthermore, it showed that the order was the same for adults and children and that it did not even change if the learner had language lessons. This supported the idea that there were factors other than language transfer involved in learning second languages and was a strong confirmation of the concept of interlanguage.
+However, the studies did not find that the orders were the same. Although there were remarkable similarities in the order in which all learners learned second-language grammar, there were still some differences between individuals and learners with different first languages. It is also difficult to tell when exactly a grammatical structure has been learned, as learners may use structures correctly in some situations but not in others. Thus it is more accurate to speak of sequences of acquisition, in which specific grammatical features in a language are acquired before or after certain others but the overall order of acquisition is less rigid.  For example, if neither feature B nor feature D can be acquired until feature A has been acquired (feature B and D depend on A) and feature C depends on B, but D does not depend on B (or, therefore, on C), then acquisition orders (A, B, C, D) and (A, D, B, C) are possible, as they are both valid topological orderings.
+Learnability and teachability[edit]
+Learnability has emerged as a theory explaining developmental sequences that crucially depend on learning principles, which are viewed as fundamental mechanisms of language acquisition within learnability theory.[41] Some examples of learning principles include the uniqueness principle and the subset principle. The uniqueness principle refers to learners' preference for a one-to-one mapping between form and meaning, while the subset principle posits that learners are conservative in that they begin with the narrowest hypothesis space that is compatible with available data. Both of these principles have been used to explain children's ability to evaluate grammaticality despite the lack of explicit negative evidence. They have also been used to explain errors in SLA, as the creation of supersets could signal over-generalization, causing acceptance or production of ungrammatical sentences.[37]
+Pienemann's teachability hypothesis is based on the idea that there is a hierarchy of stages of acquisition and instruction in SLA should be compatible with learners' current acquisitional status.[42] Recognizing learners' developmental stages is important as it enables teachers to predict and classify learning errors. This hypothesis predicts that L2 acquisition can only be promoted when learners are ready to acquire given items in a natural context. One goal of learnability theory is to figure out which linguistic phenomena are susceptible to fossilization, wherein some L2 learners continue to make errors despite the presence of relevant input.
+Variability[edit]
+Although second-language acquisition proceeds in discrete sequences, it does not progress from one step of a sequence to the next in an orderly fashion. There can be considerable variability in features of learners' interlanguage while progressing from one stage to the next.[43] For example, in one study by Rod Ellis, a learner used both "No look my card" and "Don't look my card" while playing a game of bingo.[44] A small fraction of variation in interlanguage is free variation, when the learner uses two forms interchangeably. However, most variation is systemic variation, a variation that depends on the context of utterances the learner makes.[43] Forms can vary depending on the linguistic context, such as whether the subject of a sentence is a pronoun or a noun; they can vary depending on social contexts, such as using formal expressions with superiors and informal expressions with friends; and also, they can vary depending on the psycholinguistic context, or in other words, on whether learners have the chance to plan what they are going to say.[43] The causes of variability are a matter of great debate among SLA researchers.[44]
+Language transfer[edit]
+Main articles: Language transfer and Crosslinguistic influence
+One important difference between first-language acquisition and second-language acquisition is that the process of second-language acquisition is influenced by languages that the learner already knows. This influence is known as language transfer.[note 3] Language transfer is a complex phenomenon resulting from the interaction between learners  prior linguistic knowledge, the target-language input they encounter, and their cognitive processes.[45] Language transfer is not always from the learner s native language; it can also be from a second language or a third.[45] Neither is it limited to any particular domain of language; language transfer can occur in grammar, pronunciation, vocabulary, discourse, and reading.[46]
+Language transfer often occurs when learners sense a similarity between a feature of a language they already know and a feature of the interlanguage they have developed. If this happens, the acquisition of more complicated language forms may be delayed in favor of simpler language forms that resemble those of the language the learner is familiar with.[45] Learners may also decline to use some language forms at all if they are perceived as being too distant from their first language.[45]
+Language transfer has been the subject of several studies, and many aspects of it remain unexplained.[45] Various hypotheses have been proposed to explain language transfer, but there is no single widely accepted explanation of why it occurs.[47]
+Some linguists prefer to use cross-linguistic influence to describe this phenomenon. Studies on bilingual children find bidirectional cross-linguistic influence; for example, Nicoladis (2012) reported that bilingual children aged three to four produce French-like periphrastic constructions e.g. "the hat of the dog" and ungrammatical English-like reversed possessive structures e.g. "chien chapeau" (dog hat) significantly more than their monolingual peers.[48] Though periphrastic constructions are expected as they are grammatical in both English and French, reversed possessives in French are ungrammatical and thus unexpected.
+In a study exploring cross-linguistic influence in word order by comparing Dutch-English bilingual and English monolingual children, Unsworth found that bilingual children were more likely to accept incorrect V2 word orders in English than monolinguals with both auxiliary and main verbs. Dominance was a predictor of this phenomenon; Dutch-dominant children showed less sensitivity to word order than English-dominant ones, though this effect was small and there was individual variation.[49]
+Language dominance[edit]
+The term language dominance can be defined in terms of differences in frequency of use and differences in proficiency in bilinguals.[50] How basic or advanced a speaker's L2 level will be is determined by a complex range of environmental, individual and other factors. Language dominance may change over time through the process of language attrition, in which some L2 skills begin to match or even overtake those of L1.[51] Research suggests a correlation between amount of language exposure and cross-linguistic influence; language dominance is considered to have an impact on the direction of transfer.[50][52] One study found that transfer is asymmetrical and predicted by dominance, as Cantonese dominant children showed clear syntactic transfer in many areas of grammar from Cantonese to English but not vice versa.[50] MLU, mean length of utterance, is a common measurement of linguistic productivity and language dominance in children.
+Input and interaction[edit]
+The primary factor affecting language acquisition appears to be the input that the learner receives. Stephen Krashen took a very strong position on the importance of input, asserting that comprehensible input is all that is necessary for second-language acquisition.[53][54] Krashen pointed to studies showing that the length of time a person stays in a foreign country is closely linked with their level of language acquisition. Further evidence for input comes from studies on reading: large amounts of free voluntary reading have a significant positive effect on learners' vocabulary, grammar, and writing.[55][56] Input is also the mechanism by which people learn languages according to the universal grammar model.[57]
+The type of input may also be important. One tenet of Krashen's theory is that input should not be grammatically sequenced. He claims that such sequencing, as found in language classrooms where lessons involve practicing a "structure of the day", is not necessary, and may even be harmful.[58]
+While input is of vital importance, Krashen's assertion that only input matters in second-language acquisition has been contradicted by more recent research. For example, students enrolled in French-language immersion programs in Canada still produced non-native-like grammar when they spoke, even though they had years of meaning-focused lessons and their listening skills were statistically native-level.[59] Output appears to play an important role, and among other things, can help provide learners with feedback, make them concentrate on the form of what they are saying, and help them to automatize their language knowledge.[60] These processes have been codified in the theory of comprehensible output.[61]
+Researchers have also pointed to interaction in the second language as being important for acquisition. According to Long's interaction hypothesis the conditions for acquisition are especially good when interacting in the second language; specifically, conditions are good when a communication breakdown occurs and learners must negotiate for meaning. The modifications to speech arising from interactions like this help make input more comprehensible, provide feedback to the learner, and push learners to modify their speech.[62]
+Factors and approaches to SLA[edit]
+Cognitive factors[edit]
+Much modern research in second-language acquisition has taken a cognitive approach.[63] Cognitive research is concerned with the mental processes involved in language acquisition, and how they can explain the nature of learners' language knowledge. This area of research is based in the more general area of cognitive science and uses many concepts and models used in more general cognitive theories of learning. As such, cognitive theories view second-language acquisition as a special case of more general learning mechanisms in the brain. This puts them in direct contrast with linguistic theories, which posit that language acquisition uses a unique process different from other types of learning.[64][65]
+The dominant model in cognitive approaches to second-language acquisition, and indeed in all second-language acquisition research, is the computational model.[65] The computational model involves three stages. In the first stage, learners retain certain features of the language input in short-term memory. (This retained input is known as intake.) Then, learners convert some of this intake into second-language knowledge, which is stored in long-term memory. Finally, learners use this second-language knowledge to produce spoken output.[66] Cognitive theories attempt to codify both the nature of the mental representations of intake and language knowledge and the mental processes that underlie these stages.
+In the early days of second-language acquisition research on interlanguage was seen as the basic representation of second-language knowledge; however, more recent research has taken several different approaches in characterizing the mental representation of language knowledge.[67] Some theories hypothesize that learner language is inherently variable,[68] and there is the functionalist perspective that sees the acquisition of language as intimately tied to the function it provides.[69] Some researchers make the distinction between implicit and explicit language knowledge, and some between declarative and procedural language knowledge.[70] There have also been approaches that argue for a dual-mode system in which some language knowledge is stored as rules and other language knowledge as items.[71]
+The mental processes that underlie second-language acquisition can be broken down into micro-processes and macro-processes. Micro-processes include attention;[72] working memory;[73] integration and restructuring. Restructuring is the process by which learners change their interlanguage systems;[74] and monitoring is the conscious attending of learners to their own language output.[75] Macro-processes include the distinction between intentional learning and incidental learning; and also the distinction between explicit and implicit learning.[76] Some of the notable cognitive theories of second-language acquisition include the nativization model, the multidimensional model[77] and processability theory, emergentist models, the competition model, and skill-acquisition theories.[78]
+Other cognitive approaches have looked at learners' speech production, particularly learners' speech planning and communication strategies. Speech planning can affect learners' spoken output, and research in this area has focused on how planning affects three aspects of speech: complexity, accuracy, and fluency. Of these three, planning effects on fluency have had the most research attention.[79] Communication strategies are conscious strategies that learners employ to get around any instances of communication breakdown they may experience. Their effect on second-language acquisition is unclear, with some researchers claiming they help it, and others claiming the opposite.[80]
+An important idea in recent cognitive approaches is the way that learning itself changes over development.  For example, connectionist models that explain L1 language phenomena in different languages (e.g., Japanese, English [81]) can also be used to develop L2 models by first training on the L1 (e.g., Korean) and then training on the L2 (e.g. English).[82]  By using different learning rates for syntax and lexical learning that change over development, the model can explain sensitive period effects and differences in the effect of language exposure on different types of learners.
+Sociocultural factors[edit]
+From the early days of the discipline, researchers have also acknowledged that social aspects play an important role.[83] There have been many different approaches to the sociolinguistic study of second-language acquisition, and indeed, according to Rod Ellis, this plurality has meant that "sociolinguistic SLA is replete with a bewildering set of terms referring to the social aspects of L2 acquisition".[84] Common to each of these approaches, however, is a rejection of language as a purely psychological phenomenon; instead, sociolinguistic research views the social context in which language is learned as essential for a proper understanding of the acquisition process.[85]
+Ellis identifies three types of social structures that affect the acquisition of second languages: sociolinguistic setting, specific social factors, and situational factors.[86] Sociolinguistic setting refers to the role of the second language in society, such as whether it is spoken by a majority or a minority of the population, whether its use is widespread or restricted to a few functional roles, or whether the society is predominantly bilingual or monolingual.[87] Ellis also includes the distinction of whether the second language is learned in a natural or an educational setting.[88] Specific social factors that can affect second-language acquisition include age, gender, social class, and ethnic identity, with ethnic identity being the one that has received most research attention.[89] Situational factors are those that vary between each social interaction. For example, a learner may use more polite language when talking to someone of higher social status, but more informal language when talking with friends.[90]
+Immersion programs provide a sociolinguistic setting that facilitates second-language acquisition. Immersion programs are educational programs where children are instructed in an L2 language.[91] Although the language of instruction is the L2 language, the curriculum parallels that of non-immersion programs and clear support exists in the L1 language, as the teachers are all bilingual. The goal of these programs is to develop a high level of proficiency in both the L1 and L2 languages. Students in immersion programs have been shown to have greater levels of proficiency in their second language than students who receive second language education only as a subject in school.[91] This is especially true in terms of their receptive skills. Also, students who join immersion programs earlier generally have greater second-language proficiency than their peers who join later. However, students who join later have been shown to gain native-like proficiency. Although immersion students' receptive skills are especially strong, their productive skills may suffer if they spend the majority of their time listening to instruction only. Grammatical skills and the ability to have precise vocabulary are particular areas of struggle. It is argued that immersion is necessary, but not sufficient for the development of native-like proficiency in a second language.[91] Opportunities to engage in sustained conversation, and assignments that encourage syntactical, as well as semantic development help develop the productive skills necessary for bilingual proficiency.[91]
+A learner's sense of connection to their in-group, as well as to the community of the target language emphasizes the influence of the sociolinguistic setting, as well as social factors within the second-language acquisition process. Social Identity Theory argues that an important factor for second language acquisition is the learner's perceived identity to the community of the language being learned, as well as how the community of the target language perceives the learner.[92] Whether or not a learner feels a sense of connection to the community or culture of the target language helps determine their social distance from the target culture. A smaller social distance is likely to encourage learners to acquire the second language, as their investment in the learning process is greater. Conversely, a greater social distance discourages attempts to acquire the target language. However, negative views not only come from the learner, but the community of the target language might feel greater social distance from the learner, limiting the learner's ability to learn the language.[92] Whether or not bilingualism is valued by the culture or community of the learner is an important indicator of the motivation to learn a language.[93]
+Gender, as a social factor, also influences SLA. Females have been found to have higher motivation and more positive attitudes than males for second-language acquisition. However, females are also more likely to present higher levels of anxiety, which may inhibit their ability to efficiently learn a new language.[94]
+There have been several models developed to explain social effects on language acquisition. Schumann's Acculturation Model proposes that learners' rate of development and ultimate level of language achievement is a function of the "social distance" and the "psychological distance" between learners and the second-language community. In Schumann's model, the social factors are most important, but the degree to which learners are comfortable with learning the second language also plays a role.[95] Another sociolinguistic model is Gardner's socio-educational model, which was designed to explain classroom language acquisition. Gardner's model focuses on the emotional aspects of SLA, arguing that positive motivation contributes to an individual's willingness to learn L2; furthermore, the goal of an individual to learn an L2 is based on the idea that the individual has a desire to be part of a culture, in other words, part of a (the targeted language) mono-linguistic community. Factors, such as integrativeness and attitudes towards the learning situation drive motivation. The outcome of positive motivation is not only linguistic but non-linguistic, such that the learner has met the desired goal. Although there are many critics of Gardner's model, nonetheless many of these critics have been influenced by the merits that his model holds.[96] [97] The inter-group model proposes "ethnolinguistic vitality" as a key construct for second-language acquisition.[98] Language socialization is an approach with the premise that "linguistic and cultural knowledge are constructed through each other",[99] and saw increased attention after the year 2000.[100] Finally, Norton's theory of social identity is an attempt to codify the relationship between power, identity, and language acquisition.[101]
+A unique approach to SLA is Sociocultural theory. It was originally developed by Lev Vygotsky and his followers.[102]  Central to Vygotsky's theory is the concept of a zone of proximal development (ZPD). The ZPD notion states that social interaction with more advanced target language users allows one to learn a language at a higher level than if they were to learn a language independently.[103] Sociocultural theory has a fundamentally different set of assumptions to approaches to second-language acquisition based on the computational model.[104] Furthermore, although it is closely affiliated with other social approaches, it is a theory of mind and not of general social explanation of language acquisition. According to Ellis, "It is important to recognize... that this paradigm, despite the label 'sociocultural' does not seek to explain how learners acquire the cultural values of the L2 but rather how knowledge of an L2 is internalized through experiences of a sociocultural nature."[104]
+Linguistic factors[edit]
+Linguistic approaches to explaining second-language acquisition spring from the wider study of linguistics. They differ from cognitive approaches and sociocultural approaches in that they consider linguistic knowledge to be unique and distinct from any other type of knowledge.[64][65] The linguistic research tradition in second-language acquisition has developed in relative isolation from the cognitive and sociocultural research traditions, and as of 2010 the influence from the wider field of linguistics was still strong.[63] Two main strands of research can be identified in the linguistic tradition: generative approaches informed by universal grammar, and typological approaches.[105]
+Typological universals are principles that hold for all the world's languages. They are found empirically, by surveying different languages and deducing which aspects of them could be universal; these aspects are then checked against other languages to verify the findings. The interlanguages of second-language learners have been shown to obey typological universals, and some researchers have suggested that typological universals may constrain interlanguage development.[106]
+The theory of universal grammar was proposed by Noam Chomsky in the 1950s and has enjoyed considerable popularity in the field of linguistics. It focuses on describing the linguistic competence of an individual. He believed that children not only acquire language by learning descriptive rules of grammar; he claimed that children creatively play and form words as they learn language, creating meaning of these words, as opposed to the mechanism of memorizing language.[107] It consists of a set of principles, which are universal and constant, and a set of parameters, which can be set differently for different languages.[108] The "universals" in universal grammar differ from typological universals in that they are a mental construct derived by researchers, whereas typological universals are readily verifiable by data from world languages.[106] It is widely accepted among researchers in the universal grammar framework that all first-language learners have access to universal grammar; this is not the case for second-language learners, however, and much research in the context of second-language acquisition has focused on what level of access learners may have.[108] there is an ongoing debate among generative linguists surrounding whether L2 users have full or partial access to universal grammar. This can be seen through acceptability judgment tests. For example, one study found that during a comprehension task, while English L1 speakers learning Spanish may accept the imperfect aspect in appropriate conditions, even at higher levels of proficiency, they do not reject the use of the Preterite tense in continuous and habitual contexts.[109]
+Universal grammar theory can account for some of the observations of SLA research. For example, L2 users often display knowledge about their L2 that they have not been exposed to.[110] L2 users are often aware of ambiguous or ungrammatical L2 units that they have not learned from any external source, nor their pre-existing L1 knowledge. This unsourced knowledge suggests the existence of a universal grammar. Another piece of evidence that generative linguists tend to use is the poverty of the stimulus, which states that children acquiring language lack sufficient data to fully acquire all facets of grammar in their language, causing a mismatch between input and output.[111] The fact that children are only exposed to positive evidence yet have intuition about which word strings are ungrammatical may also be indicative of universal grammar. However, L2 learners have access to negative evidence as they are explicitly taught about ungrammaticality through corrections or grammar teaching.[111]
+Individual variation[edit]
+Main article: Individual variation in second-language acquisition
+There is considerable variation in the rate at which people learn second languages, and in the language level that they ultimately reach. Some learners learn quickly and reach a near-native level of competence, but others learn slowly and get stuck at relatively early stages of acquisition, despite living in the country where the language is spoken for several years. The reason for this disparity was first addressed with the study of language learning aptitude in the 1950s, and later with the good language learner studies in the 1970s. More recently research has focused on several different factors that affect individuals' language learning, in particular strategy use, social and societal influences, personality, motivation, and anxiety. The relationship between age and the ability to learn languages has also been a subject of long-standing debate.
+Age[edit]
+The issue of age was first addressed with the critical period hypothesis.[note 4] The strict version of this hypothesis states that there is a cut-off age at about 12, after which learners lose the ability to fully learn a language. However, the exact age marking the end of the critical period is debated, and ranges from age 6 to 13, with many arguing that it is around the onset of puberty.[92] This strict version has since been rejected for second-language acquisition, as some adult and adolescent learners have been observed who reach native-like levels of pronunciation and general fluency faster than young children. However, in general, adolescent and adult learners of a second language rarely achieve the native-like fluency that children who acquire both languages from birth display, despite often progressing faster in the initial stages. This has led to speculation that age is indirectly related to other, more central factors that affect language learning.
+Children who acquire two languages from birth are called simultaneous bilinguals. In these cases, both languages are spoken to the children by their parents or caregivers and they grow up knowing the two languages. These children generally reach linguistic milestones at the same time as their monolingual peers.[112] Children who do not learn two languages from infancy, but learn one language from birth, and another at some point during childhood, are referred to as sequential bilinguals. People often assume that a sequential bilingual's first language is their most proficient language, but this is not always the case. Over time and experience, a child's second language may become his or her strongest.[112] This is especially likely to happen if a child's first language is a minority language spoken at home, and the child's second language is the majority language learned at school or in the community before the age of five. Proficiency for both simultaneous and sequential bilinguals is dependent upon the child's opportunities to engage in meaningful conversations in a variety of contexts.[112]
+Often simultaneous bilinguals are more proficient in their languages than sequential bilinguals. One argument for this is that simultaneous bilinguals develop more distinct representations of their languages, especially with regards to phonological and semantic levels of processing.[113] This would cause learners to have more differentiation between the languages, leading them to be able to recognize the subtle differences between the languages that less proficient learners would struggle to recognize. Learning a language earlier in life would help develop these distinct representations of language, as the learner's first language would be less established. Conversely, learning a language later in life would lead to more similar semantic representations.[113]
+Although child learners more often acquire native-like proficiency, older child and adult learners often progress faster in the initial stages of learning.[114] Older child and adult learners are quicker at acquiring the initial grammar knowledge than child learners, however, with enough time and exposure to the language, children surpass their older peers. Once surpassed, older learners often display clear language deficiencies compared to child learners. This has been attributed to having a solid grasp of the first language or mother tongue they were first immersed into. Having this cognitive ability already developed can aid the process of learning a second language since there is a better understanding of how language works.[115] For this same reason interaction with family and further development of the first language is encouraged along with positive reinforcement. The exact language deficiencies that occur past a certain age are not unanimously agreed upon. Some believe that only pronunciation is affected, while others believe other abilities are affected as well. However, some differences that are generally agreed upon include older learners having a noticeable accent, a smaller vocabulary, and making several linguistic errors.
+One explanation for this difference in proficiency between older learners and younger learners involves Universal Grammar. Universal Grammar is a debated theory that suggests that people have an innate knowledge of universal linguistic principles that is present from birth.[114] These principles guide children as they learn a language, but its parameters vary from language to language.[116] The theory assumes that, while Universal Grammar remains into adulthood, the ability to reset the parameters set for each language is lost, making it more difficult to learn a new language proficiently.[114] Since older learners would already have an established native language, the language acquisition process is very different for them, than for young learners. The rules and principles that guide the use of the learners' native language play a role in the way the second language is developed.[116]
+Some nonbiological explanations for second-language acquisition age differences include variations in social and psychological factors, such as motivation; the learner's linguistic environment; and the level of exposure. Even with less advantageous nonbiological influences, many young children attain a greater level of proficiency in their second language than older learners with more advantageous nonbiological influences.[114]
+Strategies[edit]
+Considerable attention has been paid to the strategies learners use to learn a second language. Strategies are of critical importance, so much so that strategic competence has been suggested as a major component of communicative competence.[117] Strategies are commonly divided into learning strategies and communicative strategies, although there are other ways of categorizing them. Learning strategies are techniques used to improve learning, such as mnemonics or using a dictionary. Communicative strategies are strategies a learner uses to convey meaning even when he or she doesn't have access to the correct form, such as using pro-forms like thing, or using non-verbal means such as gestures. If learning strategies and communicative strategies are used properly language acquisition is successful. Some points to keep in mind while learning an additional language are: providing information that is of interest to the student, offering opportunities for the student to share their knowledge, and teaching appropriate techniques for the uses of the learning resources available.[118]
+Another strategy may include intentional ways to acquire or improve their second language skills. Adult immigrants and/or second language learners seeking to acquire a second language can engage in different activities to receive and share knowledge as well as improve their learning; some of these include:
+incidental or informal learning (media resources, family/friend interactions, work interactions)
+purposeful learning (self-study, taking language classes)
+pursuing formal education  [119]
+Affective factors[edit]
+The learner's attitude to the learning process has also been identified as being critically important to second-language acquisition. Anxiety in language-learning situations has been almost unanimously shown to be detrimental to successful learning. Anxiety interferes with the mental processing of language because the demands of anxiety-related thoughts create competition for mental resources. This results in less available storage and energy for tasks required for language processing.[120] Not only this, but anxiety is also usually accompanied by self-deprecating thoughts and fear of failure, which can be detrimental to an individual's ability to learn a new language.[94] Learning a new language provides a unique situation that may even produce a specific type of anxiety, called language anxiety, that affects the quality of acquisition.[121] Also, anxiety may be detrimental for SLA because it can influence a learner's ability to attend to, concentrate on, and encode language information.[94] It may affect the speed and accuracy of learning. Further, the apprehension created as a result of anxiety inhibits the learner's ability to retrieve and produce the correct information.
+A related factor, personality, has also received attention. There has been discussion about the effects of extravert and introvert personalities. Extraverted qualities may help learners seek out opportunities and people to assist with L2 learning, whereas introverts may find it more difficult to seek out such opportunities for interaction.[92] However, it has also been suggested that, while extraverts might experience greater fluency, introverts are likely to make fewer linguistic errors. Further, while extraversion might be beneficial through its encouragement of learning autonomously, it may also present challenges as learners may find reflective and time-management skills to be difficult.[122] However, one study has found that there were no significant differences between extroverts and introverts in the way they achieve success in a second language.[123]
+Other personality factors, such as conscientiousness, agreeableness, and openness influence self-regulation, which helps L2 learners engage, process meaning, and adapt their thoughts, feelings, and actions to benefit the acquisition process.[122] SLA research has shown conscientiousness to be associated with time-management skills, metacognition, analytic learning, and persistence; agreeableness to effort; and openness to elaborative learning, intelligence, and metacognition. Both genetics and the learner's environment impact the personality of the learner, either facilitating or hindering an individual's ability to learn.
+Social attitudes such as gender roles and community views toward language learning have also proven critical. Language learning can be severely hampered by cultural attitudes, with a frequently cited example being the difficulty of Navajo children in learning English[citation needed].
+Also, the motivation of the individual learner is of vital importance to the success of language learning. Motivation is influenced by goal salience, valence, and self-efficacy.[124] In this context, goal salience is the importance of the L2 learner's goal, as well as how often the goal is pursued; valence is the value the L2 learner places on SLA, determined by the desire to learn and attitudes about learning the L2; and self-efficacy is the learner's own belief that he or she is capable of achieving the linguistic goal.[124] Studies have consistently shown that intrinsic motivation, or a genuine interest in the language itself, is more effective over the long term than extrinsic motivation, as in learning a language for a reward such as high grades or praise. However, motivation is dynamic and, as an L2 learner's fluency develops, their extrinsic motivation may evolve to become more intrinsic.[124] Learner motivation can develop through contact with the L2 community and culture, as learners often desire to communicate and identify with individuals in the L2 community. Further, a supportive learning environment facilitates motivation through the increase in self-confidence and autonomy.[124] Learners in a supportive environment are more often willing to take on challenging tasks, thus encouraging L2 development.
+Attrition[edit]
+Main article: Second-language attrition
+Attrition is the loss of proficiency in a language caused by a lack of exposure to or use of a language.[92] It is a natural part of the language experience as it exists within a dynamic environment.[125] As the environment changes, the language adapts. One way it does this is by using L1 as a tool to navigate the periods of change associated with acquisition and attrition. A learner's L2 is not suddenly lost with disuse, but its communicative functions are slowly replaced by those of the L1.[125]
+Similar to second-language acquisition, second-language attrition occurs in stages. However, according to the regression hypothesis, the stages of attrition occur in reverse order of acquisition. With acquisition, receptive skills develop first, and then productive skills, and with attrition, productive skills are lost first, and then receptive skills.[125]
+Age, proficiency level, and social factors play a role in the way attrition occurs.[125] Most often younger children are quicker than adults to lose their L2 when it is left unused. However, if a child has established a high level of proficiency, it may take them several years to lose the language. Proficiency level seems to play the largest role in the extent of attrition. For very proficient individuals, there is a period where very little, if any, attrition is observed. For some, residual learning might even occur, which is the apparent improvement within the L2.[125] Within the first five years of language disuse, the total percentage of language knowledge lost is less for a proficient individual than for someone less proficient. A cognitive psychological explanation for this suggests that a higher level of proficiency involves the use of schemas, or mental representations for linguistic structures. Schemas involve deeper mental processes for mental retrieval that are resistant to attrition. As a result, information that is tied to this system is less likely to experience less extreme attrition than information that is not.[125] Finally, social factors may play an indirect role in attrition. In particular, motivation and attitude influence the process. Higher levels of motivation and a positive attitude toward the language and the corresponding community may lessen attrition. This is likely due to the higher level of competence achieved in L2 when the learner is motivated and has a positive attitude.[125]
+Classroom second-language acquisition[edit]
+Main article: Second-language acquisition classroom research
+While considerable SLA research has been devoted to language learning in a natural setting, there have also been efforts made to investigate second-language acquisition in the classroom. This kind of research has a significant overlap with language education, and it is mainly concerned with the effect that instruction has on the learner. It also explores what teachers do, the classroom context, and the dynamics of classroom communication. It is both qualitative and quantitative research.
+The research has been wide-ranging. There have been attempts made to systematically measure the effectiveness of language teaching practices for every level of language, from phonetics to pragmatics, and for almost every current teaching methodology. This research has indicated that many traditional language-teaching techniques are extremely inefficient.[126] Cited in Ellis 1994 It is generally agreed that pedagogy restricted to teaching grammar rules and vocabulary lists does not give students the ability to use the L2 with accuracy and fluency. Rather, to become proficient in the second language, the learner must be given opportunities to use it for communicative purposes.[127][128]
+Another area of research has been on the effects of corrective feedback in assisting learners. This has been shown to vary depending on the technique used to correct, and the overall focus of the classroom, whether on formal accuracy or communication of meaningful content.[129][130][131] There is also considerable interest in supplementing published research with approaches that engage language teachers in action research on learner language in their own classrooms.[132] As teachers become aware of the features of learner language produced by their students, they can refine their pedagogical intervention to maximize interlanguage development.[133]
+If one wishes to acquire a language in a classroom setting only, one needs to consider the category of the language one wishes to acquire; the category of the desired language will determine how many hours or weeks to devote to study.
+There are three main categories of languages. Category I languages are  cognate languages  like French, Spanish, and Swedish; category II languages are Finnish, Russian, and Vietnamese; category III languages are Arabic, Chinese, Japanese, and Korean. As such, the languages are categorized by their similarity to English. Respectively, category I languages require 24 weeks or 600 classroom hours to achieve proficiency; category II languages require 44 weeks or 1,100 hours; category III languages require 88 weeks or 2,200 hours .[134]
+Moreover, one can achieve proficiency in a foreign language in a classroom setting so long as one acknowledges the time commitment necessary.
+See also[edit]
+Linguistics portalLanguages portal
+Main article: Outline of second-language acquisition
+Bilingualism (neurology)
+Dynamic approach to second language development
+International auxiliary language
+Language learning aptitude
+Language acquisition
+Language complexity
+List of common misconceptions about language learning
+List of language acquisition researchers
+Native-language identification
+One person, one language
+Psycholinguistics
+Second-language attrition
+Sociolinguistics
+Theories of second-language acquisition
+Vocabulary learning
+Notes[edit]
+^ Krashen (1982) made a sharp distinction between learning and acquisition, using learning to refer to the conscious aspects of the language learning process and acquisition to refer to the subconscious aspects. This strict separation of learning and acquisition is widely regarded as an oversimplification by researchers today, but his hypotheses were very influential and the name has stuck.
+^ These studies were based on work by Brown (1973) on child first-language acquisition. The first such studies on child second-language acquisition were carried out by Dulay and Burt (1973, 1974a, 1974b, 1975). Bailey, Madden & Krashen (1974) investigated the order of acquisition among adult second-language learners. See Krashen (1977) for a review of these studies.
+^ The term language transfer is not without controversy, however. Sharwood Smith and Kellerman preferred the term crosslinguistic influence to language transfer. They argued that cross-linguistic influence was neutral regarding different theories of language acquisition, whereas language transfer was not. Sharwood Smith & Kellerman 1986 harvnb error: no target: CITEREFSharwood_SmithKellerman1986 (help), cited in Ellis 2008, p. 350 harvnb error: no target: CITEREFEllis2008 (help).
+^ The critical period hypothesis was formulated for first-language acquisition by Penfield & Roberts (1959) and popularized by Lenneberg (1967).
+References[edit]
+^ "Stephen Krashen's Theory of Second Language Acquisition (Assimila o Natural - o Construtivismo no Ensino de L nguas)". www.sk.com.br. Archived from the original on 22 November 2017. Retrieved 3 May 2018.
+^ Sol  1994, p. 100.
+^ Gass & Selinker 2008, p. 7.
+^ Gass & Selinker 2008, pp. 21 24.
+^ Gass & Selinker 2008, pp. 24 25.
+^ Ellis 1997, p. 3.
+^ a b Gass & Selinker 2008, p. 1.
+^ a b VanPatten & Benati 2010, pp. 2 5.
+^ Koerner, Brendan I. (October 2013). "Readin', Writin' & Ruby On Rails: Let's Teach Our Kids To Code". Wired. p. 30.
+^ Janciauskas, Marius; Chang, Franklin (2017-07-26). "Input and Age-Dependent Variation in Second Language Learning: A Connectionist Account". Cognitive Science. 42: 519 554. doi:10.1111/cogs.12519. ISSN 0364-0213. PMC 6001481. PMID 28744901.
+^ ASCD. "The Stages of Second Language Acquisition". www.ascd.org. Archived from the original on 28 March 2018. Retrieved 3 May 2018.
+^ a b c d Haynes 2007, pp. 29 35.
+^ Ellis 2008, pp. 73 75. sfn error: no target: CITEREFEllis2008 (help)
+^ "Archived copy" (PDF). Archived (PDF) from the original on 2014-03-07. Retrieved 2014-06-02.{{cite web}}:  CS1 maint: archived copy as title (link)
+^ Hendriks, H. (2005). The Structure of Learner Varieties: Introduction to the volume. Hendricks, H.(Hg.): The Structure of Learner Varieties. Berlin: de Gruyter, 1-18.
+^ Perdue, Clive 1996 Pre-basic varieties: the first stages of second language acquisition. Toegepaste Taalwetenschap in Artikelen 55: 135-150
+^ Klein, Wolfgang and Clive Perdue (1997) The Basic Variety or: Couldn't natural languages be much simpler? Second 
+Language Research 13,4: 301-347.
+^ a b Klein, Wolfgang and Clive Perdue (1992) Utterance Structure: Developing Grammars Again. Amsterdam: John Benjamins.
+^ Becker, A. (2012). Finiteness and the Acquisition of Negation. Comparative Perspectives on Language Acquisition: A Tribute to Clive Perdue, 61, 54.
+^ Saville-Troike, M., & Barto, K. (2012). Introducing second language acquisition, 2nd edition. ch. 3 The linguistics of Second Language Acquisition Cambridge University Press.
+^ FSI s Experience with Language Learning
+^ "What's the Hardest Language to Learn?". Zidbits. Archived from the original on 11 June 2012. Retrieved 10 June 2012.
+^ "Language Scale". Bay Language Academy: The British Foreign Office Diplomatic Service Language Centre. Archived from the original on 20 Feb 2020.
+^ Slabakova, Roumyana (2019). "The Bottleneck Hypothesis updated". Three Streams of Generative Language Acquisition Research. lald.63.16sla. Language Acquisition and Language Disorders. Vol. 63. pp. 319 345. doi:10.1075/lald.63.16sla. hdl:11250/2643568. ISBN 978-90-272-0224-6. S2CID 86582640. Retrieved 2020-04-24.
+^ Jensen, Isabel Nadine; Slabakova, Roumyana; Westergaard, Marit; Lundquist, Bj rn (2019-02-28). "The Bottleneck Hypothesis in L2 acquisition: L1 Norwegian learners' knowledge of syntax and morphology in L2 English". Second Language Research. 36 (1): 3 29. doi:10.1177/0267658318825067. hdl:10037/18039. ISSN 0267-6583. S2CID 151194074.
+^ Paradis, Johanne; Jia, Ruiting; Arppe, Antti (July 2017). "The acquisition of tense morphology over time by English second language children with specific language impairment: Testing the cumulative effects hypothesis". Applied Psycholinguistics. 38 (4): 881 908. doi:10.1017/S0142716416000485. ISSN 0142-7164.
+^ Cook 2008, p. 13. sfn error: no target: CITEREFCook2008 (help)
+^ Monika S. Schmid (2014) The Debate on Maturational Constraints in Bilingual Development: A Perspective from First-Language Attrition, Language Acquisition, 21:4, 386-410, doi:10.1080/10489223.2014.892947
+^ Chen, Ee San (2003) Language Convergence and Bilingual Acquisition, Annual Review of Language Acquisition, vol. 3, 89 137, doi:10.1075
+^ Cook 2008, p. 232. sfn error: no target: CITEREFCook2008 (help)
+^ Flege 1987.
+^ Chang 2012.
+^ Cook 2008, p. 15. sfn error: no target: CITEREFCook2008 (help)
+^ Ellis & Barkhuizen 2005, p. 4.
+^ Ellis & Barkhuizen 2005, p. 6.
+^ a b Mason, Timothy. "Didactics  7 : Critique of Krashen III. Natural Order Hypothesis (2) :Interlanguage". Lecture in the didactics of English, Universit  of Versailles St. Quentin, a course run from 1993 to 2002. Archived from the original on 2012-01-10. Retrieved 2011-02-10.
+^ a b Yip, Virginia (Aug 1990). "Interlanguage Ergative Constructions and Learnability" (PDF). CUHK Papers in Linguistics, No. 2. p45-68.
+^ Selinker 1972.
+^ a b Gass & Selinker 2008, p. 14.
+^ Cook 2008, pp. 26 27. sfn error: no target: CITEREFCook2008 (help)
+^ Parker, Kate (May 1989). "Learnability Theory and the Acquisition of Syntax" (PDF). University of Hawai'i Working Papers in ESL, Vol. 8, No. 1, pp. 49-78.
+^ Pienemann, Manfred (1989). "Is Language Teachable? Psycholinguistic Experiments and Hypotheses". Applied Linguistics. 10 (1): 52 79. doi:10.1093/applin/10.1.52.
+^ a b c Ellis 1997, pp. 25 29.
+^ a b VanPatten & Benati 2010, p. 166.
+^ a b c d e Lightbown & Spada 2006, pp. 93 96.
+^ Ellis 2008, p. 350. sfn error: no target: CITEREFEllis2008 (help)
+^ Ellis 2008, p. 397. sfn error: no target: CITEREFEllis2008 (help)
+^ Nicoladis, Elena (April 2012). "Cross-linguistic influence in French English bilingual children's possessive constructions*". Bilingualism: Language and Cognition. 15 (2): 320 328. doi:10.1017/S1366728911000101. ISSN 1469-1841. S2CID 143873260.
+^ Bosch, Jasmijn Esther|Unsworth (2021). "Cross-linguistic influence in word order". Linguistic Approaches to Bilingualism. 11 (6): 783 816. doi:10.1075/lab.18103.bos. S2CID 219489323. Retrieved 2020-04-24.
+^ a b c Yip, Virginia; Matthews, Stephen (2006-04-01). "Assessing Language Dominance in Bilingual Acquisition: A Case for Mean Length Utterance Differentials". Language Assessment Quarterly. 3 (2): 97 116. doi:10.1207/s15434311laq0302_2. hdl:10722/57395. ISSN 1543-4303. S2CID 144171787.
+^ Schmid, Monika S.; Y lmaz, G lsen (2018-08-20). "Predictors of Language Dominance: An Integrated Analysis of First Language Attrition and Second Language Acquisition in Late Bilinguals". Frontiers in Psychology. 9: 1306. doi:10.3389/fpsyg.2018.01306. ISSN 1664-1078. PMC 6110303. PMID 30177893.
+^ Unsworth, Sharon (May 2016). "Early child L2 acquisition: Age or input effects? Neither, or both?*". Journal of Child Language. 43 (3): 608 634. doi:10.1017/S030500091500080X. ISSN 0305-0009. PMID 26915919.
+^ Krashen 1981a.
+^ Krashen 1994.
+^ Elley 1991.
+^ Krashen 2004.
+^ Cook 2008, p. 215. sfn error: no target: CITEREFCook2008 (help)
+^ Krashen 1981b, pp. 54 55.
+^ Swain 1991.
+^ Skehan 1998.
+^ Swain 1995.
+^ Long 1996.
+^ a b VanPatten & Benati 2010, p. 5.
+^ a b VanPatten & Benati 2010, p. 71.
+^ a b c Ellis 2008, pp. 405 406. sfn error: no target: CITEREFEllis2008 (help)
+^ Ellis 1997, p. 35.
+^ Ellis 2008, pp. 408 410. sfn error: no target: CITEREFEllis2008 (help)
+^ Ellis 2008, pp. 410 415. sfn error: no target: CITEREFEllis2008 (help)
+^ Ellis 2008, pp. 415 417. sfn error: no target: CITEREFEllis2008 (help)
+^ Gass & Selinker 2008, pp. 242 243.
+^ Ellis 2008, pp. 431 433. sfn error: no target: CITEREFEllis2008 (help)
+^ Gass & Selinker 2008, pp. 248 249.
+^ Gass & Selinker 2008, pp. 250 253.
+^ Ellis 2008, pp. 443 445. sfn error: no target: CITEREFEllis2008 (help)
+^ Gass & Selinker 2008, pp. 253 255.
+^ Ellis 2008, pp. 445 452. sfn error: no target: CITEREFEllis2008 (help)
+^ "Linguistics and Second Language Acquisition". www.tesl-ej.org. Retrieved 2020-11-04.
+^ Ellis 2008, pp. 445 482. sfn error: no target: CITEREFEllis2008 (help)
+^ Ellis 2008, pp. 488 492. sfn error: no target: CITEREFEllis2008 (help)
+^ Ellis 2008, p. 511. sfn error: no target: CITEREFEllis2008 (help)
+^ Chang, Franklin (2009-10-01). "Learning to order words: A connectionist model of heavy NP shift and accessibility effects in Japanese and English". Journal of Memory and Language. 61 (3): 374 397. doi:10.1016/j.jml.2009.07.006. ISSN 0749-596X.
+^ Janciauskas, Marius; Chang, Franklin (2018). "Input and Age-Dependent Variation in Second Language Learning: A Connectionist Account". Cognitive Science. 42 (S2): 519 554. doi:10.1111/cogs.12519. ISSN 1551-6709. PMC 6001481. PMID 28744901.
+^ Ellis 1997, p. 37.
+^ Ellis 2008, pp. 280 281. sfn error: no target: CITEREFEllis2008 (help)
+^ Gass & Selinker 2008, pp. 280 281.
+^ Ellis 2008, p. 281. sfn error: no target: CITEREFEllis2008 (help)
+^ Siegel 2003, p. 178.
+^ Ellis 2008, p. 288. sfn error: no target: CITEREFEllis2008 (help)
+^ Ellis 2008, p. 323. sfn error: no target: CITEREFEllis2008 (help)
+^ Gass & Selinker 2008, pp. 268 269.
+^ a b c d Pinter 2011, pp. 80 82.
+^ a b c d e Loewen & Reinders 2011.
+^ Vega 2008, pp. 185 198.
+^ a b c Piechurska-Kuciel 2011.
+^ Ellis 2008, pp. 326 327. sfn error: no target: CITEREFEllis2008 (help)
+^ Taie, Masumeh; Afshari, Asghar (2015-03-24). "A Critical Review on the Socio-educational Model of SLA". Theory and Practice in Language Studies. 5 (3): 605 612. doi:10.17507/tpls.0503.21. ISSN 1799-2591.
+^ Ellis 2008, p. 330. sfn error: no target: CITEREFEllis2008 (help)
+^ Ellis 2008, p. 332. sfn error: no target: CITEREFEllis2008 (help)
+^ Watson-Gegeo & Nielsen 2003, p. 157.
+^ Ellis 2008, p. 334. sfn error: no target: CITEREFEllis2008 (help)
+^ Ellis 2008, p. 336. sfn error: no target: CITEREFEllis2008 (help)
+^ VanPatten & Benati 2010, pp. 151 152.
+^ Lightbown, Patsy; Spada, Nina (2011). How Languages are Learned. Oxford University Press. ISBN 978-0-19-442224-6.
+^ a b Ellis 2008, pp. 517 518. sfn error: no target: CITEREFEllis2008 (help)
+^ Ellis 2008, p. 557. sfn error: no target: CITEREFEllis2008 (help)
+^ a b VanPatten & Benati 2010, p. 161.
+^ Sol  1994, p. 99.
+^ a b VanPatten & Benati 2010, pp. 162 163.
+^ Dom nguez, Laura; Arche, Mar a J; Myles, Florence (2017-04-11). "Spanish Imperfect revisited: Exploring L1 influence in the reassembly of imperfective features onto new L2 forms". Second Language Research. 33 (4): 431 457. doi:10.1177/0267658317701991. ISSN 0267-6583.
+^ VanPatten & Williams 2015, pp. 36 37.
+^ a b White, Lydia (2003). "Second Language Acquisition and Universal Grammar" (PDF). Cambridge Textbooks in Linguistics.
+^ a b c Kohnert 2008.
+^ a b Tokowicz, Natasha (2015). Lexical Processing and Second Language Acquisition. New York, NY: Routledge. pp. 57 74. ISBN 978-0-415-87755-8.
+^ a b c d Long 2007.
+^ Clifford, Vanessa; Rhodes, Anthea; Paxton, Georgia (2014). "Learning difficulties or learning English difficulties? Additional language acquisition: An update for paediatricians". Journal of Paediatrics and Child Health. 50 (3): 175 181. doi:10.1111/jpc.12396. PMID 24134139. S2CID 34820698.
+^ a b Gass & Glew 2008.
+^ Canale & Swain 1980.
+^ Flynn, Naomi (2007). "Good practice for pupils learning English as an additional language: Lessons from effective literacy teachers in inner-city primary schools". Journal of Early Childhood Literacy. 7 (2): 184. doi:10.1177/1468798407079286. S2CID 145437243.
+^ Adamuti-Trache, Maria (2012). "Language Acquisition Among Adult Immigrants in Canada: The Effect of Premigration Language". Adult Education Quarterly. 63 (2): 115. doi:10.1177/0741713612442804. S2CID 145756906.
+^ Ashcraft & Kirk 2001.
+^ MacIntyre & Gardner 1991.
+^ a b Studenska 2011.
+^ Erton 2010.
+^ a b c d Piasecka 2011.
+^ a b c d e f g Hansen 1999, pp. 3 10.
+^ Lightbown 1990.
+^ Doughty & Williams 1998.
+^ Ellis 2002.
+^ Lightbown & Spada 1990.
+^ Lyster & Ranta 1997.
+^ Lyster & Mori 2006.
+^ Allwright & Hanks 2009.
+^ Tarone & Swierzbin 2009.
+^ Jackson & Kaplan 1999. sfn error: no target: CITEREFJacksonKaplan1999 (help)
+Bibliography[edit]
+Allwright, Dick; Hanks, Judith (2009). The Developing Language Learning: An Introduction to Exploratory Practice. Basingstoke: Palgrave MacMillan. ISBN 978-1-4039-8531-6.
+Anderson, J. R. (1992). "Automaticity and the ACT* theory". American Journal of Psychology. 105 (2): 165 180. doi:10.2307/1423026. JSTOR 1423026. PMID 1621879.
+Ashcraft, M. H.; Kirk, E. P. (2001). "The relationships among working memory, math anxiety and performance". Journal of Experimental Psychology: General. 130 (2): 224 237. doi:10.1037/0096-3445.130.2.224. PMID 11409101.
+Bailey, N.; Madden, C.; Krashen, S. D. (1974). "Is there a "natural sequence" in adult second language learning?". Language Learning. 24 (2): 235 243. doi:10.1111/j.1467-1770.1974.tb00505.x.
+Bates, E.; MacWhinney, B. (1981). "Second-Language Acquisition from a Functionalist Perspective: Pragmatic, Semantic, and Perceptual Strategies". Annals of the New York Academy of Sciences. 379 (1): 190 214. Bibcode:1981NYASA.379..190B. doi:10.1111/j.1749-6632.1981.tb42009.x. S2CID 86330898.
+Brown, Roger (1973). A First Language. Cambridge: Harvard University Press. ISBN 978-0-674-30325-6.
+Canale, M.; Swain, M. (1980). "Theoretical bases of communicative approaches to second language teaching and testing". Applied Linguistics. 1 (1): 1 47. doi:10.1093/applin/1.1.1.
+Chang, Charles B. (2012). "Rapid and multifaceted effects of second-language learning on first-language speech production". Journal of Phonetics. 40 (2): 249 268. doi:10.1016/j.wocn.2011.10.007.
+Cook, Vivian (2016). Second Language Learning and Language Teaching. Abingdon, Oxon: Routledge. ISBN 978-0-415-71377-1.
+DeKeyser, Robert (1998). "Beyond focus on form: Cognitive perspectives on learning and practicing second language grammar".  In Doughty, Catherine; Williams, Jessica (eds.). Focus on Form in Classroom Second Language Acquisition. New York: Cambridge University Press. pp. 42 63. ISBN 978-0-521-62390-2.
+Doughty, Catherine; Williams, Jessica, eds. (1998). Focus on Form in Classroom Second Language Acquisition. Cambridge: Cambridge University Press. ISBN 978-0-521-62390-2.
+Dulay, H. C.; Burt, M. K. (1973). "Should we teach children syntax?". Language Learning. 23 (2): 245 258. doi:10.1111/j.1467-1770.1973.tb00659.x.
+Dulay, Heidi; Burt, Marina (1974). "Natural sequences in child second language acquisition". Language Learning. 24: 37 53. doi:10.1111/j.1467-1770.1974.tb00234.x.
+Dulay, Heidi; Burt, Marina (1974). "You can't learn without goofing".  In Richards, Jack (ed.). Error Analysis. New York: Longman. pp. 95 123. ISBN 978-0-582-55044-5.
+Dulay, Heidi; Burt, Marina (1975). "Creative construction in second language learning and teaching".  In Dulay, Heidi; Burt, Marina (eds.). On TESOL '75: New Directions in Second Language Learning, Teaching, and Bilingual Education: Selected Papers from the Ninth Annual TESOL Convention, Los Angeles, California, March 4 9, 1975. Washington, DC: Teachers of English to Speakers of Other Languages. pp. 21 32. OCLC 1980255.
+Elley, W. B. (1991). "Acquiring Literacy in a Second Language: the Effect of Book-Based Programs". Language Learning. 41 (3): 375 411. doi:10.1111/j.1467-1770.1991.tb00611.x.
+Ellis, N. C. (1998). "Emergentism, Connectionism and Language Learning". Language Learning. 48 (4): 631 664. CiteSeerX 10.1.1.473.5374. doi:10.1111/0023-8333.00063.
+Ellis, Rod (1993). "Second language acquisition and the structural syllabus". TESOL Quarterly. 27 (1): 91 113. doi:10.2307/3586953. JSTOR 3586953.
+Ellis, Rod (1994). The Study of Second Language Acquisition. Oxford Oxfordshire: Oxford University Press. ISBN 978-0-19-437189-6.
+Ellis, Rod (1997). Second Language Acquisition. Oxford Introductions to Language Study. Oxford, New York: Oxford University Press. ISBN 978-0-19-437212-1.
+Ellis, Rod (2002). "Does form-focused instruction affect the acquisition of implicit knowledge?". Studies in Second Language Acquisition. 24 (2): 223 236. doi:10.1017/s0272263102002073. S2CID 145684013.
+Ellis, Rod; Barkhuizen, Patrick (2005). Analysing Learner Language. Oxford: Oxford University Press. ISBN 978-0-19-431634-7.
+Ellis, Rod (2009). The Study of Second Language Acquisition. Oxford, UK: Oxford University Press. ISBN 978-0-19-442257-4.
+Erton, I. (2010). "Relations between personality traits, language learning styles and success in foreign language achievement". Hacettepe University Journal of Education. 38: 115 126.
+Flege, James Emil (1987). "The production of "new" and "similar" phones in a foreign language: evidence for the effect of equivalence classification" (PDF). Journal of Phonetics. 15: 47 65. doi:10.1016/S0095-4470(19)30537-6. Retrieved 2011-02-09.
+Gass, S.; Glew, M. (2008). "Second language acquisition and bilingualism".  In Altarriba, J.; Heredia, R. (eds.). An Introduction to Bilingualism: Principles and Processes. New York: Taylor & Francis Group. ISBN 978-0-8058-5135-9.
+Gass, Susan; Selinker, Larry (2008). Second Language Acquisition: An Introductory Course. New York, NY: Routledge. ISBN 978-0-8058-5497-8. Retrieved 2010-11-17   via Google Books.
+Hansen, Lynne (1999). Second Language Attrition in Japanese Contexts. New York, NY: Oxford University Press. ISBN 978-0-19-512304-3.
+Harley, B. (1989). "Functional Grammar in French Immersion: A Classroom Experiment". Applied Linguistics. 10 (3): 331 360. doi:10.1093/applin/10.3.331.
+Haynes, Judie (2007). Getting Started With English Language Learners: How Educators Can Meet the Challenge. Alexandria, VA: Association for Supervision and Curriculum Development. ISBN 978-1-4166-0519-5.
+Klein, Wolfgang  and Perdue, Clive The Basic Variety (or: Couldn t natural languages be much simpler?). In Second Language Research 13, 1997, pp. 301-347.
+Kohnert, K. (2008). "Primary Language Impairments in Bilingual Children and Adults".  In Altarriba, J.; Heredia, R. (eds.). An Introduction to Bilingualism: Principles and Processes. New York: Taylor & Francis Group. pp. 295 320. ISBN 978-0-8058-5135-9.
+Krashen, Stephen (1977). "Some issues relating to the monitor model".  In Brown, H; Yorio, Carlos; Crymes, Ruth (eds.). Teaching and learning English as a Second Language: Trends in Research and Practice: On TESOL '77: Selected Papers from the Eleventh Annual Convention of Teachers of English to Speakers of Other Languages, Miami, Florida, April 26  May 1, 1977. Washington, DC: Teachers of English to Speakers of Other Languages. pp. 144 158. OCLC 4037133.
+Krashen, Stephen (1981a). Second Language Acquisition and Second Language Learning. New York: Pergamon Press. ISBN 978-0-08-025338-1. Archived from the original on October 19, 2008.
+Krashen, Stephen (1981b). "The "fundamental pedagogical principle" in second language teaching". Studia Linguistica. 35 (1 2): 50 70. doi:10.1111/j.1467-9582.1981.tb00701.x.
+Krashen, Stephen (1982). Principles and Practice in Second Language Acquisition. Pergamon Press. ISBN 978-0-08-028628-0. Archived from the original on March 12, 2012.
+Krashen, Stephen (1994). "The input hypothesis and its rivals".  In Ellis, Nick (ed.). Implicit and Explicit Learning of Languages. London: Academic Press. pp. 45 77. ISBN 978-0-12-237475-3.
+Krashen, Stephen (2004). The Power of Reading, Second Edition. Littleton: Libraries Unlimited. ISBN 978-1-59158-169-7.
+Lenneberg, Eric (1967). Biological Foundations of Language. New York: Wiley. ISBN 978-0-89874-700-3.
+Lightbown, Patsy (1990). "Chapter 6: Process-product research on second language learning in classrooms".  In Harley, Birgit (ed.). The Development of Second Language Proficiency. Cambridge, New York: Cambridge University Press. pp. 82 92. ISBN 978-0-521-38410-0.
+Lightbown, Patsy; Spada, Nina (1990). "Focus-on-Form and Corrective Feedback in Communicative Language Teaching: Effects on Second Language Learning". Studies in Second Language Acquisition. 12 (4): 429 48. doi:10.1017/S0272263100009517. S2CID 144068806.
+Lightbown, Patsy M.; Spada, Nina (2006). How Languages Are Learned (3rd ed.). Oxford, New York: Oxford University Press. ISBN 978-0-19-442224-6.
+Loewen, Shawn; Reinders, Hayo (2011). Key Concepts in Second Language Acquisition. Basingstoke: Palgrave Macmillan. ISBN 978-0-230-23018-7.
+Long, M. (1996). "The role of the linguistic environment in second language acquisition".  In Ritchie, William; Bhatia, Tej (eds.). Handbook of Second Language Acquisition. San Diego: Academic Press. pp. 413 468. ISBN 978-0-12-589042-7.
+Long, M. H. (2007). Problems in SLA. Mahwah, NJ: Lawrence Erlbaum Associates.
+Lyster, R.; Ranta, L. (1997). "Corrective feedback and learner uptake: Negotiation of form in communicative classrooms". Studies in Second Language Acquisition. 19: 37 66. doi:10.1017/s0272263197001034. S2CID 67829334.
+Lyster, R.; Mori, H. (2006). "Interactional feedback and instructional counterbalance". Studies in Second Language Acquisition. 28 (2): 269 300. doi:10.1017/s0272263106060128. S2CID 17775491.
+MacIntyre, Peter D.; Gardner, R. C. (1991). "Language anxiety: Its relationship to other anxieties and to processing in native and foreign language". Language Learning. 41 (4): 513 534. doi:10.1111/j.1467-1770.1991.tb00691.x.
+MacWhinney, Brian (1987). "Applying the Competition Model to bilingualism" (PDF). Applied Psycholinguistics. 8 (4): 315 327. doi:10.1017/S0142716400000357. S2CID 143185516. Archived from the original (PDF) on 2011-07-21. Retrieved 2011-03-02.
+MacWhinney, B. (2005). "Extending the Competition Model". International Journal of Bilingualism. 9: 69 05. doi:10.1177/13670069050090010501. S2CID 143600103.
+Paradis, M. (1994). "Neurolinguistic aspects of implicit and explicit memory: Implications for bilingualism and SLA".  In Ellis, Nick (ed.). Implicit and Explicit Learning of Languages. London: Academic Press. pp. 393 420. ISBN 978-0-12-237475-3.
+Penfield, Wilder; Roberts, Lamar (1959). Speech and Brain Mechanisms. Princeton: Princeton University Press. ISBN 978-0-691-08039-0.
+Piasecka, L. (2011). "Current views on foreign language reading motivation".  In Arabski, Janusz; Wojtaszek, Adam (eds.). Individual Learner Differences in SLA. North York, ON: Multilingual Matters. ISBN 978-1-84769-434-8.
+Piechurska-Kuciel, E. (2011). "A Study of Gender-Related Levels of Processing Anxieties over Three Years of Secondary Grammar School Instruction".  In Arabski, Janusz; Wojtaszek, Adam (eds.). Individual Learner Differences in SLA. North York, ON: Multilingual Matters. ISBN 978-1-84769-434-8.
+Pinter, Annamaria (2011). Children Learning Second Languages. Basingstoke, UK: Palgrave Macmillan. ISBN 978-1-4039-1185-8.
+Prabhu, N. (1987). Second Language Pedagogy. Oxford: Oxford University Press. ISBN 978-0-19-437084-4.
+Rounds, P. L.; Kanagy, R. (1998). "Acquiring linguistic cues to identify AGENT: Evidence from children learning Japanese as a second language". Studies in Second Language Acquisition. 20 (4): 509 542. doi:10.1017/s0272263198004033. S2CID 145606326.
+Schmidt, R. (2001). "Attention".  In Robinson, Peter (ed.). Cognition and Second Language Instruction. Cambridge: Cambridge University Press. pp. 1 32. ISBN 978-0-521-80288-8.
+Selinker, L. (1972). "Interlanguage". International Review of Applied Linguistics. 10 (1 4): 209 241. doi:10.1515/iral.1972.10.1-4.209.
+Siegel, Jeff (2003). "Social Context".  In Doughty, Catherine; Long, Michael (eds.). The handbook of second language acquisition. Malden, MA: Blackwell. ISBN 978-0-631-21754-1.
+Skehan, Peter (1998). A Cognitive Approach to Language Learning. Oxford: Oxford University Press. ISBN 978-0-19-437217-6.
+Sol , Yolanda Russinovich (1994). "The Input Hypothesis and the Bilingual Learner". The Bilingual Review. 19 (2): 99 110. JSTOR 25745211.(registration required)
+Studenska, A. (2011). "Personality and parenting styles as predictors of self-regulation in foreign language learning".  In Arabski, Janusz; Wojtaszek, Adam (eds.). Individual Learner Differences in SLA. North York (ON): Multilingual Matters. ISBN 978-1-84769-434-8.
+Swain, Merrill (1991). "French immersion and its offshoots: Getting two for one".  In Freed, Barbara (ed.). Foreign language acquisition research and the classroom. Lexington, MA: Heath. pp. 91 103. ISBN 978-0-669-24263-8.
+Swain, Merrill (1995). "Three functions of output in second language learning".  In Cook, Guy (ed.). Principle & Practice in Applied Linguistics: Studies in Honour of H.G. Widdowson. Oxford: Oxford University Press. pp. 125 144. ISBN 978-0-19-442147-8.
+Tarone, Elaine; Bigelow, Martha; Hansen, Kit (2009). Literacy and Second Language Oracy. Oxford: Oxford University Press. ISBN 978-0-19-442300-7.
+Tarone, Elaine; Swierzbin, Bonnie (2009). Exploring Learner Language. Oxford: Oxford University Press. ISBN 978-0-19-442291-8.
+Tokowicz, Natasha (2015). Lexical Processing and Second Language Acquisition. New York, NY: Taylor & Francis. ISBN 978-0-415-87755-8.
+VanPatten, Bill; Williams, Jessica, eds. (2015). Theories in second language acquisition: An introduction. New York: Routledge. ISBN 978-0-415-82421-7.
+VanPatten, Bill; Benati, Alessandro G. (2010). Key Terms in Second Language Acquisition. London: Continuum. ISBN 978-0-8264-9914-1.
+Vega, Luis, A (2008). Social Psychological Approaches to Bilingualism. New York, NY: Taylor and Francis. ISBN 978-0-8058-5135-9.
+Watson-Gegeo, Karen Ann; Nielsen, Sarah (2003). "Language Socialization in SLA".  In Doughty, Catherine; Long, Michael (eds.). The handbook of second language acquisition. Malden, MA: Blackwell. ISBN 978-0-631-21754-1.
+Yuan, F.; Ellis, R. (2003). "The Effects of Pre-Task Planning and On-Line Planning on Fluency, Complexity and Accuracy in L2 Monologic Oral Production". Applied Linguistics. 24: 1 27. doi:10.1093/applin/24.1.1.
+vteSecond-language acquisitionGeneral
+Outline
+Common misconceptions
+Subfields
+Attrition
+Classroom research
+Education
+Phonology
+Writing
+Learners
+Multilingualism
+Heritage language
+Multi-competence
+Learner language
+Contrastive analysis
+Contrastive rhetoric
+Error (linguistics)
+Error analysis
+Error treatment
+Interlanguage
+Silent period
+Linguistic factors
+Language transfer
+Linguistic universal
+Word lists by frequency
+Individual variation
+Language-learning aptitude
+Critical period hypothesis
+Motivation
+Willingness to communicate
+Foreign language anxiety
+Metalinguistic awareness
+Strategies
+Language learning strategies
+Communication strategies
+Code-switching
+Good language learner studies
+SLA hypotheses
+Competition model
+Comprehensible output
+Connectionism
+Dynamic Systems Theory
+Generative second-language acquisition
+Input hypothesis
+Interaction hypothesis
+Interface hypothesis
+Interface position
+Noticing hypothesis
+Processability theory
+Order of acquisition
+Skill-based theories
+In the classroom
+Focus on form
+Input enhancement
+Aptitude tests
+MLAT
+DLAB
+PLAB
+CANAL-F
+Notable researchers
+Alderson
+Arguelles
+Bialystok
+Carroll
+Crossley
+Csiz r
+Cumming
+de Bot
+Brown
+Bygate
+Corder
+Cumming
+van Dijk
+D rnyei
+Ellis
+Ellis
+Ervin-Tripp
+Gass
+van Geert
+Green
+Grosjean
+Guardado
+Harding
+Jarvis
+Johnson
+Kormos
+Krashen
+Kroll
+Larsen-Freeman
+Li
+Long
+Lowie
+Mackey
+MacWhinney
+Manch n
+Marian
+Matsuda
+Matthews
+Meisel
+Myers-Scotton
+Nation
+Ortega
+Pica
+Polio
+Pimsleur
+Rivers
+Schmidt
+Schmitt
+Silva-Corvalan
+Slobin
+Storch
+Swain
+Terrell
+Ullman
+Vaid
+VanPatten
+Verspoor
+White
+Wray
+Yip
+Associations
+European Association for the Teaching of Academic Writing
+EUROSLA
+Computational tools
+Coh-Metrix
+L2 Syntactic Complexity Analyzer
+Journals
+Applied Linguistics
+Bilingualism: Language and Cognition
+Language Learning
+Language Testing
+Journal of Second Language Writing
+System
+TESOL Journal
+TESOL Quarterly
+The Modern Language Journal
+Authority control: National 
+Israel
+United States
+Latvia
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Second-language_acquisition&oldid=1149396472"

@@ -1,0 +1,201 @@
+Course designed to prepare students for calculus
+This article includes a list of general references, but it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations. (March 2022) (Learn how and when to remove this template message)
+Part of a series of articles aboutCalculus
+Fundamental theorem
+Limits
+Continuity
+Rolle's theorem
+Mean value theorem
+Inverse function theorem
+Differential
+Definitions
+Derivative (generalizations)
+Differential
+infinitesimal
+of a function
+total
+Concepts
+Differentiation notation
+Second derivative
+Implicit differentiation
+Logarithmic differentiation
+Related rates
+Taylor's theorem
+Rules and identities
+Sum
+Product
+Chain
+Power
+Quotient
+L'H pital's rule
+Inverse
+General Leibniz
+Fa  di Bruno's formula
+Reynolds
+Integral
+Lists of integrals
+Integral transform
+Leibniz integral rule
+Definitions
+Antiderivative
+Integral (improper)
+Riemann integral
+Lebesgue integration
+Contour integration
+Integral of inverse functions
+Integration by
+Parts
+Discs
+Cylindrical shells
+Substitution (trigonometric, tangent half-angle, Euler)
+Euler's formula
+Partial fractions
+Changing order
+Reduction formulae
+Differentiating under the integral sign
+Risch algorithm
+Series
+Geometric (arithmetico-geometric)
+Harmonic
+Alternating
+Power
+Binomial
+Taylor
+Convergence tests
+Summand limit (term test)
+Ratio
+Root
+Integral
+Direct comparison
+Limit comparison
+Alternating series
+Cauchy condensation
+Dirichlet
+Abel
+Vector
+Gradient
+Divergence
+Curl
+Laplacian
+Directional derivative
+Identities
+Theorems
+Gradient
+Green's
+Stokes'
+Divergence
+generalized Stokes
+Multivariable
+Formalisms
+Matrix
+Tensor
+Exterior
+Geometric
+Definitions
+Partial derivative
+Multiple integral
+Line integral
+Surface integral
+Volume integral
+Jacobian
+Hessian
+Advanced
+Calculus on Euclidean space
+Generalized functions
+Limit of distributions
+Specialized
+Fractional
+Malliavin
+Stochastic
+Variations
+Miscellaneous
+Precalculus
+History
+Glossary
+List of topics
+Integration Bee
+Mathematical analysis
+Nonstandard analysis
+vte
+In mathematics education, precalculus  is a course, or a set of courses, that includes algebra and trigonometry at a level which is designed to prepare students for the study of calculus, thus the name precalculus. Schools often distinguish between algebra and trigonometry as two separate parts of the coursework.[1]
+Concept[edit]
+For students to succeed at finding the derivatives and antiderivatives with calculus, they will need facility with algebraic expressions, particularly in modification and transformation of such expressions. Leonhard Euler wrote the first precalculus book in 1748 called Introductio in analysin infinitorum (Latin: Introduction to the Analysis of the Infinite), which "was meant as a survey of concepts and methods in analysis and analytic geometry preliminary to the study of differential and integral calculus."[2] He began with the fundamental concepts of variables and functions. His innovation is noted for its use of exponentiation to introduce the transcendental functions. The general logarithm, to an arbitrary positive base, Euler presents as the inverse of an exponential function.
+Then the natural logarithm is obtained by taking as base "the number for which the hyperbolic logarithm is one", sometimes called Euler's number, and written 
+e
+{\displaystyle e}
+. This appropriation of the significant number from Gregoire de Saint-Vincent s calculus suffices to establish the natural logarithm. This part of precalculus prepares the student for integration of the monomial 
+x
+p
+{\displaystyle x^{p}}
+ in the instance of 
+p
+=
+ 
+1
+{\displaystyle p=-1}
+.
+Today's precalculus text computes 
+e
+{\displaystyle e}
+ as the limit 
+e
+=
+lim
+n
+ 
+ 
+(
+1
++
+1
+n
+)
+n
+{\displaystyle e=\lim _{n\rightarrow \infty }\left(1+{\frac {1}{n}}\right)^{n}}
+. An exposition on compound interest in financial mathematics may motivate this limit. Another difference in the modern text is avoidance of complex numbers, except as they may arise as roots of a quadratic equation with a negative discriminant, or in Euler's formula as application of trigonometry. Euler used not only complex numbers but also infinite series in his precalculus. Today's course may cover arithmetic and geometric sequences and series, but not the application by Saint-Vincent to gain his hyperbolic logarithm, which Euler used to finesse his precalculus.
+Variable content[edit]
+Precalculus prepares students for calculus somewhat differently from the way that pre-algebra prepares students for algebra. While pre-algebra often has extensive coverage of basic algebraic concepts, precalculus courses might see only small amounts of calculus concepts, if at all, and often involves covering algebraic topics that might not have been given attention in earlier algebra courses. Some precalculus courses might differ with others in terms of content. For example, an honors-level course might spend more time on conic sections, Euclidean vectors, and other topics needed for calculus, used in fields such as medicine or engineering. A college preparatory/regular class might focus on topics used in business-related careers, such as matrices, or power functions.
+A standard course considers functions, function composition, and inverse functions, often in connection with sets and real numbers. In particular, polynomials and rational functions are developed. Algebraic skills are exercised with trigonometric functions and trigonometric identities. The binomial theorem, polar coordinates, parametric equations, and the limits of sequences and series are other common topics of precalculus. Sometimes the mathematical induction method of proof for propositions dependent upon a natural number may be demonstrated, but generally coursework involves exercises rather than theory.
+Sample texts[edit]
+Roland E. Larson & Robert P. Hostetler (1989) Precalculus, second edition, D.C. Heath and Company ISBN 0-669-16277-9
+Margaret L. Lial & Charles D. Miller (1988) Precalculus, Scott Foresman ISBN 0-673-15872-1
+Jerome E. Kaufmann (1988) Precalculus, PWS-Kent Publishing Company (Wadsworth)
+Karl J. Smith (1990) Precalculus Mathematics: a functional approach, fourth edition, Brooks/Cole ISBN 0-534-11922-0
+Michael Sullivan (1993) Precalculus, third edition, Dellen imprint of Macmillan Publishers ISBN 0-02-418421-7
+Online access[edit]
+Jay Abramson and others (2014) Precalculus from OpenStax
+David Lippman & Melonie Rasmussen (2017) Precalculus: an investigation of functions
+Carl Stitz & Jeff Zeager (2013) Precalculus (pdf)
+See also[edit]
+Education portalMathematics portal
+AP Precalculus
+AP Calculus
+AP Statistics
+References[edit]
+^ Cangelosi, J. S. (2012). Teaching mathematics in secondary and middle school, an interactive approach. Prentice Hall.
+^ Bos, H. J. M. (1980). "Chapter 2: Newton, Leibnitz and the Leibnizian tradition chapter 2".  In Grattan-Guinness, Ivor (ed.). From the Calculus to Set Theory, 1630   1910: An Introductory History. Duckworth Overlook. p. 76. ISBN 0-7156-1295-6.
+External links[edit]
+Look up precalculus in Wiktionary, the free dictionary.
+Precalculus information at Mathworld
+vteMathematics educationGeography
+United States
+New York
+United Kingdom
+Australia
+Approach
+Traditional
+Exercise
+Three-part lesson
+Singapore
+Saxon
+Reform
+Computer-based
+Modern elementary
+New
+Informal
+Cognitively guided
+Ethno
+Critical
+ Category
+ Commons
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Precalculus&oldid=1149164180"

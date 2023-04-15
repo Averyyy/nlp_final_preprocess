@@ -1,0 +1,432 @@
+United States federal law concerning health information
+Health Insurance Portability and Accountability Act of 1996Other short titlesKassebaum Kennedy Act, Kennedy Kassebaum ActLong titleAn Act To amend the Internal Revenue Code of 1996 to improve portability and continuity of health insurance coverage in the group and individual markets, to combat waste, fraud, and abuse in health insurance and health care delivery, to promote the use of medical savings accounts, to improve access to long-term care services and coverage, to simplify the administration of health insurance, and for other purposes.Acronyms (colloquial)HIPAA (pronounced / h p /, HIP-uh)Enacted bythe 104th United States CongressCitationsPublic lawPub. L. 104 191 (text) (PDF)Statutes at Large110 Stat. 1936Legislative historyIntroduced in the House as H.R. 3103 by Bill Archer (R-TX) on March 18, 1996Committee consideration by House Ways and MeansPassed the House on March 28, 1996 (267 151)Passed the Senate  on April 23, 1996 (100 0, in lieu of S. 1028)Reported by the joint conference committee on July 31, 1996; agreed to by the House on August 1, 1996 (421 2) and by the Senate on August 2, 1996 (98 0)Signed into law by President Bill Clinton on August 21, 1996
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA or the Kennedy Kassebaum Act[1][2]) is a United States Act of Congress enacted by the 104th United States Congress and signed into law by President Bill Clinton on August 21, 1996.[3] It modernized the flow of healthcare information, stipulates how personally identifiable information maintained by the healthcare and healthcare insurance industries should be protected from fraud and theft, and addressed some limitations on healthcare insurance coverage.[citation needed] It generally prohibits healthcare providers and healthcare businesses, called covered entities, from disclosing protected information to anyone other than a patient and the patient's authorized representatives without their consent. With limited exceptions, it does not restrict patients from receiving information about themselves.[4] It does not prohibit patients from voluntarily sharing their health information however they choose, nor does it require confidentiality where a patient discloses medical information to family members, friends, or other individuals not a part of a covered entity.
+The act consists of five titles. Title I of HIPAA protects health insurance coverage for workers and their families when they change or lose their jobs.[5] Title II of HIPAA, known as the Administrative Simplification (AS) provisions, requires the establishment of national standards for electronic health care transactions and national identifiers for providers, health insurance plans, and employers.[6] Title III sets guidelines for pre-tax medical spending accounts, Title IV sets guidelines for group health plans, and Title V governs company-owned life insurance policies.
+Titles[edit]
+There are five sections to the act, known as titles.
+Title I: Health Care Access, Portability, and Renewability[edit]
+Title I of HIPAA regulates the availability and breadth of group health plans and certain individual health insurance policies. It amended the Employee Retirement Income Security Act, the Public Health Service Act, and the Internal Revenue Code. Furthermore, Title I addresses the issue of "job lock" which is the inability for an employee to leave their job because they would lose their health coverage.[7] To combat the job lock issue, the Title protects health insurance coverage for workers and their families if they lose or change their jobs.[8]
+Title I requires the coverage of and also limits restrictions that a group health plan can place on benefits for preexisting conditions. Group health plans may refuse to provide benefits in relation to preexisting conditions for either 12 months following enrollment in the plan or 18 months in the case of late enrollment.[9]  Title I allows individuals to reduce the exclusion period by the amount of time that they have had "creditable coverage" before enrolling in the plan and after any "significant breaks" in coverage.[10] "Creditable coverage" is defined quite broadly and includes nearly all group and individual health plans, Medicare, and Medicaid.[11] A "significant break" in coverage is defined as any 63-day period without any creditable coverage.[12] Along with an exception, allowing employers to tie premiums or co-payments to tobacco use, or body mass index.
+Title I[13] also requires insurers to issue policies without exclusion to those leaving group health plans with creditable coverage (see above) exceeding 18 months, and[14] renew individual policies for as long as they are offered or provide alternatives to discontinued plans for as long as the insurer stays in the market without exclusion regardless of health condition.
+Some health care plans are exempted from Title I requirements, such as long-term health plans and limited-scope plans like dental or vision plans offered separately from the general health plan. However, if such benefits are part of the general health plan, then HIPAA still applies to such benefits. For example, if the new plan offers dental benefits, then it must count creditable continuous coverage under the old health plan towards any of its exclusion periods for dental benefits.
+An alternate method of calculating creditable continuous coverage is available to the health plan under Title I. That is, 5 categories of health coverage can be considered separately, including dental and vision coverage. Anything not under those 5 categories must use the general calculation (e.g., the beneficiary may be counted with 18 months of general coverage, but only 6 months of dental coverage, because the beneficiary did not have a general health plan that covered dental until 6 months prior to the application date). Since limited-coverage plans are exempt from HIPAA requirements, the odd case exists in which the applicant to a general group health plan cannot obtain certificates of creditable continuous coverage for independent limited-scope plans, such as dental to apply towards exclusion periods of the new plan that does include those coverages.
+Hidden exclusion periods are not valid under Title I (e.g., "The accident, to be covered, must have occurred while the beneficiary was covered under this exact same health insurance contract"). Such clauses must not be acted upon by the health plan. Also, they must be re-written so they can comply with HIPAA.[15]
+Title II: Preventing Health Care Fraud and Abuse; Administrative Simplification; Medical Liability Reform[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2010) (Learn how and when to remove this template message)
+Title II of HIPAA establishes policies and procedures for maintaining the privacy and the security of individually identifiable health information, outlines numerous offenses relating to health care, and establishes civil and criminal penalties for violations. It also creates several programs to control fraud and abuse within the health-care system.[16][17][18][19] However, the most significant provisions of Title II are its Administrative Simplification rules. Title II requires the Department of Health and Human Services (HHS) to increase the efficiency of the health-care system by creating standards for the use and dissemination of health-care information.[19]
+These rules apply to "covered entities", as defined by HIPAA and the HHS. Covered entities include health plans, health care clearinghouses (such as billing services and community health information systems), and health care providers that transmit health care data in a way regulated by HIPAA.[20][21]
+Per the requirements of Title II, the HHS has promulgated five rules regarding Administrative Simplification: the Privacy Rule, the Transactions and Code Sets Rule, the Security Rule, the Unique Identifiers Rule, and the Enforcement Rule.
+Privacy Rule[edit]
+The HIPAA Privacy Rule is composed of national regulations for the use and disclosure of Protected Health Information (PHI) in healthcare treatment, payment and operations by covered entities.
+The effective compliance date of the Privacy Rule was April 14, 2003, with a one-year extension for certain "small plans". The HIPAA Privacy Rule regulates the use and disclosure of protected health information (PHI) held by "covered entities" (generally, health care clearinghouses, employer-sponsored health plans, health insurers, and medical service providers that engage in certain transactions).[22] By regulation, the HHS extended the HIPAA privacy rule to independent contractors of covered entities who fit within the definition of "business associates".[23] PHI is any information that is held by a covered entity regarding health status, provision of health care, or health care payment that can be linked to any individual.[20] This is interpreted rather broadly and includes any part of an individual's medical record or payment history. Covered entities must disclose PHI to the individual within 30 days upon request.[24] Also, they must disclose PHI when required to do so by law such as reporting suspected child abuse to state child welfare agencies.[25]
+Covered entities may disclose protected health information to law enforcement officials for law enforcement purposes as required by law (including court orders, court-ordered warrants, subpoenas) and administrative requests; or to identify or locate a suspect, a fugitive, a material witness, or a missing person.[26]
+A covered entity may disclose PHI to certain parties to facilitate treatment, payment, or health care operations without a patient's express written authorization.[27] Any other disclosures of PHI require the covered entity to obtain written authorization from the individual for the disclosure.[28] In any case, when a covered entity discloses any PHI, it must make a reasonable effort to disclose only the minimum necessary information required to achieve its purpose.[29]
+The Privacy Rule gives individuals the right to request a covered entity to correct any inaccurate PHI.[30] Also, it requires covered entities to take some reasonable steps on ensuring the confidentiality of communications with individuals.[31] For example, an individual can ask to be called at their work number instead of home or cell phone numbers.
+The Privacy Rule requires covered entities to notify individuals of uses of their PHI.[32] Covered entities must also keep track of disclosures of PHI and document privacy policies and procedures.[33] They must appoint a Privacy Official and a contact person[34] responsible for receiving complaints and train all members of their workforce in procedures regarding PHI.[35]
+An individual who believes that the Privacy Rule is not being upheld can file a complaint with the Department of Health and Human Services Office for Civil Rights (OCR).[36][37] In 2006 the Wall Street Journal reported that the OCR had a long backlog and ignores most complaints. "Complaints of privacy violations have been piling up at the Department of Health and Human Services. Between April of 2003 and November 2006, the agency fielded 23,886 complaints related to medical-privacy rules, but it has not yet taken any enforcement actions against hospitals, doctors, insurers or anyone else for rule violations. A spokesman for the agency says it has closed three-quarters of the complaints, typically because it found no violation or after it provided informal guidance to the parties involved."[38] However, in July 2011, the University of California, Los Angeles agreed to pay $865,500 in a settlement regarding potential HIPAA violations. An HHS Office for Civil Rights investigation showed that from 2005 to 2008, unauthorized employees repeatedly and without legitimate cause looked at the electronic protected health information of numerous UCLAHS patients.[39]
+It is a misconception that the Privacy Rule creates a right for any individual to refuse to disclose any health information (such as chronic conditions or immunization records) if requested by an employer or business. HIPAA Privacy Rule requirements merely place restrictions on disclosure by covered entities and their business associates without the consent of the individual whose records are being requested; they do not place any restrictions upon requesting health information directly from the subject of that information.[40][41][42]
+2013 Final Omnibus Rule update[edit]
+In January 2013, HIPAA was updated via the Final Omnibus Rule.[43] The updates included changes to the Security Rule and Breach Notification portions of the HITECH Act. The most significant changes related to the expansion of requirements to include business associates, where only covered entities had originally been held to uphold these sections of the law.[44]
+In addition, the definition of "significant harm" to an individual in the analysis of a breach was updated to provide more scrutiny to covered entities with the intent of disclosing breaches that previously were unreported. Previously, an organization needed proof that harm had occurred whereas now organizations must prove that harm had not occurred.
+Protection of PHI was changed from indefinite to 50 years after death. More severe penalties for violation of PHI privacy requirements were also approved.[45]
+The HIPAA Privacy rule may be waived during natural disaster. This was the case with Hurricane Harvey in 2017.[46]
+HITECH Act: privacy requirements[edit]
+See the Privacy section of the Health Information Technology for Economic and Clinical Health Act (HITECH Act).
+Right to access one's PHI[edit]
+The Privacy Rule requires medical providers to give individuals access to their PHI.[47]  After an individual requests information in writing (typically using the provider's form for this purpose), a provider has up to 30 days to provide a copy of the information to the individual.  An individual may request the information in electronic form or hard-copy, and the provider is obligated to attempt to conform to the requested format.  For providers using an electronic health record (EHR) system that is certified using CEHRT (Certified Electronic Health Record Technology) criteria, individuals must be allowed to obtain the PHI in electronic form.  Providers are encouraged to provide the information expediently, especially in the case of electronic record requests.
+Individuals have the broad right to access their health-related information, including medical records, notes, images, lab results, and insurance and billing information.[48]  Explicitly excluded are the private psychotherapy notes of a provider, and information gathered by a provider to defend against a lawsuit.[49]
+Providers can charge a reasonable amount that relates to their cost of providing the copy, however, no charge is allowable when providing data electronically from a certified EHR using the "view, download, and transfer" feature which is required for certification.  When delivered to the individual in electronic form, the individual may authorize delivery using either encrypted or unencrypted email, delivery using media (USB drive, CD, etc., which may involve a charge), direct messaging (a secure email technology in common use in the healthcare industry), or possibly other methods.  When using un-encrypted email, the individual must understand and accept the risks to privacy using this technology (the information may be intercepted and examined by others).  Regardless of delivery technology, a provider must continue to fully secure the PHI while in their system and can deny the delivery method if it poses additional risk to PHI while in their system.[50]
+An individual may also request (in writing) that their PHI is delivered to a designated third party such as a family care provider.
+An individual may also request (in writing) that the provider send PHI to a designated service used to collect or manage their records, such as a Personal Health Record application.  For example, a patient can request in writing that her ob-gyn provider digitally transmit records of her latest pre-natal visit to a pregnancy self-care app that she has on her mobile phone.
+Disclosure to relatives[edit]
+According to their interpretations of HIPAA, hospitals will not reveal information over the phone to relatives of admitted patients. This has in some instances impeded the location of missing persons. After the Asiana Airlines Flight 214 San Francisco crash, some hospitals were reluctant to disclose the identities of passengers that they were treating, making it difficult for Asiana and the relatives to locate them.[51] In one instance, a man in Washington state was unable to obtain information about his injured mother.[52]
+Janlori Goldman, director of the advocacy group Health Privacy Project, said that some hospitals are being "overcautious" and misapplying the law, the Times reports. Suburban Hospital in Bethesda, Md., has interpreted a federal regulation that requires hospitals to allow patients to opt out of being included in the hospital directory as meaning that patients want to be kept out of the directory unless they specifically say otherwise. As a result, if a patient is unconscious or otherwise unable to choose to be included in the directory, relatives and friends might not be able to find them, Goldman said.[53]
+Transactions and Code Sets Rule[edit]
+HIPAA was intended to make the health care system in the United States more efficient by standardizing health care transactions. HIPAA added a new Part C titled "Administrative Simplification" to Title XI of the Social Security Act.[54] This is supposed to simplify healthcare transactions by requiring all health plans to engage in health care transactions in a standardized way.
+The HIPAA/EDI (electronic data interchange) provision was scheduled to take effect from October 16, 2003, with a one-year extension for certain "small plans". However, due to widespread confusion and difficulty in implementing the rule, CMS granted a one-year extension to all parties.[citation needed] On January 1, 2012 newer versions, ASC X12 005010 and NCPDP D.0 become effective, replacing the previous ASC X12 004010 and NCPDP 5.1 mandate.[55] The ASC X12 005010 version provides a mechanism allowing the use of ICD-10-CM as well as other improvements.
+After July 1, 2005 most medical providers that file electronically had to file their electronic claims using the HIPAA standards in order to be paid.[56]
+Under HIPAA, HIPAA-covered health plans are now required to use standardized HIPAA electronic transactions. See, 42 USC   1320d-2 and 45 CFR Part 162. Information about this can be found in the final rule for HIPAA electronic transaction standards (74 Fed. Reg. 3296, published in the Federal Register on January 16, 2009), and on the CMS website.[57]
+Key EDI (X12) transactions used for HIPAA compliance are:[58][citation needed]
+EDI Health Care Claim Transaction set (837) is used to submit health care claim billing information, encounter information, or both, except for retail pharmacy claims (see EDI Retail Pharmacy Claim Transaction). It can be sent from providers of health care services to payers, either directly or via intermediary billers and claims clearinghouses. It can also be used to transmit health care claims and billing payment information between payers with different payment responsibilities where coordination of benefits is required or between payers and regulatory agencies to monitor the rendering, billing, and/or payment of health care services within a specific health care/insurance industry segment.
+For example, a state mental health agency may mandate all healthcare claims, Providers and health plans who trade professional (medical) health care claims electronically must use the 837 Health Care Claim: Professional standard to send in claims. As there are many different business applications for the Health Care claim, there can be slight derivations to cover off claims involving unique claims such as for institutions, professionals, chiropractors, and dentists etc.
+EDI Retail Pharmacy Claim Transaction (NCPDP Telecommunications Standard version 5.1) is used to submit retail pharmacy claims to payers by health care professionals who dispense medications, either directly or via intermediary billers and claims clearinghouses. It can also be used to transmit claims for retail pharmacy services and billing payment information between payers with different payment responsibilities where coordination of benefits is required or between payers and regulatory agencies to monitor the rendering, billing, and/or payment of retail pharmacy services within the pharmacy health care/insurance industry segment.
+EDI Health Care Claim Payment/Advice Transaction Set (835) can be used to make a payment, send an Explanation of Benefits (EOB), send an Explanation of Payments (EOP) remittance advice, or make a payment and send an EOP remittance advice only from a health insurer to a health care provider either directly or via a financial institution.
+EDI Benefit Enrollment and Maintenance Set (834) can be used by employers, unions, government agencies, associations or insurance agencies to enroll members to a payer. The payer is a healthcare organization that pays claims, administers insurance or benefit or product. Examples of payers include an insurance company, healthcare professional (HMO), preferred provider organization (PPO), government agency (Medicaid, Medicare etc.) or any organization that may be contracted by one of these former groups.
+EDI Payroll Deducted and another group Premium Payment for Insurance Products (820) is a transaction set for making a premium payment for insurance products. It can be used to order a financial institution to make a payment to a payee.
+EDI Health Care Eligibility/Benefit Inquiry (270) is used to inquire about the health care benefits and eligibility associated with a subscriber or dependent.
+EDI Health Care Eligibility/Benefit Response (271) is used to respond to a request inquiry about the health care benefits and eligibility associated with a subscriber or dependent.
+EDI Health Care Claim Status Request (276) This transaction set can be used by a provider, recipient of health care products or services or their authorized agent to request the status of a health care claim.
+EDI Health Care Claim Status Notification (277) This transaction set can be used by a healthcare payer or authorized agent to notify a provider, recipient or authorized agent regarding the status of a health care claim or encounter, or to request additional information from the provider regarding a health care claim or encounter. This transaction set is not intended to replace the Health Care Claim Payment/Advice Transaction Set (835) and therefore, is not used for account payment posting. The notification is at a summary or service line detail level. The notification may be solicited or unsolicited.
+EDI Health Care Service Review Information (278) This transaction set can be used to transmit health care service information, such as subscriber, patient, demographic, diagnosis or treatment data for the purpose of the request for review, certification, notification or reporting the outcome of a health care services review.
+EDI Functional Acknowledgement Transaction Set (997) this transaction set can be used to define the control structures for a set of acknowledgments to indicate the results of the syntactical analysis of the electronically encoded documents. Although it is not specifically named in the HIPAA Legislation or Final Rule, it is necessary for X12 transaction set processing. The encoded documents are the transaction sets, which are grouped in functional groups, used in defining transactions for business data interchange. This standard does not cover the semantic meaning of the information encoded in the transaction sets.
+Brief 5010 Transactions and Code Sets Rules Update Summary[edit]
+Transaction Set (997) will be replaced by Transaction Set (999) "acknowledgment report".
+The size of many fields {segment elements} will be expanded, causing a need for all IT providers to expand corresponding fields, element, files, GUI, paper media, and databases.
+Some segments have been removed from existing Transaction Sets.
+Many segments have been added to existing Transaction Sets allowing greater tracking and reporting of cost and patient encounters.
+Capacity to use both "International Classification of Diseases" versions 9 (ICD-9) and 10 (ICD-10-CM) has been added.[59][60]
+Security Rule[edit]
+The Final Rule on Security Standards was issued on February 20, 2003. It took effect on April 21, 2003, with a compliance date of April 21, 2005, for most covered entities and April 21, 2006, for "small plans".[citation needed]The Security Rule complements the Privacy Rule. While the Privacy Rule pertains to all Protected Health Information (PHI) including paper and electronic, the Security Rule deals specifically with Electronic Protected Health Information (EPHI). It lays out three types of security safeguards required for compliance: administrative, physical, and technical.[61] For each of these types, the Rule identifies various security standards, and for each standard, it names both required and addressable implementation specifications. Required specifications must be adopted and administered as dictated by the Rule. Addressable specifications are more flexible. Individual covered entities can evaluate their own situation and determine the best way to implement addressable specifications. Some privacy advocates have argued that this "flexibility" may provide too much latitude to covered entities.[62] Software tools have been developed to assist covered entities in the risk analysis and remediation tracking. The standards and specifications are as follows:
+Administrative Safeguards   policies and procedures designed to clearly show how the entity will comply with the act
+Covered entities (entities that must comply with HIPAA requirements) must adopt a written set of privacy procedures and designate a privacy officer to be responsible for developing and implementing all required policies and procedures.
+The policies and procedures must reference management oversight and organizational buy-in to compliance with the documented security controls.
+Procedures should clearly identify employees or classes of employees who have access to electronic protected health information (EPHI). Access to EPHI  must be restricted to only those employees who have a need for it to complete their job function.
+The procedures must address access authorization, establishment, modification, and termination.
+Entities must show that an appropriate ongoing training program regarding the handling of PHI is provided to employees performing health plan administrative functions.
+Covered entities that out-source some of their business processes to a third party must ensure that their vendors also have a framework in place to comply with HIPAA requirements. Companies typically gain this assurance through clauses in the contracts stating that the vendor will meet the same data protection requirements that apply to the covered entity. Care must be taken to determine if the vendor further out-sources any data handling functions to other vendors and monitor whether appropriate contracts and controls are in place.
+A contingency plan should be in place for responding to emergencies. Covered entities are responsible for backing up their data and having disaster recovery procedures in place. The plan should document data priority and failure analysis, testing activities, and change control procedures.
+Internal audits play a key role in HIPAA compliance by reviewing operations with the goal of identifying potential security violations. Policies and procedures should specifically document the scope, frequency, and procedures of audits. Audits should be both routine and event-based.
+Procedures should document instructions for addressing and responding to security breaches that are identified either during the audit or the normal course of operations.
+Physical Safeguards   controlling physical access to protect against inappropriate access to protected data
+Controls must govern the introduction and removal of hardware and software from the network. (When equipment is retired it must be disposed of properly to ensure that PHI is not compromised.)
+Access to equipment containing health information should be carefully controlled and monitored.
+Access to hardware and software must be limited to properly authorized individuals.
+Required access controls consist of facility security plans, maintenance records, and visitor sign-in and escorts.
+Policies are required to address proper workstation use. Workstations should be removed from high traffic areas and monitor screens should not be in direct view of the public.
+If the covered entities utilize contractors or agents, they too must be fully trained on their physical access responsibilities.
+Technical Safeguards   controlling access to computer systems and enabling covered entities to protect communications containing PHI transmitted electronically over open networks from being intercepted by anyone other than the intended recipient.
+Information systems housing PHI must be protected from intrusion. When information flows over open networks, some form of encryption must be utilized. If closed systems/networks are utilized, existing access controls are considered sufficient and encryption is optional.
+Each covered entity is responsible for ensuring that the data within its systems has not been changed or erased in an unauthorized manner.
+Data corroboration, including the use of a checksum, double-keying, message authentication, and digital signature may be used to ensure data integrity.
+Covered entities must also authenticate entities with which they communicate. Authentication consists of corroborating that an entity is who it claims to be. Examples of corroboration include password systems, two or three-way handshakes, telephone callback, and token systems.
+Covered entities must make documentation of their HIPAA practices available to the government to determine compliance.
+In addition to policies and procedures and access records, information technology documentation should also include a written record of all configuration settings on the components of the network because these components are complex, configurable, and always changing.
+Documented risk analysis and risk management programs are required. Covered entities must carefully consider the risks of their operations as they implement systems to comply with the act. (The requirement of risk analysis and risk management implies that the act's security requirements are a minimum standard and places responsibility on covered entities to take all reasonable precautions necessary to prevent PHI from being used for non-health purposes.)
+Unique Identifiers Rule (National Provider Identifier)[edit]
+HIPAA covered entities such as providers completing electronic transactions, healthcare clearinghouses, and large health plans must use only the National Provider Identifier (NPI) to identify covered healthcare providers in standard transactions by May 23, 2007. Small health plans must use only the NPI by May 23, 2008.
+Effective from May 2006 (May 2007 for small health plans), all covered entities using electronic communications (e.g., physicians, hospitals, health insurance companies, and so forth) must use a single new NPI. The NPI replaces all other identifiers used by health plans, Medicare, Medicaid, and other government programs.[63] However, the NPI does not replace a provider's DEA number, state license number, or tax identification number. The NPI is 10 digits (may be alphanumeric), with the last digit being a checksum. The NPI cannot contain any embedded intelligence; in other words, the NPI is simply a number that does not itself have any additional meaning. The NPI is unique and national, never re-used, and except for institutions, a provider usually can have only one. An institution may obtain multiple NPIs for different "sub-parts" such as a free-standing cancer center or rehab facility.
+Enforcement Rule[edit]
+On February 16, 2006, HHS issued the Final Rule regarding HIPAA enforcement. It became effective on March 16, 2006. The Enforcement Rule sets civil money penalties for violating HIPAA rules and establishes procedures for investigations and hearings for HIPAA violations. For many years there were few prosecutions for violations.[64]
+This may have changed with the fining of $50,000 to the Hospice of North Idaho (HONI) as the first entity to be fined for a potential HIPAA Security Rule breach affecting fewer than 500 people. Rachel Seeger, a spokeswoman for HHS, stated, "HONI did not conduct an accurate and thorough risk analysis to the confidentiality of ePHI [electronic Protected Health Information] as part of its security management process from 2005 through Jan. 17, 2012." This investigation was initiated with the theft from an employees vehicle of an unencrypted laptop containing 441 patient records.[65]
+Wikisource has original text related to this article:
+American Recovery and Reinvestment Act of 2009/Division A/Title XIII/Subtitle D
+As of March 2013, the U.S. Dept. of Health and Human Services (HHS) has investigated over 19,306 cases that have been resolved by requiring changes in privacy practice or by corrective action. If noncompliance is determined by HHS, entities must apply corrective measures. Complaints have been investigated against many different types of businesses such as national pharmacy chains, major health care centers, insurance groups, hospital chains and other small providers. There were 9,146 cases where the HHS investigation found that HIPAA was followed correctly. There were 44,118 cases that HHS did not find eligible cause for enforcement; for example, a violation that started before HIPAA started; cases withdrawn by the pursuer; or an activity that does not actually violate the Rules. According to the HHS website,[66] the following lists the issues that have been reported according to frequency:
+Misuse and disclosures of PHI
+No protection in place of health information
+Patient unable to access their health information
+Using or disclosing more than the minimum necessary protected health information
+No safeguards of electronic protected health information.
+The most common entities required to take corrective action to be in voluntary compliance according to HHS are listed by frequency:[66]
+Private Practices
+Hospitals
+Outpatient Facilities
+Group plans such as insurance groups
+Pharmacies
+Title III: Tax-related health provisions governing medical savings accounts[edit]
+Title III standardizes the amount that may be saved per person in a pre-tax medical savings account. Beginning in 1997, a medical savings
+account ("MSA") became available to employees covered under an employer-sponsored high deductible plan of a small employer and
+self-employed individuals.
+Title IV: Application and enforcement of group health insurance requirements[edit]
+Title IV specifies conditions for group health plans regarding coverage of persons with pre-existing conditions, and modifies continuation of coverage requirements.  It also clarifies continuation coverage requirements and includes COBRA clarification.
+Title V: Revenue offset governing tax deductions for employers[edit]
+Title V includes provisions related to company-owned life insurance for employers providing company-owned life insurance premiums, prohibiting the tax-deduction of interest on life insurance loans, company endowments, or contracts related to the company. It also repeals the financial institution rule to interest allocation rules. Finally, it amends provisions of law relating to people who give up United States citizenship or permanent residence, expanding the expatriation tax to be assessed against those deemed to be giving up their U.S. status for tax reasons, and making ex-citizens' names part of the public record through the creation of the Quarterly Publication of Individuals Who Have Chosen to Expatriate.[67]
+Effects on research and clinical care[edit]
+The enactment of the Privacy and Security Rules has caused major changes in the way physicians and medical centers operate. The complex legalities and potentially stiff penalties associated with HIPAA, as well as the increase in paperwork and the cost of its implementation, were causes for concern among physicians and medical centers. An August 2006 article in the journal Annals of Internal Medicine detailed some such concerns over the implementation and effects of HIPAA.[68]
+Effects on research[edit]
+HIPAA restrictions on researchers have affected their ability to perform retrospective, chart-based research as well as their ability to prospectively evaluate patients by contacting them for follow-up. A study from the University of Michigan demonstrated that implementation of the HIPAA Privacy rule resulted in a drop from 96% to 34% in the proportion of follow-up surveys completed by study patients being followed after a heart attack.[69] Another study, detailing the effects of HIPAA on recruitment for a study on cancer prevention, demonstrated that HIPAA-mandated changes led to a 73% decrease in patient accrual, a tripling of time spent recruiting patients, and a tripling of mean recruitment costs.[70]
+In addition, informed consent forms for research studies now are required to include extensive detail on how the participant's protected health information will be kept private. While such information is important, the addition of a lengthy, legalistic section on privacy may make these already complex documents even less user-friendly for patients who are asked to read and sign them.
+These data suggest that the HIPAA privacy rule, as currently implemented, may be having negative impacts on the cost and quality of medical research. Dr. Kim Eagle, professor of internal medicine at the University of Michigan, was quoted in the Annals article as saying, "Privacy is important, but research is also important for improving care. We hope that we will figure this out and do it right."[68]
+Effects on clinical care[edit]
+The complexity of HIPAA, combined with potentially stiff penalties for violators, can lead physicians and medical centers to withhold information from those who may have a right to it. A review of the implementation of the HIPAA Privacy Rule by the U.S. Government Accountability Office found that health care providers were "uncertain about their legal privacy responsibilities and often responded with an overly guarded approach to disclosing information ... than necessary to ensure compliance with the Privacy rule".[68] Reports of this uncertainty continue.[71]
+Costs of implementation[edit]
+In the period immediately prior to the enactment of the HIPAA Privacy and Security Acts, medical centers and medical practices were charged with getting "into compliance". With an early emphasis on the potentially severe penalties associated with violation, many practices and centers turned to private, for-profit "HIPAA consultants" who were intimately familiar with the details of the legislation and offered their services to ensure that physicians and medical centers were fully "in compliance". In addition to the costs of developing and revamping systems and practices, the increase in paperwork and staff time necessary to meet the legal requirements of HIPAA may impact the finances of medical centers and practices at a time when insurance companies' and Medicare reimbursement is also declining.[citation needed]
+Education and training[edit]
+Education and training of healthcare providers is a requirement for correct implementation of both the HIPAA Privacy Rule and Security Rule.[72][73][74]
+HIPAA acronym[edit]
+Although the acronym HIPAA matches the title of the 1996 Public Law 104-191, Health Insurance Portability and Accountability Act, HIPAA is sometimes incorrectly referred to as "Health Information Privacy and Portability Act (HIPPA)."[75][76]
+Violations[edit]
+ A breakdown of the HIPAA violations that resulted in the illegal exposure of personal information.
+According to the US Department of Health and Human Services Office for Civil Rights, between April 2003 and January 2013, it received 91,000 complaints of HIPAA violations, in which 22,000 led to enforcement actions of varying kinds (from settlements to fines) and 521 led to referrals to the US Department of Justice as criminal actions.[77] Examples of significant breaches of protected information and other HIPAA violations include:
+The largest loss of data that affected 4.9 million people by Tricare Management of Virginia in 2011[78]
+The largest fines of $5.5 million levied against Memorial Healthcare Systems in 2017 for accessing confidential information of 115,143 patients[79] and of $4.3 million levied against Cignet Health of Maryland in 2010 for ignoring patients' requests to obtain copies of their own records and repeated ignoring of federal officials' inquiries[80]
+The first criminal indictment was lodged in 2011 against a Virginia physician who shared information with a patient's employer "under the false pretenses that the patient was a serious and imminent threat to the safety of the public, when in fact he knew that the patient was not such a threat."[81]
+According to Koczkodaj et al., 2018,[82] the total number of individuals affected since October 2009 is 173,398,820.
+The differences between civil and criminal penalties are summarized in the following table:
+Type of Violation
+CIVIL Penalty (min)
+CIVIL Penalty (max)
+Individual did not know (and by exercising reasonable diligence would not have known) that he/she violated HIPAA
+$100 per violation, with an annual maximum of $25,000 for repeat violations
+$50,000 per violation, with an annual maximum of $1.5 million
+HIPAA violation due to reasonable cause and not due to willful neglect
+$1,000 per violation, with an annual maximum of $100,000 for repeat violations
+$50,000 per violation, with an annual maximum of $1.5 million
+HIPAA violation due to willful neglect but violation is corrected within the required time period
+$10,000 per violation, with an annual maximum of $250,000 for repeat violations
+$50,000 per violation, with an annual maximum of $1.5 million
+HIPAA violation is due to willful neglect and is not corrected
+$50,000 per violation, with an annual maximum of $1,000,000
+$50,000 per violation, with an annual maximum of $1.5 million
+Type of Violation
+CRIMINAL Penalty
+Covered entities and specified individuals  who "knowingly" obtain or disclose individually identifiable health information
+A fine of up to $50,000
+Imprisonment up to 1 year
+Offenses committed under false pretenses
+A fine of up to $100,000
+Imprisonment up to 5 years
+Offenses committed with the intent to sell, transfer, or use individually identifiable health information for commercial advantage, personal gain or malicious harm
+A fine of up to $250,000
+Imprisonment up to 10 years
+Legislative information[edit]
+In 1994, President Clinton had ambitions to renovate the state of the nation's health care. Despite his efforts to revamp the system, he did not receive the support he needed at the time.[83] The Congressional Quarterly Almanac of 1996 explains how two senators, Nancy Kassebaum (R-KS) and Edward Kennedy (D-MA) came together and created a bill called the Health Insurance Reform Act of 1995 or more commonly known as the Kassebaum-Kennedy Bill.[84] This bill was stalled despite making it out of the Senate. Undeterred by this, Clinton pushed harder for his ambitions and eventually in 1996 after the State of the Union address, there was some headway as it resulted in bipartisan cooperation.[83] After much debate and negotiation, there was a shift in momentum once a  compromise between Kennedy and Ways and Means Committee Chairman Bill Archer  was accepted after alterations were made of the original Kassebaum-Kennedy Bill.[85] Soon after this, the bill was signed into law by President Clinton and was named the Health Insurance Portability and Accountability Act of 1996 (HIPAA).
+Pub. L. 104 191 (text) (PDF), 110 Stat. 1936
+H.R. 3103; H. Rept. 104-469, part 1; H. Rept. 104-736
+S. 1028; S. 1698; S. Rept. 104-156
+HHS Security Standards, 45 CFR 160, 45 CFR 162, and 45 CFR 164
+HHS Standards for Privacy of Individually Identifiable Health Information, 45 CFR 160 and 45 CFR 164
+References[edit]
+^ Atchinson, Brian K.; Fox, Daniel M. (May June 1997). "The Politics Of The Health Insurance Portability And Accountability Act" (PDF). Health Affairs. 16 (3): 146 150. doi:10.1377/hlthaff.16.3.146. PMID 9141331. Archived from the original (PDF) on 2014-01-16. Retrieved 2014-01-16.
+^ "104th Congress, 1st Session, S.1028" (PDF). Archived (PDF) from the original on 2012-06-16.
+^ "Health insurance portability and accountability act of 1996". Public Law.
+^ "Your Medical Records". 19 November 2008.
+^ "Health Plans & Benefits: Portability of Health Coverage". United States Department of Labor. 2015-12-09. Archived from the original on 2016-12-20. Retrieved 2016-11-05.
+^ "Overview". www.cms.gov. 2016-09-13. Archived from the original on 2016-11-02. Retrieved 2016-11-05.
+^ Berger, Mark C.; Black, Dan A.; Scott, Frank A. (2004). "Is There Job Lock? Evidence from the Pre-HIPAA Era". Southern Economic Journal. 70 (4): 953 976. doi:10.2307/4135282. ISSN 0038-4038. JSTOR 4135282.
+^ "HIPAA Title Information". www.dhcs.ca.gov. Retrieved 2021-10-31.
+^ 29 U.S.C. 1181(a)(2)
+^ 29 U.S.C. 1181(a)(3)
+^ 29 U.S.C. 1181(c)(1)
+^ 29 U.S.C. 1181(c)(2)(A)
+^ (Sub B Sec 110)
+^ (Sub B Sec 111)
+^ "HIPAA for Healthcare Workers: The Privacy Rule". 2014. doi:10.4135/9781529727890. {{cite journal}}: Cite journal requires |journal= (help)
+^ 42 U.S.C. 1320a-7c
+^ 42 U.S.C. 1395ddd
+^ 42 U.S.C. 1395b-5
+^ a b "42 U.S. Code   1395ddd - Medicare Integrity Program". LII / Legal Information Institute. Archived from the original on 2018-03-21. Retrieved 2018-03-21.
+^ a b 45 CFR 160.103
+^ "What is the Definition of a HIPAA Covered Entity? - NetSec.News". 9 October 2017. Archived from the original on 6 May 2018.
+^ Terry, Ken "Patient Privacy - The New Threats" Archived 2015-11-20 at the Wayback Machine Physicians Practice journal, volume 19, number 3, year 2009, access date July 2, 2009
+^ See 45 CFR Sections 160.102 and 160.103 Archived 2012-01-12 at the Wayback Machine.
+^ 45 CFR 164.524
+^ 45 CFR 164.512
+^ (OCR), Office for Civil Rights (7 May 2008). "Summary of the HIPAA Privacy Rule". Archived from the original on 6 December 2015.
+^ 45 CFR 164.524
+^ 45 CFR 164.502
+^ 45 CFR 164.502
+^ 45 CFR 164.526
+^ 45 CFR 164.522
+^ Rowe, Linda (2005). "What Judicial Officers Need to Know about the HIPAA Privacy Rule". NASPA Journal. 42 (4): 498 512. doi:10.2202/0027-6014.1537. ProQuest 62084860.
+^ 45 CFR 164.528
+^ 45 CFR 164.530
+^ 45 CFR 164.530
+^ "How to File A Health Information Privacy Complaint with the Office for Civil Rights" (PDF). Archived from the original (PDF) on 2016-12-21. Retrieved 2017-10-07.
+^ 45 CFR 160.306
+^ "Spread of records stirs fears of privacy erosion" Archived 2017-07-10 at the Wayback Machine, December 23, 2006, by Theo Francis, The Wall Street Journal
+^ "University of California settles HIPAA Privacy and Security case involving UCLA Health System facilities". Department of Health and Human Services. Archived from the original on 2017-10-12.
+^ Kavi, Aishvarya (2021-07-22). "How the HIPAA Law Works and Why People Get It Wrong". The New York Times. ISSN 0362-4331. Retrieved 2021-07-23.
+^ Chiu, Allyson (2021-05-22). "Explaining HIPAA: No, it doesn't ban questions about your vaccination status". Washington Post. Retrieved 2021-07-23.{{cite news}}:  CS1 maint: url-status (link)
+^ "Lawmaker Marjorie Taylor Greene, in Ten Words or Less, Gets HIPAA All Wrong". Law & Crime. 2021-07-21. Retrieved 2021-07-23.
+^ (OCR), Office for Civil Rights (30 October 2015). "Omnibus HIPAA Rulemaking".
+^ "What are the Differences Between a HIPAA Business Associate and HIPAA Covered Entity". HIPAA Journal. 2017-10-06. Archived from the original on 2018-02-18. Retrieved 2017-10-12.
+^ Health Information of Deceased Individuals Archived 2017-10-19 at the Wayback Machine 2013
+^ "HIPAA Privacy Rule Violation Penalties Waived in Wake of Hurricane Harvey - netsec.news". netsec.news. 2017-08-28. Archived from the original on 2018-05-06. Retrieved 2017-10-28.
+^ (OCR), Health Information Privacy Division, Office for Civil Rights (2016-01-05). "Individuals' Right under HIPAA to Access their Health Information". HHS.gov. Archived from the original on 2017-12-02. Retrieved 2017-12-10. {{cite news}}: |first= has generic name (help)
+^ Rights (OCR), Office for Civil (2016-06-24). "2042-What personal health information do individuals have a right under HIPAA to access from their health care providers and health plans?". HHS.gov. Retrieved 2021-09-01.
+^ "Individuals' Right under HIPAA to Access their Health Information 45 CFR   164.524". U.S. Department of Health & Human Services. 5 January 2016. Retrieved 10 April 2021.
+^ Rights (OCR), Office for Civil (2009-11-20). "Summary of the HIPAA Security Rule". HHS.gov. Retrieved 2021-03-17.
+^ Ahlers, Mike M. (25 February 2014). "Asiana fined $500,000 for failing to help families - CNN". CNN. Archived from the original on 2014-02-27.
+^ "First Amendment Center | Freedom Forum Institute". Archived from the original on 2016-06-05. Retrieved 2016-04-19.
+^ "New York Times Examines 'Unintended Consequences' of HIPAA Privacy Rule". 3 June 2003. Archived from the original on 6 May 2016.
+^ U.S. Social Security Administration. "TITLE XI General Provisions, Peer Review, and Administrative Simplification". www.ssa.gov. Retrieved 2020-07-18.
+^ "Overview". www.cms.gov. 26 July 2017. Archived from the original on 18 October 2017.
+^ "What are the HIPAA Administrative Simplification Regulations?". 20 October 2017. Archived from the original on 19 February 2018.
+^ "Overview". www.cms.gov. 28 March 2016. Archived from the original on 12 February 2012.
+^ Kibbe, David C. (December 2001). "What the HIPAA Transaction and Code Set Standards Will Mean for Your Practice". Family Practice Management. 8 (10): 28 32. ISSN 1069-5648. PMID 11757237.
+^ CSM.gov "Medicare & Medicaid Services" "Standards for Electronic Transactions-New Versions, New Standard and New Code Set   Final Rules"
+^ "The Looming Problem in Healthcare EDI: ICD-10 and HIPAA 5010 migration" October 10, 2009   Shahid N. Shah
+^ "HIPAA security rule & risk analysis". American Medical Association.
+^ Wafa, Tim (Summer 2010). "How the Lack of Prescriptive Technical Granularity in HIPAA Has Compromised Patient Privacy". Northern Illinois University Law Review. 30 (3). SSRN 1547425.
+^ Health Insurance Portability and Accountability Act of 1996 (HIPAA). Archived 2014-01-08 at the Wayback Machine Steve Anderson: HealthInsurance.org.
+^ Medical Privacy Law Nets No Fines. Archived 2017-10-13 at the Wayback Machine Rob Stein: The Washington Post.
+^ "Feds step up HIPAA enforcement with hospice settlement - SC Magazine". Archived from the original on 2013-01-09. Retrieved 2013-01-09. Feds step up HIPAA enforcement with hospice settlement
+^ a b Enforcement Information Archived 2017-08-21 at the Wayback Machine 2017
+^ Kirsch, Michael S. (2004). "Alternative Sanctions and the Federal Tax Law: Symbols, Shaming, and Social Norm Management as a Substitute for Effective Tax Policy". Iowa Law Review. 89 (863). SSRN 552730.
+^ a b c Wilson J (2006). "Health Insurance Portability and Accountability Act Privacy rule causes ongoing concerns among clinicians and researchers". Ann Intern Med. 145 (4): 313 6. doi:10.7326/0003-4819-145-4-200608150-00019. PMID 16908928.
+^ Armstrong D, Kline-Rogers E, Jani S, Goldman E, Fang J, Mukherjee D, Nallamothu B, Eagle K (2005). "Potential impact of the HIPAA privacy rule on data collection in a registry of patients with acute coronary syndrome". Arch Intern Med. 165 (10): 1125 9. doi:10.1001/archinte.165.10.1125. PMID 15911725.
+^ Wolf M, Bennett C (2006). "Local perspective of the impact of the HIPAA privacy rule on research". Cancer. 106 (2): 474 9. doi:10.1002/cncr.21599. PMID 16342254.
+^ Gross, Jane (July 3, 2007). "Keeping Patients' Details Private, Even From Kin". The New York Times. Archived from the original on August 12, 2017. Retrieved August 11, 2019.
+^ "Federal Register :: Request Access".
+^ "Federal Register :: Request Access".
+^ "HIPAA Training Requirements".
+^ "United States District Court" (PDF). September 16, 2010. violation of the Health Information Privacy and Portability Act. ("HIPPA")
+^ S. E. Ross (2003). "The Effects of Promoting Patient Access to Medical Records: A Review". Journal of the American Medical Informatics Association. 10 (2): 129 138. doi:10.1197/jamia.M1147. PMC 150366. PMID 12595402. The Health Insurance Privacy and Portability Act (HIPPA) stipulates that ...
+^ "Enforcement Highlights". OCR Home, Health Information Privacy, Enforcement Activities & Results, Enforcement Highlights. U.S. Department of Health & Human Services. Archived from the original on 5 March 2014. Retrieved 3 March 2014.
+^ "Breaches Affecting 500 or more Individuals". OCR Home, Health Information Privacy, HIPAA Administrative Simplification Statute and Rules, Breach Notification Rule. U.S. Department of Health & Human Services. Archived from the original on 15 March 2015. Retrieved 3 March 2014.
+^ "Record HIPAA Settlement Announced: $5.5 Million Paid by Memorial Healthcare Systems". HIPAA Journal. February 17, 2017.
+^ "Civil Money Penalty". HHS Official Site. U.S. Department of Health & Human Services. October 2010. Archived from the original on 8 October 2017. Retrieved 8 October 2017.
+^ "HIPAA Privacy Complaint Results in Federal Criminal Prosecution for First Time". HIPAA Journal. July 2011. Archived from the original on 17 February 2018. Retrieved 10 October 2017.
+^ Koczkodaj, Waldemar W.; Mazurek, Miros aw; Strza ka, Dominik; Wolny-Dominiak, Alicja; Woodbury-Smith, Marc (2018). Social Indicators Research, https://link.springer.com/article/10.1007/s11205-018-1837-z Electronic Health Record Breaches as Social Indicators.
+^ a b "Health Insurance Portability and Accountability Act - LIMSWiki". www.limswiki.org. Retrieved 2021-10-10.
+^ Cade, Dozier C. (1951). "Book Review: Congressional Quarterly Almanac: 81st Congress, 2nd Session. Vol. VI". Journalism Quarterly. 28 (3): 389 390. doi:10.1177/107769905102800313. ISSN 0022-5533. S2CID 164443756.
+^ "The Health Insurance Portability and Accountability Act (HIPAA) | Colleaga". www.colleaga.org. Retrieved 2021-10-10.
+External links[edit]
+California Office of HIPAA Implementation Archived 2012-11-01 at the Wayback Machine (CalOHI)
+"HIPAA", Centers for Medicare and Medicaid Services
+Congressional Research Service (CRS) reports regarding HIPAA, University of North Texas Libraries
+Full text of the Health Insurance Portability and Accountability Act (PDF/TXT) U.S. Government Printing Office
+Office for Civil Rights page on HIPAA
+vteInsuranceTypes of insuranceHealth
+Accidental death and dismemberment
+Dental
+Disability (Total permanent disability)
+Income protection
+Long-term care
+National health
+Payment protection
+Life
+Longevity insurance
+Mortgage life
+Term life
+Unitised fund
+Universal life
+Variable universal life
+Whole life
+Business
+Bond
+Business owner
+Directors and officers liability
+Fidelity
+Professional liability
+Protection and indemnity
+Trade credit
+Umbrella
+Residential
+Boiler
+Builder's risk
+Contents
+Earthquake
+Flood
+Home
+Landlords'
+Lenders mortgage
+Mortgage
+Property
+Renters'
+Title
+Transport/Communication
+Aviation
+Public auto
+Marine
+Satellite
+Shipping
+Travel
+Vehicle
+Other
+Reinsurance
+Casualty
+Climate risk
+Crime
+Crop
+Extended warranty
+Group
+Index-based
+Legal protection
+Liability
+No-fault
+Pet
+Terrorism
+War risk
+Weather
+Workers' compensation
+Takaful
+Insurance policy and law
+Insurance policy
+Act of God
+Cancellation
+Pro rata
+Short rate table
+Deductible
+Co-insurance
+Copayment
+Out-of-pocket expense
+Explanation of benefits
+Force majeure
+General average
+Insurance law
+Insurance fraud
+Underinsured
+Insurance by country
+Australia
+China
+India
+Pakistan
+United Kingdom
+United States
+History
+Mesopotamian banker
+Code of Hammurabi
+ 100 105;  126;  234;  235 238;  240;  275 277
+Collegium
+Burial society
+Guild
+Corpus Juris Civilis
+Digesta
+Benefit/Friendly society
+Cooperative
+Cooperative banking
+Credit union
+Fraternal order
+Mutual organization
+Mutual savings bank
+Rochdale Principles
+Savings and loan association
+Social insurance
+Trade union
+Category
+List of topics
+vteTelemedicineBackground concepts
+Health informatics
+In absentia health care
+Telecommunication
+Medical record
+Admission note
+Blue Button
+De-identification
+Electronic health record
+Health Insurance Portability and Accountability Act
+Personal health record
+Patient participation
+Decision aids
+Doctor patient relationship
+E-patient
+Health 2.0
+Health education
+Knowledge translation
+mHealth
+Participative decision-making in organizations
+Patient Activation Measure
+Shared decision-making
+Health information on the Internet
+Health information on Wikipedia
+Online patient education
+PubMed
+Telemedicine subspecialties
+eHealth
+Remote surgery
+Remote therapy
+Tele-audiology
+Tele-epidemiology
+Teledentistry
+Teledermatology
+Telehealth
+Telemental health
+Telenursing
+Teleophthalmology
+Telepathology
+Telepharmacy
+Telepsychiatry
+Teleradiology
+Telerehabilitation
+Roles to play
+Open-source healthcare software
+Patient opinion leader
+Research participant
+Virtual patient
+Authority control International
+VIAF
+National
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Health_Insurance_Portability_and_Accountability_Act&oldid=1147347477#HIPPA"

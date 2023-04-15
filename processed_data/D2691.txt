@@ -1,0 +1,390 @@
+Typographical symbol (@)
+"@" redirects here. For the letter A within a circle, see Enclosed A. For other uses, see Circled-a (disambiguation).
+For technical reasons, ":@" and strings beginning with "@#" redirects here. For :@, see List of emoticons. For @#!*, see Pulley (band)  Discography. For @#%&*! Smilers, see Fucking Smilers.
+@At signIn UnicodeU+0040 @ COMMERCIAL AT (&commat;)RelatedSee alsoU+FF20   FULLWIDTH COMMERCIAL ATU+FE6B   SMALL COMMERCIAL AT
+The at sign, @, is normally read aloud as "at"; it is also commonly called the at symbol, commercial at, or address sign. It is used as an accounting and invoice abbreviation meaning "at a rate of" (e.g. 7 widgets @  2 per widget =  14),[1] but it is now seen more widely in email addresses and social media platform handles.
+The absence of a single English word for the symbol has prompted some writers to use the French arobase[2] or Spanish and Portuguese arroba, or to coin new words such as ampersat[3] and asperand,[4] or the (visual) onomatopoeia strudel,[5] but none of these have achieved wide use.  
+Although not included on the keyboard of the earliest commercially successful typewriters, it was on at least one 1889 model[6] and the very successful Underwood models from the "Underwood No. 5" in 1900 onward. It started to be used in email addresses in the 1970s, and is now routinely included on most types of computer keyboards.
+History[edit]
+ @ symbol used as the initial "a" for the "amin" (amen) formula in the Bulgarian   of the Manasses Chronicle, c. 1345.[7]
+ The Aragonese @ symbol used in the 1448 "taula de Ariza" registry to denote a wheat shipment from Castile to the Kingdom of Aragon.[8]
+ @ used to signify French " " ("at") from a 1674 protocol from a Swedish court (Arboga r dhusr tt och magistrat)
+The earliest yet discovered symbol in this shape is found in a Bulgarian translation of a Greek chronicle written by Constantinos Manasses in 1345. Held today in the Vatican Apostolic Library, it features the @ symbol in place of the capital letter alpha " " as an initial in the word Amen; however, the reason behind it being used in this context is still unknown. The evolution of the symbol as used today is not recorded.
+It has long been used in Catalan, Spanish and Portuguese as an abbreviation of arroba, a unit of weight equivalent to 25 pounds, and derived from the Arabic expression of "the quarter" (  pronounced ar-rub ).[9] A symbol resembling an @ is found in the Spanish "Taula de Ariza", a registry to denote a wheat shipment from Castile to Aragon, in 1448.[10] An Italian academic, Giorgio Stabile, claims to have traced the @ symbol to the 16th century, in a mercantile document sent by Florentine Francesco Lapi from Seville to Rome on May 4, 1536.[10] The document is about commerce with Pizarro, in particular the price of an @ of wine in Peru. Currently, the word arroba means both the at-symbol and a unit of weight. In Venetian, the symbol was interpreted to mean amphora (anfora), a unit of weight and volume based upon the capacity of the standard amphora jar since the 6th century.
+Modern use[edit]
+Commercial usage[edit]
+In contemporary English usage, @ is a commercial symbol, meaning at and at the rate of or at the price of. It has rarely been used in financial ledgers, and is not used in standard typography.[11]
+Trademark[edit]
+In 2012, "@" was registered as a trademark with the German Patent and Trade Mark Office.[12] A cancellation request was filed in 2013, and the cancellation was ultimately confirmed by the German Federal Patent Court in 2017.[13]
+Email addresses[edit]
+A common contemporary use of @ is in email addresses (using the SMTP system), as in jdoe@example.com (the user jdoe located at the domain example.com). Ray Tomlinson of BBN Technologies is credited for having introduced this usage in 1971.[4][14] This idea of the symbol representing located at in the form user@host is also seen in other tools and protocols; for example, the Unix shell command ssh jdoe@example.net tries to establish an ssh connection to the computer with the hostname example.net using the username jdoe.
+On web pages, organizations often obscure the email addresses of their members or employees by omitting the @. This practice, known as address munging, makes the email addresses less vulnerable to spam programs that scan the internet for them.
+Social media[edit]
+Further information: Mention (blogging)
+On some social media platforms and forums, usernames may be prefixed with an @ (in the form @johndoe); this type of username is frequently referred to as a "handle"[citation needed].
+On online forums without threaded discussions, @ is commonly used to denote a reply; for instance: @Jane to respond to a comment Jane made earlier. Similarly, in some cases, @ is used for "attention" in email messages originally sent to someone else. For example, if an email was sent from Catherine to Steve, but in the body of the email, Catherine wants to make Keirsten aware of something, Catherine will start the line @Keirsten to indicate to Keirsten that the following sentence concerns her.[citation needed] This also helps with mobile email users who might not see bold or color in email.
+In microblogging (such as on Twitter and GNU social-based microblogs), an @ before the user name is used to send publicly readable replies (e.g. @otheruser: Message text here). The blog and client software can automatically interpret these as links to the user in question. When included as part of a person's or company's contact details, an @ symbol followed by a name is normally understood to refer to a Twitter handle. A similar use of the @ symbol was also made available to Facebook users on September 15, 2009.[15] In Internet Relay Chat (IRC), it is shown before users' nicknames to denote they have operator status on a channel.
+Sports usage[edit]
+In American English the @ can be used to add information about a sporting event. Where opposing sports teams have their names separated by a "v" (for versus), the away team can be written first   and the normal "v" replaced with @ to convey at which team's home field the game will be played.[16] This usage is not followed in British English, since conventionally the home team is written first.
+Computer languages[edit]
+@ is used in various programming languages and other computer languages, although there is not a consistent theme to its usage. For example:
+In ALGOL 68, the @ symbol is brief form of the at keyword; it is used to change the lower bound of an array. For example: arrayx[@88] refers to an array starting at index 88.
+In ActionScript, @ is used in XML parsing and traversal as a string prefix to identify attributes in contrast to child elements.
+In the ASP.NET MVC Razor template markup syntax, the @ character denotes the start of code statement blocks or the start of text content.[17][18]
+In Dyalog APL, @ is used as a functional way to modify or replace data at specific locations in an array.
+In CSS, @ is used in special statements outside of a CSS block.[19]
+In C#, it denotes "verbatim strings", where no characters are escaped and two double-quote characters represent a single double-quote.[20] As a prefix it also allows keywords to be used as identifiers,[21] a form of stropping.
+In D, it denotes function attributes: like: @safe, @nogc, user defined @('from_user') which can be evaluated at compile time (with __traits) or @property to declare properties, which are functions that can be syntactically treated as if they were fields or variables.[22]
+In DIGITAL Command Language, the @ character was the command used to execute a command procedure. To run the command procedure VMSINSTAL.COM, one would type @VMSINSTAL at the command prompt.
+In Forth, it is used to fetch values from the address on the top of the stack. The operator is pronounced as "fetch".
+In Haskell, it is used in so-called as-patterns. This notation can be used to give aliases to patterns, making them more readable.
+in HTML, it can be encoded as &commat;[23]
+In J, denotes function composition.
+In Java, it has been used to denote annotations, a kind of metadata, since version 5.0.[24]
+In LiveCode, it is prefixed to a parameter to indicate that the parameter is passed by reference.
+In an LXDE autostart file (as used, for example, on the Raspberry Pi computer), @ is prefixed to a command to indicate that the command should be automatically re-executed if it crashes.[25]
+In ML, it denotes list concatenation.
+In modal logic, specifically when representing possible worlds, @ is sometimes used as a logical symbol to denote the actual world (the world we are "at").
+In Objective-C, @ is prefixed to language-specific keywords such as @implementation and to form string literals.
+In Pascal, @ is the "address of" operator (it tells the location at which a variable is found).
+In Perl, @ prefixes variables which contain arrays @array, including array slices @array[2..5,7,9] and hash slices @hash{'foo', 'bar', 'baz'} or @hash{qw(foo bar baz)}. This use is known as a sigil.
+In PHP, it is used just before an expression to make the interpreter suppress errors that would be generated from that expression.[26]
+In Python 2.4 and up, it is used to decorate a function (wrap the function in another one at creation time). In Python 3.5 and up, it is also used as an overloadable matrix multiplication operator.[27]
+In Razor, it is used for C# code blocks.[28]
+In Ruby, it functions as a sigil: @ prefixes instance variables, and @@ prefixes class variables.[29]
+In Scala, it is used to denote annotations (as in Java), and also to bind names to subpatterns in pattern-matching expressions.[30]
+In Swift, @ prefixes "annotations" that can be applied to classes or members. Annotations tell the compiler to apply special semantics to the declaration like keywords, without adding keywords to the language.
+In T-SQL, @ prefixes variables and @@ prefixes "niladic" system functions.
+In several xBase-type programming languages, like DBASE, FoxPro/Visual FoxPro and Clipper, it is used to denote position on the screen. For example: @1,1 SAY "HELLO" to show the word "HELLO" in line 1, column 1.
+In FoxPro/Visual FoxPro, it is also used to indicate explicit pass by reference of variables when calling procedures or functions (but it is not an address operator).[31]
+In a Windows Batch file, an @ at the start of a line suppresses the echoing of that command. In other words, is the same as ECHO OFF applied to the current line only. Normally a Windows command is executed and takes effect from the next line onward, but @ is a rare example of a command that takes effect immediately. It is most commonly used in the form @echo off which not only switches off echoing but prevents the command line itself from being echoed.[32][33]
+In Windows PowerShell, @ is used as array operator for array and hash table literals and for enclosing here-string literals.[34]
+In the Domain Name System (DNS), @ is used to represent the $ORIGIN, typically the "root" of the domain without a prefixed sub-domain. (Ex: wikipedia.org vs. www.wikipedia.org)
+In assembly language, @ is sometimes used as a dereference operator.[35]
+Gender neutrality in Spanish[edit]
+ Protester with banner showing "La revoluci n est  en nosotr@s"
+Main article: Gender neutrality in Spanish
+In Spanish, where many words end in "-o" when in the masculine gender and end "-a" in the feminine, @ is sometimes used as a gender-neutral substitute for the default "o" ending.[36] For example, the word amigos traditionally represents not only male friends, but also a mixed group, or where the genders are not known. The proponents of gender-inclusive language would replace it with amig@s in these latter two cases, and use amigos only when the group referred to is all-male and amigas only when the group is all female. The Real Academia Espa ola disapproves of this usage.[37]
+Other uses and meanings[edit]
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "At sign" news  newspapers  books  scholar  JSTOR (November 2021) (Learn how and when to remove this template message)
+ Bicameral @ letter as used in the Koalib language.
+ X-SAMPA uses an @ as a substitute for  , which it resembles in some fonts.
+In (especially English) scientific and technical literature, @ is used to describe the conditions under which data are valid or a measurement has been made. E.g. the density of saltwater may read d = 1.050 g/cm3 @ 15 C (read "at" for @), density of a gas d = 0.150 g/L @ 20 C, 1 bar, or noise of a car 81 dB @ 80 km/h (speed).[38]
+In philosophical logic, '@' is used to denote the actual world (in contrast to non-actual possible worlds).[citation needed] Analogously, a 'designated' world in a Kripke model may be labelled '@'.[citation needed]
+In chemical formulae, @ is used to denote trapped atoms or molecules.[39] For instance, La@C60 means lanthanum inside a fullerene cage. See article Endohedral fullerene for details.
+In Malagasy, @ is an informal abbreviation for the prepositional form amin'ny.[citation needed]
+In Malay, @ is an informal abbreviation for the word "atau", meaning "or" in English.[citation needed]
+In genetics, @ is the abbreviation for locus, as in IGL@ for immunoglobulin lambda locus.[40]
+In the Koalib language of Sudan, @ is used as a letter in Arabic loanwords. The Unicode Consortium rejected a proposal to encode it separately as a letter in Unicode. SIL International uses Private Use Area code points U+F247 and U+F248 for lowercase and capital versions, although they have marked this PUA representation as deprecated since September 2014.[41]
+A schwa, as the actual schwa character " " may be difficult to produce on many computers. It is used in this capacity in some ASCII IPA schemes, including SAMPA and X-SAMPA.[citation needed]
+In leet it may substitute for the letter "A".[citation needed]
+It is frequently used in typing and text messaging as an abbreviation for "at".[42][38]
+In Portugal it may be used in typing and text messaging with the meaning "french kiss" (linguado).[citation needed]
+In online discourse, @ is used by some anarchists as a substitute for the traditional circle-A.[citation needed]
+Algebraic notation for the Crazyhouse chess variant: An @ between a piece and a square denotes a piece dropped onto that square from the player's reserve.[43]
+Names in other languages[edit]
+In many languages other than English, although most typewriters included the symbol, the use of @ was less common before email became widespread in the mid-1990s. Consequently, it is often perceived in those languages as denoting "the Internet", computerization, or modernization in general. Naming the symbol after animals is also common.
+In Afrikaans, it is called aapstert, meaning 'monkey tail', similarly to the Dutch use of the word (aap is the word for 'monkey' or 'ape' in Dutch, stert comes from the Dutch staart).
+In Arabic, it is   (at).
+In Armenian, it is   (shnik), which means 'puppy'.
+In Azerbaijani, it is  t (at) which means 'meat', though most likely it is a phonetic transliteration of at.
+In Basque, it is a bildua ('wrapped A').
+In Belarusian, it is called   (s limak, meaning 'helix' or 'snail').
+In Bosnian, it is ludo a ('crazy A').
+In Bulgarian, it is called   (klyomba   'a badly written letter'),     (maymunsko a   'monkey A'),   (maimunka   'little monkey'), or   (banitsa - a pastry roll often made in a shape similar to the character)
+In Catalan, it is called arrova (a unit of measure) or ensa mada (a Mallorcan pastry, because of the similar shape of this food).
+In Chinese:
+In mainland China, it used to be called  A (pronounced qu n A), meaning 'circled A' / 'enclosed A', or  A (pronounced hu  A), meaning 'lacy A', and sometimes as   (pronounced xi o l osh ), meaning 'little mouse'.[44] Nowadays, for most of China's youth, it is called   (pronounced  i t ), which is a phonetic transcription of at.
+In Taiwan, it is   (pronounced xi o l osh ), meaning 'little mouse'.
+In Hong Kong and Macau, it is at.
+In Croatian, it is most often referred to by the English word at (pronounced et), and less commonly and more formally, with the preposition pri (with the addressee in the nominative case, not locative as per usual rection of pri), meaning 'at', 'chez' or 'by'. Informally, it is called a manki, coming from the local pronunciation of the English word monkey. Note that the Croatian words for monkey, majmun, opica, jopec,  imija are not used to denote the symbol, except seldom the latter words regionally.
+In Czech it is called zavin , which means 'rollmops'; the same word is used in Slovak.
+In Danish, it is snabel-a ('elephant's trunk A'). It is not used for prices, where in Danish   means 'at (per piece)'.
+In Dutch, it is called apenstaart ('monkey's tail'). The a is the first character of the Dutch word aap which means 'monkey' or 'ape'; apen is the plural of aap. However, the use of the English at has become increasingly popular in Dutch.
+In Esperanto, it is called  e-signo ('at'  for the email use, with an address like "zamenhof@esperanto.org" pronounced zamenhof  e esperanto punkto org), po-signo ('each'   refers only to the mathematical use), or heliko (meaning 'snail').
+In Estonian, it is called  tt, from the English word at.
+In Faroese, it is kurla, hj  ('at'), tranta, or sn pil-a ('[elephant's] trunk A').
+In Finnish, it was originally called taksamerkki ("fee sign") or yksikk hinnan merkki ("unit price sign"), but these names are long obsolete and now rarely understood. Nowadays, it is officially  t-merkki, according to the national standardization institute SFS; frequently also spelled at-merkki. Other names include kissanh nt  ('cat's tail') and miuku mauku ('miaow-meow') or short;  miu-mau .
+In French, it is now officially the arobase[45][46] (also spelled arrobase or arrobe), or a commercial (though this is most commonly used in French-speaking Canada, and should normally only be used when quoting prices; it should always be called arobase or, better yet, arobas when in an email address). Its origin is the same as that of the Spanish word, which could be derived from the Arabic ar-roub ( ). In France, it is also common (especially for younger generations) to say the English word at when spelling out an email address.[citation needed] In everyday Qu bec French, one often hears a commercial when sounding out an e-mail address, while TV and radio hosts are more likely to use arobase.
+In Georgian, it is at, spelled   (   ,  omerciuli et-i).
+In German, it has sometimes been referred to as Klammeraffe (meaning 'spider monkey') or Affenschwanz (meaning 'monkeys tail'). Klammeraffe or Affenschwanz refer to the similarity of @ to the tail of a monkey[47][better source needed] grabbing a branch. More recently, it is commonly referred to as at, as in English.
+In Greek, it is called   meaning 'duckling'.
+In Greenlandic, an Inuit language, it is called aajusaq meaning 'A-like' or 'something that looks like A'.
+In Hebrew, it is colloquially known as   (shtr del), due to the visual resemblance to a cross-section cut of a strudel cake. The normative term, invented by the Academy of the Hebrew Language, is   (krukh t), which is another Hebrew word for 'strudel', but is rarely used.
+In Hindi, it is at, from the English word.
+In Hungarian, it is called kukac (a playful synonym for 'worm' or 'maggot').
+In Icelandic, it is referred to as atmerki  ("the at sign") or hj , which is a direct translation of the English word at.
+In Indian English, speakers often say at the rate of (with e-mail addresses quoted as "example at the rate of example.com").[citation needed]
+In Indonesian, it is usually et. Variations exist  especially if verbal communication is very noisy  such as a bundar and a bulat (both meaning 'circled A'), a keong ('snail A'), and (most rarely) a monyet ('monkey A').
+In Irish, it is ag (meaning 'at') or comhartha @/ag (meaning 'at sign').
+In Italian, it is chiocciola ('snail') or a commerciale, sometimes at (pronounced more often [ t] and rarely [ at]) or ad.
+In Japanese, it is called atto m ku ( , from the English words at mark). The word is wasei-eigo, a loan word from the English language.
+In Kazakh, it is officially called   (a qulaq, 'moon's ear').
+In Korean, it is called golbaeng-i ( , meaning 'whelk'), a dialectal form of whelk.
+In Kurdish, it is at or et (Latin Hawar script),   (Perso-Arabic Sorani script) coming from the English word at.
+In Latvian, it is pronounced the same as in English, but, since in Latvian [ ] is written as "e" (not "a" as in English), it is sometimes written as et.
+In Lithuanian, it is pronounced eta (equivalent to the English at).
+In Luxembourgish it used to be called Afeschwanz ('monkey tail'), but due to widespread use, it is now called at, as in English.
+In Macedonian, it is called   (majmun e, [ majmunt ], 'little monkey').
+In Malaysia, it is called alias when it is used in names and di when it is used in email addresses, di being the Malay word for 'at'. It is also commonly used to abbreviate atau which means 'or', 'either'.
+In Morse code, it is known as a "commat", consisting of the Morse code for the "A" and "C" which run together as one character:  . The symbol was added in 2004 for use with email addresses,[48] the only official change to Morse code since World War I.
+In Nepali, the symbol is called "at the rate." Commonly, people will give their email addresses by including the phrase "at the rate".[citation needed]
+In Norwegian, it is officially called kr llalfa ('curly alpha' or 'alpha twirl'), and commonly as alfakr ll. Sometimes snabel-a, the Swedish/Danish name (which means 'trunk A', as in 'elephant's trunk'), is used. Commonly, people will call the symbol [ t] (as in English), particularly when giving their email addresses. The computer manufacturer Norsk Data used it as the command prompt, and it was often called "grisehale" (pig's tail).
+In Persian, it is at, from the English word.
+In Polish, it is commonly called ma pa ('monkey'). Rarely, the English word at is used.
+In Portuguese, it is called arroba (from the Arabic ar-roub,  ). The word arroba is also used for a weight measure in Portuguese. One arroba is equivalent to 32 old Portuguese pounds, approximately 14.7 kg (32 lb), and both the weight and the symbol are called arroba. In Brazil, cattle are still priced by the arroba  now rounded to 15 kg (33 lb). This naming is because the at sign was used to represent this measure.
+In Romanian, it is most commonly called at, but also colloquially called coad  de maimu  ("monkey tail") or a-rond. The latter is commonly used, and it comes from the word round (from its shape), but that is nothing like the mathematical symbol A-rond (rounded A). Others call it aron, or la (Romanian word for 'at').
+ @ on a DVK Soviet computer (c. 1984)
+In Russian, it is commonly called  [ ]  (soba[ch]ka   '[little] dog').
+In Serbian, it is called     (ludo A   'crazy A'),   (majmun e   'little monkey'), or   (majmun   'monkey').
+In Slovak, it is called zavin  ('rollmop', a pickled fish roll, as in Czech).
+In Slovenian, it is called afna (an informal word for 'monkey').
+In Spanish-speaking countries, it is called arroba (from the Arabic ar-roub, which denotes a pre-metric unit of weight. While there are regional variations in Spain, Mexico, Colombia, Ecuador, and Peru it is typically considered to represent approximately 11.5 kg (25 lb).[citation needed]
+In S mi (North S mi), it is called buss seaibi meaning 'cat's tail'.
+In Swedish, it is called snabel-a ('elephant's trunk A') or simply at, as in the English language. Less formally it is also known as kanelbulle ('cinnamon roll') or alfakrull ('alpha curl').
+In Swiss German, it is commonly called Affenschwanz ('monkey-tail'). However, the use of the English word at has become increasingly popular in Swiss German, as with Standard German.[citation needed]
+In Tagalog, the word at means 'and', so the symbol is used like an ampersand in colloquial writing such as text messages (e.g. magluto @ kumain, 'cook and eat').
+In Thai, it is commonly called at, as in English.
+In Turkish, it is commonly called et, a variant pronunciation of English at.[citation needed]
+In Ukrainian, it is commonly called   (et   'at') or   (ravlyk), which means 'snail'.
+In Urdu, it is   (at).
+In Vietnamese, it is called a c ng ('bent A') in the north and a m c ('hooked A') in the south.
+In Welsh, it is sometimes known as a malwen or malwoden (both meaning "snail").
+Unicode[edit]
+In Unicode, the at sign is encoded as U+0040 @ COMMERCIAL AT (&commat;). The named entity &commat; was introduced in HTML5.[49]
+Variants[edit]
+Character information
+Preview
+@
+ 
+ 
+Unicode name
+COMMERCIAL AT
+FULLWIDTH COMMERCIAL AT
+SMALL COMMERCIAL AT
+Encodings
+decimal
+hex
+dec
+hex
+dec
+hex
+Unicode
+64
+U+0040
+65312
+U+FF20
+65131
+U+FE6B
+UTF-8
+64
+40
+239 188 160
+EF BC A0
+239 185 171
+EF B9 AB
+Numeric character reference
+&#64;
+&#x40;
+&#65312;
+&#xFF20;
+&#65131;
+&#xFE6B;
+Named character reference
+&commat;
+ASCII and extensions
+64
+40
+EBCDIC (037, 500, UTF)[50][51][52]
+124
+7C
+EBCDIC (1026)[53]
+174
+AE
+Shift JIS[54]
+64
+40
+129 151
+81 97
+EUC-JP[55]
+64
+40
+161 247
+A1 F7
+EUC-KR[56] / UHC[57]
+64
+40
+163 192
+A3 C0
+GB 18030[58]
+64
+40
+163 192
+A3 C0
+169 136
+A9 88
+Big5[59]
+64
+40
+162 73
+A2 49
+162 78
+A2 4E
+EUC-TW
+64
+40
+162 233
+A2 E9
+162 238
+A2 EE
+LaTeX[60]
+\MVAt
+See also[edit]
+ASCII
+Circle-A
+Enclosed A ( ,  )
+Unicode
+References[edit]
+^ See, for example, Browns Index to Photocomposition Typography (p. 37), Greenwood Publishing, 1983, ISBN 0946824002
+^ "Short Cuts" Archived 2012-07-23 at the Wayback Machine, Daniel Soar, Vol. 31 No. 10   28 May 2009 page 18, London Review of Books
+^ David Bowen (23 October 2011). "Bits & bytes". The Independent. Archived from the original on 9 July 2018.   Tim Gowens offered the highly logical "ampersat"  
+^ a b Jemima Kiss (28 March 2010). "New York's Moma claims @ as a design classic". The Observer. Archived from the original on 5 March 2017. Retrieved 14 December 2016.
+^ "strudel". FOLDOC. Archived from the original on 2014-11-29. Retrieved 2014-11-21.
+^ "The @-symbol, part 2 of 2" Archived 2014-12-25 at the Wayback Machine, Shady Characters   The secret life of punctuation Archived 2014-12-21 at the Wayback Machine
+^ "Vat.slav.2, f. 62r"   via Vatican Library.
+^ "La arroba no es de Sevilla (ni de Italia)". purnas.com. Jorge Romance. Archived from the original on 2019-10-22. Retrieved 2009-06-30.
+^ "arroba". Diccionario de la Real Academia Espa ola. Archived from the original on 29 October 2012. Retrieved 3 August 2012.
+^ a b Willan, Philip (2000-07-31). "Merchant@Florence Wrote It First 500 Years Ago". The Guardian. London. Archived from the original on 2022-01-26. Retrieved 2010-04-25.
+^ Bringhurst, Robert (2002). The Elements of Typographic Style (version 2.5), p.272. Vancouver: Hartley & Marks. ISBN 0-88179-133-4.
+^ German Patent and Trademark Office, registration number 302012038338 Archived 2012-11-02 at the Wayback Machine.
+^ Bundespatentgericht, decision of 22 February 2017, no. 26 W (pat) 44/14 (online Archived 2019-03-22 at the Wayback Machine).
+^ Ray Tomlinson. "The First Email". BBN Technologies. Archived from the original on 2006-05-06.
+^ "Tag Friends in Your Status and Posts - Facebook Blog". Archived from the original on 2009-10-26.
+^ For an example, see: http://www.nfl.com/schedules Archived 2011-06-23 at the Wayback Machine
+^ Phil Haack (6 January 2011). "Razor syntax quick reference". Archived from the original on 26 January 2022. Retrieved 12 January 2013.
+^ "ASP.NET MVC 3: Razor's @: and <text> syntax". weblogs.asp.net. Archived from the original on 2020-07-26. Retrieved 2020-04-30.
+^ "At-rules". MDN Web Docs. Archived from the original on 2020-05-05. Retrieved 2020-04-30.
+^ 2.4.4.5 String literals Archived 2012-08-05 at the Wayback Machine,
+^ "2.4.2 Identifiers". Archived from the original on 2012-08-10. Retrieved 2012-08-16.
+^ "Attributes - D Programming Language". dlang.org. Archived from the original on 2018-12-08. Retrieved 2018-06-22.
+^ "Character Entity Reference Chart". World Wide Web Consortium (W3C).
+^ "in java what does the @ symbol mean?". Stack Overflow. Archived from the original on 2020-07-26. Retrieved 2020-04-30.
+^ "LXSession - LXDE.org". wiki.lxde.org. Archived from the original on 2020-07-14. Retrieved 2020-04-30.
+^ "PHP: Error Control Operators - Manual". www.php.net. Archived from the original on 2020-05-08. Retrieved 2020-04-30.
+^ "syntax - What does the "at" (@) symbol do in Python?". Stack Overflow. Archived from the original on 2020-04-24. Retrieved 2020-04-30.
+^ "Usage of the @ (at) sign in ASP.NET". www.mikesdotnetting.com. Archived from the original on 2020-04-04. Retrieved 2020-04-30.
+^ "syntax - What does @@variable mean in Ruby?". Stack Overflow. Archived from the original on 2020-07-26. Retrieved 2020-05-05.
+^ "Scala @ operator". Stack Overflow. Archived from the original on 2020-07-26. Retrieved 2020-05-05.
+^ "Visual FoxPro Programming Language Online Help: SET UDFPARMS (Command), or MSDN Library 'How to: Pass Data to Parameters by Reference'". Microsoft, Inc. Archived from the original on 2012-10-22. Retrieved 2011-02-19.
+^ "echo". docs.microsoft.com. Archived from the original on 2018-09-11. Retrieved 2018-09-11.
+^ "Echo - Windows CMD - SS64.com". ss64.com. Archived from the original on 2018-09-11. Retrieved 2018-09-11.
+^ "Windows PowerShell Language Specification Version 3.0". Microsoft Download Center. Archived from the original on 2022-01-26. Retrieved 2013-10-29.
+^ "assembly - @ sign in assembler? - Stack Overflow". stackoverflow.com. Archived from the original on 2021-10-05. Retrieved 2021-05-02.
+^ Martell-Otero, Loida (Fall 2009). "Doctoral Studies as Llamamiento, or How We All Need to be 'Ugly Betty'". Perspectivas: 84 106.
+^ "Diccionario panhisp nico de dudas".  Diccionario panhisp nico de dudas . Archived from the original on 2021-04-06. Retrieved 2021-04-02.
+^ a b "When to Use the At Symbol (@) in Writing". 11 December 2019. Archived from the original on 10 November 2021. Retrieved 10 November 2021.
+^ Chai, Yan; Guo, Ting; Jin, Changming; Haufler, Robert E.; Chibante, L. P. Felipe; Fure, Jan; Wang, Lihong; Alford, J. Michael; Smalley, Richard E. (1991). "Fullerenes wlth Metals Inside". Journal of Physical Chemistry. 95 (20): 7564 7568. doi:10.1021/j100173a002.
+^ "IGL immunoglobulin lambda locus [Homo sapiens (human)]". Retrieved 10 November 2021.
+^ Constable, Peter, and Lorna A. Priest (January 17, 2019) SIL Corporate PUA Assignments 5.2a Archived 2010-02-23 at the Wayback Machine. SIL International Archived 2007-12-01 at the Wayback Machine. pp. 59-60. Retrieved on July 20, 2020.
+^ Crystal, David (2008). Txtng: the gr8 db8. New York: Oxford University Press. pp. 131 137. ISBN 978-0-19-162340-0. Archived from the original on 2021-11-10. Retrieved 2021-11-10.
+^ "crazyhouse". FICS Help. Free Internet Chess Server. 2008-02-28. Archived from the original on 2014-04-16. Retrieved 2014-04-17.
+^ Alice Rawsthorn (March 21, 2010). "Why @ Is Held in Such High Design Esteem". The New York Times. Archived from the original on March 24, 2010. Retrieved April 25, 2010.
+^ "At last, France has a name for the @ sign" Archived 2012-08-19 at the Wayback Machine, December 9, 2002, iol.co.za
+^ Orthographe fix e par la Commission g n rale de terminologie et de n ologie (Journal officiel du 8 d cembre 2002)
+^ Paola Antonelli (March 22, 2010). "@ at MoMA". Archived from the original on April 6, 2018. Retrieved April 5, 2018. Germans, Poles, and South Africans call @ "monkey's tail" in each different language.
+^ "Morse '@'; character official as of May 3". The ARRL Letter. American Radio Relay League. April 30, 2004. Archived from the original on 2011-11-05. Retrieved 2012-04-18.
+^ HTML5 is the only version of HTML that has a named entity for the at sign, see https://www.w3.org/TR/html4/sgml/entities.html Archived 2018-04-01 at the Wayback Machine ("The following sections present the complete lists of character entity references.") and https://www.w3.org/TR/2014/CR-html5-20140731/syntax.html#named-character-references Archived 2017-08-05 at the Wayback Machine ("commat;").
+^ Steele, Shawn (1996-04-24). "cp037_IBMUSCanada to Unicode table". Microsoft / Unicode Consortium. Archived from the original on 2020-07-23. Retrieved 2020-07-16.
+^ Steele, Shawn (1996-04-24). "cp500_IBMInternational to Unicode table". Microsoft / Unicode Consortium. Archived from the original on 2020-09-24. Retrieved 2020-07-16.
+^ Umamaheswaran, V.S. (1999-11-08). "3.3 Step 2: Byte Conversion". UTF-EBCDIC. Unicode Consortium. Unicode Technical Report #16. Archived from the original on 2020-07-16. Retrieved 2020-07-16.
+^ Steele, Shawn (1996-04-24). "cp1026_IBMLatin5Turkish to Unicode table". Microsoft / Unicode Consortium. Archived from the original on 2020-02-18. Retrieved 2020-07-16.
+^ Unicode Consortium (2015-12-02) [1994-03-08]. "Shift-JIS to Unicode". Archived from the original on 2020-10-25. Retrieved 2020-07-16.
+^ Unicode Consortium; IBM. "EUC-JP-2007". International Components for Unicode. Archived from the original on 2020-06-29. Retrieved 2020-07-16.
+^ Unicode Consortium; IBM. "IBM-970". International Components for Unicode. Archived from the original on 2020-06-29. Retrieved 2020-07-16.
+^ Steele, Shawn (2000). "cp949 to Unicode table". Microsoft / Unicode Consortium. Archived from the original on 2020-06-15. Retrieved 2020-07-16.
+^ Standardization Administration of China (SAC) (2005-11-18). GB 18030-2005: Information Technology Chinese coded character set.
+^ van Kesteren, Anne. "big5". Encoding Standard. WHATWG. Archived from the original on 2020-05-04. Retrieved 2020-07-16.
+^ Pakin, Scott (2020-06-25). "The Comprehensive LATEX Symbol List" (PDF). Archived (PDF) from the original on 2020-07-23. Retrieved 2020-07-16.
+External links[edit]
+Look up commercial-at or at sign in Wiktionary, the free dictionary.
+Wikimedia Commons has media related to At sign.
+ commercial-at at the Free On-line Dictionary of Computing 
+"The Accidental History of the @ Symbol ", Smithsonian magazine, September 2012, Retrieved October 2021.
+The @-symbol, part 1, intermission, part 2, addenda, Shady Characters   The secret life of punctuation August 2011, Retrieved June 2013.
+"Daniel Soar on @", London Review of Books, Vol. 31 No. 10, 28 May 2009, Retrieved June 2013.
+ascii64   the @ book   free download (creative commons)   by patrik sneyd   foreword by luigi colani) November 2006, Retrieved June 2013.
+A Natural History of the @ Sign The many names of the at sign in various languages, 1997, Retrieved June 2013.
+Sum: the @ Symbol, LINGUIST List 7.968 July 1996, Retrieved June 2013.
+Where it's At: names for a common symbol World Wide Words August 1996, Retrieved June 2013.
+vtePunctuation marks and other typographical marks or symbols
+ space 
+ , comma 
+ : colon 
+ ; semicolon 
+ hyphen 
+ ' apostrophe 
+ prime 
+ . full stop 
+ & ampersand 
+ @ at sign 
+ ^ caret 
+ / slash 
+ \ backslash 
+ ellipsis 
+ * asterisk 
+ asterism 
+ * * * dinkus 
+ - hyphen-minus 
+ dash 
+ = double hyphen 
+ ? question mark 
+ ! exclamation mark 
+ interrobang 
+ inverted ! and ? 
+ irony punctuation 
+ # number sign 
+ numero sign 
+ ordinal indicator 
+ % percent sign 
+ per mille 
+ basis point 
+ degree symbol 
+ diameter sign 
+ + plus and minus signs 
+ multiplication sign 
+ division sign 
+ ~ tilde 
+ plus minus sign 
+ _ underscore 
+ tie 
+ | vertical bar 
+ bullet 
+ interpunct 
+ copyright symbol 
+ copyleft 
+ sound recording copyright 
+ registered trademark 
+ SM service mark symbol 
+ TM trademark symbol 
+ ' ' " " quotation mark 
+ guillemet 
+ ( ) [ ] { } bracket 
+ ditto mark 
+ dagger 
+ hedera/floral heart 
+ manicule 
+ lozenge 
+ pilcrow (paragraph mark) 
+ reference mark 
+ section mark 
+Version of this table as a sortable list
+Currency symbols
+Diacritics (accents)
+Logic symbols
+Math symbols
+Whitespace
+Chinese punctuation
+Hebrew punctuation
+Japanese punctuation
+Korean punctuation
+Retrieved from "https://en.wikipedia.org/w/index.php?title=At_sign&oldid=1144727283"

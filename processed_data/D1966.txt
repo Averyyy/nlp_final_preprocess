@@ -1,0 +1,2404 @@
+These are Configurations of ElementsMain article: Electron configuration
+This page shows the electron configurations of the neutral gaseous atoms in their ground states. For each atom the subshells are given first in concise form, then with all subshells written out, followed by the number of electrons per shell. Electron configurations of elements beyond hassium (element 108) have never been measured; predictions are used below.
+As an approximate rule, electron configurations are given by the Aufbau principle and the Madelung rule. However there are numerous exceptions; for example the lightest exception is chromium, which would be predicted to have the configuration 1s2 2s2 2p6 3s2 3p6 3d4 4s2, written as [Ar] 3d4 4s2, but whose actual configuration given in the table below is [Ar] 3d5 4s1.
+Note that these electron configurations are given for neutral atoms in the gas phase, which are not the same as the electron configurations for the same atoms in chemical environments. In many cases, multiple configurations are within a small range of energies and the irregularities shown below do not necessarily have a clear relation to chemical behaviour.[1] For the undiscovered eighth-row elements, mixing of configurations is expected to be very important, and sometimes the result can no longer be well-described by a single configuration.[2]
+Legend
+1s
+2s
+2p
+3s
+3p
+3d
+4s
+4p
+4d
+4f
+5s
+5p
+5d
+5f
+6s
+6p
+6d
+7s
+7p
+1 H hydrogen : 1s1
+1s1
+1
+2 He helium : 1s2
+1s2
+2
+3 Li lithium : [He] 2s1
+1s2
+2s1
+2
+1
+4 Be beryllium : [He] 2s2
+1s2
+2s2
+2
+2
+5 B boron : [He] 2s2 2p1
+1s2
+2s2
+2p1
+2
+3
+6 C carbon : [He] 2s2 2p2
+1s2
+2s2
+2p2
+2
+4
+7 N nitrogen : [He] 2s2 2p3
+1s2
+2s2
+2p3
+2
+5
+8 O oxygen : [He] 2s2 2p4
+1s2
+2s2
+2p4
+2
+6
+9 F fluorine : [He] 2s2 2p5
+1s2
+2s2
+2p5
+2
+7
+10 Ne neon : [He] 2s2 2p6
+1s2
+2s2
+2p6
+2
+8
+11 Na sodium : [Ne] 3s1
+1s2
+2s2
+2p6
+3s1
+2
+8
+1
+12 Mg magnesium : [Ne] 3s2
+1s2
+2s2
+2p6
+3s2
+2
+8
+2
+13 Al aluminium : [Ne] 3s2 3p1
+1s2
+2s2
+2p6
+3s2
+3p1
+2
+8
+3
+14 Si silicon : [Ne] 3s2 3p2
+1s2
+2s2
+2p6
+3s2
+3p2
+2
+8
+4
+15 P phosphorus : [Ne] 3s2 3p3
+1s2
+2s2
+2p6
+3s2
+3p3
+2
+8
+5
+16 S sulfur : [Ne] 3s2 3p4
+1s2
+2s2
+2p6
+3s2
+3p4
+2
+8
+6
+17 Cl chlorine : [Ne] 3s2 3p5
+1s2
+2s2
+2p6
+3s2
+3p5
+2
+8
+7
+18 Ar argon : [Ne] 3s2 3p6
+1s2
+2s2
+2p6
+3s2
+3p6
+2
+8
+8
+19 K potassium : [Ar] 4s1
+1s2
+2s2
+2p6
+3s2
+3p6
+4s1
+2
+8
+8
+1
+20 Ca calcium : [Ar] 4s2
+1s2
+2s2
+2p6
+3s2
+3p6
+4s2
+2
+8
+8
+2
+21 Sc scandium : [Ar] 3d1 4s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d1
+4s2
+2
+8
+9
+2
+22 Ti titanium : [Ar] 3d2 4s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d2
+4s2
+2
+8
+10
+2
+23 V vanadium : [Ar] 3d3 4s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d3
+4s2
+2
+8
+11
+2
+24 Cr chromium : [Ar] 3d5 4s1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d5
+4s1
+2
+8
+13
+1
+25 Mn manganese : [Ar] 3d5 4s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d5
+4s2
+2
+8
+13
+2
+26 Fe iron : [Ar] 3d6 4s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d6
+4s2
+2
+8
+14
+2
+27 Co cobalt : [Ar] 3d7 4s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d7
+4s2
+2
+8
+15
+2
+28 Ni nickel : [Ar] 3d8 4s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d8
+4s2
+2
+8
+16
+2
+29 Cu copper : [Ar] 3d10 4s1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s1
+2
+8
+18
+1
+30 Zn zinc : [Ar] 3d10 4s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+2
+8
+18
+2
+31 Ga gallium : [Ar] 3d10 4s2 4p1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p1
+2
+8
+18
+3
+32 Ge germanium : [Ar] 3d10 4s2 4p2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p2
+2
+8
+18
+4
+33 As arsenic : [Ar] 3d10 4s2 4p3
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p3
+2
+8
+18
+5
+34 Se selenium : [Ar] 3d10 4s2 4p4
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p4
+2
+8
+18
+6
+35 Br bromine : [Ar] 3d10 4s2 4p5
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p5
+2
+8
+18
+7
+36 Kr krypton : [Ar] 3d10 4s2 4p6
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+2
+8
+18
+8
+37 Rb rubidium : [Kr] 5s1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+5s1
+2
+8
+18
+8
+1
+38 Sr strontium : [Kr] 5s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+5s2
+2
+8
+18
+8
+2
+39 Y yttrium : [Kr] 4d1 5s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d1
+5s2
+2
+8
+18
+9
+2
+40 Zr zirconium : [Kr] 4d2 5s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d2
+5s2
+2
+8
+18
+10
+2
+41 Nb niobium : [Kr] 4d4 5s1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d4
+5s1
+2
+8
+18
+12
+1
+42 Mo molybdenum : [Kr] 4d5 5s1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d5
+5s1
+2
+8
+18
+13
+1
+43 Tc technetium : [Kr] 4d5 5s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d5
+5s2
+2
+8
+18
+13
+2
+44 Ru ruthenium : [Kr] 4d7 5s1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d7
+5s1
+2
+8
+18
+15
+1
+45 Rh rhodium : [Kr] 4d8 5s1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d8
+5s1
+2
+8
+18
+16
+1
+46 Pd palladium : [Kr] 4d10
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+2
+8
+18
+18
+47 Ag silver : [Kr] 4d10 5s1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+5s1
+2
+8
+18
+18
+1
+48 Cd cadmium : [Kr] 4d10 5s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+5s2
+2
+8
+18
+18
+2
+49 In indium : [Kr] 4d10 5s2 5p1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+5s2
+5p1
+2
+8
+18
+18
+3
+50 Sn tin : [Kr] 4d10 5s2 5p2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+5s2
+5p2
+2
+8
+18
+18
+4
+51 Sb antimony : [Kr] 4d10 5s2 5p3
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+5s2
+5p3
+2
+8
+18
+18
+5
+52 Te tellurium : [Kr] 4d10 5s2 5p4
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+5s2
+5p4
+2
+8
+18
+18
+6
+53 I iodine : [Kr] 4d10 5s2 5p5
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+5s2
+5p5
+2
+8
+18
+18
+7
+54 Xe xenon : [Kr] 4d10 5s2 5p6
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+5s2
+5p6
+2
+8
+18
+18
+8
+55 Cs caesium : [Xe] 6s1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+5s2
+5p6
+6s1
+2
+8
+18
+18
+8
+1
+56 Ba barium : [Xe] 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+5s2
+5p6
+6s2
+2
+8
+18
+18
+8
+2
+57 La lanthanum : [Xe] 5d1 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+5s2
+5p6
+5d1
+6s2
+2
+8
+18
+18
+9
+2
+58 Ce cerium : [Xe] 4f1 5d1 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f1
+5s2
+5p6
+5d1
+6s2
+2
+8
+18
+19
+9
+2
+59 Pr praseodymium : [Xe] 4f3 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f3
+5s2
+5p6
+6s2
+2
+8
+18
+21
+8
+2
+60 Nd neodymium : [Xe] 4f4 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f4
+5s2
+5p6
+6s2
+2
+8
+18
+22
+8
+2
+61 Pm promethium : [Xe] 4f5 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f5
+5s2
+5p6
+6s2
+2
+8
+18
+23
+8
+2
+62 Sm samarium : [Xe] 4f6 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f6
+5s2
+5p6
+6s2
+2
+8
+18
+24
+8
+2
+63 Eu europium : [Xe] 4f7 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f7
+5s2
+5p6
+6s2
+2
+8
+18
+25
+8
+2
+64 Gd gadolinium : [Xe] 4f7 5d1 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f7
+5s2
+5p6
+5d1
+6s2
+2
+8
+18
+25
+9
+2
+65 Tb terbium : [Xe] 4f9 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f9
+5s2
+5p6
+6s2
+2
+8
+18
+27
+8
+2
+66 Dy dysprosium : [Xe] 4f10 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f10
+5s2
+5p6
+6s2
+2
+8
+18
+28
+8
+2
+67 Ho holmium : [Xe] 4f11 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f11
+5s2
+5p6
+6s2
+2
+8
+18
+29
+8
+2
+68 Er erbium : [Xe] 4f12 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f12
+5s2
+5p6
+6s2
+2
+8
+18
+30
+8
+2
+69 Tm thulium : [Xe] 4f13 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f13
+5s2
+5p6
+6s2
+2
+8
+18
+31
+8
+2
+70 Yb ytterbium : [Xe] 4f14 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+6s2
+2
+8
+18
+32
+8
+2
+71 Lu lutetium : [Xe] 4f14 5d1 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d1
+6s2
+2
+8
+18
+32
+9
+2
+72 Hf hafnium : [Xe] 4f14 5d2 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d2
+6s2
+2
+8
+18
+32
+10
+2
+73 Ta tantalum : [Xe] 4f14 5d3 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d3
+6s2
+2
+8
+18
+32
+11
+2
+74 W tungsten : [Xe] 4f14 5d4 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d4
+6s2
+2
+8
+18
+32
+12
+2
+75 Re rhenium : [Xe] 4f14 5d5 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d5
+6s2
+2
+8
+18
+32
+13
+2
+76 Os osmium : [Xe] 4f14 5d6 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d6
+6s2
+2
+8
+18
+32
+14
+2
+77 Ir iridium : [Xe] 4f14 5d7 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d7
+6s2
+2
+8
+18
+32
+15
+2
+78 Pt platinum : [Xe] 4f14 5d9 6s1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d9
+6s1
+2
+8
+18
+32
+17
+1
+79 Au gold : [Xe] 4f14 5d10 6s1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+6s1
+2
+8
+18
+32
+18
+1
+80 Hg mercury : [Xe] 4f14 5d10 6s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+6s2
+2
+8
+18
+32
+18
+2
+81 Tl thallium : [Xe] 4f14 5d10 6s2 6p1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+6s2
+6p1
+2
+8
+18
+32
+18
+3
+82 Pb lead : [Xe] 4f14 5d10 6s2 6p2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+6s2
+6p2
+2
+8
+18
+32
+18
+4
+83 Bi bismuth : [Xe] 4f14 5d10 6s2 6p3
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+6s2
+6p3
+2
+8
+18
+32
+18
+5
+84 Po polonium : [Xe] 4f14 5d10 6s2 6p4
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+6s2
+6p4
+2
+8
+18
+32
+18
+6
+85 At astatine : [Xe] 4f14 5d10 6s2 6p5
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+6s2
+6p5
+2
+8
+18
+32
+18
+7
+86 Rn radon : [Xe] 4f14 5d10 6s2 6p6
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+6s2
+6p6
+2
+8
+18
+32
+18
+8
+87 Fr francium : [Rn] 7s1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+6s2
+6p6
+7s1
+2
+8
+18
+32
+18
+8
+1
+88 Ra radium : [Rn] 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+6s2
+6p6
+7s2
+2
+8
+18
+32
+18
+8
+2
+89 Ac actinium : [Rn] 6d1 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+6s2
+6p6
+6d1
+7s2
+2
+8
+18
+32
+18
+9
+2
+90 Th thorium : [Rn] 6d2 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+6s2
+6p6
+6d2
+7s2
+2
+8
+18
+32
+18
+10
+2
+91 Pa protactinium : [Rn] 5f2 6d1 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f2
+6s2
+6p6
+6d1
+7s2
+2
+8
+18
+32
+20
+9
+2
+92 U uranium : [Rn] 5f3 6d1 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f3
+6s2
+6p6
+6d1
+7s2
+2
+8
+18
+32
+21
+9
+2
+93 Np neptunium : [Rn] 5f4 6d1 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f4
+6s2
+6p6
+6d1
+7s2
+2
+8
+18
+32
+22
+9
+2
+94 Pu plutonium : [Rn] 5f6 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f6
+6s2
+6p6
+7s2
+2
+8
+18
+32
+24
+8
+2
+95 Am americium : [Rn] 5f7 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f7
+6s2
+6p6
+7s2
+2
+8
+18
+32
+25
+8
+2
+96 Cm curium : [Rn] 5f7 6d1 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f7
+6s2
+6p6
+6d1
+7s2
+2
+8
+18
+32
+25
+9
+2
+97 Bk berkelium : [Rn] 5f9 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f9
+6s2
+6p6
+7s2
+2
+8
+18
+32
+27
+8
+2
+98 Cf californium : [Rn] 5f10 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f10
+6s2
+6p6
+7s2
+2
+8
+18
+32
+28
+8
+2
+99 Es einsteinium : [Rn] 5f11 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f11
+6s2
+6p6
+7s2
+2
+8
+18
+32
+29
+8
+2
+100 Fm fermium : [Rn] 5f12 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f12
+6s2
+6p6
+7s2
+2
+8
+18
+32
+30
+8
+2
+101 Md mendelevium : [Rn] 5f13 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f13
+6s2
+6p6
+7s2
+2
+8
+18
+32
+31
+8
+2
+102 No nobelium : [Rn] 5f14 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+7s2
+2
+8
+18
+32
+32
+8
+2
+103 Lr lawrencium : [Rn] 5f14 7s2 7p1
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+7s2
+7p1
+2
+8
+18
+32
+32
+8
+3
+104 Rf rutherfordium : [Rn] 5f14 6d2 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d2
+7s2
+2
+8
+18
+32
+32
+10
+2
+105 Db dubnium : [Rn] 5f14 6d3 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d3
+7s2
+2
+8
+18
+32
+32
+11
+2
+106 Sg seaborgium : [Rn] 5f14 6d4 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d4
+7s2
+2
+8
+18
+32
+32
+12
+2
+107 Bh bohrium : [Rn] 5f14 6d5 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d5
+7s2
+2
+8
+18
+32
+32
+13
+2
+108 Hs hassium : [Rn] 5f14 6d6 7s2
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d6
+7s2
+2
+8
+18
+32
+32
+14
+2
+109 Mt meitnerium : [Rn] 5f14 6d7 7s2 (predicted)
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d7
+7s2
+2
+8
+18
+32
+32
+15
+2
+110 Ds darmstadtium : [Rn] 5f14 6d8 7s2 (predicted)
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d8
+7s2
+2
+8
+18
+32
+32
+16
+2
+111 Rg roentgenium : [Rn] 5f14 6d9 7s2 (predicted)
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d9
+7s2
+2
+8
+18
+32
+32
+17
+2
+112 Cn copernicium : [Rn] 5f14 6d10 7s2 (predicted)
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d10
+7s2
+2
+8
+18
+32
+32
+18
+2
+113 Nh nihonium : [Rn] 5f14 6d10 7s2 7p1 (predicted)
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d10
+7s2
+7p1
+2
+8
+18
+32
+32
+18
+3
+114 Fl flerovium : [Rn] 5f14 6d10 7s2 7p2 (predicted)
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d10
+7s2
+7p2
+2
+8
+18
+32
+32
+18
+4
+115 Mc moscovium : [Rn] 5f14 6d10 7s2 7p3 (predicted)
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d10
+7s2
+7p3
+2
+8
+18
+32
+32
+18
+5
+116 Lv livermorium : [Rn] 5f14 6d10 7s2 7p4 (predicted)
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d10
+7s2
+7p4
+2
+8
+18
+32
+32
+18
+6
+117 Ts tennessine : [Rn] 5f14 6d10 7s2 7p5 (predicted)
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d10
+7s2
+7p5
+2
+8
+18
+32
+32
+18
+7
+118 Og oganesson : [Rn] 5f14 6d10 7s2 7p6 (predicted)
+1s2
+2s2
+2p6
+3s2
+3p6
+3d10
+4s2
+4p6
+4d10
+4f14
+5s2
+5p6
+5d10
+5f14
+6s2
+6p6
+6d10
+7s2
+7p6
+2
+8
+18
+32
+32
+18
+8
+  Group 18 element (noble gas), has a complete shell. Complete shells are referred to as "[Ar]" for argon etc.
+See also[edit]
+Extended periodic table#Electron configurations   Predictions for undiscovered elements 119 173 and 184
+References[edit]
+^ J rgensen, Christian K. (1988). "Influence of rare earths on chemical understanding and classification". Handbook on the Physics and Chemistry of Rare Earths. Vol. 11. pp. 197 292. doi:10.1016/S0168-1273(88)11007-6. ISBN 9780444870803.
+^ Nefedov, V. I.; Trzhaskovskaya, M. B.; Yarzhemskii, V. G. (2006). "Electronic Configurations and the Periodic Table for Superheavy Elements" (PDF). Doklady Physical Chemistry. Pleaides Publishing. 408 (Part 2): 149 151. Retrieved 25 September 2020. configuration interaction is crucial in  more than 30% of cases since its consideration leads to another ground-state configuration.
+All sources concur with the data above except in the instances listed separately:
+NIST[edit]
+http://physics.nist.gov/PhysRefData/IonEnergy/ionEnergy.html ; retrieved July 2005, (elements 1 104) based on:
+Atomic Spectroscopy, by W.C. Martin and W.L. Wiese in Atomic, Molecular, & Optical Physics Handbook, ed. by G.W.F. Drake (AIP, Woodbury, NY, 1996) Chapter 10, pp. 135 153.
+This website is also cited in the CRC Handbook as source of Section 1, subsection Electron Configuration of Neutral Atoms in the Ground State.
+91 Pa : [Rn] 5f2(3H4) 6d 7s2
+92 U : [Rn] 5f3(4Io9/2) 6d 7s2
+93 Np : [Rn] 5f4(5I4) 6d 7s2
+103 Lr : [Rn] 5f14 7s2 7p1 question-marked
+104 Rf : [Rn] 5f14 6d2 7s2 question-marked
+CRC[edit]
+David R. Lide (ed), CRC Handbook of Chemistry and Physics, 84th Edition, online version. CRC Press. Boca Raton, Florida, 2003; Section 1, Basic Constants, Units, and Conversion Factors; Electron Configuration of Neutral Atoms in the Ground State. (elements 1 104)
+Also subsection Periodic Table of the Elements, (elements 1 103) based on:
+G. J. Leigh, Editor, Nomenclature of Inorganic Chemistry, Blackwell Scientific Publications, Oxford, 1990.
+Chemical and Engineering News, 63(5), 27, 1985.
+Atomic Weights of the Elements, 1999, Pure Appl. Chem., 73, 667, 2001.
+WebElements[edit]
+http://www.webelements.com/ ; retrieved July 2005, electron configurations based on:
+Atomic, Molecular, & Optical Physics Handbook, Ed. Gordon W. F. Drake, American Institute of Physics, Woodbury, New York, 1996.
+J.E. Huheey, E.A. Keiter, and R.L. Keiter in Inorganic Chemistry : Principles of Structure and Reactivity, 4th edition, Harper Collins, New York, 1993.
+R.L. DeKock and H.B. Gray in Chemical Structure and bonding, Benjamin/Cummings, Menlo Park, California, 1980.
+A.M. James and M.P. Lord in Macmillan's Chemical and Physical Data, Macmillan, London, UK, 1992.
+103 Lr : [Rn].5f14.7s2.7p1 tentative ; 2.8.18.32.32.9.2 [inconsistent]
+104 Rf : [Rn].5f14.6d2.7s2 tentative
+105 Db : [Rn].5f14.6d3.7s2 (a guess based upon that of tantalum) ; 2.8.18.32.32.11.2
+106 Sg : [Rn].5f14.6d4.7s2 (a guess based upon that of tungsten) ; 2.8.18.32.32.12.2
+107 Bh : [Rn].5f14.6d5.7s2 (a guess based upon that of rhenium) ; 2.8.18.32.32.13.2
+108 Hs : [Rn].5f14.6d6.7s2 (a guess based upon that of osmium) ; 2.8.18.32.32.14.2
+109 Mt : [Rn].5f14.6d7.7s2 (a guess based upon that of iridium) ; 2.8.18.32.32.15.2
+110 Ds : [Rn].5f14.6d9.7s1 (a guess based upon that of platinum) ; 2.8.18.32.32.17.1
+111 Rg : [Rn].5f14.6d10.7s1 (a guess based upon that of gold) ; 2.8.18.32.32.18.1
+112 Cn : [Rn].5f14.6d10.7s2 (a guess based upon that of mercury) ; 2.8.18.32.32.18.2
+113 Nh : [Rn].5f14.6d10.7s2.7p1 (a guess based upon that of thallium) ; 2.8.18.32.32.18.3
+114 Fl : [Rn].5f14.6d10.7s2.7p2 (a guess based upon that of lead) ; 2.8.18.32.32.18.4
+115 Mc : [Rn].5f14.6d10.7s2.7p3 (a guess based upon that of bismuth) ; 2.8.18.32.32.18.5
+116 Lv : [Rn].5f14.6d10.7s2.7p4 (a guess based upon that of polonium) ; 2.8.18.32.32.18.6
+117 Ts : [Rn].5f14.6d10.7s2.7p5 (a guess based upon that of astatine) ; 2.8.18.32.32.18.7
+118 Og : [Rn].5f14.6d10.7s2.7p6 (a guess based upon that of radon) ; 2.8.18.32.32.18.8
+Lange[edit]
+J.A. Dean (ed), Lange's Handbook of Chemistry (15th Edition), online version, McGraw-Hill, 1999; Section 4, Table 4.1 Electronic Configuration and Properties of the Elements. (Elements 1 103)
+97 Bk : [Rn] 5f8 6d 7s2
+103 Lr : [Rn] 4f14 [sic] 6d 7s2
+Hill and Petrucci[edit]
+Hill and Petrucci, General Chemistry: An Integrated Approach (3rd edition), Prentice Hall. (Elements 1 106)
+58 Ce : [Xe] 4f2 6s2
+103 Lr : [Rn] 5f14 6d1 7s2
+104 Rf : [Rn] 5f14 6d2 7s2 (agrees with guess above)
+105 Db : [Rn] 5f14 6d3 7s2
+106 Sg : [Rn] 5f14 6d4 7s2
+Hoffman, Lee, and Pershina[edit]
+Hoffman, Darleane C.; Lee, Diana M.; Pershina, Valeria (2006). "Transactinides and the future elements".  In Morss; Edelstein, Norman M.; Fuger, Jean (eds.). The Chemistry of the Actinide and Transactinide Elements (3rd ed.). Dordrecht, The Netherlands: Springer Science+Business Media. p. 1722. ISBN 1-4020-3555-1.
+This book contains predicted electron configurations for the elements up to 172, as well as 184, based on relativistic Dirac Fock calculations by B. Fricke in Fricke, B. (1975).  Dunitz, J. D. (ed.). "Superheavy elements a prediction of their chemical and physical properties". Structure and Bonding. Berlin: Springer-Verlag. 21: 89 144. doi:10.1007/BFb0116496.
+vteChemical elements dataElements
+List of chemical elements atomic mass, atomic number, symbol, name
+Periodic table
+Data
+Abundance of the chemical elements in Earth's crust, sea water, Sun and solar system
+data page
+Atomic radius empirical, calculated, van der Waals radius, covalent radius
+data page
+Boiling point
+data page
+Critical point
+data page
+Density solid, liquid, gas
+data page
+Elastic properties of the elements: Young's modulus, Poisson's ratio, bulk modulus, shear modulus
+data page
+Electrical resistivity
+data page
+Electron affinity
+data page
+Electron configuration
+data page
+Electronegativity (Pauling, Allen scale)
+data page
+Hardness: Mohs hardness, Vickers hardness, Brinell hardness
+data page
+Heat capacity
+data page
+Heat of fusion
+data page
+Heat of vaporization
+data page
+Ionization energy (in eV) and molar ionization energies (in kJ/mol)
+data page
+Melting point
+data page
+Molar ionization energy
+Oxidation state
+data table
+Speed of sound
+data page
+Standard atomic weight
+Thermal conductivity
+data page
+Thermal expansion
+data page
+Vapor pressure
+data page
+vteElectron configuration
+Electron shell
+Atomic orbital
+Quantum mechanics
+Introduction to quantum mechanics
+Quantum numbers
+Principal quantum number (n)
+Azimuthal quantum number ( )
+Magnetic quantum number (m)
+Spin quantum number (s)
+Ground-state configurations
+Periodic table (electron configurations)
+Electron configurations of the elements (data page)
+Electron filling
+Pauli exclusion principle
+Hund's rule
+Aufbau principle
+Electron pairing
+Electron pair
+Unpaired electron
+Bonding participation
+Valence electron
+Core electron
+Electron counting rules
+Octet rule
+18-electron rule
+vtePeriodic tablePeriodic table formsStandard
+18-column
+32-column
+Alternative
+Alternatives
+Janet's left step table
+Extended
+Extension beyond the 7th period
+Aufbau
+Fricke
+Pyykk 
+Sets of elementsBy periodic table structureGroups
+1 (Hydrogen and alkali metals)
+2 (Alkaline earth metals)
+f-block groups
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13 (Triels)
+14 (Tetrels)
+15 (Pnictogens)
+16 (Chalcogens)
+17 (Halogens)
+18 (Noble gases)
+Periods
+1
+2
+3
+4
+5
+6
+7
+8+
+Aufbau
+Fricke
+Pyykk 
+Blocks
+s-block
+p-block
+d-block
+f-block
+g-block
+Aufbau principle
+By metallicityMetals
+Alkali metals
+Alkaline earth metals
+Lanthanides
+Actinides
+Transition metals
+Post-transition metals
+Metalloids
+Lists of metalloids by source
+Dividing line
+Nonmetals
+Reactive nonmetals
+Noble gases
+Other sets
+Platinum-group metals (PGM)
+Rare-earth elements
+Refractory metals
+Precious metals
+Coinage metals
+Noble metals
+Heavy metals
+Native metals
+Transuranium elements
+Superheavy elements
+Major actinides
+Minor actinides
+ElementsLists
+By: Abundance (in humans)
+Atomic properties
+Nuclear stability
+Symbol
+Properties
+Aqueous chemistry
+Crystal structure
+Electron configuration
+Electronegativity
+Goldschmidt classification
+Term symbol
+Data pages
+Abundance
+Atomic radius
+Boiling point
+Critical point
+Density
+Elasticity
+Electrical resistivity
+Electron affinity
+Electron configuration
+Electronegativity
+Hardness
+Heat capacity
+Heat of fusion
+Heat of vaporization
+Ionization energy
+Melting point
+Oxidation state
+Speed of sound
+Thermal conductivity
+Thermal expansion coefficient
+Vapor pressure
+History
+Element discoveries
+Dmitri Mendeleev
+1871 table
+1869 predictions
+Naming
+etymology
+controversies
+for places
+for people
+in East Asia
+See also
+IUPAC
+nomenclature
+systematic element name
+Trivial name
+Dmitri Mendeleev
+ Category
+ WikiProject
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Electron_configurations_of_the_elements_(data_page)&oldid=1120171444"

@@ -1,0 +1,767 @@
+Diode that emits light from an organic compound
+Organic light-emitting diodePrototype OLED lighting panelsTypeLED
+An organic light-emitting diode (OLED), also known as organic electroluminescent (organic EL) diode,[1][2] is a light-emitting diode (LED) in which the emissive electroluminescent layer is a film of organic compound that emits light in response to an electric current. This organic layer is situated between two electrodes; typically, at least one of these electrodes is transparent. OLEDs are used to create digital displays in devices such as television screens, computer monitors, and portable systems such as smartphones and handheld game consoles. A major area of research is the development of white OLED devices for use in solid-state lighting applications.[3][4][5]
+There are two main families of OLED: those based on small molecules and those employing polymers.  Adding mobile ions to an OLED creates a light-emitting electrochemical cell (LEC) which has a slightly different mode of operation. An OLED display can be driven with a passive-matrix (PMOLED) or active-matrix (AMOLED) control scheme. In the PMOLED scheme, each row and line in the display is controlled sequentially, one by one,[6] whereas AMOLED control uses a thin-film transistor (TFT) backplane to directly access and switch each individual pixel on or off, allowing for higher resolution and larger display sizes.
+OLED is fundamentally different from LED which is based on a p-n diode structure. In LEDs doping is used to create p- and n- regions by changing the conductivity of the host semiconductor. OLEDs do not employ a p-n structure. Doping of OLEDs is used to increase radiative efficiency by direct modification of the quantum-mechanical optical recombination rate.  Doping is additionally used to determine the wavelength of photon emission.[7]
+An OLED display works without a backlight because it emits its own visible light. Thus, it can display deep black levels and can be thinner and lighter than a liquid crystal display (LCD). In low ambient light conditions (such as a dark room), an OLED screen can achieve a higher contrast ratio than an LCD, regardless of whether the LCD uses cold cathode fluorescent lamps or an LED backlight. OLED displays are made in the same way as LCDs, but after TFT (for active matrix displays), addressable grid (for passive matrix displays) or indium-tin oxide (ITO) segment (for segment displays) formation, the display is coated with hole injection, transport and blocking layers, as well with electroluminescent material after the first 2 layers, after which ITO or metal may be applied again as a cathode and later the entire stack of materials is encapsulated. The TFT layer, addressable grid or ITO segments serve as or are connected to the anode, which may be made of ITO or metal.[8][9] OLEDs can be made flexible and transparent, with transparent displays being used in smartphones with optical fingerprint scanners and flexible displays being used in foldable smartphones.
+History[edit]
+Andr  Bernanose and co-workers at the Nancy-Universit  in France made the first observations of electroluminescence in organic materials in the early 1950s. They applied high alternating voltages in air to materials such as acridine orange dye, either deposited on or dissolved in cellulose or cellophane thin films.  The proposed mechanism was either direct excitation of the dye molecules or excitation of electrons.[10][11][12][13]
+In 1960, Martin Pope and some of his co-workers at New York University in the United States developed ohmic dark-injecting electrode contacts to organic crystals.[14][15][16] They further described the necessary energetic requirements (work functions) for hole and electron injecting electrode contacts. These contacts are the basis of charge injection in all modern OLED devices. Pope's group also first observed direct current (DC) electroluminescence under vacuum on a single pure crystal of anthracene and on anthracene crystals doped with tetracene in 1963[17] using a small area silver electrode at 400 volts. The proposed mechanism was field-accelerated electron excitation of molecular fluorescence.
+Pope's group reported in 1965[18] that in the absence of an external electric field, the electroluminescence in anthracene crystals is caused by the recombination of a thermalized electron and hole, and that the conducting level of anthracene is higher in energy than the exciton energy level. Also in 1965, Wolfgang Helfrich and W. G. Schneider of the National Research Council in Canada produced double injection recombination electroluminescence for the first time in an anthracene single crystal using hole and electron injecting electrodes,[19] the forerunner of modern double-injection devices. In the same year, Dow Chemical researchers patented a method of preparing electroluminescent cells using high-voltage (500 1500 V) AC-driven (100 3000 Hz) electrically insulated one millimetre thin layers of a melted phosphor consisting of ground anthracene powder, tetracene, and graphite powder.[20] Their proposed mechanism involved electronic excitation at the contacts between the graphite particles and the anthracene molecules.
+The first Polymer LED (PLED) to be created was by Roger Partridge at the National Physical Laboratory in the United Kingdom. It used a film of poly(N-vinylcarbazole) up to 2.2 micrometers thick located between two charge-injecting electrodes. The light generated was readily visible in normal lighting conditions though the polymer used had 2 limitations; low conductivity and the difficulty of injecting electrons.[21] Later development of conjugated polymers would allow others to largely eliminate these problems. His contribution has often been overlooked due to the secrecy NPL imposed on the project. When it was patented in 1974[22] it was given a deliberately obscure "catch all" name while the government's Department for Industry tried and failed to find industrial collaborators to fund further development.[23] As a result publication was delayed until 1983.[24][25][26][27]
+Practical OLEDs[edit]
+Chemists Ching Wan Tang and Steven Van Slyke at Eastman Kodak built the first practical OLED device in 1987.[28] This device used a two-layer structure with separate hole transporting and electron transporting layers such that recombination and light emission occurred in the middle of the organic layer; this resulted in a reduction in operating voltage and improvements in efficiency.
+Research into polymer electroluminescence culminated in 1990, with J. H. Burroughes et al. at the Cavendish Laboratory at Cambridge University, UK, reporting a high-efficiency green light-emitting polymer-based device using 100 nm thick films of poly(p-phenylene vinylene).[29] Moving from molecular to macromolecular materials solved the problems previously encountered with the long-term stability of the organic films and enabled high-quality films to be easily made.[30] Subsequent research developed multilayer polymers and the new field of plastic electronics and OLED research and device production grew rapidly.[31] White OLEDs, pioneered by J. Kido et al. at Yamagata University, Japan in 1995, achieved the commercialization of OLED-backlit displays and lighting.[32][33]
+In 1999, Kodak and Sanyo had entered into a partnership to jointly research, develop, and produce OLED displays. They announced the world's first 2.4-inch active-matrix, full-color OLED display in September the same year.[34] In September 2002, they presented a prototype of 15-inch HDTV format display based on white OLEDs with color filters at the CEATEC Japan.[35]
+Manufacturing of small molecule OLEDs was started in 1997 by Pioneer Corporation, followed by TDK in 2001 and Samsung-NEC Mobile Display (SNMD), which later became one of the world's largest OLED display manufacturers - Samsung Display, in 2002.[36]
+The Sony XEL-1, released in 2007, was the first OLED television.[37] Universal Display Corporation, one of the OLED materials companies, holds a number of patents concerning the commercialization of OLEDs that are used by major OLED manufacturers around the world.[38][39]
+On 5 December 2017, JOLED, the successor of Sony and Panasonic's printable OLED business units, began the world's first commercial shipment of inkjet-printed OLED panels.[40][41]
+Working principle[edit]
+ Schematic of a bilayer OLED: 1. Cathode ( ), 2. Emissive Layer, 3. Emission of radiation, 4. Conductive layer, 5. Anode (+)
+A typical OLED is composed of a layer of organic materials situated between two electrodes, the anode and cathode, all deposited on a substrate. The organic molecules are electrically conductive as a result of delocalization of pi electrons caused by conjugation over part or all of the molecule. These materials have conductivity levels ranging from insulators to conductors, and are therefore considered organic semiconductors. The highest occupied and lowest unoccupied molecular orbitals (HOMO and LUMO) of organic semiconductors are analogous to the valence and conduction bands of inorganic semiconductors.[42]
+Originally, the most basic polymer OLEDs consisted of a single organic layer. One example was the first light-emitting device synthesised by J. H. Burroughes et al., which involved a single layer of poly(p-phenylene vinylene). However multilayer OLEDs can be fabricated with two or more layers in order to improve device efficiency. As well as conductive properties, different materials may be chosen to aid charge injection at electrodes by providing a more gradual electronic profile,[43] or block a charge from reaching the opposite electrode and being wasted.[44] Many modern OLEDs incorporate a simple bilayer structure, consisting of a conductive layer and an emissive layer.  Developments in OLED architecture in 2011 improved quantum efficiency (up to 19%) by using a graded heterojunction.[45] In the graded heterojunction architecture, the composition of hole and electron-transport materials varies continuously within the emissive layer with a dopant emitter. The graded heterojunction architecture combines the benefits of both conventional architectures by improving charge injection while simultaneously balancing charge transport within the emissive region.[46]
+During operation, a voltage is applied across the OLED such that the anode is positive with respect to the cathode. Anodes are picked based upon the quality of their optical transparency, electrical conductivity, and chemical stability.[47] A current of electrons flows through the device from cathode to anode, as electrons are injected into the LUMO of the organic layer at the cathode and withdrawn from the HOMO at the anode. This latter process may also be described as the injection of electron holes into the HOMO. Electrostatic forces bring the electrons and the holes towards each other and they recombine forming an exciton, a bound state of the electron and hole. This happens closer to the electron-transport layer part of the emissive layer, because in organic semiconductors holes are generally more mobile than electrons. The decay of this excited state results in a relaxation of the energy levels of the electron, accompanied by emission of radiation whose frequency is in the visible region. The frequency of this radiation depends on the band gap of the material, in this case the difference in energy between the HOMO and LUMO.
+As electrons and holes are fermions with half integer spin, an exciton may either be in a singlet state or a triplet state depending on how the spins of the electron and hole have been combined. Statistically three triplet excitons will be formed for each singlet exciton. Decay from triplet states (phosphorescence) is spin forbidden, increasing the timescale of the transition and limiting the internal efficiency of fluorescent devices. Phosphorescent organic light-emitting diodes make use of spin orbit interactions to facilitate intersystem crossing between singlet and triplet states, thus obtaining emission from both singlet and triplet states and improving the internal efficiency.
+Indium tin oxide (ITO) is commonly used as the anode material. It is transparent to visible light and has a high work function which promotes injection of holes into the HOMO level of the organic layer. A second conductive (injection) layer is typically added, which may consist of PEDOT:PSS,[48] as the HOMO level of this material generally lies between the work function of ITO and the HOMO of other commonly used polymers, reducing the energy barriers for hole injection. Metals such as barium and calcium are often used for the cathode as they have low work functions which promote injection of electrons into the LUMO of the organic layer.[49] Such metals are reactive, so they require a capping layer of aluminium to avoid degradation. Two secondary benefits of the aluminum capping layer include robustness to electrical contacts and the back reflection of emitted light out to the transparent ITO layer.
+Experimental research has proven that the properties of the anode, specifically the anode/hole transport layer (HTL) interface topography plays a major role in the efficiency, performance, and lifetime of organic light-emitting diodes.  Imperfections in the surface of the anode decrease anode-organic film interface adhesion, increase electrical resistance, and allow for more frequent formation of non-emissive dark spots in the OLED material adversely affecting lifetime.  Mechanisms to decrease anode roughness for ITO/glass substrates include the use of thin films and self-assembled monolayers.  Also, alternative substrates and anode materials are being considered to increase OLED performance and lifetime.  Possible examples include single crystal sapphire substrates treated with gold (Au) film anodes yielding lower work functions, operating voltages, electrical resistance values, and increasing lifetime of OLEDs.[50]
+Single carrier devices are typically used to study the kinetics and charge transport mechanisms of an organic material and can be useful when trying to study energy transfer processes. As current through the device is composed of only one type of charge carrier, either electrons or holes, recombination does not occur and no light is emitted. For example, electron only devices can be obtained by replacing ITO with a lower work function metal which increases the energy barrier of hole injection. Similarly, hole only devices can be made by using a cathode made solely of aluminium, resulting in an energy barrier too large for efficient electron injection.[51][52][53]
+Carrier balance[edit]
+Balanced charge injection and transfer are required to get high internal efficiency, pure emission of luminance layer without contaminated emission from charge transporting layers, and high stability. A common way to balance charge is optimizing the thickness of the charge transporting layers but is hard to control. Another way is using the exciplex. Exciplex formed between hole-transporting (p-type) and electron-transporting (n-type) side chains to localize electron-hole pairs. Energy is then transferred to luminophore and provide high efficiency. An example of using exciplex is grafting Oxadiazole and carbazole side units in red diketopyrrolopyrrole-doped Copolymer main chain shows improved external quantum efficiency and color purity in no optimized OLED.[54]
+Material technologies[edit]
+Small molecules[edit]
+ Alq3,[28] commonly used in small molecule OLEDs
+Organic small-molecule electroluminescent materials have the advantages of a wide variety, easy to purify, and strong chemical modifications. In order to make the luminescent materials to emit light as required, some chromophores or unsaturated groups such as alkene bonds and benzene rings will usually be introduced in the molecular structure design to change the size of the conjugation range of the material, so that the photophysical properties of the material changes. In general, the larger the range of  -electron conjugation system, the longer the wavelength of light emitted by the material. For instance, with the increase of the number of benzene rings, the fluorescence emission peak of benzene, naphthalene, anthracene,[55] and butyl gradually red-shifted from 283 nm to 480 nm. Common organic small molecule electroluminescent materials include aluminum complexes, anthracenes, biphenyl acetylene aryl derivatives, coumarin derivatives,[56] and various fluorochromes. Efficient OLEDs using small molecules were first developed by Ching W. Tang et al.[57] at Eastman Kodak. The term OLED traditionally refers specifically to this type of device, though the term SM-OLED is also in use.[58]
+Molecules commonly used in OLEDs include organometallic chelates (for example Alq3, used in the organic light-emitting device reported by Tang et al.), fluorescent and phosphorescent dyes and conjugated dendrimers. A number of materials are used for their charge transport properties, for example triphenylamine and derivatives are commonly used as materials for hole transport layers.[59] Fluorescent dyes can be chosen to obtain light emission at different wavelengths, and compounds such as perylene, rubrene and quinacridone derivatives are often used.[60] Alq3 has been used as a green emitter, electron transport material and as a host for yellow and red emitting dyes.
+Because of the structural flexibility of small-molecule electroluminescent materials, thin films can be prepared by vacuum vapor deposition, which is more expensive and of limited use for large-area devices. The vacuum coating system, however, can make the entire process from film growth to OLED device preparation in a controlled and complete operating environment, helping to obtain uniform and stable films, thus ensuring the final fabrication of high-performance OLED devices.However, small molecule organic dyes are prone to fluorescence quenching[61] in the solid state, resulting in lower luminescence efficiency. The doped OLED devices are also prone to crystallization, which reduces the luminescence and efficiency of the devices. Therefore, the development of devices based on small-molecule electroluminescent materials is limited by high manufacturing costs, poor stability, short life, and other shortcomings. Coherent emission from a laser dye-doped tandem SM-OLED device, excited in the pulsed regime, has been demonstrated.[62] The emission is nearly diffraction limited with a spectral width similar to that of broadband dye lasers.[63]
+Researchers report luminescence from a single polymer molecule, representing the smallest possible organic light-emitting diode (OLED) device.[64] Scientists will be able to optimize substances to produce more powerful light emissions. Finally, this work is a first step towards making molecule-sized components that combine electronic and optical properties. Similar components could form the basis of a molecular computer.[65]
+Polymer light-emitting diodes[edit]
+ poly(p-phenylene vinylene), used in the first PLED[29]
+Polymer light-emitting diodes (PLED, P-OLED), also light-emitting polymers (LEP), involve an electroluminescent conductive polymer that emits light when connected to an external voltage. They are used as a thin film for full-spectrum colour displays.  Polymer OLEDs are quite efficient and require a relatively small amount of power for the amount of light produced.
+Vacuum deposition is not a suitable method for forming thin films of polymers. If the polymeric OLED films are made by vacuum vapor deposition, the chain elements will be cut off and the original photophysical properties will be compromised. However, polymers can be processed in solution, and spin coating is a common method of depositing thin polymer films. This method is more suited to forming large-area films than thermal evaporation. No vacuum is required, and the emissive materials can also be applied on the substrate by a technique derived from commercial inkjet printing.[66][67] However, as the application of subsequent layers tends to dissolve those already present, formation of multilayer structures is difficult with these methods. The metal cathode may still need to be deposited by thermal evaporation in vacuum. An alternative method to vacuum deposition is to deposit a Langmuir-Blodgett film.
+Typical polymers used in PLED displays include derivatives of poly(p-phenylene vinylene) and polyfluorene. Substitution of side chains onto the polymer backbone may determine the colour of emitted light[68] or the stability and solubility of the polymer for performance and ease of processing.[69]
+While unsubstituted poly(p-phenylene vinylene) (PPV) is typically insoluble, a number of PPVs and related poly(naphthalene vinylene)s (PNVs) that are soluble in organic solvents or water have been prepared via ring opening metathesis polymerization.[70][71][72] These water-soluble polymers or conjugated poly electrolytes (CPEs) also can be used as hole injection layers alone or in combination with nanoparticles like graphene.[73]
+Phosphorescent materials[edit]
+ Ir(mppy)3, a phosphorescent dopant which emits green light[74]
+Main article: Phosphorescent organic light-emitting diode
+Phosphorescent organic light-emitting diodes use the principle of electrophosphorescence to convert electrical energy in an OLED into light in a highly efficient manner,[75][76] with the internal quantum efficiencies of such devices approaching 100%.[77]
+Typically, a polymer such as poly(N-vinylcarbazole) is used as a host material to which an organometallic complex is added as a dopant. Iridium complexes[76] such as Ir(mppy)3[74] as of 2004 were a focus of research, although complexes based on other heavy metals such as platinum[75] have also been used.
+The heavy metal atom at the centre of these complexes exhibits strong spin-orbit coupling, facilitating intersystem crossing between singlet and triplet states. By using these phosphorescent materials, both singlet and triplet excitons will be able to decay radiatively, hence improving the internal quantum efficiency of the device compared to a standard OLED where only the singlet states will contribute to emission of light.
+Applications of OLEDs in solid state lighting require the achievement of high brightness with good CIE coordinates (for white emission). The use of macromolecular species like polyhedral oligomeric silsesquioxanes (POSS) in conjunction with the use of phosphorescent species such as Ir for printed OLEDs have exhibited brightnesses as high as 10,000 cd/m2.[78]
+Device architectures[edit]
+Structure[edit]
+Bottom emission[edit]
+ a) Bottom-emitting and b) top-emitting OLED structures; c,d) Schematic diagrams based on bottom-emitting and top-emitting OLEDs with low and high contrast ratio, respectively.
+The bottom-emission organic light-emitting diode (BE-OLED) is the architecture that was used in the early-stage AMOLED displays. It had a transparent anode fabricated on a glass substrate, and a shiny reflective cathode. Light is emitted from the transparent anode direction. To reflect all the light towards the anode direction, a relatively thick metal cathode such as aluminum is used. For the anode, high-transparency indium tin oxide (ITO) was a typical choice to emit as much light as possible.[79] Organic thin-films, including the emissive layer that actually generates the light, are then sandwiched between the ITO anode and the reflective metal cathode. The downside of bottom emission structure is that the light has to travel through the pixel drive circuits such as the thin film transistor (TFT) substrate, and the area from which light can be extracted is limited and the light emission efficiency is reduced.
+Top emission[edit]
+An alternative configuration is to switch the mode of emission. A reflective anode, and a transparent (or more often semi-transparent) cathode are used so that the light emits from the cathode side, and this configuration is called top-emission OLED (TE-OLED). Unlike BEOLEDs where the anode is made of transparent conductive ITO, this time the cathode needs to be transparent, and the ITO material is not an ideal choice for the cathode because of a damage issue due to the sputtering process.[80] Thus, a thin metal film such as pure Ag and the Mg:Ag alloy are used for the semi-transparent cathode due to their high transmittance and high conductivity.[81] In contrast to the bottom emission, light is extracted from the opposite side in top emission without the need of passing through multiple drive circuit layers. Thus, the light generated can be extracted more efficiently.
+Improvements[edit]
+Micro-cavity theory[edit]
+ Sony's Super Top Emission OLED technology enhances the color purity of emitted lights.
+When light waves meet while traveling along the same medium, wave interference occurs. This interference can be constructive or destructive. It is sometimes desirable for several waves of the same frequency to sum up into a wave with higher amplitudes.
+Since both electrodes are reflective in TEOLED, light reflections can happen within the diode, and they cause more complex interferences than those in BEOLEDs. In addition to the two-beam interference, there exists a multi-resonance interference between two electrodes. Because the structure of TEOLEDs is similar to that of the Fabry-Perot resonator or laser resonator, which contains two parallel mirrors comparable to the two reflective electrodes),[82] this effect is especially strong in TEOLED. This two-beam interference and the Fabry-Perot interferences are the main factors in determining the output spectral intensity of OLED. This optical effect is called the "micro-cavity effect."
+In the case of OLED, that means the cavity in a TEOLED could be especially designed to enhance the light output intensity and color purity with a narrow band of wavelengths, without consuming more power. In TEOLEDs, the microcavity effect commonly occurs, and when and how to restrain or make use of this effect is indispensable for device design. To match the conditions of constructive interference, different layer thicknesses are applied according to the resonance wavelength of that specific color. The thickness conditions are carefully designed and engineered according to the peak resonance emitting wavelengths of the blue (460 nm), green (530 nm), and red (610 nm) color LEDs. This technology greatly improves the light-emission efficiency of OLEDs, and are able to achieve a wider color gamut due to high color purity.
+Color filters[edit]
+In "white + color filter method," red, green, and blue emissions are obtained from the same white-light LEDs using different color filters.[83] With this method, the OLED materials produce white light which is then filtered to obtain the desired RGB colors. This method eliminated the need to deposit three different organic emissive materials so only one kind of OLED material is used to produce white light. It also eliminated the uneven degradation rate of blue pixels vs. red and green pixels. Disadvantages of this method are low color purity and contrast. Also, the filters absorb most of the light waves emitted, requiring the background white light to be relatively strong to compensate for the drop in brightness, and thus the power consumption for such displays can be higher.
+Color filters can also be implemented into bottom- and top-emission OLEDs. By adding the corresponding RGB color filters after the semi-transparent cathode, even purer wavelengths of light can be obtained. The use of a microcavity in top-emission OLEDs with color filters also contributes to an increase in the contrast ratio by reducing the reflection of incident ambient light.[84] In a conventional panel, a circular polarizer was installed on the panel surface. While this was provided to prevent the reflection of ambient light, it also reduced the light output. By replacing this polarizing layer with color filters, the light intensity is not affected, and essentially all ambient reflected light can be cut, allowing a better contrast on the display panel. This potentially reduced the need for brighter pixels, and can lower the power consumption.
+Other architectures[edit]
+Transparent OLEDs[edit]
+Transparent OLEDs use transparent or semi-transparent contacts on both sides of the device to create displays that can be made to be both top and bottom emitting (transparent). TOLEDs can greatly improve contrast, making it much easier to view displays in bright sunlight.[85] This technology can be used in Head-up displays, smart windows or augmented reality applications.
+Graded heterojunction[edit]
+Graded heterojunction OLEDs gradually decrease the ratio of electron holes to electron transporting chemicals.[45] This results in almost double the quantum efficiency of existing OLEDs.
+Stacked OLEDs[edit]
+Stacked OLEDs use a pixel architecture that stacks the red, green, and blue subpixels on top of one another instead of next to one another, leading to substantial increase in gamut and color depth,[86] and greatly reducing pixel gap. Other display technologies with RGB (and RGBW) pixels mapped next to each other, tend to decrease potential resolution.
+Inverted OLED[edit]
+In contrast to a conventional OLED, in which the anode is placed on the substrate, an Inverted OLED uses a bottom cathode that can be connected to the drain end of an n-channel TFT especially for the low cost amorphous silicon TFT backplane useful in the manufacturing of AMOLED displays.[87]
+All OLED displays (passive and active matrix) use a driver IC, often mounted using Chip-on-glass (COG), using an Anisotropic conductive film.[88]
+Color patterning technologies[edit]
+Shadow mask patterning method[edit]
+The most commonly used patterning method for organic light-emitting displays is shadow masking during film deposition,[89] also called the "RGB side-by-side" method or "RGB pixelation" method. Metal sheets with multiple apertures made of low thermal expansion material, such as nickel alloy, are placed between the heated evaporation source and substrate, so that the organic or inorganic material from the evaporation source is masked off, or blocked by the sheet from reaching the substrate in most locations, so the materials are deposited only on the desired locations on the substrate, and the rest is deposited and remains on the sheet. Almost all small OLED displays for smartphones have been manufactured using this method. 
+Fine metal masks (FMMs) made by photochemical machining, reminiscent of old CRT shadow masks, are used in this process. The dot density of the mask will determine the pixel density of the finished display.[90] Fine Hybrid Masks (FHMs) are lighter than FFMs, reducing bending caused by the mask's own weight, and are made using an electroforming process.[91][92]
+This method requires heating the electroluminescent materials at 300 C using a thermal method in a high vacuum of 10 5 Pa. An oxygen meter ensures that no oxygen enters the chamber as it could damage (through oxidation) the electroluminescent material, which is in powder form. The mask is aligned with the mother substrate before every use, and it is placed just below the substrate. The substrate and mask assembly are placed at the top of the deposition chamber.[93] Afterwards, the electrode layer is deposited, by subjecting silver and aluminum powder to 1000 C, using an electron beam.[94] Shadow masks allow for high pixel densities of up to 2,250 DPI (890 dot/cm). High pixel densities are 
+necessary for virtual reality headsets.[95]
+White + color filter method[edit]
+Although the shadow-mask patterning method is a mature technology used from the first OLED manufacturing, it causes many issues like dark spot formation due to mask-substrate contact or misalignment of the pattern due to the deformation of shadow mask. Such defect formation can be regarded as trivial when the display size is small, however it causes serious issues when a large display is manufactured, which brings significant production yield loss. To circumvent such issues, white emission devices with 4-sub-pixel color filters (white, red, green and blue) have been used for large televisions. In spite of the light absorption by the color filter, state-of-the-art OLED televisions can reproduce color very well, such as 100% NTSC, and consume little power at the same time. This is done by using an emission spectrum with high human-eye sensitivity, special color filters with a low spectrum overlap, and performance tuning with color statistics into consideration.[96]
+This approach is also called the "Color-by-white" method.
+Other color patterning approaches[edit]
+There are other types of emerging patterning technologies to increase the manufacturabiltiy of OLEDs. 
+Patternable organic light-emitting devices use a light or heat activated electroactive layer. A latent material (PEDOT-TMA) is included in this layer that, upon activation, becomes highly efficient as a hole injection layer. Using this process, light-emitting devices with arbitrary patterns can be prepared.[97]
+Colour patterning can be accomplished by means of a laser, such as a radiation-induced sublimation transfer (RIST).[98]
+Organic vapour jet printing (OVJP) uses an inert carrier gas, such as argon or nitrogen, to transport evaporated organic molecules (as in organic vapour phase deposition). The gas is expelled through a micrometre-sized nozzle or nozzle array close to the substrate as it is being translated. This allows printing arbitrary multilayer patterns without the use of solvents.
+Like ink jet material deposition, inkjet etching (IJE) deposits precise amounts of solvent onto a substrate designed to selectively dissolve the substrate material and induce a structure or pattern. Inkjet etching of polymer layers in OLED's can be used to increase the overall out-coupling efficiency. In OLEDs, light produced from the emissive layers of the OLED is partially transmitted out of the device and partially trapped inside the device by total internal reflection (TIR). This trapped light is wave-guided along the interior of the device until it reaches an edge where it is dissipated by either absorption or emission. Inkjet etching can be used to selectively alter the polymeric layers of OLED structures to decrease overall TIR and increase out-coupling efficiency of the OLED. Compared to a non-etched polymer layer, the structured polymer layer in the OLED structure from the IJE process helps to decrease the TIR of the OLED device. IJE solvents are commonly organic instead of water-based due to their non-acidic nature and ability to effectively dissolve materials at temperatures under the boiling point of water.[99]
+Transfer-printing is an emerging technology to assemble large numbers of parallel OLED and AMOLED devices efficiently.  It takes advantage of standard metal deposition, photolithography, and etching to create alignment marks commonly on glass or other device substrates.  Thin polymer adhesive layers are applied to enhance resistance to particles and surface defects.  Microscale ICs are transfer-printed onto the adhesive surface and then baked to fully cure adhesive layers.  An additional photosensitive polymer layer is applied to the substrate to account for the topography caused by the printed ICs, reintroducing a flat surface.  Photolithography and etching removes some polymer layers to uncover conductive pads on the ICs. Afterwards, the anode layer is applied to the device backplane to form the bottom electrode.  OLED layers are applied to the anode layer with conventional vapor deposition, and covered with a conductive metal electrode layer.  As of 2011[update] transfer-printing was capable to print onto target substrates up to 500 mm   400 mm.  This size limit needs to expand for transfer-printing to become a common process for the fabrication of large OLED/AMOLED displays.[100]
+Experimental OLED displays using conventional photolithography techniques instead of FMMs have been demonstrated, allowing for large substrate sizes (as it eliminates the need for a mask that needs to be as large as the substrate) and good yield control.[101]
+Thin-film transistor backplanes[edit]
+For a high resolution display like a TV, a thin-film transistor (TFT) backplane is necessary to drive the pixels correctly. As of 2019, low-temperature polycrystalline silicon (LTPS)  TFT is widely used for commercial AMOLED displays. LTPS-TFT has variation of the performance in a display, so various compensation circuits have been reported.[102] Due to the size limitation of the excimer laser used for LTPS, the AMOLED size was limited. To cope with the hurdle related to the panel size, amorphous-silicon/microcrystalline-silicon backplanes have been reported with large display prototype demonstrations.[103] An indium gallium zinc oxide (IGZO) backplane can also be used.
+Advantages[edit]
+Further information: Comparison of CRT, LCD, Plasma, and OLED
+The different manufacturing process of OLEDs has several advantages over flat panel displays made with LCD technology.
+Lower cost in the future
+OLEDs can be printed onto any suitable substrate by an inkjet printer or even by screen printing,[104] theoretically making them cheaper to produce than LCD or plasma displays. However, fabrication of the OLED substrate as of 2018 is costlier than that for TFT LCDs.[105] Roll-to-roll vapor-deposition methods for organic devices do allow mass production of thousands of devices per minute for minimal cost; however, this technique also induces problems: devices with multiple layers can be challenging to make because of registration   lining up the different printed layers to the required degree of accuracy.
+Lightweight and flexible plastic substrates
+OLED displays can be fabricated on flexible plastic substrates, leading to the possible fabrication of flexible organic light-emitting diodes for other new applications, such as roll-up displays embedded in fabrics or clothing. If a substrate like polyethylene terephthalate (PET)[106] can be used, the displays may be produced inexpensively.  Furthermore, plastic substrates are shatter-resistant, unlike the glass displays used in LCD devices.
+Better picture quality
+OLEDs enable a greater contrast ratio and wider viewing angle compared to LCDs, because OLED pixels emit light directly. This also provides a deeper black level, since a black OLED display emits no light. Furthermore, OLED pixel colors appear correct and unshifted, even as the viewing angle approaches 90  from the normal.
+Better power efficiency and thickness
+LCDs filter the light emitted from a backlight, allowing a small fraction of light through. Thus, they cannot show true black. However, an inactive OLED element does not produce light or consume power, allowing true blacks.[107] Removing the backlight also makes OLEDs lighter because some substrates are not needed. When looking at top-emitting OLEDs, thickness also plays a role when talking about index match layers (IMLs). Emission intensity is enhanced when the IML thickness is 1.3 2.5 nm. The refractive value and the matching of the optical IMLs property, including the device structure parameters, also enhance the emission intensity at these thicknesses.[108]
+Response time
+OLEDs also have a much faster response time than an LCD. Using response time compensation technologies, the fastest modern LCDs can reach response times as low as 1 ms for their fastest color transition, and are capable of refresh frequencies as high as 240 Hz. According to LG, OLED response times are up to 1,000 times faster than LCD,[109] putting conservative estimates at under 10 s (0.01 ms), which could theoretically accommodate refresh frequencies approaching 100 kHz (100,000 Hz). Due to their extremely fast response time, OLED displays can also be easily designed to be strobed, creating an effect similar to CRT flicker in order to avoid the sample-and-hold behavior seen on both LCDs and some OLED displays, which creates the perception of motion blur.[110]
+Disadvantages[edit]
+ Light-emitting polymer (LEP) display showing partial failure
+ An old OLED display showing wear
+Lifespan[edit]
+The biggest technical problem for OLEDs is the limited lifetime of the organic materials. One 2008 technical report on an OLED TV panel found that after 1,000 hours, the blue luminance degraded by 12%, the red by 7% and the green by 8%.[111] In particular, blue OLEDs at that time had a lifetime of around 14,000 hours to half original brightness (five years at eight hours per day) when used for flat-panel displays. This is lower than the typical lifetime of LCD, LED or PDP technology; each rated for about 25,000 40,000 hours to half brightness, depending on manufacturer and model. One major challenge for OLED displays is the formation of dark spots due to the ingress of oxygen and moisture, which degrades the organic material over time whether or not the display is powered.[112][113][114] In 2016, LG Electronics reported an expected lifetime of 100,000 hours, up from 36,000 hours in 2013.[115]  A US Department of Energy paper shows that the expected lifespans of OLED lighting products goes down with increasing brightness, with an expected lifespan of 40,000 hours at 25% brightness, or 10,000 hours at 100% brightness.[116][117]
+Cause of degradation[edit]
+This subsection may be too technical for most readers to understand. Please help improve it to make it understandable to non-experts, without removing the technical details. (April 2019) (Learn how and when to remove this template message)
+Degradation occurs because of the accumulation of nonradiative recombination centers and luminescence quenchers in the emissive zone. It is said that the chemical breakdown in the semiconductors occurs in four steps:
+recombination[118] of charge carriers through the absorption of UV light
+homolytic dissociation
+subsequent radical addition reactions that form   radicals
+disproportionation between two radicals resulting in hydrogen-atom transfer reactions[119]
+However, some manufacturers' displays aim to increase the lifespan of OLED displays, pushing their expected life past that of LCD displays by improving light outcoupling, thus achieving the same brightness at a lower drive current.[120][121] In 2007, experimental OLEDs were created which can sustain 400 cd/m2 of luminance for over 198,000 hours for green OLEDs and 62,000 hours for blue OLEDs.[122] In 2012, OLED lifetime to half of the initial brightness was improved to 900,000 hours for red, 1,450,000 hours for yellow and 400,000 hours for green at an initial luminance of 1,000 cd/m2.[123] Proper encapsulation is critical for prolonging an OLED display's lifetime, as the OLED light emitting electroluminescent materials are sensitive to oxygen and moisture. When exposed to moisture or oxygen, the electroluminescent materials in OLEDs degrade as they oxidize, generating black spots and reducing or shrinking the area that emits light, reducing light output. This reduction can occur in a pixel by pixel basis. This can also lead to delamination of the electrode layer, eventually leading to complete panel failure.
+Degradation occurs three orders of magnitude faster when exposed to moisture than when exposed to oxygen. Encapsulation can be performed by applying an epoxy adhesive with dessicant,[124] by laminating a glass sheet with epoxy glue and dessicant[125] followed by vacuum degassing, or by using Thin-Film Encapsulation (TFE), which is a multi-layer coating of alternating organic and inorganic layers. The organic layers are applied using inkjet printing, and the inorganic layers are applied using Atomic Layer Deposition (ALD). The encapsulation process is carried out under a nitrogen environment, using UV-curable LOCA glue and the electroluminescent and electrode material deposition processes are carried out under a high vacuum. The encapsulation and material deposition processes are carried out by a single machine, after the Thin-film transistors have been applied. The transistors are applied in a process that is the same for LCDs. The electroluminescent materials can also be applied using inkjet printing.[126][127][128][94][129][124][130]
+Color balance[edit]
+The OLED material used to produce blue light degrades much more rapidly than the materials used to produce other colors; in other words, blue light output will decrease relative to the other colors of light. This variation in the differential color output will change the color balance of the display, and is much more noticeable than a uniform decrease in overall luminance.[131] This can be avoided partially by adjusting the color balance, but this may require advanced control circuits and input from a knowledgeable user. More commonly, though, manufacturers optimize the size of the R, G and B subpixels to reduce the current density through the subpixel in order to equalize lifetime at full luminance.  For example, a blue subpixel may be 100% larger than the green subpixel. The red subpixel may be 10% larger than the green.
+Efficiency of blue OLEDs[edit]
+This subsection may be too technical for most readers to understand. Please help improve it to make it understandable to non-experts, without removing the technical details. (April 2019) (Learn how and when to remove this template message)
+Improvements to the efficiency and lifetime of blue OLEDs is vital to the success of OLEDs as replacements for LCD technology. Considerable research has been invested in developing blue OLEDs with high external quantum efficiency, as well as a deeper blue color.[132][133][134]
+Since 2012, research focuses on organic materials exhibiting thermally activated delayed fluorescence (TADF), discovered at Kyushu University OPERA and UC Santa Barbara CPOS. TADF would allow stable and high-efficiency solution processable (meaning that the organic materials are layered in solutions producing thinner layers) blue emitters, with internal quantum efficiencies reaching 100%.[135] Early in 2017, [136]TADF materials based on oxygen-based fully bridged boron-type electron accepttors had achieved huge breakthrough in their proprities. The external quantum efficiency of TADF-OLED for blue and green light had achieved 38%, with thin full-width half-maximum and high color purity. In 2022, Han et al.[137] synthesized a new D-A type luminescent material, TDBA-Cz, and used the m-AC-DBNA synthesized by Meng et al. as a control to investigate the effect of the substitution site of the carbazole unit as an electron donor on the oxygen-bridged triphenylboron electron acceptor unit on the photophysical properties of the overall molecule. It was found that the introduction of two carbazole units into the same benzene ring of the oxygen-bridged triphenylboron electron acceptor unit could effectively suppress the conformational relaxation of the molecule during the radiative transition, resulting in narrow bandwidth blue light emission. In addition, TDBA-Cz is the first reported blue material to achieve both a FWHM down to 45 nm and a maximum EQE of 21.4% in a non-doped TADF-OLED.
+Blue TADF emitters are expected to market by 2020[138][139] and would be used for WOLED displays with phosphorescent color filters, as well as blue OLED displays with ink-printed QD color filters.
+Water damage[edit]
+Water can instantly damage the organic materials of the displays. Therefore, improved sealing processes are important for practical manufacturing. Water damage especially may limit the longevity of more flexible displays.[140]
+Outdoor performance[edit]
+As an emissive display technology, OLEDs rely completely upon converting electricity to light, unlike most LCDs which are to some extent reflective. E-paper leads the way in efficiency with ~ 33% ambient light reflectivity, enabling the display to be used without any internal light source. The metallic cathode in an OLED acts as a mirror, with reflectance approaching 80%, leading to poor readability in bright ambient light such as outdoors. However, with the proper application of a circular polarizer and antireflective coatings, the diffuse reflectance can be reduced to less than 0.1%.  With 10,000 fc incident illumination (typical test condition for simulating outdoor illumination), that yields an approximate photopic contrast of 5:1. Advances in OLED technologies, however, enable OLEDs to become actually better than LCDs in bright sunlight. The AMOLED display in the Galaxy S5, for example, was found to outperform all LCD displays on the market in terms of power usage, brightness and reflectance.[141]
+Power consumption[edit]
+While an OLED will consume around 40% of the power of an LCD displaying an image that is primarily black, for the majority of images it will consume 60 80% of the power of an LCD. However, an OLED can use more than 300% power to display an image with a white background, such as a document or web site.[142] This can lead to reduced battery life in mobile devices when white backgrounds are used.
+Screen flicker[edit]
+OLEDs use pulse width modulation to show colour/brightness gradations, so even if the display is at 100% brightness, any pixel that's, for example, 50% grey will be off for 50% of the time, making for a subtle strobe effect. The alternative way to decrease brightness would be to decrease the constant power to the OLEDs, which would result in no screen flicker, but a noticeable change in colour balance, getting worse as brightness decreases.
+Manufacturers and commercial uses[edit]
+ Magnified image of the AMOLED screen on the Google Nexus One smartphone using the RGBG system of the PenTile Matrix Family
+ A 3.8 cm (1.5 in) OLED display from a Creative ZEN V media player
+ OLED lighting in a shopping mall in Aachen, Germany
+Almost all OLED manufacturers rely on material deposition equipment that is only made by a handful of companies,[143] the most notable one being Canon Tokki, a unit of Canon Inc. Canon Tokki is reported to have a near-monopoly of the giant OLED-manufacturing vacuum machines, notable for their 100-metre (330 ft) size.[144] Apple has relied solely on Canon Tokki in its bid to introduce its own OLED displays for the iPhones released in 2017.[145] The electroluminescent materials needed for OLEDs are also made by a handful of companies, some of them being Merck, Universal Display Corporation and LG Chem.[146] The machines that apply these materials can operate continuously for 5 6 days, and can process a mother substrate in 5 minutes.[147]
+OLED technology is used in commercial applications such as displays for mobile phones and portable digital media players, car radios and digital cameras among others, as well as lighting.[148] Such portable display applications favor the high light output of OLEDs for readability in sunlight and their low power drain. Portable displays are also used intermittently, so the lower lifespan of organic displays is less of an issue. Prototypes have been made of flexible and rollable displays which use OLEDs' unique characteristics. Applications in flexible signs and lighting are also being developed.[149] OLED lighting offers several advantages over LED lighting, such as higher quality illumination, more diffuse light source, and panel shapes.[148] Philips Lighting has made OLED lighting samples under the brand name "Lumiblade" available online[150] and Novaled AG based in Dresden, Germany, introduced a line of OLED desk lamps called "Victory" in September, 2011.[151]
+Nokia introduced OLED mobile phones including the N85 and the N86 8MP, both of which feature an AMOLED display. OLEDs have also been used in most Motorola and Samsung color cell phones, as well as some HTC, LG and Sony Ericsson models.[152] OLED technology can also be found in digital media players such as the Creative ZEN V, the iriver clix, the Zune HD and the Sony Walkman X Series.
+The Google and HTC Nexus One smartphone includes an AMOLED screen, as does HTC's own Desire and Legend phones. However, due to supply shortages of the Samsung-produced displays, certain HTC models will use Sony's SLCD displays in the future,[153] while the Google and Samsung Nexus S smartphone will use "Super Clear LCD" instead in some countries.[154]
+OLED displays were used in watches made by Fossil (JR-9465) and Diesel (DZ-7086). Other manufacturers of OLED panels include Anwell Technologies Limited (Hong Kong),[155] AU Optronics (Taiwan),[156] Chimei Innolux Corporation (Taiwan),[157] LG (Korea),[158] and others.[159]
+DuPont stated in a press release in May 2010, that they can produce a 50-inch OLED TV in two minutes with a new printing technology. If this can be scaled up in terms of manufacturing, then the total cost of OLED TVs would be greatly reduced. DuPont also states that OLED TVs made with this less expensive technology can last up to 15 years if left on for a normal eight-hour day.[160][161]
+The use of OLEDs may be subject to patents held by Universal Display Corporation, Eastman Kodak, DuPont, General Electric, Royal Philips Electronics, numerous universities and others.[162] By 2008, thousands of patents associated with OLEDs, came from larger corporations and smaller technology companies.[42]
+Flexible OLED displays have been used by manufacturers to create curved displays such as the Galaxy S7 Edge but they were not in devices that can be flexed by the users.[163] Samsung demonstrated a roll-out display in 2016.[164]
+Samsung foldable smartphones
+On 31 October 2018, Royole, a Chinese electronics company, unveiled the world's first foldable screen phone featuring a flexible OLED display.[165] On 20 February 2019, Samsung announced the Samsung Galaxy Fold with a foldable OLED display from Samsung Display, its majority-owned subsidiary.[166] At MWC 2019 on 25 February 2019, Huawei announced the Huawei Mate X featuring a foldable OLED display from BOE.[167][168]
+The 2010s also saw the wide adoption of tracking gate-line in pixel (TGP), which moves the driving circuitry from the borders of the display to in between the display's pixels, allowing for narrow bezels.[169]
+Fashion[edit]
+Textiles incorporating OLEDs are an innovation in the fashion world and pose for a way to integrate lighting to bring inert objects to a whole new level of fashion. The hope is to combine the comfort and low cost properties of textile with the OLEDs properties of illumination and low energy consumption. Although this scenario of illuminated clothing is highly plausible, challenges are still a road block. Some issues include: the lifetime of the OLED, rigidness of flexible foil substrates, and the lack of research in making more fabric like photonic textiles.[170]
+Automotive[edit]
+The number of automakers using OLEDs is still rare and limited to the high-end of the market. For example, the 2010 Lexus RX features an OLED display instead of a thin film transistor (TFT-LCD) display.
+A Japanese manufacturer Pioneer Electronic Corporation produced the first car stereos with a monochrome OLED display, which was also the world's first OLED product.[171] The Aston Martin DB9 incorporated the world's first automotive OLED display,[172] which was manufactured by Yazaki,[173] followed by the 2004 Jeep Grand Cherokee and the Chevrolet Corvette C6.[174] The 2015 Hyundai Sonata and Kia Soul EV use a 3.5-inch white PMOLED display.
+Company-specific applications[edit]
+Samsung[edit]
+ Samsung AMOLED displays
+By 2004, Samsung Display, a subsidiary of South Korea's largest conglomerate and a former Samsung-NEC joint venture, was the world's largest OLED manufacturer, producing 40% of the OLED displays made in the world,[175] and as of 2010, has a 98% share of the global AMOLED market.[176] The company is leading the world of OLED industry, generating $100.2 million out of the total $475 million revenues in the global OLED market in 2006.[177] As of 2006, it held more than 600 American patents and more than 2800 international patents, making it the largest owner of AMOLED technology patents.[177]
+Samsung SDI announced in 2005, the world's largest OLED TV at the time, at 21 inches (53 cm).[178] This OLED featured the highest resolution at the time, of 6.22 million pixels. In addition, the company adopted active matrix-based technology for its low power consumption and high-resolution qualities. This was exceeded in January 2008, when Samsung showcased the world's largest and thinnest OLED TV at the time, at 31 inches (78 cm) and 4.3 mm.[179]
+In May 2008, Samsung unveiled an ultra-thin 12.1 inch (30 cm) laptop OLED display concept, with a 1,280 768 resolution with infinite contrast ratio.[180] According to Woo Jong Lee, Vice President of the Mobile Display Marketing Team at Samsung SDI, the company expected OLED displays to be used in notebook PCs as soon as 2010.[181]
+In October 2008, Samsung showcased the world's thinnest OLED display, also the first to be "flappable" and bendable.[182] It measures just 0.05 mm (thinner than paper), yet a Samsung staff member said that it is "technically possible to make the panel thinner".[182] To achieve this thickness, Samsung etched an OLED panel that uses a normal glass substrate. The drive circuit was formed by low-temperature polysilicon TFTs. Also, low-molecular organic EL materials were employed. The pixel count of the display is 480   272. The contrast ratio is 100,000:1, and the luminance is 200 cd/m2. The colour reproduction range is 100% of the NTSC standard.
+As of 2020, the world's largest OLED television is an 88-inch with a 8K resolution, frame rate up to 120 fps and cost of 34,676 US Dollars.[183]
+At the Consumer Electronics Show (CES) in January 2010, Samsung demonstrated a laptop computer with a large, transparent OLED display featuring up to 40% transparency[184] and an animated OLED display in a photo ID card.[185]
+Samsung's 2010 AMOLED smartphones used their Super AMOLED trademark, with the Samsung Wave S8500 and Samsung i9000 Galaxy S being launched in June 2010. In January 2011, Samsung announced their Super AMOLED Plus displays, which offer several advances over the older Super AMOLED displays: real stripe matrix (50% more sub pixels), thinner form factor, brighter image and an 18% reduction in energy consumption.[186]
+At CES 2012, Samsung introduced the first 55" TV screen that uses Super OLED technology.[187]
+On 8 January 2013, at CES Samsung unveiled a unique curved 4K Ultra S9 OLED television, which they state provides an "IMAX-like experience" for viewers.[188]
+On 13 August 2013, Samsung announced availability of a 55-inch curved OLED TV (model KN55S9C) in the US at a price point of $8999.99.[189]
+On 6 September 2013, Samsung launched its 55-inch curved OLED TV (model KE55S9C) in the United Kingdom with John Lewis.[190]
+Samsung introduced the Galaxy Round smartphone in the Korean market in October 2013. The device features a 1080p screen, measuring 5.7 inches (14 cm), that curves on the vertical axis in a rounded case. The corporation has promoted the following advantages: A new feature called "Round Interaction" that allows users to look at information by tilting the handset on a flat surface with the screen off, and the feel of one continuous transition when the user switches between home screens.[191]
+Samsung released a new line of OLED TVs in 2022, its first using the technology since 2013.[192] They use panels sourced from Samsung Display; previously, LG was the sole manufacturer of OLED panels for TVs.[193]
+Sony[edit]
+ Sony XEL-1, the world's first OLED TV[37] (front)
+The Sony CLI  PEG-VZ90 was released in 2004, being the first PDA to feature an OLED screen.[194] Other Sony products to feature OLED screens include the MZ-RH1 portable minidisc recorder, released in 2006[195] and the Walkman X Series.[196]
+At the 2007, Las Vegas Consumer Electronics Show (CES), Sony showcased a 11-inch (28 cm), (resolution 960 540) and 27-inch (69 cm), full HD resolution at 1920   1080 OLED TV models.[197] Both claimed 1,000,000:1 contrast ratios and total thicknesses (including bezels) of 5 mm. In April 2007, Sony announced it would manufacture 1000 11-inch (28 cm) OLED TVs per month for market testing purposes.[198] On 1 October 2007, Sony announced that the 11-inch (28 cm) model XEL-1, was the first commercial OLED TV[37] and it was released in Japan in December 2007.[199]
+In May 2007, Sony publicly unveiled a video of a 2.5-inch (6.4 cm) flexible OLED screen which is only 0.3 millimeters thick.[200] At the Display 2008 exhibition, Sony demonstrated a 0.2 mm thick 3.5 inches (8.9 cm) display with a resolution of 320 200 pixels and a 0.3 mm thick 11-inch (28 cm) display with 960 540 pixels resolution, one-tenth the thickness of the XEL-1.[201][202]
+In July 2008, a Japanese government body said it would fund a joint project of leading firms, which is to develop a key technology to produce large, energy-saving organic displays. The project involves one laboratory and 10 companies including Sony Corp. NEDO said the project was aimed at developing a core technology to mass-produce 40 inch or larger OLED displays in the late 2010s.[203]
+In October 2008, Sony published results of research it carried out with the Max Planck Institute over the possibility of mass-market bending displays, which could replace rigid LCDs and plasma screens. Eventually, bendable, see-through displays could be stacked to produce 3D images with much greater contrast ratios and viewing angles than existing products.[204]
+Sony exhibited a 24.5" (62 cm) prototype OLED 3D television during the Consumer Electronics Show in January 2010.[205]
+In January 2011, Sony announced the PlayStation Vita handheld game console (the successor to the PSP) will feature a 5-inch OLED screen.[206]
+On 17 February 2011, Sony announced its 25" (63.5 cm) OLED Professional Reference Monitor aimed at the Cinema and high end Drama Post Production market.[207]
+On 25 June 2012, Sony and Panasonic announced a joint venture for creating low cost mass production OLED televisions by 2013.[208] 
+Sony unveiled its first OLED TV since 2008 at CES 2017 called A1E. It revealed two other models in 2018 one at CES 2018 called A8F and other a Master Series TV called A9F. At CES 2019 They unveiled another two models one the A8G and the other another Bravia Series TV called A9G. Then, at CES 2020, they revealed the A8H, which was effectively a A9G in terms of picture quality but with some compromises due to its lower cost. At the same event, they also revealed a 48-inch version of the A9G, making this its smallest OLED TV since the XEL-1.[209][210][211][212]
+LG[edit]
+On 9 April 2009, LG acquired Kodak's OLED business and started to utilize white OLED technology.[213][214] As of 2010, LG Electronics produced one model of OLED television, the 15-inch (38 cm) 15EL9500[215] and had announced a 31-inch (79 cm) OLED 3D television for March 2011.[216] On 26 December 2011, LG officially announced the "world's largest 55-inch (140 cm) OLED panel" and featured it at CES 2012.[217] In late 2012, LG announces the launch of the 55EM9600 OLED television in Australia.[218]
+In January 2015, LG Display signed a long-term agreement with Universal Display Corporation for the supply of OLED materials and the right to use their patented OLED emitters.[219]
+Mitsubishi[edit]
+Lumiotec is the first company in the world developing and selling, since January 2011, mass-produced OLED lighting panels with such brightness and long lifetime. Lumiotec is a joint venture of Mitsubishi Heavy Industries, ROHM, Toppan Printing, and Mitsui & Co.
+On 1 June 2011, Mitsubishi Electric installed a 6-meter OLED 'sphere' in Tokyo's Science Museum.[220]
+Recom Group[edit]
+On 6 January 2011, Los Angeles-based technology company Recom Group introduced the first small screen consumer application of the OLED at the Consumer Electronics Show in Las Vegas. This was a 2.8" (7 cm) OLED display being used as a wearable video name tag.[221] At the Consumer Electronics Show in 2012, Recom Group introduced the world's first video mic flag incorporating three 2.8" (7 cm) OLED displays on a standard broadcaster's mic flag. The video mic flag allowed video content and advertising to be shown on a broadcasters standard mic flag.[222]
+Dell[edit]
+On 6 January 2016, Dell announced the Ultrasharp UP3017Q OLED monitor at the Consumer Electronics Show in Las Vegas.[223] The monitor was announced to feature a 30-inch (76 cm) 4K UHD OLED panel with a 120 Hz refresh rate, 0.1 millisecond response time, and a contrast ratio of 400,000:1. The monitor was set to sell at a price of $4,999 and release in March, 2016, just a few months later. As the end of March rolled around, the monitor was not released to the market and Dell did not speak on reasons for the delay. Reports suggested that Dell canceled the monitor as the company was unhappy with the image quality of the OLED panel, especially the amount of color drift that it displayed when you viewed the monitor from the sides.[224] On 13 April 2017, Dell finally released the UP3017Q OLED monitor to the market at a price of $3,499 ($1,500 less than its original spoken price of $4,999 at CES 2016). In addition to the price drop, the monitor featured a 60 Hz refresh rate and a contrast ratio of 1,000,000:1. As of June, 2017, the monitor is no longer available to purchase from Dell's website.
+Apple[edit]
+Apple began using OLED panels in its watches in 2015 and in its laptops in 2016 with the introduction of an OLED touchbar to the MacBook Pro.[225] In 2017, Apple announced the introduction of their tenth anniversary iPhone X with their own optimized OLED display licensed from Universal Display Corporation.[226] Apple has continued the use of the technology in the iPhone X's successors, such as the iPhone XS and iPhone XS Max, and iPhone 11 Pro and iPhone 11 Pro Max.
+Nintendo[edit]
+A third model of Nintendo's Switch, a hybrid gaming system, features an OLED panel in place of the original model's LCD panel. Announced in the summer of 2021, it was released on 8 October 2021.[227]
+Research[edit]
+In 2014, Mitsubishi Chemical Corporation (MCC), a subsidiary of Mitsubishi Chemical Holdings, developed an OLED panel with a 30,000-hour life, twice that of conventional OLED panels.[228]
+The search for efficient OLED materials has been extensively supported by simulation methods; it is possible to calculate important properties computationally, independent of experimental input,[229][230] making materials development cheaper.
+On 18 October 2018, Samsung showed of their research roadmap at their 2018 Samsung OLED Forum. This included Fingerprint on Display (FoD), Under Panel Sensor (UPS), Haptic on Display (HoD) and Sound on Display (SoD).[231]
+Various venders are also researching cameras under OLEDs (Under Display Cameras). According to IHS Markit Huawei has partnered with BOE, Oppo with China Star Optoelectronics Technology (CSOT), Xiaomi with Visionox.[232]
+In 2020, researchers at the Queensland University of Technology (QUT) proposed using human hair which is a source of carbon and nitrogen to create OLED displays.[233]
+See also[edit]
+Electronics portal
+Comparison of display technology
+Field-emission display  type of displayPages displaying wikidata descriptions as a fallback
+Flat-panel display  Electronic display technology
+Flexible electronics  Mounting of electronic devices on flexible plastic substrates
+Flexible organic light-emitting diode
+List of emerging technologies
+List of flat panel display manufacturers
+Molecular electronics  Branch of chemistry and electronics
+Organic light-emitting transistor  form of transistor that emits lightPages displaying wikidata descriptions as a fallback
+Printed electronics  Electronic devices created by various printing methods
+Quantum dot display  Type of display device
+Roll-to-roll processing  countinous printing method that prints directly onto a roll of fabric or other materialsPages displaying wikidata descriptions as a fallback
+Light-on-dark color scheme  Type of color scheme (Dark Mode)
+Surface-conduction electron-emitter display  CRT screen
+LED display
+microLED
+Mini LED
+Further reading[edit]
+T. Tsujimura, OLED Display Fundamentals and Applications, Wiley-SID Series in Display Technology, New York (2017). ISBN 978-1-119-18731-8.
+P. Chamorro-Posada, J. Mart n-Gil, P. Mart n-Ramos, L.M. Navas-Gracia, Fundamentos de la Tecnolog a OLED (Fundamentals of OLED Technology). University of Valladolid, Spain (2008). ISBN 978-84-936644-0-4. Available online, with permission from the authors, at the webpage: Fundamentos de la Tecnolog a OLED
+Kordt, Pascal;  et al. (2015). "Modeling of Organic Light Emitting Diodes: From Molecular to Device Properties". Advanced Functional Materials. 25 (13): 1955 1971. doi:10.1002/adfm.201403004. hdl:21.11116/0000-0001-6CD1-A. S2CID 18575622.
+Shinar, Joseph (Ed.), Organic Light-Emitting Devices: A Survey. NY: Springer-Verlag (2004). ISBN 0-387-95343-4.
+Hari Singh Nalwa (Ed.), Handbook of Luminescence, Display Materials and Devices, Volume 1 3. American Scientific Publishers, Los Angeles (2003). ISBN 1-58883-010-1. Volume 1: Organic Light-Emitting Diodes
+Hari Singh Nalwa (Ed.), Handbook of Organic Electronics and Photonics, Volume 1 3. American Scientific Publishers, Los Angeles (2008). ISBN 1-58883-095-0.
+M llen, Klaus (Ed.), Organic Light Emitting Devices: Synthesis, Properties and Applications. Wiley-VCH (2006). ISBN 3-527-31218-8
+Yersin, Hartmut (Ed.), Highly Efficient OLEDs with Phosphorescent Materials. Wiley-VCH (2007). ISBN 3-527-40594-1
+Kho, Mu-Jeong, Javed, T., Mark, R., Maier, E., and David, C. (2008) 'Final Report: OLED Solid State Lighting   Kodak European Research' MOTI (Management of Technology and Innovation) Project, Judge Business School of the University of Cambridge and Kodak European Research, Final Report presented on 4 March 2008 at Kodak European Research at Cambridge Science Park, Cambridge, UK., pages 1 12.
+[234]
+References[edit]
+^ "Organic EL - R&D". Semiconductor Energy Laboratory. Retrieved 8 July 2019.
+^ "What is organic EL?". Idemitsu Kosan. Retrieved 8 July 2019.
+^ Kamtekar, K. T.; Monkman, A. P.; Bryce, M. R. (2010). "Recent Advances in White Organic Light-Emitting Materials and Devices (WOLEDs)". Advanced Materials. 22 (5): 572 582. Bibcode:2010AdM....22..572K. doi:10.1002/adma.200902148. PMID 20217752. S2CID 205234304.
+^ D'Andrade, B. W.; Forrest, S. R. (2004). "White Organic Light-Emitting Devices for Solid-State Lighting". Advanced Materials. 16 (18): 1585 1595. Bibcode:2004AdM....16.1585D. doi:10.1002/adma.200400684. S2CID 137230337.
+^ Chang, Yi-Lu; Lu, Zheng-Hong (2013). "White Organic Light-Emitting Diodes for Solid-State Lighting". Journal of Display Technology. PP (99): 1. Bibcode:2013JDisT...9..459C. doi:10.1109/JDT.2013.2248698. S2CID 19503009.
+^ "PMOLED vs AMOLED   what's the difference?". Oled-info.com. Archived from the original on 20 December 2016. Retrieved 16 December 2016.
+^ Pearsall, Thomas (2010). Photonics Essentials, 2nd edition. McGraw-Hill. ISBN 978-0-07-162935-5. Archived from the original on 17 August 2021. Retrieved 24 February 2021.
+^ "A schematic diagram of multilayer structure of OLED | Download Scientific Diagram". Retrieved 4 March 2022.
+^ "Schematics of OLED Structures with Encapsulation [image] | EurekAlert! Science News". Archived from the original on 17 April 2021. Retrieved 5 January 2020.
+^ Bernanose, A.; Comte, M.; Vouaux, P. (1953). "A new method of light emission by certain organic compounds". J. Chim. Phys. 50: 64. doi:10.1051/jcp/1953500064.
+^ Bernanose, A.; Vouaux, P. (1953). "Organic electroluminescence type of emission". J. Chim. Phys. 50: 261. doi:10.1051/jcp/1953500261.
+^ Bernanose, A. (1955). "The mechanism of organic electroluminescence". J. Chim. Phys. 52: 396. doi:10.1051/jcp/1955520396.
+^ Bernanose, A. & Vouaux, P. (1955). "Relation between organic electroluminescence and concentration of active product". J. Chim. Phys. 52: 509.
+^ Kallmann, H.; Pope, M. (1960). "Positive Hole Injection into Organic Crystals". The Journal of Chemical Physics. 32 (1): 300. Bibcode:1960JChPh..32..300K. doi:10.1063/1.1700925.
+^ Kallmann, H.; Pope, M. (1960). "Bulk Conductivity in Organic Crystals". Nature. 186 (4718): 31 33. Bibcode:1960Natur.186...31K. doi:10.1038/186031a0. S2CID 4243929.
+^ Mark, Peter; Helfrich, Wolfgang (1962). "Space-Charge-Limited Currents in Organic Crystals". Journal of Applied Physics. 33 (1): 205. Bibcode:1962JAP....33..205M. doi:10.1063/1.1728487.
+^ Pope, M.; Kallmann, H. P.; Magnante, P. (1963). "Electroluminescence in Organic Crystals". The Journal of Chemical Physics. 38 (8): 2042. Bibcode:1963JChPh..38.2042P. doi:10.1063/1.1733929.
+^ Sano, Mizuka; Pope, Martin; Kallmann, Hartmut (1965). "Electroluminescence and Band Gap in Anthracene". The Journal of Chemical Physics. 43 (8): 2920. Bibcode:1965JChPh..43.2920S. doi:10.1063/1.1697243.
+^ Helfrich, W.; Schneider, W. (1965). "Recombination Radiation in Anthracene Crystals". Physical Review Letters. 14 (7): 229 231. Bibcode:1965PhRvL..14..229H. doi:10.1103/PhysRevLett.14.229.
+^ Gurnee, E. and Fernandez, R. "Organic electroluminescent phosphors", U.S. Patent 3,172,862, Issue date: 9 March 1965
+^ Feedback: Friend and rival, Physics World, Volume 14, Number 1
+^ Partridge, Roger Hugh, "Radiation sources" U.S. Patent 3,995,299, Issue date: 30 November 1976
+^ Flat-panel electronic displays: a triumph of physics, chemistry and engineering, Philosophical Transactions of the Royal Society, Volume 368, Issue 1914
+^ Partridge, R (1983). "Electroluminescence from polyvinylcarbazole films: 1. Carbazole cations". Polymer. 24 (6): 733 738. doi:10.1016/0032-3861(83)90012-5.
+^ Partridge, R (1983). "Electroluminescence from polyvinylcarbazole films: 2. Polyvinylcarbazole films containing antimony pentachloride". Polymer. 24 (6): 739 747. doi:10.1016/0032-3861(83)90013-7.
+^ Partridge, R (1983). "Electroluminescence from polyvinylcarbazole films: 3. Electroluminescent devices". Polymer. 24 (6): 748 754. doi:10.1016/0032-3861(83)90014-9.
+^ Partridge, R (1983). "Electroluminescence from polyvinylcarbazole films: 4. Electroluminescence using higher work function cathodes". Polymer. 24 (6): 755 762. doi:10.1016/0032-3861(83)90015-0.
+^ a b Tang, C. W.; Vanslyke, S. A. (1987). "Organic electroluminescent diodes". Applied Physics Letters. 51 (12): 913. Bibcode:1987ApPhL..51..913T. doi:10.1063/1.98799.
+^ a b Burroughes, J. H.; Bradley, D. D. C.; Brown, A. R.; Marks, R. N.; MacKay, K.; Friend, R. H.; Burns, P. L.; Holmes, A. B. (1990). "Light-emitting diodes based on conjugated polymers". Nature. 347 (6293): 539 541. Bibcode:1990Natur.347..539B. doi:10.1038/347539a0. S2CID 43158308.
+^ Burroughes, J. H; Bradley, D. D. C; Brown, A. R; Marks, R. N; MacKay, K; Friend, R. H; Burns, P. L; Holmes, A. B (1990). "Light-emitting diodes based on conjugated polymers". Nature. 347 (6293): 539 541. Bibcode:1990Natur.347..539B. doi:10.1038/347539a0. S2CID 43158308.
+^ National Research Council (2015). The Flexible Electronics Opportunity. The National Academies Press. pp. 105 6. ISBN 978-0-309-30591-4.
+^ Bobbert, Peter; Coehoorn, Reinder (September 2013). "A look inside white OLEDs". Europhysics News. 44 (5): 21 25. Bibcode:2013ENews..44e..21B. doi:10.1051/epn/2013504. ISSN 0531-7479.
+^ Kido, J.; Kimura, M.; Nagai, K. (3 March 1995). "Multilayer White Light-Emitting Organic Electroluminescent Device". Science. 267 (5202): 1332 1334. Bibcode:1995Sci...267.1332K. doi:10.1126/science.267.5202.1332. ISSN 0036-8075. PMID 17812607. S2CID 22265451.
+^ "Sanyo, Kodak ramp OLED production line". Eetimes.com. 6 December 2001.
+^ Shim, Richard. "Kodak, Sanyo demo OLED display". Cnet.com. Retrieved 6 October 2019.
+^ Antoniadis, Homer. "Overview of OLED display technology" (PDF). Ewh.ieee.org.
+^ a b c Sony XEL-1:The world's first OLED TV Archived 2016-02-05 at the Wayback Machine, OLED-Info.com (2008-11-17).
+^ "Samsung Display renews a license agreement with UDC for OLED patents". Kipost.net (in Korean). 22 February 2018. Retrieved 10 November 2019.
+^ "LG extends OLED pact with UDC". Koreatimes.co.kr. 27 January 2015. Retrieved 10 November 2019.
+^ "JOLED begin commercial shipment of world's first printing OLED Panels". Printed Electronics World. 12 December 2017. Retrieved 28 November 2019.
+^ Raikes, Bob (8 December 2017). "JOLED Starts Commercial Shipments Printable OLEDs". DisplayDaily.com. Retrieved 28 November 2019.
+^ a b Kho, Mu-Jeong, Javed, T., Mark, R., Maier, E., and David, C. (2008) Final Report: OLED Solid State Lighting   Kodak European Research, MOTI (Management of Technology and Innovation) Project, Judge Business School of the University of Cambridge and Kodak European Research, Final Report presented on 4 March 2008, at Kodak European Research at Cambridge Science Park, Cambridge, UK., pp. 1 12
+^ Piromreun, Pongpun; Oh, Hwansool; Shen, Yulong; Malliaras, George G.; Scott, J. Campbell; Brock, Phil J. (2000). "Role of CsF on electron injection into a conjugated polymer". Applied Physics Letters. 77 (15): 2403. Bibcode:2000ApPhL..77.2403P. doi:10.1063/1.1317547.
+^ D. Ammermann, A. B hler, W. Kowalsky, Multilayer Organic Light Emitting Diodes for Flat Panel Displays Archived 2009-02-26 at the Wayback Machine, Institut f r Hochfrequenztechnik, TU Braunschweig, 1995.
+^ a b "Organic Light-Emitting Diodes Based on Graded Heterojunction Architecture Has Greater Quantum Efficiency". University of Minnesota. Archived from the original on 24 March 2012. Retrieved 31 May 2011.
+^ Holmes, Russell; Erickson, N.; L ssem, Bj rn; Leo, Karl (27 August 2010). "Highly efficient, single-layer organic light-emitting devices based on a graded-composition emissive layer". Applied Physics Letters. 97 (1): 083308. Bibcode:2010ApPhL..97a3308S. doi:10.1063/1.3460285.
+^ Lin Ke, Peng; Ramadas, K.; Burden, A.; Soo-Jin, C. (June 2006). "Indium-tin-oxide-free organic light-emitting device". IEEE Transactions on Electron Devices. 53 (6): 1483 1486. Bibcode:2006ITED...53.1483K. doi:10.1109/TED.2006.874724. S2CID 41905870.
+^ Carter, S. A.; Angelopoulos, M.; Karg, S.; Brock, P. J.; Scott, J. C. (1997). "Polymeric anodes for improved polymer light-emitting diode performance". Applied Physics Letters. 70 (16): 2067. Bibcode:1997ApPhL..70.2067C. doi:10.1063/1.118953.
+^ Friend, R. H.; Gymer, R. W.; Holmes, A. B.; Burroughes, J. H.; Marks, R. N.; Taliani, C.; Bradley, D. D. C.; Santos, D. A. Dos; Brdas, J. L.; Lgdlund, M.; Salaneck, W. R. (1999). "Electroluminescence in conjugated polymers". Nature. 397 (6715): 121 128. Bibcode:1999Natur.397..121F. doi:10.1038/16393. S2CID 4328634.
+^ "Spintronic OLEDs could be brighter and more efficient". Engineer (Online Edition): 1. 16 July 2012.
+^ Davids, P. S.; Kogan, Sh. M.; Parker, I. D.; Smith, D. L. (1996). "Charge injection in organic light-emitting diodes: Tunneling into low mobility materials". Applied Physics Letters. 69 (15): 2270. Bibcode:1996ApPhL..69.2270D. doi:10.1063/1.117530.
+^ Crone, B. K.; Campbell, I. H.; Davids, P. S.; Smith, D. L. (1998). "Charge injection and transport in single-layer organic light-emitting diodes". Applied Physics Letters. 73 (21): 3162. Bibcode:1998ApPhL..73.3162C. doi:10.1063/1.122706.
+^ Crone, B. K.; Campbell, I. H.; Davids, P. S.; Smith, D. L.; Neef, C. J.; Ferraris, J. P. (1999). "Device physics of single layer organic light-emitting diodes". Journal of Applied Physics. 86 (10): 5767. Bibcode:1999JAP....86.5767C. doi:10.1063/1.371591.
+^ Jin, Yi; Xu, Yanbin; Qiao, Zhi; Peng, Junbiao; Wang, Baozheng; Cao, Derong (2010). "Enhancement of Electroluminescence Properties of Red Diketopyrrolopyrrole-Doped Copolymers by Oxadiazole and Carbazole Units as Pendants". Polymer. 51 (24): 5726 5733. doi:10.1016/j.polymer.2010.09.046.
+^ Shah, Bipin K.; Neckers, Douglas C.; Shi, Jianmin; Forsythe, Eric W.; Morton, David (1 February 2006). "Anthanthrene Derivatives as Blue Emitting Materials for Organic Light-Emitting Diode Applications". Chemistry of Materials. 18 (3): 603 608. doi:10.1021/cm052188x. ISSN 0897-4756.
+^ Zhang, Hui; Liu, Xiaochun; Gong, Yuxuan; Yu, Tianzhi; Zhao, Yuling (1 February 2021). "Synthesis and characterization of SFX-based coumarin derivatives for OLEDs". Dyes and Pigments. 185: 108969. doi:10.1016/j.dyepig.2020.108969. ISSN 0143-7208. S2CID 228906688.
+^ Tang, C. W.; Vanslyke, S. A. (1987). "Organic electroluminescent diodes". Applied Physics Letters. 51 (12): 913. Bibcode:1987ApPhL..51..913T. doi:10.1063/1.98799.
+^ Kho, Mu-Jeong, Javed, T., Mark, R., Maier, E., and David, C. (2008) Final Report: OLED Solid State Lighting   Kodak European Research, MOTI (Management of Technology and Innovation) Project, Judge Business School of the University of Cambridge and Kodak European Research, Final Report presented on 4 March 2008, at Kodak European Research at Cambridge Science Park, Cambridge, UK., pp. 1 12
+^ Bellmann, E.; Shaheen, S. E.; Thayumanavan, S.; Barlow, S.; Grubbs, R. H.; Marder, S. R.; Kippelen, B.; Peyghambarian, N. (1998). "New Triarylamine-Containing Polymers as Hole Transport Materials in Organic Light-Emitting Diodes: Effect of Polymer Structure and Cross-Linking on Device Characteristics". Chemistry of Materials. 10 (6): 1668 1676. doi:10.1021/cm980030p.
+^ Sato, Y.; Ichinosawa, S.; Kanai, H. (1998). "Operation Characteristics and Degradation of Organic Electroluminescent Devices". IEEE Journal of Selected Topics in Quantum Electronics. 4 (1): 40 48. Bibcode:1998IJSTQ...4...40S. doi:10.1109/2944.669464.
+^ Young, Ralph H.; Tang, Ching W.; Marchetti, Alfred P. (4 February 2002). "Current-induced fluorescence quenching in organic light-emitting diodes". Applied Physics Letters. 80 (5): 874 876. Bibcode:2002ApPhL..80..874Y. doi:10.1063/1.1445271. ISSN 0003-6951.
+^ Duarte, FJ; Liao, LS; Vaeth, KM (2005). "Coherence characteristics of electrically excited tandem organic light-emitting diodes". Optics Letters. 30 (22): 3072 4. Bibcode:2005OptL...30.3072D. doi:10.1364/OL.30.003072. PMID 16315725.
+^ Duarte, FJ (2007). "Coherent electrically excited organic semiconductors: visibility of interferograms and emission linewidth". Optics Letters. 32 (4): 412 4. Bibcode:2007OptL...32..412D. doi:10.1364/OL.32.000412. PMID 17356670.
+^ Synopsis: A Single-Molecule Light-Emitting Diode Archived 2014-01-30 at the Wayback Machine, Physics, 28 January 2014
+^ Researchers Develop First Single-Molecule LED Archived 2014-02-21 at the Wayback Machine, Photonics Online, 31 January 2014
+^ Hebner, T. R.; Wu, C. C.; Marcy, D.; Lu, M. H.; Sturm, J. C. (1998). "Ink-jet printing of doped polymers for organic light emitting devices". Applied Physics Letters. 72 (5): 519. Bibcode:1998ApPhL..72..519H. doi:10.1063/1.120807.
+^ Bharathan, Jayesh; Yang, Yang (1998). "Polymer electroluminescent devices processed by inkjet printing: I. Polymer light-emitting logo". Applied Physics Letters. 72 (21): 2660. Bibcode:1998ApPhL..72.2660B. doi:10.1063/1.121090.
+^ Heeger, A. J. (1993) in W. R. Salaneck, I. Lundstrom, B. Ranby, Conjugated Polymers and Related Materials, Oxford, 27 62. ISBN 0-19-855729-9
+^ Kiebooms, R.; Menon, R.; Lee, K. (2001) in H. S. Nalwa, Handbook of Advanced Electronic and Photonic Materials and Devices Volume 8, Academic Press, 1 86.
+^ Wagaman, Michael; Grubbs, Robert H. (1997). "Synthesis of PNV Homo- and Copolymers by a ROMP Precursor Route". Synthetic Metals. 84 (1 3): 327 328. doi:10.1016/S0379-6779(97)80767-9.
+^ Wagaman, Michael; Grubbs, Robert H. (1997). "Synthesis of Organic and Water Soluble Poly(1,4-phenylenevinylenes) Containing Carboxyl Groups: Living Ring-Opening Metathesis Polymerization (ROMP) of 2,3-Dicarboxybarrelenes". Macromolecules. 30 (14): 3978 3985. Bibcode:1997MaMol..30.3978W. doi:10.1021/ma9701595.
+^ Pu, Lin; Wagaman, Michael; Grubbs, Robert H. (1996). "Synthesis of Poly(1,4-naphthylenevinylenes): Metathesis Polymerization of Benzobarrelenes". Macromolecules. 29 (4): 1138 1143. Bibcode:1996MaMol..29.1138P. doi:10.1021/ma9500143.
+^ Fallahi, Afsoon; Alahbakhshi, Masoud; Mohajerani, Ezeddin; Afshar Taromi, Faramarz; Mohebbi, Ali Reza; Shahinpoor, Mohsen (11 June 2015). "Cationic Water-Soluble Conjugated Polyelectrolytes/Graphene Oxide Nanocomposites as Efficient Green Hole Injection Layers in Organic Light Emitting Diodes". The Journal of Physical Chemistry C. 119 (23): 13144 13152. doi:10.1021/acs.jpcc.5b00863. ISSN 1932-7447.
+^ a b Yang, Xiaohui; Neher, Dieter; Hertel, Dirk; Daubler, Thomas (2004). "Highly Efficient Single-Layer Polymer Electrophosphorescent Devices". Advanced Materials. 16 (2): 161 166. Bibcode:2004AdM....16..161Y. doi:10.1002/adma.200305621. S2CID 97006074.
+^ a b Baldo, M. A.; O'Brien, D. F.; You, Y.; Shoustikov, A.; Sibley, S.; Thompson, M. E.; Forrest, S.R. (1998). "Highly Efficient phosphorescent emission from organic electroluminescent devices". Nature. 395 (6698): 151 154. Bibcode:1998Natur.395..151B. doi:10.1038/25954. S2CID 4393960.
+^ a b Baldo, M. A.; Lamansky, S.; Burrows, P. E.; Thompson, M. E.; Forrest, S. R. (1999). "Very high-efficiency green organic light-emitting devices based on electrophosphorescence". Applied Physics Letters. 75 (1): 4. Bibcode:1999ApPhL..75....4B. doi:10.1063/1.124258.
+^ Adachi, C.; Baldo, M. A.; Thompson, M. E.; Forrest, S. R. (2001). "Nearly 100% internal phosphorescence efficiency in an organic light-emitting device". Journal of Applied Physics. 90 (10): 5048. Bibcode:2001JAP....90.5048A. doi:10.1063/1.1409582.
+^ Singh, Madhusudan; Chae, Hyun Sik; Froehlich, Jesse D.; Kondou, Takashi; Li, Sheng; Mochizuki, Amane; Jabbour, Ghassan E. (2009). "Electroluminescence from printed stellate polyhedral oligomeric silsesquioxanes". Soft Matter. 5 (16): 3002. Bibcode:2009SMat....5.3002S. doi:10.1039/b903531a.
+^ An, Dong; Liu, Hongli; Wang, Shirong; Li, Xianggao (15 April 2019). "Modification of ITO anodes with self-assembled monolayers for enhancing hole injection in OLEDs". Applied Physics Letters. 114 (15): 153301. Bibcode:2019ApPhL.114o3301A. doi:10.1063/1.5086800. ISSN 0003-6951. S2CID 145936584.
+^ Gil, Tae Hyun; May, Christian; Scholz, Sebastian; Franke, Sebastian; Toerker, Michael; Lakner, Hubert; Leo, Karl; Keller, Stefan (February 2010). "Origin of damages in OLED from Al top electrode deposition by DC magnetron sputtering". Organic Electronics. 11 (2): 322 331. doi:10.1016/j.orgel.2009.11.011.
+^ Im, Jung Hyuk; Kang, Kyung-Tae; Lee, Sang Ho; Hwang, Jun Young; Kang, Heuiseok; Cho, Kwan Hyun (1 June 2016). "Bulk-like Al/Ag bilayer film due to suppression of surface plasmon resonance for high transparent organic light emitting diodes". Organic Electronics. 33: 116 120. doi:10.1016/j.orgel.2016.03.002. ISSN 1566-1199.
+^ Mizuno, K.; Ono, S.; Shibata, Y. (August 1973). "Two different mode interactions in an electron tube with a Fabry Perot resonator The Ledatron". IEEE Transactions on Electron Devices. 20 (8): 749 752. Bibcode:1973ITED...20..749M. doi:10.1109/T-ED.1973.17737. ISSN 0018-9383.
+^ Chen, Shufen; Deng, Lingling; Xie, Jun; Peng, Ling; Xie, Linghai; Fan, Quli; Huang, Wei (7 December 2010). "Recent Developments in Top-Emitting Organic Light-Emitting Diodes". Advanced Materials. 22 (46): 5227 5239. Bibcode:2010AdM....22.5227C. doi:10.1002/adma.201001167. PMID 20842657. S2CID 23703980.
+^ Ishibashi, Tadashi; Yamada, Jiro; Hirano, Takashi; Iwase, Yuichi; Sato, Yukio; Nakagawa, Ryo; Sekiya, Mitsunobu; Sasaoka, Tatsuya; Urabe, Tetsuo (25 May 2006). "Active Matrix Organic light Emitting Diode Display Based on "Super Top Emission" Technology". Japanese Journal of Applied Physics. 45 (5B): 4392 4395. Bibcode:2006JaJAP..45.4392I. doi:10.1143/JJAP.45.4392. ISSN 0021-4922. S2CID 121307571.
+^ US 5986401, Mark E. Thompson, Stephen R. Forrest, Paul Burrows, "High contrast transparent organic light emitting device display", published 1999-11-16 
+^ "LG OLED TV Display Technology Shoot-Out". Archived from the original on 16 January 2017. Retrieved 1 March 2017.
+^ Chu, Ta-Ya; Chen, Jenn-Fang; Chen, Szu-Yi; Chen, Chao-Jung; Chen, Chin H. (2006). "Highly efficient and stable inverted bottom-emission organic light emitting devices". Applied Physics Letters. 89 (5): 053503. Bibcode:2006ApPhL..89e3503C. doi:10.1063/1.2268923.
+^ "Advanced Display". Solomon Systech Limited. Retrieved 24 August 2020.
+^ Takatoshi, Tsujimura (3 April 2017). OLED Display Fundamentals and Applications (2 ed.). New York: John Wiley & Sons, Inc. ISBN 978-1-119-18731-8.
+^ "Fine Metal Masks for OLED Displays | Toppan Printing Co., Ltd. Electronics Division". Toppan.co.jp.
+^ "V-Technology to start producing next-generation OLED fine metal masks, acquires OLED lighting maker Lumiotec". Oled-info.com.
+^ "V-technology Acquires Lumiotec; Establishes Subsidiary to Develop OLED Mask and Deposition Technology February 19, 2018". OLED Association.
+^ "OLED: Small to Medium Volume Production System | Products | Products and Services". Canon Tokki Corporation.
+^ a b "Canon Tokki's Distinctive Technology | About OLED | Products and Services". Canon Tokki Corporation.
+^ "OLEDON developed a 0.38um shadow mask technology that enables 2,250 PPI". Oled-info.com.
+^ T Tsujimura (1 October 2009). "LARGE-SIZE AMOLED TV BY "SCALABLE" TECHNOLOGIES". OLED Symposium 2009. doi:10.13140/RG.2.2.23845.81122.
+^ Liu, Jie; Lewis, Larry N.; Duggal, Anil R. (2007). "Photoactivated and patternable charge transport materials and their use in organic light-emitting devices". Applied Physics Letters. 90 (23): 233503. Bibcode:2007ApPhL..90w3503L. doi:10.1063/1.2746404.
+^ Boroson, Michael; Tutt, Lee; Nguyen, Kelvin; Preuss, Don; Culver, Myron; Phelan, Giana (2005). "16.5L: Late-News-Paper: Non-Contact OLED Color Patterning by Radiation-Induced Sublimation Transfer (RIST)". SID Symposium Digest of Technical Papers. 36: 972. doi:10.1889/1.2036612. S2CID 135635712.
+^ Grimaldi, I. A.; De Girolamo Del Mauro, A.; Nenna, G.; Loffredo, F.; Minarini, C.; Villani, F.; d'Amore, A.; Acierno, D.; Grassia, L. (2010). Inkjet Etching of Polymer Surfaces to Manufacture Microstructures for OLED Applications. V INTERNATIONAL CONFERENCE ON TIMES OF POLYMERS (TOP) AND COMPOSITES. AIP Conference Proceedings. AIP Conference Proceedings. Vol. 1255. pp. 104 106. Bibcode:2010AIPC.1255..104G. doi:10.1063/1.3455544.
+^ Bower, C. A.; Menard, E.; Bonafede, S.; Hamer, J. W.; Cok, R. S. (2011). "Transfer-Printed Microscale Integrated Circuits for High Performance Display Backplanes". IEEE Transactions on Components, Packaging and Manufacturing Technology. 1 (12): 1916 1922. doi:10.1109/TCPMT.2011.2128324. S2CID 22414052.
+^ "CPT and imec demonstrate an 1250 PPI OLED patterned using a photolithography process". Oled-info.com.
+^ Sasaoka, Tatsuya; Sekiya, Mitsunobu; Yumoto, Akira; Yamada, Jiro; Hirano, Takashi; Iwase, Yuichi; Yamada, Takao; Ishibashi, Tadashi; Mori, Takao; Asano, Mitsuru; Tamura, Shinichiro; Urabe, Tetsuo (2001). "24.4L: Late-News Paper: A 13.0-inch AM-OLED Display with Top Emitting Structure and Adaptive Current Mode Programmed Pixel Circuit (TAC)". SID Symposium Digest of Technical Papers. 32: 384. doi:10.1889/1.1831876. S2CID 59976823.
+^ Tsujimura, T.; Kobayashi, Y.; Murayama, K.; Tanaka, A.; Morooka, M.; Fukumoto, E.; Fujimoto, H.; Sekine, J.; Kanoh, K.; Takeda, K.; Miwa, K.; Asano, M.; Ikeda, N.; Kohara, S.; Ono, S.; Chung, C. T.; Chen, R. M.; Chung, J. W.; Huang, C. W.; Guo, H. R.; Yang, C. C.; Hsu, C. C.; Huang, H. J.; Riess, W.; Riel, H.; Karg, S.; Beierlein, T.; Gundlach, D.; Alvarado, S.;  et al. (2003). "4.1: A 20-inch OLED Display Driven by Super-Amorphous-Silicon Technology". SID Symposium Digest of Technical Papers. 34: 6. doi:10.1889/1.1832193. S2CID 135831267.
+^ Pardo, Dino A.; Jabbour, G. E.; Peyghambarian, N. (2000). "Application of Screen Printing in the Fabrication of Organic Light-Emitting Devices". Advanced Materials. 12 (17): 1249 1252. doi:10.1002/1521-4095(200009)12:17<1249::AID-ADMA1249>3.0.CO;2-Y.
+^ Malcolm Owen (2018). "MicroLED vs. TFT and OLED: Why Apple is interested in new display tech for future iPhone or Apple Watch".
+^ Gustafsson, G.; Cao, Y.; Treacy, G. M.; Klavetter, F.; Colaneri, N.; Heeger, A. J. (1992). "Flexible light-emitting diodes made from soluble conducting polymers". Nature. 357 (6378): 477 479. Bibcode:1992Natur.357..477G. doi:10.1038/357477a0. S2CID 4366944.
+^ "Comparison of OLED and LCD". Fraunhofer IAP: OLED Research. 18 November 2008. Archived from the original on 4 February 2010. Retrieved 25 January 2010.
+^ Zhang, Mingxiao; Chen, Z.; Xiao, L.; Qu, B.; Gong, Q. (18 March 2013). "Optical design for improving optical properties of top-emitting organic light emitting diodes". Journal of Applied Physics. 113 (11): 113105 113105 5. Bibcode:2013JAP...113k3105Z. doi:10.1063/1.4795584.
+^ "LG 55EM9700". 2 January 2013. Archived from the original on 15 January 2015. Retrieved 14 January 2015.
+^ "Why Do Some OLEDs Have Motion Blur?". Blur Busters Blog (based on Microsoft Research work). 15 April 2013. Archived from the original on 3 April 2013. Retrieved 18 April 2013.
+^ "OLED TV estimated lifespan shorter then expected". HDTV Info Europe. Hdtvinfo.eu (2008-05-08).
+^ HP Monitor manual. CCFL-Backlit LCD. Page 32. Webcitation.org. Retrieved 2011-10-04.
+^ Viewsonic Monitor manual. LED-Backlit LCD. Webcitation.org. Retrieved 2011-10-04.
+^ Phatak, Radhika. "Dependence of dark spot growth on cathode/organic interfacial adhesion in Organic Light Emitting Devices" (PDF). UWSpaceuwaterloo.ca. University of Waterloo. p. 21. Retrieved 22 April 2019.
+^ "LG: OLED TV lifespan is now 100,000 hours - FlatpanelsHD". Flatpanelshd.com.
+^ "Will HDR kill your OLED TV?". TechHive.com. 27 June 2018.
+^ "Archived copy" (PDF). Energy.gov. Archived from the original (PDF) on 26 February 2017. Retrieved 15 January 2022.{{cite web}}:  CS1 maint: archived copy as title (link)
+^ The energy absorbed by a material is released in the form of photons. Generally these photons contain the same or less energy than those initially absorbed. This effect is how LEDs create light.
+^ Kondakov, D; Lenhart, W.; Nochols, W. (2007). "Operational degradation of organic light-emitting diodes: Mechanism and identification of chemical products". Journal of Applied Physics. 101 (2): 024512 024512 7. Bibcode:2007JAP...101b4512K. doi:10.1063/1.2430922.
+^ "OLED lifespan doubled?" HDTV Info Europe. Hdtvinfo.eu (2008-01-25).
+^ Toshiba and Panasonic double lifespan of OLED, 25 January 2008, Toshiba and Panasonic double lifespan of OLED
+^ Cambridge Display Technology, Cambridge Display Technology and Sumation Announce Strong Lifetime Improvements to P-OLED (Polymer OLED) Material; Blue P-OLED Materials Hit 10,000 Hour Lifetime Milestone at 1,000 cd/sq.m, 26 March 2007. Retrieved 11 January 2011. Archived 26 December 2010 at the Wayback Machine
+^ "OLED Lifetime: introduction and market status | OLED-Info". Oled-info.com. Retrieved 18 April 2019.
+^ a b "OLED encapsulation". Saesgetters.com.
+^ "OLED Production Systems : ELVESS" (PDF). Tokki.canon. Retrieved 5 March 2022.
+^ "Printing OLED displays: has its time finally come?". Idtechex.com. 27 February 2019.
+^ "OLED ink jet printing: introduction and market status". Oled-info.com.
+^ "Is Inkjet Printing the Answer to OLED Production Challenges?". Radiant Vision Systems. 29 July 2019.
+^ "OLED Encapsulation: introduction and market status | OLED-Info". Oled-info.com.
+^ "Here's Why We Think Galaxy Folds Are Failing". iFixit.com. 23 April 2019.
+^ "Ageless OLED". Archived from the original on 8 September 2007. Retrieved 16 November 2009.
+^ Fallahi, Afsoon; Afshar Taromi, Faramarz; Mohebbi, Alireza; D. Yuen, Jonathan; Shahinpoor, Mohsen (2014). "A novel ambipolar polymer: from organic thin-film transistors to enhanced air-stable blue light emitting diodes". Journal of Materials Chemistry C. 2 (32): 6491. doi:10.1039/c4tc00684d.
+^ Shen, Jiun Yi; Lee, Chung Ying; Huang, Tai-Hsiang; Lin, Jiann T.; Tao, Yu-Tai; Chien, Chin-Hsiung; Tsai, Chiitang (2005). "High Tg blue emitting materials for electroluminescent devices". Journal of Materials Chemistry. 15 (25): 2455. doi:10.1039/b501819f.
+^ Kim, Seul Ong; Lee, Kum Hee; Kim, Gu Young; Seo, Ji Hoon; Kim, Young Kwan; Yoon, Seung Soo (2010). "A highly efficient deep blue fluorescent OLED based on diphenylaminofluorenylstyrene-containing emitting materials". Synthetic Metals. 160 (11 12): 1259 1265. doi:10.1016/j.synthmet.2010.03.020.
+^ Wong M. Y., Hedley G. J., Xie G., K lln L. S, Samuel I. D. W., Pertega  A., Bolink H. J., Mosman-Colman, E., "Light-emitting electrochemical cells and solution-processed organic light-emitting diodes using small molecule organic thermally activated delayed fluorescence emitters", Chemistry of Materials, vol. 27, no. 19, pp. 6535 6542, doi:10.1021/acs.chemmater.5b03245
+^ Zhang, Hui; Liu, Xiaochun; Gong, Yuxuan; Yu, Tianzhi; Zhao, Yuling (1 February 2021). "Synthesis and characterization of SFX-based coumarin derivatives for OLEDs". Dyes and Pigments. 185: 108969. doi:10.1016/j.dyepig.2020.108969. ISSN 0143-7208. S2CID 228906688.
+^ Han, Jianmei; Huang, Zhongyan; Miao, Jingsheng; Qiu, Yuntao; Xie, Ziyang; Yang, Chuluo (2022). "Narrowband blue emission with insensitivity to the doping concentration from an oxygen-bridged triarylboron-based TADF emitter: nondoped OLEDs with a high external quantum efficiency up to 21.4%". Chemical Science. 13 (12): 3402 3408. doi:10.1039/D2SC00329E. ISSN 2041-6520. PMC 8943898. PMID 35432872.
+^ "Kyulux signs JDA agreements with both SDC and LGD - aims to have commercial ready TADF/HF emitters ready by mid 2019 | OLED-Info".
+^ "Cynora to present its latest blue TADF emitter at the OLEDs World Summit conference | OLED-Info".
+^ "OLED Sealing Process Reduces Water Intrusion and Increases Lifetime". Georgia Tech Research News. 23 April 2008. Archived from the original on 8 July 2008.
+^ "DisplayMate: the GS5 display is the best mobile display ever, outperforming all previous OLED and LCD panels". Oled-info.com. Archived from the original on 3 April 2014.
+^ Stokes, Jon. (2009-08-11) This September, OLED no longer "three to five years away" Archived 2012-01-25 at the Wayback Machine. Arstechnica.com. Retrieved 2011-10-04.
+^ "Manufacturing equipment". Oled-info.com.
+^ Alpeyev, Pavel; Taniguchi, Takako (24 April 2017). "Ahead of next iPhone, Idemitsu Kosan leads way after developing OLED screen". The Japan Times Online. ISSN 0447-5763. Retrieved 31 May 2018.
+^ Alpeyev, Pavel; Amano, Takashi (21 December 2016). "Apple's Search for Better iPhone Screens Leads to Japan's Rice Fields". Bloomberg.com. Retrieved 31 May 2018.
+^ "OLED materials companies". Oled-info.com.
+^ "OLED-Info Q&A with Toshiki Mizoe, overseas sales manager, Tokki Corporation". Oled-info.com.
+^ a b Nguyen, Tuan C. (5 January 2015). "What you need to know about OLED lighting". The Washington Post. ISSN 0190-8286. Retrieved 22 September 2017.
+^ Michael Kanellos, "Start-up creates flexible sheets of light", CNet News.com, 6 December 2007. Retrieved 20 July 2008.
+^ "Philips Lumiblades". Lumiblade.com. 9 August 2009. Retrieved 17 August 2009.
+^ Session Border Controller Archived 2012-07-10 at the Wayback Machine. Tmcnet.com (2011-09-13). Retrieved 2012-11-12.
+^ Electronic News, OLEDs Replacing LCDs in Mobile Phones Archived 2016-10-11 at the Wayback Machine, 7 April 2005. Retrieved 5 September 2016.
+^ "HTC ditches Samsung AMOLED display for Sony's Super LCDs". International Business Times. 26 July 2010. Archived from the original on 1 October 2011. Retrieved 30 July 2010.
+^ "Google Nexus S to feature Super Clear LCD in Russia (and likely in other countries, too)". UnwiredView.com. 7 December 2010. Archived from the original on 10 December 2010. Retrieved 8 December 2010.
+^ "ANWELL: Higher profit, higher margins going forward". nextinsight.com. 15 August 2007. Archived from the original on 21 March 2012. Retrieved 27 August 2010.
+^ "AUO". OLED-Info.com. 21 February 2012. Archived from the original on 24 January 2012.
+^ "Chi Mei EL (CMEL)". OLED-Info.com. Archived from the original on 5 January 2016.
+^ "LG OLEDs". OLED-Info.com. Archived from the original on 31 January 2016.
+^ "OLED companies". OLED-info.com. Archived from the original on 21 February 2016.
+^ "DuPont Creates 50" OLED in Under 2 Minutes". tomsguide.com. Archived from the original on 20 May 2010. Retrieved 10 June 2010.
+^ "DuPont Delivers OLED Technology Scalable for Television". www2.dupont.com. 12 May 2010. Archived from the original on 20 May 2010. Retrieved 12 May 2010.
+^ OLED-Info.com, Kodak Signs OLED Cross-License Agreement Archived 2007-07-07 at the Wayback Machine. Retrieved 14 March 2008.
+^ "Flexible OLED | OLED-Info". Oled-info.com. Archived from the original on 11 March 2017. Retrieved 25 March 2017.
+^ "Samsung Galaxy X: the story of Samsung's foldable phone so far". TechRadar. Archived from the original on 30 January 2017. Retrieved 25 March 2017.
+^ "Display maker Royole shows off 'world's first' flexible smartphone R". Theinquirer.net. 1 November 2018. Archived from the original on 1 November 2018. Retrieved 27 November 2019.{{cite web}}:  CS1 maint: unfit URL (link)
+^ Warren, Tom (20 February 2019). "Samsung's foldable phone is the $1,980 Galaxy Fold". Theverge.xom. Retrieved 16 August 2019.
+^ Frumusanu, Andrei. "Huawei Launches the Mate X: Folding in a New Direction". Anandtech.com. Retrieved 16 August 2019.
+^ Yeung, Frederick (27 February 2019). "BOE Technology: the company behind Huawei Mate X foldable phone". Medium.com. Retrieved 16 August 2019.
+^ "CHUNGHWA PICTURE TUBES, LTD. - intro_Tech". Archive.ph. 23 December 2019. Archived from the original on 23 December 2019.
+^ Cherenack, Kunigunde; Van Os, K.; Pieterson, L. (April 2012). "Smart photonic textiles begin to weave their magic". Laser Focus World. 48 (4): 63.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+^ "OLEDs in Display - NOVALED | Creating the OLED Revolution". Novaled.com. Retrieved 27 November 2019.
+^ "OLED: New Star of the Small Screen". PCWorld.com. 1 March 2005. Retrieved 27 November 2019.
+^ "Company History English" (PDF). Yazaki-europe.com. Retrieved 5 March 2022.
+^ "OLEDs Now Lighting Up Automobiles, Report Says - ExtremeTech". Extremetech.com. Retrieved 27 November 2019.
+^ "Samsung SDI  The world's largest OLED display maker". Oled-info.com. Archived from the original on 22 June 2009. Retrieved 17 August 2009.
+^ "Samsung, LG in legal fight over brain drain". The Korea Times. 17 July 2010. Archived from the original on 21 July 2010. Retrieved 30 July 2010.
+^ a b "Frost & Sullivan Recognizes Samsung SDI for Market Leadership in the OLED Display Market | Find Articles at BNET". Findarticles.com. 17 July 2008. Archived from the original on 22 May 2009. Retrieved 17 August 2009.
+^ "World's Largest 21-inch OLED for TVs from Samsung". Physorg.com. 4 January 2005. Archived from the original on 12 January 2009. Retrieved 17 August 2009.
+^ Robischon, Noah (9 January 2008). "Samsung's 31-Inch OLED Is Biggest, Thinnest Yet  AM-OLED". Gizmodo.com. Archived from the original on 10 August 2009. Retrieved 17 August 2009.
+^ Ricker, Thomas (16 May 2008). "Samsung's 12.1-inch OLED laptop concept makes us swoon". Engadget.com. Archived from the original on 7 October 2009. Retrieved 17 August 2009.
+^ "Samsung: OLED Notebooks In 2010". TrustedReviews.com. Archived from the original on 16 April 2009. Retrieved 17 August 2009.
+^ a b Takuya Otani; Nikkei Electronics (29 October 2008). "[FPDI] Samsung Unveils 0.05mm 'Flapping' OLED Panel  Tech-On!". Techon.nikkeibp.co.jp. Archived from the original on 27 November 2008. Retrieved 17 August 2009.
+^ "LG has released worlds largest OLED TV, features an 88 inch 8K display". 5 May 2020.
+^ "Samsung presents world's first and largest transparent OLED laptop at CES". 7 January 2010. Archived from the original on 11 January 2010.
+^ "CES: Samsung shows OLED display in a photo card". 7 January 2010. Archived from the original on 20 December 2011. Retrieved 10 January 2010.
+^ "Samsung Super AMOLED Plus display announced". Archived from the original on 9 January 2011. Retrieved 6 January 2011.
+^ Clark, Shaylin (12 January 2012). "CES 2012 Samsung's OLED TV Rakes In Awards". WebProNews. Archived from the original on 24 November 2012. Retrieved 3 December 2012.
+^ Rougeau, Michael (2013-01-08). Samsung's curved OLED TV provides an 'IMAX-like' experience Archived 2013-01-11 at the Wayback Machine. Techradar. Retrieved 2013-01-08.
+^ Boylan, Chris (2013-08-13). "Bring Out Your OLED: Samsung KN55S9C OLED TV Available Now for $8999.99" Archived 2013-08-17 at the Wayback Machine. Big Picture Big Sound. Retrieved 2013-08-13.
+^ Alex Lane (6 September 2013). "John Lewis TV Gallery video: 4K and OLED from Samsung, Sony, LG and Panasonic". Recombu. Archived from the original on 27 September 2013. Retrieved 26 September 2013.
+^ Sam Byford (8 October 2013). "Samsung's Galaxy Round is the first phone with a curved display". Theverge.com. Vox Media, Inc. Archived from the original on 9 November 2013. Retrieved 10 November 2013.
+^ "Samsung's new 2022 TVs are here, including its first OLED in nearly a decade". CNN Underscored. 31 March 2022. Retrieved 20 April 2022.
+^ Welch, Chris (4 April 2022). "I saw Samsung's first-ever QD-OLED TV, and it's impressive". The Verge. Retrieved 20 April 2022.
+^ "Sony's Clie PEG-VZ90 the world's most expensive Palm?". Engadget.com. 14 September 2004. Archived from the original on 9 February 2010. Retrieved 30 July 2010.
+^ "MD Community Page: Sony MZ-RH1". Minidisc.org. 24 February 2007. Archived from the original on 20 May 2009. Retrieved 17 August 2009.
+^ "Sony NWZ-X1000-series OLED Walkman specs released". Slashgear. 9 March 2009. Archived from the original on 4 February 2011. Retrieved 1 January 2011.
+^ "Sony announces a 27 in (69 cm) OLED TV". HDTV Info Europe (2008-05-29)
+^ CNET News, Sony to sell 11-inch OLED TV this year, 12 April 2007. Retrieved 28 July 2007.  Archived 4 June 2007 at the Wayback Machine
+^ The Sony Drive XEL-1 OLED TV: 1,000,000:1 contrast starting 1 December Archived 2007-10-04 at the Wayback Machine, Engadget (2007-10-01).
+^ "Sony claims development of world's first flexible, full-color OLED display". Gizmo Watch. 25 May 2007. Archived from the original on 17 October 2007. Retrieved 30 July 2010.
+^ Sony's 3.5- and 11-inch OLEDs are just 0.008- and 0.012-inches thin Archived 2016-01-05 at the Wayback Machine. Engadget (2008-04-16). Retrieved 2011-10-04.
+^ (Display 2008) 0.3mm EL -150 3D  Archived 2008-06-29 at the Wayback Machine. impress.co.jp (2008-04-16)
+^ Japanese firms team up on energy-saving OLED panels, AFP (2008-07-10). Archived 5 June 2013 at the Wayback Machine
+^ Athowon, Desire (2008). "Sony Working on Bendable, Folding OLED Screens". ITProPortal.com. Archived from the original on 9 October 2008.
+^ "Sony OLED 3D TV eyes-on". Engadget.com. Archived from the original on 10 January 2010. Retrieved 11 January 2010.
+^ Snider, Mike (28 January 2011). "Sony unveils NGP, its new portable gaming device". USA Today. Retrieved 27 January 2011.
+^ "Sony Professional Reference Monitor". Sony. Archived from the original on 8 March 2012. Retrieved 17 February 2011.
+^ "Sony, Panasonic tying up in advanced TV displays". 25 June 2012.
+^ "Televisions | Smart TVs, 4K and Flat Screen LED TVs | Sony US". Sony.com.
+^ "Sony at CES 2017: Everything you need to know". Engadget.com.
+^ "Watch Sony's CES 2018 event right here at 8PM ET". Engadget.com.
+^ "Live from Sony's CES 2019 press event!". Engadget.com.
+^ Barrett, Brian (4 December 2009). "Kodak's Slow Fade: Inventor of OLED Sells OLED Business". Gizmodo.com. Retrieved 5 October 2019.
+^ Byrne, Seamus. "LG says white OLED puts it a decade ahead of competitors". Cnet.com. Retrieved 6 October 2019.
+^ LG 15EL9500 OLED Television Archived 2012-04-14 at the Wayback Machine. Lg.com. Retrieved 2011-10-04.
+^ LG announces 31" OLED 3DTV Archived 2016-03-04 at the Wayback Machine. Electricpig.co.uk (2010-09-03). Retrieved 2011-10-04.
+^ LG's 55-inch 'world's largest' OLED HDTV panel is official, coming to CES 2012 Archived 2011-12-26 at the Wayback Machine. Engadget (2011-12-25). Retrieved 2012-11-12.
+^ OLED TV. LG (2010-09-03). Retrieved 2012-12-21.
+^ "Yahoo Finance - Business Finance, Stock Market, Quotes, News". Finance.yahoo.com. Archived from the original on 31 January 2015.
+^ MITSUBISHI ELECTRIC News Releases Installs 6-Meter OLED Globe at Science Museum Archived 2012-07-23 at the Wayback Machine. Mitsubishielectric.com (2011-06-01). Retrieved 2012-11-12.
+^ Coxworth, Ben (2011-03-31). Video Name Tags turn salespeople into walking TV commercials Archived 2011-12-22 at the Wayback Machine. Gizmag.com. Retrieved 2012-11-12.
+^ Three Minutes of Video Every Broadcaster and Advertiser MUST SEE.avi   CBS Videos : Firstpost Topic   Page 1 Archived 2012-07-23 at the Wayback Machine. Firstpost.com (2012-08-10). Retrieved 2012-11-12.
+^ "Dell unveils stunning 4K OLED UltraSharp display and declares war on bezels". PCWorld. Retrieved 20 June 2017.
+^ "OLED monitor: market status and updates". Oled-info.com. Retrieved 20 June 2017.
+^ "Apple unveils a thinner MacBook Pro with an OLED 'Touch Bar'". Engadget. Retrieved 22 September 2017.
+^ "OLED vs LCD: How the iPhone X's display changes everything". Macworld. Retrieved 22 September 2017.
+^ "Nintendo Switch OLED model - Nintendo - Official Site". Nintendo.com. Retrieved 6 July 2021.
+^ Japanese company doubles diode panel's life span Archived 2014-10-29 at the Wayback Machine, Global Post, 13 October 2014
+^ From Molecules to Organic Light Emitting Diodes Archived 2015-04-15 at the Wayback Machine, Max Planck Institute for Polymer Research, 7 April 2015.
+^ Kordt, Pascal;  et al. (2015). "Modeling of Organic Light Emitting Diodes: From Molecular to Device Properties". Advanced Functional Materials. 25 (13): 1955 1971. doi:10.1002/adfm.201403004. hdl:21.11116/0000-0001-6CD1-A. S2CID 18575622.
+^ "Samsung is working on an in-display front-facing camera". GSMArena.com. Retrieved 16 August 2019.
+^ "08-05: Apple's 2021 iPhones will allegedly come with Face ID and on-screen fingerprint sensors; Huawei is allegedly busy testing its smartphone armed with self-developed HongMeng OS; etc". Instantflashnews.com. 5 August 2019. Retrieved 16 August 2019.
+^ "Discarded human hair repurposed to make new OLED screens". New Atlas. 5 June 2020.
+^ Display, New Vision (12 February 2018). "Between cut-throat competition, Which is better OLED, LCD or PMOLED".
+External links[edit]
+Wikimedia Commons has media related to OLED.
+OLED, LCD & TFT - Construction and Difference, advantages and disadvantages 08. Juli 2020
+Structure and working principle of OLEDs and electroluminescent displays
+MIT introduction to OLED technology (video)
+Historical list of OLED products from 1996 to present
+vteDisplay technologyVideo displaysPastgeneration
+Eidophor
+Cathode-ray tube (CRT)
+Jumbotron
+Electroluminescent display (ELD)
+Rear-projection display
+Plasma display panel (PDP)
+ALiS
+Current generation
+Quantum dot display (QLED)
+Electronic paper
+E Ink
+Gyricon
+Light emitting diode display (LED)
+Organic light-emitting diode (OLED)
+Active-Matrix Organic light-emitting diode (AMOLED)
+Liquid-crystal display (LCD)
+TFT
+TN
+IPS
+LED
+Blue Phase
+Digital Light Processing (DLP)
+Liquid crystal on silicon (LCoS)
+Next generation
+microLED
+Electroluminescent Quantum Dots (ELQD/QD-LED)
+Organic light-emitting transistor (OLET)
+Surface-conduction electron-emitter display (SED)
+Field-emission display (FED)
+Laser TV
+Quantum dot
+Liquid crystal
+MEMS display
+IMoD
+TMOS
+Ferroelectric liquid crystal display (FLCD)
+Thick-film dielectric electroluminescent technology (TDEL)
+Telescopic pixel display (TPD)
+Laser-powered phosphor display (LPD)
+Non-video
+Electromechanical
+Flip-dot
+Split-flap
+Vane
+Eggcrate
+Fiber-optic
+Nixie tube
+Vacuum fluorescent display (VFD)
+Light-emitting electrochemical cell (LEC)
+Lightguide display
+Dot-matrix display
+Seven-segment display (SSD)
+Eight-segment display
+Nine-segment display
+Fourteen-segment display (FSD)
+Sixteen-segment display (SISD)
+3D display
+Stereoscopic
+Autostereoscopic
+Multiscopic
+Hologram
+Holographic display
+Computer-generated holography
+Volumetric
+Fog display
+Static media
+Monoscope
+Movie projector
+Neon sign
+Slide projector
+Transparency
+Laser beam
+Display capabilities
+EDID
+CEA-861
+DisplayID
+Always on Display
+See-through display
+Related articles
+History of display technology
+Large-screen television technology
+Optimum HDTV viewing distance
+High Dynamic Range (HDR)
+Color Light Output
+Flexible display
+Comparison of CRT, LCD, plasma, and OLED displays
+Comparison of display technology
+vteEmerging technologiesFieldsDisplaysNext generation
+FED
+FLCD
+iMoD
+Laser
+LPD
+OLED
+OLET
+QD-LED
+SED
+TPD
+TDEL
+TMOS
+MicroLED
+Screenless
+Bionic contact lens
+Head-mounted display
+Head-up display
+Optical head-mounted display
+Virtual retinal display
+Other
+Autostereoscopy
+Flexible display
+Holographic display
+Computer-generated holography
+Multi-primary color display
+Ultra HD
+Volumetric display
+ Category
+ List
+vteElectronic componentsSemiconductordevicesMOS transistors
+Transistor
+NMOS
+PMOS
+BiCMOS
+BioFET
+Chemical field-effect transistor (ChemFET)
+Complementary MOS (CMOS)
+Depletion-load NMOS
+Fin field-effect transistor (FinFET)
+Floating-gate MOSFET (FGMOS)
+Insulated-gate bipolar transistor (IGBT)
+ISFET
+LDMOS
+MOS field-effect transistor (MOSFET)
+Multi-gate field-effect transistor (MuGFET)
+Power MOSFET
+Thin-film transistor (TFT)
+VMOS
+UMOS
+Other transistors
+Bipolar junction transistor (BJT)
+Darlington transistor
+Diffused junction transistor
+Field-effect transistor (FET)
+Junction Gate FET (JFET)
+Organic FET (OFET)
+Light-emitting transistor (LET)
+Organic LET (OLET)
+Pentode transistor
+Point-contact transistor
+Programmable unijunction transistor (PUT)
+Static induction transistor (SIT)
+Tetrode transistor
+Unijunction transistor (UJT)
+Diodes
+Avalanche diode
+Constant-current diode (CLD, CRD)
+Gunn diode
+Laser diode (LD)
+Light-emitting diode (LED)
+Organic light-emitting diode (OLED)
+Photodiode
+PIN diode
+Schottky diode
+Step recovery diode
+Zener diode
+Other devices
+Printed electronics
+Printed circuit board
+DIAC
+Heterostructure barrier varactor
+Integrated circuit (IC)
+Hybrid integrated circuit
+Light emitting capacitor (LEC)
+Memistor
+Memristor
+Memtransistor
+Memory cell
+Metal oxide varistor (MOV)
+Mixed-signal integrated circuit
+MOS integrated circuit (MOS IC)
+Organic semiconductor
+Photodetector
+Quantum circuit
+RF CMOS
+Silicon controlled rectifier (SCR)
+Solaristor
+Static induction thyristor (SITh)
+Three-dimensional integrated circuit (3D IC)
+Thyristor
+Trancitor
+TRIAC
+Varicap
+Voltage regulators
+Linear regulator
+Low-dropout regulator
+Switching regulator
+Buck
+Boost
+Buck boost
+Split-pi
+ uk
+SEPIC
+Charge pump
+Switched capacitor
+Vacuum tubes
+Acorn tube
+Audion
+Beam tetrode
+Barretter
+Compactron
+Diode
+Fleming valve
+Neutron tube
+Nonode
+Nuvistor
+Pentagrid (Hexode, Heptode, Octode)
+Pentode
+Photomultiplier
+Phototube
+Tetrode
+Triode
+Vacuum tubes (RF)
+Backward-wave oscillator (BWO)
+Cavity magnetron
+Crossed-field amplifier (CFA)
+Gyrotron
+Inductive output tube (IOT)
+Klystron
+Maser
+Sutton tube
+Traveling-wave tube (TWT)
+X-ray tube
+Cathode-ray tubes
+Beam deflection tube
+Charactron
+Iconoscope
+Magic eye tube
+Monoscope
+Selectron tube
+Storage tube
+Trochotron
+Video camera tube
+Williams tube
+Gas-filled tubes
+Cold cathode
+Crossatron
+Dekatron
+Ignitron
+Krytron
+Mercury-arc valve
+Neon lamp
+Nixie tube
+Thyratron
+Trigatron
+Voltage-regulator tube
+Adjustable
+Potentiometer
+digital
+Variable capacitor
+Varicap
+Passive
+Connector
+audio and video
+electrical power
+RF
+Electrolytic detector
+Ferrite
+Antifuse
+Fuse
+resettable
+eFUSE
+Resistor
+Switch
+Thermistor
+Transformer
+Varistor
+Wire
+Wollaston wire
+Reactive
+Capacitor
+types
+Ceramic resonator
+Crystal oscillator
+Inductor
+Parametron
+Relay
+reed relay
+mercury relay
+Authority control: National 
+Germany
+Japan
+Retrieved from "https://en.wikipedia.org/w/index.php?title=OLED&oldid=1149295118"

@@ -1,0 +1,301 @@
+American enterprise software company
+This article uses bare URLs, which are uninformative and vulnerable to link rot. Please consider converting them to full citations to ensure the article remains verifiable and maintains a consistent citation style. Several templates and tools are available to assist in formatting, such as Reflinks (documentation), reFill (documentation) and Citation bot (documentation). (June 2022) (Learn how and when to remove this template message)
+BMC Software, Inc.TypePrivateIndustryInformation technologyConsulting Enterprise SoftwareFoundedSeptember 1980; 42 years ago (1980-09)FounderJohn Moores[1]Dan Cloer[2]Scott Boulette[2]HeadquartersHouston, Texas, United States[3]Key peopleAyman Sayed (CEO)[3]ProductsSoftware IT service managementRevenue$2.1 billion (2021)[3]OwnerKKRNumber of employees6,000 (2020)[3]Websitewww.bmc.com
+BMC Software, Inc. is an American multinational information technology (IT) services and consulting, and Enterprise Software company based in Houston, Texas.[4][5][6]
+Gartner has positioned BMC as a Leader for the eighth consecutive years in Gartner's 2021 Magic Quadrant for IT Service Management Tools for its BMC Helix ITSM solution.[7]
+History[edit]
+The company was founded in Houston, Texas, by former Shell employees Scott Boulette, John Moores, and Dan Cloer, whose surname initials were adopted as the company name BMC Software.[8][9] Moores served as the company's first CEO.[10] The firm primarily wrote software for IBM mainframe computers, the industry standard at the time,[5] but since the mid-1990s has been developing software to monitor, manage and automate both distributed and mainframe systems.
+In 1987, Moores was succeeded by Richard A. Hosley II as CEO and President. In July 1988, BMC was re-incorporated in Delaware and went public with an initial public offering for BMC stock.[11][12] The first day of trading was August 12, 1988.[13][14] BMC stock was originally traded on the Nasdaq under the symbol BMCS and on the New York Stock Exchange with symbol BMC.
+Acquisition and privatization by private equity firms[edit]
+In May 2013, BMC announced that it was being acquired by a group of major private equity investment groups for $6.9 billion.[15] The process was completed in September 2013 and the company is no longer publicly traded.[16]
+It was announced on October 2, 2018 that BMC was acquired by KKR, a leading global investment firm. The company was acquired from a private investor group led by Bain Capital Private Equity and Golden Gate Capital together with GIC, Insight Venture Partners, and Elliott Management.[17]
+Products and services[edit]
+BMC Software specializes in software designed to enable an autonomous digital enterprise,[18][19] developing products used for multiple functions including automation, service management, DevOps, workflow orchestration, AIOps, and security.
+The company supports enterprises using mainframes with its Automated Mainframe Intelligence (AMI) product line, which enables self-managing mainframe systems.[20] Self-managing mainframes use machine learning to improve efficiency by anticipating needs, sending alarms, and taking actions without the need for manual actions.[21]
+BMC's Control-M software is an application workflow orchestration platform that allows businesses to run hundreds of thousands of batch jobs daily and use the data to optimize complex business operations, such as supply chain management.[22] Users can access all enterprise batch jobs through a single graphical interface.[23] Control-M integrates with distributed storage systems such as HDFS, YARN, MapReduce and Apache Spark.[22]  In 2019, the firm made the program available in a Docker container, allowing easy deployment to the public cloud or on-premises.[24] The software has been named the overall leader in workload automation by  Enterprise Management Associates in each report since 2010.[22] In 2020, the firm announced the launch of SaaS-based BMC Helix Control-M application workflow orchestration.[25]
+The TrueSight suite utilizes AI and machine learning to provide insights and network automation capabilities,[26]  and includes TrueSight Operations Management, TrueSight Automation for Networks, TrueSight Automation for Servers, and TrueSight Orchestration.
+Directors and staff[edit]
+The company was founded by John J. Moores in 1980; Moores was a "former Shell Oil computer specialist ... whose software made Shell's computers more efficient."[27] Richard A. Hosley II was president and chief executive officer of BMC Software, Inc. from October 1987 until April 1990. Shortly after becoming president, Hosley took the company public in 1988. Hosley was succeeded by Max Watson Jr. in April 1990.[28] Max Watson Jr. was chairman and chief executive officer of BMC Software from April 1990 to January 2001.[29]
+In 2001, BMC appointed the company director, Garland Cupp, as chairman, succeeding Max Watson, who quit the post in January 2001.[30] Watson was succeeded as chairman and CEO by BMC's former senior vice president of product management and development, Robert Beauchamp.[13]
+In December 2016, Peter Leav succeeded Bob Beauchamp as president and chief executive officer.[31][32] In October 2019, Ayman Sayed was named as President and CEO of BMC Software.[33]
+Notable acquisitions[edit]
+Company
+Year
+Price
+Patrol Software
+1994
+$36 million
+HawkNet [34]
+1996
+Undisclosed
+PEER Networks [34]
+1996
+Undisclosed
+Datatools
+1997
+$60 million
+Boole & Babbage[35]
+1998
+$877m - $1 billion
+BGS Systems[36]
+1998
+$285 million
+New Dimension Software[37]
+1999
+$673 million
+Optisystems[38]
+2000
+$70 million
+Evity Inc.[39]
+2000
+$100 million
+Perform SA[40]
+2001
+$23 million
+Remedy (product)[41]
+2002
+Undisclosed
+IT Masters[42]
+2003
+$42 million
+Magic Solutions[43]
+2003
+$47 million
+Marimba[44]
+2004
+$187 million
+Identify Software[45]
+2006
+$151 million
+Service Management Partners
+2007
+Unknown
+ProactiveNet[46]
+2007
+Unknown
+RealOps[47]
+2007
+Unknown
+Emprisa Networks[48]
+2007
+$22 million
+BladeLogic[49]
+2008
+$854 million
+ITM Software[50]
+2008
+Undisclosed
+MQSoftware[51]
+2009
+Undisclosed
+Tideway Systems[52]
+2009
+Undisclosed
+Phurnace Software[52]
+2010
+Undisclosed
+Neptuny/Caplan [53]
+2010
+Undisclosed
+GridApp Systems[54]
+2010
+Undisclosed
+Coradiant[55]
+2011
+Undisclosed
+Aeroprise [56]
+2011
+Undisclosed
+StreamStep[57]
+2011
+Undisclosed
+Numara Software[58]
+2012
+Undisclosed
+Correlog [59]
+2018
+Undisclosed
+RSM Partners [60]
+2020
+Undisclosed
+Compuware[61]
+2020
+Undisclosed
+Alderstone[62]
+2020
+Undisclosed
+ComAround[63]
+2020
+Undisclosed
+StreamWeaver[64]
+2021
+Undisclosed
+See also[edit]
+Texas portalCompanies portal
+List of companies in Houston
+Remedy Corp
+ServiceNow
+References[edit]
+^ "John Jay Moores, Emeritus". University of San Diego.
+^ a b "History of BMC Software". History of Branding. August 24, 2007.
+^ a b c d "BMC Software". Forbes.
+^ "BMC Software, Inc. (BMC)". bizjournals. August 11, 2009. Archived from the original on January 5, 2022. Retrieved August 11, 2009.
+^ a b Staff writer (June 6, 1985). "BMC-I.B.M. Suit". New York Times. Retrieved August 9, 2009.
+^ Rogers, Bruce (August 13, 2015). "BMC's Past Near-Death Moment Prepared It For Today's Growth". Forbes.
+^ Jack (September 10, 2021). "2021 Gartner Magic Quadrant for IT Service Administration Instruments". TUCKER DAILY NEWS. Retrieved January 31, 2022.
+^ Bauder, John (January 28, 2015). "Luddy learned from Moores". San Diego Reader.
+^ "Jason Andrew". The CEO Magazine. October 2015. Archived from the original on December 20, 2016. Retrieved June 28, 2016.
+^ "John J. Moores". Bloomberg.
+^ "BMC: Stock Quote & Summary Data". Nasdaq. August 11, 2009. Retrieved August 11, 2009.
+^ "BMC SOFTWARE INC (Form: 10-K, Received: 05/21/2008 17:30:22)". Retrieved September 7, 2009.
+^ a b "BMC Software, Inc. -- Company History". Funding Universe. Retrieved September 7, 2009.
+^ "BMC Software - Stock Quote". Hoover's. Retrieved September 7, 2009.
+^ Goldman, David. (2013-05-06) BMC Software sold for $6.9 billion - May. 6, 2013. Money.cnn.com. Retrieved on 2013-07-26.
+^ Press Release (September 10, 2013). "BMC Software Completes Privatization Transaction". BMC Software. Archived from the original on October 6, 2014. Retrieved October 1, 2014.
+^ "KKR Buys BMC Software". KKR New Media Oct 2, 2018.
+^ "BMC Software, Inc.   Reinventing software solutions and services to help Autonomous Digital Enterprise". The Silicon Review. Retrieved December 10, 2020.
+^ Columbus, Louis. "10 Ways AI Can Improve Digital Transformation's Success Rate". Forbes. Retrieved December 10, 2020.
+^ "BMC Reinvents Application Development with Automated Intelligence". AiThority. July 31, 2019. Retrieved March 27, 2020.
+^ "Creating a Self-Managing Mainframe". ibmsystemsmag.com. Archived from the original on March 6, 2023. Retrieved March 27, 2020.
+^ a b c "BMC Control-M Named Overall Leader in EMA Workload Automation Radar Report". enterprisesystemsmedia.com. Retrieved March 27, 2020.
+^ "BMC Control-M Improve workflows, reduce operating costs, and deploy new services faster with automation". RightStar. Retrieved March 27, 2020.
+^ "BMC Preps Control-M Workflow Engine for Container Age". Container Journal. November 1, 2019. Retrieved March 27, 2020.
+^ "Adding some SaaS to traditional business, BMC Helix Control-M unifies on-premises and Cloud". SiliconANGLE. December 2, 2020. Retrieved December 10, 2020.
+^ "BMC TrueSight Operations Management". KTSL. September 22, 2016. Retrieved March 27, 2020.
+^ Myerson, Allen R. (November 30, 1997). "A New Breed of Wildcatter for the 90's". The New York Times. Retrieved August 9, 2009.
+^ Confessions of a Stock Broker. Littlebrown. 1972. ISBN 978-0-7181-1041-3. OL 7837855M.
+^ "Max P. Watson". Forbes. August 10, 2009. Archived from the original on July 23, 2011. Retrieved August 10, 2009.
+^ Connell, James (May 2, 2001). "Tech Brief:NEW BMC DIRECTOR". The New York Times. Archived from the original on May 18, 2013. Retrieved August 9, 2009.
+^ Lopez, Maribel (December 12, 2016). "BMC Adds Peter Leav As CEO, Prepares For New Growth Chapter". Forbes.
+^ Preimesberger, Chris (December 12, 2016). "BMC Makes Change at Top, Selects Former Polycom CEO". eWeek.
+^ Gagliordi, Natalie. "BMC Software taps CA Technologies exec for permanent CEO position". ZDNet. Retrieved March 27, 2020.
+^ a b "BMC Software Inc - 10-K - 19960701 - Form".
+^ "BMC Software Agrees to Acquire Boole & Babbage for $900 Million". Wall Street Journal. November 2, 1998.
+^ "BMC Agrees to Acquire BGS in a $285 Million Stock Swap". Wall Street Journal. February 2, 1998.
+^ "New Dimension Software Approves BMC Acquisition -".
+^ "BMC Software acquires OptiSystems Solutions".
+^ "BMC buys Evity for $100M".
+^ "BMC completes the picture -".
+^ "BMC Completes Remedy Acquisition". November 21, 2002.
+^ "BMC Software Acquires IT Masters for $42 Million". Wall Street Journal. March 25, 2003.
+^ "BMC acquires Magic Solutions | IT World Canada News". December 15, 2003.
+^ Newswires, Dow Jones (April 29, 2004). "BMC to Acquire Marimba". Wall Street Journal.
+^ "BMC closes deal for Israeli software firm".
+^ https://www.enterprisemanagement.com/research/asset.php/552/BMC-Acquires-ProactiveNet:-Next-Generation-Event-Management-and-Value-Add-for-the-BMC-product-Line
+^ "BMC Buys RealOps | Network Computing".
+^ "BMC Software acquires Emprisa Networks". Reuters. October 8, 2007.
+^ Flowers, John (March 17, 2008). "Software Firm BMC to Acquire BladeLogic for About $800 Million". Wall Street Journal.
+^ "BMC Software Acquires ITM Software".
+^ https://www.enterprisemanagement.com/research/asset.php/1561/BMC-Software-Acquires-MQSoftware,-Strengthens-Middleware-and-Transaction-Management-Portfolio-
+^ a b "BMC buys Tideway for component tracking tools". October 19, 2009.
+^ "BMC Buys Neptuny Software to Bolster Cloud Portfolio". eWEEK. October 6, 2010. Retrieved March 27, 2020.
+^ "BMC Acquires Database Automation Solutions Provider GridApp Systems". December 3, 2010.
+^ "BMC Buys Web Application Performance Management Software Maker Coradiant". April 28, 2011.
+^ "BMC Software Acquires Aeroprise To Enhance Its Mobile Know-How". Techcrunch. July 7, 2011. Retrieved July 7, 2011.
+^ "BMC Software Acquires StreamStep". Apmdigest - Application Performance Management. October 5, 2011.
+^ "BMC Acquires Numara Software In A Mid-Market Makeover: What It Means For Customers". Forrester. January 30, 2012. Retrieved June 29, 2020.
+^ "BMC to Acquire CorreLog, Inc., a Leader in Multi-Platform IT Security Event Log Management". CISION PR Newswire (Press release). Retrieved June 29, 2020.
+^ "BMC Completes Acquisition of RSM Partners, a Leader in Mainframe Service and Solutions". CISION PR Newswire (Press release). Retrieved June 29, 2020.
+^ "Houston software co. closes one of its largest acquisitions ever". Houston Business Journal. Retrieved June 29, 2020.
+^ "BMC Software to acquire Alderstone IT consultancy".
+^ "BMC Acquires ComAround". October 14, 2020.
+^ Greig, Jonathan. "BMC acquires software company StreamWeaver". ZDNet. Retrieved January 31, 2022.
+External links[edit]
+Official website 
+Historical business data for BMC Software, Inc.:
+SEC filings
+vteMajor information technology consulting and outsourcing companiesCompanies with an annual revenue of over US$3 billion
+Accenture
+Atos
+Booz Allen Hamilton
+BMC Software
+BT Global Services
+CACI
+Capgemini
+CGI
+Cognizant
+Computacenter
+Conduent
+Deloitte
+Digital China
+DXC Technology
+Fujitsu
+HCL Technologies
+Hitachi Consulting
+IBM Consulting
+Indra Sistemas
+Infosys
+Infor
+KPMG
+Leidos
+NEC
+NTT Data
+Orange Business Services
+T-Systems
+Tata Consultancy Services
+Tech Mahindra
+Unisys
+Wipro
+vteKohlberg Kravis RobertsFounders
+Jerome Kohlberg Jr.
+Henry Kravis
+George R. Roberts
+Affiliated companies
+Accel-KKR
+Kohlberg & Company
+Investments andsubsidiariesCurrent
+Academy Sports + Outdoors
+America's Best Contacts & Eyeglasses
+Arnott's Biscuits
+Aricent Group
+Bharti Enterprises
+BMC Software
+Borden Dairy
+Capsugel
+CICC
+Caf  Coffee Day
+Corel
+Colonial First State (55%)
+Colonial Pipeline
+Del Monte Foods
+Dollar General
+El Paso Corp
+Energy Future Holdings
+First Data
+Hospital Corporation of America
+KION Group
+Kodak
+Laureate Education
+Legg Mason
+Legrand
+Leonine Holding
+Maxeda
+Nielsen Holdings
+Northgate Public Services
+NXP Semiconductors
+Oasis Shopping Centre (60%)
+Oriental Brewery
+OverDrive
+Pets at Home
+ProSiebenSat.1 Media
+Sealy Corporation
+Seven West Media
+TDC A/S
+Toys "R" Us
+Trainline
+Trainline EU
+US Foods
+Upfield
+Visma
+Wild
+Yageo
+Zhone Technologies
+Former
+Borden
+RJR Nabisco
+Related
+Barbarians at the Gate (Film)
+ Category
+Authority control 
+ISNI
+Retrieved from "https://en.wikipedia.org/w/index.php?title=BMC_Software&oldid=1146846642"

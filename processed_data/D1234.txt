@@ -1,0 +1,410 @@
+Homodimeric protein enzyme
+Alkaline phosphataseRibbon diagram (rainbow-color, N-terminus = blue, C-terminus = red) of the dimeric structure of bacterial alkaline phosphatase.[1]IdentifiersEC no.3.1.3.1CAS no.9001-78-9 Alt. namesalkaline phosphomonoesterase, alkaline phosphatase, alkaline phosphohydrolase, alkaline phenyl phosphataseDatabasesIntEnzIntEnz viewBRENDABRENDA entryExPASyNiceZyme viewKEGGKEGG entryMetaCycmetabolic pathwayPRIAMprofilePDB structuresRCSB PDB PDBe PDBsumGene OntologyAmiGO  / QuickGOSearchPMCarticlesPubMedarticlesNCBIproteins
+Alkaline phosphataseStructure of alkaline phosphatase.[1]IdentifiersSymbolAlk_phosphatasePfamPF00245InterProIPR001952SMARTSM00098PROSITEPDOC00113SCOP21alk / SCOPe / SUPFAMAvailable protein structures:Pfam
+  structures / ECOD
+  PDBRCSB PDB; PDBe; PDBjPDBsumstructure summaryPDB1aja , 1ajb , 1ajc , 1ajd , 1alh , 1ali , 1alj , 1alk , ,1anj 1ani ,1anj , 1b8j , 1ed8 , 1ed9 , 1elx , 1ely , 1elz , ,1ew8 1ew2 ,1ew8 , 1ew9 , 1hjk , 1hqa , 1k7h , 1kh4 , 1kh5 , ,1kh9 1kh7 ,1kh9 , 1khj , 1khk , 1khl , 1khn , 1shn , 1shq , ,1urb 1ura ,1urb , 1y6v , 1y7a , 1zeb , 1zed , 1zef , 2anh , ,2ga3 2g9y ,2ga3 , 2glq 
+The enzyme alkaline phosphatase (ALP, alkaline phenyl phosphatase) has the physiological role of dephosphorylating compounds. The enzyme is found across a multitude of organisms, prokaryotes and eukaryotes alike, with the same general function but in different structural forms suitable to the environment they function in. Alkaline phosphatase is found in the periplasmic space of E. coli bacteria. This enzyme is heat stable and has its maximum activity at high pH. In humans, it is found in many forms depending on its origin within the body  it plays an integral role in metabolism within the liver and development within the skeleton. Due to its widespread prevalence in these areas, its concentration in the bloodstream is used by diagnosticians as a biomarker in helping determine diagnoses such as hepatitis or osteomalacia.[2]
+The level of alkaline phosphatase in the blood is checked through the ALP test, which is often part of routine blood tests. The levels of this enzyme in the blood depend on factors such as age, sex, or blood type.[3] Blood levels of alkaline phosphatase also increase by two to four times during pregnancy. This is a result of additional alkaline phosphatase produced by the placenta and the liver.[4][5] Additionally, abnormal levels of alkaline phosphatase in the blood could indicate issues relating to the liver, gall bladder or bones. Kidney tumors and infections as well as malnutrition have also shown abnormal level of alkaline phosphatase in blood.[6] Alkaline phosphatase levels in a cell can be measured through a process called "The scoring method". A blood smear is usually taken and stained to categorize each leukocyte into specific "leukocyte alkaline phosphatase indices". This marker is designed to distinguish leukocytes and determine different enzyme activity from each sample's extent of staining.[7]
+Bacterial[edit]
+In Gram-negative bacteria, such as Escherichia coli, alkaline phosphatase is located in the periplasmic space, external to the inner cell membrane and within the peptidoglycan portion of the cell wall. Since the periplasmic gap is more prone to environmental variation than the inner cell, alkaline phosphatase is suitably resistant to inactivation, denaturation, or degradation. This characteristic of the enzyme is uncommon to many other proteins.[8]
+The precise structure and function of the isozyme in E. coli is solely geared to supply a source of inorganic phosphate when the environment lacks this metabolite. The inorganic phosphates are then bound to carrier proteins which deliver the inorganic phosphates to a specific high-affinity transport system, known as the phosphate-specific transport system (Pst system), which transports phosphate across the cytoplasmic membrane.[9]
+While the outer membrane of E. coli contains porins that are permeable to phosphorylated compounds, the inner membrane does not. An issue arises in how to transport such compounds across the inner membrane and into the cytosol. The strong anionic charge of phosphate groups along with the remainder of the compound make phosphorylated compounds very much immiscible in the nonpolar region of the bilayer. The solution arises in cleaving the phosphate group away from the compound via ALP. The dephosphorylation reaction that ALP catalyzes yields pure inorganic phosphate, which can be ultimately targeted by the Pst system[10] for translocation into the cytosol,[11] with concomitant production of a dephosphorylated compound. As such, the main purpose of dephosphorylation by alkaline phosphatase is to increase the rate of diffusion of phosphorylated molecules into the cells while inhibiting them from diffusing out.[12]
+Alkaline phosphatase is a zinc-containing dimeric enzyme with the MW: 86,000 Da, each subunit containing 429 amino acids with four cysteine residues linking the two subunits.[13] Alkaline phosphatase contains four Zn ions and two Mg ions, with Zn occupying active sites A and B, and Mg occupying site C, so the fully active native alkaline phosphatase is referred to as (ZnAZnBMgC)2 enzyme. The mechanism of action of alkaline phosphatase involves the geometric coordination of the substrate between the Zn ions in the active sites, whereas the Mg site doesn't appear to be close enough to directly partake in the hydrolysis mechanism, however, it may contribute to the shape of the electrostatic potential around the active center.[13]
+Alkaline phosphatase in E. coli is uncommonly soluble and active within elevated temperature conditions such as 80 C. Due to the kinetic energy induced by this temperature the weak hydrogen bonds and hydrophobic interactions of common proteins become degraded and therefore coalesce and precipitate. However, upon dimerization of alkaline phosphatase the bonds maintaining its secondary and tertiary structures are effectively buried such that they are not affected as much at this temperature. Furthermore, even at more elevated temperatures such as 90 C alkaline phosphatase has the unusual characteristic of reverse denaturation. Due to this, although it ultimately denatures at about 90 C it has the added ability to accurately reform its bonds and return to its original structure and function once cooled back down.[8]
+Alkaline phosphatase in E. coli is located in the periplasmic space and can thus be released using techniques that weaken the cell wall and release the protein. Due to the location of the enzyme, and the protein layout of the enzyme, the enzyme is in solution with a smaller amount of proteins than there are in another portion of the cell.
+[14] The proteins' heat stability can also be taken advantage of when isolating this enzyme (through heat denaturation). In addition, alkaline phosphatase can be assayed using p-Nitrophenyl phosphate. A reaction where alkaline phosphatase dephosphorylates the non-specific substrate, p-Nitrophenyl phosphate in order to produce p-Nitrophenol(PNP) and inorganic phosphate. PNP's yellow color, and its  max at 410 allows spectrophotometry to determine important information about enzymatic activity.[15] Some complexities of bacterial regulation and metabolism suggest that other, more subtle, purposes for the enzyme may also play a role for the cell. In the laboratory, however, mutant Escherichia coli lacking alkaline phosphatase survive quite well, as do mutants unable to shut off alkaline phosphatase production.[16]
+The optimal pH for the activity of the E. coli enzyme is 8.0[17] while the bovine enzyme optimum pH is slightly higher at 8.5.[18] Alkaline phosphatase accounts for 6% of all proteins in derepressed cells.[19]
+Intragenic complementation[edit]
+When multiple copies of a polypeptide encoded by a gene form an aggregate, this protein structure is referred to as a multimer.  When a multimer is formed from polypeptides produced by two different mutant alleles of a particular gene, the mixed multimer may exhibit greater functional activity than the unmixed multimers formed by each of the mutants alone.  In such a case, the phenomenon is referred to as intragenic complementation.  E. coli alkaline phosphatase, a dimer enzyme, exhibits intragenic complementation.[20]  When particular mutant versions of alkaline phosphatase were combined, the heterodimeric enzymes formed as a result exhibited a higher level of activity than would be expected based on the relative activities of the parental enzymes.  These findings indicated that the dimer structure of E.coli alkaline phosphatase allows cooperative interactions between the constituent monomers that can generate a more functional form of the holoenzyme.[citation needed]
+Use in research[edit]
+By changing the amino acids of the wild-type alkaline phosphatase enzyme produced by Escherichia coli, a mutant alkaline phosphatase is created which not only has a 36-fold increase in enzyme activity, but also retains thermal stability.[21] Typical uses in the lab for alkaline phosphatases include removing phosphate monoesters to prevent self-ligation, which is undesirable during plasmid DNA cloning.[22]
+Common alkaline phosphatases used in research include:
+Shrimp alkaline phosphatase (SAP), from a species of Arctic shrimp (Pandalus borealis). This phosphatase is easily inactivated by heat, a useful feature in some applications.
+Calf-intestinal alkaline phosphatase (CIP)
+Placental alkaline phosphatase (PLAP) and its C terminally truncated version that lacks the last 24 amino acids (constituting the domain that targets for GPI membrane anchoring)   the secreted alkaline phosphatase (SEAP). It presents certain characteristics like heat stability, substrate specificity, and resistance to chemical inactivation.[23]
+Human-intestinal alkaline phosphatase. The human body has multiple types of alkaline phosphatase present, which are determined by a minimum of three gene loci. Each one of these three loci controls a different kind of alkaline phosphatase isozyme. However,  the development of this enzyme can be strictly regulated by other factors  such as thermostability, electrophoresis, inhibition, or immunology.[24]
+Human-intestinal alkaline phosphatase shows around 80% homology with the bovine intestinal enzyme which holds true their shared evolutionary origins. That same bovine enzyme has more than 70% homology with human placental enzyme. However, the human liver enzyme and the placental enzyme only share 20% homology despite their structural similarities.[25]
+Alkaline phosphatase has become a useful tool in molecular biology laboratories, since DNA normally possesses phosphate groups on the 5' end. Removing these phosphates prevents the DNA from ligating (the 5' end attaching to the 3' end), thereby keeping DNA molecules linear until the next step of the process for which they are being prepared; also, removal of the phosphate groups allows radiolabeling (replacement by radioactive phosphate groups) in order to measure the presence of the labeled DNA through further steps in the process or experiment. For these purposes, the alkaline phosphatase from shrimp is the most useful, as it is the easiest to inactivate once it has done its job.[citation needed]
+Another important use of alkaline phosphatase is as a label for enzyme immunoassays.[citation needed]
+Undifferentiated pluripotent stem cells have elevated levels of alkaline phosphatase on their cell membrane, therefore alkaline phosphatase staining is used to detect these cells and to test pluripotency (i.e., embryonic stem cells or embryonal carcinoma cells).[26]
+There is a positive correlation between serum bone alkaline phosphatase levels and bone formation in humans, although its use as a biomarker in clinical practice is not recommended.[27]
+Ongoing research[edit]
+Current researchers are looking into the increase of tumor necrosis factor-  and its direct effect on the expression of alkaline phosphatase in vascular smooth muscle cells as well as how alkaline phosphatase (AP) affects the inflammatory responses and may play a direct role in preventing organ damage.[28]
+Alkaline phosphatase (AP) affects the inflammatory responses in patients with Chronic kidney disease and is directly associated with Erythropoiesis stimulating agent resistant anemia.[29]
+Intestinal alkaline phosphatase (IAP) and the mechanism it uses to regulate pH and ATP hydrolysis in rat duodenum.[30]
+Testing the effectiveness of the inhibitor and its impact on IAP in acute intestinal inflammation as well as explore the  molecular mechanisms of IAP in "ameliorating intestinal permeability."[31]
+Dairy industry[edit]
+Main article: Pasteurization  Verification
+Alkaline phosphatase is commonly used in the dairy industry as an indicator of successful pasteurization. This is because the most heat stable bacterium found in milk, Mycobacterium paratuberculosis, is destroyed by temperatures lower than those required to denature the enzyme. Therefore, its presence is ideal for indicating failed pasteurization.[32][33]
+Pasteurization verification is typically performed by measuring the fluorescence of a solution which becomes fluorescent when exposed to active alkaline phosphatase. Fluorimetry assays are required by milk producers in the UK to prove alkaline phosphatase has been denatured,[34] as p-Nitrophenylphosphate tests are not considered accurate enough to meet health standards.
+Alternatively the colour change of p-nitrophenylphosphate as substrate in a buffered solution (Aschaffenburg Mullen Test) can be used.[35] Raw milk would typically produce a yellow coloration within a couple of minutes, whereas properly pasteurised milk should show no change. There are exceptions to this, as in the case of heat-stable alkaline phosphatases produced by some bacteria, but these bacteria should not be present in milk.[citation needed]
+Inhibitors[edit]
+All mammalian alkaline phosphatase isoenzymes except placental (PALP and SEAP) are inhibited by homoarginine, and, in similar manner, all except the intestinal and placental ones are blocked by levamisole.[36] Phosphate is another inhibitor which competitively inhibits alkaline phosphatase.[37]
+Another known example of an alkaline phosphatase inhibitor is [(4-Nitrophenyl)methyl]phosphonic acid.[38]
+In metal contaminated soil, alkaline phosphatase are inhibited by Cd (Cadmium).  In addition, temperature enhances the inhibition of Cd on the enzyme activity, which is shown in the increasing values of Km.[39]
+Human[edit]
+Physiology[edit]
+In humans, alkaline phosphatase is present in all tissues throughout the body, but is particularly concentrated in the liver, bile duct, kidney, bone, intestinal mucosa and placenta. In the serum, two types of alkaline phosphatase isozymes predominate: skeletal and liver. During childhood the majority of alkaline phosphatase are of skeletal origin.[40] Humans and most other mammals contain the following alkaline phosphatase isozymes:[citation needed]
+ALPI   intestinal (molecular mass of 150 kDa)
+ALPL   tissue-nonspecific (expressed mainly in liver, bone, and kidney)
+ALPP   placental (Regan isozyme)
+ALPG   germ cell
+Four genes encode the four isozymes. The gene for tissue-nonspecific alkaline phosphatase is located on chromosome 1, and the genes for the other three isoforms are located on chromosome 2.[41]
+Intestinal alkaline phosphatase[edit]
+Intestinal alkaline phosphatase is secreted by enterocytes, and seems to play a pivotal role in intestinal homeostasis and protection[42][43] as well as in suppressing inflammation[44] via repression of the downstream Toll-like receptor (TLR)-4-dependent and MyD88-dependent inflammatory cascade.[45] It dephosphorylates toxic/inflammatory microbial ligands like lipopolysaccharides (LPSs),[46] unmethylated cytosine-guanine dinucleotides, flagellin, and extracellular nucleotides such as uridine diphosphate or ATP. Dephosphorylation of LPS by IAP can reduce the severity of Salmonella tryphimurium and Clostridioides difficile infection restoring normal gut microbiota.[46] Thus, altered IAP expression has been implicated in chronic inflammatory diseases such as inflammatory bowel disease (IBD).[46][47] It also seems to regulate lipid absorption[48] and bicarbonate secretion[49] in the duodenal mucosa, which regulates the surface pH. Since the 1960s intestinal alkaline phosphatase has been utilized in drug delivery. As it cleaves phosphate substructures from drugs, auxiliary agents, and even from the surface of nanocarriers, this enzyme enables the design of drug delivery systems that can alter their properties in the body on demand.[50] The solubility of many drugs can be substantially improved by the design of phosphate prodrugs. On the intestinal mucosa the phosphate substructures are cleaved off by alkaline phosphatase and the drug is absorbed.[51] Furthermore, anionic nanocarriers exhibiting bioinert properties can alter their surface to interactive once having reached the intestinal epithelium as due to an alkaline phosphatase triggered cleavage of anionic phosphate groups from their surface charge converts to cationic improving for instance cellular uptake.[52]
+In cancer cells[edit]
+Studies show that the alkaline phosphatase protein found in cancer cells is similar to that found in nonmalignant body tissues and that the protein originates from the same gene in both. One study compared the enzymes of liver metastases of giant-cell lung carcinoma and nonmalignant placental cells. The two were similar in NH2-terminal sequence, peptide map, subunit molecular weight, and isoelectronic point.[53]
+In a different study in which scientists examined alkaline phosphatase protein presence in a human colon cancer cell line, also known as HT-29, results showed that the enzyme activity was similar to that of the non-malignant intestinal type. However, this study revealed that without the influence of sodium butyrate, alkaline phosphatase activity is fairly low in cancer cells.[54] A study based on sodium butyrate effects on cancer cells conveys that it has an effect on androgen receptor co-regulator expression, transcription activity, and also on histone acetylation in cancer cells.[55] This explains why the addition of sodium butyrate show increased activity of alkaline phosphatase in the cancer cells of the human colon.[54] In addition, this further supports the theory that alkaline phosphatase enzyme activity is actually present in cancer cells.[citation needed]
+In another study, choriocarcinoma cells were grown in the presence of 5-bromo-2'-deoxyuridine and results conveyed a 30- to 40-fold increase in alkaline phosphatase activity. This procedure of enhancing the activity of the enzyme is known as enzyme induction. The evidence shows that there is in fact activity of alkaline phosphatase in tumor cells, but it is minimal and needs to be enhanced. Results from this study further indicate that activities of this enzyme vary among the different choriocarcinoma cell lines and that the activity of the alkaline phosphatase protein in these cells is lower than in the non-malignant placenta cells.[56][57] but levels are significantly higher in children and pregnant women. Blood tests should always be interpreted using the reference range from the laboratory that performed the test. High alkaline phosphatase levels can occur if the bile ducts are obstructed.[58]
+Also, the level of alkaline phosphatase increases if there is active bone formation occurring, as the enzyme is a byproduct of osteoblast activity (such as the case in Paget's disease of bone).[citation needed]
+The level of alkaline phosphatase is much more elevated in metastatic prostate cancer cells than non-metastatic prostate cancer cells.[59] High levels of ALP in prostate cancer patients is associated with a significant decrease in survival.[59]
+Levels are also elevated in people with untreated coeliac disease.[60] Lowered levels of the level of alkaline phosphatase are less common than elevated levels. The source of elevated levels can be deduced by obtaining serum levels of  -glutamyltransferase. Concomitant increases of alkaline phosphatase with  -glutamyltransferase should raise the suspicion of hepatobiliary disease.[61]
+Some diseases do not affect the levels of alkaline phosphatase, for example, hepatitis C. A high level of this enzyme does not reflect any damage in the liver, even though high alkaline phosphatase levels may result from a blockage of flow in the biliary tract or an increase in the pressure of the liver.[62]
+Elevated levels[edit]
+Main article: Elevated alkaline phosphatase
+If it is unclear why the level of alkaline phosphatase is elevated, isoenzyme studies using electrophoresis can confirm the source of the increase. Skelphosphatase (which is localized in osteoblasts and extracellular layers of newly synthesized matrix) is released into circulation by a yet unclear mechanism.[63] Placental alkaline phosphatase is elevated in seminomas[64] and active forms of rickets, as well as in the following diseases and conditions:[65]
+Biliary obstruction
+Bone conditions
+Osteoblastic bone tumors
+Osteomalacia
+Osteoporosis[66]
+Hepatitis
+Cirrhosis
+Acute cholecystitis
+Myelofibrosis
+Leukemoid reaction
+Lymphoma
+Paget's disease
+Sarcoidosis
+Hyperthyroidism
+Hyperparathyroidism
+Myocardial infarction
+Pregnancy[5]
+Very high doses of estrogens[5][67][68]
+Lowered levels[edit]
+The following conditions or diseases may lead to reduced levels of alkaline phosphatase:[69]
+Hypophosphatasia, a genetic disorder
+Women receiving estrogen therapy for menopausal symptoms[citation needed]
+Estrogen-containing oral contraceptives[70]
+Men with recent heart surgery, malnutrition, magnesium deficiency, or severe anemia
+Children with achondroplasia and congenital iodine deficiency
+Children after a severe episode of enteritis
+Pernicious anemia
+Aplastic anemia
+Wilson's disease
+Hypothyroidism
+Zinc deficiency
+Malnutrition
+Steroid treatment
+Colitis
+Prognostic uses[edit]
+Measuring alkaline phosphatase (along with prostate specific antigen) during, and after six months of hormone treated metastatic prostate cancer was shown to predict the survival of patients.[71]
+Leukocyte alkaline phosphatase[edit]
+Leukocyte alkaline phosphatase is found within mature white blood cells. White blood cell levels of LAP can help in the diagnosis of certain conditions.[citation needed]
+Higher than typical levels are seen in the physiological response, the leukemoid reaction, and in pathologies that include mature white blood cells, such as polycythemia vera, essential thrombocytosis, and in primary myelofibrosis.
+Lower than typical levels are found in pathologies that involve undeveloped leukocytes, such as chronic myelogenous leukemia[72] (CML), paroxysmal nocturnal hemoglobinuria and acute myelogenous leukaemia.
+Structure and properties[edit]
+Alkaline phosphatase is homodimeric enzyme, meaning it is formed with two molecules. Three metal ions, two Zn and one Mg, are contained in the catalytic sites, and both types are crucial for enzymatic activity to occur. The enzymes catalyze the hydrolysis of monoesters in phosphoric acid which can additionally catalyze a transphosphorylation reaction with large concentrations of phosphate acceptors. While the main features of the catalytic mechanism and activity are conserved between mammalian and bacterial alkaline phosphate, mammalian alkaline phosphatase has a higher specific activity and Km values thus a lower affinity, more alkaline pH optimum, lower heat stability, and are typically membrane bound and are inhibited by l-amino acids and peptides via a means of uncompetitive mechanism. These properties noticeably differ between different mammalian alkaline phosphatase isozymes and therefore showcase a difference in in vivo functions.[citation needed]
+Alkaline phosphatase has homology in a large number of other enzymes and composes part of a superfamily of enzymes with several overlapping catalytic aspects and substrate traits. This explains why most salient structural features of mammalian alkaline are the way they are and reference their substrate specificity and homology to other members of the nucleoside pyrophosphatase/phosphodiesterase family of isozyme.[41] Research has shown a relationship between members of the alkaline phosphatase family with aryl sulfatases. The similarities in structure indicate that these two enzyme families came from a common ancestor. Further analysis has linked alkaline phosphates and aryl sulfatases to a larger superfamily. Some of the common genes found in this superfamily, are ones that encode phosphodiesterases as well as autotoxin.[73]
+See also[edit]
+Acid phosphatase
+Liver function tests
+References[edit]
+^ a b PDB: 1ALK : Kim EE, Wyckoff HW (March 1991). "Reaction mechanism of alkaline phosphatase based on crystal structures. Two-metal ion catalysis". Journal of Molecular Biology. 218 (2): 449 64. doi:10.1016/0022-2836(91)90724-K. PMID 2010919.
+^ "Alkaline Phosphatase Level Test (ALP)". Healthline. Retrieved 2017-05-07.
+^ Dhruv L, Savio J (22 October 2017). "Alkaline Phosphatase". StatPearls. StatPearls. PMID 29083622.
+^ Shipman KE, Holt AD, Gama R (April 2013). "Interpreting an isolated raised serum alkaline phosphatase level in an asymptomatic patient". BMJ. 346: f976. doi:10.1136/bmj.f976. PMID 23553977. S2CID 20385424.
+^ a b c Gronowski AM (2004). "Human Pregnancy". Handbook of Clinical Laboratory Testing During Pregnancy. Humana Press. pp. 1 13. doi:10.1007/978-1-59259-787-1_1. ISBN 978-1-4684-9862-2.
+^ "Alkaline Phosphatase Level Test (ALP)". Healthline. Retrieved 2017-05-15.
+^ Kaplow LS (October 1955). "A histochemical procedure for localizing and evaluating leukocyte alkaline phosphatase activity in smears of blood and marrow" (PDF). Blood. 10 (10): 1023 9. doi:10.1182/blood.v10.10.1023.1023. PMID 13260361.
+^ a b Schlesinger MJ, Barrett K (November 1965). "The reversible dissociation of the alkaline phosphatase of Escherichia coli. I. Formation and reactivation of subunits" (PDF). The Journal of Biological Chemistry. 240 (11): 4284 92. doi:10.1016/S0021-9258(18)97057-2. PMID 4954367.
+^ Ninfa A (2010). Fundamental Laboratory Approaches for Biochemistry and Biotechnology. United States of America: John Wiley & Sons, INC. p. 230. ISBN 978-0-470-08766-4.
+^ Rao NN, Torriani A (July 1990). "Molecular aspects of phosphate transport in Escherichia coli". Molecular Microbiology. 4 (7): 1083 90. doi:10.1111/j.1365-2958.1990.tb00682.x. PMID 1700257. S2CID 43220370.
+^ Willsky GR, Bennett RL, Malamy MH (February 1973). "Inorganic phosphate transport in Escherichia coli: involvement of two genes which play a role in alkaline phosphatase regulation". Journal of Bacteriology. 113 (2): 529 39. doi:10.1128/JB.113.2.529-539.1973. PMC 285262. PMID 4570598.
+^ Horiuchi T, Horiuchi S, Mizuno D (May 1959). "A possible negative feedback phenomenon controlling formation of alkaline phosphomonoesterase in Escherichia coli". Nature. 183 (4674): 1529 30. Bibcode:1959Natur.183.1529H. doi:10.1038/1831529b0. PMID 13666805. S2CID 4294310.
+^ a b Coleman JE (1992). "Structure and mechanism of alkaline phosphatase". Annual Review of Biophysics and Biomolecular Structure. 21: 441 83. doi:10.1146/annurev.bb.21.060192.002301. PMID 1525473. S2CID 34764597.
+^ Ammerman JW, Azam F (March 1985). "Bacterial 5-nucleotidase in aquatic ecosystems: a novel mechanism of phosphorus regeneration". Science. 227 (4692): 1338 40. Bibcode:1985Sci...227.1338A. doi:10.1126/science.227.4692.1338. PMID 17793769. S2CID 24216177.
+^ "p-Nitrophenyl Phosphate (PNPP)". New England Biolabs. Retrieved 2017-05-15.
+^ Wanner BL, Latterell P (October 1980). "Mutants affected in alkaline phosphatase, expression: evidence for multiple positive regulators of the phosphate regulon in Escherichia coli". Genetics. 96 (2): 353 66. doi:10.1093/genetics/96.2.353. PMC 1214304. PMID 7021308.
+^ Garen A, Levinthal C (March 1960). "A fine-structure genetic and chemical study of the enzyme alkaline phosphatase of E. coli. I. Purification and characterization of alkaline phosphatase". Biochimica et Biophysica Acta. 38: 470 83. doi:10.1016/0006-3002(60)91282-8. PMID 13826559.
+^ Harada M, Udagawa N, Fukasawa K, Hiraoka BY, Mogi M (February 1986). "Inorganic pyrophosphatase activity of purified bovine pulp alkaline phosphatase at physiological pH". Journal of Dental Research. 65 (2): 125 7. doi:10.1177/00220345860650020601. PMID 3003174. S2CID 20508311.
+^ Yeh MF, Trela JM (May 1976). "Purification and characterization of a repressible alkaline phosphatase from Thermus aquaticus" (PDF). The Journal of Biological Chemistry. 251 (10): 3134 9. doi:10.1016/S0021-9258(17)33509-3. PMID 5454.
+^ Hehir MJ, Murphy JE, Kantrowitz ER (December 2000). "Characterization of heterodimeric alkaline phosphatases from Escherichia coli: an investigation of intragenic complementation". Journal of Molecular Biology. 304 (4): 645 56. doi:10.1006/jmbi.2000.4230. PMID 11099386.
+^ Mandecki W, Shallcross MA, Sowadski J, Tomazic-Allen S (October 1991). "Mutagenesis of conserved residues within the active site of Escherichia coli alkaline phosphatase yields enzymes with increased kcat". Protein Engineering. 4 (7): 801 4. doi:10.1093/protein/4.7.801. PMID 1798702.
+^ Maxam AM, Gilbert W (1980). Sequencing end-labeled DNA with base-specific chemical cleavages. Methods in Enzymology. Vol. 65. pp. 499 560. doi:10.1016/S0076-6879(80)65059-9. ISBN 978-0-12-181965-1. PMID 6246368.
+^ Birkett DJ, Done J, Neale FC, Posen S (May 1966). "Serum alkaline phosphatase in pregnancy; an immunological study". British Medical Journal. 1 (5497): 1210 2. doi:10.1136/bmj.1.5497.1210. JSTOR 25407775. PMC 1845009. PMID 5933831.
+^ Benham FJ, Harris H (August 1979). "Human cell lines expressing intestinal alkaline phosphatase". Proceedings of the National Academy of Sciences of the United States of America. 76 (8): 4016 9. Bibcode:1979PNAS...76.4016B. doi:10.1073/pnas.76.8.4016. JSTOR 69758. PMC 383967. PMID 291061.
+^ Hua JC, Berger J, Pan YC, Hulmes JD, Udenfriend S (April 1986). "Partial sequencing of human adult, human fetal, and bovine intestinal alkaline phosphatases: comparison with the human placental and liver isozymes". Proceedings of the National Academy of Sciences of the United States of America. 83 (8): 2368 72. Bibcode:1986PNAS...83.2368H. doi:10.1073/pnas.83.8.2368. JSTOR 27284. PMC 323298. PMID 3458202.
+^ "Appendix E: Stem Cell Markers". Stem Cell Information. National Institutes of Health, U.S. Department of Health and Human Services. Archived from the original on 2015-09-21. Retrieved 2013-09-24.
+^ Szulc P, Seeman E, Delmas PD (2000). "Biochemical measurements of bone turnover in children and adolescents". Osteoporosis International. 11 (4): 281 94. doi:10.1007/s001980070116. PMID 10928217. S2CID 8223812.
+^ Charnow JA, ed. (April 16, 2010). "Alkaline Phosphatase May Be a Marker of Inflammation in CKD Patients". Renal and Urology News.
+^ Badve SV, Zhang L, Coombes JS, Pascoe EM, Cass A, Clarke P, Ferrari P, McDonald SP, Morrish AT, Pedagogos E, Perkovic V, Reidlinger D, Scaria A, Walker R, Vergara LA, Hawley CM, Johnson DW (2015). "Association between serum alkaline phosphatase and primary resistance to erythropoiesis stimulating agents in chronic kidney disease: a secondary analysis of the HERO trial". Canadian Journal of Kidney Health and Disease. 2: 33. doi:10.1186/s40697-015-0066-5. PMC 4538753. PMID 26284153.
+^ Mizumori M, Ham M, Guth PH, Engel E, Kaunitz JD, Akiba Y (July 2009). "Intestinal alkaline phosphatase regulates protective surface microclimate pH in rat duodenum". The Journal of Physiology. 587 (Pt 14): 3651 63. doi:10.1113/jphysiol.2009.172270. PMC 2742288. PMID 19451200.
+^ Wang W, Chen SW, Zhu J, Zuo S, Ma YY, Chen ZY, Zhang JL, Chen GW, Liu YC, Wang PY (2015). "Intestinal alkaline phosphatase inhibits the translocation of bacteria of gut-origin in mice with peritonitis: mechanism of action". PLOS ONE. 10 (5): e0124835. Bibcode:2015PLoSO..1024835W. doi:10.1371/journal.pone.0124835. PMC 4422672. PMID 25946026.
+^ Kay H (1935). "Some Results of the Application of a Simple Test for Efficiency of Pasteurisation". The Lancet. 225 (5835): 1516 1518. doi:10.1016/S0140-6736(01)12532-8.
+^ Hoy WA, Neave FK (1937). "The Phosphatase Test for Efficient Pasteurisation". The Lancet. 230 (5949): 595 598. doi:10.1016/S0140-6736(00)83378-4.
+^ "BS EN ISO 11816-1:2013 - Milk and milk products. Determination of alkaline phosphatase activity. Fluorimetric method for milk and milk-based drinks". British Standards Institution (BSI). Retrieved 23 August 2016.
+^ Aschaffenburg R, Mullen JE (1949). "A rapid and simple phosphatase test for milk". Journal of Dairy Research. 16 (1): 58 67. doi:10.1017/S0022029900005288. S2CID 85673728.
+^ Sharma U, Pal D, Prasad R (July 2014). "Alkaline phosphatase: an overview". Indian Journal of Clinical Biochemistry. 29 (3): 269 78. doi:10.1007/s12291-013-0408-y. PMC 4062654. PMID 24966474.
+^ Iqbal J (July 2011). "An enzyme immobilized microassay in capillary electrophoresis for characterization and inhibition studies of alkaline phosphatases". Analytical Biochemistry. 414 (2): 226 31. doi:10.1016/j.ab.2011.03.021. PMID 21439261.
+^ Ganellin CR, Triggle DJ, eds. (1999). Dictionary of pharmacological agents (1st ed.). London: Chapman & Hall. ISBN 978-0-412-46630-4.
+^ Tan X, Machmuller MB, Wang Z, Li X, He W, Cotrufo MF, Shen W (April 2018). "Temperature enhances the affinity of soil alkaline phosphatase to Cd". Chemosphere. 196: 214 222. Bibcode:2018Chmsp.196..214T. doi:10.1016/j.chemosphere.2017.12.170. PMID 29304459.
+^ Reiss I, Inderrieden D, Kruse K (January 1996). "Bestimmung der knochenspezifischen alkalischen Phosphatase bei St rungen des Kalziumstoffwechsels im Kindesalter". Monatsschrift Kinderheilkunde. 144 (9): 885 890. doi:10.1007/s001120050054. S2CID 12764174.
+^ a b Mill n JL (June 2006). "Alkaline Phosphatases : Structure, substrate specificity and functional relatedness to other members of a large superfamily of enzymes". Purinergic Signalling. 2 (2): 335 41. doi:10.1007/s11302-005-5435-6. PMC 2254479. PMID 18404473.
+^ Alam SN, Yammine H, Moaven O, Ahmed R, Moss AK, Biswas B, Muhammad N, Biswas R, Raychowdhury A, Kaliannan K, Ghosh S, Ray M, Hamarneh SR, Barua S, Malo NS, Bhan AK, Malo MS, Hodin RA (April 2014). "Intestinal alkaline phosphatase prevents antibiotic-induced susceptibility to enteric pathogens". Annals of Surgery. 259 (4): 715 22. doi:10.1097/sla.0b013e31828fae14. PMC 3855644. PMID 23598380.
+^ Lall s JP (February 2014). "Intestinal alkaline phosphatase: novel functions and protective effects". Nutrition Reviews. 72 (2): 82 94. doi:10.1111/nure.12082. PMID 24506153.
+^ Ghosh SS, Gehr TW, Ghosh S (December 2014). "Curcumin and chronic kidney disease (CKD): major mode of action through stimulating endogenous intestinal alkaline phosphatase". Molecules. 19 (12): 20139 56. doi:10.3390/molecules191220139. PMC 6271001. PMID 25474287.
+^ Vaishnava S, Hooper LV (2007). "Alkaline phosphatase: keeping the peace at the gut epithelial surface". Cell Host & Microbe. 2 (6): 365 367. doi:10.1016/j.chom.2007.11.004. PMID 18078687.
+^ a b c Bilski J, Mazur-Bialy A, Wojcik D, Zahradnik-Bilska J, Brzozowski B, Magierowski M, Mach T, Magierowska K, Brzozowski T (2017). "The Role of Intestinal Alkaline Phosphatase in Inflammatory Disorders of Gastrointestinal Tract". Mediators of Inflammation. 2017: 9074601. doi:10.1155/2017/9074601. PMC 5339520. PMID 28316376.
+^ Moln r K, Vannay A, Szebeni B, B nki NF, Sziksz E, Cseh A, Gy rffy H, Lakatos PL, Papp M, Arat  A, Veres G (July 2012). "Intestinal alkaline phosphatase in the colonic mucosa of children with inflammatory bowel disease". World Journal of Gastroenterology. 18 (25): 3254 9. doi:10.3748/wjg.v18.i25.3254 (inactive 31 December 2022). PMC 3391762. PMID 22783049.{{cite journal}}:  CS1 maint: DOI inactive as of December 2022 (link)
+^ Narisawa S, Huang L, Iwasaki A, Hasegawa H, Alpers DH, Mill n JL (November 2003). "Accelerated fat absorption in intestinal alkaline phosphatase knockout mice". Molecular and Cellular Biology. 23 (21): 7525 30. doi:10.1128/mcb.23.21.7525-7530.2003. PMC 207564. PMID 14560000.
+^ Akiba Y, Mizumori M, Guth PH, Engel E, Kaunitz JD (December 2007). "Duodenal brush border intestinal alkaline phosphatase activity affects bicarbonate secretion in rats". American Journal of Physiology. Gastrointestinal and Liver Physiology. 293 (6): G1223 33. doi:10.1152/ajpgi.00313.2007. PMID 17916646. S2CID 3091278.
+^ Le-Vinh, B; Akku -Da deviren, ZB; Le, NMN; Nazir, I; Bernkop-Schn rch, A (2022). "Alkaline Phosphatase: A Reliable Endogenous Partner for Drug Delivery and Diagnostics". Adv. Therap. 5 (2): 2100219. doi:10.1002/adtp.202100219. S2CID 245865286.
+^ Tantra, T; Singh, Y; Patekar, R; Kulkarni, S; Kumar, P; Thareja, S (2023). "Phosphate Prodrugs: An Approach to Improve the Bioavailability of Clinically Approved Drugs". Curr. Med. Chem. 30. doi:10.2174/0929867330666230209094738. PMID 36757029. S2CID 256697019.
+^ Le, NN; Steinbring, C; Le-Vinh, B; Jalil, A; Matuszczak, B; Bernkop-Schn rch, A (2021). "Polyphosphate coatings: A promising strategy to overcome the polycation dilemma". J. Colloid Interface Sci. 587: 279 289. Bibcode:2021JCIS..587..279L. doi:10.1016/j.jcis.2020.12.019. PMID 33360901. S2CID 229694823.
+^ Greene PJ, Sussman HH (October 1973). "Structural comparison of ectopic and normal placental alkaline phosphatase". Proceedings of the National Academy of Sciences of the United States of America. 70 (10): 2936 40. Bibcode:1973PNAS...70.2936G. doi:10.1073/pnas.70.10.2936. JSTOR 63137. PMC 427142. PMID 4517947.
+^ a b Herz F, Schermer A, Halwer M, Bogart LH (September 1981). "Alkaline phosphatase in HT-29, a human colon cancer cell line: influence of sodium butyrate and hyperosmolality". Archives of Biochemistry and Biophysics. 210 (2): 581 91. doi:10.1016/0003-9861(81)90224-1. PMID 7305346.
+^ Paskova L, Smesny Trtkova K, Fialova B, Benedikova A, Langova K, Kolar Z (August 2013). "Different effect of sodium butyrate on cancer and normal prostate cells". Toxicology in Vitro. 27 (5): 1489 95. doi:10.1016/j.tiv.2013.03.002. PMID 23524101.
+^ Chou JY, Robinson JC (July 1977). "Induction of placental alkaline phosphatase in choriocarcinoma cells by 5-bromo-2 -deoxyuridine". In Vitro. 13 (7): 450 60. doi:10.1007/bf02615106. JSTOR 4291955. PMID 18400. S2CID 6726390.
+^ "ALP isoenzyme test". MedlinePlus Medical Encyclopedia. U.S. National Library of Medicine.
+^ "ALP: The Test - Alkaline Phosphatase". Lab Tests Online. American Association for Clinical Chemistry (AACC). Retrieved 23 August 2016.
+^ a b Rao SR, Snaith AE, Marino D, Cheng X (2017). "Tumour-derived alkaline phosphatase regulates tumour growth, epithelial plasticity and disease-free survival in metastatic prostate cancer". British Journal of Cancer. 116 (2): 227 236. doi:10.1038/bjc.2016.402. PMC 5243990. PMID 28006818.
+^ Pruessner HT (March 1998). "Detecting celiac disease in your patients". American Family Physician. 57 (5): 1023 34, 1039 41. PMID 9518950.
+^ Vroon D (1990). "Alkaline Phosphatase and Gamma Glutamyltransferase". Clinical Methods: The History, Physical, and Laboratory Examinations. 3rd edition. Butterworths. ISBN 9780409900774. PMID 21250047.
+^ "Alkaline phosphatase: Liver Function Test - Viral Hepatitis". www.hepatitis.va.gov. Retrieved 2016-05-02.
+^ Delmas PD (December 1991). "What do we know about biochemical bone markers?". Bailliere's Clinical Obstetrics and Gynaecology. 5 (4): 817 30. doi:10.1016/s0950-3552(05)80289-5. PMID 1822819. Retrieved 1 May 2016.
+^ Lange PH, Millan JL, Stigbrand T, Vessella RL, Ruoslahti E, Fishman WH (August 1982). "Placental alkaline phosphatase as a tumor marker for seminoma". Cancer Research. 42 (8): 3244 7. PMID 7093962.
+^ Dugdale DC. "ALP-bloodtest:MedlinePlus Medical Encyclopedia". MedlinePlus. Retrieved 2014-02-26.
+^ Foucault P, Foucault MH, Kucharewicz B, Bureau F, Alix M, Drosdowsky MA (1991). "[Value of the study of total alkaline phosphatases and bone isoenzyme in a population of subjects with osteoporosis]". Annales de Biologie Clinique. 49 (9): 477 81. PMID 1789501.
+^ McComb RB, Bowers GN, Posen S (1979). "Clinical Utilization of Alkaline Phosphatase Measurements". Alkaline Phosphatase. Springer US. pp. 525 786. doi:10.1007/978-1-4613-2970-1_9. ISBN 978-1-4613-2972-5.
+^ Mueller MN, Kappas A (October 1964). "Estrogen pharmacology. I. The influence of estradiol and estriol on hepatic disposal of sulfobromophthalein (BSP) in man". J Clin Invest. 43 (10): 1905 14. doi:10.1172/JCI105064. PMC 289635. PMID 14236214.
+^ Fukushima K, Kawai-Kowase K, Yonemoto Y, Fujiwara M, Sato H, Sato M,  et al. (April 2019). "Adult hypophosphatasia with compound heterozygous p.Phe327Leu missense and c.1559delT frameshift mutations in tissue-nonspecific alkaline phosphatase gene: a case report". Journal of Medical Case Reports. 13 (1): 101. doi:10.1186/s13256-019-2045-4. PMC 6480864. PMID 31014398.
+^ Schiele F, Vincent-Viry M, Fournier B, Starck M, Siest G (November 1998). "Biological effects of eleven combined oral contraceptives on serum triglycerides,  -glutamyltransferase, alkaline phosphatase, bilirubin and other biochemical variables". Clinical Chemistry and Laboratory Medicine. 36 (11): 871 8. doi:10.1515/CCLM.1998.153. PMID 9877094. S2CID 23437978.
+^ Robinson D, Sandblom G, Johansson R, Garmo H, Stattin P, Mommsen S, Varenhorst E (January 2008). "Prediction of survival of metastatic prostate cancer based on early serial measurements of prostate specific antigen and alkaline phosphatase". The Journal of Urology. 179 (1): 117 22, discussion 122 3. doi:10.1016/j.juro.2007.08.132. PMID 17997442.
+^ Arceci RJ, Hann IM, Smith OP, eds. (2006). Pediatric hematology (3rd ed.). Wiley-Blackwell. p. 763. ISBN 978-1-4051-3400-2.
+^ O'Brien PJ, Herschlag D (May 2001). "Functional interrelationships in the alkaline phosphatase superfamily: phosphodiesterase activity of Escherichia coli alkaline phosphatase". Biochemistry. 40 (19): 5691 9. CiteSeerX 10.1.1.322.8876. doi:10.1021/bi0028892. PMID 11341834.
+Further reading[edit]
+Coleman JE (1992). "Structure and mechanism of alkaline phosphatase". Annual Review of Biophysics and Biomolecular Structure. 21: 441 83. doi:10.1146/annurev.bb.21.060192.002301. PMID 1525473. S2CID 34764597.
+External links[edit]
+Alkaline phosphatase at Lab Tests Online
+vteClinical biochemistry blood testsElectrolytes
+Sodium
+Potassium
+Chloride
+Calcium
+Renal function
+Creatinine
+Urea
+BUN-to-creatinine ratio
+Plasma osmolality
+Serum osmolal gap
+Acid-base
+Anion gap
+Arterial blood gas
+Base excess
+Bicarbonate
+CO2 content
+Lactate
+Iron tests
+Ferritin
+Serum iron
+Transferrin saturation
+Total iron-binding capacity
+Transferrin
+Transferrin receptor
+Hormones
+ACTH stimulation test
+Thyroid function tests
+Thyroid-stimulating hormone
+Metabolism
+Blood glucose
+Hemoglobin A1c
+Lipid panel
+LDL
+HDL
+Triglycerides
+Total cholesterol
+Basic metabolic panel
+Comprehensive metabolic panel
+Cardiovascular
+Cardiac marker
+Troponin test
+CPK-MB test
+Lactate dehydrogenase
+Myoglobin
+Glycogen phosphorylase isoenzyme BB
+Liver function tests
+Proteins
+Human serum albumin
+Serum total protein
+ALP
+transaminases
+ALT
+AST
+AST/ALT ratio
+GGT
+Bilirubin
+Unconjugated
+Conjugated
+Pancreas
+Amylase
+Lipase
+Pancreatic lipase
+Small moleculesBlood sugar level
+Hypoglycemia
+Hyperglycemia
+Nitrogenous
+Azotemia
+Hyperuricemia
+Hypouricemia
+ProteinsLFT
+Elevated transaminases
+Elevated ALP
+Hypoproteinemia
+Hypoalbuminemia
+Other
+Elevated alpha-fetoprotein
+vteHydrolase: esterases (EC 3.1)3.1.1: Carboxylicester hydrolases
+Cholinesterase
+Acetylcholinesterase
+Butyrylcholinesterase
+Pectinesterase
+6-phosphogluconolactonase
+PAF acetylhydrolase
+Lipase
+Bile salt-dependent
+Gastric/Lingual
+Pancreatic
+Lysosomal
+Hormone-sensitive
+Endothelial
+Hepatic
+Lipoprotein
+Monoacylglycerol
+Diacylglycerol
+Phospholipase
+A1
+A2
+B
+Cutinase
+PETase
+3.1.2: Thioesterase
+Palmitoyl protein thioesterase
+Ubiquitin carboxy-terminal hydrolase L1
+4-hydroxybenzoyl-CoA thioesterase
+3.1.3: Phosphatase
+Alkaline phosphatase
+ALPI
+ALPL
+ALPP
+Acid phosphatase (Prostatic)/Tartrate-resistant acid phosphatase/Purple acid phosphatases
+Nucleotidase
+Glucose 6-phosphatase
+Fructose 1,6-bisphosphatase
+Calcineurin
+Protein phosphatase
+PP2A
+OCRL
+Pyruvate dehydrogenase phosphatase
+Fructose 6-P,2-kinase:fructose 2,6-bisphosphatase
+PTEN
+Phytase
+Beta-propeller phytase
+Inositol-phosphate phosphatase
+IMPA1, IMPA2, IMPA3
+Protein phosphatase: Protein tyrosine phosphatase
+Protein serine/threonine phosphatase
+Dual-specificity phosphatase
+3.1.4:Phosphodiesterase
+Autotaxin
+Phospholipase
+C
+D
+Sphingomyelin phosphodiesterase
+1
+PDE1
+PDE2
+PDE3
+PDE4A/PDE4B
+PDE5
+Lecithinase (Clostridium perfringens alpha toxin)
+Cyclic nucleotide phosphodiesterase
+3.1.6: Sulfatase
+arylsulfatase
+Arylsulfatase A
+Arylsulfatase B
+Arylsulfatase E
+Steroid sulfatase
+Galactosamine-6 sulfatase
+Iduronate-2-sulfatase
+N-acetylglucosamine-6-sulfatase
+Nuclease (includesdeoxyribonucleaseand ribonuclease)3.1.11-16:ExonucleaseExodeoxyribonuclease
+RecBCD
+Exoribonuclease
+Oligonucleotidase
+3.1.21-31:EndonucleaseEndodeoxyribonuclease
+Deoxyribonuclease I
+Deoxyribonuclease II
+Deoxyribonuclease IV
+Restriction enzyme;see {{Restriction enzyme}}
+UvrABC endonuclease
+Endoribonuclease
+RNase III
+Drosha: Microprocessor complex
+Dicer: RNA-induced silencing complex
+RNase H
+1
+2A
+2B
+2C
+RNase P
+RNase A
+RNase Z
+RNase E
+1
+2
+3
+4/5
+RNase T1
+either deoxy- or ribo-
+    
+Nuclease S1
+Mung bean nuclease
+Serratia marcescens nuclease
+Micrococcal nuclease
+vteEnzymesActivity
+Active site
+Binding site
+Catalytic triad
+Oxyanion hole
+Enzyme promiscuity
+Diffusion-limited enzyme
+Coenzyme
+Cofactor
+Enzyme catalysis
+Regulation
+Allosteric regulation
+Cooperativity
+Enzyme inhibitor
+Enzyme activator
+Classification
+EC number
+Enzyme superfamily
+Enzyme family
+List of enzymes
+Kinetics
+Enzyme kinetics
+Eadie Hofstee diagram
+Hanes Woolf plot
+Lineweaver Burk plot
+Michaelis Menten kinetics
+Types
+EC1 Oxidoreductases (list)
+EC2 Transferases (list)
+EC3 Hydrolases (list)
+EC4 Lyases (list)
+EC5 Isomerases (list)
+EC6 Ligases (list)
+EC7 Translocases (list)
+Portal: Biology
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Alkaline_phosphatase&oldid=1145962198"

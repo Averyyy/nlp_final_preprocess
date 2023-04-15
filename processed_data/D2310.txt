@@ -1,0 +1,391 @@
+Email client, electronic calendar and newsreader, developed by Microsoft
+Not to be confused with Windows Live Hotmail or Windows Mail.
+Windows Live MailWindows Live Mail 2012 running on Windows 8Developer(s)MicrosoftFinal release2012 (v16.4.3528.0331) (November 4, 2014; 8 years ago (2014-11-04)) [ ]
+Operating systemWindows 7, Windows Server 2008 R2, Windows 8[1]TypeEmail clientNews clientFeed readerElectronic calendarLicenseFreewareWebsiteexplore.live.com/windows-live-mail 
+Windows Live Mail (formerly named Windows Live Mail Desktop, code-named Elroy[2]) was a freeware email client from Microsoft. It is the successor to Windows Mail in Windows Vista, which was the successor to Outlook Express in Windows XP and Windows 98. Windows Live Mail is designed to run on Windows 7 and Windows Server 2008 R2, but is also compatible with Windows 8[1] and Windows 10, even though Microsoft bundles a new email client, named Windows Mail, with the latter.[3]
+Since around 2013, serious problems with Windows Live Mail 2012 (but not with Windows Live Mail 2011) have been reported on various blog sites (including Microsoft forums). One problem is that deleted emails keep returning day after day.[4] Another development that caused complaints is the Live Mail Sent folder erroneously containing the name of the Sender rather than the Recipient in the To column, while omitting the sender's account name in the  Account column (as the fault only affects that folder, a workaround is to move sent items into a new folder, named - for example - "Sent 2019").[5] Discussions on the forums have provided no clear solutions to these issues.
+Windows Live Mail moved away from the older Microsoft mail programs, such as Outlook Express, which stored all e-mails comprising a folder (such as the Inbox) in a single .dbx file. In order to provide greater flexibility (and to avoid the problem where corruption of a single .dbx file could delete multiple emails), Windows Live Mail stores each email message as a separate .eml file. Only the folder structure is maintained in a single database file, using the ESE (Extensible Storage Engine) database structure, named Mail.MSMessageStore (which also holds some metadata for each .eml file on the system, so can be a huge file). The program also maintains a backup copy of that file, in the Backup sub-folder, so problems are rare. At a pinch, the Mail.MSMessageStore file can be recreated from the data in the .eml files.
+History[edit]
+Version 12 (Wave 2)[edit]
+The first version of Windows Live Mail was released on 6 November 2007. The Windows Live Mail version numbering starts at 12 because this application is an advancement of Windows Mail, not an entirely new application. Windows Live Mail is developed by the same team that wrote Windows Mail.
+Windows Live Mail has all of the features of Windows Mail. It also adds the following new features:
+Support for Web-based email accounts including Hotmail, Gmail, and Yahoo! Mail Plus.
+A different user interface which matches the other Windows Live "Wave 2" applications.
+Synchronization with Windows Live Contacts.
+Support for RSS feeds. Notable features include the ability to reply directly via email to the author of an item that appears in an RSS feed, and the ability to aggregate multiple feeds into a single folder. The RSS functionality requires Internet Explorer 7 or newer.
+Multi-line message lists.
+Emoticons can be used in emails and other functions.
+In-line spell checking.
+Separate inbox folders for different POP accounts.
+Support for sending picture files in emails through the Photo email feature, which uploads pictures to a web-based service and sends the URL and thumbnails in the mail. It can also perform basic photo correction and apply different border effects to pictures.
+Comparison with Windows Mail[edit]
+While Windows Live Mail is the successor to Windows Mail (Vista) on Windows Vista, there were several differences in functionality between Windows Live Mail and Windows Mail when it was released in 2007. These include:
+Ability to view and edit HTML email by source has been removed in Windows Live Mail
+Ability to set margins has been removed
+Scripted Stationery for Windows Live Mail 2011 is available from Cloudeight Stationery
+Locally installed help documentation is not available for Windows Live Mail
+Support for using different mailboxes with separate folders (inbox, junk and so on) was added in Windows Live Mail
+Support for DeltaSync, a proprietary protocol for access to Windows Live Hotmail email accounts, was added in Windows Live Mail
+Support for WebDAV, a HTTP-based protocol (web-based email accounts), developed for Outlook Express, was added in Windows Live Mail
+Ability to perform a full-text index-based search in Windows Live Mail if Windows Search is installed
+Version 2009 (Wave 3)[edit]
+A beta version of Windows Live Mail was released in September 2008. It features a new user interface which, like the other Windows Live "Wave 3" beta applications released at the same time, has no icons on the toolbar buttons. It also features a new calendaring function; calendar events automatically synchronize between Windows Live Mail and the Web-based Windows Live Calendar. A "beta refresh" version of Windows Live Mail was released on 15 December 2008, and this version was officially released as the final version on 8 January 2009. This was the last version to support Windows XP.[6]
+Version 2009 still contains the same MIME problem with signed mail[7] that Outlook Express has.
+Version 2011 (Wave 4)[edit]
+The first beta became available on 24 June 2010, sporting ribbons in the user interface and a calendar pane. The second beta came with a new start-up screen and other minor updates. The final version of Windows Live Mail 2011 was released on 30 September 2010, along with the Windows Live Essentials 2011 suite. It requires Windows Vista or newer; Windows XP is no longer supported.[6]
+Version 2012 (Wave 5)[edit]
+On 7 August 2012, Microsoft released a new version of Windows Essentials 2012, which included Windows Live Mail 2012. It requires Windows 7, Windows Server 2008 R2, Windows 8,[1] or Windows 10.[3] Windows Vista is no longer supported.[6]
+There are no significant differences from Windows Live Mail 2011, save the discontinuance of support for Vista and DeltaSync. The only technical difference is the replacement in Windows Live Mail 2012 of DeltaSync by Exchange ActiveSync. User forums report significant problems with the upgrade software, KB3093594, so it is recommended not to attempt to upgrade from Windows Live Mail 2011,[8][9] and there are no benefits in doing so, as both versions are identical, unless the user wishes to use Exchange ActiveSync. But by switching from Deltasync to IMAP, Windows Live Mail 2011 continues to work, without needing either Windows Live Mail 2012 or the upgrade.[10]
+Replacement[edit]
+Microsoft announced that Outlook.com was discontinuing support for Windows Live Mail during 2016[11] by discontinuing use of the DeltaSync protocol. Microsoft has positioned the Mail app (bundled with Windows 10, available in the Microsoft Store) as a replacement for it. Third party replacements for it, such as OE Classic, have also been introduced.
+Although use of DeltaSync has been discontinued on Microsoft's servers since 30 June 2016, Windows Live Mail 2011 and 2012 continue to work with Hotmail e-mail accounts by using IMAP (or, less effectively, POP3) instead of DeltaSync.[12][13] Gmail and other service providers still support DeltaSync,[14] so users can still use Windows Live Mail 2011 with non-Microsoft email accounts (but not Windows Live Mail 2012, as DeltaSync support was removed from it).
+Windows Essentials 2012, including Windows Live Mail 2012, reached end of support on 10 January 2017, and is no longer available for download from Microsoft;[15] but most of the software bundled in it or in Windows Essentials 2011, including Windows Live Mail, continues to function[16] and it can still be downloaded from Archive.org.[17][18]
+The 2011 version is also still available.[19]
+See also[edit]
+Comparison of email clients
+Comparison of feed aggregators
+Comparison of Usenet newsreaders
+Windows Live
+References[edit]
+^ a b c "Windows Essentials 2012 system requirements". Microsoft Windows Help. Microsoft. Retrieved 14 December 2015.
+^ Udezue, Oji (6 November 2007). "Windows Live Mail v1 is released!". More Than Mail blog. Microsoft. Archived from the original on 19 April 2014.
+^ a b "Download Windows Live Mail For Windows 10". Into Windows. Archived from the original on 5 January 2016.
+^ "Live Mail 2012 Can't delete emails". Retrieved 29 June 2019.
+^ "Windows Live Mail sent folder not showing recipient". Retrieved 29 June 2019.
+^ a b c "Windows Essentials download options". microsoft.com. Microsoft. Retrieved 4 May 2015.
+^ newsgroup example showing a use of both OpenPGP/MIME and S/MIME
+^ The craziness of Windows Live Mail patch KB3093594
+^ Patch KB 3093594 reported as freezing Windows
+^ "Replace DeltaSync with IMAP". Archived from the original on 28 August 2017. This reference says to use port 25 for SMTP but it may be necessary to use port 587.
+^ Soltero, Javier (5 May 2016). "Using Windows Live Mail 2012 with Outlook.com? Time to update your email application!". Office Blogs. Microsoft. Retrieved 12 September 2016.
+^ "Replace DeltaSync with IMAP". Archived from the original on 28 August 2017. This reference says to use port 25 for SMTP but you may need to use port 587.
+^ "Add your Outlook com account to another mail app".
+^ Leonhard, Woody (6 May 2016). "Microsoft to Windows Live Mail 2012 users: Switch now". InfoWorld. IDG. Retrieved 12 September 2016.
+^ "Essentials 2012 Release Notes". Support. Microsoft. 1 February 2017.
+^ Windows Essentials - Microsoft Support "We're no longer offering the Windows Essentials 2012 suite for download, but if you already have it installed it will continue to work"
+^ Windows Essentials 2012 full installer
+^ Grab an offline copy of Microsoft Windows Live Essentials
+^ Go to Windows Live Essentials Help Center, click on "Installer file links for Windows 7, Windows Vista, and Windows Server 2008", and choose a language.
+vteEmail clientsFree softwareCurrent
+Alpine
+Balsa
+Citadel/UX
+Claws Mail
+Cleancode eMail
+Cone
+Evolution
+fetchmail
+fdm
+Geary
+getmail
+GNUMail
+Gnus
+Gnuzilla
+IMP
+K-9 Mail
+KMail
+Mahogany
+Mailpile
+Mailx
+Mailx (Heirloom Project)
+Modest
+Mozilla Thunderbird
+Mulberry
+Mutt
+nmh / MH
+OfflineIMAP
+Roundcube
+SeaMonkey
+SquirrelMail
+Sylpheed
+Trojit 
+YAM
+Zimbra
+ProprietaryFreeware
+eM Client
+EmailTray
+Foxmail
+i.Scribe
+Mailbird
+Opera Mail
+Spark
+Spike
+TouchMail
+Vivaldi Mail
+Retail
+Hiri
+Bloomba/WordPerfect Mail
+Newton
+IBM Notes
+InScribe
+Apple Mail
+Mail (Windows)
+Microsoft Outlook
+Novell GroupWise
+Airmail
+Postbox
+Shareware
+Becky!
+Fort  Agent
+GyazMail
+The Bat!
+Donationware
+Pegasus Mail
+Discontinued
+cc:Mail
+Claris Emailer
+Courier
+Cyberdog
+Cyberjack
+Embrowser
+Eudora (discontinued in 2010, moved to open-source in 2018)
+Mailbox
+Microsoft Entourage
+Microsoft Internet Mail and News
+Microsoft Mail
+MINUET
+Netscape Mail
+Netscape Messenger 9
+NeXTMail
+Outlook Express
+Pine
+Pocomail
+POPmail
+Sparrow
+Turnpike
+WebSpyder
+Windows Live Mail
+Windows Messaging
+Related technologies
+SMTP
+IMAP
+JMAP
+LMTP
+POP
+Push-IMAP
+SMAP
+UUCP
+Related topics
+Email
+Unicode and email
+Category
+Comparison
+vteDigital calendarsStandards
+iCalendar
+CalDAV
+DAViCal
+Web Calendar Access Protocol
+Webcal
+Related standards:
+SyncML
+vCard
+WebDav
+Current implementations
+30 Boxes
+Any.do
+Artist Growth
+Cal (command)
+Calendar (Apple)
+Calendar (Windows)
+Cozi Central
+DAViCal
+Hiri
+EM Client
+EProductivity
+Evolution
+Google Calendar
+Holiline Reminder
+Ical (Unix)
+Kontact
+Lanyrd
+Mail (Windows)
+Meeting Maker
+Microsoft Outlook
+Web
+Outlook.com
+Lightning
+Sunbird
+Rainlendar
+Remember the Milk
+SabreDAV
+Sun Java System Calendar Server
+Oracle Communications Unified Communications Suite
+Upcoming
+Yahoo! Calendar
+Windows Live Mail
+wmCalClock
+Discontinued
+Chandler
+Ecco Pro
+HotJava Views
+Microsoft Entourage
+MobileMe
+Mozilla Calendar Project
+Now Up-to-Date
+Plan
+Sunrise Calendar
+Tempo
+Windows Mobile Device Center
+vteWindows LiveWeb services
+Microsoft account
+Outlook.com
+Microsoft OneDrive
+Developer services
+Live Connect
+DiscontinuedSoftware applications
+My Windows Phone
+Essentials
+Family Safety
+Mail
+Movie Maker
+Photo Gallery
+Writer
+Messenger
+Admin Center
+Agents
+Alerts
+Barcode
+Call
+Groups
+Devices
+Events
+Expo
+Favorites
+FrameIt
+Gallery
+Home
+Mesh
+OneCare
+Safety Scanner
+Personalized Experience
+QnA
+Search Center
+Shopping
+Spaces
+Toolbar
+TV
+Video Messages
+Web Messenger
+WiFi Center & Hotspot Locator
+vteNews aggregatorsClient softwareStandalone
+Akregator
+BlogBridge
+Feedreader
+Flipboard
+Genieo
+Google Currents
+Google News
+Liferea
+NetNewsWire
+Newsbeuter
+NewsFire
+QuiteRSS
+RSS Bandit
+RSS Guard
+RSSOwl
+Seesmic
+WebFetch
+Web browsers
+AOL Explorer
+Avant Browser
+Basilisk
+Camino
+iCab
+Firefox
+Flock
+GNOME Web
+Internet Explorer
+K-Meleon
+Kazehakase
+Maxthon
+Microsoft Edge
+Netscape Browser
+Netscape Navigator 9
+OmniWeb
+Opera
+Pale Moon
+Safari
+SeaMonkey
+Shiira
+Sleipnir
+Tencent Traveler
+Vivaldi
+Waterfox
+Email clients
+Apple Mail
+Claws Mail
+Gnus
+HCL Domino
+Microsoft Outlook
+Mozilla Thunderbird
+Netscape Messenger 9
+Opera Mail
+Pegasus Mail
+The Bat!
+Windows Live Mail
+Zimbra
+Plugins
+Cooliris
+Sage
+Web apps ormobile apps
+Bloglines
+CommaFeed
+Daylife
+Digg Reader
+Drupal
+Feedbin
+Feedly
+FriendFeed
+Google News
+Google Reader
+iGoogle
+dotCMS
+Imooty.eu
+Inoreader
+LinkedIn Pulse
+Magnolia
+My Yahoo!
+News360
+NewsBlur
+Newsknowledge
+Netvibes
+Pageflakes
+Planet
+Rojo.com
+Prismatic
+Spokeo
+The Old Reader
+Tiny Tiny RSS
+TweetDeck
+WebGUI
+Windows Live Personalized Experience
+winnowTag
+Media aggregatorsPodcast client
+Adobe Media Player
+Akregator
+Amarok
+Flock
+iTunes
+Juice
+MediaMonkey
+Miro
+Rhythmbox
+Songbird
+Winamp
+Zune
+RSS + BitTorrent
+BitLord
+BitTorrent 6
+Deluge
+Miro
+Opera Mail
+qBittorrent
+Tribler
+ Torrent
+Vuze
+Related articles
+Comparison of feed aggregators
+History of media aggregation
+RSS enclosure
+Italics indicate discontinued software.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Windows_Live_Mail&oldid=1147169539"

@@ -1,0 +1,665 @@
+SoftwareThis article is about the Microsoft Windows component. For the installation of the operating system itself, see Windows Setup.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Windows Installer" news  newspapers  books  scholar  JSTOR (May 2020) (Learn how and when to remove this template message)
+Windows InstallerHelp screen of Windows Installer 5.0 running on Windows 11.Developer(s)MicrosoftInitial release31 August 1999; 23 years ago (1999-08-31)Final release5.0
+   / 22 July 2009; 13 years ago (2009-07-22)[1]
+Operating systemMicrosoft WindowsPlatformIA-32, x86-64, ARM32, ARM64, ItaniumIncluded withWindows 2000 and laterTypeInstallerLicenseFreewareWebsitedocs.microsoft.com/en-us/windows/win32/msi/windows-installer-portal 
+Windows Installer Package[2]Filename extension
+.msi, .mspInternet media type
+application/x-ole-storageDeveloped byMicrosoftType of formatArchiveContainer forInstallation information and an optional .cab file payloadExtended fromCOM Structured StorageOpen format?No
+Windows Installer (msiexec.exe, previously known as Microsoft Installer,[3] codename Darwin)[4][5] is a software component and application programming interface (API) of Microsoft Windows used for the installation, maintenance, and removal of software. The installation information, and optionally the files themselves, are packaged in installation packages, loosely relational databases structured as COM Structured Storages and commonly known as "MSI files", from their default filename extensions. The packages with the file extensions mst contain Windows Installer "Transformation Scripts", those with the msm extensions contain "Merge Modules" and the file extension pcp is used for "Patch Creation Properties".[6] Windows Installer contains significant changes from its predecessor, Setup API. New features include a GUI framework and automatic generation of the uninstallation sequence.  Windows Installer is positioned as an alternative to stand-alone executable installer frameworks such as older versions of InstallShield and NSIS.
+Before the introduction of Microsoft Store (then named Windows Store), Microsoft encouraged third parties to use Windows Installer as the basis for installation frameworks, so that they synchronize correctly with other installers and keep the internal database of installed products consistent. Important features such as rollback and versioning depend on a consistent internal database for reliable operation. Furthermore, Windows Installer facilitates the principle of least privilege by performing software installations by proxy for unprivileged users.
+Logical structure of packages[edit]
+A package describes the installation of one or more full products and is universally identified by a GUID. A product is made up of components, grouped into features. Windows Installer does not handle dependencies between products.
+Products[edit]
+A single, installed, working program (or set of programs) is a product. A product is identified by a unique GUID (the ProductCode property) providing an authoritative identity throughout the world. The GUID, in combination with the version number (ProductVersion property), allows for release management of the product's files and registry keys.
+A package includes the package logic and other metadata that relates to how the package executes when running. For example, changing an EXE file in the product may require the ProductCode or ProductVersion to be changed for the release management. However, merely changing or adding a launch condition (with the product remaining exactly the same as the previous version) would still require the PackageCode to change for release management of the MSI file itself.
+Features[edit]
+A feature is a hierarchical group of components. A feature may contain any number of components and other sub-features. Smaller packages can consist of a single feature. More complex installers may display a "custom setup" dialog box, from which the user can select which features to install or remove.
+The package author defines the product features. A word processor, for example, might place the program's core file into one feature, and the program's help files, optional spelling checker and stationery modules into additional features.
+Components[edit]
+A component is the basic unit of a product. Each component is treated by Windows Installer as a unit. The installer cannot install just part of a component.[7] Components can contain program files, folders, COM components, registry keys, and shortcuts. The user does not directly interact with components.
+Components are identified globally by GUIDs; thus the same component can be shared among several features of the same package or multiple packages, ideally through the use of Merge Modules.
+Key paths[edit]
+A key path is a specific file, registry key, or ODBC data source that the package author specifies as critical for a given component. Because a file is the most common type of key path, the term key file is commonly used. A component can contain at most one key path; if a component has no explicit key path, the component's destination folder is taken to be the key path. When an MSI-based program is launched, Windows Installer checks the existence of key paths. If there is a mismatch between the current system state and the value specified in the MSI package (e.g., a key file is missing), the related feature is re-installed. This process is known as self-healing or self-repair. No two components should use the same key path.
+Developing installer packages[edit]
+Creating an installer package for a new application is not trivial. It is necessary to specify which files must be installed, to where and with what registry keys. Any non-standard operations can be done using Custom Actions, which are typically developed in DLLs. There are a number of commercial and freeware products to assist in creating MSI packages, including Visual Studio (natively up to VS 2010,[8] with an extension on newer VS versions[9]), InstallShield and WiX. To varying degrees, the user interface and behavior may be configured for use in less common situations such as unattended installation. Once prepared, an installer package is "compiled" by reading the instructions and files from the developer's local machine, and creating the .msi file.
+The user interface (dialog boxes) presented at the start of installation can be changed or configured by the setup engineer developing a new installer. There is a limited language of buttons, text fields and labels which can be arranged in a sequence of dialogue boxes. An installer package should be capable of running without any UI, for what is called "unattended installation".
+ICE validation[edit]
+Microsoft provides a set of Internal Consistency Evaluators (ICE) that can be used to detect potential problems with an MSI database.[10] The ICE rules are combined into CUB files, which are stripped-down MSI files containing custom actions that test the target MSI database's contents for validation warnings and errors. ICE validation can be performed with the Platform SDK tools Orca and msival2, or with validation tools that ship with the various authoring environments.
+For example, some of the ICE rules are:
+ICE09: Validates that any component destined for the System folder is marked as being permanent.
+ICE24: Validates that the product code, product version, and product language have appropriate formats.
+ICE33: Validates that the Registry table is not used for data better suited for another table (Class, Extension, Verb, and so on).
+Addressing ICE validation warnings and errors is an important step in the release process.
+Versions[edit]
+Version
+Included with[1]
+Also available for
+1.0
+Office 2000
+ 
+1.1
+Windows 2000 RTM, SP1, SP2
+Office XP[11]
+Windows 95, Windows 98Windows NT 4.0
+1.2
+Windows Me
+ 
+2.0
+Windows XP RTM, SP1Windows 2000 SP3, SP4Windows Server 2003 RTM
+Windows 9xWindows NT 4.0Windows 2000
+3.0
+Windows XP SP2
+Windows 2000 with at least SP3Windows XPWindows Server 2003
+3.1
+Windows XP SP3Windows Server 2003 SP1, SP2Windows XP Professional x64 Edition
+Windows 2000 with at least SP3Windows XPWindows Server 2003
+4.0
+Windows Vista RTM, SP1Windows Server 2008 RTM
+ 
+4.5[12]
+Windows Vista SP2Windows Server 2008 SP2
+Windows XP with at least SP2Windows Server 2003 with at least SP1Windows XP Professional x64 EditionWindows VistaWindows Server 2008[13]
+5.0
+Windows 7 and laterWindows Server 2008 R2 and later
+ 
+See also[edit]
+APPX   Software package format used on Microsoft's Windows Store
+App-V   Software package format used for virtualization and streaming
+.exe
+List of installation software
+Package management system
+Windows Installer CleanUp Utility
+Windows Package Manager
+ZAP file   a way to perform an application installation when no MSI file exists
+References[edit]
+^ a b "Released Versions of Windows Installer". Microsoft Developer Network. Microsoft. Retrieved 3 November 2012.
+^ "File Extension .MSI Details". Filext.com. Retrieved 2013-04-24.
+^ Mensching, Rob (2003-11-25). "Inside the MSI file format". MSDN Blogs. Archived from the original on 2009-01-15. Retrieved 2017-02-15.
+^ Mensching, Rob (2003-10-11). "The story of Orca". MSDN Blogs. Archived from the original on 2008-12-23. Retrieved 2017-02-15.
+^ Smith, Chris (2005-07-01). "Windows Installer, The .NET Framework, The Bootstrapper, and You". MSDN Blogs. Retrieved 2017-02-15.
+^ Stewart, Heath (2006-02-27). "Identifying Windows Installer File Types". Retrieved 2020-04-22.
+^ "Windows Installer Components". MSDN Library. Microsoft Corporation. 2012-11-30. Retrieved 2013-04-08.
+^ Hodges, Buck (2011-03-17). "Visual Studio setup projects (vdproj) will not ship with future versions of VS". MSDN Blogs. Retrieved 2020-02-04.
+^ "Visual Studio Installer Projects Extension". Visual Studio Blog. 2014-04-17. Retrieved 2020-02-04.
+^ Internal Consistency Evaluators   ICEs
+^ "Applying Full-File Updates to Client Computers". Microsoft. March 9, 2004. Archived from the original on April 10, 2004.
+^ What's New in Windows Installer 4.5
+^ "Released Versions of Windows Installer (Windows)". Msdn.microsoft.com. 2012-11-30. Retrieved 2013-04-24.
+External links[edit]
+Official website 
+vteMicrosoft Windows components
+APIs
+Architecture
+9x
+NT
+Booting process
+9x
+NT
+Games
+Managementtools
+App Installer
+Command Prompt
+Control Panel
+Device Manager
+Disk Cleanup
+Drive Optimizer
+Driver Verifier
+DirectX Diagnostic Tool
+Event Viewer
+IExpress
+Management Console
+Netsh
+Performance Monitor
+Recovery Console
+Resource Monitor
+Settings
+Sysprep
+System Configuration
+System File Checker
+System Information
+System Policy Editor
+System Restore
+Task Manager
+Windows Error Reporting
+Windows Ink
+Windows Installer
+PowerShell
+Windows Update
+Windows Insider
+WinRE
+WMI
+Apps
+3D Viewer
+Clock
+Calculator
+Calendar
+Camera
+Character Map
+Clipchamp
+Cortana
+Edge
+Fax and Scan
+Feedback Hub
+Get Help
+Magnifier
+Mail
+Maps
+Messaging
+Media Player
+Windows 11
+Movies & TV
+Mobility Center
+Money
+Narrator
+Notepad
+OneDrive
+OneNote
+Paint
+Paint 3D
+People
+Phone Link
+Photos
+Quick Assist
+Snipping Tool
+Speech Recognition
+Skype
+Sports
+Start
+Sticky Notes
+Store
+Tips
+Voice Recorder
+Weather
+WordPad
+Xbox
+Shell
+Action Center
+Aero
+AutoPlay
+AutoRun
+ClearType
+Explorer
+Search
+Indexing Service
+IFilter
+Saved search
+Namespace
+Special folder
+Start menu
+Taskbar
+Task View
+Windows spotlight
+Windows XP visual styles
+Services
+Service Control Manager
+BITS
+CLFS
+Multimedia Class Scheduler
+Shadow Copy
+Task Scheduler
+Error Reporting
+Wireless Zero Configuration
+File systems
+CDFS
+DFS
+exFAT
+IFS
+FAT
+NTFS
+Hard link
+links
+Mount Point
+Reparse point
+TxF
+EFS
+ReFS
+UDF
+Server
+Active Directory
+Domains
+DNS
+Group Policy
+Roaming user profiles
+Folder redirection
+Distributed Transaction Coordinator
+MSMQ
+Windows Media Services
+Active DRM Services
+IIS
+WSUS
+SharePoint
+Network Access Protection
+PWS
+DFS Replication
+Print Services for UNIX
+Remote Desktop Services
+Remote Differential Compression
+Remote Installation Services
+Windows Deployment Services
+System Resource Manager
+Hyper-V
+Server Core
+Architecture
+Boot Manager
+Console
+CSRSS
+Desktop Window Manager
+Portable Executable
+EXE
+DLL
+Enhanced Write Filter
+Graphics Device Interface
+Hardware Abstraction Layer
+I/O request packet
+Imaging Format
+Kernel Transaction Manager
+Library files
+Logical Disk Manager
+LSASS
+MinWin
+NTLDR
+Ntoskrnl.exe
+Object Manager
+Open XML Paper Specification
+Registry
+Resource Protection
+Security Account Manager
+Server Message Block
+Shadow Copy
+SMSS
+System Idle Process
+USER
+WHEA
+Winlogon
+WinUSB
+Security
+Security and Maintenance
+AppLocker
+BitLocker
+Credential Guard
+Data Execution Prevention
+Defender
+Family features
+Kernel Patch Protection
+Mandatory Integrity Control
+Protected Media Path
+User Account Control
+User Interface Privilege Isolation
+Windows Firewall
+Compatibility
+COMMAND.COM
+Windows Subsystem for Linux
+WoW64
+API
+Active Scripting
+WSH
+VBScript
+JScript
+COM
+ActiveX
+ActiveX Document
+COM Structured storage
+DCOM
+OLE
+OLE Automation
+Transaction Server
+DirectX
+Native
+.NET
+Universal Windows Platform
+WinAPI
+Windows Mixed Reality
+Windows Runtime
+WinUSB
+Games
+Solitaire Collection
+Surf
+DiscontinuedGames
+3D Pinball
+Chess Titans
+FreeCell
+Hearts
+InkBall
+Hold 'Em
+Purble Place
+Spider Solitaire
+Solitaire
+Tinker
+Apps
+ActiveMovie
+Anytime Upgrade
+Address Book
+Backup and Restore
+Cardfile
+CardSpace
+CD Player
+Chat
+Contacts
+Desktop Gadgets
+Diagnostics
+DriveSpace
+DVD Maker
+Easy Transfer
+Fax
+Food & Drink
+Groove Music
+Help and Support Center
+Health & Fitness
+HyperTerminal
+Imaging
+Internet Explorer
+Journal
+Media Center
+Meeting Space
+Messaging
+Messenger
+Mobile Device Center
+Movie Maker
+MSN Dial-up
+NetMeeting
+NTBackup
+Outlook Express
+Pay
+Phone Companion
+Photo Gallery
+Photo Viewer
+Program Manager
+Steps Recorder
+Syskey
+Travel
+WinHelp
+Write
+Others
+ScanDisk
+File Protection
+Media Control Interface
+MS-DOS 7
+Next-Generation Secure Computing Base
+POSIX subsystem
+HPFS
+Interix
+Video for Windows
+Virtual DOS machine
+Windows on Windows
+Windows SideShow
+Windows Services for UNIX
+Windows System Assessment Tool
+Windows To Go
+WinFS
+Spun off toMicrosoft Store
+DVD Player
+File Manager
+Hover!
+Mahjong
+Minesweeper
+ Category
+ List
+vteWindows command-line programs and shell builtins
+COMMAND.COM
+Command Prompt
+Windows PowerShell
+Recovery Console
+File system navigation
+cd (chdir)
+dir
+popd
+pushd
+tree
+File management
+attrib
+cacls
+cipher
+compact
+copy
+del (erase)
+deltree
+icacls
+mkdir (md)
+mklink
+move
+openfiles
+recover
+ren (rename)
+replace
+rmdir (rd)
+robocopy
+takeown
+xcopy
+Archiving
+expand
+extrac32
+extract
+makecab
+pax
+tar
+Disk management
+chkdsk
+convert
+defrag
+diskcomp
+diskcopy
+diskpart
+diskraid
+diskshadow
+drvspace
+fdisk
+format
+fsutil
+label
+manage-bde
+refsutil
+subst
+scandisk
+sys
+vol
+vssadmin
+Processes
+at
+exit
+kill
+powercfg
+runas
+sc
+schtasks
+shutdown
+start
+taskkill
+tasklist
+Registry
+assoc
+ftype
+reg
+regini
+regsvr32
+User environment
+chcp
+cmdkey
+date
+graftabl
+mode
+path
+set
+setver
+setx
+time
+title
+ver
+where
+whoami
+File contents
+comp
+edit
+edlin
+fc
+find
+findstr
+print
+type
+Scripting
+choice
+clip
+cscript
+doskey
+echo
+for
+forfiles
+goto
+if
+more
+pause
+prompt
+rem
+timeout
+Networking
+arp
+bitsadmin
+curl
+getmac
+hostname
+ipconfig
+nbtstat
+net
+netsh
+netstat
+nslookup
+PathPing
+ping
+rpcping
+route
+scp
+setspn
+sftp
+ssh
+ssh-add
+ssh-agent
+ssh-keygen
+ssh-keyscan
+tracert
+winrm
+winrs
+Maintenance and care
+auditpol
+dispdiag
+driverquery
+eventcreate
+eventtriggers
+logman
+mofcomp
+msiexec
+ntbackup
+pnpunattend
+pnputil
+REAgentC
+relog
+sfc
+sxstrace
+systeminfo
+tracerpt
+typeperf
+w32tm
+WBAdmin
+wecutil
+wevtutil
+winmgmt
+winsat
+wmic
+Boot management
+bcdedit
+bootcfg
+bootsect
+fixboot
+fixmbr
+Software development
+debug
+exe2bin
+QBasic
+Miscellaneous
+break
+cls
+dism
+dpath
+gpresult
+gpupdate
+help
+MSCDEX
+pentnt
+tpmtool
+tpmvscmgr
+wsl
+List of DOS commands
+Environment variables
+Windows Support Tools
+vteArchive formatsArchiving only
+ar
+cpio
+shar
+tar
+LBR
+Compression only
+Brotli
+bzip2
+compress
+gzip
+Zopfli
+LZMA
+LZ4
+lzip
+lzop
+SQ
+xz
+Zstandard
+Archiving and compression
+7z
+ACE
+ARC
+ARJ
+B1
+Cabinet
+cfs
+cpt
+dar
+DGCA
+.dmg
+.egg
+kgb
+LHA
+LZX
+MPQ
+PEA
+RAR
+rzip
+sit
+sitx
+SQX
+UDA
+Xar
+zoo
+ZIP
+ZPAQ
+Software packaging and distribution
+apk
+APPX
+deb
+Package (macOS)
+RPM
+MSI
+ipa
+JAR
+WAR
+Java RAR
+EAR
+XAP
+XBAP
+HAP (.app)
+Document packaging and distribution
+OEB Package Format
+OEBPS Container Format
+Open Packaging Conventions
+PAQ
+Comparison
+List
+ Category
+Authority control: National 
+Germany
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Windows_Installer&oldid=1140602620"

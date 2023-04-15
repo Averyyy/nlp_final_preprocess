@@ -1,0 +1,153 @@
+Typographical symbol ( )
+  redirects here. For similar symbols, see circle symbol (disambiguation) and degree (disambiguation)
+ Degree symbolIn UnicodeU+00B0   DEGREE SIGN (&deg;)Different fromDifferent fromU+00BA   MASCULINE ORDINAL INDICATORRelatedSee alsoU+2103   DEGREE CELSIUSU+2109   DEGREE FAHRENHEIT
+The degree symbol or degree sign,  , is a glyph or symbol that is used, among other things, to represent degrees of arc (e.g. in geographic coordinate systems), hours (in the medical field), degrees of temperature or alcohol proof. The symbol consists of a small superscript circle.
+History[edit]
+The word degree is equivalent to Latin gradus which, since the medieval period, could refer to any stage in a graded system of ranks or steps. The number of the rank in question was indicated by ordinal numbers, in abbreviation with the ordinal indicator (a superscript o).
+Use of "degree" specifically for the degrees of arc, used in conjunction with Arabic numerals, became common in the 16th century, but this was without the use of an ordinal marker or degree symbol.
+Similarly, the introduction of the temperature scales with degrees in the 18th century was at first without such symbols, but with the word "gradus" spelled out. Use of the degree symbol was introduced for temperature in the later 18th century and became widespread in the early 19th century.
+Antoine Lavoisier in his "Opuscles physiques et chymiques" (1774) used the ordinal indicator with Arabic numerals   for example, when he wrote in the introduction:
+... une suite d'Exp riences [...] 1o. sur l'existence du m me fluide  lastique [...] (p. vi)
+(... a series of experiments [...] firstly, on the existence of that same elastic fluid [...])
+The 1o. is to be read as primo meaning "in the first place", followed by 2o.  ("in the second place"), etc. In the same work, when Lavoisier gives a temperature, he spells out the word "degree" explicitly, for example (p. 194): une temperature de 16   17 d gr s du thermom tre ("a temperature of 16 to 17 degrees of the thermometer").
+An early use of the degree symbol proper is that by Henry Cavendish in 1776 for degrees of the Fahrenheit scale.[1]
+The degree symbol for degrees of temperature appears to have been transferred to the use for degrees of arc early in the 19th century. An early textbook using this notation is Charles Hutton, "A Course of Mathematics" vol. 1 (1836), page 383.
+An earlier convention is found in Conrad Malte-Brun, "Universal Geography" vol. 1 (1827), where degrees of arc are abbreviated with a superscript "d" (alongside a superscript "m" for minutes of arc).
+Typography[edit]
+In the case of degrees of angular arc, the degree symbol follows the number without any intervening space, e.g. 30 . The addition of minute and second of arc follows the degree units, with intervening spaces (optionally, non-breaking space) between the sexagesimal degree subdivisions but no spaces between the numbers and units, for example 30 12 5 .
+In the case of degrees of temperature, three scientific and engineering standards bodies (the International Bureau of Weights and Measures, the International Organization for Standardization and the U.S. Government Printing Office) prescribe printing temperatures with a space between the number and the degree symbol, e.g. 10 C.[2][3] However, in many works with professional typesetting, including scientific works published by the University of Chicago Press or Oxford University Press, the degree symbol is printed with no spaces between the number, the symbol, and the Latin letters "C" or "F" representing Celsius or Fahrenheit, respectively, e.g. 10 C.[4][5] This is also the practice of the University Corporation for Atmospheric Research, which operates the National Center for Atmospheric Research.[6] Both ASTM International and NIST, the official US entities related to the standardization of the use of units, require a space between the numerical value and the unit designator,[7] except when the degree symbol alone is used to denote an angular value.
+Use of the degree symbol to refer to temperatures measured in kelvins (symbol: K) was abolished in 1967 by the 13th General Conference on Weights and Measures (CGPM). Therefore, the triple point of water, for instance, is written simply as 273.16 K. The name of the SI unit of temperature is now "kelvin", in lower case, and no longer "degrees Kelvin".
+In photography, the symbol is used to denote logarithmic film speed grades. In this usage, it follows the number without spacing as in 21 DIN, 5 ASA or ISO 100/21 .
+Encoding[edit]
+The degree symbol is included in Unicode as U+00B0   DEGREE SIGN (&deg;).
+For use with Chinese characters there are also code points for U+2103   DEGREE CELSIUS and U+2109   DEGREE FAHRENHEIT.
+The degree sign was missing from the basic 7-bit ASCII set of 1963, but in 1987 the ISO/IEC 8859 standard introduced it at position 0xB0 (176 decimal) in all variants except Part 5 (Cyrillic), 6 (Arabic), 7 (Greek) and 11 (Thai). In 1991 the Unicode standard incorporated all of the ISO/IEC 8859 code points, including the degree sign (at U+00B0)..
+The Windows Code Page 1252 was also an extension of ISO/IEC 8859-1 (Part 1 or Latin-1) standard, so it had the degree sign at the same code point, 0xB0.
+The code point in the older DOS Code Page 437 was 0xF8 (248 decimal); therefore, the Alt code used to enter the symbol directly from the keyboard is Alt+248.
+Lookalikes[edit]
+Other characters with similar appearance but different meanings include:
+U+00BA   MASCULINE ORDINAL INDICATOR (&ordm;) (indicator used in Italian, Spanish and Portuguese that follows a numeral denoting that it is an ordinal number, rather than a cardinal number;  varies with the font and sometimes underlined)
+U+1D52   MODIFIER LETTER SMALL O (superscript letter o)
+U+02DA   RING ABOVE (&ring;) (standalone)
+U+030A   COMBINING RING ABOVE (applied to a letter)
+U+0325   COMBINING RING BELOW (applied to a letter)
+U+0366   COMBINING LATIN SMALL LETTER O (applied to a letter)
+U+309C   KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK (standalone)
+U+309A   COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK (applied to a letter)
+(precomposed characters containing this mark also exists)
+U+18DE   CANADIAN SYLLABICS FINAL SMALL RING (stand alone, typically representing either  w  or  y )
+(precomposed characters containing this mark also exists)
+U+2070   SUPERSCRIPT ZERO
+U+2080   SUBSCRIPT ZERO
+U+2218   RING OPERATOR (&compfn;, &SmallCircle;)
+U+29B5   CIRCLE WITH HORIZONTAL BAR (&ohbar;) (used in superscripted form,  , to mean standard state (chemistry))
+U+1BC85   DUPLOYAN AFFIX HIGH CIRCLE
+U+1BC95   DUPLOYAN AFFIX LOW CIRCLE
+U+26AC   MEDIUM SMALL WHITE CIRCLE
+Keyboard entry[edit]
+Some computer keyboard layouts, such as the QWERTY layout as used in Italy, the QWERTZ layout as used in Germany, Austria and Switzerland, and the AZERTY layout as used in France and Belgium, have the degree symbol available directly on a key. But the common keyboard layouts in English-speaking countries do not include the degree sign, which then has to be input some other way. The method of inputting depends on the operating system being used.
+On the Colemak keyboard layout (Windows/Mac), one can press AltGr+\ followed by D to insert a degree sign. On Linux, one can press AltGr+K twice to insert a degree sign.
+Desktop Operating Systems[edit]
+With Microsoft Windows, there are several ways to make the degree symbol:
+One can type Alt+248 or Alt+0176Note: "0176" is different from "176"; Alt+176 produces the light shade ( ) character.Note: The NumLock must be set first; on full size keyboards, the numeric keypad must be used; on laptops without a numerical keypad, the virtual numeric keypad must be used (often requiring that the Fn key be held down as the numeric sequence is typed).
+The Character Map tool also may be used to obtain a graphical menu of symbols.
+The US-International English keyboard layout creates the degree symbol with AltGr+  Shift+;
+In the classic Mac OS and macOS operating systems, the degree symbol can be entered by typing   Opt+  Shift+8.  One can also use the Mac OS character palette,[8] which is available in many programs by selecting Special Characters from the Edit Menu, or from the 'Input Menu' (flag) icon on the menu bar (enabled in the International section of the System Preferences).[9]
+In Linux operating systems such as Ubuntu, this symbol may be entered via the Compose key followed by o, o. Some keyboard layouts display this symbol upon pressing AltGr+  Shift+0 (once or twice, depending on specific keyboard layout), and, in programs created by GTK+, one can enter Unicode characters in any text entry field by first pressing Ctrl+  Shift+U+Unicode code point, regardless of keyboard layout. For the degree symbol, this is done by entering Ctrl+  Shift+U B0 (where the last key is the number zero) followed by a space.
+For ChromeOS, use the Unicode entry method Ctrl+  Shift+U then 00B0 then space or return; with the UK extended layout, use AltGr+  Shift+0.
+Mobile Operating Systems[edit]
+In iOS, the degree symbol is accessed by pressing and holding 0 and dragging a finger to the degree symbol. This procedure is the same as entering diacritics on other characters.
+In Android, switch to numbers ?123 then symbols =\<. The degrees symbol is found on the second row.
+Software-specific[edit]
+In Microsoft Office and similar programs, there is often also an Insert menu with an Insert Symbol or Symbol command that brings up a graphical palette of symbols to insert, including the degree symbol. As with the CharMap app, the table is arranged in Unicode order. Alternatively, the alt code technique may be used, as described above.
+In LaTeX, the packages gensymb and textcomp provide the commands \degree and \textdegree, respectively. In the absence of these packages one can write the degree symbol as ^{\circ} in math mode.  In other words, it is written as the empty circle glyph circ as a superscript.
+In AutoCAD it is available as a shortcut string %%d.
+See also[edit]
+List of typographical symbols and punctuation marks
+Prime (symbol)
+Question mark
+Unicode Geometric Shapes
+References[edit]
+^ cited in Nairne, Edward (1777). "An Account of some Experiments made with an Air-pump on Mr. Smeaton's Principle; together with some Experiments with a common Air-pump". Philos. Trans. 67: 622. doi:10.1098/rstl.1777.0033. S2CID 186211211.
+^ The International System of Units (PDF) (8th ed.), Bureau International des Poids et Mesures, 2006
+^ Style Manual (PDF) (30th ed.), United States Government Printing Office, 2008
+^ 9.16 Abbreviations and symbols, Chicago Manual of Style (15th ed.), University of Chicago, 2010
+^ 10.52 Miscellaneous technical abbreviations, Chicago Manual of Style (15th ed.), University of Chicago, 2010
+^ UCAR, UCAR Communications Style Guide, archived from the original on 2007-03-11, retrieved 2007-09-01
+^ Thompson, A.; Taylor, B. N. (March 4, 2020). "NIST Guide to the SI, Chapter 7: Rules and Style Conventions for Expressing Values of Quantities". Special Publication 811 | The NIST Guide for the use of the International System of Units. National Institute of Standards and Technology. Retrieved October 25, 2021.
+^ "How to use emoji, accents and symbols on your Mac". apple.com. January 29, 2020. Retrieved 2 March 2020.
+^ "(unknown title)". apple.com. Archived from the original on 2012-05-31. Retrieved 2021-12-27.
+External links[edit]
+Earliest Uses of Symbols from Geometry
+vtePunctuation marks and other typographical marks or symbols
+ space 
+ , comma 
+ : colon 
+ ; semicolon 
+ hyphen 
+ ' apostrophe 
+ prime 
+ . full stop 
+ & ampersand 
+ @ at sign 
+ ^ caret 
+ / slash 
+ \ backslash 
+ ellipsis 
+ * asterisk 
+ asterism 
+ * * * dinkus 
+ - hyphen-minus 
+ dash 
+ = double hyphen 
+ ? question mark 
+ ! exclamation mark 
+ interrobang 
+ inverted ! and ? 
+ irony punctuation 
+ # number sign 
+ numero sign 
+ ordinal indicator 
+ % percent sign 
+ per mille 
+ basis point 
+ degree symbol 
+ diameter sign 
+ + plus and minus signs 
+ multiplication sign 
+ division sign 
+ ~ tilde 
+ plus minus sign 
+ _ underscore 
+ tie 
+ | vertical bar 
+ bullet 
+ interpunct 
+ copyright symbol 
+ copyleft 
+ sound recording copyright 
+ registered trademark 
+ SM service mark symbol 
+ TM trademark symbol 
+ ' ' " " quotation mark 
+ guillemet 
+ ( ) [ ] { } bracket 
+ ditto mark 
+ dagger 
+ hedera/floral heart 
+ manicule 
+ lozenge 
+ pilcrow (paragraph mark) 
+ reference mark 
+ section mark 
+Version of this table as a sortable list
+Currency symbols
+Diacritics (accents)
+Logic symbols
+Math symbols
+Whitespace
+Chinese punctuation
+Hebrew punctuation
+Japanese punctuation
+Korean punctuation
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Degree_symbol&oldid=1149051999"

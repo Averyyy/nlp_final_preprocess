@@ -1,0 +1,473 @@
+Series of music workstations
+The Yamaha Motif is a series of music workstation synthesizers, first released by Yamaha Corporation in August 2001. The Motif replaced the EX series in Yamaha's line-up and was also based on the early Yamaha S series. Other workstations in the same class are the Korg Kronos and the Roland Fantom G. The series' successor is Yamaha Montage.
+Products[edit]
+MOTIF Classic[edit]
+Original MOTIF series, now called "MOTIF Classic", were released in four variants in 2001:
+Model
+Year
+Number of keys
+Key action
+Polyphony
+Waveform ROM
+Waveforms
+Memory
+MOTIF 6
+2001
+61
+FS (semi-weighted)
+62
+84MB
+1,309
+384 presets + 48 kits, 128 user, 128 performances, 128 master
+MOTIF 7
+2001
+76
+FS
+62
+84MB
+1,309
+384 presets + 48 kits, 128 user, 128 performances, 128 master
+MOTIF 8
+2001
+88
+Balanced hammer effect
+62
+84MB
+1,309
+384 presets + 48 kits, 128 user, 128 performances, 128 master
+MOTIF-RACK
+2001
+ 
+ 
+128
+84MB
+1,309
+640 presets + 48 kits, 256 user + 32 kits, 59 performances, 65 multis
+The balanced hammer effect action is the same action found on Yamaha S90 series keyboards.
+MOTIF Rack is a sound module (with no keyboard) that is controlled by external MIDI instruments. It can be expanded with two Modular Synthesis Plug-in boards[1] but has no sampling capabilities.
+MM[edit]
+In January (2007), Yamaha introduced two "retro" models; the MM6 (61 keys) and MM8 (88 keys), both based on the original 2001 Motif sound set and samples, with polyphony greatly reduced to fit the lower specifications. This synthesizer comes default with 418 patches and 22 drum kits.
+Model
+Year
+Number of keys
+Key action
+Polyphony
+Waveform ROM
+Memory
+MM6
+2007
+61
+FS
+32
+70MB
+418 presets + 22 kits, 64 user
+MM8
+2009
+88
+GHS
+32
+70MB
+418 presets + 22 kits, 64 user
+GHS (Graded Hammer Standard) action is the same action on Yamaha's high end digital pianos.[2]
+MOTIF ES[edit]
+MOTIF ES, a successor to original MOTIF series, debuted at Summer NAMM Show in 2003:
+Model
+Year
+Number of keys
+Key action
+Polyphony[3]
+Waveform ROM
+Waveforms
+Memory
+MOTIF 6 ES
+2003
+61
+FS
+128
+175MB
+1,859
+768 presets + 64 kits, 384 user + 32 kits, 128 performances, 128 multis
+MOTIF 7 ES
+2003
+76
+FS
+128
+175MB
+1,859
+768 presets + 64 kits, 384 user + 32 kits, 128 performances, 128 multis
+MOTIF 8 ES
+2003
+88
+Balanced hammer effect
+128
+175MB
+1,859
+768 presets + 64 kits, 384 user + 32 kits, 128 performances, 128 multis
+MOTIF-RACK ES[4]
+2003
+ 
+ 
+128
+175MB
+1,859
+768 presets + 64 kits, 384 user + 32 kits, 128 performances, 128 multis
+MO[edit]
+In January 2006, Yamaha launched two entry-level variants of the MOTIF ES - the 61 key MO6 and 88 key MO8. Though containing half the polyphony and fewer preset sound programs, these models contain all the MOTIF ES sample sets, along with arpeggios and a song and pattern sequencer. Lacking are the professional MOTIF ES features such as mLAN connectivity, Yamaha PLG integration, sampling and multiple foot controllers.
+Model
+Year
+Number of keys
+Key action
+Polyphony
+Waveform ROM
+Waveforms
+Memory
+MO 6
+2006
+61
+FS
+64
+175MB
+1,859
+768 presets + 64 kits, 384 user + 32 kits, 128 performances, 128 multis
+MO 8
+2006
+88
+Balanced hammer effect
+64
+175MB
+1,859
+768 presets + 64 kits, 384 user + 32 kits, 128 performances, 128 multis
+MOTIF XS[edit]
+The XS versions were announced at NAMM 2007:
+Model
+Year
+Number of keys
+Key action
+Polyphony
+Waveform ROM
+Waveforms
+Memory
+MOTIF XS6
+2007
+61
+FSX
+128
+355MB
+2,670
+1,024 presets + 65 kits, 384 user + 32 kits, 384 performances
+MOTIF XS7[5]
+2007
+76
+FSX
+128
+355MB
+2,670
+1,024 presets + 65 kits, 384 user + 32 kits, 384 performances
+MOTIF XS8
+2007
+88
+Balanced hammer effect
+128
+355MB
+2,670
+1,024 presets + 65 kits, 384 user + 32 kits, 384 performances
+MOTIF-RACK XS[6]
+2008
+ 
+ 
+128
+355MB
+2,670
+1,024 presets + 65 kits, 384 user + 32 kits, 128 multis
+MOTIF has a mLAN connection for transferring MIDI and sound to a PC.
+The MOTIF XS operating system is based on MontaVista Linux.[7][8][9]
+MOX[edit]
+In 2011, Yamaha introduced an entry-level variant of the MOTIF XS: the 61-key MOX6 and 88-key MOX8. Though containing half the polyphony and fewer insert effects of the XS, the MoX series contains all the MOTIF XS Wave ROM and voice presets, along with arpeggios and a song and pattern sequencer. The number of performances in the MoX is reduced to 256. The MoX does not support user sampling, nor does it support the mLAN/FireWire expansion. The MoX feature a built-in 4-out/2-in USB audio interface users can use to record audio directly from the keyboard or an outside source to a computer, as well as play and control VST instruments directly through the keyboard via USB.
+Model
+Year
+Number of keys
+Key action
+Polyphony
+Waveform ROM
+Waveforms
+Memory
+MOX6
+2011
+61[10]
+FS
+64
+355MB
+2,670
+1,024 presets + 64 Kits, 384 user + 32 kits, 256 performances, 128 multis
+MOX8
+2011
+88
+GHS
+64
+355MB
+2,670
+1,024 presets + 64 Kits, 384 user + 32 kits, 256 performances, 128 multis
+MX[edit]
+The current version of the entry-level Motif lineup, also based on the soundset of the Motif XS. It features the same voices as the XS, although with less WaveROM (166 MB vs. the XS's 355 MB), fewer performances (128), fewer arpeggios (999), and fewer editable parameters. The MX series also has no sequencer. It featured a similar USB audio/MIDI interface as the MoX series. The MX is playable in 16-part multi-timbral performance mode, configurable with the third-party Vycro editor. It is also the only keyboard in the Motif family available in a 49-key model[11] (alongside the 61-key MX61).
+A version with 88 GHS (Graded Hammer Standard) weighted keys, the MX88, was announced by Yamaha in April, 2017.
+MOTIF XF[edit]
+The XF versions were announced via www.MOTIFator.com on August 2, 2010:
+Model
+Year
+Number of keys
+Key action
+Polyphony
+Waveform ROM
+Waveforms
+Memory
+MOTIF XF6
+2010
+61
+FSX[12]
+128
+741MB
+3,977
+1,024 presets + 64 kits, 512 user + 32 kits, 512 performances
+MOTIF XF7
+2010
+76
+FSX[13]
+128
+741MB
+3,977
+1,024 presets + 64 kits, 512 user + 32 kits, 512 performances
+MOTIF XF8
+2010
+88
+Balanced hammer effect
+128
+741MB
+3,977
+1,024 presets + 64 kits, 512 user + 32 kits, 512 performances
+While the preset voices in the MOTIF XF are the same as in the previous XS model, the XF includes an extra user bank containing 128 brand new voices. Also, eight new drum kits are also included in the user bank area. The biggest addition in the XF is the 512MB / 1024MB flash memory, which users can use to instantaneously import or load samples and sounds.
+In 2014, Yamaha announced the 40th anniversary white versions of the MOTIF XF called the MOTIF XF WH Series, which are available for all three models as MOTIF XF6, MOTIF XF7 & MOTIF XF8.
+MOXF[edit]
+In 2013, Yamaha launched two 'lite' versions of the MOTIF XF - the 61-key MoXF6 and 88-key MoXF8. The MoXF series contains all the MOTIF XF WaveROM, polyphony and voice presets, along with arpeggios and a song and pattern sequencer. The MoXF does not support on-board user sampling, nor does it support the mLAN/FireWire expansion. It features one slot for a flash memory board (versus 2 on the flagship XF), allowing users to load additional sample libraries from third-party sources. The MoXF also features the same USB MIDI/audio interface seen on the MoX series.
+Model
+Year
+Number of keys
+Key action
+Polyphony
+Waveform ROM
+Waveforms
+Memory
+MOXF6
+2013
+61
+FS
+128
+741MB
+3,977
+1,152 presets + 72 Kits, 384 user + 32 kits, 256 performances
+MOXF8
+2013
+88
+GHS
+128
+741MB
+3,977
+1,152 presets + 72 Kits, 384 user + 32 kits, 256 performances
+Specifications[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2014) (Learn how and when to remove this template message)
+Comparison[edit]
+Feature
+Original MOTIF
+MOTIF ES
+MOTIF XS
+MOTIF XF
+Tone generator
+AWM2 (complying with the Modular Synthesis Plug-in System)
+AWM2 with Expanded articulations
+AWM2 with Expanded articulations
+MIDI sequencer capacity
+110,000 notes @ 480 ppq
+226,000 notes @ 480 ppq
+130,000 notes @ 480 ppq
+130,000 notes @ 480 ppq
+Polyphony voices
+64
+128
+128
+128
+Sample formats compatibility
+Original, WAV, AIFF, Yamaha A3000/A4000/A5000 (load only), Akai S1000/S3000 (load only)
+Original, WAV, AIFF, Yamaha A3000/A4000/A5000 (load only), Akai S1000/S3000 (load only)
+Original, WAV, AIFF
+Original, WAV, AIFF
+ROM size, MB
+84
+175 (converted to 16-bit linear format)
+355 (converted to 16-bit linear format)
+741 (converted to 16-bit linear format)
+MOTIF Classic[edit]
+AWM2 PCM tone generator
+110,000 note MIDI sequencer @ 480 ppqn
+Sample engine (4MB built-in, expandable up to 64MB of user RAM)
+Compatibility with common sample formats such as Akai, WAV, and AIFF
+84MB of read-only memory (ROM)
+62-voice polyphony
+MOTIF keyboards include three internal expansion slots (two on the rack-mount version). These slots allow the user to augment the instrument's soundset through the purchase of Yamaha PLG Expansion Boards. The MOTIF Classic featured 4MB of onboard sampling RAM, which could be increased to 64MB with the purchase of third party memory sticks. External connectors include a FireWire 400 port for connecting an mLAN network card; a USB 1 port for connecting the instrument to a computer via a MIDI cable OR for external storage; and a SmartMedia port for storing sequence, voice, and sample data (which requires a third-party SmartMedia card).
+MOTIF ES[edit]
+AWM2 Tone Generator (complying with the Modular Synthesis Plug-in System)
+128 note polyphony
+226,000 note MIDI sequencer @ 480 ppqn
+Audio Input ports: A/D, AIEB2, mLAN, Stereo IN
+Sounds: 175MB (when converted to 16-bit linear format), 1,859 waveforms
+All MOTIF ES synthesizers feature a selection of sounds, and use a sample-based subtractive synthesis engine. The MOTIF ES6, ES7 and ES8 feature 16 track sequencers that can use MIDI and sample tracks, and 512MB of sample memory can be fitted for completely new sounds. Physical modeling, virtual analogue synthesis, FM synthesis plus additional sample sets can be installed with Yamaha's Modular Synthesis Plug-in System (PLG boards).
+The ES models featured several improvements over the original MOTIFs, including twice the polyphony with faster envelopes, a DSP effects engine (up to 8 tracks in sequencer mode can use independent dual insert effects), USB mass storage support, 8x sample RAM expansion (up to 512 MB via twin DIMM modules), improved acoustic piano sound, and twice the storage amount for user sounds.
+The MOTIF ES range employs "Megavoice" technology from the Yamaha Tyros2. These samples utilise 'velocity switching', designed to enable greater natural expression over the sounds, expressions such as fret noise, hammer-ons, slides and ghost notes.
+MOTIF XS[edit]
+AWM2 Tone Generator
+128 note polyphony
+130,000 note MIDI sequencer @ 480 ppqn
+Connectors:
+Output L/R standard phone jack
+Assignable output standard phone jack
+A/D input
+Digital out (coaxial S/PDIF)
+Phones
+Foot controller 1,2
+Footswitch x 2 (Assignable, Sustain)
+MIDI In/Out/Thru
+USB 2.0 to Host, to Device
+AC In
+Ethernet
+mLAN (XS8 only, optional for XS6, 7)
+Sounds: 355MB (when converted to 16-bit linear format), 2,670 waveforms
+Weighted Keys
+Some improvements over the previous ES series were:
+Assignable AF1/AF2 buttons (Often defaulted to control XA)
+Larger color display
+Eight faders (four more than the ES)
+Up to eight elements (waveforms) per voice
+Expanded Articulation (XA) (e.g. being able to trigger a voice element at note-off to change the voice character)
+Ethernet connectivity
+Larger waveform ROM (more than double compared to the MOTIF ES)
+Up to 4 simultaneous arpeggios (in performance mode)
+Shipped with Cubase AI
+Direct performance recording to pattern
+The MOTIF XS is not compatible with the Yamaha PLG expansion cards.
+MOTIF XF[edit]
+AWM2 Tone Generator
+128 note polyphony
+128MB internal SDRAM (sampling memory) standard
+130,000 note MIDI sequencer @ 480 ppqn
+Connectors:
+Output L/R standard phone jack
+Assignable output standard phone jack
+A/D input
+Digital out (coaxial S/PDIF)
+Phones
+Foot controller 1,2
+Footswitch x 2 (Assignable, Sustain)
+MIDI In/Out/Thru
+USB 2.0 to Host, to Device
+AC In
+Ethernet
+FW16E (optional FireWire connectivity)
+Optional 512MB and 1024MB FLASH cards for storage of sample data (2 GB combined max)
+Sounds: 741MB (when converted to 16-bit linear format), 3,977 waveforms
+Weighted Keys
+An improvement over the MOTIF XS is the use of non-volatile flash memory for samples and sample libraries. Instead of DIMM memory modules, the XF uses proprietary flash cards. While more expensive than DIMM modules, the flash cards can permanently store sample data. The volatile DIMM modules in previous models could not store data when the unit powered off. Once initially loaded into the XF, the user doesn't have to reload sample data every time they power up the keyboard. The MOTIF XF is also the first in the MOTIF series since the MOTIF Classic to have standard internal SDRAM for sampling built into the keyboard.
+As with the MOTIF XS, the MOTIF XF is not compatible with the PLG expansion cards.
+Notable users of the keyboard include Stevie Wonder, Thomas Dolby, Gary Numan, Ron Mael, Billy Currie, Craig Burrows, Alan Parsons, John Foxx, George Duke and Mark Ronson.[citation needed]
+Timeline of series[edit]
+See also[edit]
+Yamaha PSR-3000
+Yamaha S90, Yamaha S90ES, Yamaha S90XS - (all use the Motif series engine)
+Yamaha MM6
+Yamaha MO
+References[edit]
+^ "Yamaha Motif Rack". Sound on Sound. June 2003. Archived from the original on 9 April 2015.
+^ "YAMAHA MM8". Retrieved 13 Mar 2011.
+^ "Yamaha Motif ES". Sound on Sound. January 2004. Archived from the original on 18 August 2015.
+^ "Yamaha Motif Rack ES". Sound on Sound. May 2005. Archived from the original on 6 June 2015.
+^ "Yamaha Motif XS7". Sound on Sound. October 2007. Archived from the original on 23 March 2015.
+^ "Yamaha Motif Rack XS". Sound on Sound. October 2008. Archived from the original on 10 June 2015.
+^ "Motif XS- What's New and What's the Same ? | Motifator". Archived from the original on 2011-10-06. Retrieved 2013-01-04.
+^ "Archived copy". Archived from the original on 2011-10-05. Retrieved 2013-01-04.{{cite web}}:  CS1 maint: archived copy as title (link)
+^ "Take the pain away from your new embedded project".
+^ "Yamaha MOX6". Sound on Sound. January 2012. Archived from the original on 18 March 2015.
+^ "Yamaha MX49". Sound on Sound. October 2013. Archived from the original on 6 September 2015.
+^ "Yamaha Motif XF6". Future Music. No. 234. Future Publishing. December 2010. pp. 90 1. ISSN 0967-0378. OCLC 1032779031.
+^ "Yamaha Motif XF7". Sound on Sound. January 2011. Archived from the original on 1 April 2015.
+External links[edit]
+Motifator.com
+Motif XS Video Demo on YouTube
+Yamaha Motif XS Series Keyboard Review at yamahamusician.com
+Yamaha Motif ES simplified operation tutorial Archived 2009-08-29 at the Wayback Machine
+vte Yamaha musical instrumentsSynthesizers
+AN1x
+CS-15
+CS-80
+CS1x
+CS2x
+CS30/CS30L
+Reface CS
+DX7
+DX1
+DX9
+DX11
+DX21
+DX27
+DX100
+GX-1
+PSR-550
+PSR-E323
+SHS-10
+SY22
+Tenori-on
+Tyros2
+Modules
+FS1R
+MU Series
+TG77
+TX81Z
+Samplers
+TX16W
+VSS-30
+VSS-200
+Workstations
+EX5
+Motif
+S80
+S90
+SY77
+SY85
+SY99
+V50
+YS200
+Drum machines
+DTX
+RX-5
+TMX
+PTX8
+Effects units
+D-1500
+Grooveboxes
+RM1x
+MIDI controllers
+KX-5
+WX5
+WX7
+WX11
+Music computers
+CX5M
+Sequencers
+QY10
+Organs
+GX-1
+Pianos
+CP-70
+Consumer keyboards
+PSR-550
+PSR-E323
+VSS-30
+VSS-200
+[1] (AWM versus AWM2)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Yamaha_Motif&oldid=1140299022"

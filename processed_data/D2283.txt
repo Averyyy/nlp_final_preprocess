@@ -1,0 +1,452 @@
+Standard for Ethernet networking at a data rate of 1 gigabit per second
+"GigE" redirects here. For the camera protocol, see GigE vision.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Gigabit Ethernet" news  newspapers  books  scholar  JSTOR (March 2017) (Learn how and when to remove this template message)
+ Intel PRO/1000 GT PCI network interface controller
+In computer networking, Gigabit Ethernet (GbE or 1 GigE) is the term applied to transmitting Ethernet frames at a rate of a gigabit per second. The most popular variant, 1000BASE-T, is defined by the IEEE 802.3ab standard. It came into use in 1999, and has replaced Fast Ethernet in wired local networks due to its considerable speed improvement over Fast Ethernet, as well as its use of cables and equipment that are widely available, economical, and similar to previous standards.
+History[edit]
+Ethernet was the result of research conducted at Xerox PARC in the early 1970s, and later evolved into a widely implemented physical and link layer protocol. Fast Ethernet increased the speed from 10 to 100 megabits per second (Mbit/s). Gigabit Ethernet was the next iteration, increasing the speed to 1000 Mbit/s.
+The initial standard for Gigabit Ethernet was produced by the IEEE in June 1998 as IEEE 802.3z, and required optical fiber. 802.3z is commonly referred to as 1000BASE-X, where -X refers to either -CX, -SX, -LX, or (non-standard) -ZX. (For the history behind the "X" see Fast Ethernet  Nomenclature.)
+IEEE 802.3ab, ratified in 1999, defines Gigabit Ethernet transmission over unshielded twisted pair (UTP) category 5, 5e or 6 cabling, and became known as 1000BASE-T. With the ratification of 802.3ab, Gigabit Ethernet became a desktop technology as organizations could use their existing copper cabling infrastructure.
+IEEE 802.3ah, ratified in 2004, added two more gigabit fiber standards: 1000BASE-LX10 (which was already widely implemented as vendor-specific extension) and 1000BASE-BX10. This was part of a larger group of protocols known as Ethernet in the First Mile.
+Initially, Gigabit Ethernet was deployed in high-capacity backbone network links (for instance, on a high-capacity campus network). In 2000, Apple's Power Mac G4 and PowerBook G4 were the first mass-produced personal computers to feature the 1000BASE-T connection.[1] It quickly became a built-in feature in many other computers.
+Half-duplex gigabit links connected through repeater hubs were part of the IEEE specification,[2] but the specification is not updated anymore and full-duplex operation with switches is used exclusively.
+Varieties[edit]
+ 1000BASE-T capable network interface card made by Intel, which connects to the computer via PCI-X
+There are five physical layer standards for Gigabit Ethernet using optical fiber (1000BASE-X), twisted pair cable (1000BASE-T), or shielded balanced copper cable (1000BASE-CX).
+The IEEE 802.3z standard includes 1000BASE-SX for transmission over multi-mode fiber, 1000BASE-LX for transmission over single-mode fiber, and the nearly obsolete 1000BASE-CX for transmission over shielded balanced copper cabling. These standards use 8b/10b encoding, which inflates the line rate by 25%, from 1000 Mbit/s to 1250 Mbit/s, to ensure a DC balanced signal, and allow for clock recovery. The symbols are then sent using NRZ.
+Optical fiber transceivers are most often implemented as user-swappable modules in SFP form or GBIC on older devices.
+IEEE 802.3ab, which defines the widely used 1000BASE-T interface type, uses a different encoding scheme in order to keep the symbol rate as low as possible, allowing transmission over twisted pair.
+IEEE 802.3ap defines Ethernet Operation over Electrical Backplanes at different speeds.
+Ethernet in the First Mile later added 1000BASE-LX10 and -BX10.
+Copper[edit]
+Comparison of twisted-pair-based Ethernet physical transport layers (TP-PHYs)[3]
+Name
+Standard
+Status
+Speed (Mbit/s)
+Pairs required
+Lanes per direction
+Bits per hertz
+Line code
+Symbol rate per lane (MBd)
+Bandwidth (MHz)
+Max distance (m)
+Cable
+Cable rating (MHz)
+Usage
+1000BASE T
+802.3ab-1999 (CL40)
+current
+1000
+4
+4
+4
+TCM 4D-PAM-5
+125
+62.5
+100
+Cat 5
+100
+LAN
+1000BASE-T1
+802.3bp-2016
+current
+1000
+1
+1
+2.66
+PAM-3 80B/81B RS-FEC
+750
+375
+40
+Cat 6A
+500
+Automotive, IoT, M2M
+1000BASE TX
+TIA/EIA-854 (2001)
+obsolete
+1000
+4
+2
+4
+PAM-5
+250
+125
+100
+Cat 6
+250
+Market failure
+1000BASE-T[edit]
+ Supermicro AOC-SGP-I2 dual-port Gigabit Ethernet NIC, a PCI Express  4 card
+1000BASE-T (also known as IEEE 802.3ab) is a standard for Gigabit Ethernet over copper wiring.
+Each 1000BASE-T network segment is recommended to be a maximum length of 100 meters (330 feet),[4][a] and must use Category 5 cable or better (including Cat 5e and Cat 6).
+Autonegotiation is a requirement for using 1000BASE-T[5] according to Section 28D.5 Extensions required for Clause40 (1000BASE-T).[6]  At least the clock source has to be negotiated, as one endpoint must be master and the other endpoint must be slave.
+In a departure from both 10BASE-T and 100BASE-TX, 1000BASE-T uses four lanes over all four cable pairs for simultaneous transmission in both directions through the use of echo cancellation with adaptive equalization called hybrid circuits[7] (this is like telephone hybrid) and five-level pulse-amplitude modulation (PAM-5). The symbol rate is identical to that of 100BASE-TX (125 megabaud) and the noise immunity of the five-level signaling is also identical to that of the three-level signaling in 100BASE-TX, since 1000BASE-T uses four-dimensional trellis coded modulation (TCM) to achieve a 6 dB coding gain across the four pairs.
+Since negotiation takes place on only two pairs, if two gigabit interfaces are connected through a cable with only two pairs, the interfaces will successfully choose 'gigabit' as the highest common denominator (HCD), but the link will never come up. Most gigabit physical devices have a specific register to diagnose this behavior. Some drivers offer an "Ethernet@Wirespeed" option where this situation leads to a slower yet functional connection.[8]
+The data is transmitted over four copper pairs, eight bits at a time. First, eight bits of data are expanded into four three-bit symbols through a non-trivial scrambling procedure based on a linear-feedback shift register; this is similar to what is done in 100BASE-T2, but uses different parameters. The three-bit symbols are then mapped to voltage levels which vary continuously during transmission. An example mapping is as follows:
+Symbol
+000
+001
+010
+011
+100
+101
+110
+111
+Line signal level
+0
++1
++2
+ 1
+0
++1
+ 2
+ 1
+Automatic MDI/MDI-X Configuration is specified as an optional feature in the 1000BASE-T standard,[9] meaning that straight-through cables will often work between gigabit-capable interfaces. This feature eliminates the need for crossover cables, making obsolete the uplink/normal ports and manual selector switches found on many older hubs and switches and greatly reduces installation errors.
+In order to extend and maximize the use of existing Cat-5e and Cat-6 cabling, additional next-generation standards 2.5GBASE-T and 5GBASE-T will operate at 2.5 and 5.0 Gbit/s, respectively, on existing copper infrastructure designed for use with 1000BASE-T.[10] It is based on 10GBASE-T but uses lower signaling frequencies.
+1000BASE-T1[edit]
+For broader coverage of this topic, see Ethernet over twisted pair  Single-pair.
+IEEE 802.3 standardized 1000BASE-T1 in IEEE Std 802.3bp-2016.[11] It defines Gigabit Ethernet over a single twisted pair for automotive and industrial applications. It includes cable specifications for 15 meters (type A) or 40 meters (type B) reach. The transmission is done using PAM-3 at 750 MBd.
+1000BASE-TX[edit]
+The Telecommunications Industry Association (TIA) created and promoted a standard similar to 1000BASE-T that was simpler to implement, calling it 1000BASE-TX (TIA/EIA-854).[12] The simplified design would have, in theory, reduced the cost of the required electronics by only using four unidirectional pairs (two pairs TX and two pairs RX) instead of four bidirectional pairs. However, this solution has been a commercial failure,[citation needed] likely due to the required Category 6 cabling and the rapidly falling cost of 1000BASE-T products.
+1000BASE-CX[edit]
+802.3z-1998 CL39 standardized 1000BASE-CX is an initial standard for Gigabit Ethernet connections with maximum distances of 25 meters using balanced shielded twisted pair and either DE-9 or 8P8C connector (with a pinout different from 1000BASE-T). The short segment length is due to a very high signal transmission rate. Although it is still used for specific applications where cabling is done by IT professionals, for instance, the IBM BladeCenter uses 1000BASE-CX for the Ethernet connections between the blade servers and the switch modules, 1000BASE-T has succeeded it for general copper wiring use.
+[13]
+1000BASE-KX[edit]
+802.3ap-2007 CL70 standardized 1000BASE-KX is part of the IEEE 802.3ap standard for Ethernet Operation over Electrical Backplanes. This standard defines one to four lanes of backplane links, one RX and one TX differential pair per lane, at link bandwidth ranging from 100Mbit to 10Gbit per second (from 100BASE-KX to 10GBASE-KX4). The 1000BASE-KX variant uses 1.25 GBd electrical (not optical) signalling speed.
+Fiber optics[edit]
+1000BASE-X is used in industry to refer to Gigabit Ethernet transmission over fiber, where options include 1000BASE-SX, 1000BASE-LX, 1000BASE-LX10, 1000BASE-BX10 or the non-standard -EX and -ZX implementations. Included are copper variants using the same 8b/10b line code. 1000BASE-X is based on the physical-layer standards developed for Fibre Channel.[14]
+Legend for fibre-based PHYs[3]
+MMF FDDI62.5/125 m(1987)
+MMF OM162.5/125 m(1989)
+MMF OM250/125 m(1998)
+MMF OM350/125 m(2003)
+MMF OM450/125 m(2008)
+MMF OM550/125 m(2016)
+SMF OS19/125 m(1998)
+SMF OS29/125 m(2000)
+160 MHz km@ 850 nm
+200 MHz km@ 850 nm
+500 MHz km@ 850 nm
+1500 MHz km@ 850 nm
+3500 MHz km@ 850 nm
+3500 MHz km@ 850 nm &1850 MHz km@ 950 nm
+1 dB/km@ 1300/1550 nm
+0.4 dB/km@ 1300/1550 nm
+Name
+Standard
+Status
+Media
+Connector
+TransceiverModule
+Reachin m
+#Media( )
+#Lambdas( )
+#Lanes( )
+Notes
+Gigabit Ethernet (GbE) - (Data rate: 1000 Mbit/s - Line code: 8B/10B   NRZ - Line rate: 1.25 GBd - Full-Duplex (or Half-Duplex))
+1000BASE CX
+802.3z-1998(CL39)
+legacy
+TWPshieldedbalanced(150 )
+8P8CDE-9FC/HSSDCCX4 (SFF-8470)(IEC 61076-3-103)
+ 
+25
+4
+N/A
+4
+Data centres;predates 1000BASE-T; rarely used.
+1000BASE KX
+802.3ap-2007(CL70)
+current
+Cu-Backplane
+ 
+ 
+1
+1
+N/A
+4
+PCBs
+1000BASE SX
+802.3z-1998(CL38)
+current
+Fibre770   860 nm
+STSCLCMT-RJ [15]
+SFPGBICdirect-plug
+OM1: 275
+2
+1
+1
+OM2: 550
+OM3: 1k [16]
+1000BASE LSX
+proprietary(non IEEE)
+current
+Fibre1310 nm
+LC
+SFP
+OM1: 2k [17]
+2
+1
+1
+vendor-specific;FP laser transmitter
+OM2: 1k [18]
+OM4: 2k [19]
+1000BASE LX
+802.3z-1998(CL38)
+current
+Fibre1270   1355 nm
+SCLC
+SFPGBICdirect-plug
+OM1: 550
+2
+1
+1
+OM2: 550
+OM3: 550
+OSx: 5k
+1000BASE LX10
+802.3ah-2004(CL59)
+current
+Fibre1260   1360 nm
+LC
+SFP
+OM1: 550
+2
+1
+1
+identical with -LX but with increased power/sensitivity;commonly simply referred to as -LX or -LH prior to 802.3ah
+OM2: 550
+OM3: 550
+OSx: 10k
+1000BASE-BX10
+current
+FibreTX: 1260   1360 nmRX: 1480   1500 nm
+OSx: 10k
+1
+often simply referred to as -BX
+1000BASE EX
+proprietary(non IEEE)
+current
+Fibre1310 nm
+SCLC
+SFPGBIC
+OSx: 40k
+2
+1
+1
+vendor-specific
+1000BASE ZX /  EZX
+proprietary(non IEEE)
+current
+Fibre1550 nm
+SCLC
+SFPGBIC
+OSx: 70k
+2
+1
+1
+vendor-specific
+1000BASE RHx
+802.3bv-2017(CL115)
+current
+Fibre650 nm
+FOT(PMD/MDI)
+ 
+POF:   50
+1
+1
+1
+Automotive, Industry, Home; [20][21]Line code: 64b65b   PAM16Line rate: 325 MBdVariants: -RHA (50 m), -RHB (40 m), -RHC (15 m).
+1000BASE-PX
+802.3ah-2004802.3bk-2013(CL60)
+current
+FibreTX: 1270 nmRX: 1577 nm
+SC
+SFPXFP
+OSx:10k   40k
+1
+1
+1
+EPON; FTTH;using point-to-multipoint topology.
+1000BASE CWDM[22][23]
+ITU-T G.694.2
+current
+Fibre1270   1610 nm
+LC
+SFP
+OSx:40k   100k
+2
+1
+1
+CWDM makes it possible to have multiple parallel channels over 2 fibers;spectral bandwidth 11 nm;capable of 18 parallel channels
+1000BASE DWDM[24][23]
+ITU-T G.694.1
+current
+Fibre1528   1565 nm
+LC
+SFP
+OSx:40k   120k
+2
+1
+1
+DWDM makes it possible to have multiple parallel channels over 2 fibers;spectral bandwidth 0.2 nm;capable of 45 to 160 parallel channels
+1000BASE-SX[edit]
+1000BASE-SX is an optical fiber Gigabit Ethernet standard for operation over multi-mode fiber using a 770 to 860 nanometer, near infrared (NIR) light wavelength.
+The standard specifies a maximum length of 220 meters for 62.5 m/160 MHz km multi-mode fiber, 275 m for 62.5 m/200 MHz km, 500 m for 50 m/400 MHz km, and 550 m for 50 m/500 MHz km multi-mode fiber.[25][26] Fiber optic cable manufacturers have extended the reach of 1000BASE-SX to at least 1km when used with more modern fiber optic grades such as OM3 and OM4.[16]
+This standard is highly popular for intra-building links in large office buildings, co-location facilities and carrier-neutral Internet exchanges.
+Optical power specifications of SX interface: Minimum output power =  9.5 dBm. Minimum receive sensitivity =  17 dBm.
+1000BASE-LSX[edit]
+1000BASE-LSX is a non-standard but industry accepted[27]
+term to refer to Gigabit Ethernet transmission. It is very similar to 1000BASE-SX but achieves longer distances up to 2 km over a pair of multi-mode fibers due to higher quality optics than a SX, running on 1310 nm wavelength lasers. It  is easily confused with 1000BASE-SX or 1000BASE-LX because the use of -LX, -LX10 and -SX is ambiguous between vendors. 
+The range is achieved with use of Fabry Perot laser transmitter.
+1000BASE-LX[edit]
+1000BASE-LX is an optical fiber Gigabit Ethernet standard specified in IEEE 802.3 Clause 38 which uses a long wavelength laser (1,270 1,355 nm), and a maximum RMS spectral width of 4 nm.
+1000BASE-LX is specified to work over a distance of up to 5 km over 10 m single-mode fiber.
+1000BASE-LX can also run over all common types of multi-mode fiber with a maximum segment length of 550 m. For link distances greater than 300 m, the use of a special launch conditioning patch cord may be required.[28] This launches the laser at a precise offset from the center of the fiber which causes it to spread across the diameter of the fiber core, reducing the effect known as differential mode delay which occurs when the laser couples onto only a small number of available modes in multi-mode fiber.
+1000BASE-LX10[edit]
+1000BASE-LX10 was standardized six years after the initial gigabit fiber versions as part of the Ethernet in the First Mile task group. It is practically identical to 1000BASE-LX, but achieves longer distances up to 10 km over a pair of single-mode fiber due to higher quality optics. Before it was standardized, 1000BASE-LX10 was essentially already in widespread use by many vendors as a proprietary extension called either 1000BASE-LX/LH or 1000BASE-LH.[29]
+1000BASE-EX[edit]
+1000BASE-EX is a non-standard but industry accepted term[30] to refer to Gigabit Ethernet transmission. It is very similar to 1000BASE-LX10 but achieves longer distances up to 40 km over a pair of single-mode fibers due to higher quality optics than a LX10, running on 1310 nm wavelength lasers. It is sometimes referred to as LH (Long Haul), and is easily confused with 1000BASE-LX10 or 1000BASE-ZX because the use of -LX(10), -LH, -EX, and -ZX is ambiguous between vendors. 1000BASE-ZX is a very similar non-standard longer-reach variant that uses 1550 nm wavelength optics.
+1000BASE-BX10[edit]
+1000BASE-BX10 is capable of up to 10 km over a single strand of single-mode fiber, with a different wavelength going in each direction. The terminals on each side of the fiber are not equal, as the one transmitting downstream (from the center of the network to the outside) uses the 1490 nm wavelength, and the one transmitting upstream uses the 1310 nm wavelength. This is accomplished using a passive splitter prism inside each transceiver.
+Other, non-standard higher-powered single-strand optics commonly known as "BiDi" (bi-directional) utilize wavelength pairs in the 1490/1550 nm range, and are capable of reaching distances of 20, 40 and 80 km, or greater depending on module cost, fiber path loss, splices, connectors and patch panels. Very long reach BiDi optics may use 1510/1590 nm wavelength pairs.
+1000BASE-ZX[edit]
+1000BASE-ZX is a non-standard but multi-vendor[31] term to refer to Gigabit Ethernet transmission using 1,550 nm wavelength to achieve distances of at least 70 kilometres (43 miles) over single-mode fiber. Some vendors specify distances up to 120 kilometres (75 miles) over single-mode fiber, sometimes called 1000BASE-EZX. Ranges beyond 80 km are highly dependent upon the path loss of the fiber in use, specifically the attenuation figure in dB per km, the number and quality of connectors/patch panels and splices located between transceivers.[32]
+1000BASE CWDM[edit]
+1000BASE-CWDM is a non-standard but industry accepted term[22][23] to refer to Gigabit Ethernet transmission. It is very similar to 1000BASE-LX10 but achieves longer distances up 40 120 km, and up to 18 parallel channels over a pair of single-mode fibers due to higher quality optics than LX10 and use of CWDM, running on 1270-1610 nm wavelength lasers.
+Use of CWDM requires a Mux/Demux unit at both ends of the fiber link, a CWDM MUX/DEMUX with corresponding wavelengths, and SFP with corresponding wavelengths.[23] is it also possible to DWDM in serie to increase number of channels.
+Most uses Wavelengths:  1270 nm, 1290 nm, 1310 nm, 1330 nm, 1350 nm, 1370 nm, 1390 nm, 1410 nm, 1430 nm, 1450 nm, 1470 nm, 1490 nm, 1510 nm, 1530 nm, 1550 nm, 1570 nm, 1590 nm and 1610 nm
+CWDM is cheaper to use than DWDM, about 1/5-1/3 of the cost.[33][34] CWDM is about 5-10 times more expensive the if you have the fiber available, then traditional  -LX/-LZ transceivers.
+1000BASE DWDM[edit]
+1000BASE-DWDM is a non-standard but industry accepted term[24][23] to refer to Gigabit Ethernet transmission. It is very similar to 1000BASE-LX10 but achieves longer distances up 40 120 km, and up to 64 to 160 parallel channels over a pair of single-mode fibers due to higher quality optics than LX10 and use of DWDM, running on 1528-1565 nm wavelength lasers.
+The most used channels are  CH17-61 on Wavelength 1528.77-1563-86 nm.
+To use DWDM it is necessary to use a Mux/Demux unit on both ends of the fiber link, a DWDM MUX/DEMUX with corresponding wavelengths, and SFP with corresponding wavelengths.[23] is it also possible to use CWDM in series to increase the number of channels.[citation needed]
+1000BASE-RHx[edit]
+IEEE 802.3bv-2017 defines standardizes Gigabit Ethernet over step-index plastic optical fiber (POF) using -R 64b/65b large block encoding with red light (600 700 nm). 1000BASE-RHA is intended for home and consumer use (just clamping the bare POF), 1000BASE-RHB for industrial, and 1000BASE-RHC for automotive applications.
+Optical interoperability[edit]
+There may be optical interoperability with respective 1000BASE-X Ethernet interfaces on the same link.[35] It is also possible with certain types of optics to have a mismatch in wavelength.[36]
+To achieve interoperability some criteria have to be met:[37]
+Line encoding
+Wavelength[b]
+Duplex mode
+Media count
+Media type and dimension
+1000BASE-X Ethernet is not backward compatible with 100BASE-X and is not forward compatible with 10GBASE-X.
+See also[edit]
+List of interface bit rates
+Physical coding sublayer
+Notes[edit]
+^ In ISO the length is purely informative. The length is not a pass/fail criterion as testing the conformance to EN 50173 series standards.
+^ It may be possible for certain types of optics to work with a mismatch in wavelength.[38]
+References[edit]
+^ "Power Macintosh G4 (Gigabit Ethernet)". apple-history.com. Retrieved November 5, 2007.
+^ A single repeater per collision domain is defined in IEEE 802.3 2008 Section 3: 41. Repeater for 1000 Mb/s baseband networks
+^ a b Charles E. Spurgeon (2014). Ethernet: The Definitive Guide (2nd ed.). O'Reilly Media. ISBN 978-1-4493-6184-6.
+^ Barrera, Dan. Interview: Dan Barrera With Ideal Networks About TIA 42 Cabling Standards & Testing Processes. Youtube.  Event occurs at 11:49. Archived from the original on November 17, 2021. Retrieved April 8, 2020.
+^ "Auto-Negotiation; 802.3-2002" (PDF). IEEE Standards Interpretations. IEEE. Retrieved November 5, 2007.
+^ IEEE. "Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) access method and Physical Layer specifications". SECTION TWO: This section includes Clause21 through Clause 33 and Annex 22A through Annex 33E. Retrieved February 18, 2010.
+^ IEEE. "1.4 Definitions 1.4.187 hybrid" (PDF). Archived from the original (PDF) on December 6, 2010. Retrieved August 9, 2017.
+^ "Broadcom Ethernet NIC FAQs". Retrieved April 25, 2016.
+^ Clause 40.4.4 in IEEE 802.3-2008
+^ "What is NBASE-T technology".
+^ "IEEE P802.3bp 1000BASE-T1 PHY Task Force". IEEE 802.3. July 29, 2016. Retrieved October 6, 2016.
+^ "TIA Publishes New Standard TIA/EIA-854". TAI. July 25, 2001. Archived from the original on September 27, 2011.
+^ "1000BaseCX". The Network Encyclopedia. Ciberforma Lda.
+^ IEEE 802.3 Clause 36.1.1
+^ "Gigabit Ethernet Multimode SFP MT-RJ Transceiver" (PDF). tyco Electronics. November 1, 2003. Retrieved August 26, 2018.
+^ a b "Multimode Optical Fiber Selection & Specification" (PDF). Corning Cable Systems LLC. 2012. Retrieved December 23, 2022.
+^ "Datasheet for SFP-1G Series" (PDF). MOXA. October 12, 2018. Retrieved March 21, 2020.
+^ "Datasheet for SFP-1G Series" (PDF). MOXA. October 12, 2018. Retrieved March 21, 2020.
+^ "SFP1G-SX-31". FS.com. January 1, 2019. Retrieved March 21, 2020.
+^ "1000BASE-RH PHY system simulations" (PDF). IEEE 802.3bv Task Force. September 8, 2015. Retrieved August 25, 2018.
+^ "Optical Ethernet in Automotive" (PDF). Knowledge Development for POF S.L. (KDPOF). July 3, 2017. Archived from the original (PDF) on September 10, 2018. Retrieved August 25, 2018.
+^ a b "CWDM SFP Datasheet". Cisco. December 29, 2005. Retrieved March 22, 2020.
+^ a b c d e f "DWDM Technology And DWDM Network Overview". FS.com. FS.com. November 28, 2016. Retrieved March 22, 2020.
+^ a b "DWDM-SFP Data Sheet". Cisco. Cisco. Retrieved March 22, 2020.
+^ "Ethernet Media Standards and Distances". kb.wisc.edu. Retrieved February 1, 2017.
+^ IEEE 802.3 Table 38 2 Operating range for 1000BASE-SX over each optical fiber type
+^ "Datasheet for SFP-1G Series" (PDF). MOXA. Retrieved March 21, 2020.
+^ "Mode-Conditioning Patch Cord Installation Note". Retrieved February 14, 2009.
+^ "Cisco SFP Optics For Gigabit Ethernet Applications". Cisco Systems. Retrieved June 1, 2010.
+^ "fs SFP1G-EX-55". FS Germany. Retrieved March 30, 2020.
+^ "FS SFP1G-ZX-55". FS Germany. Retrieved March 30, 2020.
+^ "1.25Gbps SFP Transceiver 120km" (PDF). Menaranet.
+^ "CWDM vs. DWDM  What Are the Differences ". Medium.com. November 30, 2017. Retrieved March 22, 2020.
+^ "CWDM - Cost-Effective Alternative to Expand Network Capacity". fs.com. June 17, 2014. Retrieved March 22, 2020.
+^ "Cisco 100BASE-X SFP for Fast Ethernet SFP Ports" (PDF). cisco. cisco. Retrieved March 29, 2020.
+^ "Everything You Always Wanted to Know About Optical Networking   But Were Afraid to Ask" (PDF). archive.nanog.org. Richard A Steenbergen. Retrieved March 30, 2020.
+^ "Fiber incompatabilities? - Ars Technica OpenForum". arstechnica.com. June 6, 2006. Retrieved March 29, 2020.[self-published source?]
+^ "Everything You Always Wanted to Know About Optical Networking   But Were Afraid to Ask" (PDF). archive.nanog.org. Richard A Steenbergen. Retrieved March 30, 2020.
+Further reading[edit]
+Norris, Mark, Gigabit Ethernet Technology and Applications, Artech House, 2002. ISBN 1-58053-505-4
+External links[edit]
+Get IEEE 802.3 Archived July 26, 2010, at the Wayback Machine
+IEEE 802.3
+IEEE and Gigabit Ethernet Alliance Announce Formal Ratification of gigabit Ethernet Over Copper Standard Archived July 31, 2009, at the Wayback Machine - Announcement from IEEE June 28, 1999
+IEEE P802.3ab 1000BASE-T Task Force (historical information)
+IEEE 802.3 CSMA/CD (ETHERNET)
+1000BASE-T Whitepaper from 10GEA Archived July 2, 2012, at the Wayback Machine
+Gigabit Ethernet Auto-Negotiation
+vteEthernet family of local area network technologiesSpeeds
+10 Mbit/s
+100 Mbit/s
+1 Gbit/s
+2.5 and 5 Gbit/s
+10 Gbit/s
+25 and 50 Gbit/s
+40 and 100 Gbit/s
+200, 400, 800 and 1600 Gbit/s
+General
+Physical layer
+Autonegotiation
+EtherType
+Flow control
+Frames
+Jumbos
+Organizations
+IEEE 802.3
+Ethernet Alliance
+Media
+Twisted pair
+Coaxial
+First mile
+10G-EPON
+Historic
+CSMA/CD
+StarLAN
+10BROAD36
+10BASE-FB
+10BASE-FL
+10BASE5
+10BASE2
+FOIRL
+100BaseVG
+LattisNet
+Long Reach
+Applications
+Audio
+Carrier
+Data center
+Energy Efficiency
+Industrial
+Metro
+Power
+Synchronous
+Transceivers
+MAU
+GBIC
+SFP/SFP+/QSFP/QSFP+/OSFP
+XENPAK/X2
+XFP
+CFP
+Interfaces
+AUI
+MDI
+MII
+GMII
+XGMII
+XAUI
+ Category
+ Commons
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Gigabit_Ethernet&oldid=1143842356"

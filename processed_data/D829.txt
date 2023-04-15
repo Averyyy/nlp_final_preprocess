@@ -1,0 +1,46 @@
+Entity that manage company stock
+The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (December 2010) (Learn how and when to remove this template message)
+A stock transfer agent, transfer agent, share registry or transfer agency is an entity, usually a third party firm unrelated to security transactions, that manages the change in ownership of company stock or investment fund shares, maintains a register of ownership and acts as paying agent for the payment of dividends and other distributions to investors. The name derives from the impartial intermediary role a transfer agent plays in validating and registering the purchase of new ownership shares and, in the case of a transfer of ownership, cancelling the name and certificate of shareholders who sell shares and substituting the new owner's name on the official master shareholder register. 
+Transfer agent or stock transfer agent is the term used in the United States and Canada. Share registry is used in the United Kingdom, Australia and New Zealand. Transfer secretary is used in South Africa. A company may act as its own transfer agent or engage a third-party company to perform shareholder registry services. Transfer agents in the United States must be registered with the Securities and Exchange Commission (SEC) or a bank regulatory agency.[1]
+For investment funds, transfer agent functions and fund administration are interdependent, making it desirable in some cases for fund managers to assign both services to a single third party. Transfer agent service providers may offer their services along with fund accounting, fund administration and other outsourced back-office services as a "package" for the convenience of client companies. 
+Functions[edit]
+Public companies typically use transfer agents to keep track of the individuals and entities that own their stocks and bonds. Investment funds may also use transfer agents to manage their shareholder registry although only some legal structures are required to do so. Transfer agents may be banks, trust companies, fund administration providers or stand-alone transfer agent firms. Sometimes a company acts as its own transfer agent.
+Transfer agents perform the following main functions:[2][3]
+Issuance and Transfer: Issue and cancel certificates to reflect changes in ownership. For example, when a company declares a stock dividend or stock split, the transfer agent issues new shares. Transfer agents keep records of who owns a company's stocks and bonds and how those stocks and bonds are held whether by the owner in certificate form, by the company in book-entry form, or by the investor's brokerage firm in street name. They also keep records of how many shares or bonds each investor owns.
+Record Keeping:  Transfer agents "track, record, and maintain on behalf of issuers the official record of ownership of each issuer s securities."[3]
+Registration:  Transfer agents monitor "the issuance of [company] securities with a view to preventing unauthorized issuance, a function commonly performed by a person called a registrar."[3]
+Paying Agent: A transfer agent may also serve as the company's paying agent to pay out interest, cash and stock dividends, or other distributions to stock- and bondholders. In addition, a transfer agent may act as a tender agent (tendering shares in a tender offer) or exchange agent (exchanging a company's stock or bonds in a merger).
+Shareholder Liaison: Transfer agents "facilitate communications between issuers and registered securityholders."[3] Transfer agents often act as a proxy agent (sending out proxy materials) and a mailing agent (mailing the company's quarterly, annual, and other reports).  Transfer agents may also run annual meetings as inspector of elections, proxy voting, and special meetings of shareholders. In this case they are considered the official keeper of the corporate shareholder records.
+Repository: Handle lost, destroyed, or stolen certificates. Transfer agents help shareholders and bondholders when a stock or bond certificate has been lost, destroyed, or stolen. Also a medallion signature stamp officer is the transfer agent.
+Treasury Manager: Transfer agent work to settle monetary transactions. They may hold shareholder's cash and Company's cash in separate accounts as per local regulations, in order to prevent loss in the event of bankruptcy and mismanagement of money.
+In the UK, Registrars perform a similar role, although there is no medallion stamp signature process.
+A public company usually only designates one company to transfer its stock.
+Street name[edit]
+Main article: Street name securities
+The shares are issued in "street name" which is the term given to securities held in the name of a financial intermediary (such as brokerage, custodian bank, securities depositary, or a nominee of any of them) on behalf of a customer, usually done to facilitate subsequent transactions. Shares held in "Street name", usually Cede & Co., refers to shares which have a beneficial shareholder who maintain their ownership indirectly through a brokerage. Street name holders are not registered holders; they must exercise shareholder rights by obtaining proxies from the legal entity which is a holder of record.
+United States[edit]
+Stock transfer agents in the United States verify that owners of stock are genuine through the use of signature guarantees. This is often referred to as a "Medallion Signature Guarantee". A signature guarantee is a warranty by the signature guarantor that the endorser of a stock certificate or stock power form is an appropriate person to endorse and thus transfer the security. Signatures on a stock certificate or stock power must have the medallion guarantee. A medallion guarantee is also used to validate the genuineness of a securities transaction document (typically a stock certificate). It is backed by a bond and protects the issuer of the security and their transfer agent from fraudulently transferred securities. A medallion guarantee may be obtained from most major banks, brokerage firms or credit unions.[4]
+Stock transfer agents operating in the U.S. are required to register with the U.S. Securities and Exchange Commission or a banking regulator.[5]
+Private companies[edit]
+Private companies typically do not use dedicated or SEC-registered transfer agent companies. Private companies  use a combination of software, law firm services, and in-house support.  
+In the US, recent changes to crowdfunding regulations make it necessary for some private companies to use dedicated transfer agent companies in some cases:[6]
+When a crowdfunded company uses Regulation CF to raise more than $10M in equity from more than 2,000 shareholders, or
+When a crowdfunded company uses Regulation A+ Tier 2 to raise equity
+See also[edit]
+Depository bank
+Custodian bank
+Dematerialization (securities)
+Settlement (finance)
+References[edit]
+^ "SEC.gov | Transfer Agents". www.sec.gov. Retrieved 1 March 2021.  This article incorporates text from this source, which is in the public domain.
+^ "SEC.gov | Transfer Agents". www.sec.gov. Retrieved 18 September 2017.  This article incorporates text from this source, which is in the public domain.
+^ a b c d "Concept Release: Transfer Agent Regulations (Advance Notice of Proposed Rulemaking)" (PDF). United States Securities Exchange Commission. 26 June 2017.
+^ "SEC.gov - Signature Guarantees: Preventing the Unauthorized Transfer of Securities". www.sec.gov.
+^ "Transfer Agents". www.sec.gov.
+^ "Why Private Companies Don't Need a Transfer Agent - Capshare Blog". Capshare Blog. 15 June 2018. Retrieved 26 June 2018.
+External links[edit]
+State of New York Stock Transfer Tax stamps
+Securities Transfer Association
+What are Registrar and Transfer Agent (RTA)? In Hindi
+Does a private company require a transfer agent?
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Stock_transfer_agent&oldid=1146228485"

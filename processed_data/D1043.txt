@@ -1,0 +1,311 @@
+Extensional term for information technology
+ A Concept Map on the Use of Information and Communication Technology (Information) in Educational Assessment as per the International Federation of ICT (the IFGICT)
+Information and communications technology (ICT) is an extensional term for information technology (IT) that stresses the role of unified communications[1] and the integration of telecommunications (telephone lines and wireless signals) and computers, as well as necessary enterprise software, middleware, storage and audiovisual, that enable users to access, store, transmit, understand and manipulate information.
+ICT is also used to refer to the convergence of audiovisuals and telephone networks with computer networks through a single cabling or link system. There are large economic incentives to merge the telephone networks with the computer network system using a single unified system of cabling, signal distribution, and management. ICT is an umbrella term that includes any communication device, encompassing radio, television, cell phones, computer and network hardware, satellite systems and so on, as well as the various services and appliances with them such as video conferencing and distance learning. ICT also includes analog technology, such as paper communication, and any mode that transmits communication.[2]
+ICT is a broad subject and the concepts are evolving.[3] It covers any product that will store, retrieve, manipulate, transmit, or receive information electronically in a digital form (e.g., personal computers including smartphones, digital television, email, or robots). Skills Framework for the Information Age is one of many models for describing and managing competencies for ICT professionals for the 21st century.[4]
+Etymology[edit]
+The phrase "information and communication technologies" has been used by academic researchers since the 1980s.[5] The abbreviation "ICT" became popular after it was used in a report to the UK government by Dennis Stevenson in 1997,[6] and then in the revised National Curriculum for England, Wales and Northern Ireland in 2000. However, in 2012, the Royal Society recommended that the use of the term "ICT" should be discontinued in British schools "as it has attracted too many negative connotations".[7] From 2014, the National Curriculum has used the word computing, which reflects the addition of computer programming into the curriculum.[8]
+Variations of the phrase have spread worldwide. The United Nations has created a "United Nations Information and Communication Technologies Task Force" and an internal "Office of Information and Communications Technology".[9]
+Monetisation[edit]
+The money spent on IT worldwide has been estimated as US$3.8 trillion [10] in 2017 and has been growing at less than 5% per year since 2009. The estimate 2018 growth of the entire ICT is 5%. The biggest growth of 16% is expected in the area of new technologies (IoT, Robotics, AR/VR, and AI).[11]
+The 2014 IT budget of the US federal government was nearly $82 billion.[12] IT costs, as a percentage of corporate revenue, have grown 50% since 2002, putting a strain on IT budgets. When looking at current companies' IT budgets, 75% are recurrent costs, used to "keep the lights on" in the IT department, and 25% are the cost of new initiatives for technology development.[13]
+The average IT budget has the following breakdown:[13]
+31% personnel costs (internal)
+29% software costs (external/purchasing category)
+26% hardware costs (external/purchasing category)
+14% costs of external service providers (external/services).
+The estimate of money to be spent in 2022 is just over US$6 trillion.[14]
+Technological capacity[edit]
+The world's technological capacity to store information grew from 2.6 (optimally compressed) exabytes in 1986 to 15.8 in 1993, over 54.5 in 2000, and to 295 (optimally compressed) exabytes in 2007, and some 5 zetta bytes in 2014.[15][16] This is the informational equivalent to 1.25 stacks of CD-ROM from the earth to the moon in 2007, and the equivalent of 4,500 stacks of printed books from the earth to the sun in 2014.
+The world's technological capacity to receive information through one-way broadcast networks was 432 exabytes of (optimally compressed) information in 1986, 715 (optimally compressed) exabytes in 1993, 1.2 (optimally compressed) zettabytes in 2000, and 1.9 zettabytes in 2007.[15]
+The world's effective capacity to exchange information through two-way telecommunication networks was 281 petabytes of (optimally compressed) information in 1986, 471 petabytes in 1993, 2.2 (optimally compressed) exabytes in 2000, 65 (optimally compressed) exabytes in 2007,[15] and some 100 exabytes in 2014.[17]
+The world's technological capacity to compute information with humanly guided general-purpose computers grew from 3.0   10^8 MIPS in 1986, to 6.4 x 10^12 MIPS in 2007.[15]
+ICT sector in the OECD[edit]
+The following is a list of OECD countries by share of ICT sector in total value added in 2013.[18]
+Rank
+Country
+ICT sector in %
+Relative size
+1
+ South Korea
+10.7
+10.7 
+2
+ Japan
+7.02
+7.02 
+3
+ Ireland
+6.99
+6.99 
+4
+ Sweden
+6.82
+6.82 
+5
+ Hungary
+6.09
+6.09 
+6
+ United States
+5.89
+5.89 
+7
+ India
+5.87
+5.87 
+8
+ Czech Republic
+5.74
+5.74 
+9
+ Finland
+5.60
+5.6 
+10
+ United Kingdom
+5.53
+5.53 
+11
+ Estonia
+5.33
+5.33 
+12
+ Slovakia
+4.87
+4.87 
+13
+ Germany
+4.84
+4.84 
+14
+ Luxembourg
+4.54
+4.54 
+15
+ Switzerland
+4.63
+4.63 
+16
+ France
+4.33
+4.33 
+17
+ Slovenia
+4.26
+4.26 
+18
+ Denmark
+4.06
+4.06 
+19
+ Spain
+4.00
+4 
+20
+ Canada
+3.86
+3.86 
+21
+ Italy
+3.72
+3.72 
+22
+ Belgium
+3.72
+3.72 
+23
+ Austria
+3.56
+3.56 
+24
+ Portugal
+3.43
+3.43 
+25
+ Poland
+3.33
+3.33 
+26
+ Norway
+3.32
+3.32 
+27
+ Greece
+3.31
+3.31 
+28
+ Iceland
+2.87
+2.87 
+29
+ Mexico
+2.77
+2.77 
+30
+ Bangladesh
+2.61
+2.61 
+ICT Development Index[edit]
+The ICT Development Index ranks and compares the level of ICT use and access across the various countries around the world.[19] In 2014 ITU (International Telecommunication Union) released the latest rankings of the IDI, with Denmark attaining the top spot, followed by South Korea. The top 30 countries in the rankings include most high-income countries where the quality of life is higher than average, which includes countries from Europe and other regions such as "Australia, Bahrain, Canada, Japan, Macao (China), New Zealand, Singapore, and the United States; almost all countries surveyed improved their IDI ranking this year."[20]
+The WSIS process and ICT development goals[edit]
+On 21 December 2001, the United Nations General Assembly approved Resolution 56/183,  endorsing the holding of the World Summit on the Information Society (WSIS) to discuss the opportunities and challenges facing today's information society.[21] According to this resolution, the General Assembly related the Summit to the United Nations Millennium Declaration's goal of implementing ICT to achieve Millennium Development Goals. It also emphasized a multi-stakeholder approach to achieve these goals, using all stakeholders including civil society and the private sector, in addition to governments.
+To help anchor and expand ICT to every habitable part of the world, "2015 is the deadline for achievements of the UN Millennium Development Goals (MDGs), which global leaders agreed upon in the year 2000."[22]
+In education[edit]
+ Today's society shows the ever-growing computer-centric lifestyle, which includes the rapid influx of computers in the modern classroom.There is evidence that, to be effective in education, ICT must be fully integrated into the pedagogy. Specifically, when teaching literacy and math, using ICT in combination with Writing to Learn [23][24] produces better results than traditional methods alone or ICT alone.[25]
+The United Nations Educational, Scientific and Cultural Organisation (UNESCO), a division of the United Nations, has made integrating ICT into education as part of its efforts to ensure equity and access to education. The following, which was taken directly from a UNESCO publication on educational ICT, explains the organization's position on the initiative.Information and Communication Technology can contribute to universal access to education, equity in education, the delivery of quality learning and teaching, teachers' professional development and more efficient education management, governance, and administration. UNESCO takes a holistic and comprehensive approach to promote ICT in education. Access, inclusion, and quality are among the main challenges they can address. The Organization's Intersectoral Platform for ICT in education focuses on these issues through the joint work of three of its sectors: Communication & Information, Education and Science.[26]
+ OLPC Laptops at school in Rwanda
+Despite the power of computers to enhance and reform teaching and learning practices, improper implementation is a widespread issue beyond the reach of increased funding and technological advances with little evidence that teachers and tutors are properly integrating ICT into everyday learning. Intrinsic barriers such as a belief in more traditional teaching practices and individual attitudes towards computers in education as well as the teachers own comfort with computers and their ability to use them all as result in varying effectiveness in the integration of ICT in the classroom.
+[27]
+Mobile learning for refugees[edit]
+Main article: Mobile learning for refugees
+School environments play an important role in facilitating language learning. However, language and literacy barriers are obstacles preventing refugees from accessing and attending school, especially outside camp settings.[28]
+Mobile-assisted language learning apps are key tools for language learning. Mobile solutions can provide support for refugees  language and literacy challenges in three main areas: literacy development, foreign language learning and translations. Mobile technology is relevant because communicative practice is a key asset for refugees and immigrants as they immerse themselves in a new language and a new society. Well-designed mobile language learning activities connect refugees with mainstream cultures, helping them learn in authentic contexts.[28]
+Developing countries[edit]
+This section may be too long to read and navigate comfortably. Please consider splitting content into sub-articles, condensing it, or adding subheadings. Please discuss this issue on the article's talk page. (January 2022)
+Africa[edit]
+ Representatives meet for a policy forum on M-Learning at UNESCO's Mobile Learning Week in March 2017
+ICT has been employed as an educational enhancement in Sub-Saharan Africa since the 1960s. Beginning with television and radio, it extended the reach of education from the classroom to the living room, and to geographical areas that had been beyond the reach of the traditional classroom. As the technology evolved and became more widely used, efforts in Sub-Saharan Africa were also expanded. In the 1990s a massive effort to push computer hardware and software into schools was undertaken, with the goal of familiarizing both students and teachers with computers in the classroom. Since then, multiple projects have endeavoured to continue the expansion of ICT's reach in the region, including the One Laptop Per Child (OLPC) project, which by 2015 had distributed over 2.4 million laptops to nearly 2 million students and teachers.[29]
+The inclusion of ICT in the classroom, often referred to as M-Learning, has expanded the reach of educators and improved their ability to track student progress in Sub-Saharan Africa. In particular, the mobile phone has been most important in this effort. Mobile phone use is widespread, and mobile networks cover a wider area than internet networks in the region. The devices are familiar to student, teacher, and parent, and allow increased communication and access to educational materials. In addition to benefits for students, M-learning also offers the opportunity for better teacher training, which leads to a more consistent curriculum across the educational service area. In 2011, UNESCO started a yearly symposium called Mobile Learning Week with the purpose of gathering stakeholders to discuss the M-learning initiative.[29]
+Implementation is not without its challenges. While mobile phone and internet use are increasing much more rapidly in Sub-Saharan Africa than in other developing countries, the progress is still slow compared to the rest of the developed world, with smartphone penetration only expected to reach 20% by 2017.[29] Additionally, there are gender, social, and geo-political barriers to educational access, and the severity of these barriers vary greatly by country. Overall, 29.6 million children in Sub-Saharan Africa were not in school in the year 2012, owing not just to the geographical divide, but also to political instability, the importance of social origins, social structure, and gender inequality. Once in school, students also face barriers to quality education, such as teacher competency, training and preparedness, access to educational materials, and lack of information management.[29]
+In modern society, ICT is ever-present, with over three billion people having access to the Internet.[30] With approximately 8 out of 10 Internet users owning a smartphone, information and data are increasing by leaps and bounds.[31] This rapid growth, especially in developing countries, has led ICT to become a keystone of everyday life, in which life without some facet of technology renders most of clerical, work and routine tasks dysfunctional.
+The most recent authoritative data, released in 2014, shows "that Internet use continues to grow steadily, at 6.6% globally in 2014 (3.3% in developed countries, 8.7% in the developing world); the number of Internet users in developing countries has doubled in five years (2009-2014), with two-thirds of all people online now living in the developing world."[20]
+However, hurdles are still large. "Of the 4.3 billion people not yet using the Internet, 90% live in developing countries. In the world's 42 Least Connected Countries (LCCs), which are home to 2.5 billion people, access to ICTs remains largely out of reach, particularly for these countries' large rural populations."[32] ICT has yet to penetrate the remote areas of some countries, with many developing countries dearth of any type of Internet. This also includes the availability of telephone lines, particularly the availability of cellular coverage, and other forms of electronic transmission of data. The latest "Measuring the Information Society Report" cautiously stated that the increase in the aforementioned cellular data coverage is ostensible, as "many users have multiple subscriptions, with global growth figures sometimes translating into little real improvement in the level of connectivity of those at the very bottom of the pyramid; an estimated 450 million people worldwide live in places which are still out of reach of mobile cellular service."[30]
+Favourably, the gap between the access to the Internet and mobile coverage has decreased substantially in the last fifteen years, in which "2015 was the deadline for achievements of the UN Millennium Development Goals (MDGs), which global leaders agreed upon in the year 2000, and the new data show ICT progress and highlight remaining gaps."[22] ICT continues to take on a new form, with nanotechnology set to usher in a new wave of ICT electronics and gadgets. ICT newest editions into the modern electronic world include smartwatches, such as the Apple Watch, smart wristbands such as the Nike+ FuelBand, and smart TVs such as Google TV. With desktops soon becoming part of a bygone era, and laptops becoming the preferred method of computing, ICT continues to insinuate and alter itself in the ever-changing globe.
+Information communication technologies play a role in facilitating accelerated pluralism in new social movements today. The internet according to Bruce Bimber is "accelerating the process of issue group formation and action"[33] and coined the term accelerated pluralism to explain this new phenomena. ICTs are tools for "enabling social movement leaders and empowering dictators"[34] in effect promoting societal change. ICTs can be used to garner grassroots support for a cause due to the internet allowing for political discourse and direct interventions with state policy[35] as well as change the way complaints from the populace are handled by governments. Furthermore, ICTs in a household are associated with women rejecting justifications for intimate partner violence. According to a study published in 2017, this is likely because  access to ICTs exposes women to different ways of life and different notions about women s role in society and the household, especially in culturally conservative regions where traditional gender expectations contrast observed alternatives."[36]
+In health care[edit]
+Applications of ICTs in health care include:
+Telehealth
+A review found that in general, outcomes of such ICT-use   which were envisioned as early as 1925[37]   are or can be as good as in-person care with health care use staying similar.[38]
+Artificial intelligence in healthcare
+Use and development of software for COVID-19 pandemic mitigation
+mHealth
+Clinical decision support systems and expert systems
+Health administration and hospital information systems
+Other health information technology and health informatics
+In science[edit]
+Applications of ICTs in science, research and development, and academia include:
+Internet research
+Online research methods
+Science communication and communication between scientists
+Scholarly databases
+Applied metascience
+Models of access to ICT[edit]
+Scholar Mark Warschauer defines a  models of access  framework for analyzing ICT accessibility. In the second chapter of his book, Technology and Social Inclusion: Rethinking the Digital Divide, he describes three models of access to ICTs: devices, conduits, and literacy.[39] Devices and conduits are the most common descriptors for access to ICTs, but they are insufficient for meaningful access to ICTs without third model of access, literacy.[39] Combined, these three models roughly incorporate all twelve of the criteria of  Real Access  to ICT use, conceptualized by a non-profit organization called Bridges.org in 2005:[40]
+Physical access to technology
+Appropriateness of technology
+Affordability of technology and technology use
+Human capacity and training
+Locally relevant content, applications, and services
+Integration into daily routines
+Socio-cultural factors
+Trust in technology
+Local economic environment
+Macro-economic environment
+Legal and regulatory framework
+Political will and public support
+Devices[edit]
+The most straightforward model of access for ICT in Warschauer s theory is devices.[39] In this model, access is defined most simply as the ownership of a device such as a phone or computer.[39] Warschauer identifies many flaws with this model, including its inability to account for additional costs of ownership such as software, access to telecommunications, knowledge gaps surrounding computer use, and the role of government regulation in some countries.[39] Therefore, Warschauer argues that considering only devices understates the magnitude of digital inequality. For example, the Pew Research Center notes that 96% of Americans own a smartphone,[41] although most scholars in this field would contend that comprehensive access to ICT in the United States is likely much lower than that.
+Conduits[edit]
+A conduit requires a connection to a supply line, which for ICT could be a telephone line or Internet line. Accessing the supply requires investment in the proper infrastructure from a commercial company or local government and recurring payments from the user once the line is set up. For this reason, conduits usually divide people based on their geographic locations. As a Pew Research Center poll reports, rural Americans are 12% less likely to have broadband access than other Americans, thereby making them less likely to own the devices.[42] Additionally, these costs can be prohibitive to lower-income families accessing ICTs. These difficulties have led to a shift toward mobile technology; fewer people are purchasing broadband connection and are instead relying on their smartphones for Internet access, which can be found for free at public places such as libraries.[43] Indeed, smartphones are on the rise, with 37% of Americans using smartphones as their primary medium for internet access[43] and 96% of Americans owning a smartphone.[41]
+Literacy[edit]
+ Youth and adults with ICT skills, 2017
+In 1981, Sylvia Scribner and Michael Cole studied a tribe in Liberia, the Vai people, who have their own local script. Since about half of those literate in Vai have never had formal schooling, Scribner and Cole were able to test more than 1,000 subjects to measure the mental capabilities of literates over non-literates.[44] This research, which they laid out in their book The Psychology of Literacy,[44] allowed them to study whether the literacy divide exists at the individual level. Warschauer applied their literacy research to ICT literacy as part of his model of ICT access.
+Scribner and Cole found no generalizable cognitive benefits from Vai literacy; instead, individual differences on cognitive tasks were due to other factors, like schooling or living environment.[44] The results suggested that there is  no single construct of literacy that divides people into two cognitive camps; [...] rather, there are gradations and types of literacies, with a range of benefits closely related to the specific functions of literacy practices. [39] Furthermore, literacy and social development are intertwined, and the literacy divide does not exist on the individual level.
+Warschauer draws on Scribner and Cole s research to argue that ICT literacy functions similarly to literacy acquisition, as they both require resources rather than a narrow cognitive skill. Conclusions about literacy serve as the basis for a theory of the digital divide and ICT access, as detailed below:There is not just one type of ICT access, but many types. The meaning and value of access varies in particular social contexts. Access exists in gradations rather than in a bipolar opposition. Computer and Internet use brings no automatic benefit outside of its particular functions. ICT use is a social practice, involving access to physical artifacts, content, skills, and social support. And acquisition of ICT access is a matter not only of education but also of power.[39]Therefore, Warschauer concludes that access to ICT cannot rest on devices or conduits alone; it must also engage physical, digital, human, and social resources.[39] Each of these categories of resources have iterative relations with ICT use. If ICT is used well, it can promote these resources, but if it is used poorly, it can contribute to a cycle of underdevelopment and exclusion.[44]
+Environmental impact of ICTs[edit]
+See also: Category:Environmental technology and Information and communication technologies for environmental sustainability
+Progress during the century[edit]
+In the early 21st century a rapid development of ICT services and electronical devices took place, in which the internet servers multiplied by a factor of 1000 to 395 million and its still increasing. This increase can be explained by moores law, which states, that the development of ICT increases every year by 16-20%, so it will double in numbers every four to five years.[45] Alongside this development and the high investments in increasing demand for ICT capable products, a high environmental impact came with it. Software and Hardware development as well as production causing already in 2008 the same amount of CO2-emissions as global air travels.[45]
+There are two sides of ICT, the positive environmental possibilities and the shadow side. On the positive side, studies proved, that for instance in the OECD countries a reduction of 0.235% energy use is caused by an increase in ICT capital by 1%.[46] On the other side the more digitization is happening, the more energy is consumed, that means for OECD countries 1% increase in internet users causes a raise of 0.026% electricity consumption per capita and for emerging countries the impact is more than 4 times as high.
+Currently the scientific forecasts are showing an increase up to 30700 TWh in 2030 which is 20 times more than it was in 2010.[46]
+Implication[edit]
+To tackle the environmental issues of ICT, the EU commission plans proper monitoring and reporting of the GHG emissions of different ICT platforms, countries and infrastructure in general. Further the establishment of international norms for reporting and compliance are promoted to foster transparency in this sector.[47]
+Moreover it is suggested by scientists to make more ICT investments to exploit the potentials of ICT to alleviate CO2-emissions in general, and to implement a more effective coordination of ICT, energy and growth policies.[48] Consequently, applying the principle of the coase theorem makes sense. It recommends to make investments there, where the marginal avoidance costs of emissions are the lowest, therefore in the developing countries with comparatively lower technological standards and policies as high-tech countries. With these measures, ICT can reduce environmental damage from economic growth and energy consumption by facilitating communication and infrastructure.
+In problem-solving[edit]
+ICTs could also be used to address environmental issues, including climate change, in various ways, including ways beyond education.[49][50][additional citation(s) needed]
+See also[edit]
+Behavioral change support system
+Cloud computing
+Cognitive infocommunications
+DICOM
+Digital divide
+Example of Information and communication technologies for education
+Gender digital divide
+Global e-Schools and Communities Initiative
+Infocommunications
+Information Age
+Market information systems
+Mobile Web
+Picture archiving and communication system
+21st century skills
+World Information Technology and Services Alliance
+Information technology
+References[edit]
+^ Murray, James (2011-12-18). "Cloud network architecture and ICT - Modern Network Architecture". TechTarget =ITKnowledgeExchange. Archived from the original on 2017-09-20. Retrieved 2013-08-18.
+^ Ozdamli, Fezile; Ozdal, Hasan (May 2015). "Life-long Learning Competence Perceptions of the Teachers and Abilities in Using Information-Communication .Technologies". Procedia - Social and Behavioral Sciences. 182: 718 725. doi:10.1016/j.sbspro.2015.04.819.
+^ "ICT - What is it?". www.tutor2u.net. Archived from the original on 2015-11-02. Retrieved 2015-09-01.
+^ "IEEE-CS Adopts Skills Framework for the Information Age   IEEE Computer Society". www.computer.org. Retrieved 14 March 2018.
+^ William Melody et al., Information and Communication Technologies: Social Sciences Research and Training: A Report by the ESRC Programme on Information and Communication Technologies, ISBN 0-86226-179-1, 1986. Roger Silverstone et al., "Listening to a long conversation: an ethnographic approach to the study of information and communication technologies in the home", Cultural Studies, 5(2), pages 204 227, 1991.
+^ The Independent ICT in Schools Commission, Information and Communications Technology in UK Schools: An Independent Inquiry, 1997. Impact noted in Jim Kelly, What the Web is Doing for Schools Archived 2011-07-11 at the Wayback Machine, Financial Times, 2000.
+^ Royal Society, Shut down or restart? The way forward for computing in UK schools, 2012, page 18.
+^ Department for Education, "National curriculum in England: computing programmes of study".
+^ United Nations Office of Information and Communications Technology, About Archived 2018-02-04 at the Wayback Machine
+^ "IDC - Global ICT Spending - 2018 - $3.8T". IDC: The premier global market intelligence company. Retrieved 2018-09-24.
+^ "IDC - Global ICT Spending - Forecast 2018   2022". IDC: The premier global market intelligence company. Retrieved 2018-09-24.
+^ www.whitehouse.gov
+^ a b "IT Costs   The Costs, Growth And Financial Risk Of Software Assets". OMT-CO Operations Management Technology Consulting GmbH. Archived from the original on 12 August 2013. Retrieved 26 June 2011.
+^ "IDC - Global ICT Spending - Forecast 2018   2022". IDC: The premier global market intelligence company. Retrieved 2018-09-24.
+^ a b c d "The World's Technological Capacity to Store, Communicate, and Compute Information", Martin Hilbert and Priscila L pez (2011), Science, 332(6025), 60-65; see also "free access to the study" and "video animation".
+^ Gillings, Michael R; Hilbert, Martin; Kemp, Darrell J (2016). "Information in the Biosphere: Biological and Digital Worlds". Trends in Ecology & Evolution. 31 (3): 180 189. doi:10.1016/j.tree.2015.12.013. PMID 26777788. S2CID 3561873.
+^ Hilbert, Martin (2016). "The bad news is that the digital access divide is here to stay: Domestically installed bandwidths among 172 countries for 1986 2014". Telecommunications Policy. 40 (6): 567 581. doi:10.1016/j.telpol.2016.01.006.
+^ "Figure 1.9 Share of ICT sector in total value added, 2013". doi:10.1787/888933224163. {{cite journal}}: Cite journal requires |journal= (help)
+^ "Measuring the Information Society" (PDF). International Telecommunication Union. 2011. Retrieved 25 July 2013.
+^ a b "ITU releases annual global ICT data and ICT Development Index country ranking - librarylearningspace.com". 2014-11-30. Retrieved 2015-09-01.
+^ "Basic information : about was". International Telecommunication Union. 17 January 2006. Retrieved 26 May 2012.
+^ a b "ICT Facts and Figures   The world in 2015". ITU. Retrieved 2015-09-01.
+^ "What is Writing to Learn, WAC Clearinghouse".
+^ "Evidence for How Writing Can Improve Reading, Carnegie.Org 2010" (PDF).
+^ Genlott, Annika Ag lii; Gr nlund,  ke (August 2016). "Closing the gaps   Improving literacy and mathematics by ict-enhanced collaboration". Computers & Education. 99: 68 80. doi:10.1016/j.compedu.2016.04.004.
+^ "ICT in Education". Unesco. Unesco. Retrieved 10 March 2016.
+^ Blackwell, C.K., Lauricella, A.R. and Wartella, E., 2014. Factors influencing digital technology use in early childhood education. Computers & Education, 77, pp.82-90.
+^ a b UNESCO (2018). A Lifeline to learning: leveraging mobile technology to support education for refugees. UNESCO. ISBN 978-92-3-100262-5.
+^ a b c d Agence Fran aise de D veloppement (February 2015). "Digital services for education in Africa" (PDF). unesco.org. Retrieved 19 May 2018.
+^ a b "ITU releases annual global ICT data and ICT Development Index country rankings". www.itu.int. Retrieved 2015-09-01.
+^ "Survey: 1 In 6 Internet Users Own A Smartwatch Or Fitness Tracker". ARC. Retrieved 2015-09-01.
+^ "ITU releases annual global ICT data and ICT Development Index country rankings". www.itu.int. Retrieved 2015-09-01.
+^ Bimber, Bruce (1998-01-01). "The Internet and Political Transformation: Populism, Community, and Accelerated Pluralism". Polity. 31 (1): 133 160. doi:10.2307/3235370. JSTOR 3235370. S2CID 145159285.
+^ Hussain, Muzammil M.; Howard, Philip N. (2013-03-01). "What Best Explains Successful Protest Cascades? ICTs and the Fuzzy Causes of the Arab Spring". International Studies Review. 15 (1): 48 66. doi:10.1111/misr.12020. hdl:2027.42/97489. ISSN 1521-9488.
+^ Kirsh, David (2001). "The Context of Work". Human Computer Interaction. 16 (2 4): 305 322. doi:10.1207/S15327051HCI16234_12. S2CID 28915179.
+^ Cardoso LG, Sorenson SB. Violence against women and household ownership of radios, computers, and phones in 20 countries. American Journal of Public Health. 2017; 107(7):1175 1181.
+^ Novak, Matt. "Telemedicine Predicted in 1925". Smithsonian Magazine. Smithsonian Magazine. Retrieved 27 January 2022.
+^ Albritton, Jordan; Ortiz, Alexa; Wines, Roberta; Booth, Graham; DiBello, Michael; Brown, Stephen; Gartlehner, Gerald; Crotty, Karen (7 December 2021). "Video Teleconferencing for Disease Prevention, Diagnosis, and Treatment" (PDF). Annals of Internal Medicine. 175 (2): 256 266. doi:10.7326/m21-3511. ISSN 0003-4819. PMID 34871056. S2CID 244923066.
+^ a b c d e f g h Warschauer, Mark (2004). Technology and Social Inclusion. Cambridge, Massachusetts: The MIT Press. pp. 39 49. ISBN 0-262-23224-3.
+^ "The Real Access / Real Impact framework for improving the way that ICT is used in development" (PDF). 26 December 2005.
+^ a b "Mobile Fact Sheet". Pew Research Center.
+^ Perrin, Andrew. "Digital gap between rural and nonrural America persists". Pew Research Center.
+^ a b Anderson, Monica (13 June 2019). "Mobile Technology and Home Broadband 2019". Pew Research Center.
+^ a b c d Scribner and Cole, Sylvia and Michael (1981). The Psychology of Literacy. ISBN 9780674433014.
+^ a b Gerhard, Fettweis; Zimmermann, Ernesto (2008). "ITC Energy Consumption - Trends and Challenges". The 11th International Symposium on Wireless Personal Multimedia Communications (WPMC 2008)   via ResearchGate.
+^ a b Lange, Steffen; Pohl, Johanna; Santarius, Tilman (2020-10-01). "Digitalization and energy consumption. Does ICT reduce energy demand?". Ecological Economics. 176: 106760. doi:10.1016/j.ecolecon.2020.106760. ISSN 0921-8009. S2CID 224947774.
+^ European Commission (2021). "Rolling Plan for ICT standardization 2021". ec.europa.eu. Retrieved 2022-01-08.
+^ Lu, Wen-Cheng (2018-12-01). "The impacts of information and communication technology, energy consumption, financial development, and economic growth on carbon dioxide emissions in 12 Asian countries". Mitigation and Adaptation Strategies for Global Change. 23 (8): 1351 1365. doi:10.1007/s11027-018-9787-y. ISSN 1573-1596. S2CID 158412820.
+^ Fox, Evan Michael (2019). "Mobile Technology: A Tool to Increase Global Competency Among Higher Education Students". The International Review of Research in Open and Distributed Learning. 20 (2). doi:10.19173/irrodl.v20i2.3961. ISSN 1492-3831. S2CID 242492985.
+^ Digitalisation for a circular economy
+Sources[edit]
+ This article incorporates text from a free content work.  Licensed under CC BY-SA 3.0 IGO. Text taken from A Lifeline to learning: leveraging mobile technology to support education for refugees ,  UNESCO, UNESCO. UNESCO. To learn how to add open license text to Wikipedia articles, please see this how-to page. For information on reusing text from Wikipedia, please see the terms of use.
+Further reading[edit]
+Cantoni, L., & Danowski, J. A. (Eds.). (2015). Communication and Technology. Berlin: De Gruyter Mouton.
+Carnoy, Martin. "ICT in Education: Possibilities and Challenges." Universitat Oberta de Catalunya, 2005.
+"Good Practice in Information and Communication Technology for Education." Asian Development Bank, 2009.
+Grossman, G.; Helpman, E. (2005). "Outsourcing in a global economy". Review of Economic Studies. 72: 135 159. CiteSeerX 10.1.1.159.5158. doi:10.1111/0034-6527.00327.
+Feridun, Mete; Karagiannis, Stelios (2009). "Growth Effects of Information and Communication Technologies: Empirical Evidence from the Enlarged EU". Transformations in Business and Economics. 8 (2): 86 99.
+Oliver, Ron. "The Role of ICT in Higher Education for the 21st Century: ICT as a Change Agent for Education." University, Perth, Western Australia, 2002.
+Walter Ong, Orality and Literacy: The Technologizing of the Word (London, UK: Routledge, 1988), in particular Chapter 4
+Measuring the Information Society: The ICT Development Index (PDF). International Telecommunication Union. 2013. p. 254.
+Measuring the Information Society Report: 2014. International Telecommunication Union.
+External links[edit]
+Look up ICT or information and communications technology in Wiktionary, the free dictionary.
+ICT Facts and Figures
+ICT Industry Statistics
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Information_and_communications_technology&oldid=1148199258"

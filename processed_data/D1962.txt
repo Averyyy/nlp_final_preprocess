@@ -1,0 +1,487 @@
+This article is about video games unofficially produced by hobbyists for closed systems. For modifications to ROM images of video games, see ROM hacking.
+For the package manager, see Homebrew (package manager).
+For other uses, see Homebrew (disambiguation).
+Hobbyist-developed games for closed systems
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article may need to be rewritten to comply with Wikipedia's quality standards. You can help. The talk page may contain suggestions. (November 2018)
+This article may lack focus or may be about more than one topic. Please help improve this article, possibly by splitting the article and/or by introducing a disambiguation page, or discuss this issue on the talk page. (September 2020)
+ (Learn how and when to remove this template message)
+Homebrew, when applied to video games, refers to games produced by hobbyists for proprietary video game consoles which are not intended to be user-programmable. The official documentation is often only available to licensed developers, and these systems may use storage formats that make distribution difficult, such as ROM cartridges or encrypted CD-ROMs. Many consoles have hardware restrictions to prevent unauthorized development. A non-professional developer for a system intended to be user-programmable, like the Commodore 64, is simply called a hobbyist (rather than a homebrew developer).
+Development can use unofficial, community maintained toolchains or official development kits such as Net Yaroze, Linux for PlayStation 2, or Microsoft XNA.[1] Targets for homebrew games are typically those which are no longer commercially relevant or produced, and with simpler graphics and/or computational abilities, such as the Atari 2600, Nintendo Entertainment System, Wii, Nintendo 3DS, Genesis, Dreamcast, Game Boy Advance, PlayStation, and PlayStation 2.
+Development[edit]
+New games for older systems are typically developed using emulators. Development for newer systems usually involves actual hardware, given the lack of accurate emulators. Efforts have been made to use actual console hardware for many older systems, though. Atari 2600 programmers may burn an EEPROM to plug into a custom cartridge board or use audio transfer via the Starpath Supercharger. Game Boy Advance developers have several ways to use GBA flash cartridges in this regard.
+First generation consoles[edit]
+Odyssey[edit]
+In 2009, Odball became the first game for the Magnavox Odyssey since 1973. It was produced by Robert Vinciguerra[2] who has since written several other Odyssey games. On July 11, 2011, Dodgeball was published by Chris Read.[3]
+Second generation consoles[edit]
+ Atari 2600 Duck Attack! (2010)
+Atari 2600[edit]
+Main article: Atari 2600 homebrew
+Channel F[edit]
+A handful of games have been programmed for the Fairchild Channel F, the first console to use ROM cartridges. The first known release is Sean Riddle's clone of Lights Out which included instructions on how to modify the SABA#20 Chess game into a Multi-Cartridge.[4] There is also a version of Tetris and in 2008 "Videocart 27: Pac-Man" became the first full production game for the system since it was discontinued.
+Third and fourth generation consoles[edit]
+NES / Famicom[edit]
+Several compilers are available for the Nintendo Entertainment System, but like the Atari 2600, most development is done in 6502 assembly language. One impediment to NES homebrew development is the relative difficulty involved with producing physical cartridges, although third-party flash carts do exist, making homebrew possible on original NES hardware.[5] Several varieties of custom processors are used within NES cartridges to expand system capabilities; most are difficult to replicate except by scavenging old cartridges.
+While the original Famicom and its clones can play unlicensed games, the 10NES hardware lock-out mechanism of the original model NES complicates the production of physical cartridges. The 10NES chip can be permanently disabled by performing a minor change to the hardware. The redesigned NES (also known as the New-Style NES or the New Famicom) lacks the 10NES chip.
+Genesis / Mega Drive[edit]
+The Sega Genesis has no physical lockout mechanism (instead relying on software encoding), making it easier to release software for the system. Pier Solar and the Great Architects, Paprium, and a port of Teenage Queen are examples of games that were released as physical cartridges. Other games include Sacred Line Genesis, Coffee Crisis, and Frog Feast for the Genesis and Mighty Mighty Missile for the Sega CD.
+The 2018 game Tanglewood was notable in that it was developed using original Sega Genesis development hardware.[6]
+TurboGrafx-16/PC Engine[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2018) (Learn how and when to remove this template message)
+The TurboGrafx-16/PC Engine has a comparatively small homebrew scene. The first homebrew title was MindRec's Implode in 2002, a few years after the system's last official release (Dead Of The Brain I & II for the PC Engine in 1999). The title was released on CD-ROM. Two years later, MindRec released Meteor Blaster DX on CD-R. Their official word on the change of CD format was that they were unable to be pressed to CD-ROM proper due to the glass mastering software suddenly unable to handle the unorthodox style of CD structure that the system expects. Five years later, Aetherbyte Studios released Insanity, a Berzerk clone, on pressed CD-ROMs, quelling the notion of unpressable CDs. Aetherbyte later went on to prototype and produce a new HuCard design called "AbCARD", which was fully compatible with the console. Aetherbyte celebrated the 30th Anniversary of the PC Engine since its release in 1987.[7]
+There is one C compiler for the console known as HuC, however it has not been officially updated since 2005. The MagicKit assembler is generally considered[by whom?] the de facto assembler for the console, and comes included with HuC. Additional libraries for HuC/MagicKit include Squirrel, a sound engine developed by Aetherbyte Studios, and the SGX/ACD library, developed by Tomatheous, that gives the developer easy access to the SuperGrafx video hardware as well as the Arcade Card.
+The cc65 C compiler is compatible with the console, although there is no development library supported for it.
+There are a few original TurboGrafx CD games being made such as FX Unit Yuki: The Henshin Engine[8][9] and a port of Mysterious Song in 2012.
+SNES / Super Famicom[edit]
+Bung Enterprises released the Game Doctor SF hardware series. It allows users to copy games and run new games on SNES hardware. ROMs can be converted into the Game Doctor SF format and put onto a 3 1/2" floppy. Games as large as twelve megabits can be put on floppy disks formatted to 1.6 megabytes.
+An alternative device is the Super Flash, by Tototek, which allows multiple games to be burned onto a flash memory chip in a cartridge. This allows games as large as 48 megabits.
+Apparently the system can program compatibility with C compiler.[10]
+The run and gun game, Alisha's Adventure, used original Super Famicom development hardware.[11]
+Neo-Geo MVS, AES, and CD[edit]
+The Neo-Geo Home Cart and Arcade Systems can be tough candidates for homebrew development. Neo-Geo AES and MVS cartridges have two separate boards: one for video, and one for sound. If programming a cartridge for the system were to occur, it would involve replacing the old ROM chips with one's newly programmed ones as the cartridges are in a sense, Arcade boards. NGDevTeam who have released Fast Striker and Gunlord found a workaround with this. What they did was print out their own board, and soldered their own ROM chips into them; this, however, can cause the Universe Bios logo to look corrupted if a custom bios were to be programmed. Programming for the Neo-Geo CD, however is easier than programming for cartridges. The CDs themselves can actually contain both sound and video respectively. Depending on the Megabit count for a game program, load times will vary. A CD game with low Megabit counts will load only one time; whereas a CD game with higher megabit counts could load in between scenes, or rounds. There are now some full games scheduled[when?] for release in physical form, such as Neo Xyx.[citation needed][12]
+Programmer of the Neo-Geo Universe Bios, Razoola is currently[when?] working on a "Skeleton Game Driver" that supports two players. This ROM is meant to remedy the corrupted Universe Bios Screens, as well as work with an unmodified/stock Neo-Geo Multi-Video System (MVS), or Advanced Entertainment System (AES).[13]
+Razion is an example of an original Neo Geo game ported over to modern consoles, in this case the Nintendo Switch.[14]
+Game Boy[edit]
+There are many toolkits and utilities available to program homebrew on the handheld. ROM hacks of popular games on the handheld are available for the system. There are also unofficial ports and demakes of games from other home consoles and handhelds made for the Game Boy, some examples are a demake of the PlayStation game Castlevania: Symphony of the Night[15] and a port of Stunt Race FX for the Game Boy.[16][17]
+Fifth generation consoles[edit]
+Jaguar[edit]
+ The Atari Jaguar was declared an open platform in 1999.
+The first hobbyist-developed Atari Jaguar game was released in 1995: a version of Tetris called JSTetris. It was written using a hacked version of the Alpine Development Kit, one of the pieces of hardware used to program official Jaguar games.[18] After purchasing all the intellectual property assets of Atari Corporation from JTS in 1998,[19] Hasbro Interactive, on May 14, 1999, announced that they have released all rights to the Jaguar, declaring the console an open platform.[20][21] Following the announcement, a few developers and publishers, such as AtariAge, B&C Computervisions, Piko Interactive, Songbird Productions, Telegames, and Video61, have released both previously unfinished games from the Jaguar's past as well as several brand new games.[22]
+Since emulation of the console is still limited, coding uses a real console through either the Skunkboard development cartridge, using a BJL modified Jaguar, or the official Alpine Development Kit. The commercial game BattleSphere Gold, also contains the JUGS (Jaguar Unmodified Game Server) aid to development.[23]
+Games are released in either cartridge, CD or both formats. Most developers have published their works either online on forums or in cartridge via independent publishers. Since both systems do not have regional locking, all of the titles are region free. Some of the earliest CD releases were not encrypted, requiring either B&C's Jaguar CD Bypass Cartridge[24] or Reboot's Jagtopia (Freeboot) program burned into a CD in order to run unencrypted CD games,[25] but Curt Vendel of Atari Museum released the binaries and encryption keys for both the cartridge and CD format, making it possible to run games without the need of development hardware.[26] A cracked BIOS of the Jaguar CD can be soldered inside the system.[27]
+There are also ST-to-Jaguar conversions, which involves porting titles from the Atari ST to the Jaguar, which may include some enhancements.[28] While they can be downloaded for free, select titles were sold on August 3, 2016[29][30][31] and others, as of date, are being licensed and sold in festivals dedicated to the system such as E-JagFest, JagFest or online via AtariAge.[32]
+PC-FX[edit]
+There is only one Homebrew development kit known for the PC-FX, which is based on the GNU Compiler Collection version 2.95.1. The Mednafen author began work on a library for the compiler called pcfxlib but it was discontinued due to lack of interest until trap15 started development of a new library called liberis. The toolchain is designed for a Linux environment, although it can also be used with cygwin. To date, no Homebrew titles for the PC-FX have been released, although Aetherbyte Studios and Eponasoft have both expressed interest in developing new software for the console.
+PlayStation[edit]
+Making games on the PlayStation is possible with any model of the system through the use of a modchip or the double 'Swap Trick'.  There is also a softmod/save game exploit called "tonyhax" Requirements consist of a PC, SDK, and a 'Comms Link' device to upload and download files to and from the console.
+Another way of starting homebrew on the PlayStation is 'UniROM', which is a Softmod. UniROM works by being installed onto a cheat-device, which is connected via the parallel-port (on old consoles) and allows loading of custom code via burned CDs and the serial port.
+Homebrew was originally promoted by Sony with the Net Yaroze, which had a large scene for quite some time. However, the official Net Yaroze site was shut down in mid-2009, and Sony stopped supporting the system as well as the users who still owned the console.
+Saturn[edit]
+All models of the Sega Saturn can be used for hobbyist development. Modchips for the Saturn Model 1 have been scarce for some time, as it seems that no one has produced any new modchips in years. As such, the only two options left are to either perform the swap trick or extensively modify a Saturn Model 2 modchip.
+Running homebrew on the Model 2 can be accomplished by bridging two points on the modchip, soldering a wire from the modchip to the Saturn power supply, and inserting it where the CD-ROM ribbon cable inserts. The swap trick is more difficult to pull off on this Model due to the lack of an access light.
+Another method is what is known as the "PseudoSaturn" unlocking method. It is a program created by CyberWarrior2000 that abuses the "Pro Action Replay" cartridge's firmware. It unlocks region, frequency, and CD protection of most Saturn models. Either a modded Saturn or a swap trick is required to run the installer, which loads the code in the FlashROM of the cartridge. Afterwards, the cartridge unlocks everything and most software can be run, from backups to homebrews. There is also now a new engine for development called the Jo-Engine created by Johannes Fetz to allow easy development of 2D games.[33] This engine is currently able to compile 2D games without the Sega Graphic Libraries (SGL). Another engine by XL2, called the Z-Treme engine, led to the creation of a fully 3D Sonic The Hedgehog game called Sonic Z-Treme.[34] Z-Treme uses Sega Basic Libraries (SBL) and Sega Graphic Libraries (SGL).
+Virtual Boy[edit]
+Nintendo's Virtual Boy has no region lock, but it wasn't until the flash carts FlashBoy and FlashBoy+ were released that the homebrew scene began to grow. Two previously unreleased games, Bound High! and Niko-Chan Battle (the Japanese version of Faceball) have been released.
+Nintendo 64[edit]
+The Nintendo 64 homebrew scene is small, but homebrew can still be played and developed through the use of a Doctor V64 (Acclaim used a Doctor V64 to help develop Turok[35]), the Everdrive 64[36] or 64drive.[37]
+The Sega Genesis top-down shooter Xeno Crisis has received a version for the Nintendo 64, released on physical cartridge.[38]
+Sixth generation consoles[edit]
+Dreamcast[edit]
+Despite its short commercial lifespan of less than two years in North America, the Dreamcast benefits from an active homebrew scene even ten years after its discontinuation. Due to a flaw in the Dreamcast s BIOS, which was intended for use with MIL-CD's, the console can run software from a CD-R without the use of a modchip. Sega responded to this by removing MIL-CD support from the BIOS on Dreamcast consoles manufactured from November 2000 onwards.
+The console is especially notable for its commercial homebrew scene. One notable project was the Bleemcast! emulator, which was a series of bootdisks made to play PlayStation games on the system, featuring visual enhancements over the original console. Newer independent releases include Last Hope, released by RedSpotGames in 2007, and DUX,[39] both Shoot 'em up style games. These releases were written using the KallistiOS development system. A port of the freeware high-level development language Fenix and BennuGD is available for use in game development; many DIV Games Studio games have been ported and others were originally written for the system.
+PlayStation 2[edit]
+Early versions of the PlayStation 2 have a buffer overflow bug in the part of the BIOS that handles PS1 game compatibility; hackers found a way to turn this into a loophole called the PS2 Independence Exploit, allowing the use of homebrew software. Other options for homebrew development would be the use of a modchip or the utilization of a PS2 hard drive and an HD Loader. In Europe and Australia, the PS2 came with a free Yabasic interpreter on the bundled demo disc for some time. This allows simple programs to be created for the PS2 by the end-user. This was included in a failed attempt to circumvent a UK tax by defining the console as a "computer" if it contained certain software.[40] A port of the NetBSD project and BlackRhino GNU/Linux, an alternative Debian-based distribution, are also available for the PS2.
+Using homebrew programs (e.g. 'SMS Media Player'[41]) it is possible to listen to various audio file formats (MP3, OMA, Ogg Vorbis, AAC, FLAC, AC3), and watch various video formats (DivX/XviD, MPEG1, MPEG2, MPEG4-ASP in AVI Container) using the console. Media can be played from any device connected to the console i.e. external USB/FireWire/thumb drive/hard disk drive (FAT32 only), the internal hard disk on early revision consoles, optical CD-R(W)/DVD R(W) disks (modded systems or patched disks), or network shares (Windows Network or PS2 host: protocol).
+A more recent development (May 2008) called Free McBoot or FMCB allows homebrew programs to be launched without a trigger disc required by the older exploit. This also allows the use of homebrew on unmodded systems without a functional disc drive. However, installation of the exploit to each individual memory card requires either an already exploited/modded system in order to launch the installer, or a boot image that can load an app that loads ELF files (a Network Adaptor with a hard drive is also required). Simply copying from one memory card to another will not work. This exploit does not work on the latest slimline PS2s (the later SCPH-9000x models with BIOS 2.30) but will work on all models prior to that. The newest versions of Free McBoot (version 1.90 and newer) also have the ability to install and boot from both Sony and non-Sony HDDs when using an original "fat" model PS2 and network adapter.[42] This support is called Free HDBoot or FHDB. With a few minor issues, it is now possible to play games entirely from the HDD, without needing to use the optical disc drive nor a physical memory card.
+Unlike the Independence Exploit, which requires a trigger disk, Free McBoot needs only a standard Memory Card, which allows it to be used on systems with broken optical drives. The installation is keyed to the Memory Card and will only be usable on the same version consoles that it was originally installed on, unless a Multi-Install is performed. The drawback of this exploit is that it needs to be installed/compiled on each individual memory card. Simply copying the exploit is not possible. Along with this, an already modded or exploited system is required to install Free McBoot on a Memory Card. After installing an exploit, unsigned executables (Executable and Linkable Format) may be launched from a Memory Card or a USB drive. Such programs include emulators, media players, hard drive management tools, and PC-based or NAS-based file shares. The exploit is also notable for allowing the user to copy PS1/PS2 save files from a Memory Card to a USB drive, a functionality normally only possible with tools such as DexDrive.
+Sony released a Linux-based operating system for the PS2 in a package that also includes a keyboard, mouse, Ethernet adapter and HDD. The North American versions went out of stock not too long afterwards, however the European version was still available. The kit boots by installing a proprietary interface (the run-time environment) which is on a region-encoded DVD, meaning that the European and North America kits would only work with a PS2 from their respective regions.
+A number of homebrew emulators of older computer and gaming systems have been developed for the PS2.[43]
+GameCube[edit]
+Homebrew development on the Nintendo GameCube tended to be difficult, since it uses a proprietary MiniDVD-based drive and media as opposed to the standard DVD drives of the PS2 and Xbox for piracy protection. Also, its connectivity is limited, as it does not feature a USB port or an HDD port like the PlayStation 2.
+The barrier to burning Nintendo GameCube discs with a consumer DVD burner is the Burst Cutting Area, a "barcode" in the innermost ring of the disc, an area inaccessible to most burners and writeable only by very expensive disc pressing machines. For a long time the only way to run homebrew software on Nintendo GameCube was through a patching-system exploit of Phantasy Star Online Episode I & II, requiring users to find the game and a Broadband Adapter. Both of these are difficult to find because a follow-up has been released (under the name Phantasy Star Online Episode I & II Plus) and thus the original PSO was rarely sold after then, and because the Broadband Adapter was not often carried in stores due to the Nintendo GameCube's very limited selection of online games.
+As of August 2019, the most common method is to use an Action Replay in conjunction with an SD card adapter inserted into the memory card slot, allowing the user to run homebrew from the SD card, or over Ethernet. Another method involves using a modchip to allow the GameCube to run homebrew from a MiniDVD-R via the disc drive. Another method uses a save game exploit which involves transferring modified game save files to a GameCube memory card that triggers arbitrary code execution when loaded by an official game, allowing custom software to be run from a memory card, SD card, or other media.[44] As the Nintendo GameCube's case does not fit a full-size DVD-R, third party replacement cases are available.
+Homebrew software for the Nintendo GameCube mainly consist of emulators for other systems, as well as several popular homebrew utilities. Swiss is an  all-in-one homebrew utility , including a file browser, and the ability to force software to use different video modes that aren't officially supported, such as progressive scan or 16:9 widescreen.[45] The Game Boy Interface is a homebrew software frontend for the Game Boy Player peripheral, and is often used for capturing high-quality footage from Game Boy, Game Boy Color, and Game Boy Advance games.[46]
+The Sega Genesis top-down shooter Xeno Crisis has received a version for the Gamecube, released on physical optical disc.[38]
+Xbox[edit]
+Main article: Xbox modding
+ Microsoft Xbox with a modchip installed
+The Xbox console uses several measures, including cryptographically signed code to obfuscate firmware. The primary method of executing homebrew code required installing a mod chip which could be flashed with a modified Microsoft BIOS. This BIOS allowed the system to boot unsigned executables (XBEs) and control several hardware variables, such as region coding and video mode. With the leak of Microsoft's official development kit (XDK), homebrew coders were able to write replacement Xbox GUIs (known as dashboards), games and applications for the Xbox.
+A softmod, which uses a commercial game such as 007: Agent Under Fire, Mech Assault, or Splinter Cell, had been created to execute a persistent softmod installer without modification of the hardware. This method utilizes modified font and sound files to cause the Xbox to cause a stack buffer overflow and load a homebrew dashboard. Once in this condition, the Xbox is able to execute homebrew games and applications upon boot up.
+Due to the Xbox using standard PC libraries, writing homebrew games is relatively easy and the vast majority of libraries available for a PC programmer are available to an Xbox homebrew programmer.
+One of the more common type of homebrew games for the Xbox are ports of PC games whose source has been publicly released or leaked. Many classic PC games have been released for Xbox, but most are created with the XDK which limits their availability. The only places to find these ports are through IRC or peer-to-peer browsers.
+The Xbox system is also very adept at running emulators which have been ported from PC, given its high processing power. The Xbox is able to emulate systems up to the previous generation, including the Nintendo 64 and the PlayStation. For this reason, many different emulators have been created for or ported to the Xbox.
+Game Boy Advance[edit]
+Homebrew development for the Game Boy Advance handheld has been popular due to the availability of C compilers and ready-made, high-quality code libraries, and debugging features for several Game Boy Advance emulators like VisualBoyAdvance-M, mGBA, NO$GBA, John GBA and My Boy. Adding to the success of homebrew for the system is the immense Pok mon ROM hacking community, the wide availability of Flash ROM cartridges and cartridge writers for the system, as well as nostalgia for the system in general (as with all other game systems).
+Seventh generation consoles[edit]
+PlayStation Portable[edit]
+Main article: PlayStation Portable homebrew
+Nintendo DS[edit]
+ Nintendo DS Lite with SuperCard DS Lite and MicroSD card
+Since the release of the Nintendo DS, a great deal of hacking has occurred involving the DS's fully rewritable firmware, Wi-Fi connection, game cards that allow SD storage, and software use.[citation needed]  There are now many emulators for the DS, as well as the NES, SNES, Sega Master System, Sega Mega Drive, Neo-Geo Pocket, Neo-Geo MVS (arcade), and older handheld consoles like the Game Boy Color.[47]
+There are a number of cards which either have built-in flash memory, or a slot which can accept an SD, or MicroSD (like the DSTT, R4, AceKard and ez-flash V/Vi) cards. These cards typically enable DS console gamers to use their console to play MP3s and videos, and other non-gaming functions traditionally reserved for separate devices.[48]
+In South Korea, many video game consumers exploit illegal copies of video games, including for the Nintendo DS. In 2007, 500,000 copies of DS games were sold, while the sales of the DS hardware units was 800,000.[49]
+Another modification device called Action Replay, manufactured by the company Datel, is a device which allows the user to input cheat codes that allows it to hack games, granting the player infinite health, power-ups, access to any part of the game, infinite in game currency, the ability to walk through walls, and various other abilities depending on the game and code used.[50]
+Photographer Steve Chapman, looking for other ways to continue his photography work with smaller equipment, created DS-DSLR, an application that allowed him to control his camera without his bulky laptop. When his camera was connected to the DS through the GBA cartridge slot, DS-DSLR allowed him to execute many tasks, including controlled bracketing, custom interval shots, and timed long exposures. DS-DSLR even had a noise-activated shutter control which was activated when the DS mic detected noise.[51]
+With the DSi, it too has some homebrew exploits, some of which use DSiWare apps such as Flipnote Studio (aka ugopwn), sudokuhax, using a game called Sudoku by EA Games, grtpwn, exidiahax, fieldrunhax, 4swordhax, UNO*hax, and an exploit using Petit Computer called petit-compwner. There is also systemflaaw, which uses the DSi-exclusive game System Flaw.
+A user by the name of shutterbug2000 on GBAtemp has released two DSi exploits, one being called Memory Pit, an exploit using the DSi Camera app,[52] and the other known as the Flipnote Lenny exploit (aka ugopwn), using Flipnote Studio.
+Xbox 360[edit]
+Microsoft has released a version of its proprietary Software Development Kit (SDK) for free, to would-be homebrew programmers. This SDK, called XNA Game Studio, is a free version of the SDK available to professional development companies and college students. However, to create Xbox 360 games one must pay for a premium membership to the XNA Creators Club. Once the games are verified, the games written with XNA Studio can be made available for 80, 240, or 400 Microsoft Points to all Xbox 360 owners (through Xbox Live). This allows creators of homebrew content access to their target audience of Xbox 360 owners. This content is available under the Indie Games section of the New Xbox Experience.
+On March 20, 2007, it was announced that a hack using the previously discovered hypervisor vulnerability in the Xbox 360 kernel versions 4532 and 4548 had been developed to allow users to run XeLL, a Linux bootloader. The initial hack was beyond the average user and required an Xbox serial cable to be installed and a flashed DVD Drive firmware. Felix Domke, the programmer behind XeLL, has since announced a live bootable Linux CD suitable for novice users, with the capabilities to be installed to the SATA hard drive of the Xbox 360. Despite the availability of such a distribution, the Xbox 360 still isn't considered a popular platform for homebrew development, given the dependence of the exploit on the DVD-ROM being able to load a burnt DVD game, a modified version of the game King Kong, and two older kernel revisions of the console itself.
+A group independent of Microsoft is working on the means to run homebrew code, as part of the Free60 project.
+Note: The hypervisor vulnerability in the Xbox 360 kernel versions 4532 and 4548 was addressed by Microsoft with the release of the NXE system and dashboard update in 2008.[citation needed]
+Homebrew was since re-enabled on any Xbox 360 with dash 2.0.7371.0 or lower via an exploit referred to as the JTAG / SMC hack but was promptly patched again by Microsoft with the 2.0.8495.0 update.
+Homebrew has now become available on most Xbox 360 consoles due to the Reset Glitch Hack (excluding the late Winchester revision, which fixed this exploit with mitigations in hardware). It works on all current dashboards. As the Reset Glitch Hack requires a modchip, soldering skills are a necessity when attempting to use this exploit.
+PlayStation 3[edit]
+Main article: PlayStation 3 homebrew
+The PlayStation 3 was designed to run other operating systems from day one. Very soon after launch, the first users managed to install Fedora Core 5 onto the PlayStation 3 via the 'Install Other OS' option in the PlayStation 3's XMB (Xross Media Bar), which also allows configuring the PlayStation 3 to boot into the other OS installed by default.
+So far, several Linux flavors have been successfully installed to the PlayStation 3, such as Fedora Core 5, Fedora Core 6, Gentoo, Ubuntu and Yellow Dog Linux (YDL). The latter comes installed with the Cell SDK by default, allowing programmers a low cost entry into Cell programming. See also: Linux for PlayStation 3
+Originally, graphics support was limited to framebuffer access only (no access to the PlayStation 3's graphics chip RSX), yet some access to the RSX graphics processor was achieved (but Sony blocked this with firmware release 2.10).
+As of firmware release 3.21, consumers are no longer able to access the 'Other OS' due to Sony removing the facility[53] from the software in an update. Sony said this was in response to several 'security concerns'.
+Homebrew developers do have access to the Cell microprocessor, including 6 of its 7 active Synergistic Processing Elements (SPEs). The Game OS resides under a hypervisor and prevents users from taking full control of the PlayStation 3's hardware. This is a security measure which helps Sony feel secure enough to allow users to install other operating systems on the PS3.
+The Sixaxis controller has also been exposed to Linux and Windows,[54] but no driver seems to have been successfully created yet that exposes its accelerometer functionality, except for Motioninjoy. However other drivers have successfully used it as a controller for gaming and other applications.
+In May 2008, a vulnerability was found in the PlayStation 3 allowing users to install a partial debug firmware on a regular console. However, the debug functionality is disabled, so neither homebrew applications nor backup games can be run yet.
+Another exploit was found on August 14, 2008, allowing users to boot some backup games from the PlayStation 3's HDD, although the exact instructions on how to do this were not released at that time. However, a different person posted instructions 10 days later, which explained the exploit.[55]
+On January 6, 2009 a hacking ring known as the "Sh4d0ws" leaked the jig files needed to launch the PlayStation 3 into service mode. Although the PlayStation 3 can be triggered into service mode, it is not yet of any use because the files needed to make changes to the console have not been leaked.[56]
+On August 31, 2010, PSGroove, an exploit for the PS3 through the USB port, was released and made open source. This exploit works on all of the PS3 models released up until then.[57]  A guide for the creation of the PSGroove is available through several online sources.[58]
+George Hotz, better known under his nickname "geohot", appeared on Attack of the Show because he released the PlayStation 3's encryption keys, therefore any homebrew or custom firmware can be signed. Once signed, homebrew can be natively run. It would be difficult for Sony to fix this because it would most likely require a voluntary recall and the most expensive parts would have to be replaced.[59] In 2011, Sony, with help from law firm Kilpatrick Stockton, sued Hotz and associates of the group fail0verflow for their jailbreaking activities. Charges included violating the DMCA, CFAA, copyright law, and California's CCDAFA, and for breach of contract (related to the PlayStation Network User Agreement), tortious interference, misappropriation, and trespass.[60]
+Wii[edit]
+See also: Wii system software
+ Wii Homebrew Channel logo
+In advance of the Wii's release, WiiCade was the first site to host Adobe Flash homebrew games specifically designed for the Wii and its remote, which could be played without any exploits using the Wii's Opera web browser.[61] The Wii was hacked via a custom serial interface in December 2007.[62] The goal of most Wii exploits is to install the Homebrew Channel, a custom channel that lets users run homebrew software on the console. The Homebrew Channel's first full release was in December 2008.[63] Though Nintendo successfully patched various older exploits to install The Homebrew Channel, many exploits to run the channel on current firmware exist. This channel can be installed using exploits in games such as the NTSC version of Super Smash Bros. Brawl, an exploit on the Internet Channel,[64] a DNS exploit with the EULA, or it can be installed via an exploit in the Wii's messaging system.[65] Note that only exploits that use disc games are compatible with installing The Homebrew Channel on the vWii (virtual Wii) mode on a Wii U, with the exception of "wuphax", an exploit that installs the channel via Wii U specific system permission exploits. The Wii Opera software development kit let developers make their own games in JavaScript.[66] The console's controller was also a popular target for modification.[67] On August 9, 2010, Team Twiizers released an exploit called LetterBomb which uses a malformed mail letter (Buffer overflow) to load a boot.elf file into memory, which then installs The Homebrew Channel to run unsigned code.
+In recent years, other methods exploiting the Internet Channel (Flashhax) and the Wii's EULA (str2hax[68]) have been released. In 2019, an exploit using Bluetooth called BlueBomb[69] was released. BlueBomb meant that the Wii Mini was hackable for the first time, as it was previously not possible due to the Wii Mini's Internet, Wii messaging capabilities and SD slot removed.
+Eighth generation consoles[edit]
+3DS[edit]
+ A New Nintendo 3DS XL running The Homebrew Launcher
+The first public homebrew exploit for the Nintendo 3DS, ninjhax, originally called ssspwn, allowed the user to scan a QR Code to exploit the game Cubic Ninja. Other ways to run The Homebrew Launcher have been discovered since then, including freakyhax, an exploit in the Deluxe edition of Freakyforms: Your Creations, Alive!;[70] Doodlebomb, an exploit in the 1.1.1 and older versions of Swapdoodle;[71], browserhax and broswerhax-xl, both using the Internet Browser (Nintendo 3DS);[72], soundhax, using the Nintendo 3DS Sound app, pichaxx, using Pok mon Picross, unSAFE_MODE, which injects a corrupted WiFi profile into the SAFE_MODE firmware, kartdlphax, using Mario Kart 7, ntrboot, using an NDS flash cart, and smashbroshax, a New 3DS exclusive exploit for Super Smash Bros. for Nintendo 3DS.[73]
+The majority of system updates that have "Further improvements to overall system stability and other minor adjustments have been made to enhance the user experience" in their changelog are simply to patch Homebrew Launcher (userland) exploits that require a specific version of a game or application are often patched in these updates by adding those exploited application versions to the "IsTitleAllowed" blacklist, which prevents outdated applications on the list from launching and forces users to update those applications to the latest version to launch the application.[74] For example, notehax only works on outdated versions of Flipnote Studio 3D. In the 11.6.0-39 system update, all regions of Flipnote Studio version <=1.0.1 in USA, <=1.2.0 in EUR, and <=1.3.1 in JPN were blocked from launching the application, patching the exploit on current firmware.[75][76]
+Unsigned software can be launched from the SD card without having to install custom firmware on the device by using an exploit to run The Homebrew Launcher. The Homebrew Launcher itself can be launched on system versions 9.0-11.16 on any 3DS system. However, without installing custom firmware, the user will need to run the exploit each time they want to access The Homebrew Launcher.
+To directly install custom software onto the 3DS home menu, custom firmware is needed. There are several custom firmware releases available, the most popular being Luma3DS. Requirements to install custom firmware involve using various exploits to run a boot ROM exploit called boot9strap, which executes custom code before boot ROM lockout. As of December 2020, the latest exploit uses an oversight in DSiWare, which can run the custom code from the DSiWare menu in the 3DS settings to install the 3DS hacks.[77]
+PlayStation 4[edit]
+In 2015, an exploit for the PlayStation 4 was released for firmware 1.76 and below which grants kernel access.[78] The userland exploit was WebKit via the PS4 Web Browser. This opened the door for unsigned code on the system and a homebrew community began to emerge.
+Over time, further exploits have been found that grant kernel level modifications to the system. The firmware versions for these are 4.05, 4.74, 5.05/5.07, 6.72, 7.02, 7.55, and 9.00.[79][80][81][82][83] All of these use the PS4 Web Browser as the entry point.
+Homebrew on the PS4 includes being able to boot the PS4 into a Linux distribution, although this is not permanent and the console will revert to Orbis OS on reboot.[84][85] Some payloads can patch games on the fly, such as 60 FPS for games that were never given official patches, character mods, and removal of intros and cutscenes.[86] These patches can even work on physical retail discs inserted into the console; they are done at runtime in RAM and such leave the physical disc data intact.
+PlayStation Vita[edit]
+ Screenshot of HENlo, a WebKit-based jailbreak for the PlayStation Vita
+In 2016, an exploit for the PlayStation Vita was released named "HENkaku".[87]  This exploit used a bug found on the 3.60 system firmware, allowing users to run unsigned software. It was installed by visiting a website and clicking on the install button on the PlayStation Vita web browser. This had to be done every time the user turned the system on, and was patched in firmware version 3.61. However, in 2018, computer science student TheFloW (Andy Nguyen) found a kernel bug in firmware versions 3.65, 3.67, and 3.68 that allowed unsigned code to be run. Eventually, he developed an exploit called "h-encore" which allowed one to install the HENkaku hack on later PS Vita versions. The kernel bug was patched in firmware version 3.69, but the userland bug still works. Because HENkaku needs to be reinstalled every time the device is turned on again, an optional flasher program named ens  can be used alongside HENkaku to flash it into the system, making the plugin stay permanently even after shutdown and reboot, until uninstalled through the ens  installer.
+On February 13, 2019, TheFloW released a downgrader tool that can downgrade any Vita console to an older firmware down to its factory firmware.[88]
+On December 26, 2022, TheFloW released HENlo, a WebKit-based exploit chain for developers and security researchers on his GitHub page; a working implementation of the exploit which can be used on all Vita firmware versions was released by SKGleba.[89]
+Wii U[edit]
+This section may contain an excessive amount of intricate detail that may interest only a particular audience. Please help by spinning off or relocating any relevant information, and removing excessive detail that may be against Wikipedia's inclusion policy. (May 2017) (Learn how and when to remove this template message)
+The most common way to execute code on the Wii U for 5.5.5 and below is through vulnerabilities in the Wii U's built in web browser. There are many different userland and PowerPC kernel exploits in the Wii U internet browser. The earliest userland exploits used C code (on versions 2.0.0-5.3.2) and libstagefright bugs (on versions 5.4.0-5.5.1) to load custom code in the browser, with memory and permission limitations.[90][91]  The first kernel exploit found in the browser, called osdriver, only works on system versions 5.3.2 and lower, but this is no longer used as the 5.5.1 and lower exploit is more reliable. Currently, two different browser kernel exploits are used in the community. The first exploit found works on 5.5.1 and below and is very reliable.[92] The other kernel exploit works on 5.5.2 and below, but due to its unreliability, it is only used on 5.5.2 to install a Wii U software exploit called Haxchi. When installed to a DS VC game, Haxchi launches homebrew directly (such as the Wii U Homebrew Launcher) using an exploit installed in the game's file location. There is also an additional, optional, part of Haxchi called "Coldboot Haxchi" or CBHC. CBHC allows custom firmware to be enabled automatically each time the system is turned on by running the Virtual Console game directly on boot, whereas other exploits have to be run every time manually. However, CBHC has an increased risk of rendering the system inoperable as deleting the Virtual Console game, among other things, will brick the console, rendering it unusable.[93]
+Recently, an alternative to CBHC has been released called Tiramisu.
+Many homebrew applications that run via the Homebrew Launcher have been collected and hosted on wiiubru.com. These hosted applications can be downloaded directly on the Wii U using The Homebrew App Store app in the repository. 
+The Wii U's built-in emulated Wii environment (often nicknamed vWii or Wii Mode) is capable of running Wii homebrew, such as The Homebrew Channel.[94] However, vWii is much more fragile than a real Wii console and has a higher chance of being rendered inoperable if dangerous software is used. Also, due to changes made to the Wii operating system in vWii mode, previous exploits that utilized the Wii Menu itself to load the HackMii Installer, such as Letterbomb, do not work on vWii. The only ways to hack vWii without one of the exploit games is by using applications called wuphax or Compat Installer. Wuphax uses the public Wii U IOSU exploit to temporarily inject the HackMii installer into the Mii Channel so that The Homebrew Channel can be installed without an exploit game.[95] Compat Installer uses the public IOSU exploit to install the Open-Source Homebrew Channel from Wii U Mode. [96]
+Nintendo Switch[edit]
+This article is written like a manual or guidebook. Please help rewrite this article from a descriptive, neutral point of view, and remove advice or instruction. (July 2022) (Learn how and when to remove this template message)
+The Nintendo Switch was first exploited by a team called ReSwitched. On March 14, 2017, about 11 days after the console's release, the team released their exploit to the public. This exploit was called PegaSwitch. It did not allow true homebrew to run on the system at the time, but it did let developers look for other security bugs in the system. Later that year on October 1, ReSwitched announced new exploits and tools that allowed homebrew developers to start working on homebrew programs for the system before they could be launched.[97] At the 34th Chaos Communication Congress, hackers Plutoo, Derrek, and Naehrwert announced a kernel exploit for the system (which they said would not be released) and said that a homebrew launcher was coming soon.[98]
+On January 7, 2018, Twitter user fail0verflow uploaded a video showing a simple side-scrolling text program before booting the system, which shows that there was a way to run unsigned code before boot-up, opening up possibilities for new programs focused on development.[99] On March 29, 2018, SciresM, a respected developer in the homebrew community, announced that a custom firmware called "Atmosphere" would be released for all available firmware versions at the time.[100] Firmware above and including 1.0.0 are hackable via a cold boot exploit known as Fus e Gel e, developed by the ReSwitched team. This exploit takes advantage of a bug in the boot ROM on the Tegra X1 chip used by the Nintendo Switch. The exploit was also independently discovered by fail0verflow under the name ShofEL2. Firmware version 1.0.0 is hackable via a TrustZone exploit known as Jamais Vu. Atmosphere released its first public build in October 2018.
+Currently, the Nintendo Switch has both a homebrew launcher and custom firmware. Access to a Japanese copy of Puyo Puyo Tetris is needed to install CFW on version 1.0.0. The ability to install homebrew on the Nintendo Switch is also dependent on the version of the console. As consoles that were released after June 2018 with version 4.1.0 shipped have their boot ROMs patched against the full control TrustZone exploit that would allowed for homebrew to be installed,[101] it is currently not possible to install homebrew to the HAC-001(-01) revision of the Nintendo Switch, the Nintendo Switch Lite, and the Nintendo Switch   OLED Model without the purchase and installation of a specialized modchip which replicates the vulnerability of the Tegra X1 chip.
+Xbox One, Series X, and Series S[edit]
+This section needs expansion. You can help by adding to it.  (July 2018)
+The Xbox One and Series X/S have a Dev Mode which, though intended to be used for retail game development, can be used to run unsigned homebrew software.[102] It can be enabled on any retail Xbox console. Dev Mode disables retail games and software while enabled. Homebrew software can be developed as Universal Windows Platform applications, allowing many programs designed to run on desktop editions of Windows 10 to run on the console including console emulators. In order to activate developer mode, one has to first register for an app developer account, which has a fee of $19.[103]
+The Xbox One and Series X/S have had limited exploits found, but very few have allowed homebrew, and all known exploits have been patched as of October 2022.
+See also[edit]
+Fangame
+Mod (video gaming)
+ROM hacking
+Jailbreaking
+Modchips
+Softmods
+References[edit]
+^ Winterhalter, Ryan (April 29, 2011). "31 Homebrew Games Worth Playing". 1UP.com. Retrieved December 12, 2013.
+^ "Odball for Magnavox Odyssey Official Page". Revrob.com. 2010-08-04. Retrieved 2012-04-03.
+^ "Dodgeball   Magnavox Osyssey". Atari2600Land.com. 2012-07-17. Retrieved 2012-07-17.
+^ "Sean Riddle's Home Page   Channel F info". Seanriddle.com. 2004-06-16. Retrieved 2012-04-03.
+^ "PowerPak   RetroZone". Retrousb.com. Retrieved 2012-04-03.
+^ "This Guy Is Making an All-New Sega Genesis Game the 90s Way". Motherboard. 14 November 2016.
+^ "Nantettatte Engine   A free PC Engine / TurboGrafx-16 Game from Aetherbyte".
+^ "Order FX Unit Yuki for the PC ENGINE here!! **Price cut** | FX Unit Yuki".
+^ "Review: FX-Unit Yuki for the PC Engine Super CD".
+^ "Developing a game for the SNES | Learn C Games Programming Blog". 5 June 2020.
+^ "Alisha's Adventure July 2019 update". YouTube. Archived from the original on 2021-12-12.
+^ NGDevTeam.com
+^ Razoola (23 January 2015). "Neo Geo Dev: Two Player Skeleton game driver". Archived from the original on 2021-12-12. Retrieved 11 February 2018   via YouTube.
+^ "This Insanely Expensive Neo Geo Shmup is Coming to Switch in Physical Form". 28 April 2021.
+^ "Fan working on Castlevania: SotN demake for Game Boy". May 2022.
+^ "Pushing the Classic Gameboy to its Absolute Limit!". 15 January 2019.
+^ "Yes, This is Stunt Race FX Running on the Game Boy". 14 December 2021.
+^ "History on what's new on the Jaguar Server Home Page?". Jaguar Server Homepage. Retrieved 2018-04-07.
+^ Johnston, Chris (April 8, 2000). "Atari Goes to Hasbro". GameSpot.
+^ "The Atari Jaguar 64-Bit Multimedia Entertainment System". Atari Explorer. Retrieved 2018-04-07.
+^ "Hasbro Releases Jaguar Publishing Rights". Hasbro Interactive. Retrieved 2018-04-07. Beverly, MA (May 14, 1999)   Leading entertainment software publisher, Hasbro Interactive announced today it has released all rights that it may have to the vintage Atari hardware platform, the Jaguar.
+^ Goss, Patrick. "Redundant gadgets (Atari Jaguar entry)". Archived from the original on October 11, 2007. Retrieved 2018-04-07.
+^ "THE SEMIOFFICIAL BATTLESPHERE FAQ". Official BattleSphere Home Page. Retrieved 2018-04-07.
+^ "B & C Computervisions myatari.com atarijag.txt". B&C Computervisions. Retrieved 2018-04-07.
+^ "Reboot - Releases". Reboot. Retrieved 2018-04-07.
+^ "Jaguar File-Store". Atari Museum. Retrieved 2018-04-07.
+^ "Atari Jaguar CD Encryption Bypass BIOS Kit". Consoles5.com. Retrieved 2018-04-07.
+^ Charnock, Tom (April 17, 2015). "Fantasy World Dizzy, Rick Dangerous & Other Atari ST Classics Ported To Atari Jaguar". retrocollect.com. Retrieved 2018-11-23.
+^ Yarusso, Albert. "Jaguar Ports on Cart Available Here!". AtariAge. Archived from the original on 28 November 2016. Retrieved 2018-04-07.
+^ Gaztee (February 1, 2017). "ST Port Boxsets Pre-Order Now OPEN". AtariAge. Retrieved 2018-11-23.
+^ "16 portages de jeux ST sur Jaguar en cartouche !". 5 August 2016.
+^ CyranoJ (December 11, 2015). "Atari ST Games Ported to the Jaguar". AtariAge. Retrieved 2018-11-23.
+^ "Jo Sega Saturn Engine, Sega Saturn SDK for homebrews". jo-engine.org. Retrieved 2017-10-18.
+^ XL2 (2018-08-30), (Sega Saturn homebrew) Sonic Z-Treme 2018-08-30, retrieved 2018-08-30
+^ "[Oddities] - A day in the life of Turok 3". Archived from the original on 2013-03-28. Retrieved 2012-08-24.
+^ EverDrive 64 Archived 2013-01-05 at the Wayback Machine
+^ "64drive by Retroactive".
+^ a b "Xeno Crisis seeing N64, GameCube release". gonintendo. 2 April 2023. Retrieved 2023-04-09.
+^ Agnello, Anthony John (November 19, 2013). "Back from the dead: 9 modern games for obsolete consoles". The A.V. Club. Retrieved December 12, 2013.
+^ Brightman, James (June 20, 2006). "U.K. Court: PS2 Not a Computer". GameDaily. Archived from the original on May 4, 2010.
+^ Simple Media System for PlayStation 2   http://home.casema.nl/eugene_plotnikov/
+^ FMCB 1.9 series release thread - http://psx-scene.com/forums/f153/fmcb-v1-9-series-release-thread-116247/
+^ PS2 Emulators   http://www.sksapps.com/index.php?page=emus.html Archived 2008-06-12 at the Wayback Machine
+^ "Booting Homebrew".
+^ emukidid (2019-05-27), GitHub - emukidid/swiss-gc: Swiss: The swiss army knife of GameCube homebrew., retrieved 2019-05-27
+^ "Game Boy Interface - GC-Forever Wiki". www.gc-forever.com. Retrieved 2019-05-27.
+^ "List of DS homebrew emulators - GameBrew - a wiki dedicated to Video Game Homebrew". gamebrew.org. Retrieved 2021-05-29.
+^ "What Are Nintendo DS and DSi Cards?". Nintendo DS Cards. June 27, 2010. Archived from the original on February 3, 2011. Retrieved September 23, 2010.
+^ " DS " (in Japanese). The Chosun Ilbo. December 11, 2007. Archived from the original on February 7, 2010. Retrieved September 10, 2008.
+^ "DSi Action Replay - Codejunkies US". 2012-11-14. Archived from the original on 2012-11-14. Retrieved 2021-05-29.
+^ "Homebrew DS-DSLR Uses Nintendo DS as a Canon EOS Remote". 17 September 2008. Retrieved 2019-10-05.
+^ "Memory Pit Exploit for DSi - All DSi Can Now Be Hacked via The Camera". TheNerdMag. 2019-05-28. Retrieved 2021-05-29.
+^ "Sony blocks OtherOS in firmware 3.21". Retrieved 2012-04-14.
+^ "Sixaxis driver for Windows XP". Archived from the original on 2007-09-01.
+^ "How to run a PS3 game backup".
+^ "PlayStation 3 Service Mode JIG Set-Up Files Leaked!".
+^ "Open Source PS JailBreak Clone "PSGroove" Available Now! | PS3-Hacks :: Hack your PlayStation 3". PS3-Hacks. Retrieved 2012-04-03.
+^ "Web hosting, domain name registration and web services by 1&1 Internet". Howtohackps3.com. Archived from the original on 2012-04-02. Retrieved 2012-04-03.
+^ "Geohotz Page".
+^ Sony follows up, officially sues Geohot and fail0verflow over PS3 jailbreak. Nilay Patel, Engadget (2011-01-12). Retrieved on 2011-02-16.
+^ "For your enjoyment: WiiCade".
+^ Wilson, Mark (29 December 2007). "Nintendo Wii Hacked, The Video".
+^ "Wii Homebrew Channel turns 1.0".
+^ "New free homebrew entry point. FlashHax". GBAtemp.net - The Independent Video Game Community. Retrieved 2018-06-14.
+^ "LetterBomb". please.hackmii.com. Retrieved 2017-06-30.
+^ "Revolutionary: Web Wii Wares".
+^ Brophy-Warren, Jamin (29 April 2007). "Magic Wand: How Hackers Make Use Of Their Wii-motes". Wall Street Journal.
+^ Gerig, Dexter (2019-11-16), An implementation of CVE-2009-0689 for the Nintendo Wii.: Fullmetal5/str2hax, retrieved 2019-12-02
+^ Gerig, Dexter (2019-11-22), GitHub - Fullmetal5/bluebomb: A Bluetooth exploit for the Nintendo Wii., retrieved 2019-12-02
+^ "Freakyhax Website".
+^ "Doodlebomb".
+^ "Old-browserhax". GitHub. 13 June 2022.
+^ "yellows8/3ds_smashbroshax". GitHub. 25 March 2021.
+^ "IsTitleAllowed Documentation".
+^ "11.6.0-39 Documentation".
+^ "Notehax".
+^ Homebrew, Nintendo. "Seedminer". 3DS Hacks Guide. Retrieved 2020-12-16.
+^ "PS4 hack: CTurt confirms PS4 Kernel exploit". wololo.net. 6 December 2015. Retrieved 2022-12-31.
+^ "PS4: SpecterDev releases PS4 5.05 kernel exploit". wololo.net. 27 May 2018. Retrieved 2023-01-02.
+^ "PS4 6.72 Jailbreak released by Sleirsgoevy". wololo.net. 16 July 2020. Retrieved 2023-01-02.
+^ "PlayStation 4: PS4HEN released for Firmware 7.02 following the firmware being fully cracked open!". wololo.net. 19 December 2020. Retrieved 2023-01-02.
+^ "Release: Mira (Custom firmware) for PS4 7.55 (+ updated jailbreak)". wololo.net. 15 March 2021. Retrieved 2023-01-02.
+^ "PS4 9.00 Jailbreak "pOOBs4" released!". wololo.net. 13 December 2021. Retrieved 2023-01-02.
+^ "Linux released for PS4 4.55". wololo.net. 2 March 2018. Retrieved 2023-01-02.
+^ "PS4 Linux: Psxitarch v3 released, with Mesa 22.2.0 support, lightweight RAM usage, and preinstalled emulators". wololo.net. 17 December 2022. Retrieved 2023-01-02.
+^ "You can now load PS4 Game patches (60FPS, etc ) directly with GoldHEN 2.2.5b7 + GoldHEN Cheats Manager 1.0.0". wololo.net. 15 November 2022. Retrieved 2023-01-02.
+^ "HENkaku". henkaku.xyz. Retrieved 2018-10-16.
+^ "Modoru". GitHub. Retrieved 2019-06-24.
+^ TheGuardian (2022-12-28). "PS Vita: TheFloW releases new kernel exploit "HENlo" (compatible with 3.74)". Wololo.net. Retrieved 2023-01-02.
+^ "Build system and examples for running C code on the Wii U". GitHub. 4 March 2015. Retrieved 20 February 2015.
+^ "Wii U libstagefright exploits". GitHub. 13 January 2016. Retrieved 20 February 2016.
+^ "Wii U Hacking & Homebrew Discussion". 13 January 2016. Retrieved 20 February 2016.
+^ "Wii U Hacks Guide". wiiu.hacks.guide. Retrieved 2020-12-26.
+^ "WiiMode". 3 February 2016. Retrieved 20 February 2016.
+^ "Official - wuphax v1.1 - Hacking vWii from WiiU Mode". Retrieved 11 February 2018.
+^ "Install Homebrew Channel from Wii U Mode". GitHub. Retrieved 8 May 2022.
+^ "octrelease". 1 October 2017. Retrieved 4 February 2018.
+^ "Nintendo Switch Kernel exploit 34c3 presentation: "Nvidia Backdoored themselves"". 29 December 2017. Retrieved 4 February 2018.
+^ @fail0verflow (7 January 2018). "We made a nice scroller for Switch :)" (Tweet). Retrieved 4 February 2018   via Twitter.
+^ "An update on timelines   r/SwitchHacks". reddit. 28 March 2018. Retrieved 2018-03-29.
+^ "ReiNX". Archived from the original on 2018-10-19.
+^ "Developer Mode Activation App FAQ". support.xbox.com. Retrieved 2018-07-04.
+^ "Register as an app developer". developer.microsoft.com. Retrieved 2021-05-16.
+External links[edit]
+Retro Video Gamer - publisher of Homebrew Heroes book
+SSEGA Sega Genesis Homebrew section
+gbadev.org
+Skeetendo Archived 2020-11-12 at the Wayback Machine
+VGB
+vteHomebrew video gamesAtari
+Atari 2600
+Duck Attack!
+Halo 2600
+Medieval Mayhem
+Oystron
+Warring Worms
+Lynx
+Championship Rally
+Zaku
+Jaguar
+Mad Bodies
+Nintendo
+NES
+Action 52
+Battle Kid: Fortress of Peril
+Family BASIC
+SNES
+Hong Kong 97
+Nintendo DS
+Colors!
+Sega
+Dreamcast
+Beats of Rage
+Genesis
+Pier Solar and the Great Architects
+Tanglewood
+Konsolation
+Sony
+PlayStation 2
+PlayStation 3
+PlayStation Portable
+Related
+Consoles
+GP2X
+Ouya
+Pandora
+Custom firmware
+D jin soft
+Fangame
+Flash cartridge
+Modchip
+vteIndependent productionReading
+Alternative comics
+Alternative manga
+Fanzine
+Webcomic
+business
+Webtoon
+Minicomic
+Co-ops
+Doujinshi
+conventions
+printers
+shops
+Self-publishing
+Small press
+Amateur press association
+Audio
+Independent music
+Record label
+Netlabel
+Open-source label
+Radio
+Station
+Pirate radio
+Cassette culture
+Doujin music
+Lo-fi music
+Tracker (MOD) music
+Podsafe
+Underground music
+Musical instruments
+Circuit bending
+Experimental musical instrument
+VideoAmateur
+Home movies
+Amateur film
+Amateur pornography
+Fan film
+Machinima
+Professional
+Independent animation
+Cinema of Transgression
+Independent film
+American Eccentric Cinema
+Indiewood
+Mumblecore
+Exploitation film
+Guerrilla filmmaking
+B movie
+Golden Age
+50s
+60s 70s
+80s present
+Z movie
+Midnight movie
+Low-budget film
+No-budget film
+No Wave Cinema
+Double feature
+Software
+Cowboy coding
+Demoscene
+Free software
+Open-source software
+Software cracking
+Unofficial patch
+Warez scene
+Video games
+Indie games
+development
+developers
+Homebrew
+Fangame
+Doujin soft
+Mod
+Open-source video game
+ROM hack
+FoodDrinks
+Independent soft drink
+Homebrewing
+Microbrewery
+Other
+Indie art
+Amateur photography
+Mail art
+Na ve art
+Outsider art
+Visionary environment
+Indie RPG
+Independent circuit (wrestling)
+Independent TV station
+General
+Indie design
+Do it yourself (DIY ethic)
+Doujin
+Make (magazine)
+Maker Faire
+Social peer-to-peer processes
+vteEmbedded systemsGeneral terms
+ASIC
+Board support package
+Bootloader
+Consumer electronics
+Cross compiler
+Embedded database
+Embedded hypervisor
+Embedded OS
+Embedded software
+FPGA
+IoT
+Memory footprint
+Microcontroller
+Single-board computer
+Raspberry Pi
+SoC
+Firmware and controls
+Firmware
+Custom firmware
+Proprietary firmware
+Closed platform
+Crippleware
+Defective by Design
+Hacking of consumer electronics
+Homebrew (video games)
+iOS jailbreaking
+PlayStation 3 Jailbreak
+Rooting (Android)
+Vendor lock-in
+Boot loaders
+U-Boot
+Barebox
+Software libraries
+uClibc
+dietlibc
+Embedded GLIBC
+lwIP
+musl
+Programming tools
+Almquist shell
+BitBake
+Buildroot
+BusyBox
+OpenEmbedded
+Stand-alone shell
+Toybox
+Yocto Project
+Operating systems
+Linux on embedded systems
+Linux for mobile devices
+Light-weight Linux distribution
+Real-time operating system
+Windows IoT
+Win CE
+Programming languages
+Ada
+Assembly language
+CAPL
+Embedded C
+Embedded C++
+Embedded Java
+MISRA C
+MicroPython
+Lightweight browsers
+List of open-source hardware
+Open-source robotics
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Homebrew_(video_games)&oldid=1149115720#Wii"

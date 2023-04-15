@@ -1,0 +1,237 @@
+Data storage virtualization technology
+This article is about the data storage technology. For the police unit, see RAID (French Police unit). For other uses, see Raid (disambiguation).
+RAID (/re d/; "redundant array of inexpensive disks"[1] or "redundant array of independent disks"[2]) is a data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both. This is in contrast to the previous concept of highly reliable mainframe disk drives referred to as "single large expensive disk" (SLED).[3][1]
+Data is distributed across the drives in one of several ways, referred to as RAID levels, depending on the required level of redundancy and performance. The different schemes, or data distribution layouts, are named by the word "RAID" followed by a number, for example RAID 0 or RAID 1. Each scheme, or RAID level, provides a different balance among the key goals: reliability, availability, performance, and capacity. RAID levels greater than RAID 0 provide protection against unrecoverable sector read errors, as well as against failures of whole physical drives.
+History[edit]
+The term "RAID" was invented by David Patterson, Garth A. Gibson, and Randy Katz at the University of California, Berkeley in 1987. In their June 1988 paper "A Case for Redundant Arrays of Inexpensive Disks (RAID)", presented at the SIGMOD Conference, they argued that the top-performing mainframe disk drives of the time could be beaten on performance by an array of the inexpensive drives that had been developed for the growing personal computer market. Although failures would rise in proportion to the number of drives, by configuring for redundancy, the reliability of an array could far exceed that of any large single drive.[4]
+Although not yet using that terminology, the technologies of the five levels of RAID named in the June 1988 paper were used in various products prior to the paper's publication,[3] including the following:
+Mirroring (RAID 1) was well established in the 1970s including, for example, Tandem NonStop Systems.
+In 1977, Norman Ken Ouchi at IBM filed a patent disclosing what was subsequently named RAID 4.[5]
+Around 1983, DEC began shipping subsystem mirrored RA8X disk drives (now known as RAID 1) as part of its HSC50 subsystem.[6]
+In 1986, Clark et al. at IBM filed a patent disclosing what was subsequently named RAID 5.[7]
+Around 1988, the Thinking Machines' DataVault used error correction codes (now known as RAID 2) in an array of disk drives.[8] A similar approach was used in the early 1960s on the IBM 353.[9][10]
+Industry manufacturers later redefined the RAID acronym to stand for "redundant array of independent disks".[2][11][12][13]
+Overview[edit]
+Many RAID levels employ an error protection scheme called "parity", a widely used method in information technology to provide fault tolerance in a given set of data. Most use simple XOR, but RAID 6 uses two separate parities based respectively on addition and multiplication in a particular Galois field or Reed Solomon error correction.[14]
+RAID can also provide data security with solid-state drives (SSDs) without the expense of an all-SSD system. For example, a fast SSD can be mirrored with a mechanical drive. For this configuration to provide a significant speed advantage, an appropriate controller is needed that uses the fast SSD for all read operations. Adaptec calls this "hybrid RAID".[15]
+Standard levels[edit]
+Main article: Standard RAID levels
+ Storage servers with 24 hard disk drives each and built-in hardware RAID controllers supporting various RAID levels
+Originally, there were five standard levels of RAID, but many variations have evolved, including several nested levels and many non-standard levels (mostly proprietary). RAID levels and their associated data formats are standardized by the Storage Networking Industry Association (SNIA) in the Common RAID Disk Drive Format (DDF) standard:[16][17]
+RAID 0 consists of striping, but no mirroring or parity. Compared to a spanned volume, the capacity of a RAID 0 volume is the same; it is the sum of the capacities of the drives in the set. But because striping distributes the contents of each file among all drives in the set, the failure of any drive causes the entire RAID 0 volume and all files to be lost. In comparison, a spanned volume preserves the files on the unfailing drives. The benefit of RAID 0 is that the throughput of read and write operations to any file is multiplied by the number of drives because, unlike spanned volumes, reads and writes are done concurrently.[11] The cost is increased vulnerability to drive failures since any drive in a RAID 0 setup failing causes the entire volume to be lost, the average failure rate of the volume rises with the number of attached drives.
+RAID 1 consists of data mirroring, without parity or striping. Data is written identically to two or more drives, thereby producing a "mirrored set" of drives. Thus, any read request can be serviced by any drive in the set. If a request is broadcast to every drive in the set, it can be serviced by the drive that accesses the data first (depending on its seek time and rotational latency), improving performance. Sustained read throughput, if the controller or software is optimized for it, approaches the sum of throughputs of every drive in the set, just as for RAID 0. Actual read throughput of most RAID 1 implementations is slower than the fastest drive. Write throughput is always slower because every drive must be updated, and the slowest drive limits the write performance. The array continues to operate as long as at least one drive is functioning.[11]
+RAID 2 consists of bit-level striping with dedicated Hamming-code parity. All disk spindle rotation is synchronized and data is striped such that each sequential bit is on a different drive. Hamming-code parity is calculated across corresponding bits and stored on at least one parity drive.[11] This level is of historical significance only; although it was used on some early machines (for example, the Thinking Machines CM-2),[18] as of 2014[update] it is not used by any commercially available system.[19]
+RAID 3 consists of byte-level striping with dedicated parity. All disk spindle rotation is synchronized and data is striped such that each sequential byte is on a different drive. Parity is calculated across corresponding bytes and stored on a dedicated parity drive.[11] Although implementations exist,[20] RAID 3 is not commonly used in practice.
+RAID 4 consists of block-level striping with dedicated parity. This level was previously used by NetApp, but has now been largely replaced by a proprietary implementation of RAID 4 with two parity disks, called RAID-DP.[21] The main advantage of RAID 4 over RAID 2 and 3 is I/O parallelism: in RAID 2 and 3, a single read I/O operation requires reading the whole group of data drives, while in RAID 4 one I/O read operation does not have to spread across all data drives. As a result, more I/O operations can be executed in parallel, improving the performance of small transfers.[1]
+RAID 5 consists of block-level striping with distributed parity. Unlike RAID 4, parity information is distributed among the drives, requiring all drives but one to be present to operate. Upon failure of a single drive, subsequent reads can be calculated from the distributed parity such that no data is lost. RAID 5 requires at least three disks.[11] Like all single-parity concepts, large RAID 5 implementations are susceptible to system failures because of trends regarding array rebuild time and the chance of drive failure during rebuild (see "Increasing rebuild time and failure probability" section, below).[22] Rebuilding an array requires reading all data from all disks, opening a chance for a second drive failure and the loss of the entire array.
+RAID 6 consists of block-level striping with double distributed parity. Double parity provides fault tolerance up to two failed drives. This makes larger RAID groups more practical, especially for high-availability systems, as large-capacity drives take longer to restore. RAID 6 requires a minimum of four disks. As with RAID 5, a single drive failure results in reduced performance of the entire array until the failed drive has been replaced.[11] With a RAID 6 array, using drives from multiple sources and manufacturers, it is possible to mitigate most of the problems associated with RAID 5. The larger the drive capacities and the larger the array size, the more important it becomes to choose RAID 6 instead of RAID 5.[23] RAID 10 also minimizes these problems.[24]
+Nested (hybrid) RAID[edit]
+Main article: Nested RAID levels
+In what was originally termed hybrid RAID,[25] many storage controllers allow RAID levels to be nested. The elements of a RAID may be either individual drives or arrays themselves. Arrays are rarely nested more than one level deep.
+The final array is known as the top array. When the top array is RAID 0 (such as in RAID 1+0 and RAID 5+0), most vendors omit the "+" (yielding RAID 10 and RAID 50, respectively).
+RAID 0+1: creates two stripes and mirrors them. If a single drive failure occurs then one of the mirrors has failed, at this point it is running effectively as RAID 0 with no redundancy. Significantly higher risk is introduced during a rebuild than RAID 1+0 as all the data from all the drives in the remaining stripe has to be read rather than just from one drive, increasing the chance of an unrecoverable read error (URE) and significantly extending the rebuild window.[26][27][28]
+RAID 1+0: (see: RAID 10) creates a striped set from a series of mirrored drives. The array can sustain multiple drive losses so long as no mirror loses all its drives.[29]
+JBOD RAID N+N: With JBOD (just a bunch of disks), it is possible to concatenate disks, but also volumes such as RAID sets. With larger drive capacities, write delay and rebuilding time increase dramatically (especially, as described above, with RAID 5 and RAID 6). By splitting a larger RAID N set into smaller subsets and concatenating them with linear JBOD,[clarification needed] write and rebuilding time will be reduced. If a hardware RAID controller is not capable of nesting linear JBOD with RAID N, then linear JBOD can be achieved with OS-level software RAID in combination with separate RAID N subset volumes created within one, or more, hardware RAID controller(s). Besides a drastic speed increase, this also provides a substantial advantage: the possibility to start a linear JBOD with a small set of disks and to be able to expand the total set with disks of different size, later on (in time, disks of bigger size become available on the market). There is another advantage in the form of disaster recovery (if a RAID N subset happens to fail, then the data on the other RAID N subsets is not lost, reducing restore time).[citation needed]
+Non-standard levels[edit]
+Main article: Non-standard RAID levels
+Many configurations other than the basic numbered RAID levels are possible, and many companies, organizations, and groups have created their own non-standard configurations, in many cases designed to meet the specialized needs of a small niche group. Such configurations include the following:
+Linux MD RAID 10 provides a general RAID driver that in its "near" layout defaults to a standard RAID 1 with two drives, and a standard RAID 1+0 with four drives; however, it can include any number of drives, including odd numbers. With its "far" layout, MD RAID 10 can run both striped and mirrored, even with only two drives in f2 layout; this runs mirroring with striped reads, giving the read performance of RAID 0. Regular RAID 1, as provided by Linux software RAID, does not stripe reads, but can perform reads in parallel.[29][30][31]
+Hadoop has a RAID system that generates a parity file by xor-ing a stripe of blocks in a single HDFS file.[32]
+BeeGFS, the parallel file system, has internal striping (comparable to file-based RAID0) and replication (comparable to file-based RAID10) options to aggregate throughput and capacity of multiple servers and is typically based on top of an underlying RAID to make disk failures transparent.
+Declustered RAID scatters dual (or more) copies of the data across all disks (possibly hundreds) in a storage subsystem, while holding back enough spare capacity to allow for a few disks to fail. The scattering is based on algorithms which give the appearance of arbitrariness. When one or more disks fail the missing copies are rebuilt into that spare capacity, again arbitrarily. Because the rebuild is done from and to all the remaining disks, it operates much faster than with traditional RAID, reducing the overall impact on clients of the storage system.
+Implementations[edit]
+The distribution of data across multiple drives can be managed either by dedicated computer hardware or by software. A software solution may be part of the operating system, part of the firmware and drivers supplied with a standard drive controller (so-called "hardware-assisted software RAID"), or it may reside entirely within the hardware RAID controller.
+Hardware-based[edit]
+Main article: RAID controller
+Hardware RAID controllers can be configured through card BIOS or Option ROM before an operating system is booted, and after the operating system is booted, proprietary configuration utilities are available from the manufacturer of each controller. Unlike the network interface controllers for Ethernet, which can usually be configured and serviced entirely through the common operating system paradigms like ifconfig in Unix, without a need for any third-party tools, each manufacturer of each RAID controller usually provides their own proprietary software tooling for each operating system that they deem to support, ensuring a vendor lock-in, and contributing to reliability issues.[33]
+For example, in FreeBSD, in order to access the configuration of Adaptec RAID controllers, users are required to enable Linux compatibility layer, and use the Linux tooling from Adaptec,[34] potentially compromising the stability, reliability and security of their setup, especially when taking the long-term view.[33]
+Some other operating systems have implemented their own generic frameworks for interfacing with any RAID controller, and provide tools for monitoring RAID volume status, as well as facilitation of drive identification through LED blinking, alarm management and hot spare disk designations from within the operating system without having to reboot into card BIOS. For example, this was the approach taken by OpenBSD in 2005 with its bio(4) pseudo-device and the bioctl utility, which provide volume status, and allow LED/alarm/hotspare control, as well as the sensors (including the drive sensor) for health monitoring;[35] this approach has subsequently been adopted and extended by NetBSD in 2007 as well.[36]
+Software-based[edit]
+Software RAID implementations are provided by many modern operating systems. Software RAID can be implemented as:
+A layer that abstracts multiple devices, thereby providing a single virtual device (such as Linux kernel's md and OpenBSD's softraid)
+A more generic logical volume manager (provided with most server-class operating systems such as Veritas or LVM)
+A component of the file system (such as ZFS, Spectrum Scale or Btrfs)
+A layer that sits above any file system and provides parity protection to user data (such as RAID-F)[37]
+Some advanced file systems are designed to organize data across multiple storage devices directly, without needing the help of a third-party logical volume manager:
+ZFS supports the equivalents of RAID 0, RAID 1, RAID 5 (RAID-Z1) single-parity, RAID 6 (RAID-Z2) double-parity, and a triple-parity version (RAID-Z3) also referred to as RAID 7.[38] As it always stripes over top-level vdevs, it supports equivalents of the 1+0, 5+0, and 6+0 nested RAID levels (as well as striped triple-parity sets) but not other nested combinations. ZFS is the native file system on Solaris and illumos, and is also available on FreeBSD and Linux. Open-source ZFS implementations are actively developed under the OpenZFS umbrella project.[39][40][41][42][43]
+Spectrum Scale, initially developed by IBM for media streaming and scalable analytics, supports declustered RAID protection schemes up to n+3. A particularity is the dynamic rebuilding priority which runs with low impact in the background until a data chunk hits n+0 redundancy, in which case this chunk is quickly rebuilt to at least n+1. On top, Spectrum Scale supports metro-distance RAID 1.[44]
+Btrfs supports RAID 0, RAID 1 and RAID 10 (RAID 5 and 6 are under development).[45][46]
+XFS was originally designed to provide an integrated volume manager that supports concatenating, mirroring and striping of multiple physical storage devices.[47] However, the implementation of XFS in Linux kernel lacks the integrated volume manager.[48]
+Many operating systems provide RAID implementations, including the following:
+Hewlett-Packard's OpenVMS operating system supports RAID 1. The mirrored disks, called a "shadow set", can be in different locations to assist in disaster recovery.[49]
+Apple's macOS and macOS Server support RAID 0, RAID 1, and RAID 1+0.[50][51]
+FreeBSD supports RAID 0, RAID 1, RAID 3, and RAID 5, and all nestings via GEOM modules and ccd.[52][53][54]
+Linux's md supports RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, and all nestings.[55] Certain reshaping/resizing/expanding operations are also supported.[56]
+Microsoft Windows supports RAID 0, RAID 1, and RAID 5 using various software implementations. Logical Disk Manager, introduced with Windows 2000, allows for the creation of RAID 0, RAID 1, and RAID 5 volumes by using dynamic disks, but this was limited only to professional and server editions of Windows until the release of Windows 8.[57][58] Windows XP can be modified to unlock support for RAID 0, 1, and 5.[59] Windows 8 and Windows Server 2012 introduced a RAID-like feature known as Storage Spaces, which also allows users to specify mirroring, parity, or no redundancy on a folder-by-folder basis. These options are similar to RAID 1 and RAID 5, but are implemented at a higher abstraction level.[60]
+NetBSD supports RAID 0, 1, 4, and 5 via its software implementation, named RAIDframe.[61]
+OpenBSD supports RAID 0, 1 and 5 via its software implementation, named softraid.[62]
+If a boot drive fails, the system has to be sophisticated enough to be able to boot from the remaining drive or drives. For instance, consider a computer whose disk is configured as RAID 1 (mirrored drives); if the first drive in the array fails, then a first-stage boot loader might not be sophisticated enough to attempt loading the second-stage boot loader from the second drive as a fallback. The second-stage boot loader for FreeBSD is capable of loading a kernel from such an array.[63]
+Firmware- and driver-based[edit]
+ A SATA 3.0 controller that provides RAID functionality through proprietary firmware and drivers
+See also: MD RAID external metadata
+Software-implemented RAID is not always compatible with the system's boot process, and it is generally impractical for desktop versions of Windows. However, hardware RAID controllers are expensive and proprietary. To fill this gap, inexpensive "RAID controllers" were introduced that do not contain a dedicated RAID controller chip, but simply a standard drive controller chip with proprietary firmware and drivers. During early bootup, the RAID is implemented by the firmware and, once the operating system has been more completely loaded, the drivers take over control. Consequently, such controllers may not work when driver support is not available for the host operating system.[64] An example is Intel Rapid Storage Technology, implemented on many consumer-level motherboards.[65][66]
+Because some minimal hardware support is involved, this implementation is also called "hardware-assisted software RAID",[67][68][69] "hybrid model" RAID,[69] or even "fake RAID".[70] If RAID 5 is supported, the hardware may provide a hardware XOR accelerator. An advantage of this model over the pure software RAID is that if using a redundancy mode the boot drive is protected from failure (due to the firmware) during the boot process even before the operating system's drivers take over.[69]
+Integrity[edit]
+Data scrubbing (referred to in some environments as patrol read) involves periodic reading and checking by the RAID controller of all the blocks in an array, including those not otherwise accessed. This detects bad blocks before use.[71] Data scrubbing checks for bad blocks on each storage device in an array, but also uses the redundancy of the array to recover bad blocks on a single drive and to reassign the recovered data to spare blocks elsewhere on the drive.[72]
+Frequently, a RAID controller is configured to "drop" a component drive (that is, to assume a component drive has failed) if the drive has been unresponsive for eight seconds or so; this might cause the array controller to drop a good drive because that drive has not been given enough time to complete its internal error recovery procedure. Consequently, using consumer-marketed drives with RAID can be risky, and so-called "enterprise class" drives limit this error recovery time to reduce risk.[citation needed] Western Digital's desktop drives used to have a specific fix. A utility called WDTLER.exe limited a drive's error recovery time. The utility enabled TLER (time limited error recovery), which limits the error recovery time to seven seconds. Around September 2009, Western Digital disabled this feature in their desktop drives (such as the Caviar Black line), making such drives unsuitable for use in RAID configurations.[73] However, Western Digital enterprise class drives are shipped from the factory with TLER enabled. Similar technologies are used by Seagate, Samsung, and Hitachi. For non-RAID usage, an enterprise class drive with a short error recovery timeout that cannot be changed is therefore less suitable than a desktop drive.[73] In late 2010, the Smartmontools program began supporting the configuration of ATA Error Recovery Control, allowing the tool to configure many desktop class hard drives for use in RAID setups.[73]
+While RAID may protect against physical drive failure, the data is still exposed to operator, software, hardware, and virus destruction. Many studies cite operator fault as a common source of malfunction,[74][75] such as a server operator replacing the incorrect drive in a faulty RAID, and disabling the system (even temporarily) in the process.[76]
+An array can be overwhelmed by catastrophic failure that exceeds its recovery capacity and the entire array is at risk of physical damage by fire, natural disaster, and human forces, however backups can be stored off site. An array is also vulnerable to controller failure because it is not always possible to migrate it to a new, different controller without data loss.[77]
+Weaknesses[edit]
+Correlated failures[edit]
+In practice, the drives are often the same age (with similar wear) and subject to the same environment. Since many drive failures are due to mechanical issues (which are more likely on older drives), this violates the assumptions of independent, identical rate of failure amongst drives; failures are in fact statistically correlated.[11] In practice, the chances for a second failure before the first has been recovered (causing data loss) are higher than the chances for random failures. In a study of about 100,000 drives, the probability of two drives in the same cluster failing within one hour was four times larger than predicted by the exponential statistical distribution which characterizes processes in which events occur continuously and independently at a constant average rate. The probability of two failures in the same 10-hour period was twice as large as predicted by an exponential distribution.[78]
+Unrecoverable read errors during rebuild[edit]
+Unrecoverable read errors (URE) present as sector read failures, also known as latent sector errors (LSE). The associated media assessment measure, unrecoverable bit error (UBE) rate, is typically guaranteed to be less than one bit in 1015[disputed    discuss] for enterprise-class drives (SCSI, FC, SAS or SATA), and less than one bit in 1014[disputed    discuss] for desktop-class drives (IDE/ATA/PATA or SATA). Increasing drive capacities and large RAID 5 instances have led to the maximum error rates being insufficient to guarantee a successful recovery, due to the high likelihood of such an error occurring on one or more remaining drives during a RAID set rebuild.[11][obsolete source][79][deprecated source?] When rebuilding, parity-based schemes such as RAID 5 are particularly prone to the effects of UREs as they affect not only the sector where they occur, but also reconstructed blocks using that sector for parity computation.[80]
+Double-protection parity-based schemes, such as RAID 6, attempt to address this issue by providing redundancy that allows double-drive failures; as a downside, such schemes suffer from elevated write penalty the number of times the storage medium must be accessed during a single write operation.[81] Schemes that duplicate (mirror) data in a drive-to-drive manner, such as RAID 1 and RAID 10, have a lower risk from UREs than those using parity computation or mirroring between striped sets.[24][82] Data scrubbing, as a background process, can be used to detect and recover from UREs, effectively reducing the risk of them happening during RAID rebuilds and causing double-drive failures. The recovery of UREs involves remapping of affected underlying disk sectors, utilizing the drive's sector remapping pool; in case of UREs detected during background scrubbing, data redundancy provided by a fully operational RAID set allows the missing data to be reconstructed and rewritten to a remapped sector.[83][84]
+Increasing rebuild time and failure probability[edit]
+Drive capacity has grown at a much faster rate than transfer speed, and error rates have only fallen a little in comparison. Therefore, larger-capacity drives may take hours if not days to rebuild, during which time other drives may fail or yet undetected read errors may surface. The rebuild time is also limited if the entire array is still in operation at reduced capacity.[85] Given an array with only one redundant drive (which applies to RAID levels 3, 4 and 5, and to "classic" two-drive RAID 1), a second drive failure would cause complete failure of the array. Even though individual drives' mean time between failure (MTBF) have increased over time, this increase has not kept pace with the increased storage capacity of the drives. The time to rebuild the array after a single drive failure, as well as the chance of a second failure during a rebuild, have increased over time.[22]
+Some commentators have declared that RAID 6 is only a "band aid" in this respect, because it only kicks the problem a little further down the road.[22] However, according to the 2006 NetApp study of Berriman et al., the chance of failure decreases by a factor of about 3,800 (relative to RAID 5) for a proper implementation of RAID 6, even when using commodity drives.[86][citation not found] Nevertheless, if the currently observed technology trends remain unchanged, in 2019 a RAID 6 array will have the same chance of failure as its RAID 5 counterpart had in 2010.[86][unreliable source?]
+Mirroring schemes such as RAID 10 have a bounded recovery time as they require the copy of a single failed drive, compared with parity schemes such as RAID 6, which require the copy of all blocks of the drives in an array set. Triple parity schemes, or triple mirroring, have been suggested as one approach to improve resilience to an additional drive failure during this large rebuild time.[86][unreliable source?]
+Atomicity[edit]
+A system crash or other interruption of a write operation can result in states where the parity is inconsistent with the data due to non-atomicity of the write process, such that the parity cannot be used for recovery in the case of a disk failure. This is commonly termed the write hole which is a known data corruption issue in older and low-end RAIDs, caused by interrupted destaging of writes to disk.[87] The write hole can be addressed with write-ahead logging. This was fixed in mdadm by introducing a dedicated journaling device (to avoid performance penalty, typically, SSDs and NVMs are preferred) for that purpose.[88][89]
+This is a little understood and rarely mentioned failure mode for redundant storage systems that do not utilize transactional features. Database researcher Jim Gray wrote "Update in Place is a Poison Apple" during the early days of relational database commercialization.[90]
+Write-cache reliability[edit]
+There are concerns about write-cache reliability, specifically regarding devices equipped with a write-back cache, which is a caching system that reports the data as written as soon as it is written to cache, as opposed to when it is written to the non-volatile medium. If the system experiences a power loss or other major failure, the data may be irrevocably lost from the cache before reaching the non-volatile storage. For this reason good write-back cache implementations include mechanisms, such as redundant battery power, to preserve cache contents across system failures (including power failures) and to flush the cache at system restart time.[91]
+See also[edit]
+Disk Data Format
+Network-attached storage (NAS)
+Non-RAID drive architectures
+Redundant array of independent memory
+Self-Monitoring, Analysis and Reporting Technology (S.M.A.R.T.)
+References[edit]
+^ a b c Patterson, David; Gibson, Garth A.; Katz, Randy (1988). A Case for Redundant Arrays of Inexpensive Disks (RAID) (PDF). SIGMOD Conferences. Retrieved 2006-12-31.
+^ a b "Originally referred to as Redundant Array of Inexpensive Disks, the term RAID was first published in the late 1980s by Patterson, Gibson, and Katz of the University of California at Berkeley. (The RAID Advisory Board has since substituted the term Inexpensive with Independent.)" Storage Area Network Fundamentals; Meeta Gupta; Cisco Press; ISBN 978-1-58705-065-7; Appendix A.
+^ a b Katz, Randy H. (October 2010). "RAID: A Personal Recollection of How Storage Became a System" (PDF). eecs.umich.edu. IEEE Computer Society. Retrieved 2015-01-18. We were not the first to think of the idea of replacing what Patterson described as a slow large expensive disk (SLED) with an array of inexpensive disks. For example, the concept of disk mirroring, pioneered by Tandem, was well known, and some storage products had already been constructed around arrays of small disks.
+^ Hayes, Frank (November 17, 2003). "The Story So Far". Computerworld. Retrieved November 18, 2016. Patterson recalled the beginnings of his RAID project in 1987. [...] 1988: David A. Patterson leads a team that defines RAID standards for improved performance, reliability and scalability.
+^ US patent 4092732, Norman Ken Ouchi, "System for Recovering Data Stored in Failed Memory Unit", issued 1978-05-30 
+^ "HSC50/70 Hardware Technical Manual" (PDF). DEC. July 1986. pp. 29, 32. Retrieved 2014-01-03.
+^ US patent 4761785, Brian E. Clark, et al., "Parity Spreading to Enhance Storage Access", issued 1988-08-02 
+^ US patent 4899342, David Potter et al., "Method and Apparatus for Operating Multi-Unit Array of Memories", issued 1990-02-06  See also The Connection Machine (1988)
+^ "IBM 7030 Data Processing System: Reference Manual" (PDF). bitsavers.trailing-edge.com. IBM. 1960. p. 157. Retrieved 2015-01-17. Since a large number of bits are handled in parallel, it is practical to use error checking and correction (ECC) bits, and each 39 bit byte is composed of 32 data bits and seven ECC bits. The ECC bits accompany all data transferred to or from the high-speed disks, and, on reading, are used to correct a single bit error in a byte and detect double and most multiple errors in a byte.
+^ "IBM Stretch (aka IBM 7030 Data Processing System)". brouhaha.com. 2009-06-18. Retrieved 2015-01-17. A typical IBM 7030 Data Processing System might have been comprised of the following units: [...] IBM 353 Disk Storage Unit   similar to IBM 1301 Disk File, but much faster. 2,097,152 (2^21) 72-bit words (64 data bits and 8 ECC bits), 125,000 words per second
+^ a b c d e f g h i Chen, Peter; Lee, Edward; Gibson, Garth; Katz, Randy; Patterson, David (1994). "RAID: High-Performance, Reliable Secondary Storage". ACM Computing Surveys. 26 (2): 145 185. CiteSeerX 10.1.1.41.3889. doi:10.1145/176979.176981. S2CID 207178693.
+^ Donald, L. (2003). MCSA/MCSE 2006 JumpStart Computer and Network Basics (2nd ed.). Glasgow: SYBEX.
+^ Howe, Denis (ed.). Redundant Arrays of Independent Disks from FOLDOC. Free On-line Dictionary of Computing. Imperial College Department of Computing. Retrieved 2011-11-10.
+^ Dawkins, Bill and Jones, Arnold. "Common RAID Disk Data Format Specification" Archived 2009-08-24 at the Wayback Machine [Storage Networking Industry Association] Colorado Springs, 28 July 2006. Retrieved on 22 February 2011.
+^ "Adaptec Hybrid RAID Solutions" (PDF). Adaptec.com. Adaptec. 2012. Retrieved 2013-09-07.
+^ "Common RAID Disk Drive Format (DDF) standard". SNIA.org. SNIA. Retrieved 2012-08-26.
+^ "SNIA Dictionary". SNIA.org. SNIA. Retrieved 2010-08-24.
+^ Tanenbaum, Andrew S. Structured Computer Organization 6th ed. p. 95.
+^ Hennessy, John; Patterson, David (2006). Computer Architecture: A Quantitative Approach, 4th ed. p. 362. ISBN 978-0123704900.
+^ "FreeBSD Handbook, Chapter 20.5 GEOM: Modular Disk Transformation Framework". Retrieved 2012-12-20.
+^ White, Jay; Lueth, Chris (May 2010). "RAID-DP:NetApp Implementation of Double Parity RAID for Data Protection. NetApp Technical Report TR-3298". Retrieved 2013-03-02.
+^ a b c Newman, Henry (2009-09-17). "RAID's Days May Be Numbered". EnterpriseStorageForum. Retrieved 2010-09-07.
+^ "Why RAID 6 stops working in 2019". ZDNet. 22 February 2010.
+^ a b Lowe, Scott (2009-11-16). "How to protect yourself from RAID-related Unrecoverable Read Errors (UREs). Techrepublic". Retrieved 2012-12-01.
+^ Vijayan, S.; Selvamani, S.; Vijayan, S (1995). "Dual-Crosshatch Disk Array: A Highly Reliable Hybrid-RAID Architecture". Proceedings of the 1995 International Conference on Parallel Processing: Volume 1. CRC Press. pp. I 146ff. ISBN 978-0-8493-2615-8   via Google Books.
+^ "Why is RAID 1+0 better than RAID 0+1?". aput.net. Retrieved 2016-05-23.
+^ "RAID 10 Vs RAID 01 (RAID 1+0 Vs RAID 0+1) Explained with Diagram". www.thegeekstuff.com. Retrieved 2016-05-23.
+^ "Comparing RAID 10 and RAID 01 | SMB IT Journal". www.smbitjournal.com. Retrieved 2016-05-23.
+^ a b Jeffrey B. Layton: "Intro to Nested-RAID: RAID-01 and RAID-10"[Usurped!], Linux Magazine, January 6, 2011
+^ "Performance, Tools & General Bone-Headed Questions". tldp.org. Retrieved 2013-12-25.
+^ "Main Page   Linux-raid". osdl.org. 2010-08-20. Archived from the original on 2008-07-05. Retrieved 2010-08-24.
+^ "Hdfs Raid". Hadoopblog.blogspot.com. 2009-08-28. Retrieved 2010-08-24.
+^ a b "3.8: "Hackers of the Lost RAID"". OpenBSD Release Songs. OpenBSD. 2005-11-01. Retrieved 2019-03-23.
+^ Long, Scott; Adaptec, Inc (2000). "aac(4)   Adaptec AdvancedRAID Controller driver". BSD Cross Reference. FreeBSD., 
+"aac -- Adaptec AdvancedRAID Controller driver". FreeBSD Manual Pages. FreeBSD.
+^ Raadt, Theo de (2005-09-09). "RAID management support coming in OpenBSD 3.8". misc@ (Mailing list). OpenBSD.
+^ Murenin, Constantine A. (2010-05-21). "1.1. Motivation; 4. Sensor Drivers; 7.1. NetBSD envsys / sysmon". OpenBSD Hardware Sensors   Environmental Monitoring and Fan Control (MMath thesis). University of Waterloo: UWSpace. hdl:10012/5234. Document ID: ab71498b6b1a60ff817b29d56997a418.
+^ "RAID over File System". Retrieved 2014-07-22.
+^ "ZFS Raidz Performance, Capacity and Integrity". calomel.org. Retrieved 26 June 2017.
+^ "ZFS -illumos". illumos.org. 2014-09-15. Archived from the original on 2019-03-15. Retrieved 2016-05-23.
+^ "Creating and Destroying ZFS Storage Pools   Oracle Solaris ZFS Administration Guide". Oracle Corporation. 2012-04-01. Retrieved 2014-07-27.
+^ "20.2. The Z File System (ZFS)". freebsd.org. Archived from the original on 2014-07-03. Retrieved 2014-07-27.
+^ "Double Parity RAID-Z (raidz2) (Solaris ZFS Administration Guide)". Oracle Corporation. Retrieved 2014-07-27.
+^ "Triple Parity RAIDZ (raidz3) (Solaris ZFS Administration Guide)". Oracle Corporation. Retrieved 2014-07-27.
+^ Deenadhayalan, Veera (2011). "General Parallel File System (GPFS) Native RAID" (PDF). UseNix.org. IBM. Retrieved 2014-09-28.
+^ "Btrfs Wiki: Feature List". 2012-11-07. Retrieved 2012-11-16.
+^ "Btrfs Wiki: Changelog". 2012-10-01. Retrieved 2012-11-14.
+^ Trautman, Philip; Mostek, Jim. "Scalability and Performance in Modern File Systems". linux-xfs.sgi.com. Retrieved 2015-08-17.
+^ "Linux RAID Setup   XFS". kernel.org. 2013-10-05. Retrieved 2015-08-17.
+^ Hewlett Packard Enterprise. "HPE Support document - HPE Support Center". support.hpe.com.
+^ "Mac OS X: How to combine RAID sets in Disk Utility". Retrieved 2010-01-04.
+^ "Apple Mac OS X Server File Systems". Retrieved 2008-04-23.
+^ "FreeBSD System Manager's Manual page for GEOM(8)". Retrieved 2009-03-19.
+^ "freebsd-geom mailing list   new class / geom_raid5". 6 July 2006. Retrieved 2009-03-19.
+^ "FreeBSD Kernel Interfaces Manual for CCD(4)". Retrieved 2009-03-19.
+^ "The Software-RAID HowTo". Retrieved 2008-11-10.
+^ "mdadm(8)   Linux man page". Linux.Die.net. Retrieved 2014-11-20.
+^ "Windows Vista support for large-sector hard disk drives". Microsoft. 2007-05-29. Archived from the original on 2007-07-03. Retrieved 2007-10-08.
+^ "You cannot select or format a hard disk partition when you try to install Windows Vista, Windows 7 or Windows Server 2008 R2". Microsoft. 14 September 2011. Archived from the original on 3 March 2011. Retrieved 17 December 2009.
+^ "Using Windows XP to Make RAID 5 Happen". Tom's Hardware. 19 November 2004. Retrieved 24 August 2010.
+^ Sinofsky, Steven. "Virtualizing storage for scale, resiliency, and efficiency". Microsoft.
+^ Metzger, Perry (1999-05-12). "NetBSD 1.4 Release Announcement". NetBSD.org. The NetBSD Foundation. Retrieved 2013-01-30.
+^ "OpenBSD softraid man page". OpenBSD.org. Retrieved 2018-02-03.
+^ "FreeBSD Handbook". Chapter 19 GEOM: Modular Disk Transformation Framework. Retrieved 2009-03-19.
+^ "SATA RAID FAQ". Ata.wiki.kernel.org. 2011-04-08. Retrieved 2012-08-26.
+^ "Red Hat Enterprise Linux   Storage Administrator Guide   RAID Types". redhat.com.
+^ Russel, Charlie; Crawford, Sharon; Edney, Andrew (2011). Working with Windows Small Business Server 2011 Essentials. O'Reilly Media, Inc. p. 90. ISBN 978-0-7356-5670-3   via Google Books.
+^ Block, Warren. "19.5. Software RAID Devices". freebsd.org. Retrieved 2014-07-27.
+^ Krutz, Ronald L.; Conley, James (2007). Wiley Pathways Network Security Fundamentals. John Wiley & Sons. p. 422. ISBN 978-0-470-10192-6   via Google Books.
+^ a b c "Hardware RAID vs. Software RAID: Which Implementation is Best for my Application? Adaptec Whitepaper" (PDF). adaptec.com.
+^ Smith, Gregory (2010). PostgreSQL 9.0: High Performance. Packt Publishing Ltd. p. 31. ISBN 978-1-84951-031-8   via Google Books.
+^ Ulf Troppens, Wolfgang Mueller-Friedt, Rainer Erkens, Rainer Wolafka, Nils Haustein. Storage Networks Explained: Basics and Application of Fibre Channel SAN, NAS, ISCSI, InfiniBand and FCoE. John Wiley and Sons, 2009. p.39
+^ Dell Computers, Background Patrol Read for Dell PowerEdge RAID Controllers, By Drew Habas and John Sieber, Reprinted from Dell Power Solutions, February 2006 http://www.dell.com/downloads/global/power/ps1q06-20050212-Habas.pdf
+^ a b c "Error Recovery Control with Smartmontools". 2009. Archived from the original on September 28, 2011. Retrieved September 29, 2017.
+^ Gray, Jim (Oct 1990). "A census of Tandem system availability between 1985 and 1990" (PDF). IEEE Transactions on Reliability. IEEE. 39 (4): 409 418. doi:10.1109/24.58719. S2CID 2955525. Archived from the original (PDF) on 2019-02-20.
+^ Murphy, Brendan; Gent, Ted (1995). "Measuring system and software reliability using an automated data collection process". Quality and Reliability Engineering International. 11 (5): 341 353. doi:10.1002/qre.4680110505.
+^ Patterson, D., Hennessy, J. (2009), 574.
+^ "The RAID Migration Adventure". 10 July 2007. Retrieved 2010-03-10.
+^ Disk Failures in the Real World: What Does an MTTF of 1,000,000 Hours Mean to You? Bianca Schroeder and Garth A. Gibson
+^ Harris, Robin (2010-02-27). "Does RAID 6 stop working in 2019?". StorageMojo.com. TechnoQWAN. Retrieved 2013-12-17.
+^ J.L. Hafner, V. Dheenadhayalan, K. Rao, and J.A. Tomlin. "Matrix methods for lost data reconstruction in erasure codes. USENIX Conference on File and Storage Technologies, Dec. 13 16, 2005.
+^ Miller, Scott Alan (2016-01-05). "Understanding RAID Performance at Various Levels". Recovery Zone. StorageCraft. Retrieved 2016-07-22.
+^ Kagel, Art S. (March 2, 2011). "RAID 5 versus RAID 10 (or even RAID 3, or RAID 4)". miracleas.com. Archived from the original on November 3, 2014. Retrieved October 30, 2014.
+^ Baker, M.; Shah, M.; Rosenthal, D.S.H.; Roussopoulos, M.; Maniatis, P.; Giuli, T.; Bungale, P (April 2006). "A fresh look at the reliability of long-term digital storage". EuroSys2006: 221 234. doi:10.1145/1217935.1217957. ISBN 1595933220. S2CID 7655425.
+^ Bairavasundaram, L.N.; Goodson, G.R.; Pasupathy, S.; Schindler, J. (June 12 16, 2007). "An analysis of latent sector errors in disk drives" (PDF). Proceedings of SIGMETRICS'07: 289 300. doi:10.1145/1254882.1254917. ISBN 9781595936394. S2CID 14164251.
+^ Patterson, D., Hennessy, J. (2009). Computer Organization and Design. New York: Morgan Kaufmann Publishers. pp 604 605.
+^ a b c Leventhal, Adam (2009-12-01). "Triple-Parity RAID and Beyond. ACM Queue, Association of Computing Machinery". Retrieved 2012-11-30.
+^ ""Write Hole" in RAID5, RAID6, RAID1, and Other Arrays". ZAR team. Retrieved 15 February 2012.
+^ "ANNOUNCE: mdadm 3.4 - A tool for managing md Soft RAID under Linux [LWN.net]". lwn.net.
+^ "A journal for MD/RAID5 [LWN.net]". lwn.net.
+^ Jim Gray: The Transaction Concept: Virtues and Limitations Archived 2008-06-11 at the Wayback Machine (Invited Paper) VLDB 1981: 144 154
+^ "Definition of write-back cache at SNIA dictionary". www.snia.org.
+External links[edit]
+Wikimedia Commons has media related to Redundant array of independent disks.
+"Empirical Measurements of Disk Failure Rates and Error Rates", by Jim Gray and Catharine van Ingen, December 2005
+The Mathematics of RAID-6, by H. Peter Anvin
+Does Fake RAID Offer Any Advantage Over Software RAID?   Discussion on superuser.com
+BAARF: Battle Against Any Raid Five (RAID 3, 4 and 5 versus RAID 10)
+A Clean-Slate Look at Disk Scrubbing
+vteRAIDRedundant array of independent disksDisk arrays
+Data scrubbing
+Data striping
+Disk array controller
+Disk mirroring
+Parity drive
+RAID levels
+Standard
+Nested
+Non-standard
+Principles
+Availability
+Fault tolerance
+Data redundancy
+Degraded mode
+Failover
+Parity bit
+Replication
+Scalability
+Throughput
+Interfaces
+bioctl
+geom
+mdadm
+Oracle ZFS
+Non-RAID drive architectures
+vteStorage virtualization
+Block-level storage
+Disk aggregation
+Distributed file systems
+Comparison
+File virtualization
+Logical disk
+RAID
+Software-defined storage
+Virtual disk
+Virtual file system
+Retrieved from "https://en.wikipedia.org/w/index.php?title=RAID&oldid=1146991004"

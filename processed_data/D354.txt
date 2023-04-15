@@ -1,0 +1,667 @@
+System that transfers heat from one space to another
+This article is about devices used to heat and potentially also cool a building using the refrigeration cycle. For cooling only, see air conditioner. For other uses, see Heat pump (disambiguation).
+ External heat exchanger of an air-source heat pump
+Part of a series onSustainable energy
+Energy conservation
+Building insulation
+Cogeneration
+Efficient energy use
+Energy storage
+Environmental planning
+Green building
+Green retrofit
+Heat pump
+List of low-energy building techniques
+Low-energy house
+Microgeneration
+Sustainable architecture
+Zero-energy building
+Renewable energy
+Biomass
+Carbon-neutral fuel
+Geothermal
+Hydropower
+Marine energy
+Renewable energy transition
+Renewable heat
+Solar
+Sustainable biofuel
+Tidal power
+Wave power
+Wind
+Sustainable transport
+Bicycle
+Cycle rickshaw
+Electric bicycle
+Electric vehicle
+Green vehicle
+Hybrid vehicle
+Kick scooter
+Personal rapid transit
+Plug-in hybrid
+Rail transport
+Solar vehicle
+Tram
+Walking
+ Renewable energy portal
+ Categoryvte
+A heat pump is a device that can provide heat to a building by transferring thermal energy from the outside using a refrigeration cycle. Many heat pumps can also operate in the opposite direction, cooling the building by removing heat from the enclosed space and rejecting it outside. Units that only provide cooling are called air conditioners.
+When in heating mode, a refrigerant at outside temperature is being compressed. As a result, the refrigerant becomes hot. This thermal energy can be transferred to an indoor unit. After being moved outdoors again, the refrigerant is decompressed   evaporated. It has lost some of its thermal energy and returns colder than the environment. It can now take up the surrounding energy from the air or from the ground before the process repeats. Compressors, fans, and pumps run with electric energy.
+Air source heat pumps are the most common models, while other types include ground source heat pumps, water source heat pumps and exhaust air heat pumps. Large-scale heat pumps are also used in district heating systems.[1]
+The efficiency of a heat pump is expressed with a coefficient of performance (COP), or seasonal coefficient of performance (SCOP). The higher the number, the more efficient a heat pump is and the less energy it consumes. When used for space heating, heat pumps are typically much more energy efficient than simple electrical resistance heaters.
+Because of their high efficiency and the increasing share of fossil-free sources in electrical grids, heat pumps can play a key role in climate change mitigation.[2][3] With 1 kWh of electricity, they can transfer 3 to 6 kWh of thermal energy into a building.[4] The carbon footprint of heat pumps depends on how electricity is generated, but they usually reduce emissions in mild climates.[5] Heat pumps could satisfy over 80% of global space and water heating needs with a lower carbon footprint than gas-fired condensing boilers: however, in 2021 they only met 10%.[6]
+Principle of operation[edit]
+Heat will flow spontaneously from a region of higher temperature to a region of lower temperature. Heat will not flow spontaneously from lower temperature to higher, but it can be made to flow in this direction if work is performed. The work required to transfer a given amount of heat is usually much less than the amount of heat; this is the motivation for using heat pumps in applications such as heating of water and the interior of buildings.[7]
+The  amount of work required to drive an amount of heat Q from a lower-temperature reservoir such as ambient air to a higher-temperature reservoir such as the interior of a building is:
+W
+=
+Q
+C
+O
+P
+{\displaystyle W={\frac {Q}{\mathrm {COP} }}}
+where
+W
+{\displaystyle W}
+ is the work performed on the working fluid by the heat pump's compressor.
+Q
+{\displaystyle Q}
+ is the heat transferred from the lower-temperature reservoir to the higher-temperature reservoir.
+C
+O
+P
+{\displaystyle \mathrm {COP} }
+ is the instantaneous coefficient of performance for the heat pump at the temperatures prevailing in the reservoirs at one instant.
+The coefficient of performance of a heat pump is greater than unity so the work required is less than the heat transferred, making a heat pump a more efficient form of heating than electrical resistance heating. As the temperature of the higher-temperature reservoir increases in response to the heat flowing into it, the coefficient of performance decreases, causing an increasing amount of work to be required for each unit of heat being transferred.[7]
+The coefficient of performance, and the work required, by a heat pump can be calculated easily by considering an ideal heat pump operating on the reversed Carnot cycle:
+If the low-temperature reservoir is at a temperature of 270 K ( 3 C) and the interior of the building is at 280 K (7 C) the relevant coefficient of performance is 27. This means only 1 joule of work is required to transfer 27 joules of heat from a reservoir at 270 K to another at 280 K. The one joule of work ultimately ends up as thermal energy in the interior of the building so for each 27 joules of heat that are removed from the low-temperature reservoir, 28 joules of heat are added to the building interior, making the heat pump even more attractive from an efficiency perspective.
+As the temperature of the interior of the building rises progressively to 300 K (27 C) the coefficient of performance falls progressively to 9. This means each joule of work is responsible for transferring 9 joules of heat out of the low-temperature reservoir and into the building. Again, the 1 joule of work ultimately ends up as thermal energy in the interior of the building so 10 joules of heat are added to the building interior.
+History[edit]
+This section needs expansion. You can help by adding to it.  (June 2008)
+Milestones:
+1748
+William Cullen demonstrates artificial refrigeration.
+1834
+Jacob Perkins builds a practical refrigerator with dimethyl ether.
+1852
+Lord Kelvin describes the theory underlying heat pumps.
+1855 1857
+Peter von Rittinger develops and builds the first heat pump.[8]
+1877
+In the period before 1875, heat pumps were for the time being pursued for vapour compression evaporation (open heat pump process) in salt works with their obvious advantages for saving wood and coal. In 1857, Peter von Rittinger was the first to try to implement the idea of vapor compression in a small pilot plant. Presumably inspired by Rittinger's experiments in Ebensee, Antoine-Paul Piccard from the University of Lausanne and the engineer J.H. Weibel from the Weibel Briquet company in Geneva built the world's first really functioning vapor compression system with a two-stage piston compressor. In 1877 this first heat pump in Switzerland was installed in the Bex salt works.[9][10]
+1928
+Aurel Stodola constructs a closed-loop heat pump (water source from Lake Geneva) which provides heating for the Geneva city hall to this day.
+1937 1945
+During and after the First World War, Switzerland suffered from heavily difficult energy imports and subsequently expanded its hydropower plants. In the period before and especially during the Second World War, when neutral Switzerland was completely surrounded by fascist-ruled countries, the coal shortage became alarming again. Thanks to their leading position in energy technology, the Swiss companies Sulzer, Escher Wyss and Brown Boveri built and put in operation around 35 heat pumps between 1937 and 1945. The main heat sources were lake water, river water, groundwater, and waste heat. Particularly noteworthy are the six historic heat pumps from the city of Zurich with heat outputs from 100 kW to 6 MW. An international milestone is the heat pump built by Escher Wyss in 1937/38 to replace the wood stoves in the City Hall of Zurich. To avoid noise and vibrations, a recently developed rotary piston compressor was used. This historic heat pump heated the town hall for 63 years until 2001. Only then it was replaced by a new, more efficient heat pump,[11][9]
+1945
+John Sumner, City Electrical Engineer for Norwich, installs an experimental water-source heat pump fed central heating system, using a neighboring river to heat new Council administrative buildings. Seasonal efficiency ratio of 3.42. Average thermal delivery of 147 kW and peak output of 234 kW.[12]
+1948
+Robert C. Webber is credited as developing and building the first ground heat pump.[13]
+1951
+First large scale installation the Royal Festival Hall in London is opened with a town gas-powered reversible water-source heat pump, fed by the Thames, for both winter heating and summer cooling needs.[12]
+Types[edit]
+Air-source heat pump[edit]
+Main article: Air-source heat pump
+ Outdoor unit of air source heat pump operating in freezing conditions
+Air-source heat pumps are used to move heat between two heat exchangers, one outside the building which is fitted with fins through which air is forced using a fan and the other which either directly heats the air inside the building or heats water which is then circulated around the building through radiators or underfloor heating which releases the heat to the building. These devices can also operate in a cooling mode where they extract heat via the internal heat exchanger and eject it into the ambient air using the external heat exchanger. Some can be used to heat water for washing which is stored in a domestic hot water tank.[14]
+Air-source heat pumps are relatively easy and inexpensive to install and have therefore historically been the most widely used heat pump type. In mild weather, coefficient of performance (COP) may be around 4,[4] while at temperatures below around  7 C (19 F) an air-source heat pump may still achieve a COP of 3.
+While older air-source heat pumps performed relatively poorly at low temperatures and were better suited for warm climates, newer models with variable-speed compressors remain highly efficient in freezing conditions allowing for wide adoption and cost savings in places like Minnesota and Maine.[15]
+Ground-source heat pump[edit]
+Main article: Ground-source heat pump
+A ground-source heat pump draws heat from the soil or from groundwater which remains at a relatively constant temperature all year round below a depth of about 30 feet (9.1 m).[16] A well maintained ground-source heat pump will typically have a COP of 4.0 at the beginning of the heating season and a seasonal COP of around 3.0 as heat is drawn from the ground.[17] Ground-source heat pumps are more expensive to install due to the need for the drilling of boreholes for vertical placement of heat exchanger piping or the digging of trenches for horizontal placement of the piping that carries the heat-exchange fluid (water with a little antifreeze).
+A ground-source heat pump can also be used to cool buildings during hot days, thereby transferring heat from the dwelling back into the soil via the ground loop. Solar thermal collectors or piping placed within the tarmac of a parking lot can also be used to replenish the heat underground.[citation needed]
+Exhaust air heat pump[edit]
+Main article: Exhaust air heat pump
+Exhaust air heat pumps extract heat from the exhaust air of a building and require mechanical ventilation.  Two classes exist:
+Exhaust air-air heat pumps transfer heat to intake air.
+Exhaust air-water heat pumps transfer heat to a heating circuit that includes a tank of domestic hot water.
+Solar-assisted heat pump[edit]
+See also: Solar-assisted heat pump
+A solar-assisted heat pump either integrates a heat pump and thermal solar panels or photovoltaic solar power in a single system. In the case of thermal solar, typically these two technologies are used separately (or are operated in parallel) to produce hot water.[18] In this system the solar thermal panel is the low-temperature heat source, and the heat produced feeds the heat pump's evaporator.[19] The goal of this system is to get high COP and then produce energy in a more efficient and less expensive way.[citation needed].  In the case of photovoltaic solar heat pumps, or solar air conditioners, electricity to run the heat pump is generated from the sun.  Either batteries can be used to store excess solar energy generated to run during cloudy or nighttime periods, or grid power can be used during these periods.
+Water-source heat pump[edit]
+ Water-source heat-exchanger being installed
+A water-source heat pump works in a similar manner to a ground-source heat pump, except that it takes heat from a body of water rather than the ground. The body of water does, however, need to be large enough to be able to withstand the cooling effect of the unit without freezing or creating an adverse effect for wildlife.[20]
+Thermoacoustic heat pump[edit]
+A heat pump that operates as a thermoacoustic heat engine without refrigerant but instead using a standing wave in a sealed chamber  driven by a loudspeaker to achieve a temperature difference across the chamber. [21]
+Applications[edit]
+The International Energy Agency estimated that, as of 2021, heat pumps installed in buildings have a combined capacity of more than 1 000 GW. [6] They are used in climates with moderate heating, ventilation, and air conditioning (HVAC) needs and may also provide domestic hot water and tumble clothes drying functions.[22] The purchase costs are supported in various countries by consumer rebates.[23]
+Space heating and sometimes also cooling[edit]
+In HVAC applications, a heat pump is typically a vapor-compression refrigeration device that includes a reversing valve and optimized heat exchangers so that the direction of heat flow (thermal energy movement) may be reversed. The reversing valve switches the direction of refrigerant through the cycle and therefore the heat pump may deliver either heating or cooling to a building. In cooler climates, the default setting of the reversing valve is heating.
+The default setting in warmer climates is cooling. Because the two heat exchangers, the condenser and evaporator, must swap functions, they are optimized to perform adequately in both modes. Therefore, the Seasonal Energy Efficiency Rating (SEER) of a reversible heat pump is typically slightly less than those of two separately optimized machines. For equipment to receive the Energy Star rating, it must have a rating of at least 14 SEER. Pumps with ratings of 18 SEER or above are considered highly efficient. The highest efficiency heat pumps manufactured are up to 24 SEER.[24]
+Water heating[edit]
+In water heating applications, a heat pump may be used to heat or preheat water for swimming pools or heating potable water for use by homes and industry. Usually heat is extracted from outdoor air and transferred to an indoor water tank, another variety extracts heat from indoor air to assist in cooling the space.[citation needed]
+District heating[edit]
+Main article: District heating
+Heat pumps can also be used as heat supplier for district heating. In Europe, heat pumps account for a mere 1% of heat supply in district heating networks but several countries have targets to decarbonise their networks between 2030 and 2040. [1] Possible sources of heat for such applications are sewage water, ambient water (e.g. sea, lake and river water), industrial waste heat, geothermal energy, flue gas, waste heat from district cooling and heat from solar seasonal thermal energy storage. In Europe, more than 1500 MW of large-scale heat pumps were installed since the 1980s, of which about 1000 MW were in use in Sweden in 2017.[25] Large-scale heat pumps for district heating combined with thermal energy storage offer high flexibility for the integration of variable renewable energy. Therefore, they are regarded as a key technology for smart energy systems with high shares of renewable energy up to 100%, and advanced 4th generation district heating systems.[25][26][27] They are also a crucial element of cold district heating systems.[28]
+Industrial heating[edit]
+There is great potential to reduce the energy consumption and related greenhouse gas emissions in industry by application of industrial heat pumps. An international collaboration project completed in 2015 collected totally 39 examples of R&D-projects and 115 case studies worldwide.[29] The study shows that short payback periods of less than 2 years are possible, while achieving a high reduction of CO2 emissions (in some cases more than 50%).[30][31] Industrial heat pumps can heat up to 200 C, and can meet the heating demands of many light industries.[32][33] In Europe alone, 15 GW of heat pumps could be installed in 3 000 facilities in the paper, food and chemicals industries.[1]
+Performance[edit]
+Main article: Coefficient of performance
+The performance of a heat pump is determined by the ability of the pump to extract heat from a low temperature environment (the source) and deliver it to a higher temperature environment (the sink).[34] Performance varies, depending on installation details, temperature differences, site elevation, and maintenance. 
+Common performance metrics are the SEER (in cooling mode) and SCOP (commonly used just for heating), although SCOP can be used for both modes of operation.[34] Larger values of either metric indicate better performance.[34] When comparing the performance of heat pumps, the term performance is preferred to efficiency, with coefficient of performance (COP) being used to describe the ratio of useful heat movement per work input.[34] An electrical resistance heater has a COP of 1.0, which is considerably lower than a well-designed heat pump which will typically be between COP of 3 to 5 with an external temperature of 10 C and an internal temperature of 20 C.[citation needed] 
+Because the ground is a constant temperature source, a ground-source heat pump is not subjected to large temperature fluctuations, and therefore is considered the most energy-efficient type of heat pump.[34]
+The "Seasonal Coefficient of Performance" (SCOP) is a measure of the aggregate energy efficiency measure over a period of one year which is dependent on regional climate.[34] One framework for this calculation is given by the Commission Regulation (EU) No. 813/2013.[35]
+A heat pump's operating performance in cooling mode is characterized in the US by either its energy efficiency ratio (EER) or seasonal energy efficiency ratio (SEER), both of which have units of BTU/(h W) (note that 1 BTU/(h W) = 0.293 W/W) and larger values indicate better performance.
+COP variation with output temperature
+Pump type and source
+Typical use
+35 C  (e.g. heated screed floor)
+45 C  (e.g. heated screed floor)
+55 C  (e.g. heated timber floor)
+65 C  (e.g. radiator or DHW)
+75 C  (e.g. radiator and DHW)
+85 C  (e.g. radiator and DHW)
+High-efficiency air-source heat pump (ASHP), air at  20 C[36]
+2.2
+2.0
+ 
+ 
+ 
+ 
+Two-stage ASHP, air at  20 C[37]
+Low source temperature
+2.4
+2.2
+1.9
+ 
+ 
+ 
+High-efficiency ASHP, air at 0 C[36]
+Low output temperature
+3.8
+2.8
+2.2
+2.0
+ 
+ 
+Prototype transcritical CO2 (R744) heat pump with tripartite gas cooler, source at 0 C[38]
+High output temperature
+3.3
+ 
+ 
+4.2
+ 
+3.0
+Ground-source heat pump (GSHP), water at 0 C[36]
+5.0
+3.7
+2.9
+2.4
+ 
+ 
+GSHP, ground at 10 C[36]
+Low output temperature
+7.2
+5.0
+3.7
+2.9
+2.4
+ 
+Theoretical Carnot cycle limit, source  20 C
+5.6
+4.9
+4.4
+4.0
+3.7
+3.4
+Theoretical Carnot cycle limit, source 0 C
+8.8
+7.1
+6.0
+5.2
+4.6
+4.2
+Theoretical Lorentzen cycle limit (CO2 pump), return fluid 25 C, source 0 C[38]
+10.1
+8.8
+7.9
+7.1
+6.5
+6.1
+Theoretical Carnot cycle limit, source 10 C
+12.3
+9.1
+7.3
+6.1
+5.4
+4.8
+Carbon footprint[edit]
+The carbon footprint of heat pumps depends on their individual efficiency and how electricity is produced. An increasing share of low-carbon energy sources such as wind and solar will lower the impact on the climate.
+heating system
+emissions of energy source
+efficiency
+resulting emissions for thermal energy
+heat pump with onshore wind power
+11 gCO2/kWh[39]
+400% (COP=4)
+3 gCO2/kWh
+heat pump with global electricity mix
+458 gCO2/kWh[40]
+400% (COP=4)
+131 gCO2/kWh
+natural-gas thermal (high efficiency)
+201 gCO2/kWh[41]
+90%
+223 gCO2/kWh
+heat pumpelectricity by lignite (old power plant)and low performance
+1221 gCO2/kWh[41]
+300% (COP=3)
+407 gCO2/kWh
+In most settings, heat pumps will reduce CO2 emissions compared to heating systems powered by fossil fuels.[42]  In regions accounting for 70% of world energy consumption, the emissions savings of heat pumps compared with a high-efficiency gas boiler are on average above 45% and reach 80% in countries with cleaner electricity mixes.[1] These values can be improved by 10 percentage points, respectively, with alternative refrigerants. In the United States, 70% of houses could reduce emissions by installing a heat pump. [43][1]The rising share of renewable electricity generation in many countries is set to increase the emissions savings from heat pumps over time.[1]
+Heating systems powered by green hydrogen are also low-carbon and may become competitors, but are much less efficient due to the energy loss associated with hydrogen conversion, transport and use. In addition, not enough green hydrogen is expected to be available before the 2030s or 2040s.[44][45]
+Operation[edit]
+See also: Vapor-compression refrigeration
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2021) (Learn how and when to remove this template message)
+ Figure 2: Temperature entropy diagram of the vapor-compression cycle.
+ An internal view of the outdoor unit of an Ecodan air source heat pump
+Vapor-compression uses a circulating refrigerant as the medium which absorbs heat from one space, compresses it thereby increasing its temperature before releasing it in another space. The system normally has 8 main components: a compressor, a reservoir, a reversing valve which selects between heating and cooling mode, two thermal expansion valves (one used when in heating mode and the other when used in cooling mode) and two heat exchangers, one associated with the external heat source/sink and the other with the interior. In heating mode the external heat exchanger is the evaporator and the internal one being the condenser; in cooling mode the roles are reversed.
+Circulating refrigerant enters the compressor in the thermodynamic state known as a saturated vapor[46] and is compressed to a higher pressure, resulting in a higher temperature as well. The hot, compressed vapor is then in the thermodynamic state known as a superheated vapor and it is at a temperature and pressure at which it can be condensed with either cooling water or cooling air flowing across the coil or tubes. In heating mode this heat is used to heat the building using the internal heat exchanger, and in cooling mode this heat is rejected via the external heat exchanger.
+The condensed, liquid refrigerant, in the thermodynamic state known as a saturated liquid, is next routed through an expansion valve where it undergoes an abrupt reduction in pressure. That pressure reduction results in the adiabatic flash evaporation of a part of the liquid refrigerant. The auto-refrigeration effect of the adiabatic flash evaporation lowers the temperature of the liquid and-
+vapor refrigerant mixture to where it is colder than the temperature of the enclosed space to be refrigerated.
+The cold mixture is then routed through the coil or tubes in the evaporator. A fan circulates the warm air in the enclosed space across the coil or tubes carrying the cold refrigerant liquid and vapor mixture. That warm air evaporates the liquid part of the cold refrigerant mixture. At the same time, the circulating air is cooled and thus lowers the temperature of the enclosed space to the desired temperature. The evaporator is where the circulating refrigerant absorbs and removes heat which is subsequently rejected in the condenser and transferred elsewhere by the water or air used in the condenser.
+To complete the refrigeration cycle, the refrigerant vapor from the evaporator is again a saturated vapor and is routed back into the compressor.
+Over time, the evaporator may collect ice or water from ambient humidity. The ice is melted through defrosting cycle. An internal heat exchanger is either used to heat/cool the interior air directly or to heat water that is then circulated through radiators or underfloor heating circuit to either heat of cool the buildings.
+Improvement of coefficient of performance (COP) by subcooling[edit]
+Main article: Subcooling
+Heat input can be improved if the refrigerant enters the evaporator with a lower vapor content. This can be achieved by cooling the liquid refrigerant after condensation. The gaseous refrigerant condenses on the heat exchange surface of the condenser. To achieve a heat flow from the gaseous flow center to the wall of the condenser, the temperature of the liquid refrigerant must be lower than the condensation temperature.
+Additional subcooling can be achieved by heat exchange between relatively warm liquid refrigerant leaving the condenser and the cooler refrigerant vapor emerging from the evaporator. The enthalpy difference required for the subcooling leads to the superheating of the vapor drawn into the compressor. When the increase in cooling, achieved by subcooling, is greater that the compressor drive input required to overcome the additional pressure losses, such a heat exchange improves the coefficient of performance. [47]
+One disadvantage of the subcooling of liquids is that the difference between the condensing temperature and the heat-sink temperature must be larger. This leads to a moderately high pressure difference between condensing and evaporating pressure, whereby the compressor energy increases. 
+Refrigerant choice[edit]
+Main article: Refrigerant
+Pure refrigerants can be divided into organic substances (Hydrocarbons (HCs), Chlorofluorocarbons (CFCs), Hydrochlorofluorocarbons (HCFCs), Hydrofluorocarbons (HFCs), Hydrofluoroolefins (HFOs), and HCFOs), and inorganic substances (Ammonia (NH3), Carbon dioxide (CO ), and Water (H O)).[48]
+In the past 200 years, the standards and requirements for new refrigerants have changed. These standards that govern the selection of next-generation refrigerants include a requirement for low global warming potential (GWP), in addition to all the previous requirements for safety, practicality, material compatibility, appropriate atmospheric life, and compatibility with high-efficiency products. By 2022, devices using refrigerants with a very low global warming potential (GWP) still have a small market share but are expected to play an increasing role due to enforced regulations,[49] as most countries have now ratified the Kigali Amendment to ban HFCs.[50] Isobutane (R600A) and propane (R290) are far less harmful to the environment than conventional hydrofluorocarbons (HFC) and already being used in air-source heat pumps.[51] Ammonia (R717) and carbon dioxide (R744) also have a low GWP.
+Until the 1990s, heat pumps, along with fridges and other related products used chlorofluorocarbons (CFCs) as refrigerants that caused major damage to the ozone layer when released into the atmosphere. Use of these chemicals was banned or severely restricted by the Montreal Protocol of August 1987.[52]
+Replacements, including R-134a and R-410A, are hydrofluorocarbons (HFC) with similar thermodynamic properties with insignificant ozone depletion potential but had problematic global warming potential.[53] HFC is a powerful greenhouse gas which contributes to climate change.[54][55] Dimethyl ether (DME) also gained in popularity as a refrigerant in combination with R404a.[56]
+More recent refrigerators include difluoromethane (R32) with a reduced GWP still over 600.
+refrigerant
+20 year global warming potential (GWP)[57]
+100 year GWP[57][58][59]
+R-290 propane / R-600a isobutane
+3.3
+R-32
+2430
+677
+R-410a
+> 2430
+2088
+R-134a
+3790
+1550
+R-404a
+3922
+Government incentives[edit]
+The examples and perspective in this section may not represent a worldwide view of the subject. You may improve this section, discuss the issue on the talk page, or create a new section, as appropriate. (June 2021) (Learn how and when to remove this template message)
+Financial incentives are currently available in more than 30 countries around the world, covering more than 70% of global heating demand in 2021.[1]
+Australia[edit]
+Food processors, brewers, petfood producers and other industrial energy users are exploring whether it is feasible to use renewable energy to produce industrial-grade heat. Process heating accounts for the largest share of onsite energy use in Australian manufacturing, with lower-temperature operations like food production particularly well-suited to transition to renewables.
+To help producers understand how they could benefit from making the switch, the Australian Renewable Energy Agency (ARENA) provided funding to the Australian Alliance for Energy Productivity (A2EP) to undertake pre-feasibility studies at a range of sites around Australia, with the most promising locations advancing to full feasibility studies.[60]
+Canada[edit]
+In 2022, the Canada Greener Homes Grant [61] provides up to $5000 for upgrades (including certain heat pumps), and $600 for energy efficiency evaluations.
+United Kingdom[edit]
+As of 2022: heat pumps have no VAT although in Northern Ireland they are taxed at the reduced rate of 5% instead of the usual level of VAT of 20% for most other products.[62] As of 2022[update] the installation cost of a heat pump is more than a gas boiler, but with the government grant and assuming electricity/gas costs remain similar their lifetime costs would be similar.[63]
+United States[edit]
+After the Inflation Reduction Act was passed by the United States Congress and signed into law by President Joe Biden on August 16, 2022, the High-efficiency Electric Home Rebate Program was created to award grants to State energy offices and Indian Tribes in order to establish state-wide high-efficiency electric-home rebates. Effective immediately, American households are eligible for a tax credit to cover the costs of buying and installing a heat pump, up to $2,000. Starting in 2023, low- and moderate-level income households will be eligible for a heat-pump rebate of up to $8,000.[64]
+In 2022, more heat pumps were sold in the United States than natural gas furnaces.[65]
+Some US states and municipalities have previously offered incentives for air-source heat pumps:
+California
+In 2022, the California Public Utilities Commission allocated an additional $40 million from the 2023 gas Cap-and-Trade allowance auction proceeds to the existing $44.7 million budget of the Self-Generation Incentive Program (SGIP) Heat Pump Water Heater (HPWH) program, in which single-family residential customers can receive an incentive of up to $3,800 to install a HPWH. Half of the incentive funds are reserved for low-income utility customers, who are eligible for a maximum incentive of $4,885.[66]
+Maine
+The Efficiency Maine Trust offers residential heat-pump rebates of up to $1,200, as well as heat-pump rebates for low and moderate income Mainers of $2,000 for their first eligible heat pump and up to $400 for a second eligible heat pump.[67][68]
+Massachusetts
+Mass Save, a collaborative initiative between Massachusetts  natural gas and electric utilities and energy efficiency service providers, offers an air-source heat-pump rebate of up to $10,000, which covers the purchase price of the heat pump and installation costs.[69]
+Minnesota
+Minnesota Power offers an air-source heat-pump rebate of up to $1,200 if the pump is bought and installed by a Minnesota Power Participating Contractor. [70]
+South Carolina
+Dominion Energy South Carolina offers a $400 $500 rebate for purchasing and installing an ENERGY STAR certified heat pump or air-conditioning unit. [71]
+See also[edit]
+EcoCute
+References[edit]
+^ a b c d e f g IEA (2022), The Future of Heat Pumps, IEA, Paris https://www.iea.org/reports/the-future-of-heat-pumps, License: CC BY 4.0
+^ IPCC AR6 WG3 Ch11 2022, Sec. 11.3.4.1 harvnb error: no target: CITEREFIPCC_AR6_WG3_Ch112022 (help)
+^ IPCC SR15 Ch2 2018, p. 142
+^ a b "W rmepumpen mit Pr f- / Effizienznachweis (heat pumps with efficiency validation)" (in German). BAFA (Federal Office for Economic Affairs and Export Control in Germany). Retrieved 2022-02-20.
+^ Deetjen, Thomas A; Walsh, Liam; Vaishnav, Parth (2021-07-28). "US residential heat pumps: the private economic potential and its emissions, health, and grid impacts". Environmental Research Letters. 16 (8): 084024. Bibcode:2021ERL....16h4024D. doi:10.1088/1748-9326/ac10dc. ISSN 1748-9326. S2CID 236486619.
+^ a b "Heat Pumps   Analysis". IEA.
+^ a b G.F.C. Rogers and Y.R. Mayhew (1957), Engineering Thermodynamics, Work and Heat Transfer, Section 13.1, Longmans, Green & Co Ltd.
+^ Banks, David L. (2008-05-06). An Introduction to Thermogeology: Ground Source Heating and Cooling (PDF). Wiley-Blackwell. ISBN 978-1-4051-7061-1. Archived (PDF) from the original on 2016-12-20. Retrieved 2014-03-05.
+^ a b Zogg M.: History of Heat Pumps - Swiss Contributions and International Milestones, Swiss Federal Office of Energy, Berne 2008  Archived 2021-11-23 at the Wayback Machine
+^ Wirth E., Aus der Entwicklungsgeschichte der W rmepumpe, Schweizerische Bauzeitung 1955, Vol. 73, No. 52, pp 647-650. (in German)
+^ Zogg M.: History of Heat Pumps - Swiss Contributions and International Milestones, Proceedings 9th International Energy Agency Heat Pump Conference, Zurich, 20 22 May 2008.Archived 2021-11-18 at the Wayback Machine
+^ a b Electricity supply in the United Kingdom : a chronology - from the beginnings of the industry to 31 December 1985. Electricity Council. The Council. 1987. ISBN 978-0851881058. OCLC 17343802.{{cite book}}:  CS1 maint: others (link)
+^ Banks, David (August 2012). An Introduction to Thermogeology: Ground Source Heating and Cooling. John Wiley & Sons. p. 123.
+^ Lawrence, Karen. "Air source heat pumps explained". Which?. Retrieved 2022-10-04.
+^ "Heat pumps do work in the cold   Americans just don't know it yet". Grist. 2022-05-09. Retrieved 2022-05-09.
+^ "Seasonal Temperature Cycles". May 30, 2013. Archived from the original on May 30, 2013.
+^ Rob Andrushuk, Phil Merkel (June 2009). "Performance of Ground Source Heat Pumps in Manitoba" (PDF). Archived (PDF) from the original on 2013-12-03. Retrieved 2013-11-30.
+^ "Solar-assisted heat pumps". Archived from the original on 28 February 2020. Retrieved 21 June 2016.
+^ "Pompe di calore elio-assistite" (in Italian). Archived from the original on 7 January 2012. Retrieved 21 June 2016.
+^ Trust, Energy Saving (2019-02-13). "Could a water source heat pump work for you?". Energy Saving Trust. Retrieved 2022-10-04.
+^ #author.fullName}. "Heat pump uses a loudspeaker and wet strips of paper to cool air". New Scientist. Retrieved 2023-01-04. {{cite web}}: |last= has generic name (help)
+^ "Heat Pump Systems". U.S. Department of Energy. Archived from the original on 2017-07-04. Retrieved 2016-02-05.
+^ "Renewable Heat Incentive   Domestic RHI   paid over 7 years". Ground Source Heat Pump Association. Archived from the original on 2018-03-08. Retrieved 2017-03-12.
+^ "Heat Pump Efficiency | Heat Pump SEER Ratings". Carrier. Retrieved 2023-01-14.
+^ a b David, Andrei;  et al. (2017). "Heat Roadmap Europe: Large-Scale Electric Heat Pumps in District Heating Systems". Energies. 10 (4): 578. doi:10.3390/en10040578.
+^ Lund, Henrik;  et al. (2014). "4th Generation District Heating (4GDH): Integrating smart thermal grids into future sustainable energy systems". Energy. 68: 1 11. doi:10.1016/j.energy.2014.02.089.
+^ Sayegh, M.A.;  et al. (2018). "Heat pump placement, connection and operational modes in European district heating". Energy and Buildings. 166: 122 144. doi:10.1016/j.enbuild.2018.02.006. Archived from the original on 2019-12-14. Retrieved 2019-07-10.
+^ Simone Buffa;  et al. (2019), "5th generation district heating and cooling systems: A review of existing cases in Europe", Renewable and Sustainable Energy Reviews (in German), vol. 104, pp. 504 522, doi:10.1016/j.rser.2018.12.059
+^ IEA HPT TCP Annex 35 Archived 2018-09-21 at the Wayback Machine 
+^ IEA HPT TCP Annex 35 Publications Archived 2018-09-21 at the Wayback Machine
+^ IEA HPT TCP Annex 25 Summary Archived 2018-09-21 at the Wayback Machine
+^ "Norwegian Researchers Develop World's Hottest Heat Pump". Ammonia21. 2021-08-05. Retrieved 2022-06-07.
+^ "Heat pumps are key to helping industry turn electric". World Business Council for Sustainable Development (WBCSD). Retrieved 2022-10-04.
+^ a b c d e f "Heating and cooling with a heat pump: Efficiency terminology". Natural Resources Canada. 8 September 2022. Retrieved 3 April 2023.
+^ "Ecodesign requirements for space heaters". European Union Law. Archived from the original on 2021-01-18. Retrieved 2021-01-31.
+^ a b c d The Canadian Renewable Energy Network 'Commercial Earth Energy Systems', Figure 29 Archived 2011-05-11 at the Wayback Machine. . Retrieved December 8, 2009.
+^ Technical Institute of Physics and Chemistry, Chinese Academy of Sciences 'State of the Art of Air-source Heat Pump for Cold Region', Figure 5 Archived 2016-04-14 at the Wayback Machine. . Retrieved April 19, 2008.
+^ a b SINTEF Energy Research 'Integrated CO2 Heat Pump Systems for Space Heating and DHW in low-energy and passive houses', J. Steen, Table 3.1, Table 3.3 Archived 2009-03-18 at the Wayback Machine. . Retrieved April 19, 2008.
+^ IPCC AR5 2014, p. 1335 harvnb error: no target: CITEREFIPCC_AR52014 (help)
+^ IEA 2021
+^ a b Quaschning 2022
+^ "The UK is sabotaging its own plan to decarbonize heating". Engadget. Archived from the original on 2021-06-06. Retrieved 2021-06-06.
+^ Deetjen, Thomas A; Walsh, Liam; Vaishnav, Parth (2021-07-28). "US residential heat pumps: the private economic potential and its emissions, health, and grid impacts". Environmental Research Letters. 16 (8): 084024. Bibcode:2021ERL....16h4024D. doi:10.1088/1748-9326/ac10dc. S2CID 236486619.
+^ "Can the UK rely on hydrogen to save its gas boilers?". inews.co.uk. 2021-05-21. Archived from the original on 2021-06-06. Retrieved 2021-06-06.
+^ IEA (2022), Global Hydrogen Review 2022, IEA, Paris https://www.iea.org/reports/global-hydrogen-review-2022, License: CC BY 4.0
+^ Saturated vapors and saturated liquids are vapors and liquids at their saturation temperature and saturation pressure. A superheated vapor is at a temperature higher than the saturation temperature corresponding to its pressure.
+^ Ludwig von Cube, Hans (1981). Heat Pump Technology. Butterworths. pp. 22 23. ISBN 0-408-00497-5.
+^ Wu, Di (2021). "Vapor compression heat pumps with pure Low-GWP refrigerants". Renewable and Sustainable Energy Reviews. 138: 110571. doi:10.1016/j.rser.2020.110571. ISSN 1364-0321. S2CID 229455137.
+^ Miara, Marek (2019-10-22). "Heat Pumps with Climate-Friendly Refrigerant Developed for Indoor Installation". Fraunhofer ISE.
+^ Rabe, Barry G. (2022-09-23). "Pivoting from global climate laggard to leader: Kigali and American HFC policy". Brookings. Retrieved 2022-10-04.
+^ Itteilag, Richard L. (2012-08-09). Green Electricity and Global Warming. AuthorHouse. p. 77. ISBN 9781477217405. Archived from the original on 2021-11-23. Retrieved 2020-11-01.
+^ "Handbook for the Montreal Protocol on Substances that Deplete the Ozone Layer - 7th Edition". United Nations Environment Programme - Ozone Secretariat. 2007. Archived from the original on 2016-05-30. Retrieved 2016-12-18.
+^ "Refrigerants - Environmental Properties". The Engineering ToolBox. Archived from the original on 2013-03-14. Retrieved 2016-09-12.
+^ R-410A#Environmental effects
+^ Ecometrica.com (27 June 2012). "Calculation of green house gas potential of R-410A". Archived from the original on 2015-07-13. Retrieved 2015-07-13.
+^ "R404 and DME Refrigerant blend as a new solution to limit global warming potential" (PDF). March 14, 2012. Archived from the original (PDF) on March 14, 2012.
+^ a b IPCC AR5 WG1 Ch8 2013, pp. 714, 731 737
+^ ARB 2022
+^ Infraserv 2022
+^ "Electrifying industrial processes with heat pumps". 22 March 2022. Retrieved 2022-08-09.
+^ "Canada Greener Homes Grant". 17 March 2021. Retrieved 2022-01-17.
+^ "HMCR rates for goods and services". Archived from the original on 2022-07-22. Retrieved 2022-08-24.
+^ "BBC Radio 4 - Sliced Bread, Air Source Heat Pumps". BBC. Retrieved 2022-04-30.
+^ Elena Shao. "H.R.5376 - Inflation Reduction Act of 2022". Congress.gov. U.S. Congress. Retrieved 17 November 2022.
+^ "As Heat Pumps Go Mainstream, a Big Question: Can They Handle Real Cold?". The New York Times. February 22, 2023.
+^ "CPUC Provides Additional Incentives and Framework for Electric Heat Pump Water Heater Program". cpuc.ca.gov. California Public Utilities Commission. Retrieved 16 November 2022.
+^ "Residential Heat Pump Rebates". Efficiency Maine. The Efficiency Maine Trust. Retrieved 16 November 2022.
+^ "Heat Pump Rebates for Low and Moderate Income Mainers". Efficiency Maine. The Efficiency Maine Trust. Retrieved 16 November 2022.
+^ "Air Source Heat Pump Rebates". Mass Save. Mass Save. Retrieved 17 November 2022.
+^ "ASHP Rebates". Minnesota Power. Retrieved 17 November 2022.
+^ "Rebates for Heating & Cooling System Replacements". Dominion Energy. Retrieved 1 December 2022.
+Sources[edit]
+IPCC reports[edit]
+IPCC (2013).  Stocker, T. F.; Qin, D.; Plattner, G.-K.; Tignor, M.;  et al. (eds.). Climate Change 2013: The Physical Science Basis (PDF). Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge, United Kingdom and New York, NY, USA: Cambridge University Press. ISBN 978-1-107-05799-9. (pb: 978-1-107-66182-0). https://archive.ipcc.ch/report/ar5/wg1/
+Myhre, G.; Shindell, D.; Br on, F.-M.; Collins, W.;  et al. (2013). "Chapter 8: Anthropogenic and Natural Radiative Forcing" (PDF). Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. pp. 659 740.
+IPCC (2018).  Masson-Delmotte, V.; Zhai, P.; P rtner, H.-O.; Roberts, D.;  et al. (eds.). Global Warming of 1.5 C. An IPCC Special Report on the impacts of global warming of 1.5 C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty (PDF). Intergovernmental Panel on Climate Change. https://www.ipcc.ch/sr15/.
+Rogelj, J.; Shindell, D.; Jiang, K.; Fifta, S.;  et al. (2018). "Chapter 2: Mitigation Pathways Compatible with 1.5 C in the Context of Sustainable Development" (PDF). IPCC SR15 2018. pp. 93 174.
+IPCC (2022).  Shula, P. R.; Skea, J.; Slade, R.; Al Khourdajie, A.;  et al. (eds.). Climate Change 2022: Mitigation of Climate Change (PDF). Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge, UK and New York, NY, USA: Cambridge University Press (In Press).
+Other[edit]
+"High GWP refrigerants". California Air Resources Board. Retrieved 13 February 2022.
+"Tracking Power 2021". International Energy Agency. Retrieved 22 February 2022.
+"The GWP value of refrigerants and its importance for operators". Infraserv h chst. Retrieved 20 February 2022.
+Quaschning, Volker. "Specific Carbon Dioxide Emissions of Various Fuels". Retrieved 22 February 2022.
+External links[edit]
+ Media related to Heat pumps at Wikimedia Commons
+U.S. Department of Energy: Practical information on setting up geothermal heat pump systems at home
+IEA Technology Collaboration Programme on Heat Pumping Technologies
+Carbon Brief guest post: How heat pump sales are starting to take off around the world
+vteHeating, ventilation, and air conditioningFundamental concepts
+Air changes per hour
+Bake-out
+Building envelope
+Convection
+Dilution
+Domestic energy consumption
+Enthalpy
+Fluid dynamics
+Gas compressor
+Heat pump and refrigeration cycle
+Heat transfer
+Humidity
+Infiltration
+Latent heat
+Noise control
+Outgassing
+Particulates
+Psychrometrics
+Sensible heat
+Stack effect
+Thermal comfort
+Thermal destratification
+Thermal mass
+Thermodynamics
+Vapour pressure of water
+Technology
+Absorption refrigerator
+Air barrier
+Air conditioning
+Antifreeze
+Automobile air conditioning
+Autonomous building
+Building insulation materials
+Central heating
+Central solar heating
+Chilled beam
+Chilled water
+Constant air volume (CAV)
+Coolant
+Cross ventilation
+Dedicated outdoor air system (DOAS)
+Deep water source cooling
+Demand controlled ventilation (DCV)
+Displacement ventilation
+District cooling
+District heating
+Electric heating
+Energy recovery ventilation (ERV)
+Firestop
+Forced-air
+Forced-air gas
+Free cooling
+Heat recovery ventilation (HRV)
+Hybrid heat
+Hydronics
+Ice storage air conditioning
+Kitchen ventilation
+Mixed-mode ventilation
+Microgeneration
+Passive cooling
+Passive daytime radiative cooling
+Passive house
+Passive ventilation
+Radiant heating and cooling
+Radiant cooling
+Radiant heating
+Radon mitigation
+Refrigeration
+Renewable heat
+Room air distribution
+Solar air heat
+Solar combisystem
+Solar cooling
+Solar heating
+Thermal insulation
+Thermosiphon
+Underfloor air distribution
+Underfloor heating
+Vapor barrier
+Vapor-compression refrigeration (VCRS)
+Variable air volume (VAV)
+Variable refrigerant flow (VRF)
+Ventilation
+Water heat recycling
+Components
+Air conditioner inverter
+Air door
+Air filter
+Air handler
+Air ionizer
+Air-mixing plenum
+Air purifier
+Air source heat pump
+Attic fan
+Automatic balancing valve
+Back boiler
+Barrier pipe
+Blast damper
+Boiler
+Centrifugal fan
+Ceramic heater
+Chiller
+Condensate pump
+Condenser
+Condensing boiler
+Convection heater
+Compressor
+Cooling tower
+Damper
+Dehumidifier
+Duct
+Economizer
+Electrostatic precipitator
+Evaporative cooler
+Evaporator
+Exhaust hood
+Expansion tank
+Fan
+Fan coil unit
+Fan filter unit
+Fan heater
+Fire damper
+Fireplace
+Fireplace insert
+Freeze stat
+Flue
+Freon
+Fume hood
+Furnace
+Gas compressor
+Gas heater
+Gasoline heater
+Grease duct
+Grille
+Ground-coupled heat exchanger
+Ground source heat pump
+Heat exchanger
+Heat pipe
+Heat pump
+Heating film
+Heating system
+HEPA
+High efficiency glandless circulating pump
+High-pressure cut-off switch
+Humidifier
+Infrared heater
+Inverter compressor
+Kerosene heater
+Louver
+Mechanical room
+Oil heater
+Packaged terminal air conditioner
+Plenum space
+Pressurisation ductwork
+Process duct work
+Radiator
+Radiator reflector
+Recuperator
+Refrigerant
+Register
+Reversing valve
+Run-around coil
+Sail switch
+Scroll compressor
+Solar chimney
+Solar-assisted heat pump
+Space heater
+Smoke canopy
+Smoke damper
+Smoke exhaust ductwork
+Thermal expansion valve
+Thermal wheel
+Thermostatic radiator valve
+Trickle vent
+Trombe wall
+TurboSwing
+Turning vanes
+Ultra-low particulate air (ULPA)
+Whole-house fan
+Windcatcher
+Wood-burning stove
+Zone valve
+Measurementand control
+Air flow meter
+Aquastat
+BACnet
+Blower door
+Building automation
+Carbon dioxide sensor
+Clean air delivery rate (CADR)
+Control valve
+Gas detector
+Home energy monitor
+Humidistat
+HVAC control system
+Infrared thermometer
+Intelligent buildings
+LonWorks
+Minimum efficiency reporting value (MERV)
+OpenTherm
+Programmable communicating thermostat
+Programmable thermostat
+Psychrometrics
+Room temperature
+Smart thermostat
+Thermographic camera
+Thermostat
+Thermostatic radiator valve
+Professions,trades,and services
+Architectural acoustics
+Architectural engineering
+Architectural technologist
+Building services engineering
+Building information modeling (BIM)
+Deep energy retrofit
+Duct cleaning
+Duct leakage testing
+Environmental engineering
+Hydronic balancing
+Kitchen exhaust cleaning
+Mechanical engineering
+Mechanical, electrical, and plumbing
+Mold growth, assessment, and remediation
+Refrigerant reclamation
+Testing, adjusting, balancing
+Industry organizations
+AHRI
+AMCA
+ASHRAE
+ASTM International
+BRE
+BSRIA
+CIBSE
+Institute of Refrigeration
+IIR
+LEED
+SMACNA
+UMC
+Health and safety
+Indoor air quality (IAQ)
+Passive smoking
+Sick building syndrome (SBS)
+Volatile organic compound (VOC)
+See also
+ASHRAE Handbook
+Building science
+Fireproofing
+Glossary of HVAC terms
+World Refrigeration Day
+Template:Home automation
+Template:Solar energy
+Authority control: National 
+France
+BnF data
+Germany
+Israel
+United States
+Japan
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Heat_pump&oldid=1149340224"

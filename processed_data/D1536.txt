@@ -1,0 +1,195 @@
+Type of microscope with electrons as a source of illumination
+Not to be confused with Scanning tunneling microscope.
+ A modern transmission electron microscope
+ An image of an ant in a scanning electron microscope
+An electron microscope is a microscope that uses a beam of electrons as a source of illumination. They use electron optics that are analogous to the glass lenses of an optical light microscope. As the wavelength of an electron can be up to 100,000 times shorter than that of visible light, electron microscopes have a higher resolution of about 0.1 nm, which compares to about 200 nm for light microscopes. Electron microscope may refer to:
+Transmission electron microscopy (TEM) where swift electrons go through a thin sample
+Scanning transmission electron microscopy (STEM) is similar to TEM with a scanned electron probe
+Scanning electron microscope (SEM) is similar the STEM, but with thick samples
+Electron microprobe similar to a SEM, but more for chemical analysis
+Ultrafast scanning electron microscopy, version of  SEM that can operate very fast
+Low-energy electron microscopy (LEEM), used to image surfaces
+Photoemission electron microscopy (PEEM) is similar to LEEM using electrons produced at surfaces by photons
+Additional details can be found in the above. This articles contains some general information mainly about transmission electron microscopes.
+History[edit]
+See also: Transmission electron microscopy  History
+ Reproduction of an early electron microscope constructed by Ernst Ruska
+Many developments laid the groundwork of the electron optics used in microscopes.[1] One significant step was the work of Hertz in 1883[2] who made a cathode-ray tube with electrostatic and magnetic deflection, demonstrating manipulation of the direction of an electron beam. Others were focusing of the electrons by an axial magnetic field by Emil Wiechert in 1899,[3] improved oxide-coated cathodes which produced more electrons by Arthur Wehnelt in 1905[4] and the development of the electromagnetic lens in 1926 by Hans Busch.[5] According to Dennis Gabor, the physicist Le  Szil rd tried in 1928 to convince him to build an electron microscope, for which Szil rd had filed a patent.[6]
+To this day the issue of who invented the transmission electron microscope is controversial.[7][8][9][10] In 1928, at the Technical University of Berlin, Adolf Matthias (Professor of High Voltage Technology and Electrical Installations) appointed Max Knoll to lead a team of researchers to advance research on electron beams and cathode-ray oscilloscopes. The team consisted of several PhD students including Ernst Ruska. In 1931, Max Knoll and Ernst Ruska[11][12] successfully generated magnified images of mesh grids placed over an anode aperture. The device, a replicate of which is shown in the figure, used two magnetic lenses to achieve higher magnifications, the first electron microscope. (Max Knoll died in 1969, so did not receive a share of the Nobel Prize in 1986.)
+Apparently independent of this effort was work at Siemens-Schuckert by Reinhold R denberg. According to patent law (U.S. Patent No. 2058914[13] and 2070318,[14] both filed in 1932), he is the inventor of the electron microscope, but it is not clear when he had a working instrument. He stated in a very brief article in 1932[15] that Siemens had been working on this for some years before the patents were filed in 1932, claiming that his effort was parallel to the university development. He died in 1961, so similar to Max Knoll, was not eligible for a share of the Nobel Prize.
+In the following year, 1933, Ruska and Knoll built the first electron microscope that exceeded the resolution attainable with an optical (light) microscope.[16]  Four years later, in 1937, Siemens financed the work of Ernst Ruska and Bodo von Borries, and employed Helmut Ruska, Ernst's brother, to develop applications for the microscope, especially with biological specimens.[16][17] Also in 1937, Manfred von Ardenne pioneered the scanning electron microscope.[18] Siemens produced the first commercial electron microscope in 1938.[19] The first North American electron microscopes were constructed in the 1930s, at the Washington State University by Anderson and Fitzsimmons [20]  and at the University of Toronto by Eli Franklin Burton and students Cecil Hall, James Hillier, and Albert Prebus. Siemens produced a transmission electron microscope (TEM) in 1939.[21] Although current transmission electron microscopes are capable of two million-power magnification, as scientific instruments they remain similar but with improved optics.
+Wavelength[edit]
+ Diagram illustrating the phenomena resulting from the interaction of energetic electrons with matter
+See also: Electron diffraction
+In a typical electron gun, individual electrons, which have an elementary charge 
+e
+{\displaystyle e}
+ (about 
+ 
+1.6
+ 
+10
+ 
+19
+{\displaystyle -1.6\times 10^{-19}}
+ coulombs) and a mass 
+m
+{\displaystyle m}
+ (about 
+9.1
+ 
+10
+ 
+31
+{\displaystyle 9.1\times 10^{-31}}
+ kg), with a potential of 
+V
+{\displaystyle V}
+ volts, have an energy amount of 
+e
+ 
+V
+{\displaystyle e\cdot V}
+ joules. The wavelength is[22]
+ 
+=
+h
+c
+e
+V
+(
+2
+m
+c
+2
++
+e
+V
+)
+{\displaystyle \lambda ={\frac {hc}{\sqrt {eV(2mc^{2}+eV)}}}}
+,
+where 
+c
+{\displaystyle c}
+ is the speed of light in vacuum (about 
+c
+=
+3
+ 
+10
+8
+{\displaystyle c=3\times 10^{8}}
+ m/s). See electron diffraction for a full explanation.
+Types[edit]
+Transmission electron microscope (TEM)[edit]
+Main article: Transmission electron microscope
+ Operating principle of a transmission electron microscope
+The original form of the electron microscope, the transmission electron microscope (TEM), uses a high voltage electron beam to illuminate the specimen and create an image. An electron beam is produced by an electron gun, with the electrons typically at 40 to 400 keV, focused by electromagnetic lenses, and transmitted through the specimen. When it emerges from the specimen, the electron beam carries information about the structure of the specimen that is magnified by lenses of the microscope. The spatial variation in this information (the "image") may be viewed by projecting the magnified electron image onto a fluorescent viewing screen coated with a phosphor or scintillator material such as zinc sulfide. Alternatively, a high-resolution phosphor may be coupled by means of a lens optical system or a fibre optic light-guide to the sensor of a digital camera. The image detected by the digital camera may be displayed on a monitor or computer.
+The resolution of TEMs is limited primarily by spherical aberration, but a new generation of hardware correctors can reduce spherical aberration to increase the resolution in high-resolution transmission electron microscopy (HRTEM) to below 0.5 angstrom (50 picometres),[23] enabling magnifications above 50 million times.[24] The ability of HRTEM to determine the positions of atoms within materials is useful for nano-technologies research and development.[25]
+Main article: Electron diffraction
+Transmission electron microscopes are often used in electron diffraction mode. The advantages of electron diffraction over X-ray crystallography are that the specimen need not be a single crystal or even a polycrystalline powder.
+Scanning transmission electron microscope (STEM)[edit]
+Main article: Scanning transmission electron microscopy
+The STEM rasters a focused incident probe across a specimem. The high resolution of the TEM is thus possible in STEM. The focusing action (and aberrations) occur before the electrons hit the specimen in the STEM, but afterward in the TEM. The STEMs use of SEM-like beam rastering simplifies annular dark-field imaging, and other analytical techniques, but also means that image data is acquired in serial rather than in parallel fashion.
+Scanning electron microscope (SEM)[edit]
+ Operating principe of a scanning electron microscope
+Main article: Scanning electron microscope
+ Image of Bacillus subtilis taken with a 1960s electron microscope
+The SEM produces images by probing the specimen with a focused electron beam that is scanned across the specimen (raster scanning). When the electron beam interacts with the specimen, it loses energy by a variety of mechanisms. The lost energy is converted into alternative forms such as heat, emission of low-energy secondary electrons and high-energy backscattered electrons, light emission (cathodoluminescence) or X-ray emission, all of which provide signals carrying information about the properties of the specimen surface, such as its topography and composition. The image displayed by an SEM maps the varying intensity of any of these signals into the image in a position corresponding to the position of the beam on the specimen when the signal was generated. In the SEM image of an ant shown, the image was constructed from signals produced by a secondary electron detector, the normal or conventional imaging mode in most SEMs.
+Generally, the image resolution of an SEM is lower than that of a TEM. However, because the SEM images the surface of a sample rather than its interior, the electrons do not have to travel through the sample. This reduces the need for extensive sample preparation to thin the specimen to electron transparency. The SEM also has a great depth of field, and so can produce images that are good representations of the three-dimensional surface shape of the sample. 
+In their most common configurations, electron microscopes produce images with a single brightness value per pixel, with the results usually rendered in greyscale.[26] However, often these images are then colourized through the use of feature-detection software, or simply by hand-editing using a graphics editor. This may be done to clarify structure or for aesthetic effect and generally does not add new information about the specimen.[27]
+Sample preparation for TEM[edit]
+ An insect coated in gold for viewing with a scanning electron microscopeSee also: TEM Sample preparation, Ultramicrotomy, Staining, Cryofixation, Chemical milling, and Sputtering
+Materials to be viewed in a transmission electron microscope may require processing to produce a suitable sample. The technique required varies depending on the specimen and the analysis required:
+Chemical fixation   for biological specimens this aims to stabilize the specimen's mobile macromolecular structure by chemical crosslinking of proteins with aldehydes such as formaldehyde and glutaraldehyde, and lipids with osmium tetroxide.
+Cryofixation   freezing a specimen rapidly in liquid ethane, so that the water forms vitreous (non-crystalline) ice. This preserves the specimen in a snapshot of its solution state. An entire field called cryo-electron microscopy has branched from this technique. With the development of cryo-electron microscopy of vitreous sections (CEMOVIS), it is now possible to observe samples from virtually any biological specimen close to its native state.[citation needed]
+Dehydration   replacement of water with organic solvents such as ethanol or acetone, followed by critical point drying or infiltration with embedding resins. See also freeze drying.
+Embedding, biological specimens   after dehydration, tissue for observation in the transmission electron microscope is embedded so it can be sectioned ready for viewing. To do this the tissue is passed through a 'transition solvent' such as propylene oxide (epoxypropane) or acetone and then infiltrated with an epoxy resin such as Araldite, Epon, or Durcupan;[28] tissues may also be embedded directly in water-miscible acrylic resin. After the resin has been polymerized (hardened) the sample is thin sectioned (ultrathin sections) and stained.
+Embedding, materials   after embedding in resin, the specimen is usually ground and polished to a mirror-like finish using ultra-fine abrasives.
+Freeze-fracture or freeze-etch   a preparation method[29][30][31] particularly useful for examining lipid membranes and their incorporated proteins in "face on" view.[32][33][34] Freeze-fracturing helps to peel open membranes to allow visualization of what is inside  External face of bakers yeast membrane showing the small holes where proteins are fractured out, sometimes as small ring patterns.The fresh tissue or cell suspension is frozen rapidly (cryofixation), then fractured by breaking[35] (or by using a microtome)[34] while maintained at liquid nitrogen temperature. The cold fractured surface (sometimes "etched" by increasing the temperature to about  100 C for several minutes to let some ice sublime)[34] is then shadowed with evaporated platinum or gold at an average angle of 45  in a high vacuum evaporator. The second coat of carbon, evaporated perpendicular to the average surface plane is often performed to improve the stability of the replica coating. The specimen is returned to room temperature and pressure, then the extremely fragile "pre-shadowed" metal replica of the fracture surface is released from the underlying biological material by careful chemical digestion with acids, hypochlorite solution or SDS detergent. The still-floating replica is thoroughly washed free from residual chemicals, carefully fished up on fine grids, dried then viewed in the TEM.
+Freeze-fracture replica immunogold labeling (FRIL)   the freeze-fracture method has been modified to allow the identification of the components of the fracture face by immunogold labeling. Instead of removing all the underlying tissue of the thawed replica as the final step before viewing in the microscope the tissue thickness is minimized during or after the fracture process. The thin layer of tissue remains bound to the metal replica so it can be immunogold labeled with antibodies to the structures of choice. The thin layer of the original specimen on the replica with gold attached allows the identification of structures in the fracture plane.[36] There are also related methods which label the surface of etched cells[37] and other replica labeling variations.[38]
+Ion beam milling   thins samples until they are transparent to electrons by firing ions (typically argon) at the surface from an angle and sputtering material from the surface. A subclass of this is focused ion beam milling, where gallium ions are used to produce an electron transparent membrane in a specific region of the sample, for example through a device within a microprocessor. Ion beam milling may also be used for cross-section polishing prior to analysis of materials that are difficult to prepare using mechanical polishing.
+Negative stain   suspensions containing nanoparticles or fine biological material (such as viruses and bacteria) are briefly mixed with a dilute solution of an electron-opaque solution such as ammonium molybdate, uranyl acetate (or formate), or phosphotungstic acid. This mixture is applied to a suitably coated EM grid, blotted, then allowed to dry. Viewing of this preparation in the TEM should be carried out without delay for best results. The method is important in microbiology for fast but crude morphological identification, but can also be used as the basis for high-resolution 3D reconstruction using EM tomography methodology when carbon films are used for support. Negative staining is also used for observation of nanoparticles.
+Sectioning   produces thin slices of the specimen, semitransparent to electrons. These can be cut on an ultramicrotome with a glass or diamond knife to produce ultra-thin sections about 60 90 nm thick. Disposable glass knives are also used because they can be made in the lab and are much cheaper.
+Staining   uses heavy metals such as lead, uranium or tungsten to scatter imaging electrons and thus give contrast between different structures, since many (especially biological) materials are nearly "transparent" to electrons (weak phase objects). In biology, specimens can be stained "en bloc" before embedding and also later after sectioning. Typically thin sections are stained for several minutes with an aqueous or alcoholic solution of uranyl acetate followed by aqueous lead citrate.[39]
+Disadvantages[edit]
+ JEOL transmission and scanning electron microscope made in the mid-1970s
+Electron microscopes are expensive to build and maintain. Microscopes designed to achieve high resolutions must be housed in stable buildings (sometimes underground) with special services such as magnetic field canceling systems.
+The samples largely have to be viewed in vacuum, as the molecules that make up air would scatter the electrons. An exception is liquid-phase electron microscopy[40] using either a closed liquid cell or an environmental chamber, for example, in the environmental scanning electron microscope, which allows hydrated samples to be viewed in a low-pressure (up to 20 Torr or 2.7 kPa) wet environment. Various techniques for in situ electron microscopy of gaseous samples have been developed.[41]
+Scanning electron microscopes operating in conventional high-vacuum mode usually image conductive specimens; therefore non-conductive materials require conductive coating (gold/palladium alloy, carbon, osmium, etc.). The low-voltage mode of modern microscopes makes possible the observation of non-conductive specimens without coating.  Non-conductive materials can be imaged also by a variable pressure (or environmental) scanning electron microscope.
+Small, stable specimens such as carbon nanotubes, diatom frustules and small mineral crystals (asbestos fibres, for example) require no special treatment before being examined in the electron microscope. Samples of hydrated materials, including almost all biological specimens, have to be prepared in various ways to stabilize them, reduce their thickness (ultrathin sectioning) and increase their electron optical contrast (staining). These processes may result in artifacts, but these can usually be identified by comparing the results obtained by using radically different specimen preparation methods. Since the 1980s, analysis of cryofixed, vitrified specimens has also become increasingly used by scientists, further confirming the validity of this technique.[42][43][44]
+See also[edit]
+Acronyms in microscopy
+Electron diffraction
+Electron energy loss spectroscopy (EELS)
+Electron microscope images
+Energy filtered transmission electron microscopy (EFTEM)
+Environmental scanning electron microscope (ESEM)
+Immune electron microscopy
+In situ electron microscopy
+Microscope image processing
+Microscopy
+Nanoscience
+Nanotechnology
+Scanning confocal electron microscopy
+Scanning electron microscope (SEM)
+Transmission Electron Aberration-Corrected Microscope
+Low-energy electron microscopy
+References[edit]
+^ Calbick, C. J. (1944). "Historical Background of Electron Optics". Journal of Applied Physics. 15 (10): 685 690. Bibcode:1944JAP....15..685C. doi:10.1063/1.1707371. ISSN 0021-8979.
+^ Hertz, Heinrich (2019), "Introduction to Heinrich Hertz's Miscellaneous Papers (1895) by Philipp Lenard", Heinrich Rudolf Hertz (1857-1894), Routledge, pp. 87 88, doi:10.4324/9780429198960-4, ISBN 978-0-429-19896-0, S2CID 195494352, retrieved 2023-02-24
+^ Wiechert, E. (1899). "Experimentelle Untersuchungen  ber die Geschwindigkeit und die magnetische Ablenkbarkeit der Kathodenstrahlen". Annalen der Physik und Chemie (in German). 305 (12): 739 766. Bibcode:1899AnP...305..739W. doi:10.1002/andp.18993051203.
+^ Wehnelt, A. (1905). "X. On the discharge of negative ions by glowing metallic oxides, and allied phenomena". The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science. 10 (55): 80 90. doi:10.1080/14786440509463347. ISSN 1941-5982.
+^ Busch, H. (1926). "Berechnung der Bahn von Kathodenstrahlen im axialsymmetrischen elektromagnetischen Felde". Annalen der Physik (in German). 386 (25): 974 993. Bibcode:1926AnP...386..974B. doi:10.1002/andp.19263862507.
+^ Dannen, Gene (1998)  Leo Szilard the Inventor: A Slideshow (1998, Budapest, conference talk). dannen.com
+^ Mulvey, T (1962). "Origins and historical development of the electron microscope". British Journal of Applied Physics. 13 (5): 197 207. doi:10.1088/0508-3443/13/5/303. ISSN 0508-3443.
+^ Tao, Yaping (2018). "A Historical Investigation of the Debates on the Invention and Invention Rights of Electron Microscope". Advances in Social Science, Education and Humanities Research. Atlantis Press: 1438 1441. doi:10.2991/iccessh-18.2018.313. ISBN 978-94-6252-528-3.
+^ Freundlich, Martin M. (1963). "Origin of the Electron Microscope: The history of a great invention, and of a misconception concerning the inventors, is reviewed". Science. 142 (3589): 185 188. doi:10.1126/science.142.3589.185. ISSN 0036-8075. PMID 14057363.
+^ R denberg, Reinhold (2010), Origin and Background of the Invention of the Electron Microscope, Advances in Imaging and Electron Physics, vol. 160, Elsevier, pp. 171 205, doi:10.1016/s1076-5670(10)60005-5, ISBN 9780123810175, retrieved 2023-02-11.
+^ Knoll, M.; Ruska, E. (1932). "Beitrag zur geometrischen Elektronenoptik. I". Annalen der Physik. 404 (5): 607 640. Bibcode:1932AnP...404..607K. doi:10.1002/andp.19324040506. ISSN 0003-3804.
+^ Knoll, M.; Ruska, E. (1932). "Das Elektronenmikroskop". Zeitschrift f r Physik (in German). 78 (5 6): 318 339. Bibcode:1932ZPhy...78..318K. doi:10.1007/BF01342199. ISSN 1434-6001. S2CID 186239132.
+^ R denberg, Reinhold. "Apparatus for producing images of objects". Patent Public Search Basic. Retrieved 24 February 2023.
+^ R denberg, Reinhold. "Apparatus for producing images of objects". Patent Public Search Basic. Retrieved 24 February 2023.
+^ Rodenberg, R. (1932). "Elektronenmikroskop". Die Naturwissenschaften (in German). 20 (28): 522. Bibcode:1932NW.....20..522R. doi:10.1007/BF01505383. ISSN 0028-1042.
+^ a b Ruska, Ernst (1986). "Ernst Ruska Autobiography". Nobel Foundation. Retrieved 2010-01-31.
+^ Kruger, DH; Schneck, P; Gelderblom, HR (May 2000). "Helmut Ruska and the visualisation of viruses". The Lancet. 355 (9216): 1713 1717. doi:10.1016/S0140-6736(00)02250-9. PMID 10905259. S2CID 12347337.
+^ Ardenne, M. Von; Beischer, D. (1940). "Untersuchung von Metalloxyd-Rauchen mit dem Universal-Elektronenmikroskop" [Investigation of metal oxide smoking with the universal electron microscope]. Zeitschrift f r Elektrochemie und Angewandte Physikalische Chemie (in German). 46 (4): 270 277. doi:10.1002/bbpc.19400460406 (inactive 31 December 2022).{{cite journal}}:  CS1 maint: DOI inactive as of December 2022 (link)
+^ History of electron microscopy, 1931 2000. Authors.library.caltech.edu (2002-12-10). Retrieved on 2017-04-29.
+^ "North America's first electron microscope".
+^ "James Hillier". Inventor of the Week: Archive. 2003-05-01. Archived from the original on 2003-08-23. Retrieved 2010-01-31.
+^ Kirkland, Earl (2010). Advanced computing in electron microscopy. New York: Springer. ISBN 978-1-4419-6533-2. OCLC 668095602.
+^ Erni, Rolf; Rossell, MD; Kisielowski, C; Dahmen, U (2009). "Atomic-Resolution Imaging with a Sub-50-pm Electron Probe". Physical Review Letters. 102 (9): 096101. Bibcode:2009PhRvL.102i6101E. doi:10.1103/PhysRevLett.102.096101. PMID 19392535.
+^ "The Scale of Things". Office of Basic Energy Sciences, U.S. Department of Energy. 2006-05-26. Archived from the original on 2010-02-01. Retrieved 2010-01-31.
+^ O'Keefe MA; Allard LF (2004-01-18). "Sub- ngstrom Electron Microscopy for Sub- ngstrom Nano-Metrology" (PDF). Information Bridge: DOE Scientific and Technical Information   Sponsored by OSTI. {{cite journal}}: Cite journal requires |journal= (help)
+^ Burgess, Jeremy (1987). Under the Microscope: A Hidden World Revealed. CUP Archive. p. 11. ISBN 978-0-521-39940-1.
+^ "Introduction to Electron Microscopy" (PDF). FEI Company. p. 15. Retrieved 12 December 2012.
+^ Luft, J.H. (1961). "Improvements in epoxy resin embedding methods". The Journal of Biophysical and Biochemical Cytology. Vol. 9, no. 2. p. 409. PMC 2224998. PMID 13764136.
+^ Meryman H.T. and Kafig E. (1955). The study of frozen specimens, ice crystals and ices crystal growth by electron microscopy. Naval Med. Res. Ints. Rept NM 000 018.01.09 Vol. 13 pp 529 544
+^ Steere, Russell L. (1957-01-25). "Electron microscopy of structural detail in frozen biological specimens". The Journal of Biophysical and Biochemical Cytology. 3 (1): 45 60. doi:10.1083/jcb.3.1.45. PMC 2224015. PMID 13416310.
+^ Isailovi , Tanja M.; Todosijevi , Marija N.;  or evi , Sanela M.; Savi , Sne ana D. (2017-01-01),   alija, Bojan (ed.), "Chapter 7 - Natural Surfactants-Based Micro/Nanoemulsion Systems for NSAIDs Practical Formulation Approach, Physicochemical and Biopharmaceutical Characteristics/Performances", Microsized and Nanosized Carriers for Nonsteroidal Anti-Inflammatory Drugs, Boston: Academic Press, pp. 179 217, doi:10.1016/b978-0-12-804017-1.00007-8, ISBN 978-0-12-804017-1, retrieved 2020-10-22
+^ Moor H, M hlethaler K (1963). "Fine structure in frozen-etched yeast cells". The Journal of Cell Biology. 17 (3): 609 628. doi:10.1083/jcb.17.3.609. PMC 2106217. PMID 19866628.
+^ Black, Joel A. (1990-01-01),  Conn, P. Michael (ed.), "[20] - Use of Freeze-Fracture in Neurobiology", Methods in Neurosciences, Quantitative and Qualitative Microscopy, Academic Press, 3: 343 360, doi:10.1016/b978-0-12-185255-9.50025-0, retrieved 2020-10-22
+^ a b c Stillwell, William (2016-01-01),  Stillwell, William (ed.), "Chapter 11 - Long-Range Membrane Properties", An Introduction to Biological Membranes (Second Edition), Elsevier, pp. 221 245, doi:10.1016/b978-0-444-63772-7.00011-7, ISBN 978-0-444-63772-7, retrieved 2020-10-22
+^ Bullivant, Stanley; Ames, Adelbert (1966-06-01). "A simple freeze-fracture replication method for electron microscopy". The Journal of Cell Biology. 29 (3): 435 447. doi:10.1083/jcb.29.3.435. PMC 2106967. PMID 5962938.
+^ Gruijters, W. T.; Kistler, J; Bullivant, S; Goodenough, D. A. (1987-03-01). "Immunolocalization of MP70 in lens fiber 16-17-nm intercellular junctions". The Journal of Cell Biology. 104 (3): 565 572. doi:10.1083/jcb.104.3.565. PMC 2114558. PMID 3818793.
+^ da Silva, Pedro Pinto; Branton, Daniel (1970-06-01). "Membrane splitting in freeze-etching". The Journal of Cell Biology. 45 (3): 598 605. doi:10.1083/jcb.45.3.598. PMC 2107921. PMID 4918216.
+^ Rash, J. E.; Johnson, T. J.; Hudson, C. S.; Giddings, F. D.; Graham, W. F.; Eldefrawi, M. E. (1982-11-01). "Labelled-replica techniques: post-shadow labelling of intramembrane particles in freeze-fracture replicas". Journal of Microscopy. 128 (Pt 2): 121 138. doi:10.1111/j.1365-2818.1982.tb00444.x. PMID 6184475. S2CID 45238172.
+^ Reynolds, E. S. (1963). "The use of lead citrate at high pH as an electron-opaque stain in electron microscopy". Journal of Cell Biology. 17 (1): 208 212. doi:10.1083/jcb.17.1.208. PMC 2106263. PMID 13986422.
+^ de Jonge, N.; Ross, F.M. (2011). "Electron microscopy of specimens in liquid". Nature Nanotechnology. 6 (8): 695 704. Bibcode:2003NatMa...2..532W. doi:10.1038/nmat944. PMID 12872162. S2CID 21379512.
+^ Gai, P.L.; Boyes, E.D. (2009). "Advances in atomic resolution in situ environmental transmission electron microscopy and 1A aberration corrected in situ electron microscopy". Microsc Res Tech. 72 (3): 153 164. arXiv:1705.05754. doi:10.1002/jemt.20668. PMID 19140163. S2CID 1746538.
+^ Adrian, Marc; Dubochet, Jacques; Lepault, Jean; McDowall, Alasdair W. (1984). "Cryo-electron microscopy of viruses". Nature (Submitted manuscript). 308 (5954): 32 36. Bibcode:1984Natur.308...32A. doi:10.1038/308032a0. PMID 6322001. S2CID 4319199.
+^ Sabanay, I.; Arad, T.; Weiner, S.; Geiger, B. (1991). "Study of vitrified, unstained frozen tissue sections by cryoimmunoelectron microscopy". Journal of Cell Science. 100 (1): 227 236. doi:10.1242/jcs.100.1.227. PMID 1795028.
+^ Kasas, S.; Dumas, G.; Dietler, G.; Catsicas, S.; Adrian, M. (2003). "Vitrification of cryoelectron microscopy specimens revealed by high-speed photographic imaging". Journal of Microscopy. 211 (1): 48 53. doi:10.1046/j.1365-2818.2003.01193.x. PMID 12839550. S2CID 40058086.
+Library resources about  Electron microscopy 
+Resources in your library
+Resources in other libraries
+Wikimedia Commons has media related to Electron microscopes.
+An Introduction to  Microscopy Archived 2013-07-19 at the Wayback Machine: resources for teachers and students
+Cell Centered Database   Electron microscopy data
+Science Aid: Electron Microscopy:u
+Authority control: National 
+France
+BnF data
+Israel
+Japan
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Electron_microscope&oldid=1149465857"

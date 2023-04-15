@@ -1,0 +1,207 @@
+Treatment for life-threatening cardiac arrhythmias
+Not to be confused with defibulation.
+DefibrillationView of defibrillator electrode position and placement[edit on Wikidata]
+Defibrillation is a treatment for life-threatening cardiac arrhythmias, specifically ventricular fibrillation (V-Fib) and non-perfusing ventricular tachycardia (V-Tach).[1][2] A defibrillator delivers a dose of electric current (often called a counter-shock) to the heart. Although not fully understood, this process depolarizes a large amount of the heart muscle, ending the arrhythmia. Subsequently, the body's natural pacemaker in the sinoatrial node of the heart is able to re-establish normal sinus rhythm.[3] A heart which is in asystole (flatline) cannot be restarted by a defibrillator, but would be treated by cardiopulmonary resuscitation (CPR).
+In contrast to defibrillation, synchronized electrical cardioversion is an electrical shock delivered in synchrony to the cardiac cycle.[4] Although the person may still be critically ill, cardioversion normally aims to end poorly perfusing cardiac arrhythmias, such as supraventricular tachycardia.[1][2]
+Defibrillators can be external, transvenous, or implanted (implantable cardioverter-defibrillator), depending on the type of device used or needed.[5] Some external units, known as automated external defibrillators (AEDs), automate the diagnosis of treatable rhythms, meaning that lay responders or bystanders are able to use them successfully with little or no training.[2]
+Use of defibrillators[edit]
+Indications[edit]
+Defibrillation is often an important step in cardiopulmonary resuscitation (CPR).[6][7] CPR is an algorithm-based intervention aimed to restore cardiac and pulmonary function.[6] Defibrillation is indicated only in certain types of cardiac dysrhythmias, specifically ventricular fibrillation (VF) and pulseless ventricular tachycardia.[1][2] If the heart has completely stopped, as in asystole or pulseless electrical activity (PEA), defibrillation is not indicated. Defibrillation is also not indicated if the patient is conscious or has a pulse. Improperly given electrical shocks can cause dangerous dysrhythmias, such as ventricular fibrillation.[1]
+Application method[edit]
+The defibrillation device that is usually available out of the medical centers is the automated external defibrillator (AED),[8] a portable machine that can be used even by users with no previous training. That is possible because the machine produces pre-recorded voice instructions that guide to the user, and automatically checks the patient's condition and applies the correct electric shocks. There also exist written instructions of defibrillators that explain the procedure step-by-step.
+Outcomes[edit]
+Survival rates for out-of-hospital cardiac arrests are poor, often less than 10%.[9] Outcome for in-hospital cardiac arrests are higher at 20%.[9] Within the group of people presenting with cardiac arrest, the specific cardiac rhythm can significantly impact survival rates. Compared to people presenting with a non-shockable rhythm (such as asystole or PEA), people with a shockable rhythm (such as VF or pulseless ventricular tachycardia) have improved survival rates, ranging between 21 and 50%.[6][10][11]
+Types[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2014) (Learn how and when to remove this template message)
+Manual models[edit]
+Manual external defibrillators require the expertise of a healthcare professional.[12][13] They are used in conjunction with an electrocardiogram, which can be separate or built-in. A healthcare provider first diagnoses the cardiac rhythm and then manually determine the voltage and timing for the electrical shock. These units are primarily found in hospitals and on some ambulances.  For instance, every NHS ambulance in the United Kingdom is equipped with a manual defibrillator for use by the attending paramedics and technicians.[citation needed] In the United States, many advanced EMTs and all paramedics are trained to recognize lethal arrhythmias and deliver appropriate electrical therapy with a manual defibrillator when appropriate.[citation needed]
+An internal defibrillator is often used to defibrillate the heart during or after cardiac surgery such as a heart bypass. The electrodes consist of round metal plates that come in direct contact with the myocardium. Manual internal defibrillators deliver the shock through paddles placed directly on the heart.[1] They are mostly used in the operating room and, in rare circumstances, in the emergency room during an open heart procedure.
+Automated external defibrillators[edit]
+Main article: Automated external defibrillator
+Automated external defibrillators (AEDs) are designed for use by untrained or briefly trained laypersons.[14][15][16] AEDs contain technology for analysis of heart rhythms. As a result, it does not require a trained health provider to determine whether or not a rhythm is shockable. By making these units publicly available, AEDs have improved outcomes for sudden out-of-hospital cardiac arrests.[14][15]
+Trained health professionals have more limited use for AEDs than manual external defibrillators.[17] Recent studies show that AEDs does not improve outcome in patients with in-hospital cardiac arrests.[17][18] AEDs have set voltages and does not allow the operator to vary voltage according to need. AEDs may also delay delivery of effective CPR. For diagnosis of rhythm, AEDs often require the stopping of chest compressions and rescue breathing. For these reasons, certain bodies, such as the European Resuscitation Council, recommend using manual external defibrillators over AEDs if manual external defibrillators are readily available.[18]
+As early defibrillation can significantly improve VF outcomes, AEDs have become publicly available in many easily accessible areas.[17][18] AEDs have been incorporated into the algorithm for basic life support (BLS). Many first responders, such as firefighters, policemen, and security guards, are equipped with them.
+AEDs can be fully automatic or semi-automatic.[19] A semi-automatic AED automatically diagnoses heart rhythms and determines if a shock is necessary. If a shock is advised, the user must then push a button to administer the shock. A fully automated AED automatically diagnoses the heart rhythm and advises the user to stand back while the shock is automatically given. Some types of AEDs come with advanced features, such as a manual override or an ECG display.
+Cardioverter-defibrillators[edit]
+Implantable cardioverter-defibrillators, also known as automatic internal cardiac defibrillator (AICD), are implants similar to pacemakers (and many can also perform the pacemaking function). They constantly monitor the patient's heart rhythm, and automatically administer shocks for various life-threatening arrhythmias, according to the device's programming. Many modern devices can distinguish between ventricular fibrillation, ventricular tachycardia, and more benign arrhythmias like supraventricular tachycardia and atrial fibrillation. Some devices may attempt overdrive pacing prior to synchronised cardioversion. When the life-threatening arrhythmia is ventricular fibrillation, the device is programmed to proceed immediately to an unsynchronized shock.
+There are cases where the patient's ICD may fire constantly or inappropriately. This is considered a medical emergency, as it depletes the device's battery life, causes significant discomfort and anxiety to the patient, and in some cases may actually trigger life-threatening arrhythmias. Some emergency medical services personnel are now equipped with a ring magnet to place over the device, which effectively disables the shock function of the device while still allowing the pacemaker to function (if the device is so equipped). If the device is shocking frequently, but appropriately, EMS personnel may administer sedation.
+A wearable cardioverter defibrillator is a portable external defibrillator that can be worn by at-risk patients.[20] The unit monitors the patient 24 hours a day and can automatically deliver a biphasic shock if VF or VT is detected. This device is mainly indicated in patients who are not immediate candidates for ICDs.[21]
+Interface[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2014) (Learn how and when to remove this template message)
+The connection between the defibrillator and the patient consists of a pair of electrodes, each provided with electrically conductive gel in order to ensure a good connection and to minimize electrical resistance, also called chest impedance (despite the DC discharge) which would burn the patient.  Gel may be either wet (similar in consistency to surgical lubricant) or solid (similar to gummi candy).  Solid-gel is more convenient, because there is no need to clean the used gel off the person's skin after defibrillation. However, the use of solid-gel presents a higher risk of burns during defibrillation, since wet-gel electrodes more evenly conduct electricity into the body.  Paddle electrodes, which were the first type developed, come without gel, and must have the gel applied in a separate step.  Self-adhesive electrodes come prefitted with gel.  There is a general division of opinion over which type of electrode is superior in hospital settings; the American Heart Association favors neither, and all modern manual defibrillators used in hospitals allow for swift switching between self-adhesive pads and traditional paddles.  Each type of electrode has its merits and demerits.
+Paddle electrodes[edit]
+An automated external defibrillator: this model is a semi-automatic due to the presence of a shock buttonThe same AED with electrodes attached
+The most well-known type of electrode (widely depicted in films and television) is the traditional metal "hard" paddle with an insulated (usually plastic) handle. This type must be held in place on the patient's skin with approximately 25 lbs (11.3 kg) of force while a shock or a series of shocks is delivered. Paddles offer a few advantages over self-adhesive pads.  Many hospitals in the United States continue the use of paddles, with disposable gel pads attached in most cases, due to the inherent speed with which these electrodes can be placed and used. This is critical during cardiac arrest, as each second of nonperfusion means tissue loss.  Modern paddles allow for monitoring (electrocardiography), though in hospital situations, separate monitoring leads are often already in place.
+Paddles are reusable, being cleaned after use and stored for the next patient.  Gel is therefore not preapplied, and must be added before these paddles are used on the patient.  Paddles are generally only found on manual external units.
+Self-adhesive electrodes[edit]
+ Self-adhesive electrodes of a defibrillator
+Newer types of resuscitation electrodes are designed as an adhesive pad, which includes either solid or wet gel.  These are peeled off their backing and applied to the patient's chest when deemed necessary, much the same as any other sticker. The electrodes are then connected to a defibrillator, much as the paddles would be. If defibrillation is required, the machine is charged, and the shock is delivered, without any need to apply any additional gel or to retrieve and place any paddles.  Most adhesive electrodes are designed to be used not only for defibrillation, but also for transcutaneous pacing and synchronized electrical cardioversion.  These adhesive pads are found on most automated and semi-automated units and are replacing paddles entirely in non-hospital settings.  In hospital, for cases where cardiac arrest is likely to occur (but has not yet), self-adhesive pads may be placed prophylactically.
+Pads also offer an advantage to the untrained user, and to medics working in the sub-optimal conditions of the field.  Pads do not require extra leads to be attached for monitoring, and they do not require any force to be applied as the shock is delivered.  Thus, adhesive electrodes minimize the risk of the operator coming into physical (and thus electrical) contact with the patient as the shock is delivered by allowing the operator to be up to several feet away.  (The risk of electrical shock to others remains unchanged, as does that of shock due to operator misuse.)  Self-adhesive electrodes are single-use only.  They may be used for multiple shocks in a single course of treatment, but are replaced if (or in case) the patient recovers then reenters cardiac arrest.
+Special pads are used for children under the age of 8 or those under 55 lbs. (22 kg).[22]
+Placement[edit]
+ Anterior-apex placement of electrodes for defibrillation
+Resuscitation electrodes are placed according to one of two schemes. The anterior-posterior scheme is the preferred scheme for long-term electrode placement. One electrode is placed over the left precordium (the lower part of the chest, in front of the heart). The other electrode is placed on the back, behind the heart in the region between the scapula. This placement is preferred because it is best for non-invasive pacing.
+The anterior-apex scheme (anterior-lateral position) can be used when the anterior-posterior scheme is inconvenient or unnecessary. In this scheme, the anterior electrode is placed on the right, below the clavicle. The apex electrode is applied to the left side of the patient, just below and to the left of the pectoral muscle. This scheme works well for defibrillation and cardioversion, as well as for monitoring an ECG.
+Researchers have created a software modeling system capable of mapping an individual's chest and determining the best position for an external or internal cardiac defibrillator.[23]
+Mechanism[edit]
+ Defibrillator with pad positions shown: the model is biphasic and either pad can be placed in each position
+The exact mechanism of defibrillation is not well understood.[2][24] One theory is that successful defibrillation affects most of the heart, resulting in insufficient remaining heart muscle to continue the arrhythmia.[2] Recent mathematical models of defibrillation are providing new insight into how cardiac tissue responds to a strong electrical shock.[24]
+History[edit]
+Defibrillators were first demonstrated in 1899 by Jean-Louis Pr vost and Fr d ric Batelli, two physiologists from the University of Geneva, Switzerland. They discovered that small electrical shocks could induce ventricular fibrillation in dogs, and that larger charges would reverse the condition.[25][26]
+In 1933, Dr. Albert Hyman, heart specialist at the Beth Davis Hospital of New York City and C. Henry Hyman, an electrical engineer, looking for an alternative to injecting powerful drugs directly into the heart, came up with an invention that used an electrical shock in place of drug injection. This invention was called the Hyman Otor where a hollow needle is used to pass an insulated wire to the heart area to deliver the electrical shock.  The hollow steel needle acted as one end of the circuit and the tip of the insulated wire the other end.  Whether the Hyman Otor was a success is unknown.[27]
+The external defibrillator, as it is known today, was invented by electrical engineer William Kouwenhoven in 1930. Kouwenhoven studied the relationship between electric shocks and their effects on the human heart when he was a student at Johns Hopkins University School of Engineering. His studies helped him invent a device to externally jump start the heart. He invented the defibrillator and tested it on a dog, like Pr vost and Batelli. The first use on a human was in 1947 by Claude Beck,[28] professor of surgery at Case Western Reserve University.  Beck's theory was that ventricular fibrillation often occurred in hearts that were fundamentally healthy, in his terms "Hearts that are too good to die", and that there must be a way of saving them.  Beck first used the technique successfully on a 14-year-old boy who was having his breastbone separated from his ribs because of a congenital growth disorder, causing breathing problems. The boy's chest was surgically opened, and manual cardiac massage was undertaken for 45 minutes until the arrival of the defibrillator.  Beck used internal paddles on either side of the heart, along with procainamide, an antiarrhythmic drug, and achieved return of a perfusing cardiac rhythm.[citation needed]
+These early defibrillators used the alternating current from a power socket, transformed from the 110 240 volts available in the line, up to between 300 and 1000 volts, to the exposed heart by way of "paddle" type electrodes.  The technique was often ineffective in reverting VF while morphological studies showed damage to the cells of the heart muscle post-mortem.  The nature of the AC machine with a large transformer also made these units very hard to transport, and they tended to be large units on wheels.[citation needed]
+Closed-chest method[edit]
+Until the early 1950s, defibrillation of the heart was possible only when the chest cavity was open during surgery. The technique used an alternating voltage from a 300 or greater volt source derived from standard AC power, delivered to the sides of the exposed heart by "paddle" electrodes where each electrode was a flat or slightly concave metal plate of about 40 mm diameter. The closed-chest defibrillator device which applied an alternating voltage of greater than 1000 volts, conducted by means of externally applied electrodes through the chest cage to the heart, was pioneered by Dr V. Eskin with assistance by A. Klimov in Frunze, USSR (today known as Bishkek, Kyrgyzstan) in the mid-1950s.[29] The duration of AC shocks was typically in the range of 100 150 milliseconds.[30]
+Direct current method[edit]
+ A circuit diagram showing the simplest (non-electronically controlled) defibrillator design, depending on the inductor (damping), producing a Lown, Edmark or Gurvich Waveform
+Early successful experiments of successful defibrillation by the discharge of a capacitor performed on animals were reported by N. L. Gurvich and G. S. Yunyev in 1939.[31] In 1947 their works were reported in western medical journals.[32] Serial production of Gurvich's pulse defibrillator started in 1952 at the electromechanical plant of the institute, and was designated model  -1-  (    1,      , or in English, Pulse Defibrillator 1, All-Union Electrotechnical Institute). It is described in detail in Gurvich's 1957 book, Heart Fibrillation and Defibrillation.[33]
+The first Czechoslovak  "universal defibrillator Prema" was manufactured in 1957 by the company Prema, designed by Dr. Bohumil Pele ka. In 1958 his device was awarded Grand Prix at Expo 58.[34]
+In 1958, US senator Hubert H. Humphrey visited Nikita Khrushchev and among other things he visited the Moscow Institute of Reanimatology, where, among others, he met with Gurvich.[35]  Humphrey immediately recognized importance of reanimation research and after that a number of American doctors visited Gurvich. At the same time, Humphrey worked on establishing a federal program in the National Institute of Health  in physiology and medicine, telling Congress: "Let's compete with U.S.S.R. in research on reversibility of death".[36]
+In 1959 Bernard Lown commenced research in his animal laboratory in collaboration with engineer Barouh Berkovits into a technique which involved charging of a bank of capacitors to approximately 1000 volts with an energy content of 100 200 joules then delivering the charge through an inductance such as to produce a heavily damped sinusoidal wave of finite duration (~5 milliseconds) to the heart by way of paddle electrodes.  This team further developed an understanding of the optimal timing of shock delivery in the cardiac cycle, enabling the application of the device to arrhythmias such as atrial fibrillation, atrial flutter, and supraventricular tachycardias in the technique known as "cardioversion".
+The Lown-Berkovits waveform, as it was known, was the standard for defibrillation until the late 1980s. Earlier in the 1980s, the "MU lab" at the University of Missouri had pioneered numerous studies introducing a new waveform called a biphasic truncated waveform (BTE). In this waveform an exponentially decaying DC voltage is reversed in polarity about halfway through the shock time, then continues to decay for some time after which the voltage is cut off, or truncated. The studies showed that the biphasic truncated waveform could be more efficacious while requiring the delivery of lower levels of energy to produce defibrillation.[30] An added benefit was a significant reduction in weight of the machine. The BTE waveform, combined with automatic measurement of transthoracic impedance, is the basis for modern defibrillators.[citation needed]
+Portable units[edit]
+ Wall-mounted emergency defibrillator
+A major breakthrough was the introduction of portable defibrillators used out of the hospital. Already Pele ka's Prema defibrillator was designed to be more portable than original Gurvich's model. In Soviet Union, a portable version of Gurvich's defibrillator, model  -3 (DPA-3), was reported in 1959.[37]  In the west this was pioneered in the early 1960s by Prof. Frank Pantridge in Belfast.  Today portable defibrillators are among the many very important tools carried by ambulances.  They are the only proven way to resuscitate a person who has had a  cardiac arrest unwitnessed by Emergency Medical Services (EMS) who is still in  persistent ventricular fibrillation or ventricular tachycardia at the arrival of pre-hospital providers.
+Gradual improvements in the design of defibrillators, partly based on the work developing implanted versions (see below), have led to the availability of Automated External Defibrillators. These devices can analyse the heart rhythm by themselves, diagnose the shockable rhythms, and charge to treat.  This means that no clinical skill is required in their use, allowing lay people to respond to emergencies effectively.
+Waveform change[edit]
+Until the mid 90s, external defibrillators delivered a Lown type waveform (see Bernard Lown) which was a heavily damped sinusoidal impulse having a mainly uniphasic characteristic. Biphasic defibrillation alternates the direction of the pulses, completing one cycle in approximately 12 milliseconds. Biphasic defibrillation was originally developed and used for implantable cardioverter-defibrillators. When applied to external defibrillators, biphasic defibrillation significantly decreases the energy level necessary for successful defibrillation, decreasing the risk of burns and myocardial damage.
+Ventricular fibrillation (VF) could be returned to normal sinus rhythm in 60% of cardiac arrest patients treated with a single shock from a monophasic defibrillator. Most biphasic defibrillators have a first shock success rate of greater than 90%.[38]
+Implantable devices[edit]
+A further development in defibrillation came with the invention of the implantable device, known as an implantable cardioverter-defibrillator (or ICD).  This was pioneered at Sinai Hospital in Baltimore by a team that included Stephen Heilman, Alois Langer, Jack Lattuca, Morton Mower, Michel Mirowski, and Mir Imran, with the help of industrial collaborator Intec Systems of Pittsburgh.[39] Mirowski teamed up with Mower and Staewen, and together they commenced their research in 1969. However, it was 11 years before they treated their first patient. Similar developmental work was carried out by Schuder and colleagues at the University of Missouri.
+The work was commenced, despite doubts amongst leading experts in the field of arrhythmias and sudden death. There was doubt that their ideas would ever become a clinical reality. In 1962 Bernard Lown introduced the external DC defibrillator. This device applied a direct current from a discharging capacitor through the chest wall into the heart to stop heart fibrillation.[40] In 1972, Lown stated in the journal Circulation   "The very rare patient who has frequent bouts of ventricular fibrillation is best treated in a coronary care unit and is better served by an effective antiarrhythmic program or surgical correction of inadequate coronary blood flow or ventricular malfunction. In fact, the implanted defibrillator system represents an imperfect solution in search of a plausible and practical application."[41]
+The problems to be overcome were the design of a system which would allow detection of ventricular fibrillation or ventricular tachycardia. Despite the lack of financial backing and grants, they persisted and the first device was implanted in February 1980 at Johns Hopkins Hospital by Dr. Levi Watkins Jr. assisted by Vivien Thomas. Modern ICDs do not require a thoracotomy and possess pacing, cardioversion, and defibrillation capabilities.
+The invention of implantable units is invaluable to some people with regular heart problems, although they are generally only given to those people who have already had a cardiac episode.
+People can live long normal lives with the devices.  Many patients have multiple implants.  A patient in Houston, Texas had an implant at the age of 18 in 1994 by the recent Dr. Antonio Pacifico. He was awarded "Youngest Patient with Defibrillator" in 1996. Today these devices are implanted into small babies shortly after birth.
+Society and culture[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Defibrillation" news  newspapers  books  scholar  JSTOR (June 2021) (Learn how and when to remove this template message)
+As devices that can quickly produce dramatic improvements in patient health, defibrillators are often depicted in movies, television, video games and other fictional media. Their function, however, is often exaggerated with the defibrillator inducing a sudden, violent jerk or convulsion by the patient. The pad placement is also shown wrong, along with sudden rising of patient to large height when shock is given. In reality, while the muscles may contract, such dramatic patient presentation is rare. Similarly, medical providers are often depicted defibrillating patients with a "flat-line" ECG rhythm (also known as asystole). This is not normal medical practice, as the heart cannot be restarted by the defibrillator itself. Only the cardiac arrest rhythms ventricular fibrillation and pulseless ventricular tachycardia are normally defibrillated. The purpose of defibrillation is to depolarize the entire heart all at once so that it is synchronized, effectively inducing temporary asystole, in the hope that in the absence of the previous abnormal electrical activity, the heart will spontaneously resume beating normally. Someone who is already in asystole cannot be helped by electrical means, and usually needs urgent CPR and intravenous medication (and even these are rarely successful in cases of asystole). A useful analogy to remember is to think of defibrillators as power-cycling, rather than jump-starting, the heart. There are also several heart rhythms that can be "shocked" when the patient is not in cardiac arrest, such as supraventricular tachycardia and ventricular tachycardia that produces a pulse; this more-complicated procedure is known as cardioversion, not defibrillation.
+In Australia up until the 1990s it was relatively rare for ambulances to carry defibrillators. This changed in 1990 after Australian media mogul Kerry Packer had a cardiac arrest due to a heart attack and, purely by chance, the ambulance that responded to the call carried a defibrillator. After recovering, Kerry Packer donated a large sum to the Ambulance Service of New South Wales in order that all ambulances in New South Wales should be fitted with a personal defibrillator, which is why defibrillators in Australia are sometimes colloquially called "Packer Whackers".[42]
+See also[edit]
+Advanced cardiac life support
+Automated external defibrillator
+Ambulance
+Cardioversion
+Myocardial infarction
+Wearable cardioverter defibrillator
+Citations[edit]
+^ a b c d e Ong, ME; Lim, S; Venkataraman, A (2016). "Defibrillation and cardioversion".  In Tintinalli JE;  et al. (eds.). Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 8e. McGraw-Hill (New York, NY).
+^ a b c d e f Kerber, RE (2011). "Chapter 46. Indications and Techniques of Electrical Defibrillation and Cardioversion".  In Fuster V; Walsh RA; Harrington RA (eds.). Hurst's The Heart (13th ed.). New York, NY: McGraw-Hill   via AccessMedicine.
+^ Werman, Howard A.; Karren, K; Mistovich, Joseph (2014). "Automated External Defibrillation and Cardiopulmonary Resuscitation".  In Werman A. Howard; Mistovich J; Karren K (eds.). Prehospital Emergency Care, 10e. Pearson Education, Inc. p. 425.
+^ Knight, Bradley P.  Page, Richard L; Downey, Brian C (eds.). "Basic principles and technique of external electrical cardioversion and defibrillation". UpToDate. Retrieved 2019-07-24.
+^ Hoskins, MH; De Lurgio, DB (2012). "Chapter 129. Pacemakers, Defibrillators, and Cardiac Resynchronization Devices in Hospital Medicine".  In McKean SC; Ross JJ; Dressler DD; Brotman DJ; Ginsberg JS (eds.). Principles and Practice of Hospital Medicine. New York, NY: McGraw-Hill   via Access Medicine.
+^ a b c Venegas-Borsellino, C; Bangar, MD (2016). "CPR and ACLS Updates".  In Orpello JM;  et al. (eds.). Critical Care. McGraw-Hill (New York, NY).
+^ Marenco, JP; Wang, PJ; Link, MS; Homoud, MK; Estes III, NAM (2001). "Improving Survival From Sudden Cardiac ArrestThe Role of the Automated External Defibrillator". JAMA. 285 (9): 1193 1200. doi:10.1001/jama.285.9.1193. PMID 11231750   via JAMA Network.
+^ "What is an automated external defibrillator? Defibrillators, cardiac arrest". 2011-06-23. Archived from the original on 2011-06-23. Retrieved 2021-11-08.
+^ a b Borke, Jesse (2016-11-03). "Cardiopulmonary Resuscitation (CPR): Practice Essentials, Preparation, Technique". Archived from the original on 2016-12-07.
+^ Nadkarni, Vinay M. (2006-01-04). "First Documented Rhythm and Clinical Outcome From In-Hospital Cardiac Arrest Among Children and Adults". JAMA. 295 (1): 50 7. doi:10.1001/jama.295.1.50. ISSN 0098-7484. PMID 16391216.
+^ Nichol, Graham (2008-09-24). "Regional Variation in Out-of-Hospital Cardiac Arrest Incidence and Outcome". JAMA. 300 (12): 1423 31. doi:10.1001/jama.300.12.1423. ISSN 0098-7484. PMC 3187919. PMID 18812533.
+^ Beaumont, E (2001). "Teaching Colleagues and the General Public about Automatic External Defibrillators". Medscape. Prog Cardiovasc Nurs. Archived from the original on January 23, 2017. Retrieved December 8, 2016.
+^ Center for Devices and Radiological Health. "External Defibrillators - External Defibrillator Improvement Initiative Paper". www.fda.gov. Archived from the original on 2016-11-10. Retrieved 2016-12-08.
+^ a b Powell, Judy; Van Ottingham, Lois; Schron, Eleanor (2016-12-01). "Public defibrillation: increased survival from a structured response system". The Journal of Cardiovascular Nursing. 19 (6): 384 389. doi:10.1097/00005082-200411000-00009. ISSN 0889-4655. PMID 15529059. S2CID 28998226.
+^ a b Investigators, The Public Access Defibrillation Trial (2004-08-12). "Public-Access Defibrillation and Survival after Out-of-Hospital Cardiac Arrest". New England Journal of Medicine. 351 (7): 637 646. doi:10.1056/NEJMoa040566. ISSN 0028-4793. PMID 15306665.
+^ Yeung, Joyce; Okamoto, Deems; Soar, Jasmeet; Perkins, Gavin D. (2011-06-01). "AED training and its impact on skill acquisition, retention and performance--a systematic review of alternative training methods" (PDF). Resuscitation. 82 (6): 657 664. doi:10.1016/j.resuscitation.2011.02.035. ISSN 1873-1570. PMID 21458137.
+^ a b c Chan, Paul S.; Krumholz, Harlan M.; Spertus, John A.; Jones, Philip G.; Cram, Peter; Berg, Robert A.; Peberdy, Mary Ann; Nadkarni, Vinay; Mancini, Mary E. (2010-11-17). "Automated external defibrillators and survival after in-hospital cardiac arrest". JAMA. 304 (19): 2129 2136. doi:10.1001/jama.2010.1576. ISSN 1538-3598. PMC 3587791. PMID 21078809.
+^ a b c Perkins, GD; Handley, AJ; Koster, RW; Castren, M; Smyth, T; Monsieurs, KG; Raffay, V; Grasner, JT; Wenzel, V; Ristagno, G; Soar, J (2015). "European Resuscitation Council Guidelines for Resuscitation 2015 Section 2. Adult basic life support and automated external defibrillation" (PDF). Resuscitation. 95: 81 99. doi:10.1016/j.resuscitation.2015.07.015. PMID 26477420. Archived (PDF) from the original on 2016-12-20.
+^ "Benefits of Fully Automated Defibrillators" (PDF). Physio-Control. 2011. Archived (PDF) from the original on 29 March 2012. Retrieved 12 December 2016.
+^ "What is the LifeVest?". Zoll Lifecor. Archived from the original on 2008-11-21. Retrieved 2009-02-09.
+^ Adler, Arnon; Halkin, Amir; Viskin, Sami (2013-02-19). "Wearable Cardioverter-Defibrillators". Circulation. 127 (7): 854 860. doi:10.1161/CIRCULATIONAHA.112.146530. ISSN 0009-7322. PMID 23429896.
+^ "What is the Difference Between Adult and Pediatric Pads". AED Brands. 2018-05-16. Retrieved 2021-08-06.
+^ Jolley, Matthew; Stinstra, Jeroen; Pieper, Steve; MacLeod, Rob; Brooks, Dana; Cecchin, Frank; Triedman, John (2008). "A Computer Modeling Tool for Comparing Novel ICD Electrode Orientations in Children and Adults". Heart Rhythm. 5 (4): 565 572. doi:10.1016/j.hrthm.2008.01.018. PMC 2745086. PMID 18362024.
+^ a b Trayanova N (2006). "Defibrillation of the heart: insights into mechanisms from modelling studies". Experimental Physiology. 91 (2): 323 337. doi:10.1113/expphysiol.2005.030973. PMID 16469820. S2CID 29999829.
+^ Prevost J.L., Batelli F. (1899). "Some Effects of Electric Discharge on the Hearts of Mammals". Comptes Rendus de l'Acad mie des Sciences. 129: 1267 1268.
+^ Lockyer, Sir Norman (1900). "Restoration of the Functions of the Heart and Central Nervous System after Complete Anemia". Nature. 61: 532.
+^ Corporation, Bonnier (1 October 1933). "Popular Science". Bonnier Corporation. Retrieved 2 May 2018   via Google Books.
+^ "Claude Beck, defibrillation and CPR". Case Western Reserve University. Archived from the original on 2007-10-24. Retrieved 2007-06-15.
+^ Sov Zdravookhr Kirg. (1975). "Some results with the use of the DPA-3 defibrillator (developed by V. Ia. Eskin and A. M. Klimov) in the treatment of terminal states". Sovetskoe Zdravookhranenie Kirgizii (in Russian). 66 (4): 23 25. doi:10.1016/0006-291x(75)90518-5. PMID 6.
+^ a b "Apparatus for defibrillation or cardioversion with a waveform optimized in the frequency domain". Patents. 21 June 2006. Archived from the original on 24 September 2015. Retrieved 22 September 2014.
+^    . .,    . .                     //          , 1939,  . VIII,   1,  . 55-58
+^ Gurvich NL, Yunyev GS. Restoration of a regular rhythm in the mammalian fibrillating heart // Am Rev Sov Med. 1946 Feb;3:236-9
+^              ,  in:    . .        . Moscow, Medgiz, 1957, pp. 229-233.
+^ Elektrick  kardioverze a defibrilace, Interven n  a akutn  kardiologie, 2011; 10(1)
+^ Humphrey H H. My marathon talk with Russia's boss: Senator Humphrey reports in full on Khrushchev   his threats, jokes, criticism of China's communes New York, Time, Inc., 1959, pp. 80 91.
+^ Humphrey H.H. "An important phase of world medical research: Let's compete with U.S.S.R. in research on reversibility of death." Congressional Records, October 13, 1962; A7837 A7839
+^ "                                                                   " Archived 2014-11-29 at the Wayback Machine (Portable defibrillator with universal power supply)
+^ Heart Smarter: EMS Implications of the 2005 AHA Guidelines for ECC & CPR Archived 2007-06-16 at the Wayback Machine pp 15-16
+^ Gold, Michael; Nisam, Seah (January 21, 2002). "Jack Lattuca". Pacing and Clinical Electrophysiology. 25 (5): 876. doi:10.1046/j.1460-9592.2002.t01-1-00876.x. S2CID 222087116. Archived from the original on 2013-01-05   via Wiley Online Library.
+^ Aston, Richard (1991). Principles of Biomedical Instrumentation and Measurement: International Edition. Merrill Publishing Company. ISBN 978-0-02-946562-2.
+^ Giedwoyn, Jerzy O. (1972). "Pacemaker Failure following External Defibrillation" (PDF). Circulation. 44 (2): 293. doi:10.1161/01.cir.44.2.293. ISSN 1524-4539. PMID 5562564. S2CID 608076.
+^ Karl Kruszelnicki (2008-08-08). "Dr Karl's Great Moments In Science, Flatline and defibrillator (Part II)". Australian Broadcasting Corporation. Archived from the original on 2012-11-10. Retrieved 2011-12-21.
+General and cited references[edit]
+Picard, Andr  (2007-04-27). "School defibrillators could be a lifesaver". The Globe and Mail. Retrieved 2015-07-23.
+External links[edit]
+Wikimedia Commons has media related to Defibrillator.
+Sudden Cardiac Arrest Foundation
+Center for Integration of Medicine and Innovative Technology
+American Red Cross: Saving a Life is as Easy as A-E-D
+FDA Heart Health Online: Automated External Defibrillator (AED)
+vteEmergency medicineEmergency medicine
+Emergency department
+Emergency medical services
+Emergency nursing
+Emergency psychiatry
+Golden hour
+Medical emergency
+International emergency medicine
+Pediatric emergency medicine
+Pre-hospital emergency medicine
+Major trauma
+Trauma center
+Triage
+Equipment
+Bag valve mask (BVM)
+Chest tube
+Defibrillation (AED
+ICD)
+Electrocardiogram (ECG/EKG)
+Intraosseous infusion (IO)
+Intravenous therapy (IV)
+Tracheal intubation
+Laryngeal tube
+Combitube
+Nasopharyngeal airway (NPA)
+Oropharyngeal airway (OPA)
+Pocket mask
+Drugs
+Adenosine
+Amiodarone
+Atropine
+Dopamine
+Epinephrine / Adrenaline
+Naloxone
+Magnesium sulfate
+Sodium bicarbonate
+Organisations
+International Federation for Emergency Medicine (International Conference on Emergency Medicine)
+American College of Emergency Physicians
+Australasian College for Emergency Medicine
+Canadian Association of Emergency Physicians
+Royal College of Emergency Medicine
+European Society for Emergency Medicine
+Asian Society for Emergency Medicine
+American Academy of Emergency Medicine
+Courses / Life support
+First aid
+Cardiopulmonary resuscitation (CPR)
+Mouth-to-mouth resuscitation
+Basic life support (BLS)
+Advanced cardiac life support (ACLS)
+Advanced trauma life support (ATLS)
+Neonatal Resuscitation Program (NRP)
+Acute Care of at-Risk Newborns (ACoRN)
+Pediatric basic life support (PBLS)
+Pediatric Advanced Life Support (PALS)
+Advanced Life Support in Obstetrics (ALSO)
+Care of the Critically Ill Surgical Patient (CCrISP)
+Scoring systems
+NACA score
+Injury Severity Score
+ Category
+ Outline
+Authority control: National 
+France
+BnF data
+Germany
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Defibrillation&oldid=1141867055"

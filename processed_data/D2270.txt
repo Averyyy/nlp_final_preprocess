@@ -1,0 +1,395 @@
+Speed at which a body orbits around the barycenter of a system
+Not to be confused with Escape velocity.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Orbital speed" news  newspapers  books  scholar  JSTOR (September 2007) (Learn how and when to remove this template message)
+Part of a series onAstrodynamics
+Orbital mechanics
+Orbital elements
+Apsis
+Argument of periapsis
+Eccentricity
+Inclination
+Mean anomaly
+Orbital nodes
+Semi-major axis
+True anomaly
+Types of two-body orbits by eccentricity
+Circular orbit
+Elliptic orbit
+Transfer orbit (Hohmann transfer orbitBi-elliptic transfer orbit)
+Parabolic orbit
+Hyperbolic orbit
+Radial orbit
+Decaying orbit
+Equations
+Dynamical friction
+Escape velocity
+Kepler's equation
+Kepler's laws of planetary motion
+Orbital period
+Orbital velocity
+Surface gravity
+Specific orbital energy
+Vis-viva equation
+Celestial mechanics
+Gravitational influences
+Barycenter
+Hill sphere
+Perturbations
+Sphere of influence
+N-body orbitsLagrangian points (Halo orbits)
+Lissajous orbits
+Lyapunov orbits
+Engineering and efficiency
+Preflight engineering
+Mass ratio
+Payload fraction
+Propellant mass fraction
+Tsiolkovsky rocket equation
+Efficiency measures
+Gravity assist
+Oberth effect
+vte
+In gravitationally bound systems, the orbital speed of an astronomical body or object (e.g. planet, moon, artificial satellite, spacecraft, or star) is the speed at which it orbits around either the barycenter or, if one body is much more massive than the other bodies of the system combined, its speed relative to the center of mass of the most massive body.
+The term can be used to refer to either the mean orbital speed (i.e. the average speed over an entire orbit) or its instantaneous speed at a particular point in its orbit. The maximum (instantaneous) orbital speed occurs at periapsis (perigee, perihelion, etc.), while the minimum speed for objects in closed orbits occurs at apoapsis (apogee, aphelion, etc.). In ideal two-body systems, objects in open orbits continue to slow down forever as their distance to the barycenter increases. 
+When a system approximates a two-body system, instantaneous orbital speed at a given point of the orbit can be computed from its distance to the central body and the object's specific orbital energy, sometimes called "total energy". Specific orbital energy is constant and independent of position.[1]
+Radial trajectories[edit]
+In the following, it is thought that the system is a two-body system and the orbiting object has a negligible mass compared to the larger (central) object. In real-world orbital mechanics, it is the system's barycenter, not the larger object, which is at the focus.
+Specific orbital energy, or total energy, is equal to Ek Ep. (kinetic energy potential energy). The sign of the result may be positive, zero, or negative and the sign tells us something about the type of orbit:[1]
+If the specific orbital energy is positive the orbit is unbound, or open, and will follow a hyperbola with the larger body the focus of the hyperbola. Objects in open orbits do not return; once past periapsis their distance from the focus increases without bound. See radial hyperbolic trajectory
+If the total energy is zero, (Ek = Ep): the orbit is a parabola with focus at the other body. See radial parabolic trajectory. Parabolic orbits are also open.
+If the total energy is negative, Ek   Ep < 0: The orbit is bound, or closed. The motion will be on an ellipse with one focus at the other body. See radial elliptic trajectory, free-fall time. Planets have bound orbits around the Sun.
+Transverse orbital speed[edit]
+The transverse orbital speed is inversely proportional to the distance to the central body because of the law of conservation of angular momentum, or equivalently,  Kepler's second law. This states that as a body moves around its orbit during a fixed amount of time, the line from the barycenter to the body sweeps a constant area of the orbital plane, regardless of which part of its orbit the body traces during that period of time.[2]
+This law implies that the body moves slower near its apoapsis than near its periapsis, because at the smaller distance along the arc it needs to move faster to cover the same area.[1]
+Mean orbital speed[edit]
+For orbits with small eccentricity, the length of the orbit 
+is close to that of a circular one, and the mean orbital speed can be approximated either from observations of the orbital period and the semimajor axis of its orbit, or from knowledge of the masses of the two bodies and the semimajor axis.[3]
+v
+ 
+2
+ 
+a
+T
+ 
+ 
+a
+{\displaystyle v\approx {2\pi a \over T}\approx {\sqrt {\mu  \over a}}}
+where v is the orbital velocity, a is the length of the semimajor axis, T is the orbital period, and   = GM is the standard gravitational parameter. This is an approximation that only holds true when the orbiting body is of considerably lesser mass than the central one, and eccentricity is close to zero.
+When one of the bodies is not of considerably lesser mass see: Gravitational two-body problem
+So, when one of the masses is almost negligible compared to the other mass, as the case for Earth and Sun, one can approximate the orbit velocity 
+v
+o
+{\displaystyle v_{o}}
+ as:[1]
+v
+o
+ 
+G
+M
+r
+{\displaystyle v_{o}\approx {\sqrt {\frac {GM}{r}}}}
+or assuming r equal to the radius of the orbit[citation needed]
+v
+o
+ 
+v
+e
+2
+{\displaystyle v_{o}\approx {\frac {v_{e}}{\sqrt {2}}}}
+Where M is the (greater) mass around which this negligible mass or body is orbiting, and ve is the escape velocity.
+For an object in an eccentric orbit orbiting a much larger body, the length of the orbit decreases with orbital eccentricity e, and is an ellipse. This can be used to obtain a more accurate estimate of the average orbital speed:[4]
+v
+o
+=
+2
+ 
+a
+T
+[
+1
+ 
+1
+4
+e
+2
+ 
+3
+64
+e
+4
+ 
+5
+256
+e
+6
+ 
+175
+16384
+e
+8
+ 
+ 
+]
+{\displaystyle v_{o}={\frac {2\pi a}{T}}\left[1-{\frac {1}{4}}e^{2}-{\frac {3}{64}}e^{4}-{\frac {5}{256}}e^{6}-{\frac {175}{16384}}e^{8}-\cdots \right]}
+The mean orbital speed decreases with eccentricity.
+Instantaneous orbital speed[edit]
+For the instantaneous orbital speed of a body at any given point in its trajectory, both the mean distance and the instantaneous distance are taken into account:
+v
+=
+ 
+(
+2
+r
+ 
+1
+a
+)
+{\displaystyle v={\sqrt {\mu \left({2 \over r}-{1 \over a}\right)}}}
+where   is the standard gravitational parameter of the orbited body, r is the distance at which the speed is to be calculated, and a is the length of the semi-major axis of the elliptical orbit. This expression is called the vis-viva equation.[1]
+For the Earth at perihelion, the value is:
+1.327
+ 
+10
+20
+ 
+m
+3
+s
+ 
+2
+ 
+(
+2
+1.471
+ 
+10
+11
+ 
+m
+ 
+1
+1.496
+ 
+10
+11
+ 
+m
+)
+ 
+30
+,
+300
+ 
+m
+/
+s
+{\displaystyle {\sqrt {1.327\times 10^{20}~{\text{m}}^{3}{\text{s}}^{-2}\cdot \left({2 \over 1.471\times 10^{11}~{\text{m}}}-{1 \over 1.496\times 10^{11}~{\text{m}}}\right)}}\approx 30,300~{\text{m}}/{\text{s}}}
+which is slightly faster than Earth's average orbital speed of 29,800 m/s (67,000 mph), as expected from Kepler's 2nd Law.
+Tangential velocities at altitude[edit]
+Orbit
+Center-to-centerdistance
+Altitude abovethe Earth's surface
+Speed
+Orbital period
+Specific orbital energy
+Earth's own rotation at surface (for comparison  not an orbit)
+6,378 km
+0 km
+465.1 m/s (1,674 km/h or 1,040 mph)
+23 h 56 min 4.09 sec
+ 62.6 MJ/kg
+Orbiting at Earth's surface (equator) theoretical
+6,378 km
+0 km
+7.9 km/s (28,440 km/h or 17,672 mph)
+1 h 24 min 18 sec
+ 31.2 MJ/kg
+Low Earth orbit
+6,600 8,400 km
+200 2,000 km
+Circular orbit: 6.9 7.8 km/s (24,840 28,080 km/h or 14,430 17,450 mph) respectivelyElliptic orbit: 6.5 8.2 km/s respectively
+1 h 29 min   2 h 8 min
+ 29.8 MJ/kg
+Molniya orbit
+6,900 46,300 km
+500 39,900 km
+1.5 10.0 km/s (5,400 36,000 km/h or 3,335 22,370 mph) respectively
+11 h 58 min
+ 4.7 MJ/kg
+Geostationary
+42,000 km
+35,786 km
+3.1 km/s (11,600 km/h or 6,935 mph)
+23 h 56 min 4.09 sec
+ 4.6 MJ/kg
+Orbit of the Moon
+363,000 406,000 km
+357,000 399,000 km
+0.97 1.08 km/s (3,492 3,888 km/h or 2,170 2,416 mph) respectively
+27.27 days
+ 0.5 MJ/kg
+ The lower axis gives orbital speeds of some orbits
+Planets[edit]
+The closer an object is to the Sun the faster it needs to move to maintain the orbit. Objects move fastest at perihelion (closest approach to the Sun) and slowest at aphelion (furthest distance from the Sun). Since planets in the Solar System are in nearly circular orbits their individual orbital velocities do not vary much. Being closest to the Sun and having the most eccentric orbit, Mercury's orbital speed varies from about 59 km/s at perihelion to 39 km/s at aphelion.[5]
+Orbital velocities of the Planets[6]
+Planet
+Orbitalvelocity
+Mercury
+47.9 km/s (29.8 mi/s)
+Venus
+35.0 km/s (21.7 mi/s)
+Earth
+29.8 km/s (18.5 mi/s)
+Mars
+24.1 km/s (15.0 mi/s)
+Jupiter
+13.1 km/s (8.1 mi/s)
+Saturn
+9.7 km/s (6.0 mi/s)
+Uranus
+6.8 km/s (4.2 mi/s)
+Neptune
+5.4 km/s (3.4 mi/s)
+Halley's Comet on an eccentric orbit that reaches beyond Neptune will be moving 54.6 km/s when 0.586 AU (87,700 thousand km) from the Sun, 41.5 km/s when 1 AU from the Sun (passing Earth's orbit), and roughly 1 km/s at aphelion 35 AU (5.2 billion km) from the Sun.[7] Objects passing Earth's orbit going faster than 42.1 km/s have achieved escape velocity and will be ejected from the Solar System if not slowed down by a gravitational interaction with a planet.
+Velocities of better-known numbered objects that have perihelion close to the Sun
+Object
+Velocity at perihelion
+Velocity at 1 AU(passing Earth's orbit)
+322P/SOHO
+181 km/s @ 0.0537 AU
+37.7 km/s
+96P/Machholz
+118 km/s @ 0.124 AU
+38.5 km/s
+3200 Phaethon
+109 km/s @ 0.140 AU
+32.7 km/s
+1566 Icarus
+93.1 km/s @ 0.187 AU
+30.9 km/s
+66391 Moshup
+86.5 km/s @ 0.200 AU
+19.8 km/s
+1P/Halley
+54.6 km/s @ 0.586 AU
+41.5 km/s
+See also[edit]
+Escape velocity
+Delta-v budget
+Hohmann transfer orbit
+Bi-elliptic transfer
+References[edit]
+^ a b c d e Lissauer, Jack J.; de Pater, Imke (2019). Fundamental Planetary Sciences: physics, chemistry, and habitability. New York, NY, USA: Cambridge University Press. pp. 29 31. ISBN 9781108411981.
+^ Gamow, George (1962). Gravity. New York, NY, USA: Anchor Books, Doubleday & Co. pp. 66. ISBN 0-486-42563-0. ...the motion of planets along their elliptical orbits proceeds in such a way that an imaginary line connecting the Sun with the planet sweeps over equal areas of the planetary orbit in equal intervals of time.
+^ Wertz, James R.; Larson, Wiley J., eds. (2010). Space mission analysis and design (3rd ed.). Hawthorne, CA, USA: Microcosm. p. 135. ISBN 978-1881883-10-4.
+^ St cker, Horst; Harris, John W. (1998). Handbook of Mathematics and Computational Science. Springer. pp. 386. ISBN 0-387-94746-9.
+^ "Horizons Batch for Mercury aphelion (2021-Jun-10) to perihelion (2021-Jul-24)". JPL Horizons (VmagSn is velocity with respect to Sun.). Jet Propulsion Laboratory. Retrieved 26 August 2021.
+^ "Which Planet Orbits our Sun the Fastest?".
+^ v = 42.1219  1/r   0.5/a, where r is the distance from the Sun, and a is the major semi-axis.
+vteGravitational orbitsTypesGeneral
+Box
+Capture
+Circular
+Elliptical / Highly elliptical
+Escape
+Horseshoe
+Hyperbolic trajectory
+Inclined / Non-inclined
+Kepler
+Lagrange point
+Osculating
+Parabolic trajectory
+Parking
+Prograde / Retrograde
+Synchronous
+semi
+sub
+Transfer orbit
+Geocentric
+Geosynchronous
+Geostationary
+Geostationary transfer
+Graveyard
+High Earth
+Low Earth
+Medium Earth
+Molniya
+Near-equatorial
+Orbit of the Moon
+Polar
+Sun-synchronous
+Tundra
+Aboutother points
+Mars
+Areocentric
+Areosynchronous
+Areostationary
+Lagrange points
+Distant retrograde
+Halo
+Lissajous
+Lunar
+Sun
+Heliocentric
+Earth's orbit
+Mars cycler
+Heliosynchronous
+Other
+Lunar cycler
+ParametersShapeSize
+e Eccentricity
+a Semi-major axis
+b Semi-minor axis
+Q, q Apsides
+Orientation
+i Inclination
+ Longitude of the ascending node
+ Argument of periapsis
+ Longitude of the periapsis
+Position
+M Mean anomaly
+ ,  , f True anomaly
+E Eccentric anomaly
+L Mean longitude
+l True longitude
+Variation
+T Orbital period
+n Mean motion
+v Orbital speed
+t0 Epoch
+Maneuvers
+Bi-elliptic transfer
+Collision avoidance (spacecraft)
+Delta-v
+Delta-v budget
+Gravity assist
+Gravity turn
+Hohmann transfer
+Inclination change
+Low-energy transfer
+Oberth effect
+Phasing
+Rocket equation
+Rendezvous
+Transposition, docking, and extraction
+Orbitalmechanics
+Astronomical coordinate systems
+Characteristic energy
+Escape velocity
+Ephemeris
+Equatorial coordinate system
+Ground track
+Hill sphere
+Interplanetary Transport Network
+Kepler's laws of planetary motion
+Lagrangian point
+n-body problem
+Orbit equation
+Orbital state vectors
+Perturbation
+Retrograde and prograde motion
+Specific orbital energy
+Specific angular momentum
+Two-line elements
+ List of orbits
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Orbital_speed&oldid=1137328569"

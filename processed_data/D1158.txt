@@ -1,0 +1,196 @@
+Service for hosting websites
+"Web host" redirects here. For policy "Wikipedia is not a web host", see WP:WEBHOST.
+ An example of rack mounted servers
+Part of a series onInternet hosting service
+Full-featured hosting
+Virtual private server
+Dedicated hosting
+Colocation centre
+Cloud computing
+Peer-to-peer
+Web hosting
+Shared
+Clustered
+Application-specific web hosting
+Blog (comments)
+Guild hosting service
+Image
+Video
+Wiki farms
+Application
+Social network
+By content format
+File
+Image
+Video
+Music
+Other types
+Remote backup
+Game server
+Home server
+DNS
+Email
+vte
+A web hosting service is a type of Internet hosting service that hosts websites for clients, i.e. it offers the facilities required for them to create and maintain a site and makes it accessible on the World Wide Web. Companies providing web hosting services are sometimes called web hosts.
+Typically, web hosting requires the following:
+one or more servers to act as the host(s) for the sites; servers may be physical or virtual
+colocation for the server(s), providing physical space, electricity, and Internet connectivity;
+Domain Name System configuration to define name(s) for the sites and point them to the hosting server(s);
+a web server running on the host;
+for each site hosted on the server:
+space on the server(s) to hold the files making up the site
+site-specific configuration
+often, a database;
+software and credentials allowing the client to access these, enabling them to create, configure, and modify the site;
+email connectivity allowing the host and site to send email to the client.
+History
+Until 1991, the Internet was restricted to use only "... for research and education in the sciences and engineering ..."[1][2] and was used for email, telnet, FTP and USENET traffic but only a tiny number of web pages. The World Wide Web protocols had only just been written[3] and not until the end of 1993 would there be a graphical web browser for Mac or Windows computers.[4] Even after there was some opening up of internet access, the situation was confused[clarification needed] until 1995.[5]
+To host a website on the internet, an individual or company would need their own computer or server.[6] As not all companies had the budget or expertise to do this, web hosting services began to offer to host users' websites on their own servers, without the client needing to own the necessary infrastructure required to operate the website. The owners of the websites, also called webmasters, would be able to create a website that would be hosted on the web hosting service's server and published to the web by the web hosting service.
+As the number of users on the World Wide Web grew, the pressure for companies, both large and small, to have an online presence grew. By 1995, companies such as GeoCities, Angelfire and Tripod were offering free hosting.[7]
+Classification
+Static page hosting
+The most basic is web page and small-scale file hosting, where files can be uploaded via File Transfer Protocol (FTP) or a web interface. The files are usually delivered to the Web "as is" or with minimal processing. Many Internet service providers (ISPs) offer this service free to subscribers. Individuals and organizations may also obtain web page hosting from alternative service providers.
+Free web hosting service is offered by different companies with limited services, sometimes supported by advertisements,[needs update?] and often limited when compared to paid hosting.
+Single page hosting is generally sufficient for personal web pages. Personal website hosting is typically free, advertisement-sponsored, or inexpensive. Business website hosting often has a higher expense depending upon the size and type of the site.
+Larger hosting services
+Many large companies that are not Internet service providers need to be permanently connected to the web to send email, files, etc. to other sites. The company may use the computer as a website host to provide details of their goods and services and facilities for online orders.[incomprehensible]
+A complex site calls for a more comprehensive package that provides database support and application development platforms (e.g. ASP.NET, ColdFusion, Java EE, Perl/Plack, PHP or Ruby on Rails). These facilities allow customers to write or install scripts for applications like forums and content management. Web hosting packages often include a web content management system, so the end-user does not have to worry about the more technical aspects. Secure Sockets Layer (SSL) is used for websites that wish to encrypt the transmitted data.
+Types of hosting
+ A typical server "rack" commonly seen in colocation centres
+Internet hosting services can run web servers. The scope of web hosting services varies greatly.
+Shared web hosting service
+One's website is placed on the same server as many other sites, ranging from a few sites to hundreds of websites. Typically, all domains may share a common pool of server resources, such as RAM and the CPU. The features available with this type of service can be quite basic and not flexible in terms of software and updates. Resellers often sell shared web hosting and web companies often have reseller accounts to provide hosting for clients.
+Reseller web hosting
+Allows clients to become web hosts themselves. Resellers could function, for individual domains, under any combination of these listed types of hosting, depending on who they are affiliated with as a reseller. Resellers' accounts may vary tremendously in size: they may have their own virtual dedicated server to a colocated server. Many resellers provide a nearly identical service to their provider's shared hosting plan and provide the technical support themselves.
+Virtual Dedicated Server
+Also known as a Virtual Private Server (VPS), divides server resources into virtual servers, where resources can be allocated in a way that does not directly reflect the underlying hardware. VPS will often be allocated resources based on a one server to many VPSs relationship, however virtualisation may be done for a number of reasons, including the ability to move a VPS container between servers. The users may have root access to their own virtual space. Customers are sometimes responsible for patching and maintaining the server (unmanaged server) or the VPS provider may provide server admin tasks for the customer (managed server).
+Dedicated hosting service
+The user gets his or her own web server and gains full control over it (user has root access for Linux/administrator access for Windows); however, the user typically does not own the server. One type of dedicated hosting is self-managed or unmanaged. This is usually the least expensive for dedicated plans. The user has full administrative access to the server, which means the client is responsible for the security and maintenance of his own dedicated server.
+Managed hosting service
+The user gets his or her own web server but is not allowed full control over it (user is denied root access for Linux/administrator access for Windows); however, they are allowed to manage their data via FTP or other remote management tools. The user is disallowed full control so that the provider can guarantee quality of service by not allowing the user to modify the server or potentially create configuration problems. The user typically does not own the server. The server is leased to the client.
+Colocation web hosting service
+Similar to the dedicated web hosting service, but the user owns the colo server; the hosting company provides physical space that the server takes up and takes care of the server. This is the most powerful and expensive type of web hosting service. In most cases, the colocation provider may provide little to no support directly for their client's machine, providing only the electrical, Internet access, and storage facilities for the server. In most cases for colo, the client would have his or her own administrator visit the data center on site to do any hardware upgrades or changes. Formerly, many colocation providers would accept any system configuration for hosting, even ones housed in desktop-style minitower cases, but most hosts now require rack mount enclosures and standard system configurations.
+Cloud hosting
+This section contains content that is written like an advertisement. Please help improve it by removing promotional content and inappropriate external links, and by adding encyclopedic content written from a neutral point of view. (January 2023) (Learn how and when to remove this template message)
+This is a new type of hosting platform that allows customers powerful, scalable and reliable hosting based on clustered load-balanced servers and utility billing. A cloud hosted website may be more reliable than alternatives since other computers in the cloud can compensate when a single piece of hardware goes down. Also, local power disruptions or even natural disasters are less problematic for cloud hosted sites, as cloud hosting is decentralized. Cloud hosting also allows providers to charge users only for resources consumed by the user, rather than a flat fee for the amount the user expects they will use, or a fixed cost upfront hardware investment. Alternatively, the lack of centralization may give users less control on where their data is located which could be a problem for users with data security or privacy concerns as per GDPR guidelines. Cloud hosting users can request additional resources on-demand such as only during periods of peak traffic, while offloading IT management to the cloud hosting service.
+Clustered hosting
+Having multiple servers hosting the same content for better resource utilization. Clustered servers are a perfect solution for high-availability dedicated hosting, or creating a scalable web hosting solution. A cluster may separate web serving from database hosting capability. (Usually web hosts use clustered hosting for their shared hosting plans, as there are multiple benefits to the mass managing of clients).[8]
+Grid hosting
+This section possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (October 2022) (Learn how and when to remove this template message)
+This form of distributed hosting is when a server cluster acts like a grid and is composed of multiple nodes.
+Home server
+A private server can be used to host one or more websites from a usually consumer-grade broadband connection. These can be purpose-built machines or more commonly old PCs. Some ISPs block home servers by disallowing incoming requests to TCP port 80 of the user's connection and by refusing to provide static IP addresses. A common way to attain a reliable DNS host name is by creating an account with a dynamic DNS service. A dynamic DNS service will automatically change the IP address that a URL points to when the IP address changes.[9]
+Some specific types of hosting provided by web host service providers:
+File hosting service: hosts files, not web pages
+Image hosting service
+Video hosting service
+Blog hosting service
+Paste bin
+Shopping cart software
+E-mail hosting service
+Host management
+ Multiple racks of servers
+The host may also provide an interface or control panel for managing the web server and installing scripts, as well as other modules and service applications like e-mail. A web server that does not use a control panel for managing the hosting account, is often referred to as a "headless" server. Some hosts specialize in certain software or services (e.g. e-commerce, blogs, etc.).
+Reliability and uptime
+The availability of a website is measured by the percentage of a year in which the website is publicly accessible and reachable via the Internet. This is different from measuring the uptime of a system. Uptime refers to the system itself being online. Uptime does not take into account being able to reach it as in the event of a network outage.[citation needed] A hosting provider's Service Level Agreement (SLA) may include a certain amount of scheduled downtime per year in order to perform maintenance on the systems. This scheduled downtime is often excluded from the SLA timeframe, and needs to be subtracted from the Total Time when availability is calculated. Depending on the wording of an SLA, if the availability of a system drops below that in the signed SLA, a hosting provider often will provide a partial refund for time lost. How downtime is determined changes from provider to provider, therefore reading the SLA is imperative.[10] Not all providers release uptime statistics.
+Security
+Because web hosting services host websites belonging to their customers, online security is an important concern. When a customer agrees to use a web hosting service, they are relinquishing control of the security of their site to the company that is hosting the site. The level of security that a web hosting service offers is extremely important to a prospective customer and can be a major consideration when considering which provider a customer may choose.[11]
+Web hosting servers can be attacked by malicious users in different ways, including uploading malware or malicious code onto a hosted website. These attacks may be done for different reasons, including stealing credit card data, launching a Distributed Denial of Service Attack (DDoS) or spamming.[12]
+See also
+Cloud Computing
+Dedicated hosting service
+Green hosting
+Internet Application Management
+Service-level agreement
+Shared hosting
+Shared web hosting service
+Virtual Private Server
+References
+^ March 16, 1992 memo from Mariam Leder, NSF Assistant General Counsel to Steven Wolff, Division Director, NSF DNCRI (included at page 128 of Management of NSFNET, a transcript of the March 12, 1992 hearing before the Subcommittee on Science of the Committee on Science, Space, and Technology, U.S. House of Representatives, One Hundred Second Congress, Second Session, Hon. Rick Boucher, subcommittee chairman, presiding)
+^ "The history of web hosting". www.tibus.com. Retrieved 2016-12-11.
+^ Ward, Mark (3 August 2006). "How the web went world wide". BBC News. Retrieved 24 January 2011.
+^ Raggett, Dave; Jenny Lam; Ian Alexander (1996). HTML 3: Electronic Publishing on the World Wide Web. Harlow, England; Reading, Mass: Addison-Wesley. p. 21. ISBN 9780201876932.
+^ "Retiring the NSFNET Backbone Service: Chronicling the End of an Era", Susan R. Harris and Elise Gerich, ConneXions, Vol. 10, No. 4, April 1996
+^ "The history of web hosting". www.tibus.com. Retrieved 2016-10-08.
+^ "A History of Web Hosting [Infographic]". BizTech. 2012-02-24. Retrieved 2016-11-04.
+^ Buyya, Rajkumar; Yeo, Chee Shin; Venugopal, Srikumar (2008). "Market-Oriented Cloud Computing: Vision, Hype, and Reality for Delivering IT Services as Computing Utilities". 2008 10th IEEE International Conference on High Performance Computing and Communications. pp. 5 13. arXiv:0808.3558. doi:10.1109/HPCC.2008.172. ISBN 978-0-7695-3352-0. S2CID 16882678.
+^ Intark Han; Hong-Shik Park; Youn-Kwae Jeong; Kwang-Roh Park (2006). "An integrated home server for communication, broadcast reception, and home automation". IEEE Transactions on Consumer Electronics. 52: 104 109. doi:10.1109/TCE.2006.1605033. S2CID 22145496.
+^ Dawson, Christian. "Why Uptime Guarantees are Ridiculous". Servint. Retrieved 7 October 2014. a good SLA will clearly state how uptime is defined and what you'll receive if the "uptime promise" is not met.
+^ Schultz, Eugene (2003). "Attackers hit Web hosting servers". Computers & Security. 22 (4): 273 283. doi:10.1016/s0167-4048(03)00402-4.
+^ InstantShift (11 February 2011). "A Guide to Web Hosting Security Issues and Prevention". InstantShift - Web Designers and Developers Daily Resource. Retrieved 2016-10-31.
+vteWebsite managementConcepts
+Overselling
+Web document
+Web content
+Web content lifecycle
+Web hosting service
+Web server
+Webmaster
+Website governance
+Web hosting control panels (comparison)
+AlternC
+cPanel
+DirectAdmin
+Domain Technologie Control
+GNUPanel
+i-MSCP
+InterWorx
+ISPConfig
+Kloxo
+Plesk
+Usermin
+Webmin
+Froxlor
+Top-level domain registries
+AFNIC
+auDA
+DNS Belgium
+CentralNic
+CIRA
+CNNIC
+CZ.NIC
+DENIC
+EURid
+Freenom
+GoDaddy
+Google Domains
+Identity Digital
+IPM
+JPRS
+KISA
+NIC M xico
+Nominet
+PIR
+Tucows
+Verisign
+Domain name managers and registrars
+Domainz
+DreamHost
+Dynadot
+Enom
+Epik
+Gandi
+GMO Internet
+GoDaddy
+Google Domains
+Hover
+Infomaniak
+Jimdo
+Melbourne IT
+Name.com
+Namecheap
+Hostinger
+NameSilo
+NearlyFreeSpeech
+Network Solutions
+OVH
+Register.com
+Tucows
+UK2
+Web.com
+Wix.com
+Web content management system
+Document management system
+Wiki software
+Blog software
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Web_hosting_service&oldid=1147227486"

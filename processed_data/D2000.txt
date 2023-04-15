@@ -1,0 +1,101 @@
+Gas law describing pressure contributions of component gases in a mixture 
+For the law of stoichiometry, see Law of multiple proportions.
+ An illustration of Dalton's law using the gases of air at sea level.
+Dalton's law (also called Dalton's law of partial pressures) states that in a mixture of non-reacting gases, the total  pressure exerted is equal to the sum of the partial pressures of the individual gases.[1] This empirical law was observed by John Dalton in 1801 and published in 1802.[2] Dalton's law is related to the ideal gas laws.
+Formula[edit]
+Mathematically, the pressure of a mixture of non-reactive gases can be defined as the summation:
+p
+total
+=
+ 
+i
+=
+1
+n
+p
+i
+=
+p
+1
++
+p
+2
++
+p
+3
++
+ 
++
+p
+n
+{\displaystyle p_{\text{total}}=\sum _{i=1}^{n}p_{i}=p_{1}+p_{2}+p_{3}+\cdots +p_{n}}
+where p1, p2, ..., pn represent the partial pressures of each component.[1]
+p
+i
+=
+p
+total
+x
+i
+{\displaystyle p_{i}=p_{\text{total}}x_{i}}
+where xi is the mole fraction of the ith component in the total mixture of n components .
+Volume-based concentration[edit]
+The relationship below provides a way to determine the volume-based concentration of any individual gaseous component
+p
+i
+=
+p
+total
+c
+i
+{\displaystyle p_{i}=p_{\text{total}}c_{i}}
+where ci is the concentration of component i.
+Dalton's law is not strictly followed by real gases, with the deviation increasing with pressure. Under such conditions the volume occupied by the molecules becomes significant compared to the free space between them. In particular, the short average distances between molecules increases intermolecular forces between gas molecules enough to substantially change the pressure exerted by them, an effect not included in the ideal gas model.
+See also[edit]
+Amagat's law  Gas law describing volume of a gas mixture
+Boyle's law  Relationship between pressure and volume in a gas at constant temperature
+Combined gas law  Combination of Charles', Boyle's and Gay-Lussac's gas laws
+Gay-Lussac's law  Relationship between pressure and temperature of a gas at constant volume
+Henry's law  Gas law regarding proportionality of dissolved gas
+Mole (unit)  SI unit of amount of substance
+Partial pressure  Pressure attributed to a component gas in a mixture
+Raoult's law  Law of thermodynamics for vapour pressure of a mixture
+Vapor pressure  Pressure exerted by a vapor in thermodynamic equilibrium
+References[edit]
+^ a b Silberberg, Martin S. (2009). Chemistry: the molecular nature of matter and change (5th ed.). Boston: McGraw-Hill. p. 206. ISBN 9780073048598.
+^ J. Dalton (1802), "Essay IV.  On the expansion of elastic fluids by heat," Memoirs of the Literary and Philosophical Society of Manchester, vol. 5, pt. 2, pages 595 602; see page 600.
+vteDistillationPrinciples
+Raoult's law
+Dalton's law
+Reflux
+Fenske equation
+McCabe Thiele method
+Theoretical plate
+Partial pressure
+Vapor liquid equilibrium
+Industrial processes
+Batch distillation
+Continuous distillation
+Fractionating column
+Spinning cone
+Laboratory methods
+Alembic
+Kugelrohr
+Rotary evaporator
+Spinning band distillation
+Still
+Techniques
+Azeotropic
+Catalytic
+Destructive
+Dry
+Extractive
+Fractional
+Reactive
+Salt-effect
+Steam-based
+Vacuum-based
+Authority control: National 
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Dalton%27s_law&oldid=1145039316"

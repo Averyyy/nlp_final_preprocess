@@ -1,0 +1,241 @@
+Symbols of gender, sex, or sexuality
+" " and " " redirect here. For   or   as a planet, see planet symbols.
+    Gender symbolIn UnicodeU+2640    U+2642   
+U+26A5    U+25B3   
+U+25A1    U+25CB   
+This article contains special characters. Without proper rendering support, you may see question marks, boxes, or other symbols.
+A gender symbol is a pictogram or glyph used to represent sex and gender, for example in biology and medicine, in genealogy, or in the sociological fields of gender politics, LGBT subculture and identity politics.
+In his books Mantissa Plantarum (1767) and Mantissa Plantarum Altera (1771), Carl Linnaeus regularly used the planetary symbols of Mars, Venus and Mercury   ,  ,   for male, female and hermaphroditic (perfect) flowers, respectively.[1] Botanists now use   for the last.[2]
+In genealogy, including kinship in anthropology and pedigrees in animal husbandry, the geometric shapes   or   are used for male and   for female. These are also used on public toilets in some countries. 
+The modern international pictograms used to indicate male and female public toilets,   and  , became widely used in the 1960s and 1970s. They are sometimes abstracted to   for male and   for female.[3]
+Biology and medicine[edit]
+ Gender symbols on a public toilet in Switzerland
+The three standard sex symbols in biology are male  , female   and hermaphroditic  ; originally the symbol for Mercury,  , was used for the last. These symbols were first used by Carl Linnaeus in 1751 to denote whether flowers were male (stamens only), female (pistil only) or perfect flowers with both pistils and stamens.[1] (Most flowering and conifer plant species are hermaphroditic and either bear flowers/cones that themselves are hermaphroditic, or bear both male and female flowers/cones on the same plant.) These symbols are now ubiquitous in biology and medicine to indicate the sex of an individual, for example of a patient.[4]
+Genealogy[edit]
+ Minimal kinship chart: a male and female producing male and female offspring
+Kinship charts use a triangle   for male and circle   for female.[5][6] Pedigree charts published in scientific papers use an earlier anthropological convention of a square   for male and a circle   for female.[7]
+Before a shape distinction was adopted, all individuals had been represented by a circle in Morgan's 1871 System of Consanguinity and Affinity of Human Family, where gender is encoded in the abbreviations for the kin relation (e.g. M for 'mother' and F for 'father').[8] W. H. R. River distinguished gender in the words of the language being recorded by writing male kinship terms in all capitals and female kinship terms with normal capitalization. That convention was quite influential for a time, and his convention of prioritizing male kin by placing them to the left and females to the right continues to this day though there have been exceptions, such as Margaret Mead, who placed females to the left.[9]
+Public toilets[edit]
+Main articles: Public toilet  Society and culture, and Unisex public toilet
+The modern gender symbols used for public toilets,   for male and   and female, are pictograms created for the British Rail system in the mid-1960s.[10] Before that, local usage had been more variable. For example, schoolhouse outhouses in the 19th-century United States had ventilation holes in their doors that were shaped like a starburst Sun   or like a crescent Moon  , respectively, to indicate whether the toilet was for use by boys or girls.[11] The British Rail pictograms  often color-coded blue and red[citation needed]  are now the norm for marking public toilets in much of the world, with the female symbol distinguished by a triangular skirt or dress, and in early years (and sometimes still) the male symbol stylized like a tuxedo.[3]
+These symbols are abstracted to varying degrees in different countries  for example, the circle-and-triangle variants  (female) and  (male) commonly found on portable toilets, to the extreme of a triangle   (representing a skirt or dress) for female and an inverted triangle   (representing a broad-shouldered tuxedo) for male in Lithuania.[3]
+In elementary schools, the pictograms may be of children rather than of adults, with the girl distinguished by her hair. In themed locations, such as bars and tourist attractions, a thematic image or figurine of a man and woman or boy and girl may be used.[citation needed]
+In Poland, an inverted triangle   is used for male while a circle   is used for female.[3]
+In mainland China, silhouettes of heads in profile may be used as gender pictograms, generally alongside the written words (  for male and   for female).[citation needed]
+Standard American Institute of Graphic Arts (AIGA) symbols
+Non-AIGA women's symbol on a legally mandated circular background in USA
+Non-AIGA men's symbol on a legally mandated triangular background in USA
+Gender-neutral sign in USA, composed of legally mandated circle and triangle
+Idiosyncratic unisex restroom in USA (see LGBT symbols)
+Public toilet in China, with female silhouette to the left and male to the right
+Idiosyncratic symbols in Japan
+Humorous symbols in Austria
+Semi-triangular tuxedo and dress shapes in Hungary
+Triangle-plus-circle symbols in Austria
+Circle (female) and inverted triangle (male) in Poland
+Sign in Romania, with men's and women's shoes representing gender
+Male, female and hijra public toilets in India
+Sexual orientation and gender politics[edit]
+Main article: LGBT symbols
+Since the 1970s, variations of gender symbols have been used to express sexual orientation and gender politics. Two interlocking male symbols   are used to represent gay men while two interlocking female symbols   are often used to represent lesbians.[12]
+Since the 2000s, numerous such variants have been introduced in the context of LGBT culture and politics.[citation needed] Some of these symbols have been adopted into Unicode (in the Miscellaneous Symbols block) beginning with version 4.1 in 2005.
+Encoding[edit]
+This table contains special characters. Without proper rendering support, you may see question marks, boxes, or other symbols.
+These symbols are those that have code points allocated by the Unicode Consortium. For additional symbols, see LGBT symbols#Encoding.
+For information on entering these symbols in a document, see Unicode input.
+Unicode name
+Symbol
+Hexadecimal representation
+Decimal representation
+Associated Unicode Standard wording[13][14]
+FEMALE SIGN
+ 
+U+2640
+&#9792;
+MALE SIGN
+ 
+U+2642
+&#9794;
+MALE AND FEMALE SIGN
+ 
+U+26A5
+&#9893;
+Intersex, androgynous; hermaphrodite (in botany)
+WHITE UP-POINTING TRIANGLE
+ 
+U+25B3
+&#9651;
+Trine
+WHITE DOWN-POINTING TRIANGLE
+ 
+U+25BD
+&#9661;
+Hamilton operator
+WHITE SQUARE
+ 
+U+25A1
+&#9633;
+WHITE CIRCLE
+ 
+U+25CB
+&#9675;
+CIRCLED TRIANGLE
+ 
+U+1F7D5
+&#128981;
+MENS SYMBOL
+ 
+U+01F6B9
+&#128697;
+Man symbol; men's restroom
+WOMENS SYMBOL
+ 
+U+01F6BA
+&#128698;
+Woman symbol; women's restroom
+BOYS SYMBOL
+ 
+U+1F6C9
+&#128713;
+GIRLS SYMBOL
+ 
+U+1F6CA
+&#128714;
+RESTROOM
+ 
+U+1F6BB
+&#128699;
+Man and woman symbol with divider; unisex restroom[a]
+See also[edit]
+Alchemical symbol
+Astrological symbols
+Fertility symbols
+LGBT symbols
+Miscellaneous Symbols Unicode block
+Notes[edit]
+^ This symbol is often seen on an outer door leading to separate facilities behind inner doors, in which case the glyph has a dividing line separating the men and women symbols
+References[edit]
+^ a b Stearn, William T. (May 1962). "The Origin of the Male and Female Symbols of Biology". Taxon. 11 (4): 109 113. doi:10.2307/1217734. JSTOR 1217734. S2CID 87030547.
+^ Niki Simpson, Botanical symbols: a new symbol set for new images, Botanical Journal of the Linnean Society, Volume 162, Issue 2, February 2010, Pages 117 129
+^ a b c d Glancey, Jonathan (11 September 2014). "The genius behind the stick figure toilet signs". BBC Future. In Poland, meanwhile, you can come across lavatories indicating 'gents' with a triangle and 'ladies' with a circle, while in Lithuania men are represented by an inverted pyramid and women by a pyramid standing the right way up. [...] One of the best early examples of intuitive global signs for public lavatories was that created for British Rail in the mid-1960s. [...] In the 1970s, the British example was developed on a more comprehensive basis in the United States. In 1974, the US Department of Transportation commissioned the American Institute of Graphic Arts to create a set of pictograms to be used throughout public transport networks whether road, rail, air or sea.
+^ Han, Zhigang;  et al. (25 September 2009). "A HIV-1 heterosexual transmission chain in Guangzhou, China: a molecular epidemiological study". Virology Journal. BioMed Central. 6 (148): Figure 1. doi:10.1186/1743-422X-6-148. PMC 2761389. PMID 19778458. (Mars male gender symbol) indicates male; (female Venus gender symbol) indicates female
+^ "Kin Diagrams". www.umanitoba.ca. Retrieved 2019-12-02.
+^ "Kin Diagrams". www.umanitoba.ca. Retrieved 2019-12-02.
+^ Schott, G D (24 Dec 2005). "Sex symbols ancient and modern: their origins and iconography on the pedigree". BMJ. British Medical Journal. 331 (7531): 1509 1510. doi:10.1136/bmj.331.7531.1509. PMC 1322246. PMID 16373733.
+^ Morgan, Lewis Henry (1870). Systems of consanguinity and affinity of the human family. University of California Libraries. [Washington, Smithsonian Institution.
+^ Wilson, Ara (2018-07-24). "Visual Kinship". History of Anthropology Review. Retrieved 2019-12-02.
+^ Glancey, Jonathan (11 September 2014). "The genius behind stick figure toilet signs". BBC. Classics of design: One of the best early examples of intuitive global signs for public lavatories was that created for British Rail in the mid-1960s. As part of a major modernisation programme, the state railway was given a new and all-embracing corporate identity by DRU [Design Research Unit], a design studio founded by Marcus Brumwell and Misha Black in 1943. Working with Margaret Calvert and Jock Kinneir, who designed a distinctive Rail Alphabet typeface based on Helvetica, DRU devised a clean-cut and convincingly modern aesthetic that was applied to all locomotives, trains, stations, published material and, yes, signs for lavatories. (includes picture of the ideogram, which is copyright).
+^ Eric Sloane (1972, 2007) The Little Red Schoolhouse: A Sketchbook of Early American Education. Doubleday & Co.; Dover Books.
+^ "Symbolism". LGBTQA+ WebCenter. Eastern Illinois University. Archived from the original on 12 February 2016. Retrieved 31 December 2015. Since the 1970s, gays have used double interlocking male symbols to represent gay men. Double interlocking female symbols are often been used  [sic] to symbolize lesbianism, but some feminists have instead used the double female symbols to represent sisterhood among women and three interlocking female symbols to denote lesbianism.
+^ "Miscellaneous Symbols | Gender symbols" (PDF). Unicode Consortium. Retrieved 2020-06-28.
+^ "Transport and Map Symbols   Range: 1F680 1F6FF   1F6B9" (PDF). Unicode Consortium. Retrieved 2020-07-01.
+External links[edit]
+Wikimedia Commons has media related to Gender symbols.
+vteGender and sexual identitiesGenderidentitiesGenders
+Man
+Woman
+Male
+Female
+Androgyne
+Boi
+Cisgender
+Cross-dresser
+Gender bender
+Gender fluidity
+Gender neutrality
+Gender variance
+Non-binary (or genderqueer)
+Postgenderism
+Transgender
+Trans man
+Trans woman
+Transsexual
+Third gendersor Third sexes
+Androgynos
+Akava'ine
+Apwint
+Bakla
+Binabinaaine
+Bugis genders
+Bissu
+Calabai
+Calalai
+Chibados
+Enaree
+Eunuch
+Fa'afafine
+Fakafifine
+Fakaleit 
+Femminiello
+Galli
+G evedoce
+Hijra
+Kathoey
+Khanith
+K ek
+Koekchuch
+Lhamana
+M h 
+Mak nyah
+Mukhannathun
+Muxe
+N dleehi
+Nullo
+Rae-rae
+Sipiniq
+Sworn virgin
+Takat pui
+Travesti
+Tumtum
+Two-spirit
+Vakasalewalewa
+Winkte
+X-gender
+SexualorientationidentitiesSexual orientations
+Asexual
+Bisexual
+Heterosexual
+Homosexual
+Alternative labels
+Banjee
+Bi-curious
+Ex-gay
+Ex-ex-gay
+Gay
+Gay men
+Gray asexual
+Demisexual
+Heteroflexible
+Lesbian
+Non-heterosexual
+Pansexual
+Polysexual
+Queer
+Questioning
+Same gender loving
+Social aspects
+Sociosexuality
+Antisexuality
+Monogamy
+Non-monogamy
+Polyamorous
+Asociality
+Homosociality
+Heterosociality
+Other
+Analloeroticism
+Androphilia and gynephilia
+Aromanticism
+Attraction to transgender people
+Kinsey scale
+Monosexuality
+Romantic orientation
+See also
+Gender roles
+Intersex
+Queer heterosexuality
+Sex as a biological variable
+Sex and gender distinction
+Sexuality and gender identity-based cultures
+Social construction of gender
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Gender_symbol&oldid=1147288136"

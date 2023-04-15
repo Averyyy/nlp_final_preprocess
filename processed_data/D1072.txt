@@ -1,0 +1,3351 @@
+Mobile operating system by Apple
+This article is about the smartphone OS by Apple. For its tablet counterpart, see iPadOS. For the router/switch OS by Cisco Systems, see Cisco IOS. For the Greek island, see Ios. For other uses, see IOS (disambiguation).
+iOSCommercial logo as used by Apple, since 2017iOS 16 running on an iPhone 13DeveloperApple Inc.Written inC, C++, Objective-C, Swift, assembly languageOS familyUnix-like, based on Darwin (BSD), macOSWorking stateCurrentSource modelClosed, with open-source componentsInitial releaseJune 29, 2007; 15 years ago (2007-06-29)Latest release16.4.1[1] (20E252)[2] (April 7, 2023; 6 days ago (2023-04-07)) [ ]Latest preview16.5 beta 2[3] (20F5039e)[4] (April 11, 2023; 2 days ago (2023-04-11)) [ ]Marketing targetSmartphones, tablet computers, portable media playersAvailable in40 languages[5][6][7][8]Update methodOTA (since iOS 5), Finder (from macOS Catalina onwards)[9] or iTunes (Windows and macOS pre-Catalina)Platforms
+ARMv8-A (iOS 7 and later)
+ARMv7-A (iPhone OS 3   iOS 10.3.4)
+ARMv6 (iPhone OS 1   iOS 4.2.1)
+Kernel typeHybrid (XNU)Defaultuser interfaceCocoa Touch (multi-touch, GUI)LicenseProprietary software except for open-source componentsPreceded byNewton OSOfficial websiteapple.com/iosSupport statusSupportedArticles in the seriesiOS version history
+iOS (formerly iPhone OS[10]) is a mobile operating system developed by Apple Inc. exclusively for its hardware. It is the operating system that powers many of the company's mobile devices, including the iPhone; the term also includes the system software for iPads predating  iPadOS which was introduced in 2019 as well as on the iPod Touch devices which were discontinued in mid-2022.[11] It is the world's second-most widely installed mobile operating system, after Android. It is the basis for three other operating systems made by Apple: iPadOS, tvOS, and watchOS.[12] It is proprietary software, although some parts of it are open source under the Apple Public Source License and other licenses.[13]
+Unveiled in 2007 for the first-generation iPhone, iOS has since been extended to support other Apple devices such as the iPod Touch (September 2007) and the iPad (introduced: January 2010; availability:  April 2010.) As of March 2018[update], Apple's App Store contains more than 2.1 million iOS applications, 1 million of which are native for iPads.[14] These mobile apps have collectively been downloaded more than 130 billion times.
+Major versions of iOS are released annually. The current stable version, iOS 16, was released to the public on September 12, 2022.[15]
+History
+See also: iOS version history
+First iOS logotype (2010 2013), using Myriad Pro Semibold fontSecond iOS logotype (2013 2017), using Myriad Pro Light fontThird iOS logotype (2017 present), using San Francisco Semibold font
+In 2005, when Steve Jobs began planning the iPhone, he had a choice to either "shrink the Mac, which would be an epic feat of engineering, or enlarge the iPod". Jobs favored the former approach but pitted the Macintosh and iPod teams, led by Scott Forstall and Tony Fadell, respectively, against each other in an internal competition, with Forstall winning by creating the iPhone OS. The decision enabled the success of the iPhone as a platform for third-party developers: using a well-known desktop operating system as its basis allowed the many third-party Mac developers to write software for the iPhone with minimal retraining. Forstall was also responsible for creating a software development kit for programmers to build iPhone apps, as well as an App Store within iTunes.[16][17]
+The operating system was unveiled with the iPhone at the Macworld Conference & Expo on January 9, 2007, and released in June of that year.[18][19][20] At the time of its unveiling in January, Steve Jobs claimed: "iPhone runs OS X" and runs "desktop class applications",[21][22] but at the time of the iPhone's release, the operating system was renamed "iPhone OS".[23] Initially, third-party native applications were not supported. Jobs' reasoning was that developers could build web applications through the Safari web browser that "would behave like native apps on the iPhone".[24][25] In October 2007, Apple announced that a native Software Development Kit (SDK) was under development and that they planned to put it "in developers' hands in February".[26][27][28] On March 6, 2008, Apple held a press event, announcing the iPhone SDK.[29][30]
+ iPhone (first generation), the first commercially released device running iOS (2007)
+The iOS App Store was opened on July 10, 2008, with an initial 500 applications available.[31] This quickly grew to 3,000 in September 2008,[32] 15,000 in January 2009,[33] 50,000 in June 2009,[34] 100,000 in November 2009,[35][36] 250,000 in August 2010,[37][38] 650,000 in July 2012,[39] 1 million in October 2013,[40][41] 2 million in June 2016,[42][43][44] and 2.2 million in January 2017.[45][46] As of March 2016[update], 1 million apps are natively compatible with the iPad tablet computer.[47] These apps have collectively been downloaded more than 130 billion times.[42] App intelligence firm Sensor Tower estimated that the App Store would reach 5 million apps by 2020.[48]
+In September 2007, Apple announced the iPod Touch, a redesigned iPod based on the iPhone form factor.[49] On January 27, 2010, Apple introduced their much-anticipated media tablet, the iPad, featuring a larger screen than the iPhone and iPod Touch, and designed for web browsing, media consumption, and reading, and offering multi-touch interaction with multimedia formats including newspapers, e-books, photos, videos, music, word processing documents, video games, and most existing iPhone apps using a 9.7-inch (25 cm) screen.[50][51][52] It also includes a mobile version of Safari for web browsing, as well as access to the App Store, iTunes Library, iBookstore, Contacts, and Notes. Content is downloadable via Wi-Fi and optional 3G service or synced through the user's computer.[53] AT&T was initially the sole U.S. provider of 3G wireless access for the iPad.[54]
+In June 2010, Apple rebranded iPhone OS as "iOS".[55][56]  The trademark "IOS" had been used by Cisco for over a decade for its operating system, IOS, used on its routers. To avoid any potential lawsuit, Apple licensed the "IOS" trademark from Cisco.[57]
+The Apple Watch smartwatch was announced by Tim Cook on September 9, 2014, being introduced as a product with health and fitness-tracking.[58][59] It was released on April 24, 2015.[60][61][62] It uses watchOS as its operating system; watchOS is based on iOS, with new features created specially for the Apple Watch such as an activity tracking app.[63]
+In October 2016, Apple opened its first iOS Developer Academy in Naples inside University of Naples Federico II's new campus.[64][65] The course is completely free, aimed at acquiring specific technical skills on the creation and management of applications for the Apple ecosystem platforms.[66] At the academy there are also issues of business administration (business planning and business management with a focus on digital opportunities) and there is a path dedicated to the design of graphical interfaces. Students have the opportunity to participate in the "Enterprise Track", an in-depth training experience on the entire life cycle of an app, from design to implementation, to security, troubleshooting, data storage and cloud usage.[67][68] As of 2020, the academy graduated almost a thousand students from all over the world, who have worked on 400 app ideas and have already published about 50 apps on the iOS App Store. In the 2018 2019 academic year, students from more than 30 countries arrived. 35 of these have been selected to attend the Worldwide Developer Conference, the annual Apple Developer Conference held annually in California in early June.[69][70]
+ Apple CEO Steve Jobs introduces the iPad (2010).
+On June 3, 2019, iPadOS, the branded version of iOS for iPad, was announced at the 2019 WWDC; it was launched on September 25, 2019.[71]
+Features
+Interface
+The iOS user interface is based upon direct manipulation, using multi-touch gestures such as swipe, tap, pinch, and reverse pinch. Interface control elements include sliders, switches, and buttons.[72] Internal accelerometers are used by some applications to respond to shaking the device (one common result is the undo command) or rotating it in three dimensions (one common result is switching between portrait and landscape mode). Various accessibility described in  Accessibility functions enable users with vision and hearing disabilities to properly use iOS.[73]
+iOS devices boot to the homescreen, the primary navigation and information "hub" on iOS devices, analogous to the desktop found on personal computers. iOS homescreens are typically made up of app icons and widgets; app icons launch the associated app, whereas widgets display live, auto-updating content, such as a weather forecast, the user's email inbox, or a news ticker directly on the homescreen.[74]
+Along the top of the screen is a status bar, showing information about the device and its connectivity. The status bar itself contains two elements, the Control Center and the Notification Center. The Control Center can be "pulled" down from the top right of the notch, on the new iPhones, giving access to various toggles to manage the device more quickly without having to open the Settings. It is possible to manage brightness, volume, wireless connections, music player, etc.[75]
+Instead, scrolling from the top left to the bottom will open the Notification Center, which in the latest versions of iOS is very similar to the lockscreen. It displays notifications in chronological order and groups them by application. From the notifications of some apps it is possible to interact directly, for example by replying a message directly from it. Notifications are sent in two modes, the important notifications that are displayed on the lock screen and signaled by a distinctive sound, accompanied by a warning banner and the app badge icon, and the secondary mode where they are displayed in the Notification Center, but they are not shown on the lock screen, nor are they indicated by warning banners, badge icons or sounds.[76][77]
+On earlier iPhones with home button, screenshots can be created with the simultaneous press of the home and power buttons. In comparison to Android OS, which requires the buttons to be held down, a short press does suffice on iOS.[78] On the more recent iPhones which lack a physical home button, screenshots are captured using the volume-up and power buttons instead.[79]
+The camera application used a skeuomorphic closing camera shutter animation prior to iOS 7. Since then, it uses a simple short blackout effect.[80] Notable additions over time include HDR photography and the option to save both normal and high dynamic range photographs simultaneously where the former prevents ghosting effects from moving objects (since iPhone 5, iOS 6), automatic HDR adjustment (iOS 7.1), "live photo" with short video bundled to each photo if enabled (iPhone 6s, iOS 9), and a digital zoom shortcut (iPhone 7 Plus, iOS 10).[81][82][83] Some camera settings such as video resolution and frame rate are not adjustable through the camera interface itself, but are outsourced to the system settings.[84]
+A new feature in iOS 13 called "context menus" shows related actions when you touch and hold an item. When the context menu is displayed, the background is blurred.[85]
+To choose from a few options, a selection control is used. Selectors can appear anchored at the bottom or in line with the content (called date selectors). Date selectors take on the appearance of any other selection control, but with a column for day, month, and optionally year.
+Alerts appear in the center of the screen, but there are also alerts that scroll up from the bottom of the screen (called "action panels"). Destructive actions (such as eliminating any element) are colored red.
+The official font of iOS is San Francisco. It is designed for small text readability, and is used throughout the operating system, including third-party apps.[85]
+The icons are 180x180px in size for iPhones with a larger screen, usually models over 6 inches, including iPhone 11 Pro and iPhone 8 Plus, while it's 120x120px on iPhones with smaller displays.[86]
+Applications
+See also: App Store (iOS) and .ipa
+iOS devices come with preinstalled apps developed by Apple including Mail, Maps, TV, Music, FaceTime, Wallet, Health, and many more.
+Applications ("apps") are the most general form of application software that can be installed on iOS. They are downloaded from the official catalog of the App Store digital store, where apps are subjected to security checks before being made available to users. In June 2017, Apple updated its guidelines to specify that app developers will no longer have the ability to use custom prompts for encouraging users to leave reviews for their apps.[87][88] IOS applications can also be installed directly from an IPA file provided by the software distributor, via unofficial ways. They are written using iOS Software Development Kit (SDK) and, often, combined with Xcode, using officially supported programming languages, including Swift and Objective-C. Other companies have also created tools that allow for the development of native iOS apps using their respective programming languages.
+Applications for iOS are mostly built using components of UIKit, a programming framework. It allows applications to have a consistent look and feel with the OS, nevertheless offering customization.
+Elements automatically update along with iOS updates, automatically including new interface rules. UIKit elements are very adaptable, this allows developers to design a single app that looks the same on any iOS device. In addition to defining the iOS interface, UIKit defines the functionality of the application.
+At first, Apple did not intend to release an SDK to developers, because they did not want third-party apps to be developed for iOS, building web apps instead. However, this technology never entered into common use, this led Apple to change its opinion, so in October 2007 the SDK for developers was announced, finally released on March 6, 2008.
+The SDK includes an inclusive set of development tools,[89] including an audio mixer and an iPhone simulator. It is a free download for Mac users. It is not available for Microsoft Windows PCs. To test the application, get technical support, and distribute applications through App Store, developers are required to subscribe to the Apple Developer Program.
+Over the years, the Apple Store apps surpassed multiple major milestones, including 50,000,[90] 100,000,[91] 250,000,[92] 500,000,[93] 1 million,[94] and 2 million apps.[95] The billionth application was installed on April 24, 2009.[96]
+Home screen
+Main article: SpringBoard
+The home screen, rendered by SpringBoard, displays application icons and a dock at the bottom where users can pin their most frequently used apps. The home screen appears whenever the user unlocks the device, presses the physical "Home" button while in an app, or swipes up from the bottom of the screen using the home bar.[97] Before iOS 4 on the iPhone 3GS (or later), the screen's background could be customized only through jailbreaking, but can now be changed out-of-the-box. The screen has a status bar across the top to display data, such as time, battery level, and signal strength. The rest of the screen is devoted to the current application. When a passcode is set and a user switches on the device, the passcode must be entered at the Lock Screen before access to the Home screen is granted.[98]
+In iPhone OS 3, Spotlight was introduced, allowing users to search media, apps, emails, contacts, messages, reminders, calendar events, and similar content. In iOS 7 and later, Spotlight is accessed by pulling down anywhere on the home screen (except for the top and bottom edges that open Notification Center and Control Center).[99][100] In iOS 9, there are two ways to access Spotlight. As with iOS 7 and 8, pulling down on any homescreen will show Spotlight. However, it can also be accessed as it was in iOS versions 3 through 6. This endows Spotlight with Siri suggestions, which include app suggestions, contact suggestions and news.[101] In iOS 10, Spotlight is at the top of the now-dedicated "Today" panel.[102]
+Since iOS 3.2, users are able to set a background image for the Home Screen. This feature is only available on third-generation devices iPhone 3GS, third-generation iPod Touch (iOS 4.0 or newer), and all iPad models (since iOS 3.2) or newer.[citation needed]
+iOS 7 introduced a parallax effect on the Home Screen, which shifts the device's wallpaper and icons in response to the movement of the device, creating a 3D effect and an illusion of floating icons. This effect is also visible in the tab view of Mail and Safari.[103]
+Researchers found that users organize icons on their homescreens based on usage frequency and relatedness of the applications, as well as for reasons of usability and aesthetics.[104]
+System font
+iOS originally used Helvetica as the system font. Apple switched to Helvetica Neue exclusively for the iPhone 4 and its Retina Display, and retained Helvetica as the system font for older iPhone devices on iOS 4.[105] With iOS 7, Apple announced that they would change the system font to Helvetica Neue Light, a decision that sparked criticism for inappropriate usage of a light, thin typeface for low-resolution mobile screens. Apple eventually chose Helvetica Neue instead.[106][107] The release of iOS 7 also introduced the ability to scale text or apply other forms of text accessibility changes through Settings.[108][109] With iOS 9, Apple changed the font to San Francisco, an Apple-designed font aimed at maximum legibility and font consistency across its product lineup.[110][111]
+Folders
+iOS 4 introduced folders, which can be created by dragging an application on top of another, and from then on, more items can be added to the folder using the same procedure. A title for the folder is automatically selected by the category of applications inside, but the name can also be edited by the user.[112] When apps inside folders receive notification badges, the individual numbers of notifications are added up and the total number is displayed as a notification badge on the folder itself.[112] Originally, folders on an iPhone could include up to 12 apps, while folders on iPad could include 20.[113] With increasing display sizes on newer iPhone hardware, iOS 7 updated the folders with pages similar to the home screen layout, allowing for a significant expansion of folder functionality. Each page of a folder can contain up to nine apps, and there can be 15 pages in total, allowing for a total of 135 apps in a single folder.[114] In iOS 9, Apple updated folder sizes for iPad hardware, allowing for 16 apps per page, still at 15 pages maximum, increasing the total to 240 apps.[115]
+Notification Center
+Main article: Notification Center
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "IOS" news  newspapers  books  scholar  JSTOR (November 2022) (Learn how and when to remove this template message)
+Before iOS 5, notifications were delivered in a modal window and couldn't be viewed after being dismissed. In iOS 5, Apple introduced Notification Center, which allows users to view a history of notifications. The user can tap a notification to open its corresponding app, or clear it.[116] Notifications are now delivered in banners that appear briefly at the top of the screen. If a user taps a received notification, the application that sent the notification will be opened. Users can also choose to view notifications in modal alert windows by adjusting the application's notification settings. Introduced with iOS 8, widgets are now accessible through the Notification Center, defined by 3rd parties.[citation needed]
+When an app sends a notification while closed, a red badge appears on its icon. This badge tells the user, at a glance, how many notifications that app has sent. Opening the app clears the badge.
+Accessibility
+iOS offers various accessibility features to help users with vision and hearing disabilities. One major feature, VoiceOver, provides a voice reading information on the screen, including contextual buttons, icons, links and other user interface elements, and allows the user to navigate the operating system through gestures. Any apps with default controls and developed with a UIKit framework gets VoiceOver functionality built in.[117] One example includes holding up the iPhone to take a photo, with VoiceOver describing the photo scenery.[118] As part of a "Made for iPhone" program, introduced with the release of iOS 7 in 2013, Apple has developed technology to use Bluetooth and a special technology protocol to let compatible third-party equipment connect with iPhones and iPads for streaming audio directly to a user's ears. Additional customization available for Made for iPhone products include battery tracking and adjustable sound settings for different environments.[119][120] Apple made further efforts for accessibility for the release of iOS 10 in 2016, adding a new pronunciation editor to VoiceOver, adding a Magnifier setting to enlarge objects through the device's camera, software TTY support for deaf people to make phone calls from the iPhone, and giving tutorials and guidelines for third-party developers to incorporate proper accessibility functions into their apps.[121]
+In 2012, Liat Kornowski from The Atlantic wrote that "the iPhone has turned out to be one of the most revolutionary developments since the invention of Braille",[122] and in 2016, Steven Aquino of TechCrunch described Apple as "leading the way in assistive technology", with Sarah Herrlinger, Senior Manager for Global Accessibility Policy and Initiatives at Apple, stating that "We see accessibility as a basic human right. Building into the core of our products supports a vision of an inclusive world where opportunity and access to information are barrier-free, empowering individuals with disabilities to achieve their goals".[123]
+Criticism has been aimed at iOS depending on both internet connection (either WiFi or through iTunes) and a working SIM card upon first activation.[124] This restriction has been loosened in iOS 12, which no longer requires the latter.[125]
+Multitasking
+Multitasking for iOS was first released in June 2010 along with the release of iOS 4.[126][127] Only certain devices iPhone 4, iPhone 3GS, and iPod Touch 3rd generation were able to multitask.[128] The iPad did not get multitasking until iOS 4.2.1 in that November.[129]
+The implementation of multitasking in iOS has been criticized for its approach, which limits the work that applications in the background can perform to a limited function set and requires application developers to add explicit support for it.[128][130]
+Before iOS 4, multitasking was limited to a selection of the applications Apple included on the device. Users could however "jailbreak" their device in order to unofficially multitask.[131] Starting with iOS 4, on third-generation and newer iOS devices, multitasking is supported through seven background APIs:[132]
+Background audio   application continues to run in the background as long as it is playing audio or video content[133]
+Voice over IP   application is suspended when a phone call is not in progress[133]
+Background location   application is notified of location changes[133]
+Push notifications
+Local notifications   application schedules local notifications to be delivered at a predetermined time[133]
+Task completion   application asks the system for extra time to complete a given task[133]
+Fast app switching   application does not execute any code and may be removed from memory at any time[133]
+In iOS 5, three new background APIs were introduced:
+Newsstand   application can download content in the background to be ready for the user[133]
+External Accessory   application communicates with an external accessory and shares data at regular intervals[133]
+Bluetooth Accessory   application communicates with a bluetooth accessory and shares data at regular intervals[133]
+In iOS 7, Apple introduced a new multitasking feature, providing all apps with the ability to perform background updates. This feature prefers to update the user's most frequently used apps and prefers to use Wi-Fi networks over a cellular network, without markedly reducing the device's battery life.
+Switching applications
+In iOS 4.0 to iOS 6.x, double-clicking the home button activates the application switcher. A scrollable dock-style interface appears from the bottom, moving the contents of the screen up. Choosing an icon switches to an application. To the far left are icons which function as music controls, a rotation lock, and on iOS 4.2 and above, a volume controller.
+With the introduction of iOS 7, double-clicking the home button also activates the application switcher. However, unlike previous versions it displays screenshots of open applications on top of the icon and horizontal scrolling allows for browsing through previous apps, and it is possible to close applications by dragging them up, similar to how WebOS handled multiple cards.[134]
+With the introduction of iOS 9, the application switcher received a significant visual change; while still retaining the card metaphor introduced in iOS 7, the application icon is smaller, and appears above the screenshot (which is now larger, due to the removal of "Recent and Favorite Contacts"), and each application "card" overlaps the other, forming a rolodex effect as the user scrolls. Now, instead of the home screen appearing at the leftmost of the application switcher, it appears rightmost.[135] In iOS 11, the application switcher receives a major redesign. In the iPad, the Control Center and app switcher are combined. The app switcher in the iPad can also be accessed by swiping up from the bottom. In the iPhone, the app switcher cannot be accessed if there are no apps in the RAM.
+Ending tasks
+In iOS 4.0 to iOS 6.x, briefly holding the icons in the application switcher makes them "jiggle" (similarly to the homescreen) and allows the user to force quit the applications by tapping the red minus circle that appears at the corner of the app's icon.[136] Clearing applications from multitasking stayed the same from iOS 4.0 through 6.1.6, the last version of iOS 6.
+As of iOS 7, the process has become faster and easier. In iOS 7, instead of holding the icons to close them, they are closed by simply swiping them upwards off the screen. Up to three apps can be cleared at a time compared to one in versions up to iOS 6.1.6.[137]
+Task completion
+Task completion allows apps to continue a certain task after the app has been suspended.[138][139] As of iOS 4.0, apps can request up to ten minutes to complete a task in the background.[140] This doesn't extend to background uploads and downloads though (e.g. if a user starts a download in one application, it won't finish if they switch away from the application).
+Siri
+Main article: Siri
+Siri (/ s ri/) is an intelligent personal assistant integrated into iOS. The assistant uses voice queries and a natural language user interface to answer questions, make recommendations, and perform actions by delegating requests to a set of Internet services. The software adapts to users' individual language usages, searches, and preferences, with continuing use. Returned results are individualized.
+Originally released as an app for iOS in February 2010,[141] it was acquired by Apple two months later,[142][143][144] and then integrated into iPhone 4S at its release in October 2011.[145][146] At that time, the separate app was also removed from the iOS App Store.[147]
+Siri supports a wide range of user commands, including performing phone actions, checking basic information, scheduling events and reminders, handling device settings, searching the Internet, navigating areas, finding information on entertainment, and is able to engage with iOS-integrated apps.[148] With the release of iOS 10 in 2016, Apple opened up limited third-party access to Siri, including third-party messaging apps, as well as payments, ride-sharing, and Internet calling apps.[149][150] With the release of iOS 11, Apple updated Siri's voices for more clear, human voices, it now supports follow-up questions and language translation, and additional third-party actions.[151][152]
+Game Center
+Main article: Game Center
+Game Center is an online multiplayer "social gaming network"[153] released by Apple.[154] It allows users to "invite friends to play a game, start a multiplayer game through matchmaking, track their achievements, and compare their high scores on a leaderboard." iOS 5 and above adds support for profile photos.[153]
+Game Center was announced during an iOS 4 preview event hosted by Apple on April 8, 2010. A preview was released to registered Apple developers in August.[153] It was released on September 8, 2010, with iOS 4.1 on iPhone 4, iPhone 3GS, and iPod Touch 2nd generation through 4th generation.[155] Game Center made its public debut on the iPad with iOS 4.2.1.[156] There is no support for the iPhone 3G, original iPhone and the first-generation iPod Touch (the latter two devices did not have Game Center because they did not get iOS 4).[157] However, Game Center is unofficially available on the iPhone 3G via a hack.[158]
+Hardware
+The main hardware platform for iOS is the ARM architecture (the ARMv7, ARMv8-A, ARMv8.2-A, ARMv8.3-A). iOS releases before iOS 7 can only be run on iOS devices with 32-bit ARM processors (ARMv6 and ARMv7-A architectures). In 2013, iOS 7 was released with full 64-bit support (which includes a native 64-bit kernel, libraries, drivers as well as all built-in applications),[159] after Apple announced that they were switching to 64-bit ARMv8-A processors with the introduction of the Apple A7 chip.[160] 64-bit support was also enforced for all apps in the App Store; All new apps submitted to the App Store with a deadline of February 2015, and all app updates submitted to the App Store with a deadline of June 1, 2015.[161] iOS 11 drops support for all iOS devices with 32-bit ARM processors as well as 32-bit applications,[162][163] making iOS 64-bit only.[164]
+Supported locales
+iOS has support for many locales.
+List of locales by iOS version
+Language
+English name
+1.0
+1.1.2
+2.0
+2.1-2.2
+3
+4-6
+7
+8
+9
+10-15
+16+
+English (US)
+English (US)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+English (Canada)
+English (Canada)
+No
+No
+No
+No
+No
+No
+No
+Note 2
+Yes
+Yes
+Yes
+English (UK)
+English (UK)
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+English (Ireland)
+English (Ireland)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+English (Singapore)
+English (Singapore)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+English (South Africa)
+English (South Africa)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+English (Australia)
+English (Australia)
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+English (New Zealand)
+English (New Zealand)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+English (India)
+English (India)
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+ 
+Chinese, Simplified
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+ 
+Chinese, Traditional (Taiwan)
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+ 
+Chinese, Traditional (Hong Kong)
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+ 
+Chinese, Traditional (Macau)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+ 
+Japanese
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Espa ol (Espa a)
+Spanish (Spain)
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Espa ol (Latinoam rica)
+Spanish (Latin America)
+No
+No
+No
+No
+No
+No
+No
+Note 2
+Yes
+Yes
+Yes
+Espa ol (M xico)
+Spanish (Mexico)
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Espa ol (Argentina)
+Spanish (Argentina)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Bolivia)
+Spanish (Bolivia)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Chile)
+Spanish (Chile)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Colombia)
+Spanish (Colombia)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Costa Rica)
+Spanish (Costa Rica)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Ecuador)
+Spanish (Ecuador)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (El Salvador)
+Spanish (El Salvador)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (EE. UU.)
+Spanish (US)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Guatemala)
+Spanish (Guatemala)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Honduras)
+Spanish (Honduras)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Nicaragua)
+Spanish (Nicaragua)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Panam )
+Spanish (Panama)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Paraguay)
+Spanish (Paraguay)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Per )
+Spanish (Peru)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Puerto Rico)
+Spanish (Puerto Rico)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Rep blica Dominicana)
+Spanish (Dominican Republic)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Uruguay)
+Spanish (Uruguay)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Espa ol (Venezuela)
+Spanish (Venezuela)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Fran ais (France)
+French (France)
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Fran ais (Suisse)
+French (Switzerland)
+No
+No
+No
+No
+No
+No
+No
+Note 2
+Yes
+Yes
+Yes
+Fran ais (Belgique)
+French (Belgium)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Fran ais (Canada)
+French (Canada)
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Deutsch (Deutschland)
+German (Germany)
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Deutsch ( sterreich)
+German (Austria)
+No
+No
+No
+No
+No
+No
+No
+Note 2
+Yes
+Yes
+Yes
+Deutsch (Schweiz)
+German (Switzerland)
+No
+No
+No
+No
+No
+No
+No
+Note 2
+Yes
+Yes
+Yes
+ 
+Russian
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Portugu s (Brasil)
+Portuguese (Brazil)
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Portugu s (Portugal)
+Portuguese (Portugal)
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Italiano (Italia)
+Italian (Italy)
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Italiano (Svizzera)
+Italian (Switzerland)
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+ 
+Korean
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+T rk e
+Turkish
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Nederlands (Nederland)
+Dutch (Netherlands)
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Nederlands (Belgi )
+Dutch (Belgium)
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+ 
+Arabic
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+ 
+Thai
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Svenska
+Swedish
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Dansk
+Danish
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Ti ng Vi t
+Vietnamese
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Norsk bokm l
+Norwegian Bokm l
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Polski
+Polish
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Suomi
+Finnish
+No
+Note 1
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Bahasa Indonesia
+Indonesian
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+ 
+Hebrew
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+ 
+Greek
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Rom n 
+Romanian
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Magyar
+Hungarian
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+ e tina
+Czech
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Catal 
+Catalan
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Sloven ina
+Slovak
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+ 
+Ukrainian
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Hrvatski
+Croatian
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Bahasa Melayu
+Malay
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+ 
+Hindi
+No
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+   
+Kazakh
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+ 
+Bulgarian
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+Yes
+Notes
+The iPod Touch at its launch supported English, French, German, Japanese, Dutch, Italian, Spanish, Portuguese, Danish, Finnish, Norwegian, Swedish, Korean, Simplified Chinese, Traditional Chinese, Russian, and Polish. However, most of these languages were not available in the iPhone until iPhone 2.0.
+As of iOS 8, users can add more than one locale to use on the device. If one language is not supported, the next one is used instead. The language on the top of the list is the primary one.
+While these regions are present in iOS 8, they fall back to the generic regions for the system language. This issue has been resolved in iOS 9 and later, when a default region is added.
+de-AT, de-CH: de
+en-CA, en-US: en
+es-ES: es
+es-419: es-MX
+fr-CH: fr
+iOS 9 and above improved the locale handling process, now applying a default region to those that have multiple regions. The region is not displayed in the locale name if the region is the same as the country/region setting, or if only one region is added for a language.
+German: German (Germany)
+English: English (US)
+Spanish: Spanish (Spain)
+French: French (France)
+Italian: Italian (Italy)
+Dutch: Dutch (Netherlands)
+Portuguese: Portuguese (Brazil)
+Chinese, Traditional: Chinese, Traditional (Taiwan)
+Dutch (Belgium) was previously shown as Flemish in iOS 9 before being fixed in iOS 10, to bring it more in line with other locales.
+iOS 10 and macOS Sierra were the last versions in which new locales were added for the languages supported by iOS and macOS. Two new languages, Bulgarian and Kazakh, were added in iOS 16 and macOS Ventura.
+English (US): United States, Canada
+English (UK): United Kingdom, Ireland, Singapore, South Africa
+English (Australia): Australia, New Zealand
+English (India): India
+Chinese, Simplified: China mainland
+Chinese, Traditional (Taiwan): Taiwan
+Chinese, Traditional (Hong Kong): Hong Kong, Macau
+Japanese: Japan
+Spanish (Spain): Spain
+Spanish (Latin America): Latin America, Argentina, Bolivia, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Uruguay, US, Venezuela
+French (France): France, Belgium, Switzerland
+French (Canada): Canada
+German: Germany, Austria, Switzerland
+Russian: Russia
+Portuguese (Brazil): Brazil
+Portuguese (Portugal): Portugal
+Italian: Italy, Switzerland
+Korean: South Korea
+Turkish: Turkey
+Dutch: Netherlands, Belgium
+Arabic: Saudi Arabia
+Thai: Thailand
+Swedish: Sweden
+Danish: Denmark
+Vietnamese: Vietnam
+Norwegian Bokm l: Norway
+Polish: Poland
+Finnish: Finland
+Indonesian: Indonesia
+Hebrew: Israel
+Greek: Greece
+Romanian: Romania
+Hungarian: Hungary
+Czech: Czech Republic
+Catalan: Spain
+Slovak: Slovakia
+Ukrainian: Ukraine
+Croatian: Croatia
+Malay: Malaysia
+Hindi: India
+It is possible to add custom locales in the iOS Simulator by editing the AppleLanguages portion of the .GlobalPreferences.plist file for each simulator.
+Development
+Main article: iOS SDK
+The iOS SDK (Software Development Kit) allows for the development of mobile apps on iOS.
+While originally developing iPhone prior to its unveiling in 2007, Apple's then-CEO Steve Jobs did not intend to let third-party developers build native apps for iOS, instead directing them to make web applications for the Safari web browser.[165] However, backlash from developers prompted the company to reconsider,[165] with Jobs announcing in October 2007 that Apple would have a software development kit available for developers by February 2008.[166][167] The SDK was released on March 6, 2008.[168][169]
+The SDK is a free download for users of Mac personal computers.[170] It is not available for Microsoft Windows PCs.[170] The SDK contains sets giving developers access to various functions and services of iOS devices, such as hardware and software attributes.[171] It also contains an iPhone simulator to mimic the look and feel of the device on the computer while developing.[171] New versions of the SDK accompany new versions of iOS.[172][173] In order to test applications, get technical support, and distribute apps through App Store, developers are required to subscribe to the Apple Developer Program.[170]
+Combined with Xcode, the iOS SDK helps developers write iOS apps using officially supported programming languages, including Swift and Objective-C.[174] Other companies have also created tools that allow for the development of native iOS apps using their respective programming languages.[175][176]
+Update history & schedule
+Main article: iOS version history
+This section needs to be updated. The reason given is: iOS 16 and iPadOS 16 have now been released and should replace information on iOS 15 and iPadOS 15. iOS version history may be a helpful place to start. Please help update this article to reflect recent events or newly available information. (November 2022)
+iPhone platform usage as measured by the App Store on May 31st, 2022[177]
+ iOS 15 (82.00%) iOS 14 (14.00%) iOS 13 and earlier (4.00%)
+iPad platform usage as measured by the App Store on May 31st, 2022[177]
+ iPadOS 15 (72.00%) iPadOS 14 (18.00%) iPadOS 13 and earlier (10.00%)
+Apple provides major updates to the iOS operating system annually via iTunes and, since iOS 5, also over-the-air.[178] The device checks an XML-based PLIST file on mesu.apple.com for updates. Updates are delivered as unencrypted ZIP files. Updates are checked for regularly, and are downloaded and installed automatically if enabled. Otherwise, the user can install them manually or are prompted to allow automatic installation overnight if plugged in and connected to Wi-Fi.
+iPod Touch users originally had to pay for system software updates due to accounting rules that designated it not a "subscription device" like the iPhone or Apple TV,[179][180] causing many iPod Touch owners not to update.[181] In September 2009, a change in accounting rules won tentative approval, affecting Apple's earnings and stock price, and allowing iPod Touch updates to be delivered free of charge.[182][183]
+Apple significantly extended the cycle of updates for iOS-supported devices over the years. The iPhone (1st generation) and iPhone 3G only received two iOS updates, while later models had support for five, six, and seven years.[184][185]
+XNU kernel
+Main article: XNU
+The iOS kernel is the XNU kernel of Darwin. The original iPhone OS (1.0) up to iPhone OS 3.1.3 used Darwin 9.0.0d1. iOS 4 was based on Darwin 10. iOS 5 was based on Darwin 11. iOS 6 was based on Darwin 13. iOS 7 and iOS 8 are based on Darwin 14. iOS 9 is based on Darwin 15. iOS 10 is based on Darwin 16. iOS 11 is based on Darwin 17. iOS 12 is based on Darwin 18. iOS 13 is based on Darwin 19. iOS 14 is based on Darwin 20. iOS 15 is based on Darwin 21. iOS 16 is based on Darwin 22.[186]
+In iOS 6 the kernel is subject to ASLR, similar to that of OS X Mountain Lion. This makes exploit possibilities more complex since it is not possible to know the location of kernel code.
+Apple has made the XNU kernel open source.[187] The source is under a 3-clause[188] BSD license for the original BSD parts, with parts added by Apple under the Apple Public Source License.[189] The versions contained in iOS are not available; only the versions used in macOS are available.
+iOS does not have kernel extensions (kexts) in the file system, even if they are actually present. The kernel cache can be decompressed to show the correct kernel, along with the kexts (all packed in the __PRELINK_TEXT section) and their plists (in the __PRELINK_INFO section).
+The kernel cache can also be directly decompressed (if decrypted) using third-party tools. With the advent of iOS 10 betas and default plain text kernelcaches, these tools can only be used after unpacking and applying lzssdec to unpack the kernel cache to its full size.
+The kextstat provided by the Cydia alternative software does not work on iOS because the kextstat is based on kmod_get_info(...), which is a deprecated API in iOS 4 and Mac OS X Snow Leopard. There are other alternative software that can also dump raw XML data.
+On developing devices, the kernel is always stored as a statically linked cache stored in /System/Library/Caches/com.apple.kernelcaches/kernelcache which is unpacked and executed at boot.
+In the beginning, iOS had a kernel version usually higher than the corresponding version of macOS. Over time, the kernels of iOS and macOS have gotten closer. This is not surprising, considering that iOS introduced new features (such as the ASLR Kernel, the default freezer, and various security-strengthening features) that were first incorporated and subsequently arrived on macOS. It appears Apple is gradually merging the iOS and macOS kernels over time. The build date for each version varies slightly between processors. This is due to the fact that the builds are sequential.
+Kernel Builds[needs update]
+iOS Version
+Kernel Build
+Notes
+1A420
+Darwin Kernel Version 9.0.0d1: Thu Mar 8 01:38:53 PST 2007; root:xnu-933.0.0.144.obj~1/DEVELOPMENT_ARM_S5L8900XRB
+1.0
+Darwin Kernel Version 9.0.0d1: Tue May 22 21:15:55 PDT 2007; root:xnu-933.0.0.178.obj~3/RELEASE_ARM_S5L8900XRB
+1.0.1
+Darwin Kernel Version 9.0.0d1: Fri Jun 22 00:38:56 PDT 2007; root:xnu-933.0.1.178.obj~1/RELEASE_ARM_S5L8900XRB
+1.0.2
+1.1
+Darwin Kernel Version 9.0.0d1: Thu Sep  6 23:26:45 PDT 2007; root:xnu-933.0.0.203.obj~6/RELEASE_ARM_S5L8900XRB
+iPod Touch only
+1.1.1
+Darwin Kernel Version 9.0.0d1: Wed Sep 19 00:08:42 PDT 2007; root:xnu-933.0.203~21/RELEASE_ARM_S5L8900XRB
+First kernel that was 8900 encrypted
+1.1.2
+Darwin Kernel Version 9.0.0d1: Wed Oct 10 00:07:49 PDT 2007; root:xnu-933.0.204~7/RELEASE_ARM_S5L8900XRB
+1.1.3
+Darwin Kernel Version 9.0.0d1: Wed Dec 12 00:16:00 PST 2007; root:xnu-933.0.211~2/RELEASE_ARM_S5L8900XRB
+1.1.4
+1.1.5
+iPod Touch only
+1.2 beta
+?
+2.0 beta 2
+Darwin Kernel Version 9.3.1: Wed Mar 19 22:40:09 PDT 2008; root:xnu-1228.6.34~1/RELEASE_ARM_S5L8900X
+2.0 beta 3
+Darwin Kernel Version 9.3.1: Tue Apr  1 21:58:46 PDT 2008; root:xnu-1228.6.39~6/RELEASE_ARM_S5L8900X
+2.0 beta 4
+Darwin Kernel Version 9.3.1: Tue Apr 15 21:09:34 PDT 2008; root:xnu-1228.6.49~1/RELEASE_ARM_S5L8900X
+2.0 beta 5
+?
+2.0 beta 6
+?
+2.0 beta 7
+?
+2.0 GM
+Darwin Kernel Version 9.3.1: Sun Jun 15 21:37:01 PDT 2008; root:xnu-1228.6.76~45/RELEASE_ARM_S5L8900X
+2.0
+2.0.1
+2.0.2
+2.1 beta
+?
+2.1 beta 2
+?
+2.1 beta 3
+?
+2.1 beta 4
+?
+2.1
+Darwin Kernel Version 9.4.1: Sun Aug 10 21:25:25 PDT 2008; root:xnu-1228.7.27~12/RELEASE_ARM_S5L8720X
+2.1.1
+2.2 beta
+?
+2.2 beta 2
+?
+2.2
+Darwin Kernel Version 9.4.1: Sat Nov  1 19:13:13 PDT 2008; root:xnu-1228.7.36~2/RELEASE_ARM_S5L8720X
+2.2.1
+Darwin Kernel Version 9.4.1: Mon Dec  8 21:02:57 PST 2008; root:xnu-1228.7.37~4/RELEASE_ARM_S5L8720X
+3.0 beta
+Darwin Kernel Version 10.0.0d3: Mon Mar  9 22:51:44 PDT 2009; root:xnu-1357.2.65~12/RELEASE_ARM_S5L8900X
+3.0 beta 2
+Darwin Kernel Version 10.0.0d3: Wed Mar 25 21:56:57 PDT 2009; root:xnu-1357.2.71~2/RELEASE_ARM_S5L8900X
+3.0 beta 3
+Darwin Kernel Version 10.0.0d3: Fri Apr 10 15:52:33 PDT 2009; root:xnu-1357.2.78~8/RELEASE_ARM_S5L8900X
+3.0 beta 4
+Darwin Kernel Version 10.0.0d3: Wed Apr 22 21:48:01 PDT 2009; root:xnu-1357.2.83~2/RELEASE_ARM_S5L8900X
+3.0 beta 5
+Darwin Kernel Version 10.0.0d3: Wed Apr 29 22:05:19 PDT 2009; root:xnu-1357.2.86~1/RELEASE_ARM_S5L8900X
+3.0 GM
+?
+3.0
+Darwin Kernel Version 10.0.0d3: Wed May 13 22:16:49 PDT 2009; root:xnu-1357.2.89~4/RELEASE_ARM_S5L8920X
+3.0.1
+3.1 beta
+Darwin Kernel Version 10.0.0d3: Wed Jun 24 21:55:27 PDT 2009; root:xnu-1357.5.22~7/RELEASE_ARM_S5L8720X
+3.1 beta 2
+Darwin Kernel Version 10.0.0d3: Wed Jul  8 21:57:20 PDT 2009; root:xnu-1357.5.23~8/RELEASE_ARM_S5L8920X
+3.1 beta 3
+Darwin Kernel Version 10.0.0d3: Wed Jul 22 21:39:52 PDT 2009; root:xnu-1357.5.24~13/RELEASE_ARM_S5L8920X
+3.1
+Darwin Kernel Version 10.0.0d3: Fri Aug 14 13:23:32 PDT 2009; root:xnu-1357.5.30~2/RELEASE_ARM_S5L8920X
+3.1.2
+Darwin Kernel Version 10.0.0d3: Fri Sep 25 23:35:35 PDT 2009; root:xnu-1357.5.30~3/RELEASE_ARM_S5L8920X
+3.1.3
+Darwin Kernel Version 10.0.0d3: Fri Dec 18 01:34:28 PST 2009; root:xnu-1357.5.30~6/RELEASE_ARM_S5L8920X
+Last release for iPhone (1st generation) and iPod Touch (1st generation)
+3.2
+Darwin Kernel Version 10.3.1: Mon Mar 15 23:15:33 PDT 2010; root:xnu-1504.2.27~18/RELEASE_ARM_S5L8930X
+iPad only
+3.2.1
+Darwin Kernel Version 10.3.1: Fri May 28 16:46:17 PDT 2010; root:xnu-1504.2.50~4/RELEASE_ARM_S5L8930X
+3.2.2
+Darwin Kernel Version 10.3.1: Wed Aug  4 19:08:04 PDT 2010; root:xnu-1504.2.60~1/RELEASE_ARM_S5L8930X
+4.0 beta
+Darwin Kernel Version 10.3.1: Sat Apr 3 03:06:07 PDT 2010; root:xnu-1504.51.1~2/RELEASE_ARM_S5L8920X
+4.0 beta 2
+Darwin Kernel Version 10.3.1: Wed Apr 14 23:43:59 PDT 2010; root:xnu-1504.50.51~3/RELEASE_ARM_S5L8920X
+4.0 beta 3
+Darwin Kernel Version 10.3.1: Wed Apr 28 20:47:20 PDT 2010; root:xnu-1504.50.61~1/RELEASE_ARM_S5L8920X
+4.0 beta 4
+Darwin Kernel Version 10.3.1: Tue May 11 22:12:23 PDT 2010; root:xnu-1504.50.69~2/RELEASE_ARM_S5L8920X
+4.0 GM
+?
+4.0
+Darwin Kernel Version 10.3.1: Wed May 26 22:28:33 PDT 2010; root:xnu-1504.50.73~2/RELEASE_ARM_S5L8930X
+4.0.1
+4.0.2
+Darwin Kernel Version 10.3.1: Wed Aug  4 18:46:06 PDT 2010; root:xnu-1504.50.80~1/RELEASE_ARM_S5L8930X
+4.1 beta
+Darwin Kernel Version 10.3.1: Mon Jul  5 20:15:12 PDT 2010; root:xnu-1504.55.27~4/RELEASE_ARM_S5L8930X
+4.1 beta 2
+Darwin Kernel Version 10.3.1: Tue Jul 20 21:31:09 PDT 2010; root:xnu-1504.55.32~9/RELEASE_ARM_S5L8930X
+4.1 beta 3
+Darwin Kernel Version 10.3.1: Wed Jul 28 01:26:23 PDT 2010; root:xnu-1504.55.33~3/RELEASE_ARM_S5L8930X
+4.1
+Darwin Kernel Version 10.3.1: Wed Aug  4 22:35:51 PDT 2010; root:xnu-1504.55.33~10/RELEASE_ARM_S5L8930X
+4.2 beta
+Darwin Kernel Version 10.3.1: Tue Sep  7 23:33:25 PDT 2010; root:xnu-1504.58.18~2/RELEASE_ARM_S5L8930X
+4.2 beta 2
+Darwin Kernel Version 10.4.0: Thu Sep 23 20:56:24 PDT 2010; root:xnu-1504.58.21~5/RELEASE_ARM_S5L8930X
+4.2 beta 3
+Darwin Kernel Version 10.4.0: Tue Oct  5 21:42:47 PDT 2010; root:xnu-1504.58.25~18/RELEASE_ARM_S5L8930X
+4.2 GM
+Darwin Kernel Version 10.4.0: Wed Oct 20 20:14:45 PDT 2010; root:xnu-1504.58.28~3/RELEASE_ARM_S5L8930X
+4.2.1 GM
+4.2.1
+Darwin Kernel Version 10.4.0: Wed Oct 20 20:14:45 PDT 2010; root:xnu-1504.58.28~3/RELEASE_ARM_S5L8930X
+Last release for iPhone 3G and iPod Touch (2nd generation)
+4.2.5
+Darwin Kernel Version 10.4.0: Thu Dec 30 19:38:02 PST 2010; root:xnu-1504.62~11/RELEASE_ARM_S5L8930X
+iPhone 4 only.
+4.2.6
+4.2.7
+4.2.8
+4.2.9
+Darwin Kernel Version 10.4.0: Fri Jul 8 18:32:26 PDT 2011; root:xnu-1504.63~1/RELEASE_ARM_S5L8930X
+4.2.10
+4.3 beta
+Darwin Kernel Version 11.0.0: Tue Jan  4 21:36:31 PST 2011; root:xnu-1735.24~10/RELEASE_ARM_S5L8930X
+4.3 beta 2
+Darwin Kernel Version 11.0.0: Mon Jan 10 22:08:15 PST 2011; root:xnu-1735.30~2/RELEASE_ARM_S5L8930X
+4.3 beta 3
+Darwin Kernel Version 11.0.0: Fri Jan 28 13:55:49 PST 2011; root:xnu-1735.39.80~1/RELEASE_ARM_S5L8930X
+4.3 GM
+?
+4.3
+Darwin Kernel Version 11.0.0: Thu Feb 10 21:46:56 PST 2011; root:xnu-1735.46~2/RELEASE_ARM_S5L8930X
+4.3.1
+4.3.2
+Darwin Kernel Version 11.0.0: Wed Mar 30 18:51:10 PDT 2011; root:xnu-1735.46~10/RELEASE_ARM_S5L8930X
+4.3.3
+4.3.4
+Darwin Kernel Version 11.0.0: Sat Jul  9 00:59:43 PDT 2011; root:xnu-1735.47~1/RELEASE_ARM_S5L8930X
+4.3.5
+5.0 beta
+Darwin Kernel Version 11.0.0: Mon May 30 20:28:35 PDT 2011; root:xnu-1878.2.52~1/RELEASE_ARM_S5L8940X
+5.0 beta 2
+Darwin Kernel Version 11.0.0: Sun Jun 19 18:59:56 PDT 2011; root:xnu-1878.3.20~3/RELEASE_ARM_S5L8940X
+5.0 beta 3
+Darwin Kernel Version 11.0.0: Thu Jun 30 23:23:57 PDT 2011; root:xnu-1878.4.10~2/RELEASE_ARM_S5L8940X
+5.0 beta 4
+Darwin Kernel Version 11.0.0: Sun Jul 17 19:21:53 PDT 2011; root:xnu-1878.4.20~4/RELEASE_ARM_S5L8940X
+5.0 beta 5
+Darwin Kernel Version 11.0.0: Tue Aug  2 22:31:30 PDT 2011; root:xnu-1878.4.80~1/RELEASE_ARM_S5L8930X
+5.0 beta 6
+Darwin Kernel Version 11.0.0: Sun Aug 14 19:04:49 PDT 2011; root:xnu-1878.4.31~5/RELEASE_ARM_S5L8930X
+5.0 beta 7
+Darwin Kernel Version 11.0.0: Thu Aug 25 20:47:50 PDT 2011; root:xnu-1878.4.38~2/RELEASE_ARM_S5L8930X
+5.0 GM
+Darwin Kernel Version 11.0.0: Thu Sep 15 23:34:16 PDT 2011; root:xnu-1878.4.43~2/RELEASE_ARM_S5L8930X
+5.0
+5.0.1 beta
+Darwin Kernel Version 11.0.0: Wed Oct 19 19:05:07 PDT 2011; root:xnu-1878.4.45~1/RELEASE_ARM_S5L8930X
+5.0.1 beta 2
+Darwin Kernel Version 11.0.0: Tue Nov 1 20:34:16 PDT 2011; root:xnu-1878.4.46~1/RELEASE_ARM_S5L8940X
+5.0.1
+5.1 beta
+Darwin Kernel Version 11.0.0: Sun Nov 13 19:10:13 PST 2011; root:xnu-1878.10.61~7/RELEASE_ARM_S5L8930X
+5.1 beta 2
+Darwin Kernel Version 11.0.0: Sun Dec  4 18:57:33 PST 2011; root:xnu-1878.10.68~2/RELEASE_ARM_S5L8930X
+5.1 beta 3
+Darwin Kernel Version 11.0.0: Mon Jan  2 18:46:01 PST 2012; root:xnu-1878.10.74~3/RELEASE_ARM_S5L8930X
+5.1
+Darwin Kernel Version 11.0.0: Wed Feb 1 23:18:07 PST 2012; root:xnu-1878.11.8~1/RELEASE_ARM_S5L8945X
+5.1.1
+Darwin Kernel Version 11.0.0: Sun Apr 8 21:51:26 PDT 2012; root:xnu-1878.11.10~1/RELEASE_ARM_S5L8930X
+Last release for iPad (1st generation)
+6.0 beta
+Darwin Kernel Version 13.0.0: Wed May 30 19:23:03 PDT 2012; root:xnu-2107.1.78~18/RELEASE_ARM_S5L8930X
+6.0 beta 2
+Darwin Kernel Version 13.0.0: Sun Jun 17 19:47:47 PDT 2012; root:xnu-2107.1.61~3/RELEASE_ARM_S5L8930X
+6.0 beta 3
+Darwin Kernel Version 13.0.0: Sun Jul  8 20:15:17 PDT 2012; root:xnu-2107.2.9~3/RELEASE_ARM_S5L8930X
+6.0 beta 4
+Darwin Kernel Version 13.0.0: Sun Jul 29 20:15:28 PDT 2012; root:xnu-2107.2.26~4/RELEASE_ARM_S5L8930X
+6.0 GM
+Darwin Kernel Version 13.0.0: Sun Aug 19 00:27:34 PDT 2012; root:xnu-2107.2.33~4/RELEASE_ARM_S5L8930X
+6.0
+6.0.1
+Darwin Kernel Version 13.0.0: Wed Oct 10 23:32:19 PDT 2012; root:xnu-2107.2.34~2/RELEASE_ARM_S5L8950X
+6.0.2
+iPhone 5 only.
+6.1 beta
+Darwin Kernel Version 13.0.0: Sun Oct 21 19:28:43 PDT 2012; root:xnu-2107.7.51~17/RELEASE_ARM_S5L8930X
+6.1 beta 2
+Darwin Kernel Version 13.0.0: Sun Nov  4 19:02:54 PST 2012; root:xnu-2107.7.53~2/RELEASE_ARM_S5L8930X
+6.1 beta 3
+Darwin Kernel Version 13.0.0: Mon Nov 26 21:17:13 PST 2012; root:xnu-2107.7.53~27/RELEASE_ARM_S5L8930X
+6.1 beta 4
+Darwin Kernel Version 13.0.0: Sun Dec  9 19:22:45 PST 2012; root:xnu-2107.7.55~6/RELEASE_ARM_S5L8930X
+6.1 beta 5
+Darwin Kernel Version 13.0.0: Sun Dec 16 20:01:39 PST 2012; root:xnu-2107.7.55~11/RELEASE_ARM_S5L8950X
+6.1
+6.1.1 beta
+6.1.1
+iPhone 4s only
+6.1.2
+6.1.3 beta 2
+Darwin Kernel Version 13.0.0: Wed Feb 13 21:35:42 PST 2013; root:xnu-2107.7.55.2.2~1/RELEASE_ARM_S5L8920X
+6.1.3
+6.1.4
+iPhone 5 only.
+6.1.5
+iPod Touch (4th generation) only.
+6.1.6
+iPod Touch (4th generation) and iPhone 3GS only.
+7.0 beta
+Darwin Kernel Version 14.0.0: Wed May 29 23:53:59 PDT 2013; root:xnu-2423.1.1.1.2~1/RELEASE_ARM_S5L8930X
+7.0 beta 2
+Darwin Kernel Version 14.0.0: Mon Jun 17 00:51:51 PDT 2013; root:xnu-2423.1.28~7/RELEASE_ARM_S5L8930X
+7.0 beta 3
+Darwin Kernel Version 14.0.0: Mon Jul  1 04:25:28 PDT 2013; root:xnu-2423.1.40~11/RELEASE_ARM_S5L8930X
+7.0 beta 4
+Darwin Kernel Version 14.0.0: Mon Jul 22 02:12:11 PDT 2013; root:xnu-2423.1.55~8/RELEASE_ARM_S5L8930X
+7.0 beta 5
+Darwin Kernel Version 14.0.0: Sun Aug  4 22:40:14 PDT 2013; root:xnu-2423.1.70~6/RELEASE_ARM_S5L8930X
+7.0 beta 6
+7.0 GM
+Darwin Kernel Version 14.0.0: Tue Aug 13 21:39:05 PDT 2013; root:xnu-2423.1.73~3/RELEASE_ARM_S5L8930X
+7.0
+7.0.1
+Darwin Kernel Version 14.0.0: Mon Sep 9 20:56:02 PDT 2013; root:xnu-2423.1.74~2/RELEASE_ARM64_S5L8960X
+iPhone 5c and 5s only
+7.0.2
+7.0.3
+Darwin Kernel Version 14.0.0: Fri Sep 27 23:08:32 PDT 2013; root:xnu-2423.3.12~1/RELEASE_ARM64_S5L8960X
+7.0.4
+7.0.5
+iPhone 5c and iPhone 5s only.
+7.0.6
+7.1 beta
+Darwin Kernel Version 14.0.0: Mon Nov 11 04:18:01 PST 2013; root:xnu-2423.10.33~9/RELEASE_ARM_S5L8930X
+7.1 beta 2
+Darwin Kernel Version 14.0.0: Tue Dec 10 21:25:34 PST 2013; root:xnu-2423.10.38.1.1~1/RELEASE_ARM_S5L8930X
+7.1 beta 3
+Darwin Kernel Version 14.0.0: Thu Jan  2 01:55:45 PST 2014; root:xnu-2423.10.45~5/RELEASE_ARM_S5L8930X
+7.1 beta 4
+Darwin Kernel Version 14.0.0: Mon Jan 13 03:33:00 PST 2014; root:xnu-2423.10.49.0.1~3/RELEASE_ARM_S5L8930X
+7.1 beta 5
+Darwin Kernel Version 14.0.0: Mon Jan 27 23:55:13 PST 2014; root:xnu-2423.10.58~2/RELEASE_ARM_S5L8930X
+7.1 GM
+Darwin Kernel Version 14.0.0: Fri Feb 21 19:41:10 PST 2014; root:xnu-2423.10.67~1/RELEASE_ARM_S5L8930X
+7.1
+7.1.1
+Darwin Kernel Version 14.0.0: Fri Mar 28 21:22:10 PDT 2014; root:xnu-2423.10.70~1/RELEASE_ARM_S5L8930X
+7.1.2
+Darwin Kernel Version 14.0.0: Thu May 15 23:17:54 PDT 2014; root:xnu-2423.10.71~1/RELEASE_ARM64_S5L8960X
+Last release for iPhone 4
+8.0 beta
+Darwin Kernel Version 14.0.0: Mon May 26 22:09:06 PDT 2014; root:xnu-2729.0.0.0.9~2/RELEASE_ARM_S5L8942X
+8.0 beta 2
+Darwin Kernel Version 14.0.0: Sat Jun 14 16:36:40 PDT 2014; root:xnu-2775.0.0.1.1~3/RELEASE_ARM64_S5L8960X
+8.0 beta 3
+Darwin Kernel Version 14.0.0: Wed Jul  2 18:51:34 PDT 2014; root:xnu-2783.1.21~19/RELEASE_ARM_S5L8950X
+8.0 beta 4
+Darwin Kernel Version 14.0.0: Wed Jul 16 21:55:26 PDT 2014; root:xnu-2783.1.40.0.3~2/RELEASE_ARM_S5L8950X
+8.0 beta 5
+Darwin Kernel Version 14.0.0: Wed Jul 30 23:04:17 PDT 2014; root:xnu-2783.1.62~20/RELEASE_ARM_S5L8950X
+8.0 GM
+Darwin Kernel Version 14.0.0: Tue Aug 19 15:09:47 PDT 2014; root:xnu-2783.1.72~8/RELEASE_ARM64_S5L8960X
+8.0
+8.0.1
+Darwin Kernel Version 14.0.0: Thu Sep 18 21:52:21 PDT 2014; root:xnu-2783.1.72~23/RELEASE_ARM_S5L8950X
+8.0.2
+8.1 beta
+Darwin Kernel Version 14.0.0: Sat Sep 27 18:49:49 PDT 2014; root:xnu-2783.3.12~18/RELEASE_ARM_S5L8950X
+8.1 beta 2
+Darwin Kernel Version 14.0.0: Fri Oct 3 21:52:09 PDT 2014; root:xnu-2783.3.13~2/RELEASE_ARM_S5L8950X
+8.1
+Darwin Kernel Version 14.0.0: Fri Oct 7 00:04:37 PDT 2014; root:xnu-2783.3.13~4/RELEASE_ARM_S5L8950X
+8.1.1 beta
+Darwin Kernel Version 14.0.0: Sun Nov 2 20:21:29 PDT 2014; root:xnu-2783.3.21~1/RELEASE_ARM_S5L8950X
+8.1.1
+Darwin Kernel Version 14.0.0: Mon Nov 3 22:54:30 PDT 2014; root:xnu-2783.3.22~1/RELEASE_ARM_S5L8950X
+8.1.2
+8.1.3
+Darwin Kernel Version 14.0.0: Mon Jan 2 21:29:20 PST 2015; root:xnu-2783.3.26~3/RELEASE_ARM_S5L8950X
+8.2 beta
+?
+8.2 beta 2
+?
+8.2 beta 3
+Darwin Kernel Version 14.0.0: Sun Dec 14 20:59:15 PST 2014; root:xnu-2783.5.29.0.1~1/RELEASE_ARM_S5L8940X
+8.2 beta 4
+Darwin Kernel Version 14.0.0: Tue Jan  6 21:02:10 PST 2015; root:xnu-2783.5.32~9/RELEASE_ARM_S5L8940X
+8.2 beta 5
+Darwin Kernel Version 14.0.0: Mon Jan 26 22:16:17 PST 2015; root:xnu-2783.5.37~11/RELEASE_ARM_S5L8940X
+8.2
+Darwin Kernel Version 14.0.0: Mon Feb 9 22:07:57 PST 2015; root:xnu-2783.5.38~5/RELEASE_ARM_S5L8950X
+8.3 beta
+?
+8.3 beta 2
+?
+8.3 beta 3
+Darwin Kernel Version 14.0.0: Mon Mar 4 20:55:58 PST 2015; root:xnu-2784.20.25~26/RELEASE_ARM64_S5L8960X
+8.3 beta 4
+Darwin Kernel Version 14.0.0: Thu Mar 19 00:16:36 PST 2015; root:xnu-2784.20.31~1/RELEASE_ARM64_S5L8960X
+8.3
+Darwin Kernel Version 14.0.0: Sun Mar 29 19:44:04 PDT 2015; root:xnu-2784.20.34~2/RELEASE_ARM_S5L8950X
+8.4 beta
+Darwin Kernel Version 14.0.0: Wed Apr 8 21:26:37 PDT 2015; root:xnu-2784.30.1~29/RELEASE_ARM64_T7000
+8.4 beta 2
+Darwin Kernel Version 14.0.0: Wed Apr 21 21:49:05 PDT 2015; root:xnu-2784.30.2~9/RELEASE_ARM64_S5L8960X
+8.4 beta 3
+Darwin Kernel Version 14.0.0: Tue May 5 23:09:22 PDT 2015; root:xnu-2784.30.5~7/RELEASE_ARM64_S5L8960X
+8.4 beta 4
+Darwin Kernel Version 14.0.0: Tue Wed 3 23:19:49 PDT 2015; root:xnu-2784.30.7~13/RELEASE_ARM64_S5L8960X
+8.4
+Darwin Kernel Version 14.0.0: Wed Jun 24 00:50:15 PDT 2015; root:xnu-2784.30.7~30/RELEASE_ARM64_S5L8960X
+8.4.1 beta
+Darwin Kernel Version 14.0.0: Thu Jul  9 21:54:11 PDT 2015; root:xnu-2784.40.6~1/RELEASE_ARM_S5L8950X
+8.4.1 beta 2
+Darwin Kernel Version 14.0.0: Tue Jul 28 16:34:51 PDT 2015; root:xnu-2784.40.6~15/RELEASE_ARM_S5L8950X
+8.4.1
+Darwin Kernel Version 14.0.0: Wed Aug 5 19:24:44 PDT 2015; root:xnu-2784.40.6~18/RELEASE_ARM_S5L8950X
+9.0 beta
+Darwin Kernel Version 15.0.0: Fri May 29 22:14:48 PDT 2015; root:xnu-3216.0.0.1.15~2/RELEASE_ARM64_S5L8960X
+9.0 beta 2
+Darwin Kernel Version 15.0.0: Mon Jun 15 21:51:54 PDT 2015; root:xnu-3247.1.6.1.1~2/RELEASE_ARM64_S5L8960X
+9.0 beta 4
+Darwin Kernel Version 15.0.0: Sat Jul 11 20:01:45 PDT 2015; root:xnu-3247.1.56~13\/RELEASE_ARM64_T7001
+9.0 beta 5
+Darwin Kernel Version 15.0.0: Mon Aug  3 19:58:41 PDT 2015; root:xnu-3247.1.88.1.1~1\/RELEASE_ARM64_T7001
+9.0 GM
+Darwin Kernel Version 15.0.0: Thu Aug  6 22:27:22 PDT 2015; root:xnu-3248.1.2~3\/RELEASE_ARM_S5L8940X
+9.0
+Darwin Kernel Version 15.0.0: Thu Aug  20 13:11:13 PDT 2015; root:xnu-3248.1.3~1\/RELEASE_ARM_S5L8950X
+9.0.1
+9.0.2
+9.1 beta
+Darwin Kernel Version 15.0.0: Sat Aug 29 17:41:04 PDT 2015; root:xnu-3248.10.27~10\/RELEASE_ARM_S5L8940X
+9.1 beta 2
+Darwin Kernel Version 15.0.0: Mon Sep 14 01:24:55 PDT 2015; root:xnu-3248.10.38~3\/RELEASE_ARM64_S5L8960X
+9.1 beta 3
+Darwin Kernel Version 15.0.0: Fri Sep 25 17:14:21 PDT 2015; root:xnu-3248.10.41~11\/RELEASE_ARM64_S5L8960X
+9.1 beta 4
+Darwin Kernel Version 15.0.0: Fri Oct 2 14:07:07 PDT 2015; root:xnu-3248.10.42~4\/RELEASE_ARM64_S5L8960X
+9.1 beta 5
+9.1
+9.2 beta
+Darwin Kernel Version 15.0.0: Sun Oct 18 23:34:30 PDT 2015; root:xnu-3248.20.33.0.1~7\/RELEASE_ARM64_S8000
+9.2 beta 2
+Darwin Kernel Version 15.0.0: Sun Oct 25 21:50:56 PDT 2015; root:xnu-3248.20.39~8\/RELEASE_ARM64_S8000
+9.2 beta 3
+Darwin Kernel Version 15.0.0: Fri Nov  6 22:12:13 PST 2015; root:xnu-3248.21.1~2\/RELEASE_ARM64_S5L8960X
+9.2 beta 4
+Darwin Kernel Version 15.0.0: Fri Nov 13 16:08:07 PST 2015; root:xnu-3248.21.2~1\/RELEASE_ARM64_S5L8960X
+9.2
+9.2.1 beta
+Darwin Kernel Version 15.0.0: Wed Dec  9 22:19:38 PST 2015; root:xnu-3248.31.3~2\/RELEASE_ARM64_S5L8960X
+9.2.1 beta 2
+9.2.1
+9.3 beta
+Darwin Kernel Version 15.4.0: Tue Jan  5 21:24:25 PST 2016; root:xnu-3248.40.155.1.1~3\/RELEASE_ARM64_S5L8960X
+9.3 beta 1.1
+9.3 beta 2
+Darwin Kernel Version 15.4.0: Tue Jan  19 00:18:39 PST 2016; root:xnu-3248.40.166.0.1~10\/RELEASE_ARM64_S8000
+9.3 beta 3
+Darwin Kernel Version 15.4.0: Sun Jan  31 22:48:58 PST 2016; root:xnu-3248.40.173.0.1~13\/RELEASE_ARM64_S8000
+9.3 beta 4
+Darwin Kernel Version 15.4.0: Sun Feb 14 23:17:56 PST 2016; root:xnu-3248.41.3~16\/RELEASE_ARM64_S8000
+9.3 beta 5
+Darwin Kernel Version 15.4.0: Sun Feb 22 01:48:23 PST 2016; root:xnu-3248.41.4~36\/RELEASE_ARM64_S8000
+9.3 beta 6
+9.3 beta 7
+Darwin Kernel Version 15.4.0: Fri Feb 19 13:54:52 PST 2016; root:xnu-3248.41.4~28\/RELEASE_ARM64_S8000
+9.3
+9.3.1
+9.3.2 beta
+Darwin Kernel Version 15.5.0: Thu Mar 31 17:49:02 PDT 2016; root:xnu-3248.50.18~19\/RELEASE_ARM64_S8000
+9.3.2 beta 2
+Darwin Kernel Version 15.5.0: Tue Apr 5 15:12:03 PDT 2016; root:xnu-3248.50.20~12\/RELEASE_ARM64_S8000
+9.3.2 beta 3
+Darwin Kernel Version 15.5.0: Mon Apr 18 16:44:07 PDT 2016; root:xnu-3248.50.21~4\/RELEASE_ARM64_S8000
+9.3.2 beta 4
+9.3.2
+9.3.3 beta
+Darwin Kernel Version 15.6.0: Tue May 17 19:53:27 PDT 2016; root:xnu-3248.60.3~3\/RELEASE_ARM64_S5L8960X
+9.3.3 beta 2
+Darwin Kernel Version 15.6.0: Tue May 31 19:52:45 PDT 2016; root:xnu-3248.60.4~1\/RELEASE_ARM64_S8000
+9.3.3 beta 3
+Darwin Kernel Version 15.6.0: Thu Jun 16 18:08:00 PDT 2016; root:xnu-3248.60.8~1/RELEASE_ARM_S5L8950X
+9.3.3 beta 4
+Darwin Kernel Version 15.6.0: Mon Jun 20 20:10:21 PDT 2016; root:xnu-3248.60.9~1/RELEASE_ARM_S5L8950X
+9.3.3 beta 5
+9.3.3
+9.3.4
+9.3.5
+Darwin Kernel Version 15.6.0: Fri Aug 19 10:37:56 PDT 2016; root:xnu-3248.61.1~1\/RELEASE_ARM64_S5L8960X
+Last release for iPad 2 (Wi-Fi)
+9.3.6
+Last release for iPad 2 (Wi-Fi + Cellular)
+10.0 beta
+Darwin Kernel Version 16.0.0: Wed May 25 21:19:24 PDT 2016; root:xnu-3705.0.0.2.3~1\/RELEASE_ARM64_S8000
+10.0 beta 2
+Darwin Kernel Version 16.0.0: Tue Jun 28 21:38:14 PDT 2016; root:xnu-3757~291\/RELEASE_ARM64_S8000
+10.0 beta 3
+Darwin Kernel Version 16.0.0: Sat Jul 9 23:57:18 PDT 2016; root:xnu-3777.0.0.0.1~28\/RELEASE_ARM64_S8000
+10.0 beta 4
+Darwin Kernel Version 16.0.0: Wed Jul 27 19:44:34 PDT 2016; root:xnu-3789.1.4.2.1~1\/RELEASE_ARM64_S8000
+10.0 beta 5
+Darwin Kernel Version 16.0.0: Fri Aug 5 22:15:30 PDT 2016; root:xnu-3789.1.24~11\/RELEASE_ARM64_S8000
+10.0 beta 6
+Darwin Kernel Version 16.0.0: Wed Aug 10 21:55:58 PDT 2016; root:xnu-3789.2.2~4\/RELEASE_ARM64_S8000
+10.0 beta 7
+10.0 beta 8
+10.0
+Darwin Kernel Version 16.0.0: Wed Aug 10 22:33:10 PDT 2016; root:xnu-3789.2.2~3\/RELEASE_ARM64_T8010
+10.0.1 GM
+Darwin Kernel Version 16.0.0: Sun Aug 28 20:36:54 PDT 2016; root:xnu-3789.2.4~3\/RELEASE_ARM64_S8000
+10.0.1
+10.0.2
+10.1 beta
+Darwin Kernel Version 16.1.0: Fri Sep 16 03:53:22 PDT 2016; root:xnu-3789.20.46~54\/RELEASE_ARM64_S8000
+10.1 beta 2
+Darwin Kernel Version 16.1.0: Thu Sep 29 21:56:12 PDT 2016; root:xnu-3789.22.3~1\/RELEASE_ARM64_S8000
+10.1 beta 3
+10.1 beta 4
+10.1
+10.1.1
+10.2 beta
+Darwin Kernel Version 16.3.0: Sun Oct 23 20:18:32 PDT 2016; root:xnu-3789.30.76~6\/RELEASE_ARM64_S8000
+10.2 beta 2
+Darwin Kernel Version 16.3.0: Tue Nov 1 22:23:11 PDT 2016; root:xnu-3789.30.86~54\/RELEASE_ARM64_S8000
+10.2 beta 3
+Darwin Kernel Version 16.3.0: Mon Nov 7 22:58:42 PST 2016; root:xnu-3789.30.92~36\/RELEASE_ARM64_S8000
+10.2 beta 4
+Darwin Kernel Version 16.3.0: Mon Nov 7 19:32:10 PST 2016; root:xnu-3789.30.92~29\/RELEASE_ARM64_S8000
+10.2 beta 5
+Darwin Kernel Version 16.3.0: Tue Nov 29 21:40:09 PST 2016; root:xnu-3789.32.1~4\/RELEASE_ARM64_S8000
+10.2 beta 6
+10.2 beta 7
+10.2
+10.2.1 beta
+Darwin Kernel Version 16.3.0: Thu Dec 1 19:49:21 PST 2016; root:xnu-3789.42.1~1\/RELEASE_ARM64_S8000
+10.2.1 beta 2
+Darwin Kernel Version 16.3.0: Thu Dec 15 22:41:46 PST 2016; root:xnu-3789.42.2~1\/RELEASE_ARM64_S8000
+10.2.1 beta 3
+10.2.1 beta 4
+10.2.1
+10.3 beta
+Darwin Kernel Version 16.5.0: Mon Jan 16 21:43:53 PST 2017; root:xnu-3789.50.189~28\/RELEASE_ARM64_T8010
+10.3 beta 2
+Kernel Version 16.5.0: Tue Jan 31 21:09:24 PST 2017; root:xnu-3789.50.195.1.1~2/RELEASE_ARM_S5L8950X
+10.3 beta 3
+Darwin Kernel Version 16.5.0: Fri Feb 10 22:11:20 PST 2017; root:xnu-3789.50.208~47/RELEASE_ARM_S5L8950X
+10.3 beta 4
+Darwin Kernel Version 16.5.0: Thu Feb 23 23:48:09 PST 2017; root:xnu-3789.52.2~9\/RELEASE_ARM64_S8000
+10.3 beta 5
+10.3 beta 6
+10.3 beta 7
+10.3
+Darwin Kernel Version 16.5.0: Thu Feb 23 23:22:54 PST 2017; root:xnu-3789.52.2~7\/RELEASE_ARM64_S8000
+10.3.1
+10.3.2 beta
+Darwin Kernel Version 16.6.0: Mon Mar 20 22:28:31 PDT 2017; root:xnu-3789.60.12~10\/RELEASE_ARM64_S8000
+10.3.2 beta 2
+Darwin Kernel Version 16.6.0: Tue Apr 4 21:19:08 PDT 2017; root:xnu-3789.60.15~13\/RELEASE_ARM64_S8000
+10.3.2 beta 3
+Darwin Kernel Version 16.6.0: Tue Apr 11 22:03:42 PDT 2017; root:xnu-3789.60.20~11\/RELEASE_ARM64_S8000
+10.3.2 beta 4
+Darwin Kernel Version 16.6.0: Mon Apr 17 20:33:39 PDT 2017; root:xnu-3789.60.24~25/RELEASE_ARM64_S8000
+10.3.2 beta 5
+10.3.2
+Darwin Kernel Version 16.6.0: Mon Apr 17 17:33:34 PDT 2017; root:xnu-3789.60.24~24/RELEASE_ARM_S8000
+10.3.3 beta
+Darwin Kernel Version 16.7.0: Mon May  8 21:45:24 PDT 2017; root:xnu-3789.70.9~13/RELEASE_ARM64_T7000
+10.3.3 beta 2
+Darwin Kernel Version 16.7.0: Wed May 24 22:28:55 PDT 2017; root:xnu-3789.70.11~6/RELEASE_ARM64_S5L8960X
+10.3.3 beta 3
+Darwin Kernel Version 16.7.0: Tue Jun  6 21:56:23 PDT 2017; root:xnu-3789.70.15~6/RELEASE_ARM64_T8010
+10.3.3 beta 4
+Darwin Kernel Version 16.7.0: Thu Jun 15 22:48:15 PDT 2017; root:xnu-3789.70.16~6/RELEASE_ARM64_S8000
+10.3.3 beta 5
+Darwin Kernel Version 16.7.0: Thu Jun 15 22:48:16 PDT 2017; root:xnu-3789.70.16~6/RELEASE_ARM64_T8010
+10.3.3 beta 6
+Darwin Kernel Version 16.7.0: Thu Jun 15 18:33:36 PDT 2017; root:xnu-3789.70.16~4/RELEASE_ARM64_S8000
+10.3.3
+10.3.4
+Darwin Kernel Version 16.7.0: Wed Jul 26 11:08:56 PDT 2017; root:xnu-3789.70.16~21/RELEASE_ARM_S5L8950X
+Last release for all 32-bit iDevices (iPad (4th generation), iPhone 5, etc.)
+11.0 beta
+Darwin Kernel Version 17.0.0: Sat May 27 21:47:07 PDT 2017; root:xnu-4397.0.0.2.4~1/RELEASE_ARM64_S8000
+11.0 beta 2
+Darwin Kernel Version 17.0.0: Tue Jun 13 21:19:50 PDT 2017; root:xnu-4481.0.0.2.1~1/RELEASE_ARM64_S8000
+11.0 beta 3
+Darwin Kernel Version 17.0.0: Thu Jun 29 22:31:39 PDT 2017; root:xnu-4532.0.0.0.1~30/RELEASE_ARM64_T7000
+11.0 beta 4
+Darwin Kernel Version 17.0.0: Thu Jul 20 19:49:59 PDT 2017; root:xnu-4556.0.0.2.5~1/RELEASE_ARM64_S5L8960X
+11.0 beta 5
+Darwin Kernel Version 17.0.0: Tue Aug  1 21:11:37 PDT 2017; root:xnu-4570.1.24.2.3~1/RELEASE_ARM64_T8010
+11.0 beta 6
+Darwin Kernel Version 17.0.0: Wed Aug  9 22:41:48 PDT 2017; root:xnu-4570.2.3~8/RELEASE_ARM64_T8010
+11.0 beta 7
+Darwin Kernel Version 17.0.0: Fri Aug 18 20:14:27 PDT 2017; root:xnu-4570.2.5~84/RELEASE_ARM64_T8010
+11.0 beta 8
+11.0 beta 9
+11.0 beta 10
+11.0 GM
+Darwin Kernel Version 17.0.0: Fri Sep  1 14:59:17 PDT 2017; root:xnu-4570.2.5~167/RELEASE_ARM64_S8000
+11.0
+11.0.1
+11.0.2
+11.0.3
+11.1 beta
+Darwin Kernel Version 17.2.0: Sun Sep 17 22:21:07 PDT 2017; root:xnu-4570.20.55~10/RELEASE_ARM64_T8015
+11.1 beta 2
+Darwin Kernel Version 17.2.0: Sat Sep 30 23:14:15 PDT 2017; root:xnu-4570.20.62~9/RELEASE_ARM64_T8015
+11.1 beta 3
+11.1 beta 4
+Darwin Kernel Version 17.2.0: Fri Sep 29 18:14:51 PDT 2017; root:xnu-4570.20.62~4/RELEASE_ARM64_T8015
+11.1 beta 5
+11.1
+11.1.1
+11.1.2
+11.2 beta
+Darwin Kernel Version 17.3.0: Wed Oct 25 19:27:20 PDT 2017; root:xnu-4570.30.79~22/RELEASE_ARM64_T8015
+11.2 beta 2
+Darwin Kernel Version 17.3.0: Sun Oct 29 17:18:38 PDT 2017; root:xnu-4570.30.85~18/RELEASE_ARM64_T8015
+11.2 beta 3
+Darwin Kernel Version 17.3.0: Mon Nov  6 22:29:20 PST 2017; root:xnu-4570.32.1~2/RELEASE_ARM64_T8015
+11.2 beta 4
+11.2 beta 5
+11.2 beta 6
+Darwin Kernel Version 17.3.0: Mon Nov  6 21:19:16 PST 2017; root:xnu-4570.32.1~1/RELEASE_ARM64_T8015
+11.2
+11.2.1
+11.2.2
+11.2.5 beta
+Darwin Kernel Version 17.4.0: Sat Dec  2 21:26:33 PST 2017; root:xnu-4570.40.6~8/RELEASE_ARM64_T8015
+11.2.5 beta 2
+Darwin Kernel Version 17.4.0: Wed Dec 13 22:51:57 PST 2017; root:xnu-4570.40.9~7/RELEASE_ARM64_T8015
+11.2.5 beta 3
+11.2.5 beta 4
+11.2.5 beta 5
+11.2.5 beta 6
+11.2.5 beta 7
+Darwin Kernel Version 17.4.0: Fri Dec  8 19:35:51 PST 2017; root:xnu-4570.40.9~1/RELEASE_ARM64_T8015
+11.2.5
+11.2.6
+11.3 beta
+Darwin Kernel Version 17.5.0: Sat Jan 13 00:03:04 PST 2018; root:xnu-4570.50.243~9/RELEASE_ARM64_T8015
+11.3 beta 2
+Darwin Kernel Version 17.5.0: Fri Jan 26 22:56:33 PST 2018; root:xnu-4570.50.257~6/RELEASE_ARM64_T8015
+11.3 beta 3
+Darwin Kernel Version 17.5.0: Sat Feb 10 17:01:35 PST 2018; root:xnu-4570.50.279~9/RELEASE_ARM64_T8015
+11.3 beta 4
+Darwin Kernel Version 17.5.0: Sat Feb 24 20:24:10 PST 2018; root:xnu-4570.50.294~5/RELEASE_ARM64_T8015
+11.3 beta 5
+Darwin Kernel Version 17.5.0: Tue Mar  6 20:47:58 PST 2018; root:xnu-4570.52.2~3/RELEASE_ARM64_T8015
+11.3 beta 6
+11.3
+Darwin Kernel Version 17.5.0: Tue Mar 13 21:32:11 PDT 2018; root:xnu-4570.52.2~8/RELEASE_ARM64_T8010
+11.3.1
+11.4 beta
+Darwin Kernel Version 17.5.0: Sun Mar 25 20:49:19 PDT 2018; root:xnu-4570.60.10.0.1~16/RELEASE_ARM64_T8015
+11.4 beta 2
+Darwin Kernel Version 17.6.0: Thu Apr  5 22:33:56 PDT 2018; root:xnu-4570.60.16~9/RELEASE_ARM64_T8015
+11.4 beta 3
+Darwin Kernel Version 17.6.0: Sun Apr 22 03:29:53 PDT 2018; root:xnu-4570.60.19~25/RELEASE_ARM64_T8015
+11.4 beta 4
+Darwin Kernel Version 17.6.0: Tue May  1 16:16:12 PDT 2018; root:xnu-4570.60.21~7/RELEASE_ARM64_T8015
+11.4 beta 5
+11.4 beta 6
+11.4
+Darwin Kernel Version 17.6.0: Mon Apr 30 18:48:32 PDT 2018; root:xnu-4570.60.21~3/RELEASE_ARM64_T8015
+11.4.1 beta
+Darwin Kernel Version 17.7.0: Mon May 21 19:02:13 PDT 2018; root:xnu-4570.70.14~16/RELEASE_ARM64_T8015
+11.4.1 beta 2
+Darwin Kernel Version 17.7.0: Sun Jun  3 20:38:12 PDT 2018; root:xnu-4570.70.19~13/RELEASE_ARM64_T8015
+11.4.1 beta 3
+Darwin Kernel Version 17.7.0: Tue Jun 12 20:37:30 PDT 2018; root:xnu-4570.70.24~9/RELEASE_ARM64_T8015
+11.4.1 beta 4
+11.4.1 beta 5
+11.4.1
+Darwin Kernel Version 17.7.0: Mon Jun 11 19:06:27 PDT 2018; root:xnu-4570.70.24~3/RELEASE_ARM64_T8015
+12.0 beta
+Darwin Kernel Version 18.0.0: Fri May 25 21:25:37 PDT 2018; root:xnu-4903.200.199.12.3~1/RELEASE_ARM64_T8015
+12.0 beta 2
+Darwin Kernel Version 18.0.0: Wed Jun 13 21:04:46 PDT 2018; root:xnu-4903.200.249.22.3~1/RELEASE_ARM64_T8015
+12.0 beta 3
+Darwin Kernel Version 18.0.0: Tue Jun 26 21:06:03 PDT 2018; root:xnu-4903.200.274.32.3~1/RELEASE_ARM64_T8015
+12.0 beta 4
+Darwin Kernel Version 18.0.0: Mon Jul  9 21:17:19 PDT 2018; root:xnu-4903.200.304.42.1~1/RELEASE_ARM64_T8015
+12.0 beta 5
+Darwin Kernel Version 18.0.0: Wed Jul 25 22:51:45 PDT 2018; root:xnu-4903.200.327.52.1~1/RELEASE_ARM64_T8015
+12.0 beta 6
+Darwin Kernel Version 18.0.0: Wed Aug  1 21:11:01 PDT 2018; root:xnu-4903.200.342.62.3~1/RELEASE_ARM64_T8015
+12.0 beta 7
+Darwin Kernel Version 18.0.0: Sun Aug  5 21:44:00 PDT 2018; root:xnu-4903.200.354~11/RELEASE_ARM64_T8015
+12.0 beta 8
+Darwin Kernel Version 18.0.0: Fri Aug 10 21:57:57 PDT 2018; root:xnu-4903.202.1~2/RELEASE_ARM64_T8015
+12.0 beta 9
+Darwin Kernel Version 18.0.0: Wed Aug 15 21:51:15 PDT 2018; root:xnu-4903.202.2~2/RELEASE_ARM64_T8015
+12.0 beta 10
+12.0 beta 11
+12.0 beta 12
+12.0 GM
+Darwin Kernel Version 18.0.0: Tue Aug 14 22:07:16 PDT 2018; root:xnu-4903.202.2~1/RELEASE_ARM64_T8015
+12.0
+12.0.1
+12.1 beta
+Darwin Kernel Version 18.2.0: Mon Sep 10 22:05:56 PDT 2018; root:xnu-4903.220.42~21/RELEASE_ARM64_T8015
+12.1 beta 2
+Darwin Kernel Version 18.2.0: Sun Sep 23 20:16:38 PDT 2018; root:xnu-4903.220.48~40/RELEASE_ARM64_T8015
+12.1 beta 3
+Darwin Kernel Version 18.2.0: Wed Oct  3 02:49:20 PDT 2018; root:xnu-4903.222.1~7/RELEASE_ARM64_T8015
+12.1 beta 4
+Darwin Kernel Version 18.2.0: Tue Oct  9 18:52:50 PDT 2018; root:xnu-4903.222.4~3/RELEASE_ARM64_T8015
+12.1 beta 5
+Darwin Kernel Version 18.2.0: Tue Oct 16 22:15:34 PDT 2018; root:xnu-4903.222.5~3/RELEASE_ARM64_T8015
+12.1
+Darwin Kernel Version 18.2.0: Tue Oct 16 21:02:33 PDT 2018; root:xnu-4903.222.5~1/RELEASE_ARM64_T8015
+12.1.1 beta
+Darwin Kernel Version 18.2.0: Thu Oct 25 21:36:46 PDT 2018; root:xnu-4903.230.15~8/RELEASE_ARM64_T8015
+12.1.1 beta 2
+Darwin Kernel Version 18.2.0: Sat Nov  3 03:45:48 PDT 2018; root:xnu-4903.232.1~3/RELEASE_ARM64_T8015
+12.1.1 beta 3
+Darwin Kernel Version 18.2.0: Mon Nov 12 21:07:36 PST 2018; root:xnu-4903.232.2~2/RELEASE_ARM64_T8020
+12.1.1
+Darwin Kernel Version 18.2.0: Mon Nov 12 20:32:01 PST 2018; root:xnu-4903.232.2~1/RELEASE_ARM64_T8020
+12.1.2 beta
+Darwin Kernel Version 18.2.0: Sun Dec  2 20:53:08 PST 2018; root:xnu-4903.240.8~8/RELEASE_ARM64_T8015
+12.1.2
+Darwin Kernel Version 18.2.0: Mon Nov 12 20:32:01 PST 2018; root:xnu-4903.232.2~1/RELEASE_ARM64_T8020
+12.1.3 beta 2
+Darwin Kernel Version 18.2.0: Sun Dec 16 20:44:43 PST 2018; root:xnu-4903.240.10~8/RELEASE_ARM64_T8020
+12.1.3 beta 3
+Darwin Kernel Version 18.2.0: Wed Dec 19 22:27:19 PST 2018; root:xnu-4903.242.2~2/RELEASE_ARM64_T8020
+12.1.3 beta 4
+12.1.3
+Darwin Kernel Version 18.2.0: Wed Dec 19 20:28:53 PST 2018; root:xnu-4903.242.2~1/RELEASE_ARM64_T8020
+12.1.4
+12.2 beta
+Darwin Kernel Version 18.5.0: Sun Jan 13 21:01:59 PST 2019; root:xnu-4903.250.305~10/RELEASE_ARM64_T8020
+12.2 beta 2
+Darwin Kernel Version 18.5.0: Wed Jan 30 19:26:26 PST 2019; root:xnu-4903.250.319~58/RELEASE_ARM64_T8020
+12.2 beta 3
+Darwin Kernel Version 18.5.0: Sun Feb 10 20:48:56 PST 2019; root:xnu-4903.250.336.0.1~10/RELEASE_ARM64_T8020
+12.2 beta 4
+Darwin Kernel Version 18.5.0: Sun Feb 24 21:50:15 PST 2019; root:xnu-4903.250.349~13/RELEASE_ARM64_T8020
+12.2 beta 5
+Darwin Kernel Version 18.5.0: Tue Mar  5 21:34:09 PST 2019; root:xnu-4903.252.2~2/RELEASE_ARM64_T8020
+12.2 beta 6
+12.2
+Darwin Kernel Version 18.5.0: Tue Mar  5 19:52:18 PST 2019; root:xnu-4903.252.2~1/RELEASE_ARM64_T8020
+12.3 beta
+Darwin Kernel Version 18.6.0: Mon Mar 18 23:03:29 PDT 2019; root:xnu-4903.260.65.100.1~2/RELEASE_ARM64_T8015
+12.3 beta 2
+Darwin Kernel Version 18.6.0: Mon Apr  1 21:12:58 PDT 2019; root:xnu-4903.260.74.100.1~1/RELEASE_ARM64_T8020
+12.3 beta 3
+Darwin Kernel Version 18.6.0: Thu Apr 18 19:45:13 PDT 2019; root:xnu-4903.260.85.0.2~1/RELEASE_ARM64_T8020
+12.3 beta 4
+Darwin Kernel Version 18.6.0: Thu Apr 25 23:57:27 PDT 2019; root:xnu-4903.262.2~3/RELEASE_ARM64_T8015
+12.3 beta 5
+12.3 beta 6
+12.3
+Darwin Kernel Version 18.6.0: Thu Apr 25 22:14:10 PDT 2019; root:xnu-4903.262.2~2/RELEASE_ARM64_T8020
+12.3.1 (12F203)
+12.3.1 (12F8202)
+Darwin Kernel Version 18.6.0: Thu May  9 15:45:33 PDT 2019; root:xnu-4903.262.2~4/RELEASE_ARM64_T8010
+12.3.2
+Darwin Kernel Version 18.6.0: Thu Apr 25 22:14:08 PDT 2019; root:xnu-4903.262.2~2/RELEASE_ARM64_T8015
+12.4 beta
+Darwin Kernel Version 18.6.0: Tue May  7 23:38:12 PDT 2019; root:xnu-4903.270.19.100.1~3/RELEASE_ARM64_T8020
+12.4 beta 2
+12.4 beta 3
+Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8020
+12.4 beta 4
+Darwin Kernel Version 18.7.0: Wed Jun  5 21:04:51 PDT 2019; root:xnu-4903.270.37~24/RELEASE_ARM64_T8020
+12.4 beta 5
+Darwin Kernel Version 18.7.0: Fri Jun 14 21:12:14 PDT 2019; root:xnu-4903.270.38~24/RELEASE_ARM64_T8020
+12.4 beta 6
+Darwin Kernel Version 18.7.0: Tue Jun 25 22:53:57 PDT 2019; root:xnu-4903.270.47~11/RELEASE_ARM64_T8020
+12.4 beta 7
+12.4
+Darwin Kernel Version 18.7.0: Fri Jun 21 22:24:16 PDT 2019; root:xnu-4903.270.47~7/RELEASE_ARM64_T8015
+12.4.1
+Darwin Kernel Version 18.7.0: Mon Aug 19 22:24:08 PDT 2019; root:xnu-4903.272.1~1/RELEASE_ARM64_T8020
+12.4.2
+Darwin Kernel Version 18.7.0: Mon Aug 19 22:24:08 PDT 2019; root:xnu-4903.272.1~1/RELEASE_ARM64_T7000
+12.4.3
+12.4.4
+12.4.5
+12.4.6
+12.4.7
+12.4.8
+Last release for iPhone 5S, iPhone 6, iPad Air, iPad mini 2, and iPad mini 3
+13.0 beta
+Darwin Kernel Version 19.0.0: Tue May 21 03:52:25 PDT 2019; root:xnu-6041.0.0.112.1~1/RELEASE_ARM64_T8020
+13.0 beta 2
+Darwin Kernel Version 19.0.0: Sun Jun  9 18:57:16 PDT 2019; root:xnu-6110.0.0.120.8~3/RELEASE_ARM64_T8020
+13.0 beta 3
+Darwin Kernel Version 19.0.0: Thu Jun 27 20:08:29 PDT 2019; root:xnu-6153.0.13.132.4~1/RELEASE_ARM64_T8020
+13.0 beta 4
+Darwin Kernel Version 19.0.0: Tue Jul  9 00:52:55 PDT 2019; root:xnu-6153.0.59.0.2~63/RELEASE_ARM64_T8020
+13.0 beta 5
+Darwin Kernel Version 19.0.0: Sun Jul 21 19:17:20 PDT 2019; root:xnu-6153.0.98.0.2~30/RELEASE_ARM64_T8020
+13.0 beta 6
+Darwin Kernel Version 19.0.0: Tue Jul 30 23:56:43 PDT 2019; root:xnu-6153.0.103.8~3/RELEASE_ARM64_T8020
+13.0 beta 7
+Darwin Kernel Version 19.0.0: Fri Aug  9 23:13:23 PDT 2019; root:xnu-6153.0.103.11~2/RELEASE_ARM64_T8020
+13.0 beta 8
+Darwin Kernel Version 19.0.0: Thu Aug 15 21:21:27 PDT 2019; root:xnu-6153.0.103.12~3/RELEASE_ARM64_T8020
+13.0 GM
+Darwin Kernel Version 19.0.0: Mon Aug 12 20:19:35 PDT 2019; root:xnu-6153.0.103.12~1/RELEASE_ARM64_T8015
+13.0
+13.1 beta
+Darwin Kernel Version 19.0.0: Sun Aug 18 23:18:25 PDT 2019; root:xnu-6153.0.166~14/RELEASE_ARM64_T8015
+13.1 beta 2
+Darwin Kernel Version 19.0.0: Thu Aug 29 23:02:07 PDT 2019; root:xnu-6153.2.2~5/RELEASE_ARM64_T8020
+13.1 beta 3
+Darwin Kernel Version 19.0.0: Fri Sep  6 09:12:32 PDT 2019; root:xnu-6153.2.3~7/RELEASE_ARM64_T8015
+13.1 beta 4
+13.1
+Darwin Kernel Version 19.0.0: Tue Sep  3 21:52:14 PDT 2019; root:xnu-6153.2.3~2/RELEASE_ARM64_T8030
+13.1.1
+13.1.2
+13.1.3
+13.2 beta
+Darwin Kernel Version 19.0.0: Sun Sep 22 21:45:32 PDT 2019; root:xnu-6153.40.121.0.1~23/RELEASE_ARM64_T8020
+13.2 beta 2
+Darwin Kernel Version 19.0.0: Thu Oct  3 23:49:24 PDT 2019; root:xnu-6153.40.150.100.1~1/RELEASE_ARM64_T8030
+13.2 beta 3
+Darwin Kernel Version 19.0.0: Fri Oct 11 02:14:05 PDT 2019; root:xnu-6153.42.1~3/RELEASE_ARM64_T8010
+13.2 beta 4
+13.2
+Darwin Kernel Version 19.0.0: Wed Oct  9 22:42:11 PDT 2019; root:xnu-6153.42.1~1/RELEASE_ARM64_T8030
+13.2.2
+13.2.3
+13.3 beta
+Darwin Kernel Version 19.2.0: Thu Oct 31 02:33:36 PDT 2019; root:xnu-6153.60.58.0.1~22/RELEASE_ARM64_T8010
+13.3 beta 2
+Darwin Kernel Version 19.2.0: Wed Nov  6 02:29:57 PST 2019; root:xnu-6153.60.66~54/RELEASE_ARM64_T8030
+13.3 beta 3
+Darwin Kernel Version 19.2.0: Tue Nov 12 22:06:16 PST 2019; root:xnu-6153.60.66~63/RELEASE_ARM64_T8030
+13.3 beta 4
+13.3
+Darwin Kernel Version 19.2.0: Mon Nov  4 17:44:49 PST 2019; root:xnu-6153.60.66~39/RELEASE_ARM64_T8010
+13.3.1 beta
+Darwin Kernel Version 19.3.0: Sun Dec  8 21:03:13 PST 2019; root:xnu-6153.80.8.0.1~13/RELEASE_ARM64_T8010
+13.3.1 beta 2
+Darwin Kernel Version 19.3.0: Thu Jan  9 22:14:53 PST 2020; root:xnu-6153.82.3~2/RELEASE_ARM64_T8010
+13.3.1 beta 3
+13.3.1
+Darwin Kernel Version 19.3.0: Thu Jan  9 21:10:55 PST 2020; root:xnu-6153.82.3~1/RELEASE_ARM64_T8010
+13.4 beta
+Darwin Kernel Version 19.4.0: Wed Jan 29 20:44:26 PST 2020; root:xnu-6153.100.178.100.2~4/RELEASE_ARM64_T8010
+13.4 beta 2
+Darwin Kernel Version 19.4.0: Tue Feb 11 21:22:30 PST 2020; root:xnu-6153.100.196~52/RELEASE_ARM64_T8010
+13.4 beta 3
+Darwin Kernel Version 19.4.0: Thu Feb 20 00:09:27 PST 2020; root:xnu-6153.102.2~1/RELEASE_ARM64_T8010
+13.4 beta 4
+Darwin Kernel Version 19.4.0: Wed Feb 26 00:59:07 PST 2020; root:xnu-6153.102.3~5/RELEASE_ARM64_T8010
+13.4 beta 5
+Darwin Kernel Version 19.4.0: Wed Feb 26 00:59:07 PST 2020; root:xnu-6153.102.3~5/RELEASE_ARM64_T8010
+13.4 beta 6
+Darwin Kernel Version 19.4.0: Mon Feb 24 22:04:12 PST 2020; root:xnu-6153.102.3~1/RELEASE_ARM64_T8010
+13.4
+13.4.1
+13.4.5 beta
+Darwin Kernel Version 19.5.0: Tue Mar 24 15:35:36 PDT 2020; root:xnu-6153.120.15~29/RELEASE_ARM64_T8010
+13.4.5 beta 2
+Darwin Kernel Version 19.5.0: Sun Apr  5 22:05:12 PDT 2020; root:xnu-6153.120.27~19/RELEASE_ARM64_T8027
+13.5 beta 3
+Darwin Kernel Version 19.5.0: Sun Apr 19 23:40:03 PDT 2020; root:xnu-6153.120.31~15/RELEASE_ARM64_T8010
+13.5 beta 4
+Darwin Kernel Version 19.5.0: Wed Apr 29 21:33:50 PDT 2020; root:xnu-6153.122.1~2/RELEASE_ARM64_T8027
+13.5 GM
+Darwin Kernel Version 19.5.0: Tue Apr 28 22:25:26 PDT 2020; root:xnu-6153.122.1~1/RELEASE_ARM64_T8010
+13.5
+13.5.1
+Darwin Kernel Version 19.5.0: Tue May 26 20:56:04 PDT 2020; root:xnu-6153.122.2~1/RELEASE_ARM64_S8000
+13.5.5 beta
+Darwin Kernel Version 19.6.0: Sun May 17 23:49:11 PDT 2020; root:xnu-6153.140.21~11/RELEASE_ARM64_T8010
+13.6 beta 2
+Darwin Kernel Version 19.6.0: Tue Jun  2 23:09:45 PDT 2020; root:xnu-6153.140.27.0.1~17/RELEASE_ARM64_T8010
+13.6 beta 3
+Darwin Kernel Version 19.6.0: Sun Jun 21 23:18:41 PDT 2020; root:xnu-6153.142.1~3/RELEASE_ARM64_T8010
+13.6 GM
+Darwin Kernel Version 19.6.0: Sat Jun 27 04:36:25 PDT 2020; root:xnu-6153.142.1~4/RELEASE_ARM64_T8030
+13.6
+13.6.1
+13.7 beta
+Darwin Kernel Version 19.6.0: Sat Jul 11 00:58:54 PDT 2020; root:xnu-6153.142.1~8/RELEASE_ARM64_T8010
+14.0 beta
+Darwin Kernel Version 20.0.0: Thu Jun 11 21:44:34 PDT 2020; root:xnu-7090.0.0.112.4~2/RELEASE_ARM64_T8010
+14.0 beta 2
+Darwin Kernel Version 20.0.0: Tue Jun 30 22:45:10 PDT 2020; root:xnu-7147.0.0.122.1~2/RELEASE_ARM64_T8015
+14.0 beta 3
+Darwin Kernel Version 20.0.0: Mon Jul 13 22:51:19 PDT 2020; root:xnu-7168.0.0.132.1~1/RELEASE_ARM64_T8030
+14.0 beta 4
+Darwin Kernel Version 20.0.0: Mon Jul 27 02:44:58 PDT 2020; root:xnu-7195.0.8.0.1~21/RELEASE_ARM64_T8015
+14.0 beta 5
+Darwin Kernel Version 20.0.0: Wed Aug 12 22:56:55 PDT 2020; root:xnu-7195.0.33~64/RELEASE_ARM64_T8010
+14.0 beta 6
+Darwin Kernel Version 20.0.0: Mon Aug 17 09:09:19 PDT 2020; root:xnu-7195.0.41~15/RELEASE_ARM64_S8000
+14.0 beta 7
+Darwin Kernel Version 20.0.0: Wed Aug 26 23:29:06 PDT 2020; root:xnu-7195.0.46~3/RELEASE_ARM64_T8015
+14.0 beta 8
+14.0 GM
+Darwin Kernel Version 20.0.0: Fri Aug 28 23:05:58 PDT 2020; root:xnu-7195.0.46~9/RELEASE_ARM64_S8000
+14.0
+14.0.1
+14.1 GM
+Darwin Kernel Version 20.0.0: Wed Sep 30 03:24:26 PDT 2020; root:xnu-7195.0.46~41/RELEASE_ARM64_T8101
+14.1
+14.2 beta
+Darwin Kernel Version 20.1.0: Fri Sep 11 19:19:05 PDT 2020; root:xnu-7195.40.84.172.1~2/RELEASE_ARM64_T8015
+14.2 beta 2
+Darwin Kernel Version 20.1.0: Mon Sep 21 00:08:44 PDT 2020; root:xnu-7195.40.113.0.2~22/RELEASE_ARM64_T8015
+14.2 beta 3
+Darwin Kernel Version 20.1.0: Wed Oct  7 00:36:56 PDT 2020; root:xnu-7195.40.141~32/RELEASE_ARM64_T8015
+14.2 beta 4
+Darwin Kernel Version 20.1.0: Tue Oct 13 09:52:10 PDT 2020; root:xnu-7195.40.143~17/RELEASE_ARM64_T8015
+14.2 RC
+Darwin Kernel Version 20.1.0: Thu Oct 22 12:48:34 PDT 2020; root:xnu-7195.42.1~1/RELEASE_ARM64_T8101
+Kernel Image
+The kernel image base is randomized by the boot loader (iBoot). This is done by creating random data, doing a SHA-1 hash of it and then using a byte from the SHA-1 hash for the kernel slide. The slide is calculated with this formula:
+base=0x01000000+(slide_byte*0x00200000)
+If the slide is 0, the static offset of 0x21000000 is used instead.
+The adjusted base is passed to the kernel in the boot arguments structure at offset 0x04, which is equivalent to gBootArgs->virtBase.
+Kernel Map
+The kernel map is used for kernel allocations of all types (kalloc(), kernel_memory_allocate(), etc.) and spans all of kernel space (0x80000000-0xFFFEFFFF). The kernel based maps are submaps of the kernel_map, for example zone_map, ipc_kernel_map, etc.
+The strategy is to randomize the base of the kernel_map. A random 9-bit value is generated right after kmem_init() which establishes kernel_map, is multiplied by the page size. The resulting value is used as the size for the initial kernel_map allocation. Future kernel_map (and submap) allocations are pushed forward by a random amount. The allocation is silently removed after the first garbage collection and reused. This behaviour can be overridden with the "kmapoff" boot parameter.
+Attacks
+This section may contain an excessive amount of intricate detail that may interest only a particular audience. Please help by spinning off or relocating any relevant information, and removing excessive detail that may be against Wikipedia's inclusion policy. (December 2020) (Learn how and when to remove this template message)
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2020) (Learn how and when to remove this template message)
+Kext_request() allows applications to request information about kernel modules, divided into active and passive operations. Active operations (load, unload, start, stop, etc.) require root access. iOS removes the ability to load kernel extensions. Passive operations were originally (before iOS 6) unrestricted and allowed unprivileged users to query kernel module base addresses. iOS6 inadvertently removed some limitations; only the load address requests are disallowed. So attackers can use kKextRequestPredicateGetLoaded to get load addresses and mach-o header dumps. The load address and mach-o segment headers are obscured to hide the ASLR slide, but mach-o section headers are not. This reveals the virtual addresses of loaded kernel sections.
+This information leak has been closed with iOS 6.0.1.
+Versions codenames
+Main article: List of Apple codenames  iOS
+Internally, iOS identifies each version by a codename, often used internally only, normally to maintain secrecy of the project. For example, the codename for iOS 14 is Azul.
+Jailbreaking
+Main article: iOS jailbreaking
+Since its initial release, iOS has been subject to a variety of different hacks centered around adding functionality not allowed by Apple.[190] Prior to the 2008 debut of Apple's native iOS App Store, the primary motive for jailbreaking was to bypass Apple's purchase mechanism for installing the App Store's native applications.[191] Apple claimed that it would not release iOS software updates designed specifically to break these tools (other than applications that perform SIM unlocking); however, with each subsequent iOS update, previously un-patched jailbreak exploits are usually patched.[192]
+When a device is booting, it loads Apple's own kernel initially, so a jailbroken device must be exploited and have the kernel patched each time it is booted up.
+There are different types of jailbreak. An untethered jailbreak uses exploits that are powerful enough to allow the user to turn their device off and back on at will, with the device starting up completely, and the kernel will be patched without the help of a computer   in other words, it will be jailbroken even after each reboot.
+However, some jailbreaks are tethered. A tethered jailbreak is only able to temporarily jailbreak the device during a single boot. If the user turns the device off and then boots it back up without the help of a jailbreak tool, the device will no longer be running a patched kernel, and it may get stuck in a partially started state, such as Recovery Mode. In order for the device to start completely and with a patched kernel, it must be "re-jailbroken" with a computer (using the "boot tethered" feature of a tool) each time it is turned on. All changes to the files on the device (such as installed package files or edited system files) will persist between reboots, including changes that can only function if the device is jailbroken (such as installed package files).
+In more recent years, two other solutions have been created   semi-tethered and semi-untethered.
+A semi-tethered solution is one where the device is able to start up on its own, but it will no longer have a patched kernel, and therefore will not be able to run modified code. It will, however, still be usable for normal functions, just like stock iOS. To start with a patched kernel, the user must start the device with the help of the jailbreak tool.
+A semi-untethered jailbreak gives the ability to start the device on its own. On first boot, the device will not be running a patched kernel. However, rather than having to run a tool from a computer to apply the kernel patches, the user is able to re-jailbreak their device with the help of an app (usually sideloaded using Cydia Impactor) running on their device. In the case of the iOS 9.2-9.3.3 and 64-bit 10.x jailbreaks, Safari-based exploits were available, thereby meaning websites could be used to rejailbreak.
+In more detail: Each iOS device has a bootchain that tries to make sure only trusted/signed code is loaded. A device with a tethered jailbreak is able to boot up with the help of a jailbreaking tool because the tool executes exploits via USB that bypass parts of that "chain of trust", bootstrapping to a pwned (no signature check) iBSS, iBEC, or iBoot to finish the boot process.
+Since the arrival of Apple's native iOS App Store, and along with it third-party applications, the general motives for jailbreaking have changed.[193] People jailbreak for many different reasons, including gaining filesystem access, installing custom device themes, and modifying SpringBoard. An additional motivation is that it may enable the installation of pirated apps. On some devices, jailbreaking also makes it possible to install alternative operating systems, such as Android and the Linux kernel. Primarily, users jailbreak their devices because of the limitations of iOS. Depending on the method used, the effects of jailbreaking may be permanent or temporary.[194]
+In 2010, the Electronic Frontier Foundation (EFF) successfully convinced the U.S. Copyright Office to allow an exemption to the general prohibition on circumvention of copyright protection systems under the Digital Millennium Copyright Act (DMCA). The exemption allows jailbreaking of iPhones for the sole purpose of allowing legally obtained applications to be added to the iPhone.[195] The exemption does not affect the contractual relations between Apple and an iPhone owner, for example, jailbreaking voiding the iPhone warranty; however, it is solely based on Apple's discretion on whether they will fix jailbroken devices in the event that they need to be repaired. At the same time, the Copyright Office exempted unlocking an iPhone from DMCA's anticircumvention prohibitions.[196] Unlocking an iPhone allows the iPhone to be used with any wireless carrier using the same GSM or CDMA technology for which the particular phone model was designed to operate.[197]
+Unlocking
+Main article: SIM lock
+Initially most wireless carriers in the US did not allow iPhone owners to unlock it for use with other carriers. However AT&T allowed iPhone owners who had satisfied contract requirements to unlock their iPhone.[198] Instructions to unlock the device are available from Apple,[199] but it is ultimately at the sole discretion of the carrier to authorize unlocking the device.[200] This allows the use of a carrier-sourced iPhone on other networks. Modern versions of iOS and the iPhone fully support LTE across multiple carriers wherever the phone was purchased.[201] Programs to remove SIM lock restrictions are available, but are not supported by Apple, and most often not a permanent unlock   a soft unlock,[202] which modifies the iPhone so that the baseband will accept the SIM card of any GSM carrier. SIM unlocking is not jailbreaking, but a jailbreak is also required for these unofficial software unlocks.
+The legality of software unlocking varies in each country; for example, in the US, there is a DMCA exemption for unofficial software unlocking of devices purchased before January 26, 2013.[203]
+Digital rights management
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "IOS" news  newspapers  books  scholar  JSTOR (November 2022) (Learn how and when to remove this template message)
+The closed and proprietary nature of iOS has garnered criticism, particularly by digital rights advocates such as the Electronic Frontier Foundation, computer engineer and activist Brewster Kahle, Internet-law specialist Jonathan Zittrain, and the Free Software Foundation who protested the iPad's introductory event and have targeted the iPad with their "Defective by Design" campaign.[204][205][206][207] Competitor Microsoft, via a PR spokesman, criticized Apple's control over its platform.[208]
+At issue are restrictions imposed by the design of iOS, namely digital rights management (DRM) intended to lock purchased media to Apple's platform, the development model (requiring a yearly subscription to distribute apps developed for the iOS), the centralized approval process for apps, as well as Apple's general control and lockdown of the platform itself. Particularly at issue is the ability for Apple to remotely disable or delete apps at will.
+Some in the tech community have expressed concern that the locked-down iOS represents a growing trend in Apple's approach to computing, particularly Apple's shift away from machines that hobbyists can "tinker with" and note the potential for such restrictions to stifle software innovation.[209][210]
+Former Facebook developer Joe Hewitt protested against Apple's control over its hardware as a "horrible precedent" but praised iOS's sandboxing of apps.[211]
+Security and privacy
+See also: Mobile security, WARRIOR PRIDE, and Pegasus (spyware)iOS utilizes many security features in both hardware and software. Below are summaries of the most prominent features.
+Secure Boot
+Before fully booting into iOS, there is low-level code that runs from the Boot ROM. Its task is to verify that the Low-Level Bootloader is signed by the Apple Root CA public key before running it. This process is to ensure that no malicious or otherwise unauthorized software can be run on an iOS device. After the Low-Level Bootloader finishes its tasks, it runs the higher level bootloader, known as iBoot. If all goes well, iBoot will then proceed to load the iOS kernel as well as the rest of the operating system.[212]
+Secure Enclave
+The Secure Enclave is a coprocessor found in iOS devices part of the A7 and newer chips used for data protection, Touch ID and Face ID. The purpose of the Secure Enclave is to handle keys and other info such as biometrics that is sensitive enough to not be handled by the Application Processor (AP). It is isolated with a hardware filter so the AP cannot access it. It shares RAM with the AP, but its portion of the RAM (known as TZ0) is encrypted. The secure enclave itself is a flashable 4 MB AKF processor core called the secure enclave processor (SEP) as documented in Apple Patent Application 20130308838. The technology used is similar to ARM's TrustZone/SecurCore but contains proprietary code for Apple KF cores in general and SEP specifically. It is also responsible for generating the UID key on A9 or newer chips that protects user data at rest.[citation needed]
+It has its own secure boot process to ensure that it is completely secure. A hardware random number generator is also included as a part of this coprocessor. Each device's Secure Enclave has a unique ID that is given to it when it is made and cannot be changed. This identifier is used to create a temporary key that encrypts the memory in this portion of the system. The Secure Enclave also contains an anti-replay counter to prevent brute force attacks.[212]
+The SEP is located in the devicetree under IODeviceTree:/arm-io/sep and managed by the AppleSEPManager driver.[213]
+In 2020, security flaws in the SEP were discovered, causing concerns about Apple devices such as iPhones.[214]
+Face ID
+Main article: Face ID
+Face ID is a face scanner that is embedded in the notch on iPhone models X, XS, XS Max, XR, 11, 11 Pro, 11 Pro Max, 12, 12 Mini, 12 Pro, 12 Pro Max, 13, 13 Mini, 13 Pro, 13 Pro Max, 14, and the 14 Plus. On the iPhone 14 Pro and the 14 Pro Max, it is embedded in the Dynamic Island.[215] It can be used to unlock the device, make purchases, and log into applications among other functions. When used, Face ID only temporarily stores the face data in encrypted memory in the Secure Enclave, as described above. There is no way for the device's main processor or any other part of the system to access the raw data that is obtained from the Face ID sensor.[212]
+Passcode
+iOS devices can have a passcode that is used to unlock the device, make changes to system settings, and encrypt the device's contents. Until recently, these were typically four numerical digits long. However, since unlocking the devices with a fingerprint by using Touch ID has become more widespread, six-digit passcodes are now the default on iOS with the option to switch back to four or use an alphanumeric passcode.[212]
+Touch ID
+Main article: Touch ID
+Touch ID is a fingerprint scanner that is embedded in the home button and can be used to unlock the device, make purchases, and log into applications among other functions. When used, Touch ID only temporarily stores the fingerprint data in encrypted memory in the Secure Enclave, as described above. Like Face ID, there is no way for the device's main processor or any other part of the system to access the raw fingerprint data that is obtained from the Touch ID sensor.[212]
+Address Space Layout Randomization
+Main article: Address Space Layout Randomization
+Address Space Layout Randomization (ASLR) is a low-level technique of preventing memory corruption attacks such as buffer overflows. It involves placing data in randomly selected locations in memory in order to make it more difficult to predict ways to corrupt the system and create exploits. ASLR makes app bugs more likely to crash the app than to silently overwrite memory, regardless of whether the behavior is accidental or malicious.[216]
+Non-executable memory
+iOS utilizes the ARM architecture's Execute Never (XN) feature. This allows some portions of the memory to be marked as non-executable, working alongside ASLR to prevent buffer overflow attacks including return-to-libc attacks.[212]
+Encryption
+As mentioned above, one use of encryption in iOS is in the memory of the Secure Enclave. When a passcode is utilized on an iOS device, the contents of the device are encrypted. This is done by using a hardware AES 256 implementation that is very efficient because it is placed directly between the flash storage and RAM.[212]
+iOS, in combination with its specific hardware, uses crypto-shredding when erasing all content and settings by obliterating all the keys in 'effaceable storage'. This renders all user data on the device cryptographically inaccessible.[217]
+Keychain
+See also: iCloud  iCloud Keychain
+The iOS keychain is a database of login information that can be shared across apps written by the same person or organization.[212] This service is often used for storing passwords for web applications.[218]
+App security
+Third-party applications such as those distributed through the App Store must be code signed with an Apple-issued certificate. In principle, this continues the chain of trust all the way from the Secure Boot process as mentioned above to the actions of the applications installed on the device by users. Applications are also sandboxed, meaning that they can only modify the data within their individual home directory unless explicitly given permission to do otherwise. For example, they cannot access data owned by other user-installed applications on the device. There is a very extensive set of privacy controls contained within iOS with options to control apps' ability to access a wide variety of permissions such as the camera, contacts, background app refresh, cellular data, and access to other data and services. Most of the code in iOS, including third-party applications, runs as the "mobile" user which does not have root privileges. This ensures that system files and other iOS system resources remain hidden and inaccessible to user-installed applications.[212]
+App Store bypasses
+Companies can apply to Apple for enterprise developer certificates. These can be used to sign apps such that iOS will install them directly (sometimes called "sideloading"), without the app needing to be distributed via the App Store.[219] The terms under which they are granted make clear that they are only to be used for companies who wish to distribute apps directly to their employees.[219]
+Circa January February 2019, it emerged that a number of software developers were misusing enterprise developer certificates to distribute software directly to non-employees, thereby bypassing the App Store. Facebook was found to be abusing an Apple enterprise developer certificate to distribute an application to underage users that would give Facebook access to all private data on their devices.[220][221][222] Google was abusing an Apple enterprise developer certificate to distribute an app to adults to collect data from their devices, including unencrypted data belonging to third parties.[223][219] TutuApp, Panda Helper, AppValley, and TweakBox have all been abusing enterprise developer certificates to distribute apps that offer pirated software.[224]
+Network security
+iOS supports TLS with both low- and high-level APIs for developers. By default, the App Transport Security framework requires that servers use at least TLS 1.2. However, developers are free to override this framework and utilize their own methods of communicating over networks. When Wi-Fi is enabled, iOS uses a randomized MAC address so that devices cannot be tracked by anyone sniffing wireless traffic.[212]
+Two-factor authentication
+Main article: Multi-factor authentication
+Two-factor authentication is an option in iOS to ensure that even if an unauthorized person knows an Apple ID and password combination, they cannot gain access to the account. It works by requiring not only the Apple ID and password, but also a verification code that is sent to an iDevice or mobile phone number that is already known to be trusted.[212] If an unauthorized user attempts to sign in using another user's Apple ID, the owner of the Apple ID receives a notification that allows them to deny access to the unrecognized device.[225]
+Hardened memory allocation
+iOS features a hardened memory allocator known as kalloc_type that was introduced in iOS 15. Since the XNU kernel is primarily written in memory unsafe languages such as C and C++,[226] kalloc_type is designed to mitigate the large amount of vulnerabilities that result from the use of these languages in the kernel. In order to achieve this, kalloc_type implements mitigations such as type isolation in order to prevent type confusion and buffer overflow vulnerabilities. Ultimately, the prevention of privilege escalation is intended.[227]
+Reception
+Market share
+Main article: Usage share of operating systems
+This section needs to be updated. Please help update this article to reflect recent events or newly available information. (May 2022)
+iOS is the second most popular mobile operating system in the world, after Android. Sales of iPads in recent years are also behind Android, while, by web use (a proxy for all use), iPads (using iOS) are still the most popular.[228]
+By the middle of 2012, there were 410 million devices activated.[229] At WWDC 2014, Tim Cook said 800 million devices had been sold by June 2014.[230]
+During Apple's quarterly earnings call in January 2015, the company announced that they had sold over one billion iOS devices since 2007.[231][232]
+By late 2011, iOS accounted for 60% of the market share for smartphones and tablets.[233] By the end of 2014, iOS accounted for 14.8% of the smartphone market[234] and 27.6% of the tablet and two-in-one market.[235] In February 2015, StatCounter reported iOS was used on 23.18% of smartphones and 66.25% of tablets worldwide, measured by internet usage instead of sales.[236]
+In the third quarter of 2015, research from Strategy Analytics showed that iOS adoption of the worldwide smartphone market was at a record low 12.1%, attributed to lackluster performance in China and Africa. Android accounted for 87.5% of the market, with Windows Phone and BlackBerry accounting for the rest.[237][238]
+Devices
+Main article: List of iOS devices
+Timeline of iOS devices: iPhone, iPod Touch, iPad, and Apple TV (2G) models vte
+Sources: Apple Inc. Newsroom Archive,[239] Mactracker Apple Inc. model database[240]
+See also: Timeline of Apple Inc. products, iOS version history, and iPod  Timeline of iPod models
+See also
+Comparison of mobile operating systems
+Android (operating system)
+ Computer programming portal
+ Telephones portal
+References
+^ Clover, Juli (April 7, 2023). "Apple Releases iOS 16.4.1 With Fixes For Siri Response Issues and Other Bugs". MacRumors. Retrieved April 7, 2023.
+^ "iOS 16.4.1 (20E252) - Releases - Apple Developer". Apple Developer. Apple Inc. April 7, 2023. Retrieved April 9, 2023.
+^ Clover, Juli (April 11, 2023). "Apple Seeds Second Betas of iOS 16.5 and iPadOS 16.5". MacRumors. Retrieved April 13, 2023.
+^ "iOS 16.5 beta 2 (20F5039e) - Releases - Apple Developer". Apple Developer. Apple Inc. April 11, 2023. Retrieved April 13, 2023.
+^ "Apple   iPad Pro   Specs". Apple. Archived from the original on January 4, 2019. Retrieved January 4, 2019.
+^ "Apple   iPad mini 4   Specs". Apple. Archived from the original on October 24, 2015. Retrieved October 24, 2015.
+^ "Apple   iPad Air 2   Technical Specifications". Apple. Archived from the original on October 26, 2015. Retrieved October 24, 2015.
+^ "Apple   iPhone XS   Technical Specifications". Apple. Archived from the original on January 4, 2019. Retrieved January 4, 2019.
+^ Tim Brookes (October 17, 2019). "Where Are iTunes Features in macOS Catalina?". How-To Geek. Archived from the original on October 27, 2019. Retrieved October 27, 2019.
+^ "iOS: A visual history". The Verge. December 13, 2011. Archived from the original on April 12, 2017. Retrieved July 24, 2022.
+^ "The music lives on". Apple Newsroom. Archived from the original on May 11, 2022. Retrieved June 28, 2022.
+^ Esp sito, Filipe (April 13, 2020). "HomePod now runs on tvOS, here's what that could mean". 9to5Mac. Archived from the original on April 14, 2020. Retrieved December 22, 2022.
+^ "Apple Open Source". Archived from the original on September 24, 2020. Retrieved September 25, 2020.
+^ "Charting The Explosive Growth of the App Store". Lifewire. Archived from the original on April 7, 2022. Retrieved October 15, 2018.
+^ "iOS 16 Preview". Apple. Archived from the original on September 12, 2022. Retrieved September 12, 2022.
+^ Satariano, Adam; Burrows, Peter; Stone, Brad (October 14, 2011). "Scott Forstall, the Sorcerer's Apprentice at Apple". Bloomberg Businessweek. Bloomberg L.P. Archived from the original on April 7, 2017. Retrieved April 1, 2017.
+^ Kim, Arnold (October 12, 2011). "Scott Forstall's Personality, Origins of iOS, and Lost iPhone 4 Prototype". MacRumors. Archived from the original on April 2, 2017. Retrieved April 1, 2017.
+^ Thomas, Owen (January 9, 2007). "Apple: Hello, iPhone". CNN Money. CNN. Archived from the original on April 2, 2017. Retrieved April 1, 2017.
+^ Eadicicco, Lisa (January 9, 2017). "Watch Steve Jobs Unveil the First iPhone 10 Years Ago Today". Time. Archived from the original on April 2, 2017. Retrieved April 1, 2017.
+^ Honan, Mathew (January 9, 2007). "Apple unveils iPhone". Macworld. International Data Group. Archived from the original on January 26, 2017. Retrieved April 1, 2017.
+^ Block, Ryan (January 9, 2007). "Live from Macworld 2007: Steve Jobs keynote". Engadget. AOL. Archived from the original on March 24, 2017. Retrieved April 1, 2017.
+^ Wright, Mic (September 9, 2015). "The original iPhone announcement annotated: Steve Jobs' genius meets Genius". The Next Web. Archived from the original on April 1, 2017. Retrieved April 1, 2017.
+^ "iOS: A visual history". The Verge. Vox Media. September 16, 2013. Archived from the original on April 12, 2017. Retrieved April 1, 2017.
+^ Gonsalves, Antone (October 11, 2007). "Apple Launches iPhone Web Apps Directory". InformationWeek. UBM plc. Archived from the original on February 20, 2017. Retrieved April 1, 2017.
+^ "Jobs' original vision for the iPhone: No third-party native apps". 9to5Mac. October 21, 2011. Archived from the original on April 1, 2017. Retrieved April 1, 2017.
+^ Fletcher, Nik (October 17, 2007). "Apple: "we plan to have an iPhone SDK in developers' hands in February"". Engadget. AOL. Archived from the original on April 2, 2017. Retrieved April 1, 2017.
+^ Eran Dilger, Daniel (March 7, 2017). "Nine Years of Apple's iOS SDK generated $60 billion, 1.4 million jobs". AppleInsider. Archived from the original on April 2, 2017. Retrieved April 1, 2017.
+^ Elmer-DeWitt, Philip (October 17, 2007). "Steve Jobs: Apple Will Open iPhone to 3rd Party Apps in February". Fortune. Archived from the original on April 2, 2017. Retrieved April 1, 2017.
+^ Block, Ryan (March 6, 2008). "Live from Apple's iPhone SDK press conference". Engadget. AOL. Archived from the original on January 27, 2017. Retrieved April 1, 2017.
+^ Dalrymple, Jim; Snell, Jason (February 27, 2008). "Apple: iPhone SDK, enterprise announcement next week". Macworld. International Data Group. Archived from the original on April 2, 2017. Retrieved April 1, 2017.
+^ Ricker, Thomas (July 10, 2008). "Jobs: App Store launching with 500 iPhone applications, 25% free". Engadget. AOL. Archived from the original on March 30, 2017. Retrieved April 1, 2017.
+^ "App Store Downloads Top 100 Million Worldwide". Apple Press Info. Apple Inc. September 9, 2008. Archived from the original on April 1, 2017. Retrieved April 1, 2017.
+^ Myslewski, Rik (January 16, 2009). "iPhone App Store breezes past 500 million downloads". The Register. Situation Publishing. Archived from the original on May 5, 2017. Retrieved April 1, 2017.
+^ Siegler, MG (June 8, 2009). "State Of The iPhone Ecosystem: 40 Million Devices and 50,000 Apps". TechCrunch. AOL. Archived from the original on June 10, 2009. Retrieved April 1, 2017.
+^ Moren, Dan (November 4, 2009). "App Store officially passes 100,000 app mark". Macworld. International Data Group. Archived from the original on March 30, 2017. Retrieved March 29, 2017.
+^ Frommer, Dan (November 4, 2009). "iPhone App Store Passes 100,000 Apps". Business Insider. Axel Springer SE. Archived from the original on March 30, 2017. Retrieved March 29, 2017.
+^ Brian, Matt (August 28, 2010). "Apple's App Store Now Features 250,000 Apps". The Next Web. Archived from the original on March 29, 2017. Retrieved March 29, 2017.
+^ Elmer-DeWitt, Philip (August 28, 2010). "Apple App Store: 250,000 and counting". Fortune. Archived from the original on March 30, 2017. Retrieved March 29, 2017.
+^ Crook, Jordan (July 24, 2012). "Apple App Store Hits 650,000 Apps: 250,000 Designed For iPad, $5.5B Paid Out To Devs". TechCrunch. AOL. Archived from the original on March 30, 2017. Retrieved March 29, 2017.
+^ Ingraham, Nathan (October 22, 2013). "Apple announces 1 million apps in the App Store, more than 1 billion songs played on iTunes radio". The Verge. Vox Media. Archived from the original on May 12, 2017. Retrieved March 29, 2017.
+^ Fiegerman, Seth (October 22, 2013). "Apple's App Store Tops 1 Million Apps". Mashable. Archived from the original on March 30, 2017. Retrieved March 29, 2017.
+^ a b Golson, Jordan (June 13, 2016). "Apple's App Store now has over 2 million apps". The Verge. Vox Media. Archived from the original on February 10, 2017. Retrieved March 29, 2017.
+^ Beck, Kellen (June 13, 2016). "Apple's App Store now has over 2 million apps". Mashable. Archived from the original on March 30, 2017. Retrieved March 29, 2017.
+^ Carson, Erin (June 13, 2016). "Apple by the numbers: 2 million apps, 15 million Apple Music subscribers". CNET. CBS Interactive. Archived from the original on March 30, 2017. Retrieved March 29, 2017.
+^ Goode, Lauren (January 5, 2017). "Apple's App Store just had the most successful month of sales ever". The Verge. Vox Media. Archived from the original on January 28, 2017. Retrieved March 29, 2017.
+^ Dignan, Larry (January 5, 2017). "Apple's App Store 2016 revenue tops $28 billion mark, developers net $20 billion". ZDNet. CBS Interactive. Archived from the original on March 30, 2017. Retrieved March 29, 2017.
+^ Kastrenakes, Jacob (March 21, 2016). "There are now 1 million iPad apps". The Verge. Vox Media. Archived from the original on March 30, 2017. Retrieved April 1, 2017.
+^ Perez, Sarah (August 10, 2016). "App Store to reach 5 million apps by 2020, with games leading the way". TechCrunch. AOL. Archived from the original on March 30, 2017. Retrieved March 29, 2017.
+^ Bangeman, Eric (September 17, 2007). "The iPod meets the iPhone: a review of the iPod Touch". Ars Technica. Archived from the original on June 18, 2016. Retrieved June 21, 2017.
+^ Rose, Michael (January 27, 2013). "January 27, 2010: Apple announces the iPad". Engadget. AOL. Archived from the original on July 16, 2018. Retrieved April 18, 2017.
+^ Foresman, Chris (January 27, 2010). "Apple announces the iPad". Ars Technica. Archived from the original on April 19, 2017. Retrieved April 18, 2017.
+^ "Apple Launches iPad". Apple Press Info. Apple Inc. January 27, 2010. Archived from the original on July 3, 2011. Retrieved April 18, 2017.
+^ "Apple Tablet Media Event Today: "Come See Our Latest Creation"". MacRumors. January 27, 2010. Archived from the original on September 20, 2020. Retrieved September 4, 2020.
+^ Tony Bradley (January 29, 2010). "AT&T Beefing Up Network for iPad and iPhone". PC World. Archived from the original on February 1, 2010. Retrieved January 29, 2010.
+^ Patel, N. (June 7, 2010). "iPhone OS 4 renamed iOS 4, launching June 21 with 1500 new features". Engadget. Archived from the original on May 23, 2022. Retrieved June 25, 2022.
+^ Chartier, David (June 7, 2010). "iPhone OS gets new name, video calling". Macworld. Archived from the original on June 22, 2022. Retrieved June 25, 2022.
+^ Tartakoff, Joseph (June 7, 2010). "Apple Avoids iPhone-Like Trademark Battle Thanks To Cisco, FaceTime Deals". paidContent. Archived from the original on May 11, 2011. Retrieved February 2, 2011.
+^ Garun, Natt (September 9, 2014). "Everything Apple announced at its September 2014 keynote". The Next Web. Archived from the original on April 3, 2021. Retrieved March 23, 2017.
+^ Savov, Vlad (September 9, 2014). "Apple Watch announced: available for $349 early next year". The Verge. Archived from the original on September 9, 2014. Retrieved March 23, 2017.
+^ Machkovech, Sam (March 9, 2015). "Apple Watch starts at $349, launching April 24". Ars Technica. Archived from the original on March 24, 2017. Retrieved March 23, 2017.
+^ Gibbs, Samuel; Hern, Alex (March 9, 2015). "Apple Watch: available 24 April for between $349 and $17,000". The Guardian. Archived from the original on April 16, 2017. Retrieved March 23, 2017.
+^ Kastrenakes, Jacob (March 9, 2015). "Apple Watch release date is April 24th, with pricing from $349 to over $10,000". The Verge. Archived from the original on October 11, 2017. Retrieved March 23, 2017.
+^ Hamburger, Ellis (September 9, 2014). "Activity and Workout apps for Apple Watch track your moves 24/7". The Verge. Retrieved April 13, 2023.
+^ Juli Clover (October 5, 2016). "Apple's First iOS Developer Academy Opens October 6 at University of Naples". MacRumors. Archived from the original on December 23, 2016. Retrieved December 22, 2016.
+^ Mike Wuerthele (October 5, 2016). "Apple's first European iOS Developer Academy opening on Thursday in Naples, Italy". AppleInsider. Archived from the original on December 21, 2016. Retrieved December 22, 2016.
+^ "Chi   entrato, chi   scappato e cosa c'  dentro alla iOS Developer Academy di Napoli". Wired (in Italian). October 7, 2016. Archived from the original on November 8, 2019. Retrieved August 12, 2020.
+^ "Dopo Apple in arrivo a Napoli altri big dell'hi-tech". Il Sole 24 ORE (in Italian). October 18, 2019. Archived from the original on August 15, 2020. Retrieved August 12, 2020.
+^ "iOS Developer Academy aprir  a Napoli | In Ateneo". University of Naples Federico II. Archived from the original on April 21, 2021. Retrieved August 12, 2020.
+^ "Developer Academy | Universit  Federico II". University of Naples Federico II. Archived from the original on August 10, 2020. Retrieved August 12, 2020.
+^ "Apple Developer Academy di Napoli, al via le nuove iscrizioni". lastampa.it (in Italian). May 15, 2019. Archived from the original on December 19, 2019. Retrieved August 12, 2020.
+^ "Apple unveils iPadOS, adding features specifically to iPad". AppleInsider. Archived from the original on July 13, 2019. Retrieved August 11, 2020.
+^ "Interface Essentials   iOS   Human Interface Guidelines   Apple Developer". developer.apple.com. Archived from the original on February 10, 2022. Retrieved August 11, 2020.
+^ "Adaptivity and Layout   Visual Design   iOS   Human Interface Guidelines   Apple Developer". developer.apple.com. Archived from the original on February 10, 2022. Retrieved August 11, 2020.
+^ "Widgets   System Capabilities   iOS   Human Interface Guidelines   Apple Developer". developer.apple.com. Archived from the original on August 9, 2020. Retrieved August 11, 2020.
+^ "Access and customize Control Center on your iPhone and iPod Touch". Apple Support. Archived from the original on October 2, 2017. Retrieved August 11, 2020.
+^ "Use notifications on your iPhone, iPad, and iPod Touch". Apple Support. Archived from the original on August 19, 2014. Retrieved August 11, 2020.
+^ "How to find your notifications and respond when you're ready". iMore. December 2, 2018. Archived from the original on January 22, 2021. Retrieved March 3, 2021.
+^ Alex, Anson (October 4, 2012). "How to Take a Screenshot on the iPhone 5 and iOS 6 [Video]". AnsonAlex.com. Archived from the original on December 4, 2020. Retrieved December 31, 2020.
+^ "How to Take a Screenshot on an iPhone X and Newer Models". Digital Trends. December 1, 2020. Archived from the original on December 4, 2020. Retrieved December 31, 2020.
+^ "How Functional Animation Helps Improve User Experience". Smashing Magazine. January 11, 2017. Archived from the original on August 19, 2021. Retrieved August 19, 2021. [Image: shutter-animation-in-apple-ios-6-camera-app.png] Shutter image in the iOS 6 camera app
+^ "Apple iPhone 5 Camera Review". DPReview. October 9, 2012. Archived from the original on August 19, 2021. Retrieved August 19, 2021.
+^ Cipriani, Jason (March 10, 2014). "How to enable auto-HDR in iOS 7.1". CNET. Archived from the original on August 19, 2021. Retrieved August 19, 2021.
+^ "Camera tests: Zoom on the iPhone 7 vs iPhone 7 Plus". iMore. September 21, 2016. Archived from the original on May 6, 2021. Retrieved August 19, 2021.
+^ "Record HD or 4K video with your iPhone or iPad". Apple Support. Archived from the original on August 19, 2021. Retrieved August 19, 2021.
+^ a b "Context Menus   Controls   iOS   Human Interface Guidelines   Apple Developer". developer.apple.com. Archived from the original on August 3, 2020. Retrieved August 11, 2020.
+^ "Technical Q&A QA1686: App Icons on iPhone, iPad and Apple Watch". developer.apple.com. Archived from the original on July 30, 2020. Retrieved August 11, 2020.
+^ Kastrenakes, Jacob (June 9, 2017). "Apple won't let apps annoy you with their own review prompts anymore". The Verge. Vox Media. Archived from the original on June 9, 2017. Retrieved June 14, 2017.
+^ Mayo, Benjamin (June 9, 2017). "App Store now requires developers to use official API to request app ratings, disallows custom prompts". 9to5Mac. Archived from the original on June 12, 2017. Retrieved June 14, 2017.
+^ Kim, Arnold (March 6, 2008). "Apple Releases iPhone SDK, Demos Spore, Instant Messaging". MacRumors. Archived from the original on March 11, 2016. Retrieved June 11, 2017.
+^ Siegler, MG (June 8, 2009). "State Of The iPhone Ecosystem: 40 Million Devices and 50,000 Apps". TechCrunch. AOL. Archived from the original on June 10, 2009. Retrieved March 29, 2017.
+^ "Apple Announces Over 100,000 Apps Available on the App Store". MacRumors. November 4, 2009. Archived from the original on March 30, 2019. Retrieved March 29, 2017.
+^ Brian, Matt (August 28, 2010). "Apple's App Store Now Features 250,000 Apps". The Next Web. Archived from the original on March 29, 2017. Retrieved March 29, 2017.
+^ Grothaus, Michael (October 4, 2011). "More than 18 billion apps downloaded from App Store". Engadget. AOL. Archived from the original on April 21, 2017. Retrieved March 31, 2017.
+^ Ingraham, Nathan (October 22, 2013). "Apple announces 1 million apps in the App Store, more than 1 billion songs played on iTunes radio". The Verge. Vox Media. Archived from the original on May 12, 2017. Retrieved March 31, 2017.
+^ Golson, Jordan (June 13, 2016). "Apple's App Store now has over 2 million apps". The Verge. Vox Media. Archived from the original on February 10, 2017. Retrieved March 31, 2017.
+^ "Apple's Revolutionary App Store Downloads Top One Billion in Just Nine Months". Apple Press Info. Apple Inc. April 24, 2009. Archived from the original on March 15, 2017. Retrieved March 29, 2017.
+^ "Home button   Apple". help.apple.com. Archived from the original on November 18, 2018. Retrieved May 24, 2015.
+^ "About iOS passcodes   Apple Support". support.apple.com. Archived from the original on April 28, 2015. Retrieved May 24, 2015.
+^ "Apple's iOS 7 brings quick Spotlight search access to every app page". AppleInsider. June 10, 2013. Archived from the original on October 7, 2013. Retrieved September 18, 2013.
+^ "Search on iPad with iOS 7". October 21, 2013. Archived from the original on January 13, 2015. Retrieved March 1, 2014.
+^ "Hands-on with the new, proactive Spotlight in iOS 9". September 16, 2015. Archived from the original on September 23, 2020. Retrieved September 25, 2020.
+^ Seifert, Dan (September 13, 2016). "iOS 10 will make you love your lock screen". The Verge. Vox Media. Archived from the original on February 10, 2017. Retrieved April 1, 2017.
+^ Zibreg, Christian (September 26, 2016) [June 28, 2013]. "A closer look at iOS 7 parallax effect". iDownloadBlog.com. Archived from the original on May 19, 2022. Retrieved May 5, 2022.
+^ Matthias B hmer, Antonio Kr ger. A Study on Icon Arrangement by Smartphone Users Archived May 12, 2013, at the Wayback Machine. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '13). ACM, New York, NY, US, 2137 2146.
+^ Gruber, John (June 29, 2010). "4". Daring Fireball. Archived from the original on October 9, 2017. Retrieved October 15, 2017.
+^ Stinson, Elizabeth (June 9, 2015). "Why Apple abandoned the world's most beloved typeface". Wired. Archived from the original on June 13, 2015. Retrieved October 15, 2017.
+^ Koetsier, John (July 9, 2013). "Apple 'fontgate' ends with thicker Helvetica Neue in iOS 7 beta 3". VentureBeat. Archived from the original on October 15, 2017. Retrieved October 15, 2017.
+^ Guarino, Sarah (September 21, 2013). "iOS 7 How-to: Make text more readable/larger on your iPad and iPhone". 9to5Mac. Archived from the original on July 31, 2016. Retrieved October 15, 2017.
+^ Kazmucha, Allyson (November 20, 2013). "How to increase or decrease font sizes on iPhone and iPad in iOS 7 with Dynamic Type". iMore. Archived from the original on May 8, 2017. Retrieved October 15, 2017.
+^ Strange, Adario (September 17, 2015). "All hail Apple's new iOS 9 font, San Francisco". Mashable. Archived from the original on December 21, 2017. Retrieved October 15, 2017.
+^ "Apple drops Helvetica for San Francisco in iOS 9". AppleInsider. September 16, 2015. Archived from the original on March 6, 2017. Retrieved October 15, 2017.
+^ a b Frakes, Dan (June 21, 2010). "Hands on with iOS 4 folders". Macworld. International Data Group. Archived from the original on November 1, 2017. Retrieved October 15, 2017.
+^ Friedman, Lex (June 20, 2011). "How to create and organize iOS folders". Macworld. International Data Group. Archived from the original on October 15, 2017. Retrieved October 15, 2017.
+^ Costello, Sam (March 20, 2017). "How Many Apps and Folders Can an iPhone Have?". Lifewire. Dotdash. Archived from the original on August 6, 2017. Retrieved October 15, 2017.
+^ Miller, Chance (July 8, 2015). "iOS 9 lets you store 105 more apps per folder on the iPad". 9to5Mac. Archived from the original on October 15, 2017. Retrieved October 15, 2017.
+^ "iPhone 4S   Always know what's up in Notification Center". Apple Inc. Archived from the original on February 14, 2012.
+^ Tanasychuk, Mike (September 15, 2016). "How to use VoiceOver on iPhone and iPad". iMore. Archived from the original on December 20, 2016. Retrieved March 31, 2017.
+^ Tibken, Shara (March 25, 2016). "Seeing eye phone: Giving independence to the blind". CNET. CBS Interactive. Archived from the original on April 1, 2017. Retrieved March 31, 2017.
+^ Tibken, Shara (November 3, 2016). "Apple iPhone tech helps reinvent the hearing aid". CNET. CBS Interactive. Archived from the original on April 1, 2017. Retrieved March 31, 2017.
+^ Wing Kosner, Anthony (August 16, 2014). "Made For iPhone Hearing Aids: Hands On With Halo, A Mission-Critical Wearable". Forbes. Archived from the original on April 1, 2017. Retrieved March 31, 2017.
+^ Aquino, Steven (June 26, 2016). "Accessibility was all around this year's WWDC". TechCrunch. AOL. Archived from the original on April 1, 2017. Retrieved March 31, 2017.
+^ Kornowski, Liat (May 2, 2012). "How the Blind Are Reinventing the iPhone". The Atlantic. Atlantic Media. Archived from the original on April 1, 2017. Retrieved March 31, 2017.
+^ Aquino, Steven (May 19, 2016). "When it comes to accessibility, Apple continues to lead in awareness and innovation". TechCrunch. AOL. Archived from the original on April 1, 2017. Retrieved March 31, 2017.
+^ Haslam, Karen. "How to activate an iPhone without a SIM card (or Wi-Fi)". Macworld UK. Archived from the original on December 13, 2020. Retrieved December 31, 2020.
+^ "How to Activate iPhone without SIM?". www.wootechy.com. Archived from the original on December 31, 2020. Retrieved December 31, 2020.
+^ "iOS 4 iPhone Update RELEASED: A Guide To iOS 4". The Huffington Post. June 21, 2010. Archived from the original on December 29, 2011. Retrieved April 13, 2013.
+^ Albanesius, Chloe (June 21, 2010). "Apple iPhone iOS 4 Software Update Expected Monday". PC Magazine. Archived from the original on June 23, 2014. Retrieved April 14, 2013.
+^ a b Cheng, Jacqui (June 21, 2010). "Ars reviews iOS 4: what's new, notable, and what needs work". Ars Technica. Archived from the original on April 2, 2017. Retrieved April 1, 2017.
+^ Ray, Bill (November 22, 2010). "iOS 4.2 multi-tasking comes to the iPad". Wired. The Register. Archived from the original on June 13, 2013. Retrieved April 14, 2013.
+^ Newman, Jared (June 22, 2010). "Multitasking With iOS 4 is Horrible: Apple Blew It". PC World. Archived from the original on June 29, 2013. Retrieved April 14, 2013.
+^ "iOS 4 walkthrough". June 14, 2010. Archived from the original on June 15, 2018. Retrieved September 25, 2020.
+^ "Apple announces multitasking for iPhone OS 4 (iPhone 3GS/iPod Touch G3 only)". April 8, 2010. Archived from the original on September 24, 2020. Retrieved September 25, 2020.
+^ a b c d e f g h i "iOS Application Programming Guide   Background Execution". Developer.apple.com. Archived from the original on July 27, 2015. Retrieved September 4, 2015.
+^ Yoni Heisler (June 12, 2013). "Jon Rubinstein: OS X and iOS 7 borrow features from webOS". Archived from the original on September 28, 2013. Retrieved September 23, 2013.
+^ Prabhu, Gautam (June 17, 2015). "iOS 9 vs. iOS 8: A look at the UI changes in iOS 9". iPhone Hacks. Archived from the original on November 7, 2015. Retrieved September 20, 2015.
+^ "iOS: Force an app to close". Apple Inc. Archived from the original on September 30, 2012. Retrieved October 9, 2012.
+^ "iOS 7 multitasking". Tuaw. September 18, 2013. Archived from the original on February 21, 2014. Retrieved March 21, 2014.
+^ Snell, Jason (April 8, 2010). "Inside iPhone 4.0's multitasking". Macworld. Archived from the original on May 30, 2013. Retrieved April 14, 2013.
+^ German, Kent (June 23, 2010). "Apple iPhone 4 AT&T review". CNET. CBS Interactive. Archived from the original on April 2, 2017. Retrieved April 1, 2017.
+^ Hollington, Jesse (June 21, 2010). "Instant Expert: Secrets & Features of iOS 4". iLounge. Archived from the original on December 21, 2012. Retrieved April 14, 2013.
+^ Schonfeld, Erick (February 4, 2010). "Siri's IPhone App Puts A Personal Assistant In Your Pocket". TechCrunch. AOL. Archived from the original on July 28, 2017. Retrieved June 21, 2017.
+^ Wortham, Jenna (April 29, 2010). "Apple Buys a Start-Up for Its Voice Technology". The New York Times. Archived from the original on July 28, 2017. Retrieved June 21, 2017.
+^ Marsal, Katie (April 28, 2010). "Apple acquires Siri, developer of personal assistant app for iPhone". AppleInsider. Archived from the original on May 27, 2017. Retrieved June 21, 2017.
+^ Rao, Leena (April 28, 2010). "Confirmed: Apple Buys Virtual Personal Assistant Startup Siri". TechCrunch. AOL. Archived from the original on June 23, 2017. Retrieved June 21, 2017.
+^ Golson, Jordan (October 4, 2011). "Siri Voice Recognition Arrives On the iPhone 4S". MacRumors. Archived from the original on July 28, 2017. Retrieved June 21, 2017.
+^ Velazco, Chris (October 4, 2011). "Apple Reveals Siri Voice Interface: The "Intelligent Assistant" Only For iPhone 4S". TechCrunch. AOL. Archived from the original on July 28, 2017. Retrieved June 21, 2017.
+^ Kumparak, Greg (October 4, 2011). "The Original Siri App Gets Pulled From The App Store, Servers To Be Killed". TechCrunch. AOL. Archived from the original on August 21, 2012. Retrieved June 21, 2017.
+^ Purewal, Sarah Jacobsson; Cipriani, Jason (February 16, 2017). "The complete list of Siri commands". CNET. CBS Interactive. Archived from the original on June 24, 2017. Retrieved June 21, 2017.
+^ Sumra, Husain (June 13, 2016). "Apple Opens Siri to Third-Party Developers With iOS 10". MacRumors. Archived from the original on July 28, 2017. Retrieved June 21, 2017.
+^ Olivarez-Giles, Nathan (June 13, 2016). "Apple iOS 10 Opens Up Siri and Messages, Updates Music, Photos and More". The Wall Street Journal. Archived from the original on July 28, 2017. Retrieved June 21, 2017. (subscription required)
+^ Matney, Lucas (June 5, 2017). "Siri gets language translation and a more human voice". TechCrunch. AOL. Archived from the original on June 15, 2017. Retrieved June 21, 2017.
+^ Gartenberg, Chaim (June 5, 2017). "Siri on iOS 11 gets improved speech and can suggest actions based on how you use it". The Verge. Vox Media. Archived from the original on June 19, 2017. Retrieved June 21, 2017.
+^ a b c "What's New in iOS 4". Apple. Archived from the original on June 17, 2010. Retrieved June 14, 2010.
+^ "Apple's Game Center debuts next week   Game Hunters: In search of video games and interactive awesomeness". USA Today. January 9, 2010. Archived from the original on May 25, 2012. Retrieved September 1, 2010.
+^ Holt, Chris (September 1, 2010). "iOS 4.1's GameCenter to Hit iPhone Next Week". Macworld. Archived from the original on February 22, 2022. Retrieved February 21, 2022.
+^ "iOS 4.2 Software Update for iPad". Apple Inc. Archived from the original on March 6, 2013. Retrieved October 9, 2012.
+^ "Game Center". Apple. December 23, 2010. Archived from the original on December 23, 2010.
+^ A. Usman (October 31, 2012). "How to Install Game Center on iPhone 3G [Guide]". Shoutpedia. Archived from the original on December 15, 2018. Retrieved December 12, 2018.
+^ Wollman, Dana (September 10, 2013). "iOS 7 will be 64-bit, just like the iPhone 5s' new A7 chip". Engadget. Archived from the original on September 24, 2015.
+^ Souppouris, Aaron (September 12, 2013). "Why Apple's 64-bit iPhone chip is a bigger deal than you think". The Verge. Archived from the original on April 28, 2017.
+^ Cunningham, Andrew (July 2, 2015). "The state of the 64-bit transition in iOS, and what's left to be done". Ars Technica. Archived from the original on January 31, 2017.
+^ Cunningham, Andrew (June 5, 2017). "iOS 11 drops the iPhone 5 and 5C and the fourth-gen iPad". Ars Technica. Archived from the original on June 5, 2017.
+^ Mayo, Benjamin (June 6, 2017). "32-bit apps will not launch on iOS 11, Mac App Store transition to 64-bit from 2018". 9to5Mac. Archived from the original on June 20, 2017.
+^ Cunningham, Andrew (April 13, 2017). "What the death of 32-bit iOS could mean for Apple's hardware and software". Ars Technica. Archived from the original on April 29, 2017.
+^ a b "Jobs' original vision for the iPhone: No third-party native apps". 9to5Mac. October 21, 2011. Archived from the original on June 11, 2017. Retrieved June 21, 2017.
+^ Duncan, Geoff (October 17, 2007). "Apple confirms iPhone SDK coming next year". Digital Trends. Archived from the original on August 28, 2017. Retrieved June 21, 2017.
+^ "Steve Jobs confirms native iPhone SDK by February". AppleInsider. October 17, 2007. Archived from the original on August 28, 2017. Retrieved June 21, 2017.
+^ Dalrymple, Jim (March 6, 2008). "Apple unveils iPhone SDK". Macworld. International Data Group. Archived from the original on August 28, 2017. Retrieved June 21, 2017.
+^ Block, Ryan (March 6, 2008). "Live from Apple's iPhone SDK press conference". Engadget. AOL. Archived from the original on June 14, 2017. Retrieved June 21, 2017.
+^ a b c Guevin, Jennifer (March 6, 2008). "FAQ: What does the iPhone SDK mean?". CNET. CBS Interactive. Archived from the original on September 13, 2016. Retrieved June 21, 2017.
+^ a b Kim, Arnold (March 6, 2008). "Apple Releases iPhone SDK, Demos Spore, Instant Messaging". MacRumors. Archived from the original on March 11, 2016. Retrieved June 21, 2017.
+^ Mayo, Benjamin (September 11, 2015). "Apple now allowing developers to submit iOS 9, OS X El Capitan and native Watch apps to the App Store". 9to5Mac. Archived from the original on August 22, 2016. Retrieved June 21, 2017.
+^ Sande, Steven (June 10, 2013). "New iOS SDK features for developers". Engadget. AOL. Archived from the original on January 15, 2018. Retrieved June 21, 2017.
+^ Sinicki, Adam (June 9, 2016). "Developing for Android vs developing for iOS   in 5 rounds". Android Authority. Archived from the original on June 26, 2017. Retrieved June 21, 2017.
+^ Paul, Ryan (September 15, 2009). "MonoTouch drops .NET into Apple's walled app garden". Ars Technica. Archived from the original on November 22, 2015. Retrieved June 21, 2017.
+^ Dove, Jackie (April 11, 2010). "Adobe unleashes Creative Suite 5". Macworld. International Data Group. Archived from the original on September 24, 2014. Retrieved June 21, 2017.
+^ a b "App Store   Support   Apple Developer". developer.apple.com. Archived from the original on November 1, 2017. Retrieved January 26, 2022.
+^ Caldwell, Serenity (October 15, 2011). "Up close with iOS 5: Wireless syncing and updating". Macworld. International Data Group. Archived from the original on August 8, 2017. Retrieved June 20, 2017.
+^ "About that $20 upgrade..." CNET. CBS Interactive. January 15, 2008. Archived from the original on October 31, 2017. Retrieved June 20, 2017.
+^ Dalrymple, Jim (February 7, 2008). "Accounting rules behind iPod Touch update charge". Macworld. International Data Group. Archived from the original on February 16, 2022. Retrieved February 16, 2022.
+^ Oliver, Sam (June 25, 2009). "Upgrade fee sees few iPod Touch users updating to 3.0 software". AppleInsider. Archived from the original on March 5, 2017. Retrieved June 20, 2017.
+^ Foresman, Chris (September 14, 2009). "Accounting rules change could end iPod Touch update fee". Ars Technica. Archived from the original on July 8, 2017. Retrieved June 20, 2017.
+^ Elmer-DeWitt, Philip (September 14, 2009). "Accounting rule change in Apple's favor". Fortune. Archived from the original on July 11, 2017. Retrieved June 20, 2017.
+^ "Infographic: How Long Does Apple Support Older iPhone Models?". Statista Infographics. Archived from the original on August 7, 2020. Retrieved August 11, 2020.
+^ "Here's how long Apple supports older iPhone models". iMore. July 3, 2019. Archived from the original on August 18, 2020. Retrieved August 11, 2020.
+^ Available in iOS 5 to iOS 7 via General > About > Diagnostics & Usage > Diagnostics & Usage Data >(date and time).panic.plist, after a kernel crash Available in iOS 8 to iOS 10 via Privacy > Diagnostics & Usage > Diagnostics & Usage Data > JetsamEvent-(date and time).ips, when low in memory Available in iOS 11 and 12 via Privacy > Analytics > Analytics Data > JetsamEvent-(date and time).ips, when low in memoryAvailable in iOS 13 via Privacy > Analytics & Improvements > Analytics Data > SystemMemoryReset-(date and time).ips, when low in memory
+^ "Source Browser". opensource.apple.com. Archived from the original on February 18, 2018. Retrieved March 3, 2021.
+^ "The 3-Clause BSD License | Open Source Initiative". opensource.org. May 22, 2011. Archived from the original on March 3, 2021. Retrieved March 3, 2021.
+^ "Apple Public Source License, Version 1.0" (PDF). March 16, 1999. Archived (PDF) from the original on August 14, 2021. Retrieved March 3, 2021.
+^ Ricker, Thomas (July 10, 2007). "iPhone Hackers: "we have owned the filesystem"". Engadget. AOL. Archived from the original on April 1, 2017. Retrieved April 1, 2017.
+^ Healey, Jon (August 6, 2007). "Hacking the iPhone". Los Angeles Times. Archived from the original on November 6, 2007. Retrieved August 6, 2007.
+^ "Apple's Joswiak: We Don't Hate iPhone Coders". September 11, 2007. Archived from the original on February 20, 2017. Retrieved February 19, 2017.
+^ Baig, Edward C. (June 26, 2007). "Apple's iPhone isn't perfect, but it's worthy of the hype". USA Today. Archived from the original on June 29, 2007. Retrieved June 28, 2007.
+^ IPad, MAX (May 6, 2010). "Jailbreaking Explained". IPad Forums. Archived from the original on November 2, 2012. Retrieved November 4, 2012.
+^ Kravets, David (July 26, 2010). "U.S. Declares iPhone Jailbreaking Legal, Over Apple's Objections". Wired. Archived from the original on August 3, 2012. Retrieved December 13, 2011.
+^ "U.S. Copyright Office Final 2010 Anti-Circumvention Rulemaking" (PDF). U.S. Copyright Office. July 27, 2010. Archived (PDF) from the original on May 1, 2012. Retrieved August 21, 2012.
+^ Mobile, Know Your (May 19, 2010). "Locked / Unlocked   a definition of the terms Locked and Unlocked from the Know Your Mobile mobile phone glossary". Know Your Mobile. Archived from the original on August 31, 2012. Retrieved November 4, 2012.
+^ "AT&T   What are the eligibility requirements for unlocking iPhone?". AT&T. Archived from the original on August 3, 2012.
+^ "iPhone: About unlocking". Apple Inc. Website. March 4, 2021. Archived from the original on October 17, 2012.
+^ "iPhone: Wireless Carrier Support and Features". Apple Inc. Website. April 12, 2013. Archived from the original on April 24, 2013. Retrieved May 13, 2013.
+^ Fleishman, Glenn (October 9, 2015). "New iPhones use LTE on any American carrier, despite the way they're listed". MacWorld. Archived from the original on July 13, 2017.
+^ "Unauthorized modification of iOS can cause security vulnerabilities, instability, shortened battery life, and other issues". Apple Inc. June 15, 2018. Archived from the original on May 10, 2013.
+^ Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies (PDF) (Report). United States Copyright Office. October 26, 2012. 37 CFR Part 201 [Docket No. 2011-7]. Archived (PDF) from the original on September 25, 2020. Retrieved September 4, 2020.
+^ "Tell Tim Cook: No more DRM for Apple". Defective by Design. Archived from the original on September 20, 2020. Retrieved September 4, 2020.
+^ Anderson, Nate (January 27, 2010). "Protestors: iPad is nothing more than a golden calf of DRM". Ars Technica. Archived from the original on April 2, 2017. Retrieved April 1, 2017.
+^ "Mobile Devices and the Next Computing Revolution". February 3, 2010. Archived from the original on December 1, 2010. Retrieved June 9, 2010.
+^ Bobbie Johnson (February 1, 2010). "Apple iPad will choke innovation, say open internet advocates". The Guardian. Archived from the original on March 16, 2014. Retrieved February 7, 2010.
+^ "Microsoft PR spokesman condemns iPad for being "locked down"". January 29, 2010. Archived from the original on March 5, 2012.
+^ "Apple's Trend Away From Tinkering". Slashdot. January 31, 2010. Archived from the original on February 8, 2010. Retrieved June 9, 2010.
+^ Steve Wozniak (Interviewee) (January 22, 2011). Campus Party Brasil 2011   Geek Pride e Wozniak. Fragoso, Victor. Archived from the original on May 12, 2011. Retrieved March 7, 2011.
+^ Leander Kahney (January 30, 2010). "Pundits On The iPad's Closed System: It's Doom For PCs, No It's Great". Archived from the original on May 15, 2010. Retrieved June 9, 2010.
+^ a b c d e f g h i j k Apple Inc. (May 2016). "iOS Security Guide" (PDF). Apple.com. Archived (PDF) from the original on February 27, 2016.
+^ "I/O registry dump". winocm blag. Archived from the original on September 23, 2013. Retrieved August 11, 2020.
+^ Esp sito, Filipe (August 1, 2020). "New 'unpatchable' exploit allegedly found on Apple's Secure Enclave chip, here's what it could mean". 9to5Mac. Archived from the original on November 5, 2021. Retrieved November 5, 2021.
+^ "All the apps and features Dynamic Island Supports". techSpark. November 9, 2022. Archived from the original on November 1, 2022. Retrieved November 9, 2022.
+^ "ASLR   The iPhone Wiki". Theiphonewiki.com. Archived from the original on December 23, 2016. Retrieved December 6, 2016.
+^ "Crypto-shredding using effaceable storage in iOS on stanford.edu". Archived from the original on September 11, 2018. Retrieved September 21, 2018.
+^ "iOS Keychain Services Tasks". developer.apple.com. Archived from the original on December 20, 2016. Retrieved December 6, 2016.
+^ a b c "Everything you need to know about Facebook, Google's app scandal". Social.techcrunch.com. February 2019. Archived from the original on January 11, 2023. Retrieved February 20, 2019.
+^ "Facebook pays teens to install VPN that spies on them". Social.techcrunch.com. January 29, 2019. Archived from the original on November 19, 2020. Retrieved February 20, 2019.
+^ Owen, Malcolm (January 30, 2019). "Apple has revoked Facebook's enterprise developer certificates after sideload violations [u]". AppleInsider. Archived from the original on February 21, 2019. Retrieved February 20, 2019.
+^ Warren, Tom (January 30, 2019). "Apple blocks Facebook from running its internal iOS apps". The Verge. Archived from the original on February 3, 2021. Retrieved February 20, 2019.
+^ "Google will stop peddling a data collector through Apple's back door". Social.techcrunch.com. January 30, 2019. Archived from the original on January 11, 2023. Retrieved February 20, 2019.
+^ "Loophole allows pirated apps to be installed on Apple iPhones". NBC News. Archived from the original on February 20, 2019. Retrieved February 20, 2019.
+^ "Two-factor authentication for Apple ID". Apple Suppor. Archived from the original on December 20, 2016. Retrieved December 6, 2016.
+^ "XNU GitHub Page". GitHub. Apple. Archived from the original on November 17, 2022. Retrieved November 17, 2022.
+^ "Towards the next generation of XNU memory safety: kalloc_type". Apple Security Blog. Apple. Archived from the original on November 16, 2022. Retrieved November 17, 2022.
+^ "StatCounter Global Stats   Browser, OS, Search Engine including Mobile Usage Share". StatCounter GlobalStats. Archived from the original on May 26, 2012. Retrieved September 4, 2020.
+^ "iOS leapfrogs Android with 410 million devices sold and 650,000 apps". InsideMobileApps. July 24, 2012. Archived from the original on July 27, 2012. Retrieved July 24, 2012.
+^ Ingraham, Nathan (June 2, 2014). "Apple has sold more than 800 million iOS devices, 130 million new iOS users in the last year". The Verge. Vox Media. Archived from the original on February 10, 2017. Retrieved April 1, 2017.
+^ Rossignol, Joe (January 27, 2015). "Tim Cook: Apple Has Sold More Than 1 Billion iOS Devices". MacRumors. Archived from the original on June 23, 2016. Retrieved June 21, 2017.
+^ Kahn, Jordan (January 27, 2015). "Apple announces 1 billion iOS devices sold". 9to5Mac. Archived from the original on July 4, 2017. Retrieved June 21, 2017.
+^ Saylor, Michael (2012). The Mobile Wave: How Mobile Intelligence Will Change Everything. Vanguard Press. p. 33. ISBN 978-1-59315-720-3.
+^ "Android and iOS Squeeze the Competition, Swelling to 96.3% of the Smartphone Operating System Market for Both 4Q14 and CY14, According to IDC" (Press release). IDC. February 24, 2015. Archived from the original on February 25, 2015.
+^ "Worldwide Tablet Growth Hits the Brakes, Slowing to the Low Single Digits in the Years Ahead, According to IDC" (Press release). IDC. March 12, 2015. Archived from the original on March 13, 2015.
+^ "StatCounter Global Stats: Top 7 Mobile Operating Systems on Feb 2015". StatCounter GlobalStats. Archived from the original on May 26, 2012. Retrieved September 4, 2020.
+^ Sui, Linda (November 2, 2016). "Strategy Analytics: Android Captures Record 88 Percent Share of Global Smartphone Shipments in Q3 2016". Strategy Analytics. Archived from the original on November 27, 2016. Retrieved November 27, 2016.
+^ Rossignol, Joe (November 2, 2016). "iOS Adoption Remains at Lowest Levels Since 2014 as Android Captures Record 87.5% Market Share". MacRumors. Archived from the original on November 27, 2016. Retrieved November 27, 2016.
+^ Apple Inc., Newsroom Archive - Apple, Retrieved June 7, 2018.
+^ Mactracker (mactracker.ca), Apple Inc. model database, version as of 26 July 2007.
+External links
+Wikimedia Commons has media related to IOS (Apple Inc.).
+Official website
+Official website Dev Center at Apple Developer Connection
+iOS Reference Library   on the Apple Developer Connection website
+vteiOS and iOS-based products
+History
+Issues
+Outline
+HardwareiPhone
+1st
+3G
+3GS
+4
+4S
+5
+5C
+5S
+6 & 6 Plus
+6S & 6S Plus
+7 & 7 Plus
+8 & 8 Plus
+X
+XR
+XS & XS Max
+11
+11 Pro & Pro Max
+12 & 12 Mini
+12 Pro & Pro Max
+13 & 13 Mini
+13 Pro & Pro Max
+14 & 14 Plus
+14 Pro & Pro Max
+SE
+1st
+2nd
+3rd
+iPod Touch
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+iPad
+1st
+2
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+10th
+Mini
+1st
+2
+3
+4
+5th
+6th
+Air
+1st
+2
+3rd
+4th
+5th
+Pro
+1st
+2nd
+3rd
+4th
+5th
+6th
+Other
+Apple TV
+Apple Watch
+HomePod
+Mini
+SoftwareOS
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Derived from iOS
+watchOS
+tvOS
+iPadOS
+13
+14
+15
+16
+Features 
+AirDrop
+AirPlay
+AirPrint
+CarPlay
+Control Center
+Crash Detection
+iTunes
+Night Shift
+Notification Center
+Shazam
+Siri
+Spotlight
+SpringBoard
+VoiceOver
+SDK & API 
+SDK
+Cocoa Touch
+Core Animation
+HomeKit
+Inter-App Audio
+WebKit
+GymKit
+HealthKit
+Bundled apps
+Books
+Calculator
+Calendar
+Clock
+Contacts
+FaceTime
+Freeform
+Files
+Find My
+Fitness
+Health
+Home
+Mail
+Maps
+Measure
+Messages
+Music
+News
+Notes
+Photos
+Podcasts
+Reminders
+Safari
+Shortcuts
+Stocks
+Translate
+TV
+Voice Memos
+Wallet
+Weather
+Watch
+Discontinued
+Find My Friends
+Find My iPhone
+Newsstand
+Apple apps
+Classroom
+Clips
+GarageBand
+iMovie
+iWork
+Keynote
+Numbers
+Pages
+iTunes Remote
+Discontinued
+Beats Music
+iPhoto
+Nike + iPod
+Services
+Arcade
+Card
+App Store
+Music
+FaceTime
+Family Sharing
+Game Center
+iCloud
+iMessage
+iTunes Connect
+iTunes Store
+News
++
+One
+Pay
+Push Notifications
+TestFlight
+TV+
+Shows
+Wallet
+Discontinued
+iAd
+iLife
+iTunes Radio
+MobileMe
+Other
+Apple silicon
+Controversies
+300-page bill
+Antennagate
+Batterygate
+Bendgate
+Jailbreaking
+FairPlay
+Free and open-source apps
+Games
+iFund
+iPhone history
+iPhone hardware
+Metal
+Swift
+WWDC
+Italics denote upcoming products
+ Category
+vteiPodModels
+Classic
+Photo
+iPod+HP
+iPod U2
+Mini
+Shuffle
+Nano
+Touch
+Accessories
+Headphones
+iPod Hi-Fi
+Nike+iPod
+Socks
+Software
+Comparison of iPod managers
+iOS
+Store
+iPod game
+iTunes
+Store
+version history
+Other
+Advertising
+Click wheel
+Dock connector
+Italics indicate discontinued products.
+vteOperating systems by AppleApple II, III, Lisa
+Apple II series
+Apple DOS
+ProDOS
+GS/OS
+Apple III
+SOS
+Lisa
+Lisa OS
+MacWorks
+MacintoshClassic Mac OS
+System 1
+Systems 2, 3, and 4
+System 5
+System 6
+System 7
+Mac OS 8
+Mac OS 9
+macOS
+History
+NeXTSTEP
+OpenStep
+Rhapsody
+Public Beta
+Core
+Darwin
+XNU
+Desktop
+Mac OS X 10.0 (Cheetah)
+10.1 (Puma)
+10.2 (Jaguar)
+10.3 (Panther)
+10.4 (Tiger)
+10.5 (Leopard)
+10.6 (Snow Leopard)
+10.7 (Lion)
+10.8 (Mountain Lion)
+10.9 (Mavericks)
+10.10 (Yosemite)
+10.11 (El Capitan)
+10.12 (Sierra)
+10.13 (High Sierra)
+10.14 (Mojave)
+10.15 (Catalina)
+11 (Big Sur)
+12 (Monterey)
+13 (Ventura)
+Server
+Mac OS X Server 1.0
+macOS Server
+Other projects
+Shipped
+A/ROSE
+A/UX
+AIX for Apple Network Servers
+MAE
+MkLinux
+PowerOpen Environment
+Cancelled
+Star Trek
+Taligent
+Copland
+Nukernel
+Vanguard
+iPod, iPhone, iPad
+iPod software
+iOS
+iPhone OS 1
+iPhone OS 2
+iPhone OS 3
+iOS 4
+iOS 5
+iOS 6
+iOS 7
+iOS 8
+iOS 9
+iOS 10
+iOS 11
+iOS 12
+iOS 13
+iOS 14
+iOS 15
+iOS 16
+iPadOS
+iPadOS 13
+iPadOS 14
+iPadOS 15
+iPadOS 16
+Other devices
+Newton
+Newton OS
+Apple Watch
+watchOS
+Apple TV
+Apple TV Software
+tvOS
+HomePod
+audioOS
+T series
+bridgeOS
+ List    Category
+vteDarwin-derived operating systemsHistoryPre-Darwin
+Unix
+BSD
+Mach
+NeXTSTEP
+OpenStep
+GNUstep
+Rhapsody
+MacintoshMac OS X,OS X,macOS(history)Mac OS XServer
+Mac OS X Server 1.0 (Hera, Rhapsody)
+10.0 (Cheetah)
+10.1 (Puma)
+10.2 (Jaguar)
+10.3 (Panther)
+10.4 (Tiger)
+10.5 Leopard Server
+10.6 Snow Leopard Server
+Mac OS X Public Beta (Kodiak)
+10.0 (Cheetah)
+10.1 (Puma)
+10.2 (Jaguar)
+10.3 Panther
+10.4 Tiger
+10.5 Leopard
+10.6 Snow Leopard
+10.7 Lion
+OS X 10.8 Mountain Lion
+10.9 Mavericks
+10.10 Yosemite
+10.11 El Capitan
+macOS 10.12 Sierra
+10.13 High Sierra
+10.14 Mojave
+10.15 Catalina
+11 Big Sur
+12 Monterey
+13 Ventura
+Apple TVApple TVSoftware
+Derived from Mac OS X 10.4 Tiger: 1
+2
+3
+Derived from iOS 4 8: 4
+5
+6
+7
+tvOS
+Derived from iOS 9 16: 9
+10
+11
+12
+13
+14
+15
+16
+iPhone,iPod TouchiPhone OS,iOS
+Derived from Mac OS X: iPhone OS 1
+2
+3
+iOS 4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+iPadiPhone OS,iOS
+Derived from Mac OS X: iPhone OS 3.2 iOS 4
+5
+6
+7
+8
+9
+10
+11
+12
+iPadOS
+Derived from iOS 13-15: 13
+14
+15
+16
+Apple WatchwatchOS
+Derived from iOS 8 16: 1
+2
+3
+4
+5
+6
+7
+8
+9
+EmbeddedbridgeOS
+Derived from watchOS: 1
+2
+HomePodaudioOS
+Derived from iOS: 11
+12
+13
+Derived from tvOS:
+13.4
+14
+15
+Others
+OpenDarwin
+PureDarwin
+macOS version history
+Mac OS X Server version history
+tvOS version history
+iOS version history
+iPadOS version history
+watchOS version history
+audioOS version historyItalics denote upcoming products
+vteUnix and Unix-like operating systems and compatibility layers
+Architecture
+Filesystem
+History
+Philosophy
+Security
+Shell
+OperatingsystemsBSD
+386BSD
+FreeBSD
+NetBSD
+OpenBSD
+DragonFly BSD
+NeXTSTEP
+Darwin
+macOS
+iOS
+audioOS
+iPadOS
+tvOS
+watchOS
+bridgeOS
+SunOS
+Ultrix
+Linux
+Android
+ChromeOS
+Other distributions
+System V
+A/UX
+AIX
+HP-UX
+IRIX
+OpenServer
+Solaris
+OpenSolaris
+Illumos
+Tru64 UNIX
+UnixWare
+Other
+Coherent
+GNU
+Hurd
+HarmonyOS
+LiteOS
+LynxOS
+Minix
+MOS
+OSF/1
+QNX
+BlackBerry 10
+Research Unix
+SerenityOS
+Xenix
+more...
+Compatibilitylayers
+Cygwin
+Darling
+Eunice
+GNV
+Interix
+MachTen
+Microsoft POSIX subsystem
+MKS Toolkit
+PASE
+P.I.P.S.
+PWS/VSE-AF
+UNIX System Services
+UserLAnd Technologies
+Windows Services for UNIX
+Windows Subsystem for Linux
+Italics indicate discontinued systems.  Category
+ Commons
+vteOperating systemsGeneral
+Comparison
+Forensic engineering
+History
+List
+Timeline
+Usage share
+User features comparison
+Variants
+Disk operating system
+Distributed operating system
+Embedded operating system
+Hobbyist operating system
+Just enough operating system
+Mobile operating system
+Network operating system
+Object-oriented operating system
+Real-time operating system
+Supercomputer operating system
+KernelArchitectures
+Exokernel
+Hybrid
+Microkernel
+Monolithic
+Multikernel
+vkernel
+Rump kernel
+Unikernel
+Components
+Device driver
+Loadable kernel module
+User space and kernel space
+Process managementConcepts
+Computer multitasking (Cooperative, Preemptive)
+Context switch
+Interrupt
+IPC
+Process
+Process control block
+Real-time
+Thread
+Time-sharing
+Schedulingalgorithms
+Fixed-priority preemptive
+Multilevel feedback queue
+Round-robin
+Shortest job next
+Memory management,resource protection
+Bus error
+General protection fault
+Memory paging
+Memory protection
+Protection ring
+Segmentation fault
+Virtual memory
+Storage access,file systems
+Boot loader
+Defragmentation
+Device file
+File attribute
+Inode
+Journal
+Partition
+Virtual file system
+Virtual tape library
+Supporting concepts
+API
+Computer network
+HAL
+Live CD
+Live USB
+Shell
+CLI
+User interface
+PXE
+vteMobile operating systems
+Mobile OS comparisons
+Open-source mobile phones / OSes
+Open Handset Alliance
+Open Mobile Alliance
+Mobile app distributions
+Mobile app development
+LinuxLinux Kernel
+Active:
+Android
+forks
+Android Go
+Wear OS
+EMUI (Linux kernel subsystem)
+ChromeOS
+KaiOS
+Smart Feature OS
+Kindle firmware
+LuneOS
+Maemo Leste
+Tizen
+Defunct:
+Bada
+Firefox OS
+B2G OS
+MontaVista
+MotoMagx
+Mobilinux
+OpenEmbedded
+ ngstr m
+Openmoko Linux
+QtMoko
+SHR
+OpenEZX
+WebOS
+GNU/Linux
+Active:
+Fedora Mobility
+Manjaro ARM
+postmarketOS
+PureOS
+Sailfish OS
+SteamOS
+Ubuntu Touch
+UBports
+Defunct:
+Maemo
+MeeGo
+Mer
+Moblin
+XNU
+iOS
+iPadOS
+watchOS
+bridgeOS
+QNX
+BlackBerry 10
+BlackBerry Tablet OS
+MicrosoftWindows
+Windows XP Tablet PC Edition
+Windows Mobile
+Windows Phone
+7
+8
+8.1
+Windows RT
+Windows 10 Mobile
+Windows 10
+Windows 11
+Zircon
+Fuchsia
+FreeBSD/NetBSD
+PlayStation Vita system software
+HarmonyOS
+EMUI (Non GMS based)
+LiteOS
+OpenHarmony
+Minix 3
+Intel Management Engine
+Other
+Binary Runtime Environment for Wireless (BREW)
+BlackBerry OS
+EPOC
+FreeRTOS
+GEOS
+Magic Cap
+Nintendo 3DS system software
+Nintendo DSi system software
+Nintendo Switch system software
+Nokia Asha platform
+PalmDOS
+Palm OS
+PlayStation Portable system software
+S30
+S30+
+S40
+Sony Ericsson Java Platform
+Symbian
+S60
+S80
+S90
+UIQ
+ThreadX
+ Mobile operating systems
+Mobile applications
+ Telecommunication
+Software
+vteApple Inc.HistoryOutlineTimeline of productsEnvironmentMarketingSupply chainProductsHardware
+iPhone
+Hardware
+History
+TV
+Watch
+AirPods
+Pro
+Max
+AirTag
+Beats
+Pill
+Powerbeats Pro
+HomePod
+Mini
+Silicon
+Mac
+iMac
+Pro
+MacBook
+Air
+Pro
+Mini
+Studio
+Pro
+iPod
+Classic
+Mini
+Nano
+Shuffle
+Touch
+iPad
+Mini
+Air
+Pro
+Accessories
+SoftwareOperatingsystems
+iOS / iPadOS
+iPhones
+iPads
+iOS history
+iPadOS history
+Apps
+macOS
+History
+Server
+tvOS
+watchOS
+bridgeOS
+Darwin
+Classic Mac OS
+CarPlay
+Classroom
+HomeKit
+Core Foundation
+Developer Tools
+FileMaker
+Final Cut Pro
+X
+Compressor
+Motion
+Logic Pro
+MainStage
+iLife
+GarageBand
+iMovie
+iPhoto
+iTunes
+iWork
+Keynote
+Numbers
+Pages
+Mail
+QuickTime
+Safari
+Shazam
+Siri
+Swift
+Xcode
+ServicesFinancial
+Card
+Pay
+Wallet
+Media
+Arcade
+Books
+Music
+1
+Beats Music
+Up Next
+Festival
+iTunes Radio
+App
+News
+Newsstand
+Podcasts
+TV
++
+originals
+MLS Season Pass
+Communication
+FaceTime
+Walkie-Talkie
+iMessage
+iChat
+App
+Game Center
+Retail anddigital sales
+App Store
+macOS
+iTunes Store
+Connect
+Store
+Fifth Avenue
+Support
+AppleCare+
+AASP
+Certifications
+Genius Bar
+ProCare
+One to One
+Other
+ID
+Sign in with Apple
+One
+Developer
+iAd
+TestFlight
+WWDC
+iCloud
+MobileMe
+Find My
+Fitness
+Photos
+Maps
+Look Around
+CompaniesSubsidiaries
+Anobit
+Apple IMC
+Apple Studios
+Beats
+Beddit
+Braeburn Capital
+Claris
+Acquisitions
+List
+Anobit
+AuthenTec
+Beats
+Beddit
+Cue
+EditGrid
+Emagic
+FingerWorks
+Intrinsity
+InVisage Technologies
+The Keyboard Company
+Lala
+Metaio
+NeXT
+Nothing Real
+P.A. Semi
+Power Computing
+PrimeSense
+Shazam Entertainment Limited
+Siri
+Texture
+Topsy
+Partnerships
+AIM alliance
+Kaleida Labs
+Taligent
+Akamai
+Arm
+DiDi
+Digital Ocean
+iFund
+Imagination
+Rockstar Consortium
+Related
+Advertising
+"1984"
+"Think different"
+"Get a Mac"
+iPod
+Product Red
+Ecosystem
+Events
+Headquarters
+Campus
+Park
+University
+Design
+IDg
+Typography
+Book
+History
+Codenames
+Community
+AppleMasters
+Litigation
+FBI encryption dispute
+iOS app approvals
+Worker organizations
+Artistic depictions of Steve Jobs
+Linux
+Asahi Linux
+iPodLinux
+PeopleExecutivesCurrent
+Tim Cook (CEO)
+Jeff Williams (COO)
+Luca Maestri (CFO)
+Katherine Adams (General Counsel)
+Eddy Cue
+Craig Federighi
+Isabel Ge Mahe
+John Giannandrea
+Lisa Jackson
+Greg Joswiak
+Deirdre O'Brien
+Dan Riccio
+Phil Schiller
+Johny Srouji
+John Ternus
+Former
+Michael Scott (CEO)
+Mike Markkula (CEO)
+John Sculley (CEO)
+Michael Spindler (CEO)
+Gil Amelio (CEO)
+Steve Jobs (CEO)
+Jony Ive (CDO)
+Angela Ahrendts
+Fred D. Anderson
+John Browett
+Guerrino De Luca
+Paul Deneve
+Al Eisenstat
+Tony Fadell
+Scott Forstall
+Ellen Hancock
+Nancy R. Heinen
+Ron Johnson
+David Nagel
+Peter Oppenheimer
+Mark Papermaster
+Jon Rubinstein
+Bertrand Serlet
+Bruce Sewell
+Sina Tamaddon
+Avie Tevanian
+Steve Wozniak
+Board ofdirectorsCurrent
+Arthur D. Levinson (Chairman)
+Tim Cook (CEO)
+James A. Bell
+Alex Gorsky
+Al Gore
+Andrea Jung
+Ronald D. Sugar
+Susan L. Wagner
+Former
+Mike Markkula (Chairman)
+John Sculley (Chairman)
+Steve Jobs (Chairman)
+Gil Amelio
+Fred D. Anderson
+Bill Campbell
+Mickey Drexler
+Al Eisenstat
+Larry Ellison
+Robert A. Iger
+Delano Lewis
+Arthur Rock
+Eric Schmidt
+Michael Scott
+Michael Spindler
+Edgar S. Woolard Jr.
+Jerry York
+Founders
+Steve Jobs
+Steve Wozniak
+Ronald Wayne
+Italics indicate discontinued products, services, or defunct companies.
+ Category
+ Commons
+Authority control International
+VIAF
+National
+Germany
+Israel
+United States
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=IOS&oldid=1149608278"

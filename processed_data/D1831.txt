@@ -1,0 +1,200 @@
+Type of clock that displays the time with numbers
+This article is about the appliance. For timing reference for digital audio, see Word clock.
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Digital clock" news  newspapers  books  scholar  JSTOR (January 2010) (Learn how and when to remove this template message)
+ Basic digital alarm clock without a radio. The mark in the top-left of the display indicates that the time is 4:00pm (16:00), not 4:00am.
+ A 1969 radio alarm clock (Sony Digimatic 8FC-59W) with an early mechanical-digital display
+A digital clock is a type of clock that displays the time digitally (i.e. in numerals or other symbols), as opposed to an analogue clock.
+Digital clocks are often associated with electronic drives, but the "digital" description refers only to the display, not to the drive mechanism. (Both analogue and digital clocks can be driven either mechanically or electronically, but "clockwork" mechanisms with digital displays are rare).
+History[edit]
+The first digital pocket watch was the invention of Austrian engineer Josef Pallweber[1] who created his "jump-hour" mechanism in 1883.  Instead of a conventional dial, the jump-hour featured two windows in an enamel dial, through which the hours and minutes are visible on rotating discs. The second hand remained conventional. By 1885, Pallweber mechanism was already on the market in pocket watches by Cort bert and IWC; arguably contributing to the subsequent rise and commercial success of IWC. The principles of Pallweber jump-hour movement had appeared in wristwatches by the 1920s (Cort bert) and are still used today (Chronoswiss Digiteur). While the original inventor didn't have a watch brand at the time, his name has since been resurrected by a newly established watch manufacturer.[2]
+Plato clocks used a similar idea but a different layout. These spring-wound pieces consisted of a glass cylinder with a column inside, affixed to which were small digital cards with numbers printed on them, which flipped as time passed. The Plato clocks were introduced at the St. Louis World Fair in 1904, produced by Ansonia Clock Company. Eugene Fitch of New York patented the clock design in 1903.[3]
+13 years earlier, Josef Pallweber had patented the same invention using digital cards (different from his 1885 patent using moving disks) in Germany (DRP No. 54093).[4]
+The German factory Aktiengesellschaft f r Uhrenfabrikation Lenzkirch made such digital clocks in 1893 and 1894.[5]
+The earliest patent for a digital alarm clock was registered by D.E Protzmann and others on October 23, 1956, in the United States.[6] Protzmann and his associates also patented another digital clock in 1970, which was said to use a minimal amount of moving parts. Two side-plates held digital numerals between them, while an electric motor and cam gear outside controlled movement.[3]
+In 1970, the first digital wristwatch with an LED display was mass-produced. Called the Pulsar, and produced by the Hamilton Watch Company, this watch was hinted at two years prior when the same company created a prototype digital watch for Kubrick's 2001: A Space Odyssey.[7]
+Construction[edit]
+Digital clocks typically use the 50 or 60 hertz oscillation of AC power or a 32,768 hertz crystal oscillator as in a quartz clock to keep time. Most digital clocks display the hour of the day in 24-hour format; in the United States and a few other countries, a commonly used hour sequence option is 12-hour format (with some indication of AM or PM). Some timepieces, such as many digital watches, can be switched between 12-hour and 24-hour modes. Emulations of analog-style faces often use an LCD screen, and these are also sometimes described as "digital".
+Displays[edit]
+ A digital clock's display changing numbers
+To represent the time, most digital clocks use a seven-segment LED, VFD, or LCD for each of four digits. They generally also include other elements to indicate whether the time is AM or PM, whether or not an alarm is set, and so on. Older digital clocks used numbers painted on wheels, or split-flap display. High-end digital clocks use dot matrix displays and use animations for digit changes.
+Setting[edit]
+If people find difficulty in setting the time in some designs of digital clocks in electronic devices where the clock is not a critical function, they may not be set at all, displaying the default after powered on, 00:00 or 12:00.[8]
+Because they run on electricity, digital clocks often need to be reset whenever the power is cut off, even for a very brief period of time. This is a particular problem with alarm clocks that have no "battery" backup, because a power outage during the night usually prevents the clock from triggering the alarm in the morning.
+To reduce the problem, many devices designed to operate on household electricity incorporate a battery backup to maintain the time during power outages and during times of disconnection from the power supply. More recently, some devices incorporate a method for automatically setting the time, such as using a broadcast radio time signal from an atomic clock, getting the time from an existing satellite television or computer connection, or by being set at the factory and then maintaining the time from then on with a quartz movement powered by an internal rechargeable battery.
+Commercial digital clocks are typically more reliable than consumer clocks. Multi-decade backup batteries can be used to maintain time during power loss.
+An LCD battery-operated clock without alarm
+A premium digital clock radio with digital tuning
+A basic digital clock radio with analog tuning
+Transflective LCD battery-operated clock with radio time setting
+Uses[edit]
+ This digital clock has been attached to an oven.
+ This digital clock reacts to temperature.
+Because digital clocks can be very small and inexpensive devices that enhance the popularity of product designs, they are often incorporated into all kinds of devices such as cars, radios, televisions, microwave ovens, standard ovens, computers and cell phones. Sometimes their usefulness is disputed: a common complaint is that when time has to be set to Daylight Saving Time, many household clocks have to be readjusted.  The incorporation of automatic synchronization by a radio time signal is reducing this problem (see Radio clock). Smart digital clocks, in addition to displaying time, scroll additional information such as weather and notifications.
+References[edit]
+^ "DEPATISnet | DEPATISnet-Startseite". depatisnet.dpma.de. Retrieved 2021-11-08.
+^ "Home page". JosefPallweber.com. Archived from the original on 2015-10-01. Retrieved 2015-11-07.
+^ a b Churm, Thomas M. (November 5, 2013). "A Short History of Digital Clocks and Watches". Alarm Clock Blog. Archived from the original on March 1, 2016. Retrieved 2016-02-28.
+^ Imperial Patent Office (October 27, 1890). "Patent No. 54093" (PDF). German Patent and Trademark Office (in German). Retrieved 2015-11-07.
+^ "Is digital more precise?". The German Clock Museum. April 2015. Archived from the original on 2015-09-23. Retrieved 2015-11-07.
+^ US2768332A, Protzmann, Donald E.; Phaneuf, Edgar A. & Doyle, Malcolm G., "Timing device", issued 1956-10-23 
+^ "The History of the Digital Watch". h2g2. April 30, 2003. Archived from the original on November 6, 2015. Retrieved 2015-11-07.
+^ "Radio Controlled LED Alarm Clock Instruction Manual   SM2442" (PDF). Zeon Ltd. Archived from the original (DOC) on 2016-03-03. Retrieved 2015-11-07.
+External links[edit]
+Wikimedia Commons has media related to Digital clocks.
+History of the Digital Watch
+Museum of Vintage Rare Digital LCD Wrist Watches
+vteElectric clock technologyPowerline synchronized
+Synchronous Motor and the Master Clock
+Utility frequency
+Synchronous motor
+Electronic
+Quartz clock
+Atomic clock
+Radio clock
+vteTimeKey concepts
+Past
+Present
+Future
+Eternity
+Measurementand standardsChronometry
+UTC
+UT
+TAI
+Unit of time
+Orders of magnitude (time)
+Measurementsystems
+Italian six-hour clock
+Thai six-hour clock
+12-hour clock
+24-hour clock
+Relative hour
+Daylight saving time
+Chinese
+Decimal
+Hexadecimal
+Hindu
+Metric
+Roman
+Sidereal
+Solar
+Time zone
+Calendars
+Main types
+Solar
+Lunar
+Lunisolar
+Gregorian
+Julian
+Hebrew
+Islamic
+Solar Hijri
+Chinese
+Hindu Panchang
+Maya
+List
+Clocks
+Main types
+astronomical
+astrarium
+atomic
+quantum
+hourglass
+marine
+sundial
+watch
+mechanical
+stopwatch
+water-based
+Cuckoo clock
+Digital clock
+Grandfather clock
+History
+Timeline
+ChronologyHistory
+Astronomical chronology
+Big History
+Calendar era
+Deep time
+Periodization
+Regnal year
+Timeline
+Philosophy of time
+A series and B series
+B-theory of time
+Chronocentrism
+Duration
+Endurantism
+Eternal return
+Eternalism
+Event
+Perdurantism
+Presentism
+Static interpretation of time
+Temporal finitism
+Temporal parts
+The Unreality of Time
+ReligionMythology
+Ages of Man
+Destiny
+Immortality
+Dreamtime
+K la
+Time and fate deities
+Father Time
+Wheel of time
+Kalachakra
+Human experienceand use of time
+Chronemics
+Generation time
+Mental chronometry
+Music
+tempo
+time signature
+Rosy retrospection
+Tense aspect mood
+Time discipline
+Time management
+Yesterday   Today   Tomorrow
+Time in scienceGeology
+Geological time
+age
+chron
+eon
+epoch
+era
+period
+Geochronology
+Geological history of Earth
+Physics
+Absolute space and time
+Arrow of time
+Chronon
+Coordinate time
+Instant
+Proper time
+Spacetime
+Theory of relativity
+Time domain
+Time translation symmetry
+Time reversal symmetry
+Other fields
+Chronological dating
+Chronobiology
+Circadian rhythms
+Clock reaction
+Glottochronology
+Time geography
+Related
+Memory
+Moment
+Space
+System time
+Tempus fugit
+Time capsule
+Time immemorial
+Time travel
+ Category
+ Commons
+Authority control: National 
+Germany
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Digital_clock&oldid=1146073958"

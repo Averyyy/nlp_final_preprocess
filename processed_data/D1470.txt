@@ -1,0 +1,83 @@
+Root, in red, of a C major chord (Play (help info)). The root is double at the octave.
+ Root notes (blue) and bass notes (red, both=purple) from an 18th-century Chorale Play (help info)
+In music theory, the concept of root is the idea that a chord can be represented and named by one of its notes. It is linked to harmonic thinking the idea that vertical aggregates of notes can form a single unit, a chord. It is in this sense that one speaks of a "C chord" or a "chord on C" a chord built from C and of which the note (or pitch) C is the root. When a chord is referred to in Classical music or popular music without a reference to what type of chord it is (either major or minor, in most cases), it is assumed a major triad, which for C contains the notes C, E and G. The root need not be the bass note, the lowest note of the chord: the concept of root is linked to that of the inversion of chords, which is derived from the notion of invertible counterpoint. In this concept, chords can be inverted while still retaining their root.
+In tertian harmonic theory, wherein chords can be considered stacks of third intervals (e.g. in common practice tonality), the root of a chord is the note on which the subsequent thirds are stacked. For instance, the root of a triad such as C Major is C, independently of the vertical order in which the three notes (C, E and G) are presented. A triad can be in three possible positions, a "root position" with the root in the bass (i.e., with the root as the lowest note, thus C, E, G or C, G, E, from lowest to highest notes), a first inversion, e.g. E, C, G or E, G, C (i.e., with the note which is a third interval above the root, E, as the lowest note) and a second inversion, e.g. G, C, E or G, E, C, in which the note that is a fifth interval above the root (G ) is the lowest note.
+Regardless of whether a chord is in root position or in an inversion, the root remains the same in all three cases. Four-note seventh chords have four possible positions. That is, the chord can be played with the root as the bass note, the note a third above the root as the bass note (first inversion), the note a fifth above the root as the bass note (second inversion), or the note a seventh above the root as the bass note (third inversion). Five-note ninth chords know five positions, etc., but the root position always is that of the stack of thirds, and the root is the lowest note of this stack (see also Factor (chord)).
+ Root position, first inversion, and second inversion C major chords Play root position C major chord (help info), Play first inversion C major chord (help info), or Play second inversion C major chord (help info).  Chord roots (all the same) in red.
+ Root position, first inversion, and second inversion chords over C bass Play root position C major chord (help info), Play first inversion A minor chord (help info), or Play second inversion F major chord (help info).  Chord roots in red.
+Identifying a chord's root[edit]
+ Determining chord root from inversion Play (help info). "Revoicing inverted triads to root position".[1]
+Although the safest way to recognize a chord's root is, after having reduced the chord to close spacing, to rearrange it as a stack of thirds, there are shortcuts to this: in inverted triads, the root is directly above the interval of a fourth, in inverted sevenths, it is directly above the interval of a second.[1] With chord types, such as chords with added sixths or chords over pedal points, more than one possible chordal analysis may be possible. For example, in a tonal piece of music, the notes C, E, G, A, sounded as a chord, could be analyzed as a C major sixth chord in root position (a major triad   C, E, G   with an added sixth   A   above the root) or as a first inversion A minor seventh chord (the A minor seventh chord contains the notes A, C, E and G, but in this example, the C note, the third of the A minor chord, is in the bass). Deciding which note is the root of this chord could be determined by considering context. If the chord spelled C, E, G, A occurs immediately before a D7 chord (spelled D, F , A, C), most theorists and musicians would consider the first chord a minor seventh chord in first inversion, because the progression ii7 V7 is a standard chord movement.
+Various devices have been imagined to notate inverted chords and their roots:
+Chord names and symbols (e.g., C major, A minor, G7 etc.)
+Roman numeral analysis (e.g., I to indicate the tonic chord and V to indicate the dominant chord)
+Slash chords (e.g., G/B bass, which instructs the chord-playing performer to play a G major triad with a "B" in bass voice/lowest note)
+The concept of root has been extended for the description of intervals of two notes: the interval can either be analyzed as formed from stacked thirds (with the inner notes missing): third, fifth, seventh, etc., (i.e., intervals corresponding to odd numerals), and its low note considered as the root; or as an inversion of the same: second (inversion of a seventh), fourth (inversion of a fifth), sixth (inversion of a third), etc., (intervals corresponding to even numerals) in which cases the upper note is the root. See Interval.
+Some theories of common-practice tonal music admit the sixth as a possible interval above the root and consider in some cases that 65 chords nevertheless are in root position   this is the case particularly in Riemannian theory. Chords that cannot be reduced to stacked thirds (e.g. chords of stacked fourths) may not be amenable to the concept of root, although in practice, in a lead sheet, the composer may specify that a quartal chord has a certain root (e.g., a fake book chart that indicates that a song uses an Asus4(add 7) chord, which would use the notes A, D, G. Even though this is a quartal chord, the composer has indicated that it has a root of A.)
+A major scale contains seven unique pitch classes, each of which might serve as the root of a chord:
+ Root position triads from C major scale[2] Play (help info).
+Chords in atonal music are often of indeterminate root, as are equal-interval chords and mixed-interval chords; such chords are often best characterized by their interval content.[3]
+History[edit]
+The first mentions of the relation of inversion between triads appears in Otto Sigfried Harnish's Artis musicae (1608), which describes perfect triads in which the lower note of the fifth is expressed in its own position, and imperfect ones, in which the base (i.e., root) of the chord appears only higher. Johannes Lippius, in his Disputatio musica tertia (1610) and Synopsis musicae novae (1612), is the first to use the term "triad" (trias harmonica); he also uses the term "root" (radix), but in a slightly different meaning.[4] Thomas Campion, A New Way of Making Fowre Parts in Conterpoint, London, ca. 1618, notes that when chords are in first inversions (sixths), the bass is not "a true base", which is implicitly a third lower. Campion's "true base" is the root of the chord.[5]
+Full recognition of the relationship between the triad and its inversions is generally credited to Jean-Philippe Rameau and his Trait  d harmonie (1722). Rameau was not the first to discover triadic inversion,[6] but his main achievement is to have recognized the importance of the succession of roots (or of chords identified by their roots) for the construction of tonality (see below, Root progressions).
+Root vs fundamental[edit]
+The concept of chord root is not the same as that of the fundamental of a complex vibration. When a harmonic sound, i. e. a sound with harmonic partials, lacks a component at the fundamental frequency itself, the pitch of this fundamental frequency may nevertheless be heard: this is the missing fundamental. The effect is increased by the fact that the missing fundamental also is the difference tone of the harmonic partials.
+Chord notes, however, do not necessarily form a harmonic series. In addition, each of these notes has its own fundamental. The only case where the chord notes may seem to form a harmonic series is that of the major triad. However, the major triad may be formed of the intervals of a third and a fifth, while the corresponding harmonic partials are distant by the intervals of a 12th and a 17th. For instance, C3 E3 G3 is a major triad, but the corresponding harmonic partials would be C3, G4 and E5. The root of the triad is an abstract C, while the (missing) fundamental of C3 E3 G3 is C1   which would usually not be heard.
+Assumed root[edit]
+ Assumed root, Am7/B: A minor ninth chord without root and with B in the bass.[7] Play (help info) Am9/B, Am7, then full Am9.
+An assumed root (also absent, or omitted root) is "when a chord does not contain a root ([which is] not unusual)".[8] In any context, it is the unperformed root of a performed chord. This 'assumption' may be established by the interaction of physics and perception, or by pure convention. "We only interpret a chord as having its root omitted when the habits of the ear make it absolutely necessary for us to think of the absent root in such a place."[emphasis original].[9] "We do not acknowledge omitted Roots except in cases where the mind is necessarily conscious of them ... There are also cases in instrumental accompaniment in which the root having been struck at the commencement of a measure, the ear feels it through the rest of the measure" (emphasis in original).[10]
+In guitar tablature, this may be indicated, "to show you where the root would be", and to assist one with, "align[ing] the chord shape at the appropriate fret", with an assumed root in grey, other notes in white, and a sounded root in black.[7]
+ A comparison of the diminished 7th Play (help info) and dominant 7th[11] ( 9) Play (help info) chords.
+ Diminished seventh chord's use in modulation: each assumed root, in parenthesis, may be used as a dominant, tonic, or supertonic.[12] Play ninth chords (help info) Thus C, taken as dominant, would modulate to F.
+An example of an assumed root is the diminished seventh chord, of which a note a major third below the chord is often assumed to be the absent root, making it a ninth chord.[13] The diminished seventh chord affords, "singular facilities for modulation", as it may be notated four ways, to represent four different assumed roots.[12]
+In jazz[edit]
+In jazz and jazz fusion, roots are often omitted from chords when chord-playing musicians (e.g., electric guitar, piano, Hammond organ) are improvising chords in an ensemble that includes a bass player (either double bass, electric bass, or other bass instruments), because the bass player plays the root. For example, if a band is playing a tune in the key of C major, if there is a dominant seventh chord played on the dominant chord (i.e., G7), the chord-playing musicians typically do not play the G note in their voicing of the chord, as they expect the bass player to play the root. The chord playing musicians usually play a voicing that includes the third, seventh, and additional extensions (often the ninth and thirteenth, even if they are not specified in the chord chart). Thus a typical voicing by a chord-playing musician for a G7 chord would be the notes B and F (the third and flat seventh of the chord), along with the notes A and E (the ninth and thirteenth of the G7 chord). One possible voicing for this G7 chord would be the notes B, E, F, A (the third, thirteenth, seventh and ninth of the G7 chord). (Note: the thirteenth interval is the same "pitch class" as the sixth, except that it is one octave higher; the ninth is the same "pitch class" as the second interval, except that it is one octave higher.)
+Root progressions in music[edit]
+The fundamental bass (basse fondamentale) is a concept proposed by Jean-Philippe Rameau, derived from the thoroughbass, to notate what would today be called the progression of chord roots rather than the actual lowest note found in the music, the bassline. From this Rameau formed rules for the progression of chords based on the intervals between their roots. Subsequently, music theory has typically treated chordal roots as the defining feature of harmony.[14]
+Why is it so important to know the root of the chord? Because the roots of the chords will sound whether we want them to or not, whether or not the alphabetical symbol is correct. The root progression which emerges may not coincide with what we think we have written; it may be better or it may be worse; but art does not permit chance. The root progression supports the work. The total root progression is heard as a substantive element, almost like another melody, and it determines the tonal basis of the music. And the tonal basis of a piece is very important to the construction of themes and to the orchestration.[15]
+Roman numeral analysis may be said to derive from the theory of the fundamental bass, although it does not particularly theorize the succession of roots. The theory of the fundamental bass properly speaking has been revived in the 20th century by Arnold Schoenberg,[16] Yizhak Sada [17] and Nicolas Mee s.[18]
+See also[edit]
+Figured bass
+References[edit]
+^ a b Wyatt and Schroeder (2002). Hal Leonard Pocket Music Theory, p.80. ISBN 0-634-04771-X.
+^ Palmer, Manus, and Lethco (1994). The Complete Book of Scales, Chords, Arpeggios and Cadences, p.6. ISBN 0-7390-0368-2. "The root is the note from which the triad gets its name. The root of a C triad is C."
+^ Reisberg, Horace (1975). "The Vertical Dimension in Twentieth-Century Music", Aspects of Twentieth-Century Music, p.362-72. Wittlich, Gary (ed.). Englewood Cliffs, New Jersey: Prentice-Hall. ISBN 0-13-049346-5.
+^ Joel Lester, "Root-Position and Inverted Triads in Theory around 1600", Journal of the American Musicological Society 27/1 (Spring 1974), pp. 113-116.
+^ Joel Lester, op. cit., p. 112.
+^ B. Rivera, "The Seventeenth-Century Theory of Triadic Generation and Invertibility and its Application in Contemporaneous Rules of Composition", Music Theory Spectrum, p. 67.
+^ a b Latarski, Don (1999). Ultimate Guitar Chords: First Chords, p.5. ISBN 978-0-7692-8522-1.
+^ Chapman, Charles (2004). Rhythm Guitar Tutor: An Essential Guide to Becoming the Consummate Rhythm Guitarist, p.4. ISBN 978-0-7866-2022-7.
+^ John Curwen (1872). The Standard Course of Lessons and Exercises in the Tonic Sol-Fa Method of Teaching Music, p.27. Londong: Tonic Sol-Fa Agency, 8, Warwick Lane, Paternoster Row, E.C.
+^ Curwen, John (1881). The new How to observe harmony, p.44. Tonic Sol-Fa Agency.
+^ Richard Lawn, Jeffrey L. Hellmer (1996). Jazz: Theory and Practice, p.124. ISBN 0-88284-722-8.
+^ a b Adela Harriet Sophia Bagot Wodehouse (1890). A Dictionary of Music and Musicians: (A.D. 1450 1889), p.448. Macmillan and Co., Ltd.
+^ Schoenberg, Arnold (1983). Theory of Harmony, 197. ISBN 978-0-520-04944-4.
+^ Simon Sechter, Die Grunds tze der musikalischen Komposition, vol. I, Leipzig, 1853.
+^ Russo, William (1975). Jazz Composition and Orchestration, p.28. ISBN 0-226-73213-4.
+^ A. Schoenberg, Theory of Harmony, op. cit., and Structural Functions of Harmony,  1969, pp. 6-9 and passim.
+^ Y. Sada , Harmony in its Systemic and Phenomenological Aspects, Jerusalem, pp. 87-88.
+^ N. Mee s,  Toward a Post-Schoenbergian Grammar of Tonal and Pre-tonal Harmonic Progressions , Music Theory Online 6/1 (2000),
+http://www.mtosmt.org/issues/mto.00.6.1/mto.00.6.1.meeus.html. See also http://nicolas.meeus.free.fr/NMVecteurs.html
+vteChord factors
+Root
+Third
+Fifth
+Seventh
+Ninth
+Eleventh
+Thirteenth
+Fifteenth
+(Bass note)
+vteVoicing in music
+Blind octave
+Block chord
+Close and open harmony
+Common tone
+Doubling
+Root position and Inversion (1st, 2nd, 3rd, and higher inversions)
+Octave
+Voice
+Voice leading
+Authority control: National 
+Germany
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Root_(chord)&oldid=1136081836"

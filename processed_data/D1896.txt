@@ -1,0 +1,191 @@
+2007 family of multiprocessors by IBM
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (September 2017) (Learn how and when to remove this template message)
+POWER6Power6 CPUGeneral informationLaunched2007Designed byIBMPerformanceMax. CPU clock rate3.6 GHz to 5.0 GHzCacheL1 cache64+64 KB/coreL2 cache4 MB/coreL3 cache32 MB/chip (off-chip)Architecture and classificationTechnology node65 nmInstruction setPower ISA (Power ISA v.2.05)Physical specificationsCores2HistoryPredecessorPOWER5SuccessorPOWER7
+POWER, PowerPC, and Power ISA architectures
+NXP (formerly Freescale and Motorola)
+PowerPC e series (2006)
+e200
+e300
+e500
+e600
+e5500
+e6500
+Qor series (2008)
+QorIQ
+Qorivva
+IBM
+Power series (1990)
+POWER1
+POWER2
+POWER3
+POWER4
+POWER5
+POWER6
+POWER7
+POWER8
+POWER9
+Power10
+PowerPC series (1992)
+6xx
+4xx
+7xx
+74xx
+970
+A2 (2010)
+A2I
+A2O
+RAD series (1997)
+RAD6000
+RAD750
+RAD5500
+RS64 series (1996)
+IBM/Nintendo
+Gekko
+Broadway
+Espresso
+Other
+Titan
+PWRficient
+Cell
+Xenon
+X704
+Related links
+OpenPOWER Foundation
+AIM alliance
+RISC
+Blue Gene
+Power.org
+PAPR
+PReP
+CHRP
+AltiVec
+Cancelled in gray, historic in italicvte
+The POWER6 is a microprocessor developed by IBM that implemented the Power ISA v.2.03. When it became available in systems in 2007, it succeeded the POWER5+ as IBM's flagship Power microprocessor. It is claimed to be part of the eCLipz project, said to have a goal of converging IBM's server hardware where practical (hence "ipz" in the acronym: iSeries, pSeries, and zSeries).[1]
+ IBM Power6 CPU base
+ Power6 ceramic base, heat spreader removed
+ Power6 ceramic base, top
+ Power6 ceramic base, contacts
+History[edit]
+POWER6 was described at the International Solid-State Circuits Conference (ISSCC) in February 2006, and additional details were added at the Microprocessor Forum in October 2006[2] and at the next ISSCC in February 2007.  It was formally announced on  May 21, 2007.[3] It was released on June 8, 2007 at speeds of 3.5, 4.2 and 4.7 GHz,[4] but the company has noted prototypes have reached 6 GHz.[5] POWER6 reached first silicon in the middle of 2005,[6] and was bumped to 5.0 GHz in May 2008 with the introduction of the P595.[7]
+Description[edit]
+The POWER6 is a dual-core processor. Each core is capable of two-way simultaneous multithreading (SMT). The POWER6 has approximately 790 million transistors and is 341 mm2 large fabricated on a 65 nm process. A notable difference from POWER5 is that the POWER6 executes instructions in-order instead of out-of-order. This change often requires software to be recompiled for optimal performance, but the POWER6 still achieves significant performance improvements over the POWER5+ even with unmodified software, according to the lead engineer on the POWER6 project.[4]
+POWER6 also takes advantage of ViVA-2, Virtual Vector Architecture, which enables the combination of several POWER6 nodes to act as a single vector processor.[8]
+Each core has two integer units, two binary floating-point units, an AltiVec unit, and a novel decimal floating-point unit.  The binary floating-point unit incorporates "many microarchitectures, logic, circuit, latch and integration techniques to achieve [a] 6-cycle, 13-FO4 pipeline", according to a company paper.[9]  Unlike the servers from IBM's competitors, the POWER6 has hardware support for IEEE 754 decimal arithmetic and includes the first decimal floating-point unit integrated in silicon.  More than 50 new floating point instructions handle the decimal math and conversions between binary and decimal.[10] This feature was also added to the z10 microprocessor featured in the System z10.[8]
+Each core has a 64 KB, four-way set-associative instruction cache and a 64 KB data cache of an eight-way set-associative design with a two-stage pipeline supporting two independent 32-bit reads or one 64-bit write per cycle.[9] Each core has semi-private 4 MiB unified L2 cache, where the cache is assigned a specific core, but the other has a fast access to it. The two cores share a 32 MiB L3 cache which is off die, using an 80 GB/s bus.[10]
+POWER6 can connect to up to 31 other processors using two inter node links (50 GB/s), and supports up to 10 logical partitions per core (up to a limit of 254 per system). There is an interface to a service processor that monitors and adjusts performance and power according to set parameters.[11]
+IBM also makes use of a 5 GHz duty-cycle correction clock distribution network for the processor. In the network, the company implements a copper distribution wire that is 3 m wide and 1.2 m thick. The POWER6 design uses dual power supplies, a logic supply in the 0.8-to-1.2 Volt range and an SRAM power supply at about 150-mV higher.[9]
+The thermal characteristics of POWER6 are similar to that of the POWER5. Dr Frank Soltis, an IBM chief scientist, said IBM had solved power leakage problems associated with high frequency by using a combination of 90 nm and 65 nm parts in the POWER6 design.[12]
+POWER6+[edit]
+The slightly enhanced POWER6+ was introduced in April 2009, but had been shipping in Power 560 and 570 systems since October 2008. It added more memory keys for secure memory partition, a feature taken from IBM's mainframe processors.[13]
+Products[edit]
+As of 2008[update], the range of POWER6 systems includes "Express" models (the 520, 550 and 560) and Enterprise models (the 570 and 595).[14] The various system models are designed to serve any sized business.
+For example, the 520 Express is marketed to small businesses while the Power 595 is marketed for large, multi-environment data centers. 
+The main difference between the Express and Enterprise models is that the latter include Capacity Upgrade on Demand (CUoD) capabilities and hot-pluggable processor and memory "books".
+IBM POWER6 (Power Systems) servers
+Name
+Number of sockets
+Number of cores
+CPU clock frequency
+520 Express
+2
+4
+4.2 GHz or 4.7 GHz
+550 Express
+4
+8
+4.2 GHz or 5.0 GHz
+560 Express
+8
+16
+3.6 GHz
+570
+8
+16
+4.4 GHz or 5.0 GHz
+570
+16
+32
+4.2 GHz
+575
+16
+32
+4.7 GHz
+595
+32
+64
+4.2 GHz or 5.0 GHz
+IBM also offers four POWER6 based blade servers.[15] Specifications are shown in the table below.
+IBM POWER6 blade servers
+Name
+Number of cores
+CPU clock frequency
+Blade slots required
+BladeCenter JS12
+2
+3.8 GHz
+1
+BladeCenter JS22
+4
+4.0 GHz
+1
+BladeCenter JS23
+4
+4.2 GHz
+1
+BladeCenter JS43
+8
+4.2 GHz
+2
+All blades support AIX, IBM i, and Linux. The BladeCenter S and H chassis is supported for blades running AIX, i, and Linux. The BladeCenter E, HT, and T chassis support blades running AIX and Linux but not i.
+At the SuperComputing 2007 (SC07) conference in Reno a new water-cooled Power 575 was revealed. The 575 is composed of 2U "nodes" each with 32 POWER6 cores at 4.7 GHz with up to 256 GB of RAM. Up to 448 cores can be installed in a single frame.
+IBM POWER6 disk storage
+Name
+Number of cores
+CPU clock frequency
+Number of controllers
+DS8700
+2, 4
+4.7 GHz
+1, 2
+DS8800
+2, 4, 8
+5.0 GHz
+1, 2
+See also[edit]
+IBM Power microprocessors
+POWER7
+z10, a mainframe processor sharing much technology with the POWER6.
+References[edit]
+^ "A Mainframe Roadmap". Isham Research. Archived from the original on 2016-03-03.
+^ David Kanter (October 16, 2006). "Fall Processor Forum 2006: IBM's POWER6". Real World Technologies.
+^ "IBM Unleashes World's Fastest Chip in Powerful New Computer" (Press release). IBM. Archived from the original on May 24, 2007.
+^ a b "IBM POWER system hardware". IBM. Archived from the original on 2008-12-16. Retrieved 2008-10-09.
+^ Vance, Ashlee (2006-02-07). "IBM thumbs nose at heat concerns, kicks Power6 to 6GHz". The Register. Retrieved 2006-02-07.
+^ "IBM's Power6 Gets First Silicon as Power5+ Looms". IT Jungle. Archived from the original on 2005-11-25. Retrieved 2005-08-22.
+^ "IBM smacks rivals with 5.0GHz Power6 beast". The Register. Retrieved 2008-10-12.
+^ a b "An eCLipz Looms on the Horizon". Real World Technologies. Retrieved 2005-12-19.
+^ a b c "IBM Tips Power6 Processor Architecture". InformationWeek. 6 February 2006. Retrieved 2022-07-13.
+^ a b "Fall Processor Forum: Power6 at 5 GHz". Heinz Heise. Archived from the original on 2007-11-16. Retrieved 2006-10-12.
+^ Merritt, Rick (2006-10-10). "IBM cranks dual-core Power6 beyond 4GHz". EE Times. Retrieved 2022-07-13.
+^ Roger Howorth (2006-02-08). "IBM's Power6 processor to run at 4GHz in 2007". IT Week. Archived from the original on 2007-09-26. Retrieved 2007-07-11.
+^ "IBM Power Systems Announcement Overview" (PDF). IBM. 28 April 2009. Archived from the original (PDF) on 13 May 2011. Retrieved 6 March 2018.
+^ "IBM Power Systems Hardware". IBM. Archived from the original on May 12, 2008.
+^ "IBM Power Systems Hardware - Blade Servers". IBM. Archived from the original on May 21, 2008.
+External links[edit]
+IBM POWER6 Press Kit
+"IBM's Power6 gets help with math, multimedia". CNET. October 10, 2006.
+"IBM Debuts Power6 In New Unix Server". InformationWeek. May 21, 2007.
+"POWER6 set to carry the POWER4/POWER5/970 lineage forward?". Ars Technica. October 19, 2006.
+"IBM unveils POWER6 microprocessor details". Ars Technica. February 12, 2007.
+"IBM's POWER6 flies the coop at 4.7GHz". Ars Technica. May 21, 2007.
+Recommended reading[edit]
+POWER Roadmap, IBM, Oct 2006
+M. J. Mack; W. M. Sauer; S. B. Swaney; B. G. Mealey (November 2007). "IBM POWER6 Reliability". IBM Journal of Research and Development. 51 (6): 763 774. doi:10.1147/rd.516.0763.
+R. Berridge; R. M. Averill; A. E. Barish; M. A. Bowen; P. J. Camporese; J. DiLullo; P. E. Dudley; J. Keinert; D. W. Lewis; R. D. Morel; T. Rosser; N. S. Schwartz; P. Shephard; H. H. Smith; D. Thomas; P. J. Restle; J. R. Ripley; S. L. Runyon; P. M. Williams (November 2007). "IBM POWER6 microprocessor physical design and design methodology". IBM Journal of Research and Development. 51 (6): 685 714. doi:10.1147/rd.516.0685.
+H. -Y. McCreary; M. A. Broyles; M. S. Floyd; A. J. Geissler; S. P. Hartman; F. L. Rawson; T. J. Rosedahl; J. C. Rubio; M. S. Ware (November 2007). "EnergyScale for IBM POWER6 microprocessor based systems". IBM Journal of Research and Development. 51 (6): 775 786. doi:10.1147/rd.516.0775.
+M. S. Floyd; S. Ghiasi; T. W. Keller; K. Rajamani; F. L. Rawson; J. C. Rubio; M. S. Ware (November 2007). "System power management support in the IBM POWER6 microprocessor". IBM Journal of Research and Development. 51 (6): 733 746. CiteSeerX 10.1.1.128.8084. doi:10.1147/rd.516.0733.
+H. Q. Le; W. J. Starke; J. S. Fields; F. P. O'Connell; D. Q. Nguyen; B. J. Ronchetti; W. M. Sauer; E. M. Schwarz; M. T. Vaden (November 2007). "IBM POWER6 microarchitecture". IBM Journal of Research and Development. 51 (6): 639 662. CiteSeerX 10.1.1.115.6020. doi:10.1147/rd.516.0639.
+D. W. Plass; Y. H. Chan (November 2007). "IBM POWER6 SRAM arrays". IBM Journal of Research and Development. 51 (6): 747 756. doi:10.1147/rd.516.0747.
+L. Eisen; J. W. Ward; H. -W. Tast; N. Mading; J. Leenstra; S. M. Mueller; C. Jacobi; J. Preiss; E. M. Schwarz; S. R. Carlough (November 2007). "IBM POWER6 accelerators: VMX and DFU". IBM Journal of Research and Development. 51 (6): 1 21. CiteSeerX 10.1.1.128.3776. doi:10.1147/rd.516.0663.
+"POWER: The Sixth Generation". (30 October 2006). Microprocessor Report.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=POWER6&oldid=1136321525"

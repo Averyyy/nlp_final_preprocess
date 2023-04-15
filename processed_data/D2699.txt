@@ -1,0 +1,397 @@
+"Billy Rubin" redirects here. For the American art scholar, see William Rubin.
+Bilirubin
+Names
+IUPAC name
+3,3 -(2,17-Diethenyl-3,7,13,18-tetramethyl-1,19-dioxo-10,19,21,22,23,24-hexahydro-1H-biline-8,12-diyl)dipropanoic acid[dubious    discuss]
+Preferred IUPAC name
+3,3 -([12(2)Z,6(72)Z]-13,74-Diethenyl-14,33,54,73-tetramethyl-15,75-dioxo-11,15,71,75-tetrahydro-31H,51H-1,7(2),3,5(2,5)-tetrapyrrolaheptaphane-12(2),6(72)-diene-34,53-diyl)dipropanoic acid
+Other names
+Bilirubin IX 
+Identifiers
+CAS Number
+635-65-4 Y
+3D model (JSmol)
+Interactive imageInteractive image
+ChEBI
+CHEBI:16990 Y
+ChEMBL
+ChEMBL501680 Y
+ChemSpider
+4444055 Y
+ECHA InfoCard
+100.010.218 
+IUPHAR/BPS
+4577
+PubChem CID
+5280352
+UNII
+RFM9X3LJ49 Y
+CompTox Dashboard (EPA)
+DTXSID90239827 
+InChI
+InChI=1S/C33H36N4O6/c1-7-20-19(6)32(42)37-27(20)14-25-18(5)23(10-12-31(40)41)29(35-25)15-28-22(9-11-30(38)39)17(4)24(34-28)13-26-16(3)21(8-2)33(43)36-26/h7-8,13-14,34-35H,1-2,9-12,15H2,3-6H3,(H,36,43)(H,37,42)(H,38,39)(H,40,41)/b26-13-,27-14- YKey: BPYKTIZUTYGOLE-IFADSCNNSA-N YKey: BPYKTIZUTYGOLE-IFADSCNNBS
+SMILES
+CC1=C(/C=C2C(C)=C(C=C)C(N/2)=O)NC(CC3=C(CCC(O)=O)C(C)=C(/C=C4C(C=C)=C(C)C(N/4)=O)N3)=C1CCC(O)=OCc1c(c([nH]c1/C=C\2/C(=C(C(=O)N2)C=C)C)Cc3c(c(c([nH]3)/C=C\4/C(=C(C(=O)N4)C)C=C)C)CCC(=O)O)CCC(=O)O
+Properties
+Chemical formula
+C33H36N4O6
+Molar mass
+584.673 g mol 1
+Density
+1.31 g cm-3[1]
+Melting point
+235 C[2]
+Except where otherwise noted, data are given for materials in their standard state (at 25 C [77 F], 100 kPa).
+Y verify (what is YN ?)
+Infobox references
+Chemical compound
+Bilirubin (BR) (Latin for "red bile") is a red-orange compound that occurs in the normal catabolic pathway that breaks down heme in vertebrates. This catabolism is a necessary process in the body's clearance of waste products that arise from the destruction of aged or abnormal red blood cells.[3] In the first step of bilirubin synthesis, the heme molecule is stripped from the hemoglobin molecule. Heme then passes through various processes of porphyrin catabolism, which varies according to the region of the body in which the breakdown occurs. For example, the molecules excreted in the urine differ from those in the feces.[4] The production of biliverdin from heme is the first major step in the catabolic pathway, after which the enzyme biliverdin reductase performs the second step, producing bilirubin from biliverdin.[5][6]
+Ultimately, bilirubin is broken down within the body, and its metabolites excreted through bile and urine; elevated levels may indicate certain diseases.[7] It is responsible for the yellow color of healing bruises and the yellow discoloration in jaundice. Its breakdown products, such as stercobilin, cause the brown color of feces. A different breakdown product, urobilin, is the main component of the straw-yellow color in urine.[citation needed]
+Although bilirubin is usually found in animals rather than plants, at least one plant species, Strelitzia nicolai, is known to contain the pigment.[8]
+Structure[edit]
+Bilirubin consists of an open chain tetrapyrrole. It is formed by oxidative cleavage of a porphyrin in heme, which affords biliverdin. Biliverdin is reduced to bilirubin. After conjugation with glucuronic acid, bilirubin is excreted.[citation needed]
+Bilirubin is structurally similar to the pigment phycobilin used by certain algae to capture light energy, and to the pigment phytochrome used by plants to sense light. All of these contain an open chain of four pyrrolic rings.[citation needed]
+Like these other pigments, some of the double-bonds in bilirubin isomerize when exposed to light. This isomerization is relevant to the phototherapy of jaundiced newborns: the E,Z-isomers of bilirubin formed upon light exposure are more soluble than the unilluminated Z,Z-isomer, as the possibility of intramolecular hydrogen bonding is removed.[9] Increased solubility allows the excretion of unconjugated bilirubin in bile.
+Some textbooks and research articles show the incorrect geometric isomer of bilirubin.[10] The naturally occurring isomer is the Z,Z-isomer.
+Function[edit]
+Bilirubin is created by the activity of biliverdin reductase on biliverdin, a green tetrapyrrolic bile pigment that is also a product of heme catabolism. Bilirubin, when oxidized, reverts to become biliverdin once again. This cycle, in addition to the demonstration of the potent antioxidant activity of bilirubin,[11] has led to the hypothesis that bilirubin's main physiologic role is as a cellular antioxidant.[12][13] Consistent with this, animal studies suggest that eliminating bilirubin results in endogenous oxidative stress.[14] Bilirubin's antioxidant activity may be particularly important in the brain, where it prevents excitotoxicity and neuronal death by scavenging superoxide during N-methyl-D-aspartic acid neurotransmission.[15]
+Metabolism[edit]
+ Heme metabolism
+Total bilirubin = direct bilirubin + indirect bilirubin[16]
+Elevation of both alanine aminotransferase (ALT) and bilirubin is more indicative of serious liver injury than is elevation in ALT alone, as postulated in Hy's law that elucidates the relation between the lab test results and drug-induced liver injury[17]
+Indirect (unconjugated)[edit]
+The measurement of unconjugated bilirubin (UCB) is underestimated by measurement of indirect bilirubin, as unconjugated bilirubin (without/yet glucuronidation) reacts with diazosulfanilic acid to create azobilirubin which is measured as direct bilirubin.[18][19]
+Direct[edit]
+Direct bilirubin = Conjugated bilirubin + delta bilirubin[16]
+Conjugated[edit]
+In the liver, bilirubin is conjugated with glucuronic acid by the enzyme glucuronyltransferase, first to bilirubin glucuronide and then to bilirubin diglucuronide, making it soluble in water: the conjugated version is the main form of bilirubin present in the "direct" bilirubin fraction. Much of it goes into the bile and thus out into the small intestine. Though most bile acid is reabsorbed in the terminal ileum to participate in enterohepatic circulation, conjugated bilirubin is not absorbed and instead passes into the colon.[20]
+There, colonic bacteria deconjugate and metabolize the bilirubin into colorless urobilinogen, which can be oxidized to form urobilin and stercobilin. Urobilin is excreted by the kidneys to give urine its yellow color and stercobilin is excreted in the feces giving stool its characteristic brown color. A trace (~1%) of the urobilinogen is reabsorbed into the enterohepatic circulation to be re-excreted in the bile.[21]
+Conjugated bilirubin's half-life is shorter than delta bilirubin.[22]
+Delta bilirubin[edit]
+Although the terms direct and indirect bilirubin are used equivalently with conjugated and unconjugated bilirubin, this is not quantitatively correct, because the direct fraction includes both conjugated bilirubin and   bilirubin.[citation needed]
+Delta bilirubin is albumin-bound conjugated bilirubin.[16] In the other words, delta bilirubin is the kind of bilirubin covalently bound to albumin, which appears in the serum when hepatic excretion of conjugated bilirubin is impaired in patients with hepatobiliary disease.[23] Furthermore, direct bilirubin tends to overestimate conjugated bilirubin levels due to unconjugated bilirubin that has reacted with diazosulfanilic acid, leading to increased azobilirubin levels (and increased direct bilirubin).
+  bilirubin = total bilirubin   (unconjugated bilirubin + conjugated bilirubin)[16]
+Half-life[edit]
+The half-life of delta bilirubin is equivalent to that of albumin since the former is bound to the latter, yields 2 3 weeks.[24][18]
+A free-of-bound bilirubin has a half-life of 2 to 4 hours.[24]
+Further information: Bilirubin glucuronide
+Urine[edit]
+Under normal circumstances, only a very small amount, if any, of urobilinogen, is excreted in the urine. If the liver's function is impaired or when biliary drainage is blocked, some of the conjugated bilirubin leaks out of the hepatocytes and appears in the urine, turning it dark amber. However, in disorders involving hemolytic anemia, an increased number of red blood cells are broken down, causing an increase in the amount of unconjugated bilirubin in the blood. Because the unconjugated bilirubin is not water-soluble, one will not see an increase in bilirubin in the urine. Because there is no problem with the liver or bile systems, this excess unconjugated bilirubin will go through all of the normal processing mechanisms that occur (e.g., conjugation, excretion in bile, metabolism to urobilinogen, reabsorption) and will show up as an increase of urobilinogen in the urine. This difference between increased urine bilirubin and increased urine urobilinogen helps to distinguish between various disorders in those systems.[25]
+Toxicity[edit]
+Main article: Kernicterus
+Unbound bilirubin (Bf) levels can be used to predict the risk of  neurodevelopmental handicaps within infants.[26] Unconjugated hyperbilirubinemia in a newborn can lead to accumulation of bilirubin in certain brain regions (particularly the basal nuclei) with consequent irreversible damage to these areas manifesting as various neurological deficits, seizures, abnormal reflexes and eye movements. This type of neurological injury is known as kernicterus. The spectrum of clinical effect is called bilirubin encephalopathy. The neurotoxicity of neonatal hyperbilirubinemia manifests because the blood brain barrier has yet to develop fully,[dubious    discuss] and bilirubin can freely pass into the brain interstitium, whereas more developed individuals with increased bilirubin in the blood are protected. Aside from specific chronic medical conditions that may lead to hyperbilirubinemia, neonates in general are at increased risk since they lack the intestinal bacteria that facilitate the breakdown and excretion of conjugated bilirubin in the feces (this is largely why the feces of a neonate are paler than those of an adult). Instead the conjugated bilirubin is converted back into the unconjugated form by the enzyme  -glucuronidase (in the gut, this enzyme is located in the brush border of the lining intestinal cells) and a large proportion is reabsorbed through the enterohepatic circulation. In addition, recent studies point towards high total bilirubin levels  as a cause for gallstones regardless of gender or age.[27]
+Health benefits[edit]
+In the absence of liver disease, high levels of total bilirubin confers various health benefits.[28] Studies have also revealed that levels of serum bilirubin (SBR)[29] are inversely related to risk of certain heart diseases.[30][31] While the poor solubility and potential toxicity of bilirubin limit its potential medicinal applications, current research is being done on whether bilirubin encapsulated silk fibrin nanoparticles can alleviate symptoms of disorders such as acute pancreatitis.[32] In addition to this, there has been recent discoveries linking bilirubin and its  -polylysine-bilirubin conjugate (PLL-BR), to more efficient insulin medication. It seems that bilirubin exhibits protective properties during the islet transplantation process when drugs are delivered throughout the bloodstream.[33]
+Blood tests[edit]
+Bilirubin is degraded by light. Blood collection tubes containing blood or (especially) serum to be used in bilirubin assays should be protected from illumination. For adults, blood is typically collected by needle from a vein in the arm. In newborns, blood is often collected from a heel stick, a technique that uses a small, sharp blade to cut the skin on the infant's heel and collect a few drops of blood into a small tube. Non-invasive technology is available in some health care facilities that will measure bilirubin by using an instrument placed on the skin (transcutaneous bilirubin meter)[citation needed]
+Bilirubin (in blood) is found in two forms:
+Abb.
+Name(s)
+Water-soluble
+Reaction
+"BC"
+"Conjugated bilirubin"
+Yes (bound to glucuronic acid)
+Reacts quickly when dyes (diazo reagent) are added to the blood specimen to produce azobilirubin "Direct bilirubin"
+"BU"
+"Unconjugated bilirubin"
+No
+Reacts more slowly, still produces azobilirubin, Ethanol makes all bilirubin react promptly, then: indirect bilirubin = total bilirubin   direct bilirubin
+Note: Conjugated bilirubin is often incorrectly called "direct bilirubin" and unconjugated bilirubin is incorrectly called "indirect bilirubin". Direct and indirect refer solely to how compounds are measured or detected in solution. Direct bilirubin is any form of bilirubin which is water-soluble and is available in solution to react with assay reagents; direct bilirubin is often made up largely of conjugated bilirubin, but some unconjugated bilirubin (up to 25%) can still be part of the "direct" bilirubin fraction. Likewise, not all conjugated bilirubin is readily available in solution for reaction or detection (for example, if it is hydrogen bonding with itself) and therefore would not be included in the direct bilirubin fraction.[citation needed]
+Total bilirubin (TBIL) measures both BU and BC. Total bilirubin assays work by using surfactants and accelerators (like caffeine) to bring all of the different bilirubin forms into solution where they can react with assay reagents. Total and direct bilirubin levels can be measured from the blood, but indirect bilirubin is calculated from the total and direct bilirubin.
+Indirect bilirubin is fat-soluble and direct bilirubin is water-soluble.[34]
+Measurement methods[edit]
+Originally, the Van den Bergh reaction was used for a qualitative estimate of bilirubin.
+This test is performed routinely in most medical laboratories and can be measured by a variety of methods.[35]
+Total bilirubin is now often measured by the 2,5-dichlorophenyldiazonium (DPD) method, and direct bilirubin is often measured by the method of Jendrassik and Grof.[36]
+Blood levels[edit]
+The bilirubin level found in the body reflects the balance between production and excretion. Blood test results are advised to always be interpreted using the reference range provided by the laboratory that performed the test. The SI units are  mol/L.[citation needed] Typical ranges for adults are:[37]
+0 0.3 mg/dl   Direct (conjugated) bilirubin level
+0.1 1.2 mg/dl   Total serum bilirubin level
+ mol/l = micromole/litre
+mg/dl = milligram/ decilitre
+total bilirubin
+<21[38]
+<1.23
+direct bilirubin
+1.0 5.1[39]
+0 0.3,[40] 0.1 0.3,[39] 0.1 0.4[41]
+ Reference ranges for blood tests, comparing blood content of bilirubin (shown in blue near horizontal center at around 3 mg/L and 3  mol/L, scroll to the right to view) with other constituents[42]
+Hyperbilirubinemia[edit]
+Hyperbilirubinemia is a higher-than-normal level of bilirubin in the blood. 
+Mild rises in bilirubin may be caused by:
+Hemolysis or increased breakdown of red blood cells
+Gilbert's syndrome   a genetic disorder of bilirubin metabolism that can result in mild jaundice, found in about 5% of the population
+Rotor syndrome: non-itching jaundice, with rise of bilirubin in the patient's serum, mainly of the conjugated type
+Moderate[clarification needed] rise in bilirubin may be caused by:
+Pharmaceutical drugs (especially antipsychotic, some sex hormones, and a wide range of other drugs)
+Sulfonamides are contraindicated in infants less than 2 months old (exception when used with pyrimethamine in treating toxoplasmosis) as they increase unconjugated bilirubin leading to kernicterus.[43]
+Drugs such as protease inhibitors like Indinavir can also cause disorders of bilirubin metabolism by competitively inhibiting the UGT1A1 enzyme.[44]
+Hepatitis (levels may be moderate or high)
+Chemotherapy
+Biliary stricture (benign or malignant)
+Very high[clarification needed] levels of bilirubin may be caused by:
+Neonatal hyperbilirubinemia, where the newborn's liver is not able to properly process the bilirubin causing jaundice
+Unusually large bile duct obstruction, e.g. stone in common bile duct, tumour obstructing common bile duct etc.
+Severe liver failure with cirrhosis (e.g. primary biliary cirrhosis)
+Crigler Najjar syndrome
+Dubin Johnson syndrome
+Choledocholithiasis (chronic or acute).
+Cirrhosis may cause normal, moderately high or high levels of bilirubin, depending on exact features of the cirrhosis.
+To further elucidate the causes of jaundice or increased bilirubin, it is usually simpler to look at other liver function tests (especially the enzymes alanine transaminase, aspartate transaminase, gamma-glutamyl transpeptidase, alkaline phosphatase), blood film examination (hemolysis, etc.) or evidence of infective hepatitis (e.g., hepatitis A, B, C, delta, E, etc.).
+Jaundice[edit]
+Main article: Jaundice
+Hemoglobin acts to transport oxygen which the body receives to all body tissue via blood vessels. Over time, when red blood cells need to be replenished, the hemoglobin is broken down in the spleen; it breaks down into two parts: heme group consisting of iron and bile and protein fraction. While protein and iron are utilized to renew red blood cells, pigments that make up the red color in blood are deposited into the bile to form bilirubin.[45] Jaundice leads to raised bilirubin levels that in turn negatively remove elastin-rich tissues.[46] Jaundice may be noticeable in the sclera of the eyes at levels of about 2 to 3 mg/dl (34 to 51  mol/L),[47] and in the skin at higher levels.[note 1]
+Jaundice is classified, depending upon whether the bilirubin is free or conjugated to glucuronic acid, into conjugated jaundice or unconjugated jaundice.[citation needed].
+Urine tests[edit]
+Urine bilirubin may also be clinically significant.[48] Bilirubin is not normally detectable in the urine of healthy people. If the blood level of conjugated bilirubin becomes elevated, e.g. due to liver disease, excess conjugated bilirubin is excreted in the urine, indicating a pathological process.[49] Unconjugated bilirubin is not water-soluble and so is not excreted in the urine. Testing urine for both bilirubin and urobilinogen can help differentiate obstructive liver disease from other causes of jaundice.[25]
+History[edit]
+In ancient history, Hippocrates discussed bile pigments in two of the four humours in the context of a relationship between yellow and black biles.[50] Hippocrates visited Democritus in Abdera who was regarded as the expert in melancholy "black bile".[50]
+Relevant documentation emerged in 1827 when M. Louis Jacques Th nard examined the biliary tract of an elephant that had died at a Paris zoo. He observed dilated bile ducts were full of yellow magma, which he isolated and found to be insoluble in water. Treating the yellow pigment with hydrochloric acid produced a strong green color. Thenard suspected the green pigment was caused by impurities derived from mucus of bile.[50]
+Leopold Gmelin experimented with nitric acid in 1826 to establish the redox behavior in change from bilirubin to biliverdin, although the nomenclature did not exist at the time.[50] The term biliverdin was coined by J ns Jacob Berzelius in 1840, although he preferred "bilifulvin" (yellow/red) over "bilirubin" (red). The term "bilirubin" was thought to have become mainstream based on the works of Staedeler in 1864 who crystallized bilirubin from cattle gallstones.[50][51]
+Rudolf Virchow in 1847 recognized hematoidin to be identical to bilirubin.[52] It is not always distinguished from hematoidin, which one modern dictionary defines as synonymous with it[53] but another defines as "apparently chemically identical with bilirubin but with a different site of origin, formed locally in the tissues from hemoglobin, particularly under conditions of reduced oxygen tension."[54][50] The synonymous identity of bilirubin and hematoidin was confirmed in 1923 by Fischer and Steinmetz using analytical crystallography.[50]
+In the 1930s, significant advances in bilirubin isolation and synthesis were described by Hans Fischer, Plieninger, and others,[50] and pioneering work pertaining to endogenous formation of bilirubin from heme was likewise conducted in the same decade.[55] The suffix IX  is partially based on a system developed Fischer, which means the bilin's parent compound was protoporphyrin IX cleaved at the alpha-methine bridge (see protoporphyrin IX nomenclature).[56]
+Origins pertaining to the physiological activity of bilirubin were described by Ernst Stadelmann in 1891, who may have observed the biotransformation of infused hemoglobin into bilirubin possibly inspired by Ivan Tarkhanov's 1874 works.[50] Georg Barkan suggested the source of endogenous bilirubin to be from hemoglobin in 1932.[57] Plieninger and Fischer demonstrated an enzymatic oxidative loss of the alpha-methine bridge of heme resulting in a bis-lactam structure in 1942.[50] It is widely accepted that Irving London was the first to demonstrate endogenous formation of bilirubin from hemoglobin in 1950,[58] and Sjostrand demonstrated hemoglobin catabolism produces carbon monoxide between 1949 and 1952.[55] 14C labeled protoporphyrin biotransformation to bilirubin evidence emerged in 1966 by Cecil Watson.[50] Rudi Schmid and Tenhunen discovered heme oxygenase, the enzyme responsible, in 1968.[55]  Earlier in 1963, Nakajima described a soluble "heme alpha-methnyl oxygeanse" which what later determined to be a non-enzymatic pathway, such as formation of a 1,2-Dioxetane intermediate at the methine bridge resulting in carbon monoxide release and biliverdin formation.[56]
+Notable people[edit]
+Claudio Tiribelli, Italian hepatologist, studies on bilirubin
+See also[edit]
+Babesiosis
+Biliary atresia
+Bilirubin diglucuronide
+Biliverdin
+Crigler Najjar syndrome
+Gilbert's syndrome, a genetic disorder of bilirubin metabolism that can result in mild jaundice, found in about 5% of the population.
+Hy's Law
+Lumirubin
+Primary biliary cirrhosis
+Primary sclerosing cholangitis
+Note[edit]
+^ For conversion, 1 mg/dl = 17.1  mol/L.
+References[edit]
+^ Bonnett, Raymond; Davies, John E.; Hursthouse, Michael B. (July 1976). "Structure of bilirubin". Nature. 262 (5566): 326 328. Bibcode:1976Natur.262..326B. doi:10.1038/262326a0. PMID 958385. S2CID 4278361.
+^ Sturrock, E. D.; Bull, J. R.; Kirsch, R. E. (March 1994). "The synthesis of [10-13C]bilirubin IX ". Journal of Labelled Compounds and Radiopharmaceuticals. 34 (3): 263 274. doi:10.1002/jlcr.2580340309.
+^ Braunstein E (3 May 2019). "Overview of Hemolytic Anemia   Hematology and Oncology". Merck Manuals Professional Edition (in Latin). Retrieved 5 May 2019.
+^ "Bilirubin blood test", U.S. National Library of Medicine.
+^ Boron W, Boulpaep E. Medical Physiology: a cellular and molecular approach, 2005. 984 986. Elsevier Saunders, United States. ISBN 1-4160-2328-3
+^ Mosqueda L, Burnight K, Liao S (August 2005). "The life cycle of bruises in older adults". Journal of the American Geriatrics Society. 53 (8): 1339 43. doi:10.1111/j.1532-5415.2005.53406.x. PMID 16078959. S2CID 12394659.
+^ Smith ME, Morton DG (2010). "LIVER AND BILIARY SYSTEM". The Digestive System. Elsevier. pp. 85 105. doi:10.1016/b978-0-7020-3367-4.00006-2. ISBN 978-0-7020-3367-4.
+^ Pirone C, Quirke JM, Priestap HA, Lee DW (March 2009). "Animal pigment bilirubin discovered in plants". Journal of the American Chemical Society. 131 (8): 2830. doi:10.1021/ja809065g. PMC 2880647. PMID 19206232.
+^ McDonagh AF, Palma LA, Lightner DA (April 1980). "Blue light and bilirubin excretion". Science. 208 (4440): 145 51. Bibcode:1980Sci...208..145M. doi:10.1126/science.7361112. PMID 7361112.
+^ "Bilirubin's Chemical Formula". Archived from the original on 4 May 2011. Retrieved 14 August 2007.
+^ Stocker R, Yamamoto Y, McDonagh AF, Glazer AN, Ames BN (February 1987). "Bilirubin is an antioxidant of possible physiological importance". Science. 235 (4792): 1043 6. Bibcode:1987Sci...235.1043S. doi:10.1126/science.3029864. PMID 3029864.
+^ Baranano DE, Rao M, Ferris CD, Snyder SH (December 2002). "Biliverdin reductase: a major physiologic cytoprotectant". Proceedings of the National Academy of Sciences of the United States of America. 99 (25): 16093 8. Bibcode:2002PNAS...9916093B. doi:10.1073/pnas.252626999. JSTOR 3073913. PMC 138570. PMID 12456881.
+^ Sedlak TW, Saleh M, Higginson DS, Paul BD, Juluri KR, Snyder SH (March 2009). "Bilirubin and glutathione have complementary antioxidant and cytoprotective roles". Proceedings of the National Academy of Sciences of the United States of America. 106 (13): 5171 6. Bibcode:2009PNAS..106.5171S. doi:10.1073/pnas.0813132106. JSTOR 40455167. PMC 2664041. PMID 19286972.
+^ Chen W, Maghzal GJ, Ayer A, Suarna C, Dunn LL, Stocker R (February 2018). "Absence of the biliverdin reductase-a gene is associated with increased endogenous oxidative stress". Free Radical Biology & Medicine. 115: 156 165. doi:10.1016/j.freeradbiomed.2017.11.020. PMID 29195835. S2CID 25089098.
+^ Vasavda C, Kothari R, Malla AP, Tokhunts R, Lin A, Ji M,  et al. (October 2019). "Bilirubin Links Heme Metabolism to Neuroprotection by Scavenging Superoxide". Cell Chemical Biology. 26 (10): 1450 1460.e7. doi:10.1016/j.chembiol.2019.07.006. PMC 6893848. PMID 31353321.
+^ a b c d Tietze KJ (2012). "Review of Laboratory and Diagnostic Tests". Clinical Skills for Pharmacists. Elsevier. pp. 86 122. doi:10.1016/b978-0-323-07738-5.10005-5. ISBN 978-0-323-07738-5.
+^ Gwaltney-Brant SM (2016). "Nutraceuticals in Hepatic Diseases". Nutraceuticals. Elsevier. pp. 87 99. doi:10.1016/b978-0-12-802147-7.00007-3. ISBN 978-0-12-802147-7. S2CID 78381597.
+^ a b "Unconjugated Hyperbilirubinemia: Practice Essentials, Background, Pathophysiology". Medscape Reference. 4 March 2019. Retrieved 6 May 2019.
+^ "Bilirubin: Reference Range, Interpretation, Collection and Panels". Medscape Reference. 1 February 2019. Retrieved 6 May 2019.
+^ Cheifetz AS (2010). Oxford American Handbook of Gastroenterology and Hepatology. Oxford: Oxford University Press, USA. p. 165. ISBN 978-0199830121.
+^ Kuntz, Erwin (2008). Hepatology: Textbook and Atlas. Germany: Springer. p. 38. ISBN 978-3-540-76838-8.
+^ Sullivan KM, Gourley GR (2011). "Jaundice". Pediatric Gastrointestinal and Liver Disease. Elsevier. pp. 176 186.e3. doi:10.1016/b978-1-4377-0774-8.10017-x. ISBN 978-1-4377-0774-8.
+^ Moyer KD, Balistreri WF (2011). "Liver Disease Associated with Systemic Disorders".  In Kliegman RM, Stanton BF, St Geme JW, Schor NF, Behrman RE (eds.). Nelson Textbook of Pediatrics. Saunders. p. 1405. ISBN 978-1-4377-0755-7.
+^ a b Kalakonda A, John S (2019). "Physiology, Bilirubin article-18281". StatPearls. Treasure Island (FL): StatPearls Publishing. PMID 29261920. Retrieved 22 December 2019. This fraction of conjugated bilirubin gets covalently bound to albumin, and is called delta bilirubin or delta fraction or biliprotein. As the delta bilirubin is bound to albumin, its clearance from serum takes about 12 14 days (equivalent to the half-life of albumin) in contrast to the usual 2 to 4 hours (half-life of bilirubin).
+^ a b Roxe, D. M.; Walker, H. K.; Hall, W. D.; Hurst, J. W. (1990). "Urinalysis". Clinical Methods: The History, Physical, and Laboratory Examinations. Butterworths. ISBN 9780409900774. PMID 21250145.
+^ Hegyi, T.; Chefitz, D.; Weller, A.; Huber, A; Carayannopoulos, M.; Kleinfeld, A. (2020). "Unbound bilirubin measurements in term and late-preterm infants". Journal of Maternal-Fetal & Neonatal Medicine. 35 (8): 1532 1538. doi:10.1080/14767058.2020.1761318. PMC 7609464. PMID 32366186.
+^ Zeng, D.; Wu, H.; Huang, Q.; Zeng, A.; Yu, Z.; Zhong, Z. (2021). "High levels of serum triglyceride, low-density lipoprotein cholesterol, total bile acid, and total bilirubin are risk factors for gallstones". Clinical Laboratory. 67 (8): 1905 1913. doi:10.7754/Clin.Lab.2021.201228. PMID 34383399. S2CID 234775572. Retrieved 11 November 2021   via PubMed.
+^ Sedlak TW, Snyder SH (June 2004). "Bilirubin benefits: cellular protection by a biliverdin reductase antioxidant cycle". Pediatrics. 113 (6): 1776 82. doi:10.1542/peds.113.6.1776. PMID 15173506.
+^ "Neonatal Jaundice". Slhd.nsw.gov.au. 24 August 2009. Retrieved 16 March 2022.
+^ Novotn  L, V tek L (May 2003). "Inverse relationship between serum bilirubin and atherosclerosis in men: a meta-analysis of published studies". Experimental Biology and Medicine. 228 (5): 568 71. doi:10.1177/15353702-0322805-29. PMID 12709588. S2CID 43486067.
+^ Schwertner HA, V tek L (May 2008). "Gilbert syndrome, UGT1A1*28 allele, and cardiovascular disease risk: possible protective effects and therapeutic applications of bilirubin". Atherosclerosis. 198 (1): 1 11. doi:10.1016/j.atherosclerosis.2008.01.001. PMID 18343383.
+^ Yao, Q.; Jiang, X.; Zhai, Yuan-Yuan; Luo, Lan-Zi; Xu, He-Lin; Xiao, J.; Kou, L.; zhao, Ying-Zheng (2020). "Protective effects and mechanisms of bilirubin nanomedicine against acute pancreatitis". Journal of Controlled Release. 332: 312 325. doi:10.1016/j.jconrel.2020.03.034. PMID 32243974. S2CID 214786812. Retrieved 11 November 2021   via Elsevier Science Direct.
+^ Zhao, Ying-Zheng; Huang, Zhi-Wei; Zhai, Yuan-Yuan; Shi, Yannan; Du, Chu-Chu; Zhai, Jiaoyuan; Xu, He-Lin; Xiao, Jian; Kou, Longfa; Yao, Qing (2021). "Polylysine-bilirubin conjugates maintain functional islets and promote M2 macrophage polarization". Acta Biomaterialia. 122: 172 185. doi:10.1016/j.actbio.2020.12.047. PMID 33387663. S2CID 230281925. Retrieved 11 November 2021   via Elsevier Science Direct.
+^ "Bilirubin: The Test | Bilirubin Test: Total bilirubin; TBIL; Neonatal bilirubin; Direct bilirubin; Conjugated bilirubin; Indirect bilirubin; Unconjugated bilirubin | Lab Tests Online". labtestsonline.org. Retrieved 14 June 2017.
+^ Watson D, Rogers JA (May 1961). "A study of six representative methods of plasma bilirubin analysis". Journal of Clinical Pathology. 14 (3): 271 8. doi:10.1136/jcp.14.3.271. PMC 480210. PMID 13783422.
+^ Rolinski B, K ster H, Ugele B, Gruber R, Horn K (October 2001). "Total bilirubin measurement by photometry on a blood gas analyzer: potential for use in neonatal testing at the point of care". Clinical Chemistry. 47 (10): 1845 7. doi:10.1093/clinchem/47.10.1845. PMID 11568098.
+^ MedlinePlus Encyclopedia: 003479
+^ "Harmonisation of Reference Intervals" (PDF). Pathology Harmony. Archived from the original (PDF) on 18 December 2014. Retrieved 23 September 2014.
+^ a b Golonka D. "Digestive Disorders Health Center: Bilirubin". WebMD. p. 3. Archived from the original on 1 January 2010. Retrieved 14 January 2010.
+^ MedlinePlus Encyclopedia: CHEM-20
+^ "Laboratory tests". Archived from the original on 13 August 2007. Retrieved 14 August 2007.
+^ Stricker R, Eberhart R, Chevailler MC, Quinn FA, Bischof P, Stricker R (2006). "Establishment of detailed reference values for luteinizing hormone, follicle stimulating hormone, estradiol, and progesterone during different phases of the menstrual cycle on the Abbott ARCHITECT analyzer". Clinical Chemistry and Laboratory Medicine. 44 (7): 883 7. doi:10.1515/CCLM.2006.160. PMID 16776638. S2CID 524952.
+^ "Sulfonamides: Bacteria and Antibacterial Drugs: Merck Manual Professional".[permanent dead link]
+^ Ramakrishnan, N.; Bittar, K.; Jialal, I. (8 March 2019). "Impaired Bilirubin Conjugation". NCBI Bookshelf. PMID 29494090. Retrieved 3 May 2019.
+^ Point WW (April 1958). "Jaundice". The American Journal of Nursing. 58 (4): 556 7. PMID 13508735.
+^ Greenberg DA (December 2002). "The jaundice of the cell". Proceedings of the National Academy of Sciences of the United States of America. 99 (25): 15837 9. Bibcode:2002PNAS...9915837G. doi:10.1073/pnas.012685199. PMC 138521. PMID 12461187. S2CID 30298986.
+^ Merck Manual Jaundice Last full review/revision July 2009 by Steven K. Herrine
+^ MedlinePlus Encyclopedia: Bilirubin   urine
+^ "Urinalysis: three types of examinations". Lab Tests Online (USA). Retrieved 16 August 2013.
+^ a b c d e f g h i j k Watson, Cecil J. (1977). "Historical Review of Bilirubin Chemistry".  In Berk, Paul D. (ed.). International Symposium on Chemistry and Physiology of Bile Pigments. U.S. Department of Health, Education, and Welfare, Public Health Service, National Institutes of Health. pp. 3 16.
+^ HIAN SIONG LEON MARIA TJEN (1944). "CHOLESCINTIGRAPHY the clinical application of 99m Technetium-diethyl-IDA to the investigation of the liver and biliary tract" (PDF). Archived (PDF) from the original on 3 November 2021.
+^ Lightner DA (2013). "Early Scientific Investigations". Bilirubin: Jekyll and Hyde Pigment of Life. Progress in the Chemistry of Organic Natural Products. Vol. 98. pp. 9 179. doi:10.1007/978-3-7091-1637-1_2. ISBN 978-3-7091-1636-4.
+^ Merriam-Webster, Merriam-Webster's Unabridged Dictionary, Merriam-Webster, archived from the original on 25 May 2020, retrieved 14 January 2018.
+^ Elsevier, Dorland's Illustrated Medical Dictionary, Elsevier, archived from the original on 11 January 2014, retrieved 14 January 2018.
+^ a b c Hopper, Christopher P.; Zambrana, Paige N.; Goebel, Ulrich; Wollborn, Jakob (2021). "A brief history of carbon monoxide and its therapeutic origins". Nitric Oxide. 111 112: 45 63. doi:10.1016/j.niox.2021.04.001. PMID 33838343. S2CID 233205099.
+^ a b Berk, Paul D.; Berlin, Nathaniel I. (1977). International Symposium on Chemistry and Physiology of Bile Pigments. U.S. Department of Health, Education, and Welfare, Public Health Service, National Institutes of Health. pp. 27, 50.
+^ Barkan, Georg; Schales, Otto (1938). "A H moglobin from Bile Pigment". Nature. 142 (3601): 836 837. Bibcode:1938Natur.142..836B. doi:10.1038/142836b0. ISSN 1476-4687. S2CID 4073510.
+^ "Bilirubin". American Chemical Society. Retrieved 28 May 2021.
+External links[edit]
+Bilirubin: analyte monograph from The Association for Clinical Biochemistry and Laboratory Medicine
+vteTypes of tetrapyrrolesBilanes(Linear)
+Bilirubin
+Biliverdin
+Stercobilinogen
+Stercobilin
+Urobilinogen
+Urobilin
+Phytobilins
+Phytochromobilin
+Phycobilins
+Phycoerythrobilin
+Phycocyanobilin
+Phycourobilin
+Phycoviolobilin
+MacrocycleCorrinoids
+Adenosylcobalamin
+Cyanocobalamin
+Methylcobalamin
+PorphyrinsProtoporphyrins
+Heme (b, c, a, o)
+Magnesium protoporphyrin
+Protoporphyrin IX
+Pterobilin
+Zinc protoporphyrin
+Phytoporphyrins
+Chlorophyll c
+Protochlorophyllide
+ReducedporphyrinsPorphyrinogens
+Uroporphyrinogen (I, III)
+Coproporphyrinogen (I, III)
+Protoporphyrinogen IX
+Chlorins
+Chlorophyllide (a, b)
+Chlorophyll (a, b)
+Pheophytin (a, b)
+Bacteriochlorophyll c
+Bacteriochlorins
+Bacteriochlorophyll a
+Isobacteriochlorins
+Siroheme
+Sirohydrochlorin
+Corphins
+Cofactor F430
+vteClinical biochemistry blood testsElectrolytes
+Sodium
+Potassium
+Chloride
+Calcium
+Renal function
+Creatinine
+Urea
+BUN-to-creatinine ratio
+Plasma osmolality
+Serum osmolal gap
+Acid-base
+Anion gap
+Arterial blood gas
+Base excess
+Bicarbonate
+CO2 content
+Lactate
+Iron tests
+Ferritin
+Serum iron
+Transferrin saturation
+Total iron-binding capacity
+Transferrin
+Transferrin receptor
+Hormones
+ACTH stimulation test
+Thyroid function tests
+Thyroid-stimulating hormone
+Metabolism
+Blood glucose
+Hemoglobin A1c
+Lipid panel
+LDL
+HDL
+Triglycerides
+Total cholesterol
+Basic metabolic panel
+Comprehensive metabolic panel
+Cardiovascular
+Cardiac marker
+Troponin test
+CPK-MB test
+Lactate dehydrogenase
+Myoglobin
+Glycogen phosphorylase isoenzyme BB
+Liver function tests
+Proteins
+Human serum albumin
+Serum total protein
+ALP
+transaminases
+ALT
+AST
+AST/ALT ratio
+GGT
+Bilirubin
+Unconjugated
+Conjugated
+Pancreas
+Amylase
+Lipase
+Pancreatic lipase
+Small moleculesBlood sugar level
+Hypoglycemia
+Hyperglycemia
+Nitrogenous
+Azotemia
+Hyperuricemia
+Hypouricemia
+ProteinsLFT
+Elevated transaminases
+Elevated ALP
+Hypoproteinemia
+Hypoalbuminemia
+Other
+Elevated alpha-fetoprotein
+vteHeme metabolic intermediatesPorphyrin biosynthesisearly mitochondrial:
+D-Aminolevulinic acid
+cytosolic:
+Porphobilinogen
+Hydroxymethylbilane
+Uroporphyrinogen III
+Coproporphyrinogen III
+late mitochondrial:
+Protoporphyrinogen IX
+Protoporphyrin IX
+Heme degradationand excretionBreakdown of hemespleen:
+Heme   Biliverdin   Bilirubin
+blood:
+Bilirubin+Albumin
+liver:
+Bilirubin glucuronide
+Bilirubin diglucuronide
+Intestine, excretion in feces
+Stercobilinogen
+Stercobilin
+Urobilinogen
+Kidney, excretion in urine
+Urobilin
+vteAryl hydrocarbon receptor modulatorsAhR
+Agonists: Arachidonic acid metabolites (e.g., lipoxin A4, prostaglandin G2)
+Dietary carotenoids
+Flutamide
+Halogenated aromatic hydrocarbons (e.g., polychlorinated dibenzodioxins (e.g., TCDD), dibenzofurans, biphenyls)
+ 
+Modified low-density lipoproteins
+Polycyclic aromatic hydrocarbons (e.g., 3-methylcholanthrene, benzo[a]pyrene, benzanthracenes, benzoflavones (e.g.,  -naphthoflavone))
+Tapinarof (benvitimod)
+Tetrapyroles (e.g., bilirubin)
+Tryptophan derivatives (e.g., indigo dye, indirubin)
+Antagonists: 7-Ketocholesterol
+CH-223191
+Cyproterone acetate
+See also
+Receptor/signaling modulators
+Authority control: National 
+France
+BnF data
+Germany
+Israel
+United States
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Bilirubin&oldid=1148234926"

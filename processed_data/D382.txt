@@ -1,0 +1,1187 @@
+Electrical power generation from wind
+"wind energy" redirects here. For the academic journal, see Wind Energy (journal).
+This article may lack focus or may be about more than one topic. Please help improve this article, possibly by splitting the article and/or by introducing a disambiguation page, or discuss this issue on the talk page. (April 2023)
+ Wind farm in Xinjiang, China
+ Electricity production by source
+Part of a series onSustainable energy
+Energy conservation
+Building insulation
+Cogeneration
+Efficient energy use
+Energy storage
+Environmental planning
+Green building
+Green retrofit
+Heat pump
+List of low-energy building techniques
+Low-energy house
+Microgeneration
+Sustainable architecture
+Zero-energy building
+Renewable energy
+Biomass
+Carbon-neutral fuel
+Geothermal
+Hydropower
+Marine energy
+Renewable energy transition
+Renewable heat
+Solar
+Sustainable biofuel
+Tidal power
+Wave power
+Wind
+Sustainable transport
+Bicycle
+Cycle rickshaw
+Electric bicycle
+Electric vehicle
+Green vehicle
+Hybrid vehicle
+Kick scooter
+Personal rapid transit
+Plug-in hybrid
+Rail transport
+Solar vehicle
+Tram
+Walking
+ Renewable energy portal
+ Categoryvte
+Wind power is the use of wind energy to generate useful work. Historically, wind power was used by sails, windmills and windpumps, but today it is mostly used to generate electricity. This article deals mostly with wind power for electricity generation.
+Today, wind power is almost completely generated with wind turbines, generally grouped into wind farms and connected to the electrical grid. 
+In 2021, wind supplied over 1800 TWh of electricity, which was over 6% of world electricity[1] and about 2% of world energy.[2][3] With about 100 GW added during 2021, mostly in China and the United States, global installed wind power capacity exceeded 800 GW.[4][3][5] To help meet the Paris Agreement goals to limit climate change, analysts say it should expand much faster - by over 1% of electricity generation per year.[6]
+Wind power is considered a sustainable, renewable energy source, and has a much smaller impact on the environment compared to burning fossil fuels. 
+Wind power is variable, so it needs energy storage or other dispatchable generation energy sources to attain a reliable supply of electricity. 
+Land-based (onshore) wind farms have a greater visual impact on the landscape than most other power stations per energy produced.[7][8] Wind farms sited offshore have less visual impact and have higher capacity factors, although they are generally more expensive.[4] Offshore wind power currently has a share of about 10% of new installations.[9]
+Wind power is one of the lowest-cost electricity sources per unit of energy produced. 
+In many locations, new onshore wind farms are cheaper than new coal or gas plants.[10]
+Regions in the higher northern and southern latitudes have the highest potential for wind power.[11] In most regions, wind power generation is higher in nighttime, and in winter when PV output is low. For this reason, combinations of wind and solar power are suitable in many countries.[12]
+Wind energy resources
+ Global map of wind speed at 100 m above surface level[13]
+ Distribution of wind speed (red) and energy (blue) for all of 2002 at the Lee Ranch facility in Colorado. The histogram shows measured data, while the curve is the Rayleigh model distribution for the same average wind speed.
+Wind is air movement in the earth's atmosphere. In a unit of time, say 1 second, the volume of air that had passed an area 
+A
+{\displaystyle A}
+ is 
+A
+v
+{\displaystyle Av}
+. If the air density is 
+r
+{\displaystyle r}
+ , the mass of this volume of air is 
+M
+=
+r
+A
+v
+{\displaystyle M=rAv}
+, and the power transfer, or energy transfer per second is 
+P
+=
+1
+2
+M
+v
+2
+=
+1
+2
+A
+r
+v
+3
+{\displaystyle P={\frac {1}{2}}Mv^{2}={\frac {1}{2}}Arv^{3}}
+. Wind power is thus proportional to the third power of the wind speed; the available power increases eightfold when the wind speed doubles. (More precisely, change of wind speed by a factor of 2.1544 increases the wind power by one order of magnitude (multiply by 10).
+The global wind kinetic energy averaged approximately 1.50 MJ/m2 over the period from 1979 to 2010, 1.31 MJ/m2 in the Northern Hemisphere with 1.70 MJ/m2 in the Southern Hemisphere. The atmosphere acts as a thermal engine, absorbing heat at higher temperatures, releasing heat at lower temperatures. The process is responsible for the production of wind kinetic energy at a rate of 2.46 W/m2 thus sustaining the circulation of the atmosphere against friction.[14]
+Through wind resource assessment, it is possible to estimate wind power potential globally, by country or region, or for a specific site. The Global Wind Atlas provided by the Technical University of Denmark in partnership with the World Bank provides a global assessment of wind power potential.[13][15][16]
+Unlike 'static' wind resource atlases which average estimates of wind speed and power density across multiple years, tools such as Renewables.ninja provide time-varying simulations of wind speed and power output from different wind turbine models at an hourly resolution.[17] More detailed, site-specific assessments of wind resource potential can be obtained from specialist commercial providers, and many of the larger wind developers have in-house modeling capabilities.
+The total amount of economically extractable power available from the wind is considerably more than present human power use from all sources.[18] The strength of wind varies, and an average value for a given location does not alone indicate the amount of energy a wind turbine could produce there.
+To assess prospective wind power sites, a probability distribution function is often fit to the observed wind speed data.[19] Different locations will have different wind speed distributions. The Weibull model closely mirrors the actual distribution of hourly/ten-minute wind speeds at many locations. The Weibull factor is often close to 2 and therefore a Rayleigh distribution can be used as a less accurate, but simpler model.[20]
+Wind farms
+Main articles: Wind farm and List of onshore wind farms
+Large onshore wind farms
+Wind farm
+Capacity(MW)
+Country
+Refs
+Gansu Wind Farm
+7,965
+ China
+[21]
+Muppandal wind farm
+1,500
+ India
+[22]
+Alta (Oak Creek-Mojave)
+1,320
+ United States
+[23]
+Jaisalmer Wind Park
+1,064
+ India
+[24]
+A wind farm is a group of wind turbines in the same location. A large wind farm may consist of several hundred individual wind turbines distributed over an extended area. The land between the turbines may be used for agricultural or other purposes. A wind farm may also be located offshore. Almost all large wind turbines have the same design  a horizontal axis wind turbine having an upwind rotor with 3 blades, attached to a nacelle on top of a tall tubular tower.
+In a wind farm, individual turbines are interconnected with a medium voltage (often 34.5 kV) power collection system[25] and communications network. In general, a distance of 7D (7 times the rotor diameter of the wind turbine) is set between each turbine in a fully developed wind farm.[26] At a substation, this medium-voltage electric current is increased in voltage with a transformer for connection to the high voltage electric power transmission system.[27]
+Generator characteristics and stability
+Most modern turbines use variable speed generators combined with either a partial or full-scale power converter between the turbine generator and the collector system, which generally have more desirable properties for grid interconnection and have low voltage ride through-capabilities.[28] Modern turbines use either doubly fed electric machines with partial-scale converters or squirrel-cage induction generators or synchronous generators (both permanently and electrically excited) with full-scale converters.[29] Black start is possible[30] and is being further developed for places (such as Iowa) which generate most of their electricity from wind.[31]
+Transmission system operators will supply a wind farm developer with a grid code to specify the requirements for interconnection to the transmission grid. This will include the power factor, the constancy of frequency, and the dynamic behaviour of the wind farm turbines during a system fault.[32][33]
+Offshore wind power
+The world's second full-scale floating wind turbine (and first to be installed without the use of heavy-lift vessels), WindFloat, operating at rated capacity (2  MW) approximately 5  km offshore of P voa de Varzim, PortugalOffshore windfarms, including floating windfarms, provide a small but growing fraction of total windfarm power generation. Such power generation capacity must grow substantially to help meet the IEA's Net Zero by 2050 pathway to combat climate change.[34]
+Main articles: Offshore wind power and List of offshore wind farms
+Offshore wind power is wind farms in large bodies of water, usually the sea. These installations can use the more frequent and powerful winds that are available in these locations and have less visual impact on the landscape than land-based projects. However, the construction and maintenance costs are considerably higher.[35][36]
+As of November 2021, the Hornsea Wind Farm in the United Kingdom is the largest offshore wind farm in the world at 1,218 MW.[37]
+Collection and transmission network
+Near offshore wind farms may be connected by AC and far offshore by HVDC.[38]
+Wind power resources are not always located near to high population density. As transmission lines become longer, the losses associated with power transmission increase, as modes of losses at lower lengths are exacerbated and new modes of losses are no longer negligible as the length is increased; making it harder to transport large loads over large distances.[39]
+When the transmission capacity does not meet the generation capacity, wind farms are forced to produce below their full potential or stop running altogether, in a process known as curtailment. While this leads to potential renewable generation left untapped, it prevents possible grid overload or risk to reliable service.[40]
+One of the biggest current challenges to wind power grid integration in some countries is the necessity of developing new transmission lines to carry power from wind farms, usually in remote lowly populated areas due to availability of wind, to high load locations, usually on the coasts where population density is higher.[41] Any existing transmission lines in remote locations may not have been designed for the transport of large amounts of energy.[42] In particular geographic regions, peak wind speeds may not coincide with peak demand for electrical power, whether offshore or onshore. A possible future option may be to interconnect widely dispersed geographic areas with an HVDC super grid.[43]
+Wind power capacity and production
+Main articles: Wind power by country and Wind power industry
+Growth trends
+Log graph of global wind power cumulative capacity (Data:GWEC)[44]
+ Wind energy generation by region over time[45]
+In 2020, wind supplied almost 1600 TWh of electricity, which was over 5% of worldwide electrical generation and about 2% of energy consumption.[2][3] With over 100 GW added during 2020, mostly in China, global installed wind power capacity reached more than 730 GW.[4][3] But to help meet the Paris Agreement's goals to limit climate change, analysts say it should expand much faster - by over 1% of electricity generation per year.[6] Expansion of wind power is being hindered by fossil fuel subsidies.[46][47][48]
+The actual amount of electric power that wind can generate is calculated by multiplying the nameplate capacity by the capacity factor, which varies according to equipment and location. Estimates of the capacity factors for wind installations are in the range of 35% to 44%.[49]
+ Wind generation by country
+Number of countries with wind capacities in the gigawatt-scale
+10
+20
+30
+40
+2005
+2010
+2015
+2019
+Growing number of wind gigawatt-markets
+ Countries above the 1-GW mark
+ 2018   2017  2016    2015   2012   2011   2010    2009  2008    2006   2005     2004   1999   1997  1995  1986 
+ Countries above the 10-GW mark
+ 2018  2016  2015   2013  2009  2008  2006   2002 
+ Countries above the 100-GW mark
+ 2019  2014                   
+Capacity factor
+Since wind speed is not constant, a wind farm's annual energy production is never as much as the sum of the generator nameplate ratings multiplied by the total hours in a year. The ratio of actual productivity in a year to this theoretical maximum is called the capacity factor. Online data is available for some locations, and the capacity factor can be calculated from the yearly output.[50][51]
+Penetration
+Share of electricity production from wind, 2021In 2021, wind and solar power reached a record 10% of global electricity.[52] Shown: 20 leading countries.[53]
+Wind energy penetration is the fraction of energy produced by wind compared with the total generation. Wind power's share of worldwide electricity usage in 2021 was almost 7%,[54] up from 3.5% in 2015.[55][56]
+There is no generally accepted maximum level of wind penetration. The limit for a particular grid will depend on the existing generating plants, pricing mechanisms, capacity for energy storage, demand management, and other factors. An interconnected electric power grid will already include reserve generating and transmission capacity to allow for equipment failures. This reserve capacity can also serve to compensate for the varying power generation produced by wind stations. Studies have indicated that 20% of the total annual electrical energy consumption may be incorporated with minimal difficulty.[57] These studies have been for locations with geographically dispersed wind farms, some degree of dispatchable energy or hydropower with storage capacity, demand management, and interconnected to a large grid area enabling the export of electric power when needed. Electrical utilities continue to study the effects of large-scale penetration of wind generation on system stability.[58]
+A wind energy penetration figure can be specified for different duration of time but is often quoted annually. To generate almost all electricity from wind annually requires substantial interconnection to other systems, for example some wind power in Scotland is sent to the rest of the British grid.[59] On a monthly, weekly, daily, or hourly basis or less wind might supply as much as or more than 100% of current use, with the rest stored, exported or curtailed. The seasonal industry might then take advantage of high wind and low usage times such as at night when wind output can exceed normal demand. Such industry might include the production of silicon, aluminum,[60] steel, or natural gas, and hydrogen, and using future long-term storage to facilitate 100% energy from variable renewable energy.[61][62][better source needed] Homes and businesses can also be programmed to vary electricity demand,[63][64] for example by remotely turning up water heater thermostats.[65]
+Variability
+Main article: Variable renewable energy
+Further information: Grid balancing
+ Wind turbines are typically installed in windy locations. In the image, wind power generators in Spain, near an Osborne bull.
+ Roscoe Wind Farm: an onshore wind farm in West Texas near Roscoe
+Wind power is variable, and during low wind periods, it may need to be replaced by other power sources. Transmission networks presently cope with outages of other generation plants and daily changes in electrical demand, but the variability of intermittent power sources such as wind power is more frequent than those of conventional power generation plants which, when scheduled to be operating, may be able to deliver their nameplate capacity around 95% of the time.
+Electric power generated from wind power can be highly variable at several different timescales: hourly, daily, or seasonally. Annual variation also exists but is not as significant.[citation needed] Because instantaneous electrical generation and consumption must remain in balance to maintain grid stability, this variability can present substantial challenges to incorporating large amounts of wind power into a grid system. Intermittency and the non-dispatchable nature of wind energy production can raise costs for regulation, incremental operating reserve, and (at high penetration levels) could require an increase in the already existing energy demand management, load shedding, storage solutions, or system interconnection with HVDC cables.
+Fluctuations in load and allowance for the failure of large fossil-fuel generating units require operating reserve capacity, which can be increased to compensate for the variability of wind generation.
+Utility-scale batteries are often used to balance hourly and shorter timescale variation,[66][67] but car batteries may gain ground from the mid-2020s.[68] Wind power advocates argue that periods of low wind can be dealt with by simply restarting existing power stations that have been held in readiness, or interlinking with HVDC.[69]
+The combination of diversifying variable renewables by type and location, forecasting their variation, and integrating them with dispatchable renewables, flexible fueled generators, and demand response can create a power system that has the potential to meet power supply needs reliably. Integrating ever-higher levels of renewables is being successfully demonstrated in the real world.[70]
+ Seasonal cycle of capacity factors for wind and photovoltaics in Europe under idealized assumptions. The figure illustrates the balancing effects of wind and solar energy at the seasonal scale (Kaspar et al., 2019).[71]
+Solar power tends to be complementary to wind.[72][73] On daily to weekly timescales, high-pressure areas tend to bring clear skies and low surface winds, whereas low-pressure areas tend to be windier and cloudier. On seasonal timescales, solar energy peaks in summer, whereas in many areas wind energy is lower in summer and higher in winter.[A][74] Thus the seasonal variation of wind and solar power tend to cancel each other somewhat.[71] Wind hybrid power systems are becoming more popular.[75]
+Predictability
+Main article: Wind power forecasting
+For any particular generator, there is an 80% chance that wind output will change less than 10% in an hour and a 40% chance that it will change 10% or more in 5 hours.[76]
+In summer 2021, wind power in the United Kingdom fell due to the lowest winds in seventy years,[77] In the future, smoothing peaks by producing green hydrogen may help when wind has a larger share of generation.[78]
+While the output from a single turbine can vary greatly and rapidly as local wind speeds vary, as more turbines are connected over larger and larger areas the average power output becomes less variable and more predictable.[28][79] Weather forecasting permits the electric-power network to be readied for the predictable variations in production that occur.[80]
+It is thought that the most reliable low-carbon electricity systems will include a large share of wind power.[81]
+Energy storage
+Main article: Grid energy storage
+See also: List of energy storage projects
+Typically, conventional hydroelectricity complements wind power very well. When the wind is blowing strongly, nearby hydroelectric stations can temporarily hold back their water. When the wind drops they can, provided they have the generation capacity, rapidly increase production to compensate. This gives a very even overall power supply and virtually no loss of energy and uses no more water.
+Alternatively, where a suitable head of water is not available, pumped-storage hydroelectricity or other forms of grid energy storage such as compressed air energy storage and thermal energy storage can store energy developed by high-wind periods and release it when needed. The type of storage needed depends on the wind penetration level   low penetration requires daily storage, and high penetration requires both short- and long-term storage   as long as a month or more.[citation needed] Stored energy increases the economic value of wind energy since it can be shifted to displace higher-cost generation during peak demand periods. The potential revenue from this arbitrage can offset the cost and losses of storage. Although pumped-storage power systems are only about 75% efficient and have high installation costs, their low running costs and ability to reduce the required electrical base-load can save both fuel and total electrical generation costs.[82][83]
+Energy payback
+The energy needed to build a wind farm divided into the total output over its life, Energy Return on Energy Invested, of wind power varies, but averages about 20 25.[84][85] Thus, the energy payback time is typically around a year.
+Economics
+ Onshore wind cost per kilowatt-hour between 1983 and 2017[86]
+Onshore wind is an inexpensive source of electric power, cheaper than coal plants and new gas plants.[10] According to BusinessGreen, wind turbines reached grid parity (the point at which the cost of wind power matches traditional sources) in some areas of Europe in the mid-2000s, and in the US around the same time. Falling prices continue to drive the Levelized cost down and it has been suggested that it has reached general grid parity in Europe in 2010, and will reach the same point in the US around 2016 due to an expected reduction in capital costs of about 12%.[87][needs update] In 2021, the CEO of Siemens Gamesa warned that increased demand for low-cost wind turbines combined with high input costs and high costs of steel result in increased pressure on the manufacturers and decreasing profit margins.[88]
+Northern Eurasia, Canada, some parts of the United States, and Patagonia in Argentina are the best areas for onshore wind: whereas in other parts of the world solar power, or a combination of wind and solar, tend to be cheaper.[89]: 8 
+Electric power cost and trends
+ A turbine blade convoy passing through Edenfield in the U.K. (2008). Even longer 2-piece blades are now manufactured, and then assembled on-site to reduce difficulties in transportation.
+See also: Cost of electricity by source
+Wind power is capital intensive but has no fuel costs.[90] The price of wind power is therefore much more stable than the volatile prices of fossil fuel sources.[91] However, the estimated average cost per unit of electric power must incorporate the cost of construction of the turbine and transmission facilities, borrowed funds, return to investors (including the cost of risk), estimated annual production, and other components, averaged over the projected useful life of the equipment, which may be more than 20 years. Energy cost estimates are highly dependent on these assumptions so published cost figures can differ substantially.
+The presence of wind energy, even when subsidized, can reduce costs for consumers ( 5 billion/yr in Germany) by reducing the marginal price, by minimizing the use of expensive peaking power plants.[92]
+The cost has decreased as wind turbine technology has improved. There are now longer and lighter wind turbine blades, improvements in turbine performance, and increased power generation efficiency. Also, wind project capital expenditure costs and maintenance costs have continued to decline.[93]
+In 2021, a Lazard study of unsubsidized electricity said that wind power levelized cost of electricity continues to fall but more slowly than before. The study estimated new wind-generated electricity cost from $26 to $50/MWh, compared to new gas power from $45 to $74/MWh. The median cost of fully deprecated existing coal power was $42/MWh, nuclear $29/MWh and gas $24/MWh. The study estimated offshore wind at around $83/MWh. Compound annual growth rate was 4% per year from 2016 to 2021, compared to 10% per year from 2009 to 2021.[10]
+Incentives and community benefits
+Turbine prices have fallen significantly in recent years due to tougher competitive conditions such as the increased use of energy auctions, and the elimination of subsidies in many markets.[94] As of 2021, subsidies are still often given to offshore wind. But they are generally no longer necessary for onshore wind in countries with even a very low carbon price such as China, provided there are no competing fossil fuel subsidies.[95]
+Secondary market forces provide incentives for businesses to use wind-generated power, even if there is a premium price for the electricity. For example, socially responsible manufacturers pay utility companies a premium that goes to subsidize and build new wind power infrastructure. Companies use wind-generated power, and in return, they can claim that they are undertaking strong "green" efforts.[96] Wind projects provide local taxes, or payments in place of taxes and strengthen the economy of rural communities by providing income to farmers with wind turbines on their land.[97][98]
+The wind energy sector can also produce jobs during the construction and operating phase.[99] Jobs include the manufacturing of wind turbines and the construction process, which includes transporting, installing, and then maintaining the turbines. An estimated 1.25 million people were employed in wind power in 2020.[100]
+Small-scale wind power
+Main article: Small wind turbine
+Further information: Microgeneration
+ A small Quietrevolution QR5 Gorlov type vertical axis wind turbine on the roof of Colston Hall in Bristol, England. Measuring 3 m in diameter and 5 m high, it has a nameplate rating of 6.5 kW.
+Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50 kW of electrical power.[101] Isolated communities, that may otherwise rely on diesel generators, may use wind turbines as an alternative. Individuals may purchase these systems to reduce or eliminate their dependence on grid electric power for economic reasons, or to reduce their carbon footprint. Wind turbines have been used for household electric power generation in conjunction with battery storage over many decades in remote areas.[102]
+Examples of small-scale wind power projects in an urban setting can be found in New York City, where, since 2009, several building projects have capped their roofs with Gorlov-type helical wind turbines. Although the energy they generate is small compared to the buildings' overall consumption, they help to reinforce the building's 'green' credentials in ways that "showing people your high-tech boiler" cannot, with some of the projects also receiving the direct support of the New York State Energy Research and Development Authority.[103]
+Grid-connected domestic wind turbines may use grid energy storage, thus replacing purchased electric power with locally produced power when available. The surplus power produced by domestic microgenerators can, in some jurisdictions, be fed into the network and sold to the utility company, producing a retail credit for the microgenerators' owners to offset their energy costs.[104]
+Off-grid system users can either adapt to intermittent power or use batteries, photovoltaic, or diesel systems to supplement the wind turbine.[105] Equipment such as parking meters, traffic warning signs, street lighting, or wireless Internet gateways may be powered by a small wind turbine, possibly combined with a photovoltaic system, that charges a small battery replacing the need for a connection to the power grid.[106]
+Distributed generation from renewable resources is increasing as a consequence of the increased awareness of climate change. The electronic interfaces required to connect renewable generation units with the utility system can include additional functions, such as active filtering to enhance the power quality.[107]
+Airborne wind turbines, such as kites, can be used in places at risk of hurricanes, as they can be taken down in advance.[108]
+Impact on environment and landscape
+Main article: Environmental impact of wind power
+ Greenhouse gas emissions per energy source. Wind energy is one of the sources with the least greenhouse gas emissions.
+ Livestock grazing near a wind turbine.[109]
+The environmental impact of electricity generation from wind power is minor when compared to that of fossil fuel power.[110] Wind turbines have some of the lowest life-cycle greenhouse-gas emissions of energy sources: far less greenhouse gas is emitted than for the average unit of electricity, so wind power helps limit climate change.[111] Use of engineered wood may allow carbon negative wind power.[112] Wind power consumes no fuel, and emits no local air pollution, unlike fossil fuel power sources.
+Onshore wind farms can have a significant visual impact.[113] Due to a very low surface power density and spacing requirements, wind farms typically need to be spread over more land than other power stations.[7][114] Their network of turbines, access roads, transmission lines, and substations can result in "energy sprawl";[8] although land between the turbines and roads can still be used for agriculture.[115][116] They also need to be built away from urban areas,[117][failed verification]which can lead to "industrialization of the countryside".[118] Some wind farms are opposed for potentially spoiling protected scenic areas, archaeological landscapes and heritage sites.[119][120][121] A report by the Mountaineering Council of Scotland concluded that wind farms harmed tourism in areas known for natural landscapes and panoramic views.[122]
+Habitat loss and fragmentation are the greatest potential impacts on wildlife of onshore wind farms,[8] but the worldwide ecological impact is minimal.[110] Thousands of birds and bats, including rare species, have been killed by wind turbine blades,[123] though wind turbines are responsible for far fewer bird deaths than fossil-fueled power stations.[124] This can be mitigated with proper wildlife monitoring.[125]
+Many wind turbine blades are made of fiberglass, and have a lifetime of 20 years.[126] Blades are hollow: some blades are crushed to reduce their volume and then landfilled.[127] Blade end-of-life is complicated,[128] and blades manufactured in the 2020s are more likely to be designed to be completely recyclable.[129]
+Wind turbines also generate noise. At a distance of 300 metres (980 ft), this may be around 45 dB, which is slightly louder than a refrigerator. At 1.5 km (1 mi), they become inaudible.[130][131] There are anecdotal reports of negative health effects on people who live very close to wind turbines.[132] Peer-reviewed research has generally not supported these claims.[133][134][135]
+Politics
+Central government
+ Wind turbine floating off France
+Although wind turbines with fixed bases are a mature technology and new installations are generally no longer subsidized,[136][137] floating wind turbines are a relatively new technology so some governments subsidize them, for example to use deeper waters.[138]
+Fossil fuel subsidies by some governments are slowing the growth of renewables.[139]
+Permitting of wind farms can take years and some governments are trying to speed up - the wind industry says this will help limit climate change and increase energy security[140] - sometimes groups such as fishers resist this[141] but governments say that rules protecting biodiversity will still be followed.[142]
+Public opinion
+Surveys of public attitudes across Europe and in many other countries show strong public support for wind power.[143][144][145] Bakker et al. (2012) found in their study that residents who did not want turbines built near them suffered significantly more stress than those who "benefited economically from wind turbines".[146]
+Although wind power is a popular form of energy generation, onshore or near offshore wind farms are sometimes opposed for their impact on the landscape (especially scenic areas, heritage areas and archaeological landscapes), as well as noise, and impact on tourism.[147][148]
+In other cases, there is direct community ownership of wind farms. The hundreds of thousands of people who have become involved in Germany's small and medium-sized wind farms demonstrate such support there.[149]
+A 2010 Harris Poll found strong support for wind power in Germany, other European countries, and the United States.[143][144][150]
+Public support in the United States has decreased from 75% in 2020 to 62% in 2021, with the Democrat Party supporting the use of wind energy twice as much as the Republican Party.[151] President Biden has signed an executive order to begin building large scale wind farms.[152]
+In China, Shen et al. (2019) found that Chinese city-dwellers may be resistant to building wind turbines in urban areas, with a surprisingly high proportion of people citing an unfounded fear of radiation as driving their concerns.[153] Also, the study finds that like their counterparts in OECD countries, urban Chinese respondents are sensitive to direct costs and wildlife externalities. Distributing relevant information about turbines to the public may alleviate resistance.
+Community
+See also: Community debate about wind farms
+ Wind turbines such as these, in Cumbria, England, have been opposed for a number of reasons, including aesthetics, by some sectors of the population.[154][155]
+Many wind power companies work with local communities to reduce environmental and other concerns associated with particular wind farms.[156][157][158]
+In other cases there is direct community ownership of wind farm projects. Appropriate government consultation, planning and approval procedures also help to minimize environmental risks.[143][159][160]
+Some may still object to wind farms[161] but many say their concerns should be weighed against the need to address the threats posed by air pollution,[162][111] climate change[163] and the opinions of the broader community.[164]
+In the US, wind power projects are reported to boost local tax bases, helping to pay for schools, roads, and hospitals, and to revitalize the economies of rural communities by providing steady income to farmers and other landowners.[97]
+In the UK, both the National Trust and the Campaign to Protect Rural England have expressed concerns about the effects on the rural landscape caused by inappropriately sited wind turbines and wind farms.[165][166]
+ A panoramic view of the United Kingdom's Whitelee Wind Farm with Lochgoin Reservoir in the foreground.
+Some wind farms have become tourist attractions. The Whitelee Wind Farm Visitor Centre has an exhibition room, a learning hub, a caf  with a viewing deck and also a shop. It is run by the Glasgow Science Centre.[167]
+In Denmark, a loss-of-value scheme gives people the right to claim compensation for loss of value of their property if it is caused by proximity to a wind turbine. The loss must be at least 1% of the property's value.[168]
+Despite this general support for the concept of wind power in the public at large, local opposition often exists and has delayed or aborted a number of projects.[169][170][171]
+As well as concerns about the landscape, there are concerns that some installations can produce excessive sound and vibration levels leading to a decrease in property values.[172] A study of 50,000 home sales near wind turbines found no statistical evidence that prices were affected.[173]
+While aesthetic issues are subjective and some find wind farms pleasant and optimistic, or symbols of energy independence and local prosperity, protest groups are often formed to attempt to block some wind power stations for various reasons.[161][174][175]
+Some opposition to wind farms is dismissed as NIMBYism,[176] but research carried out in 2009 found that there is little evidence to support the belief that residents only object to wind farms because of a "Not in my Back Yard" attitude.[177]
+Geopolitics
+Wind cannot be cut off unlike oil and gas so can contribute to energy security.[178]
+Turbine design
+Main articles: Wind turbine and Wind turbine design
+See also: Wind-turbine aerodynamics
+ Typical wind turbine components: FoundationConnection to the electric gridTowerAccess ladderWind orientation control (Yaw control)NacelleGeneratorAnemometerElectric or Mechanical BrakeGearboxRotor bladeBlade pitch controlRotor hub
+ Typical components of a wind turbine (gearbox, rotor shaft and brake assembly) being lifted into position
+Wind turbines are devices that convert the wind's kinetic energy into electrical power. The result of over a millennium of windmill development and modern engineering, today's wind turbines are manufactured in a wide range of horizontal axis and vertical axis types. The smallest turbines are used for applications such as battery charging for auxiliary power. Slightly larger turbines can be used for making small contributions to a domestic power supply while selling unused power back to the utility supplier via the electrical grid. Arrays of large turbines, known as wind farms, have become an increasingly important source of renewable energy and are used in many countries as part of a strategy to reduce their reliance on fossil fuels.
+Wind turbine design is the process of defining the form and specifications of a wind turbine to extract energy from the wind.[179]
+A wind turbine installation consists of the necessary systems needed to capture the wind's energy, point the turbine into the wind, convert mechanical rotation into electrical power, and other systems to start, stop, and control the turbine.
+In 1919, the German physicist Albert Betz showed that for a hypothetical ideal wind-energy extraction machine, the fundamental laws of conservation of mass and energy allowed no more than 16/27 (59%) of the kinetic energy of the wind to be captured. This Betz limit can be approached in modern turbine designs, which may reach 70 to 80% of the theoretical Betz limit.[180][181]
+The aerodynamics of a wind turbine are not straightforward. The airflow at the blades is not the same as the airflow far away from the turbine. The very nature of how energy is extracted from the air also causes air to be deflected by the turbine. This affects the objects or other turbines downstream, which is known as "wake effect". Also, the aerodynamics of a wind turbine at the rotor surface exhibit phenomena that are rarely seen in other aerodynamic fields. The shape and dimensions of the blades of the wind turbine are determined by the aerodynamic performance required to efficiently extract energy from the wind, and by the strength required to resist the forces on the blade.[182]
+In addition to the aerodynamic design of the blades, the design of a complete wind power system must also address the design of the installation's rotor hub, nacelle, tower structure, generator, controls, and foundation.[183]
+History
+Main article: History of wind power
+ Charles F. Brush's windmill of 1888, used for generating electric power.See also: Renewable energy commercialization  Wind_power
+Wind power has been used as long as humans have put sails into the wind. King Hammurabi's Codex (reign 1792 - 1750 BC) already mentioned windmills for generating mechanical energy.[184] Wind-powered machines used to grind grain and pump water, the windmill and wind pump, were developed in what is now Iran, Afghanistan, and Pakistan by the 9th century.[185][186] Wind power was widely available and not confined to the banks of fast-flowing streams, or later, requiring sources of fuel. Wind-powered pumps drained the polders of the Netherlands, and in arid regions such as the American mid-west or the Australian outback, wind pumps provided water for livestock and steam engines.
+The first windmill used for the production of electric power was built in Scotland in July 1887 by Prof James Blyth of Anderson's College, Glasgow (the precursor of Strathclyde University).[187] Blyth's 10 metres (33 ft) high cloth-sailed wind turbine was installed in the garden of his holiday cottage at Marykirk in Kincardineshire, and was used to charge accumulators developed by the Frenchman Camille Alphonse Faure, to power the lighting in the cottage,[187] thus making it the first house in the world to have its electric power supplied by wind power.[188] Blyth offered the surplus electric power to the people of Marykirk for lighting the main street, however, they turned down the offer as they thought electric power was "the work of the devil."[187] Although he later built a wind turbine to supply emergency power to the local Lunatic Asylum, Infirmary, and Dispensary of Montrose, the invention never really caught on as the technology was not considered to be economically viable.[187]
+Across the Atlantic, in Cleveland, Ohio, a larger and heavily engineered machine was designed and constructed in the winter of 1887 1888 by Charles F. Brush.[189] This was built by his engineering company at his home and operated from 1886 until 1900.[190] The Brush wind turbine had a rotor 17 metres (56 ft) in diameter and was mounted on an 18 metres (59 ft) tower. Although large by today's standards, the machine was only rated at 12 kW. The connected dynamo was used either to charge a bank of batteries or to operate up to 100 incandescent light bulbs, three arc lamps, and various motors in Brush's laboratory.[191]
+With the development of electric power, wind power found new applications in lighting buildings remote from centrally generated power. Throughout the 20th century parallel paths developed small wind stations suitable for farms or residences. 
+From 1932 many isolated properties in Australia ran their lighting and electric fans from batteries, charged by a "Freelite" wind-driven generator, producing 100 watts of electrical power from as little wind speed as 10 miles per hour (16 km/h).[192]
+The 1973 oil crisis triggered the investigation in Denmark and the United States that led to larger utility-scale wind generators that could be connected to electric power grids for remote use of power. By 2008, the U.S. installed capacity had reached 25.4 gigawatts, and by 2012 the installed capacity was 60 gigawatts.[193] Today, wind-powered generators operate in every size range between tiny stations for battery charging at isolated residences, up to gigawatt-sized offshore wind farms that provide electric power to national electrical networks.
+See also
+Wind power portalRenewable energy portalEnergy portal
+100% renewable energy
+Global Wind Day
+Hydrogen economy
+List of countries by renewable electricity production
+List of wind turbine manufacturers
+List of offshore wind farms
+Lists of wind farms
+Outline of wind energy
+Wind power by country
+Wind resource assessment
+Wind-powered vehicle
+Notes
+^ California is an exception
+References
+^ "Global Electricity Review 2022". Ember. 29 March 2022. Retrieved 2 April 2022.
+^ a b "bp Statistical Review of World Energy 2020" (PDF). BP p.l.c. pp. 55, 59. Archived (PDF) from the original on 19 September 2020. Retrieved 23 October 2020.
+^ a b c d "Wind energy generation vs. installed capacity". Our World in Data. Archived from the original on 19 October 2021. Retrieved 23 November 2021.
+^ a b c "Wind Power   Analysis". IEA. Archived from the original on 23 November 2021. Retrieved 23 November 2021.
+^ "Global wind industry breezes into new record". Energy Live News. 25 March 2022. Retrieved 2 April 2022.
+^ a b "Expansion of wind and solar power too slow to stop climate change". ScienceDaily. Retrieved 24 November 2021.
+^ a b "What are the pros and cons of onshore wind energy?". Grantham Research Institute on Climate Change and the Environment, London School of Economcis and Political Science. 12 January 2018. Archived from the original on 22 June 2019.
+^ a b c Jones, Nathan F.; Pejchar, Liba; Kiesecker, Joseph M. (22 January 2015). "The Energy Footprint: How Oil, Natural Gas, and Wind Energy Affect Land for Biodiversity and the Flow of Ecosystem Services". BioScience. 65 (3): 290 301. doi:10.1093/biosci/biu224. Retrieved 9 November 2022.
+^ "Global Wind Report 2019". Global Wind Energy Council. 19 March 2020. Retrieved 28 March 2020.
+^ a b c "Levelized Cost Of Energy, Levelized Cost Of Storage, and Levelized Cost Of Hydrogen". Lazard.com. Retrieved 24 November 2021.
+^ "Global Wind Atlas". DTU Technical University of Denmark. Archived from the original on 24 February 2020. Retrieved 28 March 2020.
+^ Nyenah, Emmanuel; Sterl, Sebastian; Thiery, Wim (1 May 2022). "Pieces of a puzzle: solar-wind power synergies on seasonal and diurnal timescales tend to be excellent worldwide". Environmental Research Communications. 4 (5): 055011. Bibcode:2022ERCom...4e5011N. doi:10.1088/2515-7620/ac71fb. ISSN 2515-7620. S2CID 249227821.
+^ a b "Global Wind Atlas". Technical University of Denmark (DTU). Archived from the original on 18 January 2019. Retrieved 23 November 2021.
+^ Huang, Junling; McElroy, Michael B (2015). "A 32-year perspective on the origin of wind energy in a warming climate" (PDF). Renewable Energy. 77: 482 92. doi:10.1016/j.renene.2014.12.045. Archived (PDF) from the original on 6 February 2015. Retrieved 6 February 2015.
+^ Mapping the World's Wind Energy Potential Archived 25 September 2018 at the Wayback Machine World Bank, 28 November 2017.
+^ New Global Wind Atlas to be presented at WindEurope Conference Archived 25 September 2018 at the Wayback Machine Technical University of Denmark, 21 November 2017.
+^ Staffell, Iain; Pfenninger, Stefan (1 November 2016). "Using bias-corrected reanalysis to simulate current and future wind power output". Energy. 114: 1224 39. doi:10.1016/j.energy.2016.08.068.
+^ Hurley, Brian. "How Much Wind Energy is there?". Claverton Group. Archived from the original on 15 May 2012. Retrieved 8 April 2012.
+^ Savenkov, M (2009). "On the truncated weibull distribution and its usefulness in evaluating potential wind (or wave) energy sites" (PDF). University Journal of Engineering and Technology. 1 (1): 21 25. Archived from the original on 22 February 2015.{{cite journal}}:  CS1 maint: bot: original URL status unknown (link)
+^ "Describing Wind Variations: Weibull Distribution". Danish Wind Industry Association. Archived from the original on 2 August 2021. Retrieved 8 July 2021.
+^ Watts, Jonathan & Huang, Cecily. Winds Of Change Blow Through China As Spending On Renewable Energy Soars Archived 15 June 2013 at the Wayback Machine, The Guardian, 19 March 2012, revised on 20 March 2012. Retrieved 4 January 2012.
+^ "Muppandal (India)". thewindpower.net. Archived from the original on 14 August 2014. Retrieved 21 November 2015.
+^ Terra-Gen Press Release Archived 10 May 2012 at the Wayback Machine, 17 April 2012
+^ Started in August 2001, the Jaisalmer based facility crossed 1,000 MW capacity to achieve this milestone Archived 1 October 2012 at the Wayback Machine. Business-standard.com (11 May 2012). Retrieved on 20 July 2016.
+^ "Wind Farm Electrical Systems" (PDF). Archived (PDF) from the original on 18 March 2021. Retrieved 11 July 2020.
+^ Meyers, Johan; Meneveau, Charles (1 March 2012). "Optimal turbine spacing in fully developed wind farm boundary layers". Wind Energy. 15 (2): 305 17. Bibcode:2012WiEn...15..305M. doi:10.1002/we.469.
+^ "Making of the modern offshore substation". Windpower Engineering & Development. Archived from the original on 24 November 2021. Retrieved 14 June 2019.
+^ a b Falahi, G.; Huang, A. (1 October 2014). Low voltage ride through control of modular multilevel converter based HVDC systems. IECON 2014   40th Annual Conference of the IEEE Industrial Electronics Society. pp. 4663 68. doi:10.1109/IECON.2014.7049205. ISBN 978-1-4799-4032-5. S2CID 3598534.
+^ Cheng, Ming; Zhu, Ying (2014). "The state of the art of wind energy conversion systems and technologies: A review". Energy Conversion and Management. 88: 332. doi:10.1016/j.enconman.2014.08.037.
+^ "ScottishPower in 'pioneering world first' after wind farm black-out boost". www.scotsman.com. 3 November 2020. Retrieved 19 September 2022.
+^ "As the grid adds wind power, researchers have to reengineer recovery from power outages". ScienceDaily. Retrieved 19 September 2022.
+^ Demeo, E.A.; Grant, W.; Milligan, M.R.; Schuerger, M.J. (2005). "Wind plant integration". IEEE Power and Energy Magazine. 3 (6): 38 46. doi:10.1109/MPAE.2005.1524619. S2CID 12610250.
+^ Zavadil, R.; Miller, N.; Ellis, A.; Muljadi, E. (2005). "Making connections". IEEE Power and Energy Magazine. 3 (6): 26 37. doi:10.1109/MPAE.2005.1524618. S2CID 3037161.
+^ Rosa-Aquino, Paola (29 August 2021). "Floating wind turbines could open up vast ocean tracts for renewable power". The Guardian. Archived from the original on 30 August 2021.
+^ Hulazan, Ned (16 February 2011). "Offshore wind power  Advantages and disadvantages". Renewable Energy Articles. Archived from the original on 13 October 2018. Retrieved 9 April 2012.
+^ Millborrow, David (6 August 2010). "Cutting the cost of offshore wind energy". Wind Power Monthly. Haymarket. Archived from the original on 2 December 2012. Retrieved 10 April 2012.
+^ "World's Largest Offshore Wind Farm Fully Up and Running". Offshore Wind. 30 January 2020. Archived from the original on 31 January 2020. Retrieved 3 February 2020.
+^ Action, BMWK-Federal Ministry for Economics Affairs and Climate. "Connecting offshore wind energy to the grid". www.bmwk.de. Retrieved 20 January 2023.
+^ Power System Analysis and Design. Glover, Sarma, Overbye/ 5th Edition
+^ wind-power-in-maine_2013-08-04.html?pagenum=full Inadequate transmission lines keeping some Maine wind power off the grid   The Portland Press Herald / Maine Sunday Telegram Archived 24 November 2021 at the Wayback Machine. Pressherald.com (4 August 2013). Retrieved on 20 July 2016.
+^ "From West to East: The Charged Challenge of Delivering Electricity". China Business Review. 7 April 2021. Retrieved 24 November 2021.
+^ Wald, Matthew (26 August 2008) Wind Energy Bumps Into Power Grid's Limits Archived 1 July 2017 at the Wayback Machine. New York Times
+^ Barnard, Michael (11 November 2021). "Breaking News: China & USA Joint Declaration On Climate Action Collaboration". CleanTechnica. Archived from the original on 12 November 2021. Retrieved 23 November 2021.
+^ "GWEC, Global Wind Report Annual Market Update". Gwec.net. Archived from the original on 12 August 2019. Retrieved 20 May 2017.
+^ "Wind energy generation by region". Our World in Data. Archived from the original on 10 March 2020. Retrieved 5 March 2020.
+^ "UNDP: More spent on fossil fuel subsidies than fighting poverty". Africa Renewal. 29 October 2021. Retrieved 24 November 2021.
+^ Mohseni-Cheraghlou, Amin (23 February 2021). "Fossil fuel subsidies and renewable energies in MENA: An oxymoron?". Middle East Institute. Retrieved 24 November 2021.
+^ "COP26: How much is spent supporting fossil fuels and green energy?". BBC News. 15 November 2021. Retrieved 24 November 2021.
+^ Rick Tidball and others, "Cost and Performance Assumptions for Modeling Electricity Generation Technologies" Archived 21 August 2014 at the Wayback Machine, US National Renewable Energy Laboratory, November 2010, p.63.
+^ Massachusetts Maritime Academy  Bourne, Mass Archived 11 February 2007 at the Wayback Machine This 660 kW wind turbine has a capacity factor of about 19%.
+^ Wind Power in Ontario Archived 10 August 2014 at the Wayback Machine These wind farms have capacity factors of about 28 35%.
+^ Jones, Dave (30 March 2022). "Global Electricity Review 2022". Ember-climate.org. Ember (non-profit organisation). Archived from the original on 2 April 2022.
+^ "Global Electricity Review 2022" (PDF). Ember. March 2022. p. 27. Archived (PDF) from the original on 30 March 2022. "Countries with populations less than 3 million in 2021 were not included in this ranking."
+^ "Renewable energy". BP. Archived from the original on 6 November 2020. Retrieved 15 January 2020.
+^ "BP Statistical Review of World Energy June 2016   Electricity" (PDF). BP. Archived from the original (PDF) on 10 September 2016. Retrieved 12 September 2016.
+^ "BP Statistical Review of World Energy June 2016   Renewable energy" (PDF). BP. Archived (PDF) from the original on 18 August 2016. Retrieved 12 September 2016.
+^ 
+"Tackling Climate Change in the U.S" (PDF). American Solar Energy Society. January 2007. Archived from the original (PDF) on 26 November 2008. Retrieved 5 September 2007.
+^ "New research shows Wind turbines, configured right, could provide grid stability". Energy Post. 8 December 2021. Retrieved 25 January 2022.
+^ "Low winds blamed for fall in Scotland's renewable energy production". BBC News. 1 April 2022. Retrieved 20 January 2023.
+^ Andresen, Tino. "Molten Aluminum Lakes Offer Power Storage for German Wind Farms Archived 7 April 2017 at the Wayback Machine" Bloomberg, 27 October 2014.
+^ Luoma, Jon R. (13 July 2001). "The Challenge for Green Energy: How to Store Excess Electricity". E360.yale.edu. Archived from the original on 6 April 2013. Retrieved 8 November 2012.
+^ Buczynski, Beth (23 August 2012). "Power To Gas Technology Turns Excess Wind Energy Into Natural Gas". Revmodo.com. Archived from the original on 5 October 2012.
+^ "What is demand-side response". en.energinet.dk. Retrieved 20 January 2023.
+^ "Managing wind volatility in Ireland with demand response". GridBeyond. 18 July 2022. Retrieved 20 January 2023.
+^ "Demand Response   Analysis". IEA. Retrieved 20 January 2023.
+^ Katz, Cheryl. "The batteries that could make fossil fuels obsolete". www.bbc.com. Archived from the original on 11 January 2021. Retrieved 23 November 2021.
+^ World, Renewable Energy (14 January 2021). "Report: An additional 20GWh of battery storage could significantly reduce wind power curtailment in UK". Renewable Energy World. Archived from the original on 26 February 2021. Retrieved 23 November 2021.
+^ "Answers to the UK's wind energy storage issues are emerging - NS Energy". Archived from the original on 10 September 2021. Retrieved 23 November 2021.
+^ Realisable Scenarios for a Future Electricity Supply based 100% on Renewable Energies Archived 1 July 2014 at the Wayback Machine Gregor Czisch, University of Kassel, Germany and Gregor Giebel, Ris  National Laboratory, Technical University of Denmark
+^ "Annual variable renewable energy share and corresponding system integration phase in selected countries/regions, 2018   Charts   Data & Statistics". IEA. Retrieved 20 January 2023.
+^ a b Kaspar, F., Borsche, M., Pfeifroth, U., Trentmann, J., Dr cke, J., and Becker, P.: A climatological assessment of balancing effects and shortfall risks of photovoltaics and wind energy in Germany and Europe, Adv. Sci. Res., 16, 119 128, https://doi.org/10.5194/asr-16-119-2019 Archived 24 November 2021 at the Wayback Machine, 2019
+^ Wood, Shelby (21 January 2008) Wind + sun join forces at Washington power plant Archived 18 January 2012 at the Wayback Machine. The Oregonian.
+^ "Small Wind Systems". Seco.cpa.state.tx.us. Archived from the original on 23 October 2012. Retrieved 29 August 2010.
+^ "Lake Erie Wind Resource Report, Cleveland Water Crib Monitoring Site, Two-Year Report Executive Summary" (PDF). Green Energy Ohio. 10 January 2008. Archived from the original (PDF) on 17 December 2008. Retrieved 27 November 2008. This study measured up to four times as much average wind power during winter as in summer for the test site.
+^ "Turkish Cengiz evaluates expansion of its giant hybrid power plant". Balkan Green Energy News. 23 November 2021. Retrieved 24 November 2021.
+^ "Wind Systems Integration Basics". Archived from the original on 7 June 2012.
+^ Stevens, Pippa (29 September 2021). "UK energy titan SSE says low wind, driest conditions in 70 years hit renewable generation". CNBC. Archived from the original on 11 November 2021. Retrieved 23 November 2021.
+^ "'UK's largest electrolyser' could fuel hundreds of bus journeys with wind power each day". www.imeche.org. Archived from the original on 22 November 2021. Retrieved 23 November 2021.
+^ "Variability of Wind Power and other Renewables: Management Options and Strategies" (PDF). IEA. 2005. Archived from the original (PDF) on 30 December 2005.
+^ Santhosh, Madasthu; Venkaiah, Chintham; Kumar, D. M. Vinod (2020). "Current advances and approaches in wind speed and wind power forecasting for improved renewable energy integration: A review". Engineering Reports. 2 (6): e12178. doi:10.1002/eng2.12178. ISSN 2577-8196.
+^ Tong, Dan; Farnham, David J.; Duan, Lei; Zhang, Qiang; Lewis, Nathan S.; Caldeira, Ken; Davis, Steven J. (22 October 2021). "Geophysical constraints on the reliability of solar and wind power worldwide". Nature Communications. 12 (1): 6146. Bibcode:2021NatCo..12.6146T. doi:10.1038/s41467-021-26355-z. ISSN 2041-1723. PMC 8536784. PMID 34686663.
+^ "Dinorwig Hydroelectric Plant, Wales". Thegreenage.co.uk. Archived from the original on 11 January 2013. Retrieved 11 January 2013.
+^ The Future of Electrical Energy Storage: The economics and potential of new technologies 2 January 2009 ID RET2107622
+^ Energy return on investment (EROI) for wind energy. The Encyclopedia of Earth (7 June 2007)
+^ Haapala, Karl R.; Prempreeda, Preedanood (2014). "Comparative life cycle assessment of 2.0 MW wind turbines". International Journal of Sustainable Manufacturing. 3 (2): 170. doi:10.1504/IJSM.2014.062496.
+^ "Onshore wind cost per kilowatt-hour". Our World in Data. Archived from the original on 19 November 2020. Retrieved 18 October 2020.
+^ "Onshore wind to reach grid parity by 2016" Archived 17 January 2012 at the Wayback Machine, BusinessGreen, 14 November 2011
+^ "World's largest offshore wind turbine maker warns of price pressures". Financial Times. 16 March 2021. Archived from the original on 24 June 2021. Retrieved 16 June 2021.
+^ Bogdanov, Dmitrii; Ram, Manish; Aghahosseini, Arman; Gulagi, Ashish; Oyewo, Ayobami Solomon; Child, Michael; Caldera, Upeksha; Sadovskaia, Kristina; Farfan, Javier; De Souza Noel Simas Barbosa, Larissa; Fasihi, Mahdi (15 July 2021). "Low-cost renewable electricity as the key driver of the global energy transition towards sustainability". Energy. 227: 120467. doi:10.1016/j.energy.2021.120467. ISSN 0360-5442. S2CID 233706454.
+^ Dolf Gielen. "Renewable Energy Technologies: Cost Analysis Series: Wind Power" International Renewable Energy Agency, June 2012. Quote: "wind is capital intensive, but has no fuel costs"
+^ Transmission and Wind Energy: Capturing the Prevailing Winds for the Benefit of Customers Archived 23 April 2014 at the Wayback Machine. National Grid US (September 2006).
+^ Rao, K.R (17 October 2019). Wind Energy for Power Generation: Meeting the Challenge of Practical Implementation. Springer Nature, 2019. ISBN 978-3319751344. Archived from the original on 24 November 2021. Retrieved 4 May 2021.
+^ Danielson, David (14 August 2012). "A Banner Year for the U.S. Wind Industry". whitehouse.gov. Archived from the original on 10 March 2021. Retrieved 1 March 2021   via National Archives.
+^ Reed, Stanley (9 November 2017). "As Wind Power Sector Grows, Turbine Makers Feel the Squeeze". TNT. Archived from the original on 11 November 2017. Retrieved 11 November 2017.
+^ "China's 2022 Wind Power Growth to Stay Strong Despite Subsidy End". www.fitchratings.com. Retrieved 24 November 2021.
+^ The 2010 Green-e Verification Report Archived 11 June 2013 at the Wayback Machine Retrieved on 20 May 2009
+^ a b American Wind Energy Association (2009) Annual Wind Industry Report, Year Ending 2008 Archived 13 January 2013 at the Wayback Machine p. 11
+^ "Direct Federal Financial Interventions and Subsidies in Energy in Fiscal Year 2010". Report. Energy Information Administration. 1 August 2011. Archived from the original on 1 October 2019. Retrieved 29 April 2012.
+^ "WINDExchange: Wind Energy's Economic Impacts to Communities".
+^ "Wind energy industry - employment 2020". Statista. Retrieved 19 September 2022.
+^ "Small-scale wind energy". Carbontrust.co.uk. Archived from the original on 14 May 2013. Retrieved 29 August 2010.
+^ Dodge, Darrell M. "Part 2  20th Century Developments". Illustrated history of wind power development. TelosNet Web Development. Archived from the original on 28 March 2012. Retrieved 27 April 2012.
+^ Chanban, Matt A.V.; Delaqu ri re, Alain. Turbines Popping Up on New York Roofs, Along With Questions of Efficiency Archived 9 July 2017 at the Wayback Machine, The New York Times website, 26 May 2014, and in print on 27 May 2014, p. A19 of the New York edition.
+^ Home-made energy to prop up grid Archived 18 August 2014 at the Wayback Machine The Times 22 June 2008 Retrieved on 10 January 2013
+^ Ramirez Camargo, Luis; Nitsch, Felix; Gruber, Katharina; Valdes, Javier; Wuth, Jane; Dorner, Wolfgang (January 2019). "Potential Analysis of Hybrid Renewable Energy Systems for Self-Sufficient Residential Use in Germany and the Czech Republic". Energies. 12 (21): 4185. doi:10.3390/en12214185.
+^ Kart, Jeff (13 May 2009). "Wind, Solar-Powered Street Lights Only Need a Charge Once Every Four Days". Clean Technica. Clean Technica. Archived from the original on 17 November 2011. Retrieved 30 April 2012.
+^ MacKen, K.J.P.; Green, T.C.; Belmans, R.J.M. (2002). "Active filtering and load balancing with small wind energy systems". 10th International Conference on Harmonics and Quality of Power. Proceedings (Cat. No.02EX630). Vol. 2. p. 776. doi:10.1109/ICHQP.2002.1221533. ISBN 978-0-7803-7671-7. S2CID 114471306.
+^ Jones, Nicola. "The kites seeking the world's surest winds". www.bbc.com. Retrieved 2 April 2022.
+^ Buller, Erin (11 July 2008). "Capturing the wind". Uinta County Herald. Archived from the original on 31 July 2008. Retrieved 4 December 2008."The animals don't care at all. We find cows and antelope napping in the shade of the turbines."  Mike Cadieux, site manager, Wyoming Wind Farm
+^ a b Dunnett, Sebastian; Holland, Robert A.; Taylor, Gail; Eigenbrod, Felix (8 February 2022). "Predicted wind and solar energy expansion has minimal overlap with multiple conservation priorities across global regions". Proceedings of the National Academy of Sciences. 119 (6). Bibcode:2022PNAS..11904764D. doi:10.1073/pnas.2104764119. ISSN 0027-8424. PMC 8832964. PMID 35101973.
+^ a b "How Wind Energy Can Help Us Breathe Easier". Energy.gov. Retrieved 27 September 2022.
+^ "Swedish flatpack wood turbines could give wind power a green boost".
+^ Lothian, Andrew (2022). "Visual impacts and acceptability of wind farms to councillors and senior council staff in Britain". International Journal of Environmental Studies. 80: 113 136. doi:10.1080/00207233.2021.2017174. S2CID 245874077.
+^ "What are the pros and cons of onshore wind energy?". Grantham Research Institute on climate change and the environment. Archived from the original on 22 June 2019. Retrieved 12 December 2020.
+^ "Why Australia needs wind power" (PDF). Archived (PDF) from the original on 3 March 2016. Retrieved 7 January 2012.
+^ "Wind energy Frequently Asked Questions". British Wind Energy Association. Archived from the original on 19 April 2006. Retrieved 21 April 2006.
+^ Welle (www.dw.com), Deutsche. "The Germans fighting wind farms close to their homes | DW | 26.11.2019". DW.COM. Archived from the original on 12 November 2020. Retrieved 12 December 2020.
+^ Szarka, Joseph. Wind Power in Europe: Politics, Business and Society. Springer, 2007. p.176
+^ Dodd, Eimear (27 March 2021). "Permission to build five turbine wind farm at Kilranelagh refused". Irish Independent. Retrieved 18 January 2022.
+^ Kula, Adam (9 April 2021). "Department defends 500ft windfarm in protected Area of Outstanding Beauty". The News Letter. Retrieved 18 January 2022.
+^ "Building wind farms 'could destroy Welsh landscape'". BBC News. 4 November 2019. Retrieved 18 January 2022.
+^ Gordon, Dr. David. Wind farms and tourism in Scotland Archived 21 September 2020 at the Wayback Machine. Mountaineering Council of Scotland. November 2017. p.3
+^ Hosansky, David (1 April 2011). "Wind Power: Is wind energy good for the environment?". CQ Researcher.
+^ Sovacool, B. K. (2013). "The avian benefits of wind energy: A 2009 update". Renewable Energy. 49: 19 24. doi:10.1016/j.renene.2012.01.074.
+^ Paris , J.; Walker, T. R. (2017). "Industrial wind turbine post-construction bird and bat monitoring: A policy framework for Canada". Journal of Environmental Management. 201: 252 259. doi:10.1016/j.jenvman.2017.06.052. PMID 28672197.
+^ Journalist, Energy (29 August 2022). "How to manage future waste from wind turbine blades". Energy Magazine. Retrieved 1 December 2022.
+^ Joe Sneve (4 September 2019). "Sioux Falls landfill tightens rules after Iowa dumps dozens of wind turbine blades". Argus Leader. Archived from the original on 24 November 2021. Retrieved 5 September 2019.
+^ Beauson, J.; Laurent, A.; Rudolph, D. P.; Pagh Jensen, J. (1 March 2022). "The complex end-of-life of wind turbine blades: A review of the European context". Renewable and Sustainable Energy Reviews. 155: 111847. doi:10.1016/j.rser.2021.111847. ISSN 1364-0321. S2CID 244696750.
+^ "These bike shelters are made from wind turbines". World Economic Forum. Retrieved 2 April 2022.
+^ How Loud Is A Wind Turbine? Archived 15 December 2014 at the Wayback Machine. GE Reports (2 August 2014). Retrieved on 20 July 2016.
+^ Gipe, Paul (1995). Wind Energy Comes of Age. John Wiley & Sons. pp. 376 . ISBN 978-0-471-10924-2.
+^ Gohlke JM et al. Environmental Health Perspectives (2008). "Health, Economy, and Environment: Sustainable Energy Choices for a Nation". Environmental Health Perspectives. 116 (6): A236 A237. doi:10.1289/ehp.11602. PMC 2430245. PMID 18560493.
+^ Professor Simon Chapman. "Summary of main conclusions reached in 25 reviews of the research literature on wind farms and health Archived 22 May 2019 at the Wayback Machine" Sydney University School of Public Health, April 2015
+^ Hamilton, Tyler (15 December 2009). "Wind Gets Clean Bill of Health". Toronto Star. Toronto. pp. B1 B2. Archived from the original on 18 October 2012. Retrieved 16 December 2009.
+^ Colby, W. David et al. (December 2009) "Wind Turbine Sound and Health Effects: An Expert Panel Review" Archived 18 June 2020 at the Wayback Machine, Canadian Wind Energy Association.
+^ Buljan, Adrijana (11 November 2022). "RWE Wins Dutch Subsidy-Free Offshore Wind Tender with 760 MW Project Including Green Hydrogen and Floating Solar". Offshore Wind. Retrieved 4 December 2022.
+^ "Chinese Offshore Wind Capacity Boom Driven By State Subsidies". www.rigzone.com. Retrieved 4 December 2022. A key driver of the rush to add capacity was the termination of central government subsidies at the end of 2021.
+^ "Floating wind could be the key to clean energy transition". World Economic Forum. Retrieved 4 December 2022.
+^ Timperley, Jocelyn (20 October 2021). "Why fossil fuel subsidies are so hard to kill". Nature. 598 (7881): 403 405. doi:10.1038/d41586-021-02847-2. PMID 34671143. S2CID 239052649. Fossil-fuel subsidies are one of the biggest financial barriers hampering the world's shift to renewable energy sources.
+^ "Explainer: What is offshore wind and what does its future look like?". World Economic Forum. Retrieved 4 December 2022.
+^ Richards, Heather (1 December 2022). "Biden wants to launch 16 offshore wind farms. Can he?". E&E News. Retrieved 4 December 2022.
+^ "Europe takes emergency action to remove permitting bottlenecks for wind power | REVE News of the wind sector in Spain and in the world". www.evwind.es. Retrieved 4 December 2022.
+^ a b c "Wind Energy and the Environment" (PDF). Renewable Energy House. Archived from the original (PDF) on 28 February 2013. Retrieved 17 January 2012.
+^ a b "A Summary of Opinion Surveys on Wind Power" (PDF). Archived from the original (PDF) on 2 May 2013. Retrieved 17 January 2012.
+^ "Public attitudes to wind farms". Eon-uk.com. 28 February 2008. Archived from the original on 4 May 2012. Retrieved 17 January 2012.
+^ Bakker, R.H.; Pedersen, E (2012). "Impact of wind turbine sound on annoyance, self-reported sleep disturbance and psychological distress" (PDF). Science of the Total Environment. 425: 42 51. Bibcode:2012ScTEn.425...42B. doi:10.1016/j.scitotenv.2012.03.005. hdl:11370/e2c2a869-d1b6-4c61-ac35-2df8596a2402. PMID 22481052. S2CID 6845478. Archived (PDF) from the original on 18 February 2019. Retrieved 14 December 2019.
+^ "Opposition to wind farm plans because of negative impact on 'tourism'". Nation.Cymru. 24 March 2021. Archived from the original on 16 November 2021. Retrieved 16 November 2021.
+^ Schultz, Norm. "Wind Farm Opposition in the Great Lakes". Trade Only Today. Archived from the original on 16 November 2021. Retrieved 16 November 2021.
+^ "Community Power Empowers". Dsc.discovery.com. 26 May 2009. Archived from the original on 25 March 2009. Retrieved 17 January 2012.
+^ "Public attitudes to wind farms". Eon-uk.com. 28 February 2008. Archived from the original on 14 March 2012. Retrieved 17 January 2012.
+^ "Most Americans support expanding solar and wind energy, but Republican support has dropped".
+^ "FACT SHEET: Biden Administration Jumpstarts Offshore Wind Energy Projects to Create Jobs". The White House. 29 March 2021.
+^ Shen, Shiran Victoria; Cain, Bruce E.; Hui, Iris (2019). "Public receptivity in China towards wind energy generators: A survey experimental approach". Energy Policy. 129: 619 627. doi:10.1016/j.enpol.2019.02.055. S2CID 159387276.
+^ "Wind Farms in Cumbria". Archived from the original on 10 December 2008. Retrieved 3 October 2008.
+^ Arnold, James (20 September 2004). "Wind Turbulence over turbines in Cumbria". BBC News. Archived from the original on 17 May 2014. Retrieved 20 March 2012.
+^ "Group Dedicates Opening of 200 MW Big Horn Wind Farm: Farm incorporates conservation efforts that protect wildlife habitat". Renewableenergyaccess.com. Archived from the original on 12 October 2007. Retrieved 17 January 2012.
+^ Fisher, Jeanette (2006). "Wind Power: MidAmerican's Intrepid Wind Farm". Environmentpsychology.com. Archived from the original on 2 November 2011. Retrieved 20 March 2012.
+^ "Stakeholder Engagement". Agl.com.au. 19 March 2008. Archived from the original on 21 July 2008.
+^ "National Code for Wind Farms" (PDF). Environment.gov.au. Archived from the original (PDF) on 5 September 2008. Retrieved 17 January 2012.
+^ "New standard and big investment for wind energy" (PDF). Publish.csiro.au. 17 December 2007. Archived (PDF) from the original on 18 September 2008. Retrieved 20 March 2012.
+^ a b "Wind Energy Opposition and Action Groups". Wind-watch.org. Archived from the original on 5 May 2012. Retrieved 11 January 2013.
+^ "Misinformation is derailing renewable energy projects across the United States". NPR.org. Retrieved 27 September 2022.
+^ "Advantages and Challenges of Wind Energy". Energy.gov. Retrieved 27 September 2022.
+^ The Australia Institute (October 2006) Wind Farms: The facts and the fallacies Archived 25 February 2012 at the Wayback Machine Discussion Paper No. 91, ISSN 1322-5421, p. 28.
+^ "Wind farm to be built near a Northamptonshire heritage site" Archived 26 September 2018 at the Wayback Machine, BBC News, 14 March 2012. Retrieved 20 March 2012.
+^ Hill, Chris (30 April 2012). "CPRE calls for action over 'proliferation' of wind turbines". EDP 24. Archant community Media Ltd. Archived from the original on 1 May 2012. Retrieved 30 April 2012.
+^ "Whitelee Windfarm". Scottish Power Renewables. Archived from the original on 2 March 2012.
+^ Wind Turbines in Denmark (PDF). section 6.8, p. 22, Danish Energy Agency. November 2009. ISBN 978-87-7844-821-7. Archived from the original (PDF) on 23 October 2013.
+^ Jones, Christopher R.; Richard Eiser, J. (2010). "Understanding 'local' opposition to wind development in the UK How big is a backyard?" (PDF). Energy Policy. 38 (6): 3106. doi:10.1016/j.enpol.2010.01.051. Archived (PDF) from the original on 24 January 2013. Retrieved 14 January 2013.
+^ Tilting at Windmills: Public Opinion Toward Wind Energy Archived 18 January 2013 at the Wayback Machine. Wind-works.org. Retrieved on 1 October 2013.
+^ Yates, Ysabel (15 October 2012) Testing the Waters: Gaining Public Support for Offshore Wind Archived 19 January 2013 at the Wayback Machine. ecomagination.com
+^ Cramer, Glenn (30 October 2009). "Town Councilor regrets High Sheldon Wind Farm (Sheldon, NY)". Archived from the original on 24 September 2015. Retrieved 4 September 2015.
+^ Ben Hoen, Jason P. Brown, Thomas Jackson, Ryan Wiser, Mark Thayer and Peter Cappers. "A Spatial Hedonic Analysis of the Effects of Wind Energy Facilities on Surrounding Property Values in the United States Archived 17 November 2015 at the Wayback Machine" p. 37. Lawrence Berkeley National Laboratory, August 2013. Mirror Archived 18 November 2015 at the Wayback Machine
+^ Gourlay, Simon (12 August 2008) Wind Farms Are Not Only Beautiful, They're Absolutely Necessary Archived 5 October 2013 at the Wayback Machine, The Guardian.
+^ Aldred, Jessica (10 December 2007) Q&A: Wind Power Archived 13 March 2016 at the Wayback Machine, The Guardian.
+^ "Windmills vs. NIMBYism". Toronto Star. Toronto. 20 October 2008. Archived from the original on 11 October 2012. Retrieved 18 September 2017.
+^ Donoghue, Andrew (30 July 2009). "Wind industry should avoid branding opponents "Nimbys"". Business Green. Business Green. Archived from the original on 2 January 2012. Retrieved 13 April 2012.
+^ "Why onshore wind, not fracking, offers Boris Johnson a better weapon against Vladimir Putin". inews.co.uk. 9 March 2022. Retrieved 2 April 2022.
+^ "Efficiency and performance" (PDF). UK Department for Business, Enterprise & Regulatory Reform. Archived from the original (PDF) on 5 February 2009. Retrieved 29 December 2007.
+^ Betz, A.; Randall, D. G. (trans.). Introduction to the Theory of Flow Machines, Oxford: Pergamon Press, 1966.
+^ Burton, Tony, et al., (ed). Wind Energy Handbook Archived 5 January 2016 at the Wayback Machine, John Wiley and Sons, 2001, ISBN 0-471-48997-2, p. 65.
+^ "What factors affect the output of wind turbines?". Alternative-energy-news.info. 24 July 2009. Archived from the original on 29 September 2018. Retrieved 6 November 2013.
+^ Zehnder, Alan T. & Warhaft, Zellman (27 July 2011). "University Collaboration on Wind Energy" (PDF). Cornell University Atkinson Center for a Sustainable Future. Archived from the original (PDF) on 1 September 2011. Retrieved 22 August 2011.
+^ B. Trueb, Lucien (2015), Astonishing the Wild Pigs, Highlights of Technology, ATHENA-Verlag, p. 119, ISBN 9783898967662
+^ Ahmad Y Hassan, Donald Routledge Hill (1986). Islamic Technology: An illustrated history, p. 54. Cambridge University Press. ISBN 0-521-42239-6.
+^ Lucas, Adam (2006), Wind, Water, Work: Ancient and Medieval Milling Technology, Brill Publishers, p. 65, ISBN 90-04-14649-0
+^ a b c d Price, Trevor J (3 May 2005). "James Blyth   Britain's First Modern Wind Power Engineer". Wind Engineering. 29 (3): 191 200. doi:10.1260/030952405774354921. S2CID 110409210.
+^ Shackleton, Jonathan. "World First for Scotland Gives Engineering Student a History Lesson". The Robert Gordon University. Archived from the original on 17 December 2008. Retrieved 20 November 2008.
+^ Anon. Mr. Brush's Windmill Dynamo Archived 7 July 2017 at the Wayback Machine, Scientific American, Vol. 63 No. 25, 20 December 1890, p. 54.
+^ A Wind Energy Pioneer: Charles F. Brush Archived 8 September 2008 at the Wayback Machine, Danish Wind Industry Association. Accessed 2 May 2007.
+^ "History of Wind Energy" in Cutler J. Cleveland (ed.) Encyclopedia of Energy. Vol. 6, Elsevier, ISBN 978-1-60119-433-6, 2007, pp. 421 22
+^ ""Freelite"". The Longreach Leader. Vol. 11, no. 561. Queensland, Australia. 16 December 1933. p. 5. Retrieved 26 March 2023   via National Library of Australia.
+^ "History of U.S. Wind Energy". Energy.gov. Archived from the original on 15 December 2019. Retrieved 10 December 2019.
+External links
+Wikimedia Commons has media related to Wind power.
+Official website of Global Wind Energy Council (GWEC)
+Wind from Project Regeneration
+Official website of World Wind Energy Association (WWEA)
+Dynamic Data Dashboard from the International Energy Agency
+Current global map of wind power density
+vteEnergy
+Outline
+History
+Index
+Fundamental concepts
+Energy
+Units
+Conservation of energy
+Energetics
+Energy transformation
+Energy condition
+Energy transition
+Energy level
+Energy system
+Mass
+Negative mass
+Mass energy equivalence
+Power
+Thermodynamics
+Quantum thermodynamics
+Laws of thermodynamics
+Thermodynamic system
+Thermodynamic state
+Thermodynamic potential
+Thermodynamic free energy
+Irreversible process
+Thermal reservoir
+Heat transfer
+Heat capacity
+Volume (thermodynamics)
+Thermodynamic equilibrium
+Thermal equilibrium
+Thermodynamic temperature
+Isolated system
+Entropy
+Free entropy
+Entropic force
+Negentropy
+Work
+Exergy
+Enthalpy
+Types
+Kinetic
+Internal
+Thermal
+Potential
+Gravitational
+Elastic
+Electric potential energy
+Mechanical
+Interatomic potential
+Quantum potential
+Electrical
+Magnetic
+Ionization
+Radiant
+Binding
+Nuclear binding energy
+Gravitational binding energy
+Quantum chromodynamics binding energy
+Dark
+Quintessence
+Phantom
+Negative
+Chemical
+Rest
+Sound energy
+Surface energy
+Vacuum energy
+Zero-point energy
+Quantum potential
+Quantum fluctuation
+Energy carriers
+Radiation
+Enthalpy
+Mechanical wave
+Sound wave
+Fuel
+fossil fuel
+Hydrogen
+Hydrogen fuel
+Heat
+Latent heat
+Work
+Electricity
+Battery
+Capacitor
+Primary energy
+Fossil fuel
+Coal
+Petroleum
+Natural gas
+Nuclear fuel
+Natural uranium
+Radiant energy
+Solar
+Wind
+Hydropower
+Marine energy
+Geothermal
+Bioenergy
+Gravitational energy
+Energy systemcomponents
+Energy engineering
+Oil refinery
+Electric power
+Fossil fuel power station
+Cogeneration
+Integrated gasification combined cycle
+Nuclear power
+Nuclear power plant
+Radioisotope thermoelectric generator
+Solar power
+Photovoltaic system
+Concentrated solar power
+Solar thermal energy
+Solar power tower
+Solar furnace
+Wind power
+Wind farm
+Airborne wind energy
+Hydropower
+Hydroelectricity
+Wave farm
+Tidal power
+Geothermal power
+Biomass
+Use andsupply
+Energy consumption
+Energy storage
+World energy consumption
+Energy security
+Energy conservation
+Efficient energy use
+Transport
+Agriculture
+Renewable energy
+Sustainable energy
+Energy policy
+Energy development
+Worldwide energy supply
+South America
+USA
+Mexico
+Canada
+Europe
+Asia
+Africa
+Australia
+Misc.
+Jevons paradox
+Carbon footprint
+ Category
+ Commons
+ Portal
+ WikiProject
+vteWind powerWind power
+High-altitude
+History
+By country
+Land vehicles
+Offshore
+Turbines
+on public display
+Windmill
+Wind farms
+Community-owned
+Farms by country
+Offshore farms
+by country
+Onshore farms
+Wind turbines
+Aerodynamics
+Airborne
+Crosswind kite
+Design
+Floating
+Nacelle
+Pitch bearing
+QBlade
+Small
+Unconventional
+Vertical-axis
+Savonius
+Darrieus
+Yaw system
+Yaw bearing
+Yaw drive
+Wind power industry
+Consulting companies
+Manufacturers
+Software
+Manufacturers
+Enercon
+GE Wind Energy
+including GE Offshore Wind
+Goldwind
+Nordex
+Senvion
+Siemens Gamesa
+Suzlon
+Vestas
+Concepts
+2020s in wind power research
+Betz's law
+Blade element momentum theory
+Capacity factor
+Energy return on investment
+Wind power forecasting
+Grid energy storage
+HVDC
+Intermittency
+Variability
+Laddermill
+Net energy gain
+Resource assessment
+Storage
+Subsidies
+Tip-speed ratio
+Virtual power plant
+Wind hybrid power systems
+Wind profile power law
+ Wind power portal
+ Category
+ Commons
+ Additional portals:
+Renewable energy
+Energy
+vteWind power by countryOverview
+Wind power industry
+Africa
+Egypt
+Ethiopia
+Ghana
+Kenya
+Morocco
+Asia
+Afghanistan
+Armenia
+Bhutan
+China (Hong Kong)
+Georgia
+India
+Iran
+Japan
+Kazakhstan
+Pakistan
+Palestine
+Philippines
+South Korea
+Sri Lanka
+Taiwan
+Thailand
+Turkey
+Europe
+Albania
+Austria
+Belgium
+Belarus
+Bulgaria
+Croatia
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Italy
+Lithuania
+Malta
+Netherlands
+Poland
+Portugal
+Romania
+Russia
+Serbia
+Spain
+Sweden
+Ukraine
+United Kingdom (Scotland)
+North America
+Canada
+Costa Rica
+Mexico
+United States
+Oceania
+Australia
+New Zealand
+South America
+Argentina
+Brazil
+Chile
+Colombia
+Uruguay
+Venezuela
+ Wind power portal
+ Renewable energy portal
+ Energy portal
+vteElectricity deliveryConcepts
+Automatic generation control
+Backfeeding
+Base load
+Demand factor
+Droop speed control
+Economic dispatch
+Electric power
+Demand management
+Energy return on investment
+Electrical fault
+Home energy storage
+Grid storage
+Grid code
+Grid strength
+Load-following
+Merit order
+Nameplate capacity
+Peak demand
+Power factor
+Power quality
+Power-flow study
+Repowering
+Utility frequency
+Variability
+Vehicle-to-grid
+SourcesNon-renewable
+Fossil fuel power station
+Coal
+Natural gas
+Petroleum
+Oil shale
+Nuclear
+Renewable
+Biogas
+Biofuel
+Biomass
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Sustainable biofuel
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmissionand distribution
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electricity retailing
+Electrical busbar system
+Electric power system
+Electric power transmission
+Electrical grid
+Electrical interconnector
+High-voltage direct current
+High-voltage shore connection
+Load management
+Mains electricity by country
+Power line
+Power station
+Pumped hydro
+Smart grid
+Substation
+Single-wire earth return
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Failure modes
+Blackout (Rolling blackout)
+Brownout
+Black start
+Cascading failure
+Protectivedevices
+Arc-fault circuit interrupter
+Circuit breaker
+Earth-leakage circuit breaker
+Generator interlock kit
+Residual-current device (GFI)
+Power system protection
+Protective relay
+Numerical relay
+Sulfur hexafluoride circuit breaker
+Economicsand policies
+Availability factor
+Capacity factor
+Carbon offset
+Cost of electricity by source
+Environmental tax
+Energy subsidies
+Feed-in tariff
+Fossil fuel phase-out
+Load factor
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark/Dark/Quark/Bark spread
+Statistics andproduction
+List of electricity sectors
+Electric energy consumption
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+vteApplication of wind energyWind power
+Wind turbine
+Wind mill
+Vehicle propulsion
+Sailboat
+Sailing ship
+Power kite
+SkySails
+Iceboat
+Land sailing
+Rotor ship
+Kite applications
+Kite
+Human-lifting kite
+Air current
+Windcatcher
+vteRenewable energy by country and territoryAfrica
+Democratic Republic of the Congo
+Egypt
+Ethiopia
+Kenya
+Morocco
+Nigeria
+Seychelles
+South Africa
+Asia
+Afghanistan
+Bangladesh
+Bhutan
+Brunei
+China
+India
+Indonesia
+Kazakhstan
+Malaysia
+Nepal
+Pakistan
+Palestine
+Philippines
+Taiwan
+Thailand
+Vietnam
+EuropeEuropean Union
+Austria
+Czech Republic
+Cyprus
+Denmark
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Poland
+Portugal
+Spain
+Sweden
+Other
+Albania
+Armenia
+Belarus
+Iceland
+Kosovo
+Norway
+Russia
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+Scotland
+North America
+Canada
+Costa Rica
+Honduras
+Mexico
+United States
+Oceania
+Australia
+Cook Islands
+New Zealand
+Tuvalu
+South America
+Argentina
+Brazil
+Chile
+Colombia
+Category
+Portals:
+ Energy
+ Renewable energy
+vteNatural resourcesAirPollution / quality
+Ambient standards (USA)
+Index
+Indoor
+Law
+Clean Air Act (USA)
+Ozone depletion
+Emissions
+Airshed
+Trading
+Deforestation (REDD)
+Energy
+Law
+Resources
+Fossil fuels (gas, Peak coal, Peak gas, Peak oil)
+Geothermal
+Hydro
+Nuclear
+Solar
+sunlight
+shade
+Wind
+Land
+Arable
+peak farmland
+Degradation
+Landscape
+cityscape
+seascape
+soundscape
+viewshed
+Law
+property
+Management
+habitat conservation
+Minerals
+Gemstone
+Industrial
+Ore
+Metal
+mining
+law
+sand
+peak
+Copper
+Phosphorus
+rights
+Soil
+conservation
+fertility
+health
+resilience
+Use
+planning
+reserve
+Life
+Biodiversity
+Bioprospecting
+Biosphere
+Bushfood
+Bushmeat
+Fisheries
+climate change
+law
+management
+Forests
+genetic resources
+law
+management
+non-timber products
+Game
+law
+Marine conservation
+Meadow
+Plants
+FAO Plant Treaty
+food
+genetic resources
+gene banks
+herbal medicines
+UPOV Convention
+wood
+Rangeland
+Seed bank
+Wildlife
+conservation
+management
+WaterTypes / location
+Aquifer
+storage and recovery
+Drinking
+Fresh
+Groundwater
+pollution
+recharge
+remediation
+Hydrosphere
+Ice
+bergs
+glacial
+polar
+Irrigation
+huerta
+Marine
+Rain
+harvesting
+Stormwater
+Surface water
+Sewage
+Reclaimed water
+Watershed
+Aspects
+Desalination
+Floods
+Law
+Leaching
+Sanitation
+Conflict
+Conservation
+Peak water
+Pollution
+Privatization
+Quality
+Right
+Resources
+management
+policy
+Related
+Commons
+enclosure
+global
+land
+tragedy of
+Economics
+ecological
+land
+Ecosystem services
+Exploitation
+overexploitation
+Earth Overshoot Day
+Management
+adaptive
+Natural capital
+accounting
+good
+Natural heritage
+Nature reserve
+Systems ecology
+Urban ecology
+Wilderness
+Resource
+Common-pool
+Conflict (perpetuation)
+Curse
+Depletion
+Extraction
+Nationalism
+Renewable / Non-renewable
+ Category
+Authority control National
+France
+BnF data
+Germany
+Israel
+United States
+Japan
+Czech Republic
+Other
+NARA
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wind_power&oldid=1149731937"

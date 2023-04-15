@@ -1,0 +1,110 @@
+Web browser database file on Windows
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Index.dat" news  newspapers  books  scholar  JSTOR (December 2015) (Learn how and when to remove this template message)
+In the Microsoft Windows operating system, index.dat is a hidden database file used by the Internet Explorer web browser. It functions as an information storage database of recent browser activity, enabling quick access to that information when needed again by Internet Explorer, thus improving browser performance.
+Function[edit]
+The index.dat file is a database file. It is a repository of information such as web URLs, search queries and recently opened files. Its purpose is to enable quick access to data used by Internet Explorer. For example, every web address visited is stored in the index.dat file, allowing Internet Explorer to quickly find Autocomplete matches as the user types a web address. The index.dat file is user-specific and is open as long as a user is logged into his or her Windows user account. Separate index.dat files exist for the Internet Explorer history, cache, and cookies.
+The index.dat file is never resized or deleted. A large index.dat file can impair performance.[1]
+Note: The .dat extension is commonly used for data files (files that are not human-readable and do not hold a document-based binary file). It's possible to find files named 'index.dat' that are not used by Internet Explorer.
+Controversy[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2021) (Learn how and when to remove this template message)
+Internet privacy groups  say that the use of index.dat files in the Windows operating system is an invasion of users' privacy. The information contained in an index.dat file can be considered private to the user. One of the groups' main complaints is that the index.dat files cannot easily be deleted. This is because windows prevents open or "locked" files from being deleted. 
+It has been contended that the method provided by the Windows operating system for removing information from the index.dat files gives a false sense of security. Although the internet cache directory can be cleared, its use cannot be disabled. Also, removing individual entries from an index.dat file (for example, by using Windows Explorer) only prevents those entries being used; it does not remove the files referenced until the next "cleanup". (Marking single entries as deleted rather than erasing them is a common database method of quickly removing items from use whilst also retaining those items should it be desirable to reverse the deletion.)
+While employees of Microsoft have claimed that the Windows operating system deliberately hides index.dat files, users of the Microsoft system point to the fact that Windows Explorer offers users a detailed view of the content of the files when browsing containing directories, therefore allowing anybody using the system to look at and even change and remove their Internet data.
+Some spyware target the index.dat file for unauthorized reading and/or editing.  Computer forensics commonly look at index.dat as part of their analysis of computer use.
+Removal tools[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2021) (Learn how and when to remove this template message)
+Various free programs (among them Red Button, CCleaner, and Index.dat Suite), can completely remove index.dat files until they are recreated by Windows, though CCleaner, and perhaps the others, does not delete the hidden index.dat file in the Temporary Internet Files directory, which contains a copy of the cookies that were in the Cookies directory. However, if Secure Deletion is enabled in CCleaner then this will effectively wipe the contents of this file although the size will continue to increase with use.
+Supported on[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2021) (Learn how and when to remove this template message)
+Index.dat is only available up to Internet Explorer 9. Internet Explorer 10 and 11 do not have index.dat files. Instead, Internet Explorer 10 and 11 use WebCacheV01.dat.
+References[edit]
+^ "The Internet Explorer Index.dat File in the History Folder May Become Very Large". Support.microsoft.com. Retrieved 2015-12-13.
+External links[edit]
+Windows Networking Team blog about Index.dat (followup Q&A)
+How to remove index.dat (Site has broken links and the info is outdated)
+A Cleanup API for Windows - details on how to delete index.dat files
+Windows 'index.dat' Parser Archived 2011-07-24 at the Wayback Machine command-line tool for Windows, Linux, Mac OS-X
+vteInternet ExplorerVersionsMain
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Other
+Mobile
+for Mac OS X
+for UNIX
+IEs4Linux
+Overview
+History
+Add-ons
+Box model
+Browser Helper Object (BHO)
+Extensions
+Removal
+Shells
+Technologies
+Accelerator
+ActiveX
+HTML
+HTA
+HTML Components
+favicon.ico
+HTML+TIME
+Index.dat
+JScript
+MHTML
+MSXML
+RSS Platform
+Smart tags
+Temporary Internet Files
+Vector Markup Language
+Web Slice
+WPAD
+XHR/XDomainRequest
+Software and engines
+Administration Kit
+Developer Tools
+Integrated Windows Authentication
+Tasman
+MSHTML
+Chakra
+Implementations
+Active Channel
+Active Desktop
+ActiveMovie
+Channel Definition Format (.cdf)
+Comic Chat/Chat 2.0
+DirectX Media
+Internet Mail and News
+Microsoft Java Virtual Machine (MSJVM)
+MSN Explorer
+MSN for Mac OS X
+NetMeeting
+NetShow
+Outlook Express
+Server Gated Cryptography (SGC)
+Spyglass
+Windows Address Book
+Windows Desktop Update
+Events
+First Browser War
+Second Browser War
+Download.ject
+Eolas v. Microsoft
+Sun v. Microsoft
+United States v. Microsoft Corp.
+People
+Tantek  elik
+Thomas Reardon
+Dean Hachamovitch
+Scott Isaacs
+Inori Aizawa
+ Category
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Index.dat&oldid=1089253366"

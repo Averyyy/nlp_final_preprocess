@@ -1,0 +1,345 @@
+Not to be confused with Permanent account number.
+Card identifier found on payment cards
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Payment card number" news  newspapers  books  scholar  JSTOR (September 2022) (Learn how and when to remove this template message)
+A payment card number, primary account number (PAN), or simply a card number, is the card identifier found on payment cards, such as credit cards and debit cards, as well as stored-value cards, gift cards and other similar cards. In some situations the card number is referred to as a bank card number.  The card number is primarily a card identifier and may not directly identify the bank account number/s to which the card is/are linked by the issuing entity. The card number prefix identifies the issuer of the card, and the digits that follow are used by the issuing entity to identify the cardholder as a customer and which is then associated by the issuing entity with the customer's designated bank accounts. In the case of stored-value type cards, the association with a particular customer is only made if the prepaid card is reloadable. Card numbers are allocated in accordance with ISO/IEC 7812. The card number is typically embossed on the front of a payment card, and is encoded on the magnetic stripe and chip, but may also be imprinted on the back of the card.
+The payment card number differs from the Business Identifier Code (BIC/ISO 9362, a normalized code also known as Business Identifier Code, Bank International Code or SWIFT code). It also differs from Universal Payment Identification Code, another identifier for a bank account in the United States.
+Structure[edit]
+Payment card numbers are composed of 8 to 19 digits,[1] The leading six or eight digits (one or up to eleven digits) are the issuer identification number (IIN) sometimes referred to as the bank identification number (BIN).[2]: 33  The remaining numbers, except the last digit, are the individual account identification number. The last digit is the Luhn check digit. IINs and PANs have a certain level of internal structure and share a common numbering scheme set by ISO/IEC 7812. The parts of the number are as follows:
+a six or eight-digit Issuer Identification Number (IIN),[a] the first digit of which is the major industry identifier (MII)
+a variable length (up to 12 digits) individual account identifier
+a single check digit calculated using the Luhn algorithm[4]
+^ IIN length has been extended to 8-digits in fifth edition of ISO/IEC 7812 published in 2017[3]  and PAN will continue to remain variable length, ranging from 10 to 19 digits.
+Issuer identification number (IIN)[edit]
+ Partial IIN on a credit card (both printed and embossed)
+The first six or eight digits of a card number (including the initial MII digit) are known as the issuer identification number (IIN). These identify the card issuing institution that issued the card to the card holder. The rest of the number is allocated by the card issuer. The card number's length is its number of digits. Many card issuers print the entire IIN and account number on their card.
+In some circumstances, the issuer identification number (IIN) or bank identification number (BIN) may not be licensed directly from the issuing network (such as Mastercard or Visa). Obtaining an IIN/BIN number can be costly, time consuming and demand intensive operational burdens on in-house regulatory and compliance teams. For this reason, some new card programmes may use a 'BIN sponsor', in which case the IIN/BIN number is effectively sub-licensed from a scheme regulated entity. This is known as BIN sponsorship, and is a popular way for financial institutions to fast-track access to market.[5]
+In the United States, IINs are also used in NCPDP pharmacy claims to identify processors, and are printed on all pharmacy insurance cards. IINs are the primary routing mechanism for real-time claims.
+The ISO Register of Issuer Identification Numbers database is managed by the American Bankers Association. ABA is the Registration Authority for this standard and is responsible for allocating IINs to issuers.
+Online merchants may use IIN lookups to help validate transactions. For example, if a card's IIN indicates a bank in one country, while the customer's billing address is in another, the transaction may call for extra scrutiny.
+Issuing network
+IIN ranges
+Active
+Length
+Validation
+American Express
+34, 37[6]
+Yes
+15[7]
+Luhn algorithm
+Bankcard[8]
+5610, 560221 560225
+No
+16
+China T-Union
+31
+Yes
+19
+China UnionPay
+62
+Yes
+16 19[9]
+Diners Club enRoute
+Yes
+15
+No Validation
+Diners Club International[10]
+36
+Yes
+14 19[9]
+Luhn algorithm
+Diners Club United States & Canada[11]
+54
+Yes
+16
+Discover Card
+6011, 644-649, 65
+Yes
+16 19[9]
+622126 622925 (China UnionPay co-branded)
+Yes
+16 19[9]
+UkrCard
+60400100 60420099
+Yes
+16 19
+RuPay
+60, 65, 81, 82, 508
+Yes
+16
+353, 356 (RuPay-JCB co-branded)
+Yes
+16
+InterPayment
+636
+Yes
+16 19
+InstaPayment
+637 639
+Yes
+16
+JCB
+3528 3589
+Yes
+16 19[9]
+Laser
+6304, 6706, 6771, 6709
+No
+16 19
+Maestro UK
+6759, 676770, 676774[12]
+Yes
+12 19
+Maestro
+5018, 5020, 5038, 5893, 6304, 6759, 6761, 6762, 6763
+Yes
+12 19
+Dankort
+5019
+Yes
+16
+4571 (Visa co-branded)[13]
+Yes
+16
+Mir
+2200 2204
+Yes
+16 19
+BORICA (Bulgarian national payment system)
+2205
+Yes
+16
+NPS Pridnestrovie
+6054740 6054744
+No[14]
+16
+Mastercard
+2221 2720[15]
+Yes (since 2017)[16]
+16
+51 55
+Yes
+16
+Solo
+6334, 6767
+No
+16, 18, 19
+Switch
+4903, 4905, 4911, 4936, 564182, 633110, 6333, 6759
+No
+16, 18, 19
+Troy
+65 (Discover co-branded[17]), 9792[18]
+Yes
+16
+Visa
+4
+Yes
+13, 16
+Visa Electron
+4026, 417500, 4508, 4844, 4913, 4917
+Yes
+16
+UATP
+1
+Yes
+15
+Verve
+506099 506198, 650002 650027, 507865-507964
+Yes
+16, 18, 19
+Luhn algorithm
+LankaPay
+357111
+Yes
+16
+UzCard
+8600
+Yes
+16
+Unknown
+Humo
+9860
+Yes
+16
+GPN
+1, 2, 6, 7, 8, 9
+Yes
+16
+Napas
+9704
+Yes
+16
+On November 8, 2004, Mastercard and Diners Club formed an alliance. Diners Club cards issued in Canada and the United States start with 54 or 55 and are treated as Mastercards worldwide. International cards use the 36 prefix and are treated as Mastercards in Canada and the United States, but are treated as Diners Club cards elsewhere. Diners Club International's website makes no reference to old 38 prefix numbers, and they can be presumed reissued under the 55 or 36 IIN prefix. Effective October 16, 2009, Diners Club cards beginning with 30, 36, 38 or 39 have been processed by Discover Card.[19]
+On November 3, 2014, Mastercard announced that they were introducing a new series of BIN ranges that begin with a  2  (222100 272099). The  2  series BINs will be processed the same as the  51 55  series BINs are today. They became active 14 October 2016.
+On July 23, 2014 JSC NSPK was established in the Russian Federation. The joint stock company National System of Payment Cards (NSPK) is the operator of the Mir National Payment System. The main initiatives of NSPK are to create the national payment system infrastructure and to issue a national payment card Mir.
+Effective October 1, 2006, Discover began using the entire 65 prefix, not just 650. Also, similar to the Mastercard/Diners agreement, China UnionPay cards are now treated as Discover cards and accepted on the Discover network.
+While the vast majority of Visa's account ranges describe 16 digit card numbers there are still a few account ranges (forty as of 11 December 2013) 
+dedicated to 13 digit PANs and several (439 as of 11 Dec. 2013) account ranges where the issuer can mix 13 and 16 digit card numbers. Visa's VPay brand can specify PAN lengths from 13 to 19 digits and so card numbers of more than 16 digits are now being seen.
+Switch was re-branded as Maestro in mid-2007.[20] In 2011, UK domestic Maestro (formerly Switch) was aligned with the standard international Maestro proposition with the retention of a few residual country specific rules.
+EMV Certification requires acceptance of a 19-digit Visa card (ADVT 6.1.1 Test Case 2) and Discover Card (E2E Test Plan v1.3, Test Case 06).
+Canadian bank card numbering[edit]
+Bank card numbers issued by Canadian banks also follow a pattern for their systems:
+Issuing network
+Ranges
+Length
+Canadian Imperial Bank of Commerce Advantage Debit Card
+4506 (Interac and Visa Debit)
+16 digits
+Royal Bank of Canada Client Card
+45
+16 digits
+TD Canada Trust Access Card
+4724 (Interac and Visa Debit)
+16 digits
+Scotiabank Scotia Card
+4536
+16 digits
+BMO ABM Card
+500, 5510
+16 digits
+HSBC Bank Canada Card
+56
+16 digits
+Conexus Credit Union Member Card
+629449
+16 digits
+Security measures[edit]
+To reduce the risk of credit card fraud, various techniques are used to prevent the dissemination of bank card numbers. These include:
+Format-preserving encryption: in which the account number is replaced with a strongly encrypted version which retains the format of the card data including non sensitive parts of the field such as first six and last four digits. This permits data field protection without changing payment IT systems and applications. A common use is for protecting card data from the point of capture in a secure reader to the payment processing host end-to-end to mitigate risk of data compromise in systems such as the Point of Sale (POS). AES-FF1 Format-Preserving Encryption is defined in NIST Specification SP800-38G.
+PAN truncation: in which only some of the digits on a card are displayed or printed on receipts.  The PCI DSS standard dictates that only the first six and last four digits of the PAN may be printed on a receipt or displayed in cases other than where a business need requires the full PAN. US federal law (FACTA) allows only the display of the last 5 digits. In order to comply with both PCI DSS requirements and US federal law, generally only the last four digits are provided elsewhere to allow an individual to identify the card used.
+Tokenization: in which an artificial account number (token) is printed, stored or transmitted in place of the true account number.
+References[edit]
+Banks portal
+^ "Announcing Major Changes to the Issuer Identification Number (IIN) Standard". www.ansi.org.
+^ R. Shirey (August 2007). Internet Security Glossary, Version 2. Network Working Group. doi:10.17487/RFC4949. RFC 4949. Informational.
+^ "ISO/IEC 7812-1:2017".
+^ "ISO/IEC 7812-1:2006". ISO.
+^ "What is issuing BIN sponsorship?". Monavate.com. Retrieved 2 July 2021.
+^ "Card Security Features" (PDF). American Express. January 2001. Archived from the original (PDF) on 5 March 2006. Retrieved 2006-04-05.
+^ "American Express Card security features" (PDF). Archived from the original (PDF) on 2021-10-25. Retrieved 2021-10-25.
+^ "Bankcard Association of Australia". Archived from the original on 6 April 2006. Retrieved 2017-02-03.
+^ a b c d e "February 2017 Compliance Update" (PDF). Archived from the original (PDF) on 2017-08-22. Retrieved 2017-08-22.
+^ "Mastercard Diners Club Alliance". Archived from the original on 2008-12-04. Retrieved 2022-08-11.{{cite web}}:  CS1 maint: unfit URL (link)
+^ "Diners Club - Fraud Management". Archived from the original on 2007-12-29. Retrieved 2022-08-11.{{cite web}}:  CS1 maint: unfit URL (link)
+^ "Barclaycard BIN Ranges and Rules - UK" (PDF). Archived from the original on 2019-02-17. Retrieved 2022-08-11.{{cite web}}:  CS1 maint: unfit URL (link)
+^ "Nets Technical Reference Guide" (PDF). 1-14.3.2 Building the MSC Selection Table.
+^ "                22   2015     202                          " [On the cancellation of the Decree of the President of the Pridnestrovian Moldavian Republic dated May 22, 2015 No. 202 "On the general conditions for the organization and functioning of the National Payment System in the Pridnestrovian Moldavian Republic"].
+^ "Mastercard Rules" (PDF). Mastercard. 21 December 2017. Archived from the original (PDF) on 2018-05-14.
+^ "Mastercard 2-Series BIN Implementation for Merchants" (PDF). www.mastercard.us.
+^ "Turkey's Troy moves overseas with Discover deal". No. 9 November 2017. 9 November 2017. Retrieved 19 February 2022.
+^ El ibo a, Ibrahim Kudret. "TROY Bin Listesi". Fraud and Chargeback (in Turkish). Retrieved 2020-08-31.
+^ "Discover Network - IIN Range Update, 9.1" (PDF). October 2008. Retrieved 2009-01-28.
+^ "Switch to Maestro". Archived from the original on 8 August 2010. Retrieved 2010-08-20.
+vteCredit, charge and debit cardsMajor cards
+American Express
+Mastercard
+Debit
+Maestro
+Mondex
+Cirrus
+Visa
+Debit
+Electron
+Cash
+Plus
+Regional and specialty cards
+Bancomat
+BC Card
+BCA Card
+Cabcharge
+Carte Bleue (CB)
+Dankort
+Discover
+Diners Club
+Pulse
+EFTPOS
+Electronic Payment Services (EPS)
+Elo
+European Payments Initiative (EPI)
+Forbrugsforeningen
+Girocard
+Isracard
+JCB
+Mir
+MEPS
+Meeza
+NETS
+PayPak
+RuPay
+Troy
+UnionPay
+UATP
+V Pay
+Verve
+Defunct cards
+Access
+Bankcard
+Carte Blanche
+Carte Bleue
+Chipknip
+Choice
+enRoute
+Eurocard
+Everything
+Laser
+Rail Travel Card
+Revolution Card
+Solo
+Switch
+PIN
+Proton
+Accounts
+Payment card number
+Card association
+Card enclosure
+Credit card balance transfer
+Credit limit
+Installment loan
+Revolving account
+Deposit account
+Current/checking account
+Savings account
+ATM card
+Fees
+Debt
+Cash advance
+Charge-off
+Interest
+Grace period
+Introductory rate
+Universal default
+Payment
+Card not present transaction
+Chargeback
+Controlled payment number
+Dispute
+Interchange
+Fee
+Surcharge
+Card scheme
+Network
+Cirrus
+Interac
+Pulse
+Plus
+Security
+Card security code
+Chargeback fraud
+Credit card fraud
+Credit card hijacking
+Technology
+Automated teller machine
+Contactless payment
+Credit card imprinter
+EMV
+Hardware security module
+Interbank network
+Magnetic stripe card
+Payment terminal
+Personal identification number
+Secure cryptoprocessor
+Smart card
+Banking
+Issuing bank
+Acquiring bank
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Payment_card_number&oldid=1146678178"

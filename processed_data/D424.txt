@@ -1,0 +1,428 @@
+Mathematical symbol:  
+For other uses, see plus-minus (disambiguation).
+ Plus minus signIn UnicodeU+00B1   PLUS-MINUS SIGN (&plusmn;, &PlusMinus;, &pm;)RelatedSee alsoU+2213   MINUS-OR-PLUS SIGN (&MinusPlus;, &mnplus;, &mp;)
+The plus minus sign,  , is a mathematical symbol with multiple meanings:
+In mathematics, it generally indicates a choice of exactly two possible values, one of which is obtained through addition and the other through subtraction.[1]
+In experimental sciences, the sign commonly indicates the confidence interval or uncertainty bounding a range of possible errors in a measurement, often the standard deviation or standard error.[2] The sign may also represent an inclusive range of values that a reading might have.
+In medicine, it means "with or without".[3][4]
+In engineering, the sign indicates the tolerance, which is the range of values that are considered to be acceptable, safe, or which comply with some standard or with a contract.
+In botany, it is used in morphological descriptions to notate "more or less".
+In chemistry, the sign is used to indicate a racemic mixture.
+In chess, the sign indicates a clear advantage for the white player; the complementary minus-or-plus sign,  , indicates the same advantage for the black player.[5]
+In electronics, this sign may indicate a dual voltage power supply, such as  5 volts means +5 volts and  5 volts, when used with audio circuits and operational amplifiers.
+In linguistics, it may indicate a distinctive feature, such as [ voiced].[6]
+History[edit]
+A version of the sign, including also the French word ou ("or"), was used in its mathematical meaning by Albert Girard in 1626, and the sign in its modern form was used as early as 1631, in William Oughtred's Clavis Mathematicae.[7]
+Usage[edit]
+In mathematics[edit]
+In mathematical formulas, the   symbol may be used to indicate a symbol that may be replaced by either the plus and minus signs, + or  , allowing the formula to represent two values or two equations.[8]
+If x2 = 9, one may give the solution as x =  3. This indicates that the equation has two solutions: x = +3 and x =  3. A common use of this notation is found in the quadratic formula
+x
+=
+ 
+b
+ 
+b
+2
+ 
+4
+a
+c
+2
+a
+,
+{\displaystyle x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}},}
+which describes the two solutions to the quadratic equation ax2 + bx + c = 0.
+Similarly, the trigonometric identity
+sin
+ 
+(
+A
+ 
+B
+)
+=
+sin
+ 
+(
+A
+)
+cos
+ 
+(
+B
+)
+ 
+cos
+ 
+(
+A
+)
+sin
+ 
+(
+B
+)
+{\displaystyle \sin(A\pm B)=\sin(A)\cos(B)\pm \cos(A)\sin(B)}
+can be interpreted as a shorthand for two equations: one with + on both sides of the equation, and one with   on both sides.
+The minus plus sign,  , is generally used in conjunction with the   sign, in such expressions as x   y   z, which can be interpreted as meaning x + y   z or x   y + z (but not x + y + z nor x   y   z). The   always has the opposite sign than  .
+The above expression can be rewritten as x    (y   z) to avoid use of  , but cases such as the trigonometric identity are most neatly written using the " " sign:
+cos
+ 
+(
+A
+ 
+B
+)
+=
+cos
+ 
+(
+A
+)
+cos
+ 
+(
+B
+)
+ 
+sin
+ 
+(
+A
+)
+sin
+ 
+(
+B
+)
+{\displaystyle \cos(A\pm B)=\cos(A)\cos(B)\mp \sin(A)\sin(B)}
+which represents the two equations:
+cos
+ 
+(
+A
++
+B
+)
+=
+cos
+ 
+(
+A
+)
+cos
+ 
+(
+B
+)
+ 
+sin
+ 
+(
+A
+)
+sin
+ 
+(
+B
+)
+cos
+ 
+(
+A
+ 
+B
+)
+=
+cos
+ 
+(
+A
+)
+cos
+ 
+(
+B
+)
++
+sin
+ 
+(
+A
+)
+sin
+ 
+(
+B
+)
+{\displaystyle {\begin{aligned}\cos(A+B)&=\cos(A)\cos(B)-\sin(A)\sin(B)\\\cos(A-B)&=\cos(A)\cos(B)+\sin(A)\sin(B)\end{aligned}}}
+Another example is the conjugate of the perfect squares
+x
+3
+ 
+y
+=
+(
+x
+ 
+y
+)
+(
+(
+x
+ 
+y
+)
+2
+ 
+x
+)
+{\displaystyle x^{3}\pm y=(x\pm y)\left((x\mp y\right)^{2}\pm x)}
+which represents the two equations:
+x
+3
++
+y
+=
+(
+x
++
+y
+)
+(
+(
+x
+ 
+y
+)
+2
++
+x
+)
+{\displaystyle x^{3}+y=(x+y)\left((x-y\right)^{2}+x)}
+x
+3
+ 
+y
+=
+(
+x
+ 
+y
+)
+(
+(
+x
++
+y
+)
+2
+ 
+x
+)
+{\displaystyle x^{3}-y=(x-y)\left((x+y\right)^{2}-x)}
+A related usage is found in this presentation of the formula for the Taylor series of the sine function:
+sin
+ 
+(
+x
+)
+=
+x
+ 
+x
+3
+3
+!
++
+x
+5
+5
+!
+ 
+x
+7
+7
+!
++
+ 
+ 
+1
+(
+2
+n
++
+1
+)
+!
+x
+2
+n
++
+1
++
+ 
+ 
+.
+{\displaystyle \sin \left(x\right)=x-{\frac {x^{3}}{3!}}+{\frac {x^{5}}{5!}}-{\frac {x^{7}}{7!}}+\cdots \pm {\frac {1}{(2n+1)!}}x^{2n+1}+\cdots ~.}
+Here, the plus-or-minus sign indicates that the term may be added or subtracted depending on whether n is odd or even, the rule can be deduced from the first few terms. A more rigorous presentation would multiply each term by a factor of ( 1)n, which gives +1 when n is even, and  1 when n is odd. In older texts one occasionally finds ( )n, which means the same.
+When the standard presumption that the plus-or-minus signs all take on the same value of +1 or all  1  is not true, then the line of text that immediately follows the equation must contain a brief description of the actual connection, if any, most often of the form  where the   signs are independent  or similar. If a brief, simple description is not possible, the equation must be re-written to provide clarity; e.g. by introducing variables such as s1, s2, ... and specifying a value of +1 or  1 separately for each, or some appropriate relation, like 
+s
+3
+=
+s
+1
+ 
+(
+s
+2
+)
+n
+,
+{\displaystyle s_{3}=s_{1}\cdot (s_{2})^{n}\,,}
+ or similar.
+In statistics[edit]
+The use of   for an approximation is most commonly encountered in presenting the numerical value of a quantity, together with its tolerance or its statistical margin of error.[2] For example, 5.7   0.2 may be anywhere in the range from 5.5 to 5.9 inclusive. In scientific usage, it sometimes refers to a probability of being within the stated interval, usually corresponding to either 1 or 2 standard deviations (a probability of 68.3% or 95.4% in a normal distribution).
+Operations involving uncertain values should always try to preserve the uncertainty in order to avoid propagation of error. If 
+ 
+n
+=
+a
+ 
+b
+,
+{\displaystyle ~n=a\pm b\;,}
+ any operation of the form 
+ 
+m
+=
+f
+(
+n
+)
+ 
+{\displaystyle ~m=f(n)~}
+ must return a value of the form 
+ 
+m
+=
+c
+ 
+d
+ 
+{\displaystyle ~m=c\pm d~}
+, where c is 
+f
+(
+n
+)
+{\displaystyle \,f(n)\,}
+ and d is range updated using interval arithmetic.
+A percentage may also be used to indicate the error margin. For example, 230  10% V refers to a voltage within 10% of either side of 230 V (from 207 V to 253 V inclusive).[citation needed] Separate values for the upper and lower bounds may also be used. For example, to indicate that a value is most likely 5.7, but may be as high as 5.9 or as low as 5.6, one may write 5.7+0.2 0.1.
+In chess[edit]
+The symbols   and   are used in chess notation to denote an advantage for white and black, respectively. However, the more common chess notation would be to only use + and  .[5] If several different symbols are used together, then the symbols + and   denote a clearer advantage than   and  . When finer evaluation is desired, three pairs of symbols are used:   and   for only a slight advantage;   and   for a significant advantage; and +  and  + for a potentially winning advantage, in each case for white or black respectively.[9]
+Encodings[edit]
+In Unicode: U+00B1   PLUS-MINUS SIGN
+In ISO 8859-1, -7, -8, -9, -13, -15, and -16, the plus minus symbol is code 0xB1hex. This location was copied to Unicode.
+The symbol also has a HTML entity representations of &pm;, &plusmn;, and &#177;.
+The rarer minus plus sign is not generally found in legacy encodings, but is available in Unicode as U+2213   MINUS-OR-PLUS SIGN so can be used in HTML using &#x2213; or &#8723;.
+In TeX 'plus-or-minus' and 'minus-or-plus' symbols are denoted \pm and \mp, respectively.
+Although these characters may also be produced using underlining or overlining + symbol ( +  or + ), this is deprecated because the formatting may be stripped at a later date, changing the meaning. It also makes the meaning less accessible to blind users with screen readers.
+Typing[edit]
+Windows: Alt+241 or Alt+0177 (numbers typed on the numeric keypad).
+Macintosh:   Option+  Shift+= (equal sign on the non-numeric keypad).
+Unix-like systems: Compose,+,- or   Shift+Ctrl+u B1space (second works on Chromebook)
+In the Vim text editor (in Insert mode): Ctrl+k +- or Ctrl+v 177 or Ctrl+v x B1 or Ctrl+v u 00B1
+AutoCAD shortcut string: %%p
+Similar characters[edit]
+Look up  ,  , or   in Wiktionary, the free dictionary.
+The plus minus sign resembles the Chinese characters   (Radical 32) and   (Radical 33), whereas the minus plus sign resembles   (Radical 51).
+See also[edit]
+  (approximately equal to)
+Engineering tolerance
+Plus and minus signs
+Sign (mathematics)
+Table of mathematical symbols
+References[edit]
+^ Weisstein, Eric W. "Plus or Minus". mathworld.wolfram.com. Retrieved 2020-08-28.
+^ a b Brown, George W. (1982). "Standard deviation, standard error: Which 'standard' should we use?". American Journal of Diseases of Children. 136 (10): 937 941. doi:10.1001/archpedi.1982.03970460067015. PMID 7124681.
+^ Naess, I. A.; Christiansen, S. C.; Romundstad, P.; Cannegieter, S. C.; Rosendaal, F. R.; Hammerstr m, J. (2007). "Incidence and mortality of venous thrombosis: a population-based study". Journal of Thrombosis and Haemostasis. 5 (4): 692 699. doi:10.1111/j.1538-7836.2007.02450.x. ISSN 1538-7933. PMID 17367492.
+^ Heit, J. A.; Silverstein, M. D.; Mohr, D. N.; Petterson, T. M.; O'Fallon, W. M.; Melton, L. J. (1999-03-08). "Predictors of survival after deep vein thrombosis and pulmonary embolism: a population-based, cohort study". Archives of Internal Medicine. 159 (5): 445 453. doi:10.1001/archinte.159.5.445. ISSN 0003-9926. PMID 10074952.
+^ a b Eade, James (2005), Chess For Dummies (2nd ed.), John Wiley & Sons, p. 272, ISBN 9780471774334.
+^ Hornsby, David. Linguistics, A Complete Introduction. p. 99. ISBN 9781444180336.
+^ Cajori, Florian (1928), A History of Mathematical Notations, Volume I: Notations in Elementary Mathematics, Open Court, p. 245.
+^ "Definition of PLUS/MINUS SIGN". www.merriam-webster.com. Retrieved 2020-08-28.
+^ For details, see Chess annotation symbols#Positions.
+vtePunctuation marks and other typographical marks or symbols
+ space 
+ , comma 
+ : colon 
+ ; semicolon 
+ hyphen 
+ ' apostrophe 
+ prime 
+ . full stop 
+ & ampersand 
+ @ at sign 
+ ^ caret 
+ / slash 
+ \ backslash 
+ ellipsis 
+ * asterisk 
+ asterism 
+ * * * dinkus 
+ - hyphen-minus 
+ dash 
+ = double hyphen 
+ ? question mark 
+ ! exclamation mark 
+ interrobang 
+ inverted ! and ? 
+ irony punctuation 
+ # number sign 
+ numero sign 
+ ordinal indicator 
+ % percent sign 
+ per mille 
+ basis point 
+ degree symbol 
+ diameter sign 
+ + plus and minus signs 
+ multiplication sign 
+ division sign 
+ ~ tilde 
+ plus minus sign 
+ _ underscore 
+ tie 
+ | vertical bar 
+ bullet 
+ interpunct 
+ copyright symbol 
+ copyleft 
+ sound recording copyright 
+ registered trademark 
+ SM service mark symbol 
+ TM trademark symbol 
+ ' ' " " quotation mark 
+ guillemet 
+ ( ) [ ] { } bracket 
+ ditto mark 
+ dagger 
+ hedera/floral heart 
+ manicule 
+ lozenge 
+ pilcrow (paragraph mark) 
+ reference mark 
+ section mark 
+Version of this table as a sortable list
+Currency symbols
+Diacritics (accents)
+Logic symbols
+Math symbols
+Whitespace
+Chinese punctuation
+Hebrew punctuation
+Japanese punctuation
+Korean punctuation
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Plus minus_sign&oldid=1149495265"

@@ -1,0 +1,539 @@
+Unexpectedly large transient ocean surface wave
+This article is about the natural phenomenon. For other uses, see Rogue wave (disambiguation).
+ A merchant ship labouring in heavy seas as a large wave looms ahead, Bay of Biscay, c. 1940
+Rogue waves (also known as freak waves, monster waves, episodic waves, killer waves, extreme waves, and abnormal waves) are unusually large, unpredictable, and suddenly appearing surface waves that can be extremely dangerous to ships, even to large ones.[1] They are distinct from tsunamis, which are often almost unnoticeable in deep waters and are caused by the displacement of water due to other phenomena (such as earthquakes). A rogue wave appearing at the shore is sometimes referred to as a sneaker wave.[2]
+In oceanography, rogue waves are more precisely defined as waves whose height is more than twice the significant wave height (Hs or SWH), which is itself defined as the mean of the largest third of waves in a wave record. Therefore, rogue waves are not necessarily the biggest waves found on the water; they are, rather, unusually large waves for a given sea state. Rogue waves seem not to have a single distinct cause, but occur where physical factors such as high winds and strong currents cause waves to merge to create a single exceptionally large wave.[1]
+A 2012 study supported the existence of oceanic rogue holes, the inverse of rogue waves, where the depth of the hole can reach more than twice the significant wave height. Rogue holes have been replicated in experiments using water-wave tanks, but have not been confirmed in the real world.[3]
+Background[edit]
+ Although commonly described as a tsunami, the titular wave in The Great Wave off Kanagawa by Hokusai is more likely an example of a large rogue wave.
+Rogue waves are open-water phenomena, in which winds, currents, nonlinear phenomena such as solitons, and other circumstances cause a wave to briefly form that is far larger than the "average" large wave (the significant wave height or "SWH") of that time and place. The basic underlying physics that makes phenomena such as rogue waves possible is that different waves can travel at different speeds, so they can "pile up" in certain circumstances, known as "constructive interference". (In deep ocean, the speed of a gravity wave is proportional to the square root of its wavelength, the peak-to-peak distance between adjacent waves.) However, other situations can also give rise to rogue waves, particularly situations where nonlinear effects or instability effects can cause energy to move between waves and be concentrated in one or very few extremely large waves before returning to "normal" conditions.
+Once considered mythical and lacking hard evidence for their existence, rogue waves are now proven to exist and known to be natural ocean phenomena. Eyewitness accounts from mariners and damage inflicted on ships have long suggested that they occur, but the first scientific evidence of their existence came with the recording of a rogue wave by the Gorm platform in the central North Sea in 1984. A stand-out wave was detected with a wave height of 11 m (36 ft) in a relatively low sea state.[4] However, what caught the attention of the scientific community was the digital measurement of a rogue wave at the Draupner platform in the North Sea on January 1, 1995; called the "Draupner wave", it had a recorded maximum wave height of 25.6 m (84 ft) and peak elevation of 18.5 m (61 ft). During that event, minor damage was inflicted on the platform far above sea level, confirming the validity of the reading made by a downwards pointing laser sensor.[5]
+Their existence has also since been confirmed by video and photographs, satellite imagery, radar of the ocean surface,[6] stereo wave imaging systems,[7] pressure transducers on the sea-floor, and oceanographic research vessels.[8] In February 2000, a British oceanographic research vessel, the RRS Discovery, sailing in the Rockall Trough west of Scotland, encountered the largest waves ever recorded by any scientific instruments in the open ocean, with a SWH of 18.5 metres (61 ft) and individual waves up to 29.1 metres (95 ft).[9] "In 2004 scientists using three weeks of radar images from European Space Agency satellites found ten rogue waves, each 25 metres (82 ft) or higher."[10]
+A rogue wave is a natural ocean phenomenon that is not caused by land movement, only lasts briefly, occurs in a limited location, and most often happens far out at sea.[1] Rogue waves are considered rare, but potentially very dangerous, since they can involve the spontaneous formation of massive waves far beyond the usual expectations of ship designers, and can overwhelm the usual capabilities of ocean-going vessels which are not designed for such encounters. Rogue waves are, therefore, distinct from tsunamis.[1] Tsunamis are caused by a massive displacement of water, often resulting from sudden movements of the ocean floor, after which they propagate at high speed over a wide area. They are nearly unnoticeable in deep water and only become dangerous as they approach the shoreline and the ocean floor becomes shallower;[11] therefore, tsunamis do not present a threat to shipping at sea (e.g., the only ships lost in the 2004 Asian tsunami were in port.). They are also distinct from megatsunamis, which are single massive waves caused by sudden impact, such as meteor impact or landslides within enclosed or limited bodies of water. They are also different from the waves described as "hundred-year waves", which are a purely statistical prediction of the highest wave likely to occur in a 100-year period in a particular body of water.
+Rogue waves have now been proven to be the cause of the sudden loss of some ocean-going vessels. Well-documented instances include the freighter MS M nchen, lost in 1978.[12] Rogue waves have been implicated in the loss of other vessels, including the Ocean Ranger, a semisubmersible mobile offshore drilling unit that sank in Canadian waters on 15 February 1982.[13] In 2007, the United States' National Oceanic and Atmospheric Administration  compiled a catalogue of more than 50 historical incidents probably associated with rogue waves.[14]
+History of rogue wave knowledge[edit]
+Early reports[edit]
+In 1826, French scientist and naval officer Captain Jules Dumont d'Urville reported waves as high as 33 m (108 ft) in the Indian Ocean with three colleagues as witnesses, yet he was publicly ridiculed by fellow scientist Fran ois Arago. In that era, the thought was widely held that no wave could exceed 9 m (30 ft).[15][16] Author Susan Casey wrote that much of that disbelief came because there were very few people who had seen a rogue wave and survived; until the advent of steel double-hulled ships of the 20th century "people who encountered 100-foot [30 m] rogue waves generally weren't coming back to tell people about it."[17]
+Pre-1995 research[edit]
+Unusual waves have been studied scientifically for many years (for example, John Scott Russell's wave of translation, an 1834 study of a soliton wave), but these were not linked conceptually to sailors' stories of encounters with giant rogue ocean waves, as the latter were believed to be scientifically implausible.
+Since the 19th century, oceanographers, meteorologists, engineers, and ship designers have used a statistical model known as the Gaussian function (or Gaussian Sea or standard linear model) to predict wave height, on the assumption that wave heights in any given sea are tightly grouped around a central value equal to the average of the largest third, known as the significant wave height (SWH).[18] In a storm sea with an SWH of 12 m (39 ft), the model suggests hardly ever would a wave higher than 15 m (49 ft) occur. It suggests one of 30 m (98 ft) could indeed happen, but only once in 10,000 years. This basic assumption was well accepted, though acknowledged to be an approximation. The use of a Gaussian form to model waves had been the sole basis of virtually every text on that topic for the past 100 years.[18][19][when?]
+The first known scientific article on "freak waves" was written by Professor Laurence Draper in 1964. In that paper, he documented the efforts of the National Institute of Oceanography in the early 1960s to record wave height, and the highest wave recorded at that time, which was about 20 metres (67 ft). Draper also described freak wave holes.[20][21][22]
+Even as late as the mid-1990s, though, most popular texts on oceanography such as that by Pirie did not contain any mention of rogue or freak waves.[23] Even after the 1995 Draupner wave, the popular text on Oceanography by Gross (1996) only gave rogue waves a mention and simply stated, "Under extraordinary circumstances, unusually large waves called rogue waves can form" without providing any further detail.[24]
+The 1995 Draupner wave[edit]
+ Measured amplitude graph showing the Draupner wave (spike in the middle)
+The Draupner wave (or New Year's wave) was the first rogue wave to be detected by a measuring instrument. The wave was recorded in 1995 at Unit E of the Draupner platform, a gas pipeline support complex located in the North Sea about 160 km (100 mi) southwest from the southern tip of Norway.[25][a]
+The rig was built to withstand a calculated 1-in-10,000-years wave with a predicted height of 20 m (64 ft) and was fitted with state-of-the-art sensors, including a laser rangefinder wave recorder on the platform's underside. At 3 pm on 1 January 1995, the device recorded a rogue wave with a maximum wave height of 25.6 m (84 ft). Peak elevation above still water level was 18.5 m (61 ft).[26] The reading was confirmed by the other sensors.[27] The platform sustained minor damage in the event.
+In the area, the SWH was about 12 m (39 ft), so the Draupner wave was more than twice as tall and steep as its neighbors, with characteristics that fell outside any known wave model. The wave caused enormous interest in the scientific community.[25][27]
+Subsequent research[edit]
+Following the evidence of the Draupner wave, research in the area became widespread.
+The first scientific study to comprehensively prove that freak waves exist, which are clearly outside the range of Gaussian waves, was published in 1997.[28] Some research confirms that observed wave height distribution in general follows well the Rayleigh distribution, but in shallow waters during high energy events, extremely high waves are rarer than this particular model predicts.[10] From about 1997 most leading authors acknowledged the existence of rogue waves with the caveat that wave models had been unable to replicate rogue waves.[15]
+Statoil researchers presented a paper in 2000, collating evidence that freak waves were not the rare realizations of a typical or slightly non-gaussian sea surface population (classical extreme waves), but rather they were the typical realizations of a rare and strongly non-gaussian sea surface population of waves (freak extreme waves).[29] A workshop of leading researchers in the world attended the first Rogue Waves 2000 workshop held in Brest in November 2000.[30]
+In 2000, British oceanographic vessel RRS Discovery recorded a 29 m (95 ft) wave off the coast of Scotland near Rockall. This was a scientific research vessel fitted with high-quality instruments. Subsequent analysis determined that under severe gale-force conditions with wind speeds averaging 21 metres per second (41 kn), a ship-borne wave recorder measured individual waves up to 29.1 m (95.5 ft) from crest to trough, and a maximum SWH of 18.5 m (60.7 ft). These were some of the largest waves recorded by scientific instruments up to that time. The authors noted that modern wave prediction models are known to significantly under-predict extreme sea states for waves with a significant height (Hs) above 12 m (39.4 ft). The analysis of this event took a number of years, and noted that "none of the state-of-the-art weather forecasts and wave models  the information upon which all ships, oil rigs, fisheries, and passenger boats rely  had predicted these behemoths." Put simply, a scientific model (and also ship design method) to describe the waves encountered did not exist. This finding was widely reported in the press, which reported that "according to all of the theoretical models at the time under this particular set of weather conditions, waves of this size should not have existed".[1][9][25][31][32]
+In 2004, the ESA MaxWave project identified more than 10 individual giant waves above 25 m (82 ft) in height during a short survey period of three weeks in a limited area of the South Atlantic. The ESA's ERS satellites have helped to establish the widespread existence of these "rogue" waves.[33][34] By 2007, it was further proven via satellite radar studies that waves with crest-to-trough heights of 20 to 30 m (66 to 98 ft) occur far more frequently than previously thought.[35] Rogue waves are now known to occur in all of the world's oceans many times each day.
+Rogue waves are now accepted as a common phenomenon. Professor Akhmediev of the Australian National University has stated that 10 rogue waves exist in the world's oceans at any moment.[36] Some researchers have speculated that roughly three of every 10,000 waves on the oceans achieve rogue status, yet in certain spots  such as coastal inlets and river mouths  these extreme waves can make up three of every 1,000 waves, because wave energy can be focused.[37]
+Rogue waves may also occur in lakes. A phenomenon known as the "Three Sisters" is said to occur in Lake Superior when a series of three large waves forms. The second wave hits the ship's deck before the first wave clears. The third incoming wave adds to the two accumulated backwashes and suddenly overloads the ship deck with tons of water. The phenomenon is one of various theorized causes of the sinking of the SS Edmund Fitzgerald on Lake Superior in November 1975.[38]
+Serious studies of the phenomenon of rogue waves only started after the 1995 Draupner wave and have intensified since about 2005. One of the remarkable features of the rogue waves is that they always appear from nowhere and quickly disappear without a trace. Recent research has suggested that "super-rogue waves", which are up to five times the average sea state, could also exist. "Rogue wave" has now become a near-universal term used by scientists to describe isolated, large-amplitude waves that occur more frequently than expected for normal, Gaussian-distributed, statistical events. Rogue waves appear to be ubiquitous in nature and are not limited to the oceans. They appear in other contexts and recently have been reported in liquid helium, in nonlinear optics, and in microwave cavities. Marine researchers universally now accept that these waves belong to a specific kind of sea wave, not taken into account by conventional models for sea wind waves.[39][40][41][42]
+In 2012, researchers at the Australian National University proved the existence of "rogue wave holes", an inverted profile of a rogue wave. Their research created rogue wave holes on the water surface, in a water-wave tank.[3] In maritime folklore, stories of rogue holes are as common as stories of rogue waves. They follow from theoretical analysis, but had never been proven experimentally.
+A 2015 paper studied the wave behavior around a rogue wave, including optical, and the Draupner wave, and concluded, "rogue events do not necessarily appear without a warning, but are often preceded by a short phase of relative order".[43]
+In 2019, researchers succeeded in producing a wave with similar characteristics to the Draupner wave (steepness and breaking), and proportionately greater height, using multiple wavetrains meeting at an angle of 120 . Previous research had strongly suggested that the wave resulted from an interaction between waves from different directions ("crossing seas"). Their research also highlighted that wave-breaking behavior was not necessarily as expected. If waves met at an angle less than about 60 , then the top of the wave "broke" sideways and downwards (a "plunging breaker"), but from about 60  and greater, the wave began to break vertically upwards, creating a peak that did not reduce the wave height as usual, but instead increased it (a "vertical jet"). They also showed that the steepness of rogue waves could be reproduced in this manner. Finally, they observed that optical instruments such as the laser used for the Draupner wave might be somewhat confused by the spray at the top of the wave, if it broke, and this could lead to uncertainties of around 1.0 to 1.5 m (3 to 5 ft) in the wave height. They concluded, "... the onset and type of wave breaking play a significant role and differ significantly for crossing and noncrossing waves. Crucially, breaking becomes less crest-amplitude limiting for sufficiently large crossing angles and involves the formation of near-vertical jets".[44][45]
+ Images from the 2019 simulation of the Draupner wave show how the steepness of the wave forms, and how the crest of a rogue wave breaks, when waves cross at different angles. (Click image for full resolution) In the first row (0 ), the crest breaks horizontally and plunges, limiting the wave size. In the middle row (60 ), somewhat upward-lifted breaking behavior occurs. In the third row (120 ), described as the most accurate simulation achieved of the Draupner wave, the wave breaks upward, as a vertical jet, and the wave crest height is not limited by breaking.
+Research efforts[edit]
+A number of research programmes are currently underway focused on rogue waves, including:
+In the course of Project MaxWave, researchers from the GKSS Research Centre, using data collected by ESA satellites, identified a large number of radar signatures that have been portrayed as evidence for rogue waves. Further research is underway to develop better methods of translating the radar echoes into sea surface elevation, but at present this technique is not proven.[33][46]
+The Australian National University, working in collaboration with Hamburg University of Technology and the University of Turin, have been conducting experiments in nonlinear dynamics to try to explain so-called rogue or killer waves. The "Lego Pirate" video has been widely used and quoted to describe what they call "super rogue waves", which their research suggests can be up to five times bigger than the other waves around them.[47][48][49]
+The European Space Agency continues to do research into rogue waves by radar satellite.[50]
+United States Naval Research Laboratory, the science arm of the Navy and Marine Corps published results of their modelling work in 2015.[50][51][52]
+Massachusetts Institute of Technology research in this field is ongoing. Two researchers there partially supported by the Naval Engineering Education Consortium  have considered the problem of short-term prediction of rare, extreme water waves and have developed and published their research on an effective predictive tool of about 25 wave periods. This tool can give ships and their crews a two- to three-minute warning of potentially catastrophic impact allowing crew some time to shut down essential operations on a ship (or offshore platform). The authors cite landing on an aircraft carrier as a prime example.[52][53][54]
+The University of Colorado and the University of Stellenbosch[50][55]
+Kyoto University[56]
+Swinburne University of Technology in Australia recently published work on the probabilities of rogue waves.[57]
+The University of Oxford Department of Engineering Science published a comprehensive review of the science of rogue waves in 2014.[58][59] In 2019, A team from the Universities of Oxford and Edinburgh recreated the Draupner wave in a lab.[60]
+University of Western Australia[58]
+Tallinn University of Technology in Estonia[61]
+Extreme Seas Project funded by the EU.[61][62]
+At Ume  University in Sweden, a research group in August 2006 showed that normal stochastic wind-driven waves can suddenly give rise to monster waves. The nonlinear evolution of the instabilities was investigated by means of direct simulations of the time-dependent system of nonlinear equations.[63]
+The Great Lakes Environmental Research Laboratory did research in 2002, which dispelled the long-held contentions that rogue waves were of rare occurrence.[8]
+The University of Oslo has conducted research into crossing sea state and rogue wave probability during the Prestige accident; nonlinear wind-waves, their modification by tidal currents, and application to Norwegian coastal waters; general analysis of realistic ocean waves; modelling of currents and waves for sea structures and extreme wave events; rapid computations of steep surface waves in three dimensions, and comparison with experiments; and very large internal waves in the ocean.[64]
+The National Oceanography Centre in the United Kingdom[65]
+Scripps Institute of Oceanography in the United States[66]
+Ritmare project in Italy.[67]
+Causes[edit]
+ Experimental demonstration of rogue wave generation through nonlinear processes (on a small scale) in a wave tank
+ The linear part solution of the nonlinear Schr dinger equation describing the evolution of a complex wave envelope in deep water
+Because the phenomenon of rogue waves is still a matter of active research,  stating clearly what the most common causes are or whether they vary from place to place is premature. The areas of highest predictable risk appear to be where a strong current runs counter to the primary direction of travel of the waves; the area near Cape Agulhas off the southern tip of Africa is one such area. The warm Agulhas Current runs to the southwest, while the dominant winds are westerlies, but since this thesis does not explain the existence of all waves that have been detected, several different mechanisms are likely, with localized variation. Suggested mechanisms for freak waves include:
+Diffractive focusing
+According to this hypothesis, coast shape or seabed shape directs several small waves to meet in phase. Their crest heights combine to create a freak wave.[68]
+Focusing by currents
+Waves from one current are driven into an opposing current. This results in shortening of wavelength, causing shoaling (i.e., increase in wave height), and oncoming wave trains to compress together into a rogue wave.[68] This happens off the South African coast, where the Agulhas Current is countered by westerlies.[59]
+Nonlinear effects (modulational instability)
+Possibly, a rogue wave may occur by natural, nonlinear processes from a random background of smaller waves.[12] In such a case, it is hypothesized, an unusual, unstable wave type may form, which "sucks" energy from other waves, growing to a near-vertical monster itself, before becoming too unstable and collapsing shortly thereafter. One simple model for this is a wave equation known as the nonlinear Schr dinger equation (NLS), in which a normal and perfectly accountable (by the standard linear model) wave begins to "soak" energy from the waves immediately fore and aft, reducing them to minor ripples compared to other waves. The NLS can be used in deep-water conditions. In shallow water, waves are described by the Korteweg de Vries equation or the Boussinesq equation. These equations also have nonlinear contributions and show solitary-wave solutions. A small-scale rogue wave consistent with the NLS on (the Peregrine soliton) was produced in a laboratory water tank in 2011.[69] In particular, the study of solitons, and especially Peregrine solitons, have supported the idea that nonlinear effects could arise in bodies of water.[59][70][71][72]
+Normal part of the wave spectrum
+Some studies argue that many waves classified as rogue waves (with the sole condition that they exceed twice the SWH) are not freaks, but just rare, random samples of the wave height distribution, and are, as such, statistically expected to occur at a rate of about one rogue wave every 28 hours.[73] This is commonly discussed as the question "Freak Waves: Rare Realizations of a Typical Population Or Typical Realizations of a Rare Population?"[74] According to this hypothesis, most real-world encounters with unusually large waves can be explained by linear wave theory (or weakly nonlinear modifications thereof), without the need for special mechanisms like the modulational instability.[75][76] Recent studies analyzing billions of wave measurements by wave buoys demonstrate that rogue wave occurrence rates in the ocean can be explained with linear theory when the finite spectral bandwidth of the wave spectrum is taken into account.[77][78] However, Whether weakly nonlinear dynamics can explain even the largest rogue waves (such as those exceeding three times the significant wave height, which would be exceedingly rare in linear theory) is not yet known. This has also led to some criticism questioning whether defining rogue waves using only their relative height is meaningful in practice.[77]
+Constructive interference of elementary waves
+Rogue waves can result from the constructive interference (dispersive and directional focusing) of elementary three-dimensional waves enhanced by nonlinear effects.[7][79]
+Wind wave interactions
+While wind alone is unlikely to generate a rogue wave, its effect combined with other mechanisms may provide a fuller explanation of freak wave phenomena. As wind blows over the ocean, energy is transferred to the sea surface. When strong winds from a storm happen to blow in the opposing direction of the ocean current, the forces might be strong enough to randomly generate rogue waves. Theories of instability mechanisms for the generation and growth of wind waves  although not on the causes of rogue waves  are provided by Phillips[80] and Miles.[59][81]
+The spatiotemporal focusing seen in the NLS equation can also occur when the nonlinearity is removed. In this case, focusing is primarily due to different waves coming into phase, rather than any energy-transfer processes. Further analysis of rogue waves using a fully nonlinear model by R. H. Gibbs (2005) brings this mode into question, as it is shown that a typical wave group focuses in such a way as to produce a significant wall of water, at the cost of a reduced height.
+A rogue wave, and the deep trough commonly seen before and after it, may last only for some minutes before either breaking, or reducing in size again. Apart from a single one, the rogue wave may be part of a wave packet consisting of a few rogue waves. Such rogue wave groups have been observed in nature.[82]
+Other media[edit]
+See also: Optical rogue waves
+Researchers at UCLA observed rogue-wave phenomena in microstructured optical fibers near the threshold of soliton supercontinuum generation, and characterized the initial conditions for generating rogue waves in any medium.[83] Research in optics has pointed out the role played by a nonlinear structure called Peregrine soliton that may explain those waves that appear and disappear without leaving a trace.[84][85]
+Reported encounters[edit]
+Main article: List of rogue waves
+Many of these encounters are reported only in the media, and are not examples of open-ocean rogue waves. Often, in popular culture, an endangering huge wave is loosely denoted as a "rogue wave", while the case has not been (and most often cannot be) established that the reported event is a rogue wave in the scientific sense  i.e. of a very different nature in characteristics as the surrounding waves in that sea state] and with very low probability of occurrence (according to a Gaussian process description as valid for linear wave theory).
+This section lists a limited selection of notable incidents.
+19th century[edit]
+Eagle Island lighthouse (1861)  Water broke the glass of the structure's east tower and flooded it, implying a wave that surmounted the 40 m (130 ft) cliff and overwhelmed the 26 m (85 ft) tower.[86]
+Flannan Isles Lighthouse (1900)  Three lighthouse keepers vanished after a storm that resulted in wave-damaged equipment being found 34 m (112 ft) above sea level.[87][88]
+20th century[edit]
+SS Kronprinz Wilhelm, September 18, 1901  The most modern German ocean liner of its time (winner of the Blue Riband) was damaged on its maiden voyage from Cherbourg to New York by a huge wave. The wave struck the ship head-on.[89]
+RMS Lusitania (1910)  On the night of 10 January 1910, a 23 m (75 ft) wave struck the ship over the bow, damaging the forecastle deck and smashing the bridge windows.[90]
+Voyage of the James Caird (1916)  Sir Ernest Shackleton encountered a wave he termed "gigantic" while piloting a lifeboat from Elephant Island to South Georgia Island.[91]
+RMS Homeric (1924)  Hit by a 24 m (80 ft) wave while sailing through a hurricane off the East Coast of the United States, injuring seven people, smashing numerous windows and portholes, carrying away one of the lifeboats, and snapping chairs and other fittings from their fastenings.[92]
+USS Ramapo (1933)  Triangulated at 34 m (112 ft).[93]
+RMS Queen Mary (1942)  Broadsided by a 28 m (92 ft) wave and listed briefly about 52  before slowly righting.[15]
+SS Michelangelo (1966)  Hole torn in superstructure, heavy glass smashed 24 m (80 ft) above the waterline, and three deaths[93]
+SS Edmund Fitzgerald (1975)  Lost on Lake Superior, a Coast Guard report blamed water entry to the hatches, which gradually filled the hold, or, alternatively, errors in navigation or charting causing damage from running onto shoals. However, another nearby ship, the SS Arthur M. Anderson, was hit at a similar time by two rogue waves and possibly a third, and this appeared to coincide with the sinking around 10 minutes later.[38]
+MS M nchen (1978)  Lost at sea, leaving only scattered wreckage and signs of sudden damage including extreme forces 20 m (66 ft) above the water line. Although more than one wave was probably involved, this remains the most likely sinking due to a freak wave.[12]
+Esso Languedoc (1980)  A 25-to-30 m (80-to-100 ft) wave washed across the deck from the stern of the French supertanker near Durban, South Africa, and was photographed by the first mate, Philippe Lijour.[94][95]
+Fastnet Lighthouse  Struck by a 48-metre (157 ft) wave in 1985[96]
+Draupner wave (North Sea, 1995)  The first rogue wave confirmed with scientific evidence, it had a maximum height of 26 metres (85 ft).[97]
+Queen Elizabeth 2 (1995)  Encountered a 29 m (95 ft) wave in the North Atlantic, during Hurricane Luis. The master said it "came out of the darkness" and "looked like the White Cliffs of Dover."[98] Newspaper reports at the time described the cruise liner as attempting to "surf" the near-vertical wave in order not to be sunk.
+21st century[edit]
+U.S. Naval Research Laboratory ocean-floor pressure sensors detected a freak wave caused by Hurricane Ivan in the Gulf of Mexico, 2004. The wave was around 27.7 m (91 ft) high from peak to trough, and around 200 m (660 ft) long.[99] Their computer models also indicated that waves may have exceeded 40 metres (130 ft) in the eyewall.[100]
+Aleutian Ballad, (Bering Sea, 2005) footage of what is identified as an 18 m (60 ft) wave appears in an episode of Deadliest Catch. The wave strikes the ship at night and cripples the vessel, causing the boat to tip for a short period onto its side. This is one of the few video recordings of what might be a rogue wave.[101]
+In 2006, researchers from U.S. Naval Institute theorized rogue waves may be responsible for the unexplained loss of low-flying aircraft, such as U.S. Coast Guard helicopters during search-and-rescue missions.[102]
+MS Louis Majesty (Mediterranean Sea, March 2010) was struck by three successive 8 m (26 ft) waves while crossing the Gulf of Lion on a Mediterranean cruise between Cartagena and Marseille. Two passengers were killed by flying glass when a lounge window was shattered by the second and third waves. The waves, which struck without warning, were all abnormally high in respect to the sea swell at the time of the incident.[103][104]
+In 2011, the Sea Shepherd vessel MV Brigitte Bardot  was damaged by a rogue wave of 11 m (36.1 ft) while pursuing the Japanese whaling fleet off the western coast of Australia on 28 December 2011.[105] The MV Brigitte Bardot was escorted back to Fremantle by the SSCS flagship, MY Steve Irwin. The main hull was cracked and the port side pontoon was being held together by straps. The vessel arrived at Fremantle Harbor on 5 January 2012. Both ships were followed by the ICR security vessel MV Sh nan Maru 2 at a distance of 5 nautical miles (9 km).[106]
+In 2019, Hurricane Dorian's extratropical remnant generated a 30 m (100 ft) rogue wave off the coast of Newfoundland.[107]
+In 2022, the Viking cruise ship Viking Polaris was hit by a rogue wave on its way to Ushuaia, Argentina. One person died, four more were injured, and the ship's scheduled route to Antarctica was canceled.[108]
+Quantifying the impact of rogue waves on ships[edit]
+The loss of the MS M nchen in 1978 provided some of the first physical evidence of the existence of rogue waves. M nchen was a state-of-the-art cargo ship with multiple water-tight compartments and an expert crew. She was lost with all crew, and the wreck has never been found. The only evidence found was the starboard lifeboat, which was recovered from floating wreckage sometime later. The lifeboats hung from forward and aft blocks 20 m (66 ft) above the waterline. The pins had been bent back from forward to aft, indicating the lifeboat hanging below it had been struck by a wave that had run from fore to aft of the ship and had torn the lifeboat from the ship. To exert such force, the wave must have been considerably higher than 20 m (66 ft). At the time of the inquiry, the existence of rogue waves was considered so statistically unlikely as to be near impossible. Consequently, the Maritime Court investigation concluded that the severe weather had somehow created an "unusual event" that had led to the sinking of the M nchen.[12][109]
+In 1980, the MV Derbyshire was lost during Typhoon Orchid south of Japan, along with all of her crew. The Derbyshire was an ore-bulk oil combination carrier built in 1976. At 91,655 gross register tons, she was  and remains  the largest British ship ever to have been lost at sea. The wreck was found in June 1994. The survey team deployed a remotely operated vehicle to photograph the wreck. A private report  published in 1998 prompted the British government to reopen a formal investigation into the sinking. The investigation included a comprehensive survey by the Woods Hole Oceanographic Institution, which took 135,774 pictures of the wreck during two surveys. The formal forensic investigation concluded that the ship sank because of structural failure and absolved the crew of any responsibility. Most notably, the report determined the detailed sequence of events that led to the structural failure of the vessel. A third comprehensive analysis was subsequently done by Douglas Faulkner, professor of marine architecture and ocean engineering at the University of Glasgow. His 2001 report linked the loss of the Derbyshire with the emerging science on freak waves, concluding that the Derbyshire was almost certainly destroyed by a rogue wave.[110][111][112][113][114]
+Work by sailor and author Craig B. Smith in 2007 confirmed prior forensic work by Faulkner in 1998 and determined that the Derbyshire was exposed to a hydrostatic pressure of a "static head" of water of about 20 m (66 ft) with a resultant static pressure of 201 kilopascals (2.01 bar; 29.2 psi).[b] This is in effect 20 m (66 ft) of seawater (possibly a super rogue wave)[c] flowing over the vessel. The deck cargo hatches on the Derbyshire were determined to be the key point of failure when the rogue wave washed over the ship. The design of the hatches only allowed for a static pressure less than 2 m (6.6 ft) of water or 17.1 kPa (0.171 bar; 2.48 psi),[d] meaning that the typhoon load on the hatches was more than 10 times the design load. The forensic structural analysis of the wreck of the Derbyshire is now widely regarded as irrefutable.[35]
+In addition, fast-moving waves are now known to also exert extremely high dynamic pressure. Plunging or breaking waves are known to cause short-lived impulse pressure spikes called Gifle peaks. These can reach pressures of 200 kPa (2.0 bar; 29 psi) (or more) for milliseconds, which is sufficient pressure to lead to brittle fracture of mild steel. Evidence of failure by this mechanism was also found on the Derbyshire.[110] Smith has documented scenarios where hydrodynamic pressure up to 5,650 kPa (56.5 bar; 819 psi) or over 500 metric tonnes/m2 could occur.[e][35]
+In 2004, an extreme wave was recorded impacting the Admiralty Breakwater, Alderney, in the Channel Islands. This breakwater is exposed to the Atlantic Ocean. The peak pressure recorded by a shore-mounted transducer was 745 kPa (7.45 bar; 108.1 psi). This pressure far exceeds almost any design criteria for modern ships, and this wave would have destroyed almost any merchant vessel.[4]
+Design standards[edit]
+In November 1997, the International Maritime Organization  adopted new rules covering survivability and structural requirements for bulk carriers of 150 m (490 ft) and upwards. The bulkhead and double bottom must be strong enough to allow the ship to survive flooding in hold one unless loading is restricted.[115]
+Rogue waves present considerable danger for several reasons; they are rare, unpredictable, may appear suddenly or without warning, and can impact with tremendous force. A 12 m (39 ft) wave in the usual "linear" model would have a breaking force of 6 metric tons per square metre [t/m2] (8.5 psi). Although modern ships are designed to (typically) tolerate a breaking wave of 15 t/m2, a rogue wave can dwarf both of these figures with a breaking force far exceeding 100 t/m2.[98] Smith has presented calculations using the International Association of Classification Societies (IACS) Common Structural Rules  for a typical bulk carrier, which are consistent.[f][35]
+Peter Challenor, a leading scientist in this field from the National Oceanography Centre in the United Kingdom, was quoted in Casey's book in 2010 as saying: "We don t have that random messy theory for nonlinear waves. At all." He added, "People have been working actively on this for the past 50 years at least. We don t even have the start of a theory."[25][31]
+In 2006, Smith proposed that the IACS recommendation 34 pertaining to standard wave data be modified so that the minimum design wave height be increased to 19.8 m (65 ft). He presented analysis that sufficient evidence exists to conclude that 20.1 m (66 ft) high waves can be experienced in the 25-year lifetime of oceangoing vessels, and that 29.9 m (98 ft) high waves are less likely, but not out of the question. Therefore, a design criterion based on 11.0 m (36 ft) high waves seems inadequate when the risk of losing crew and cargo is considered. Smith has also proposed that the dynamic force of wave impacts should be included in the structural analysis.[116]
+The Norwegian offshore standards now take into account extreme severe wave conditions and require that a 10,000-year wave does not endanger the ships' integrity.[117] Rosenthal notes that as of 2005, rogue waves were not explicitly accounted for in Classification Society's rules for ships  design.[117] As an example, DNV GL, one of the world's largest international certification bodies and classification society with main expertise in technical assessment, advisory, and risk management publishes their Structure Design Load Principles which remain largely based on the Significant Wave Height, and as at January 2016, still has not included any allowance for rogue waves.[118]
+The U.S. Navy historically took the design position that the largest wave likely to be encountered was 21.4 m (70 ft). Smith observed in 2007 that the navy now believes that larger waves can occur and the possibility of extreme waves that are steeper (i.e. do not have longer wavelengths) is now recognized. The navy has not had to make any fundamental changes in ship design as a consequence of new knowledge of waves greater than 21.4 m because they build to higher standards.[35]
+The more than 50 classification societies worldwide each has different rules, although most new ships are built to the standards of the 12 members of the International Association of Classification Societies, which implemented two sets of common structural rules - one for oil tankers and one for bulk carriers, in 2006. These were later harmonised into a single set of rules.[119]
+Other uses of the term "rogue wave"[edit]
+Rogue waves can occur in media other than water.[120] They appear to be ubiquitous in nature and have also been reported in liquid helium, in quantum mechanics,[121] in nonlinear optics, in microwave cavities,[122] in Bose Einstein condensate,[123] in heat and diffusion,[124] and in finance.[125]
+See also[edit]
+Oceanography, currents and regions
+Antarctic Circumpolar Current  Ocean current that flows clockwise from west to east around Antarctica
+Agulhas Current  Western boundary current of the southwest Indian Ocean that flows down the east coast of Africa
+Bermuda Triangle  Region in the western part of the North Atlantic Ocean
+Gulf Stream  Warm Atlantic Ocean current
+Kuroshio Current  North flowing ocean current on the west side of the North Pacific Ocean
+Ocean current  Directional mass flow of oceanic water generated by external or internal forces
+Wind wave  Surface waves generated by wind on open water
+Wave current interaction  Interaction between surface gravity waves and a mean flow
+Oceans portal
+Waves
+Branched flow  Scattering phenomenon in wave dynamics
+Extreme value theory  branch of statistics focusing on large deviationsPages displaying wikidata descriptions as a fallback
+Clapotis  Non-breaking standing wave pattern
+Sneaker wave  Disproportionately large coastal wave
+Soliton  Self-reinforcing single wave packet (and especially, Peregrine soliton  Analytic solution of the nonlinear Schr dinger equation)
+White squall  Sudden and violent windstorm at sea not accompanied by black clouds
+Resonance  Tendency to oscillate at certain frequencies
+Meteotsunami  Tsunami-like wave of meteorological origin
+Notes[edit]
+^ The location of the recording was 58 11 19.30 N 2 28 0.00 E  /  58.1886944 N 2.4666667 E  / 58.1886944; 2.4666667
+^ Equivalent to 20,500 kgf/m2 or 20.5 t/m2.
+^ The term "super rogue wave" had not yet been coined by ANU researchers at that time.
+^ Equivalent to 1,744 kgf/m2 or 1.7 t/m2.
+^ Equivalent to 576,100 kgf/m2 or 576.1 t/m2.
+^ Smith has presented calculations for a hypothetical bulk carrier with a length of 275 m and a displacement of 161,000 metric tons where the design hydrostatic pressure 8.75 m below the waterline would be 88 kN/m2 (8.9 t/m2). For the same carrier the design hydrodynamic pressure would be 122 kN/m2 (12.44 t/m2).
+References[edit]
+^ a b c d e "Rogue Waves   Monsters of the deep: Huge, freak waves may not be as rare as once thought". The Economist. September 17, 2009. Retrieved 2009-10-04.
+^ "What Is A Sneaker Wave?". WorldAtlas. 3 April 2019. Retrieved 2020-07-29.
+^ a b Chabchoub, A; Hoffmann, N.P.; Akhmediev, N (1 February 2012). "Observation of rogue wave holes in a water wave tank". Journal of Geophysical Research: Oceans. 117 (C11): C00J02. Bibcode:2012JGRC..117.0J02C. doi:10.1029/2011JC007636.
+^ a b "Rogue Waves: The Fourteenth 'Aha Huliko'A Hawaiian Winter Workshop" (PDF). Soest.hawaii.edu. Oceanography. 3 September 2005. pp. 66 70. Retrieved April 16, 2016.
+^ Haver, Sverre (2003). Freak wave event at Draupner jacket January 1 1995 (PDF) (Report). Statoil, Tech. Rep. PTT-KU-MA. Archived from the original (PDF) on 2015-11-07. Retrieved 2015-06-03.
+^ "Freak waves spotted from space". BBC News. July 22, 2004. Retrieved May 22, 2010.
+^ a b Benetazzo, Alvise; Barbariol, Francesco; Bergamasco, Filippo; Torsello, Andrea; Carniel, Sandro; Sclavo, Mauro (2015-06-22). "Observation of Extreme Sea Waves in a Space Time Ensemble". Journal of Physical Oceanography. 45 (9): 2261 2275. Bibcode:2015JPO....45.2261B. doi:10.1175/JPO-D-15-0017.1. hdl:10278/3661049. ISSN 0022-3670. S2CID 128962800.
+^ a b "Task Report   NOAA Great Lakes Environmental Research Laboratory   Ann Arbor, MI, USA". Glerl.noaa.gov. Retrieved April 16, 2016.
+^ a b Holliday, Naomi P. (March 2006). "Were extreme waves in the Rockall Trough the largest ever recorded?". Geophysical Research Letters. 33 (5): L05613. Bibcode:2006GeoRL..33.5613H. doi:10.1029/2005GL025238.
+^ a b Laird, Anne Marie (December 2006). "Observed Statistics of Extreme Waves" (PDF). Doctoral Dissertation, Monterey, California Naval Postgraduate School: 2. Archived from the original on April 8, 2013.
+^ "Physics of Tsunamis". NOAA.gov. United States Department of Commerce. 27 January 2016. Retrieved 29 January 2016. They cannot be felt aboard ships, nor can they be seen from the air in the open ocean.
+^ a b c d "Freak Wave   programme summary". www.bbc.co.uk/. BBC. 14 November 2002. Retrieved 15 January 2016.
+^ Royal Commission on the Ocean Ranger Marine Disaster (Canada) (1985). Safety offshore Eastern Canada, summary of studies & seminars. The Commission. ISBN 9780660118277.
+^ Liu, Paul C. (2007). "A Chronology of Freaque Wave Encounters" (PDF). Geofizika. 24 (1): 57 70. Retrieved October 8, 2012.
+^ a b c Bruce Parker (2012). The Power of the Sea: Tsunamis, Storm Surges, Rogue Waves, and Our Quest to Predict Disasters. St. Martin's Press. ISBN 978-0-230-11224-7.
+^ Ian Jones; Joyce Jones (2008). Oceanography in the Days of Sail (PDF). Hale & Iremonger. p. 115. ISBN 978-0-9807445-1-4. Archived from the original (PDF) on 2016-03-02. Retrieved 2016-01-15. Dumont d'Urville, in his narrative, expressed the opinion that the waves reached a height of 'at least 80 to 100 feet'. In an era when opinions were being expressed that no wave would exceed 30 feet, Dumont d'Urville's estimations were received, it seemed, with some skepticism. No one was more outspoken in his rejection than Fran ois Arago, who, calling for a more scientific approach to the estimation of wave height in his instructions for the physical research on the voyage of the Bonit , suggested that imagination played a part in estimations as high as '33 metres' (108 feet). Later, in his 1841 report on the results of the V nus expedition, Arago made further reference to the 'truly prodigious waves with which the lively imagination of certain navigators delights in covering the seas'
+^ "'The Wave': The growing danger of monster waves". salon.com. 26 September 2010. Retrieved 26 March 2018.
+^ a b Carlos Guedes Soares; T.A. Santos (2014). Maritime Technology and Engineering. CRC Press. ISBN 978-1-315-73159-9.
+^ "US Army Engineer Waterways Experimental Station: Coastal Engineering Technical Note CETN I-60" (PDF). Chl.erdc.usace.army.mil. March 1995. Archived from the original (PDF) on February 21, 2013. Retrieved April 16, 2016.
+^ Draper, Laurence (July 1964). "'Freak' Ocean Waves" (PDF). Oceanus. 10 (4): 12 15.
+^ Michel Olagnon, Marc Prevosto (2004). Rogue Waves 2004: Proceedings of a Workshop Organized by Ifremer and Held in Brest, France, 20-21-22 October 2004, Within the Brest Sea Tech Week 2004. pp. viii. ISBN 9782844331502.
+^ Draper, Laurence (July 1971). "Severe Wave Conditions at Sea" (PDF). Journal of the Institute of Navigation. 24 (3): 274 277. doi:10.1017/s0373463300048244. S2CID 131050298.
+^ Robert Gordon Pirie (1996). Oceanography: Contemporary Readings in Ocean Sciences. Oxford University Press. ISBN 978-0-19-508768-0.
+^ M. Grant Gross (1996). Oceanography. Prentice Hall. ISBN 978-0-13-237454-5.
+^ a b c d "The last word: Terrors of the sea". theweek.com. 27 September 2010. Retrieved 15 January 2016.
+^ Taylor, Paul H. (2005). "The shape of the Draupner wave of 1st January" (PDF). Department of Engineering Science. University of Oxford. Archived from the original on 2007-08-10. Retrieved 20 January 2007.{{cite web}}:  CS1 maint: unfit URL (link)
+^ a b Bjarne R sj , Kjell Hauge (2011-11-08). "Proof: Monster Waves are real". ScienceNordic. "Draupner E had only been operating in the North Sea for around half a year, when a huge wave struck the platform like a hammer. When we first saw the data, we were convinced it had to be a technological error," says Per Sparrevik. He is the head of the underwater technology, instrumentation, and monitoring at the Norwegian NGI ... but the data were not wrong. When NGI looked over the measurements and calculated the effect of the wave that had hit the platform, the conclusion was clear: The wave that struck the unmanned platform Draupner E on 1 January 1995 was indeed extreme.
+^ Skourup, J; Hansen, N.-E. O.; Andreasen, K. K. (1997-08-01). "Non-Gaussian Extreme Waves in the Central North Sea". Journal of Offshore Mechanics and Arctic Engineering. 119 (3): 146. doi:10.1115/1.2829061. The area of the Central North Sea is notorious for the occurrence of very high waves in certain wave trains. The short-term distribution of these wave trains includes waves that are far steeper than predicted by the Rayleigh distribution. Such waves are often termed "extreme waves" or "freak waves". An analysis of the extreme statistical properties of these waves has been made. The analysis is based on more than 12 years of wave records from the M rsk Olie og Gas AS operated Gorm Field, which is located in the Danish sector of the Central North Sea. From the wave recordings, more than 400 freak wave candidates were found. The ratio between the extreme crest height and the significant wave height (20-min value) has been found to be about 1.8, and the ratio between extreme crest height and extreme wave height has been found to be 0.69. The latter ratio is clearly outside the range of Gaussian waves, and it is higher than the maximum value for steep nonlinear long-crested waves, thus indicating that freak waves are not of a permanent form, and probably of short-crested nature. The extreme statistical distribution is represented by a Weibull distribution with an upper bound, where the upper bound is the value for a depth-limited breaking wave. Based on the measured data, a procedure for determining the freak wave crest height with a given return period is proposed. A sensitivity analysis of the extreme value of the crest height is also made.
+^ Haver S and Andersen O J (2010). Freak waves: rare realizations of a typical population or typical realizations of a rare population? (PDF). Proc. 10th Conf. of Int. Society for Offshore and Polar Engineering (ISOPE). Seattle: ISOPE. pp. 123 130. Archived from the original (PDF) on 2016-05-12. Retrieved 18 April 2016.
+^ Rogue Waves 2000. Ifremer and IRCN organised a workshop on "Rogue waves", 29 30 November 2000, during SeaTechWeek 2000, Le Quartz, Brest, France. Brest: iFremer. 2000. Retrieved 18 April 2016.
+^ a b Susan Casey (2010). The Wave: In the Pursuit of the Rogues, Freaks and Giants of the Ocean. Doubleday Canada. ISBN 978-0-385-66667-1.
+^ Holliday, N.P.; Yelland, M.Y.; Pascal, R.; Swail, V.; Taylor, P.K.; Griffiths, C.R.; Kent, E.C. (2006). "Were extreme waves in the Rockall Trough the largest ever recorded?". Geophysical Research Letters. 33 (5): L05613. Bibcode:2006GeoRL..33.5613H. doi:10.1029/2005gl025238. In February 2000 those onboard a British oceanographic research vessel near Rockall, west of Scotland experienced the largest waves ever recorded by scientific instruments in the open ocean. Under severe gale force conditions with wind speeds averaging 21 ms1 a shipborne wave recorder measured individual waves up to 29.1 m from crest to trough, and a maximum significant wave height of 18.5 m. The fully formed sea developed in unusual conditions as westerly winds blew across the North Atlantic for two days, during which time a frontal system propagated at a speed close to the group velocity of the peak waves. The measurements are compared to a wave hindcast that successfully simulated the arrival of the wave group, but underestimated the most extreme waves.
+^ a b "Critical review on potential use of satellite date to find rogue waves" (PDF). European Space Agency SEASAR 2006 proceedings. April 2006. Retrieved February 23, 2008.
+^ "Observing the Earth: Ship-Sinking Monster Waves revealed by ESA Satellites". www.ESA.int. ESA. 21 July 2004. Retrieved 14 January 2016.
+^ a b c d e Smith, Craig (2007). Extreme Waves and Ship Design (PDF). 10th International Symposium on Practical Design of Ships and Other Floating Structures. Houston: American Bureau of Shipping. p. 8. Retrieved 13 January 2016. Recent research has demonstrated that extreme waves, waves with crest-to-trough heights of 20 to 30 m, occur more frequently than previously thought.
+^ "Rogue wave theory to save ships". Anu.edu.au. 29 July 2015. Retrieved April 16, 2016.
+^ Janssen, T. T.; Herbers, T. H. C. (2009). "Nonlinear Wave Statistics in a Focal Zone". Journal of Physical Oceanography. 39 (8): 1948 1964. Bibcode:2009JPO....39.1948J. doi:10.1175/2009jpo4124.1. ISSN 0022-3670.
+^ a b Wolff, Julius F. (1979). "Lake Superior Shipwrecks", p. 28. Lake Superior Marine Museum Association, Inc., Duluth, Minnesota. ISBN 0-932212-18-8.
+^ Dysthe, K; Krogstad, H; M ller, P (2008). "Annual Review of Fluid Mechanics": 287 310. {{cite journal}}: Cite journal requires |journal= (help)
+^ Kharif, C; Pelinovsky, E (2003). "Physical mechanisms of the rogue wave phenomenon". European Journal of Mechanics B. 22 (6): 603 634. Bibcode:2003EJMF...22..603K. CiteSeerX 10.1.1.538.58. doi:10.1016/j.euromechflu.2003.09.002. S2CID 45789714.
+^ Onorato, M; Residori, S; Bortolozzo, U; Montina, A; Arecchi, F (10 July 2013). "Rogue waves and their generating mechanisms in different physical contexts". Physics Reports. 528 (2): 47 89. Bibcode:2013PhR...528...47O. doi:10.1016/j.physrep.2013.03.001.
+^ Slunyaev, A; Didenkulova, I; Pelinovsky, E (November 2011). "Rogue waters". Contemporary Physics. 52 (6): 571 590. arXiv:1107.5818. Bibcode:2011ConPh..52..571S. doi:10.1080/00107514.2011.613256. S2CID 118626912. Retrieved 16 April 2016.
+^ Predictability of Rogue Events, Simon Birkholz, Carsten Br e, Ayhan Demircan, and G nter Steinmeyer, Physical Review Letters 114, 213901, 28 May 2015
+^ Laboratory recreation of the Draupner wave and the role of breaking in crossing seas   McAllister et al   Journal of Fluid Mechanics, 2019, vol. 860, pp. 767 786, pub. Cambridge University Press, doi:10.1017/jfm.2018.886
+^ "Oxford scientists successfully recreated a famous rogue wave in the lab". 24 January 2019.
+^ "Freak waves spotted from space". BBC News Online. 22 July 2004. Retrieved May 8, 2006.
+^ "Lego pirate proves, survives, super rogue wave". Phys.org. Retrieved April 15, 2016.
+^ "Maritime security". Homelandsecuritynewswire.com. Retrieved April 15, 2016.
+^ "Lego Pirate Proves, Survives, Super Rogue Wave". Scientificcomputing.com. 2012-04-11. Retrieved April 15, 2016.
+^ a b c Broad, William J. (July 11, 2006). "Rogue Giants at Sea". The New York Times. Retrieved April 15, 2016.
+^ "Scientists Model Rogue Waves". Maritime-executive.com. Retrieved April 15, 2016.
+^ a b "Mapping a strategy for rogue monsters of the seas". The News Tribune. Thenewstribune.com. Archived from the original on April 24, 2016. Retrieved April 15, 2016.
+^ Katherine Noyes (25 February 2016). "A new algorithm from MIT could protect ships from 'rogue waves' at sea". Cio.com. Archived from the original on 1 April 2016. Retrieved April 8, 2016.
+^ Will Cousins and Themistoklis P. Sapsis (5 January 2016). "Reduced-order precursors of rare events in unidirectional nonlinear water waves" (PDF). Journal of Fluid Mechanics. 790: 368 388. Bibcode:2016JFM...790..368C. doi:10.1017/jfm.2016.13. hdl:1721.1/101436. S2CID 14763838. Retrieved April 8, 2016.
+^ Stuart Thornton (3 December 2012). "Rogue Waves   National Geographic Society". Education.nationalgeographic.org. Archived from the original on 13 April 2016. Retrieved April 16, 2016.
+^ "Introduction   Nobuhito Mori". Oceanwave.jp. Retrieved April 15, 2016.
+^ "Freak wave probability higher than thought ' News in Science (ABC Science)". Abc.net. 2011-10-05. Retrieved April 15, 2016.
+^ a b "'Freak' ocean waves hit without warning, new research shows   ScienceDaily". Https. Retrieved April 15, 2016.
+^ a b c d Thomas A A Adcock and Paul H Taylor (14 October 2014). "The physics of anomalous ('rogue') ocean waves". Reports on Progress in Physics. 77 (10): 105901. Bibcode:2014RPPh...77j5901A. doi:10.1088/0034-4885/77/10/105901. PMID 25313170. S2CID 12737418.
+^ Mike McRae (January 23, 2019). "Scientists Recreated a Devastating 'Freak Wave' in The Lab, And It's Weirdly Familiar". Retrieved January 25, 2019.
+^ a b Stephen Ornes (11 Aug 2014). "Monster waves blamed for shipping disasters". Smh.com. Retrieved April 16, 2016.
+^ "European Commission : CORDIS : Projects & Results Service : Periodic Report Summary   EXTREME SEAS (Design for ship safety in extreme seas)". Cordis.europa.eu. Retrieved April 16, 2016.
+^ P. K. Shukla, I. Kourakis, B. Eliasson, M. Marklund and L. Stenflo: "Instability and Evolution of Nonlinearly Interacting Water Waves" nlin.CD/0608012, Physical Review Letters (2006)
+^ "Mechanics   Department of Mathematics". University of Oslo, The Faculty of Mathematics and Natural Sciences. 27 January 2016. Retrieved April 17, 2016.
+^ Alex, Cattrell (2018). "Can Rogue Waves Be Predicted Using Characteristic Wave Parameters?" (PDF). Journal of Geophysical Research: Oceans. 123 (8): 5624 5636. Bibcode:2018JGRC..123.5624C. doi:10.1029/2018JC013958. S2CID 135333238.
+^ Barnett, T. P.; Kenyon, K. E. (1975). "Recent advances in the study of wind waves". Reports on Progress in Physics. 38 (6): 667. Bibcode:1975RPPh...38..667B. doi:10.1088/0034-4885/38/6/001. ISSN 0034-4885. S2CID 250870380.
+^ "The RITMARE flagship project". Retrieved October 11, 2017.
+^ a b "Rogue Waves". Ocean Prediction Center. National Weather Service. April 22, 2005. Archived from the original on May 28, 2010. Retrieved May 8, 2006.
+^ Adrian Cho (13 May 2011). "Ship in Bottle, Meet Rogue Wave in Tub". Science Now. 332 (6031): 774. Bibcode:2011Sci...332R.774.. doi:10.1126/science.332.6031.774-b. Retrieved 2011-06-27.
+^ "Math explains water disasters   ScienceAlert". Sciencealert.com. 26 August 2010. Archived from the original on 24 April 2016. Retrieved April 15, 2016.
+^ "Bristol University". Bris.ac.uk. 22 August 2010. Retrieved April 15, 2016.
+^ Akhmediev, N.; Soto-Crespo, J. M.; Ankiewicz, A. (2009). "How to excite a rogue wave". Physical Review A. 80 (4): 043818. Bibcode:2009PhRvA..80d3818A. doi:10.1103/PhysRevA.80.043818. hdl:10261/59738.
+^ "Rogue waves: rare but damaging" (PDF). Seaways Magazine. 2013. Retrieved 2022-01-27.
+^ Hayer, Sverre; Andersen, Odd Jan (2000-05-28). "Freak Waves: Rare Realizations of a Typical Population Or Typical Realizations of a Rare Population?". OnePetro. {{cite journal}}: Cite journal requires |journal= (help)
+^ Gemmrich, J.; Garrett, C. (2011-05-18). "Dynamical and statistical explanations of observed occurrence rates of rogue waves". Natural Hazards and Earth System Sciences. 11 (5): 1437 1446. Bibcode:2011NHESS..11.1437G. doi:10.5194/nhess-11-1437-2011. ISSN 1561-8633.
+^ Fedele, Francesco; Brennan, Joseph; Ponce de Le n, Sonia; Dudley, John; Dias, Fr d ric (2016-06-21). "Real world ocean rogue waves explained without the modulational instability". Scientific Reports. 6 (1): 27715. Bibcode:2016NatSR...627715F. doi:10.1038/srep27715. ISSN 2045-2322. PMC 4914928. PMID 27323897.
+^ a b H fner, Dion; Gemmrich, Johannes; Jochum, Markus (2021-05-12). "Real-world rogue wave probabilities". Scientific Reports. 11 (1): 10084. Bibcode:2021NatSR..1110084H. doi:10.1038/s41598-021-89359-1. ISSN 2045-2322. PMC 8115049. PMID 33980900.
+^ Cattrell, A. D.; Srokosz, M.; Moat, B. I.; Marsh, R. (2018). "Can Rogue Waves Be Predicted Using Characteristic Wave Parameters?". Journal of Geophysical Research: Oceans. 123 (8): 5624 5636. Bibcode:2018JGRC..123.5624C. doi:10.1029/2018JC013958. ISSN 2169-9291. S2CID 135333238.
+^ Fedele, Francesco; Brennan, Joseph; Ponce de Le n, Sonia; Dudley, John; Dias, Fr d ric (2016-06-21). "Real world ocean rogue waves explained without the modulational instability". Scientific Reports. 6: 27715. Bibcode:2016NatSR...627715F. doi:10.1038/srep27715. ISSN 2045-2322. PMC 4914928. PMID 27323897.
+^ Phillips 1957, Journal of Fluid Mechanics
+^ Miles, 1957, Journal of Fluid Mechanics
+^ Frederic-Moreau. The Glorious Three, translated by M. Olagnon and G.A. Chase / Rogue Waves-2004, Brest, France
+^ R. Colin Johnson (December 24, 2007). "EEs Working With Optical Fibers Demystify 'Rogue Wave' Phenomenon". Electronic Engineering Times (1507): 14, 16.
+^ Kibler, B.; Fatome, J.; Finot, C.; Millot, G.; Dias, F.; Genty, G.; Akhmediev, N.; Dudley, J.M. (2010). "The Peregrine soliton in nonlinear fibre optics". Nature Physics. 6 (10): 790 795. Bibcode:2010NatPh...6..790K. CiteSeerX 10.1.1.222.8599. doi:10.1038/nphys1740. S2CID 16176134.
+^ "Peregrine's 'Soliton' observed at last". bris.ac.uk. Retrieved 2010-08-24.
+^ "Eagle Island Lighthouse". Commissioners of Irish Lights. Retrieved 28 October 2010.
+^ Haswell-Smith, Hamish (2004). The Scottish Islands. Edinburgh: Canongate. pp. 329 31. ISBN 978-1-84195-454-7.
+^ Munro, R.W. (1979) Scottish Lighthouses. Stornoway. Thule Press. ISBN 0-906191-32-7. Munro (1979) pages 170 1
+^ The New York Times, September 26, 1901, p. 16
+^ Freaquewaves (17 December 2009). "Freaque Waves: The encounter of RMS Lusitania". freaquewaves.blogspot.com. Retrieved 26 March 2018.
+^ "Archived copy" (PDF). Archived from the original (PDF) on 2009-01-06. Retrieved 2010-01-10.{{cite web}}:  CS1 maint: archived copy as title (link), M ller, et al., "Rogue Waves," 2005
+^ Kerbrech, Richard De (2009). Ships of the White Star Line. Ian Allan Publishing. p. 190. ISBN 978-0-7110-3366-5.
+^ a b Rogue Giants at Sea, Broad, William J, New York Times, July 11, 2006
+^ "Ship-sinking monster waves revealed by ESA satellites", ESA News, July 21, 2004, accessed June 18, 2010 [1]
+^ Kastner, Jeffrey. "Sea Monsters". Cabinet Magazine. Retrieved 10 October 2017.
+^ "The Story of the Fastnet   The Economist Magazine December 18th 2008" [2]
+^ esa. "Ship-sinking monster waves revealed by ESA satellites". esa.int. Retrieved 26 March 2018.
+^ a b "Freak waves" (PDF). Archived from the original (PDF) on 2008-04-14. (1.07 MiB), Beacon #185, Skuld, June 2005
+^ Lucy Sherriff (August 5, 2005). "Hurricane Ivan prompts rogue wave rethink". The Register. Retrieved September 6, 2021.
+^ "NRL Measures Record Wave During Hurricane Ivan   U.S. Naval Research Laboratory". www.nrl.navy.mil. February 17, 2005. Retrieved March 26, 2018.
+^ Deadliest Catch Season 2, Episode 4 "Finish Line" Original airdate: April 28, 2006; approximate time into episode: 0:40:00 0:42:00. Edited footage viewable online at Discovery.com Archived 2009-08-06 at the Wayback Machine
+^ "Monster waves threaten rescue helicopters" (PDF). (35.7 KiB), U.S. Naval Institute, December 15, 2006
+^ "Dos muertos y 16 heridos por una ola gigante en un crucero con destino a Cartagena". La Vanguardia. 3 March 2010. Archived from the original on 6 March 2010. Retrieved 4 March 2010.
+^ "Giant rogue wave slams into ship off French coast, killing 2". FoxNews. 3 March 2010. Archived from the original on 2010-03-06. Retrieved 2010-03-04.
+^ "Brigitte Bardot finally back in port". Jane Hammond. The West Australian. 5 January 2012. Retrieved 30 January 2012.
+^ Jiji Press, "Sea Shepherd scouting vessel badly damaged", Japan Times, 30 December 2011, p. 2.
+^ Matthew Cappucci (September 9, 2019). "Hurricane Dorian probably whipped up a 100-foot rogue wave near Newfoundland". The Washington Post. Retrieved September 10, 2019.
+^ Wyatte Grantham-Philips (December 2, 2022). "Giant 'rogue wave' hits Antarctica-bound cruise ship, leaving one dead and four injured". USA Today. Retrieved December 2, 2022.
+^ Keith McCloskey (2014). The Lighthouse: The Mystery of the Eilean Mor Lighthouse Keepers. History Press Limited. ISBN 978-0-7509-5741-0.
+^ a b Faulkner, Douglas (1998). An Independent Assessment of the Sinking of the M.V. Derbyshire. SNAME Transactions, Royal Institution of Naval Architects. pp. 59 103. Archived from the original on 2016-04-18. The author's starting point, therefore, was to look for an extraordinary cause. He reasoned that nothing could be more extraordinary than the violence of a fully arisen and chaotic storm-tossed sea. He therefore studied the meteorology of revolving tropical storms and freak waves and found that steep elevated waves of 25 to 30 m or more were quite likely to have occurred during Typhoon Orchid.
+^ Faulkner, Douglas (2000). Rogue Waves   Defining Their Characteristics for Marine Design (PDF). Rogue Waves 2000 Workshop. Brest: French Research Institute for Exploitation of the Sea. p. 16. Archived from the original (PDF) on 15 February 2018. Retrieved 15 January 2016. This paper introduces the need for a paradigm shift in thinking for the design of ships and offshore installations to include a Survival Design approach additional to current design requirements.
+^ Brown, David (1998). "The Loss of the 'DERBYSHIRE'" (Technical Report). Crown. Archived from the original on 2013-03-22.
+^ 
+"Ships and Seafarers (Safety)". Parliamentary Debates (Hansard). House of Commons. 25 June 2002. col. 193WH 215WH. The MV Derbyshire was registered at Liverpool and, at the time, was the largest ship ever built; it was twice the size of the Titanic.
+^ Lerner, S.; Yoerger, D.; Crook, T. (May 1999). "Navigation for the Derbyshire Phase2 Survey" (PDF) (Technical Report). Woods Hole Oceanographic Institution MA. p. 28. WHOI-99-11. Archived from the original on February 4, 2017. In 1997, the Deep Submergence Operations Group of the Woods Hole Oceanographic Institution conducted an underwater forensic survey of the UK bulk carrier MV Derbyshire with a suite of underwater vehicles. This report describes the navigation systems and methodologies used to precisely position the vessel and vehicles. Precise navigation permits the survey team to control the path of the subsea vehicle in order to execute the survey plan, provides the ability to return to specific targets, and allows the assessment team to correlate observations made at different times from different vehicles. In this report, we summarize the techniques used to locate Argo as well as the repeatability of those navigation fixes. To determine repeatability, we selected a number of instances where the vehicle lines crossed. By registering two images from overlapping areas on different tracklines, we can determine the true position offset. By comparing the position offset derived from the images to the offsets obtained from navigation, we can determine the navigation error. The average error for 123 points across a single tie line was 3.1 meters, the average error for a more scattered selection of 18 points was 1.9 meters.
+^ "Improving the safety of bulk carriers" (PDF). IMO. Archived from the original (PDF) on 2009-07-07. Retrieved 2009-08-11.
+^ Smith, Craig (2006). Extreme Waves. Joseph Henry Press. ISBN 978-0309100625. There is sufficient evidence to conclude that 66-foot-high waves can be experienced in the 25-year lifetime of oceangoing vessels, and that 98-foot-high waves are less likely, but not out of the question. Therefore, a design criterion based on 36-foot-high waves seems inadequate when the risk of losing crew and cargo is considered.
+^ a b Rosenthal, W (2005). "Results of the MAXWAVE project" (PDF). www.soest.hawaii.edu. Retrieved 14 January 2016. The Norwegian offshore standards take into account extreme severe wave conditions by requiring that a 10,000-year wave does not endanger the structure's integrity (Accidental Limit State, ALS).
+^ "Rules for Classification and Construction" (PDF). www.gl-group.com/. Hamburg, Germany: Germanischer Lloyd SE. 2011. Archived from the original (PDF) on 2014-09-12. Retrieved 13 January 2016. General Terms and Conditions of the respective latest edition will be applicable. See Rules for Classification and Construction, I   Ship Technology, Part 0   Classification and Surveys.
+^ "International Association of Classification Societies". IACS. IACS. Retrieved 1 June 2020.
+^ Onorato, M.;  et al. (2013). "Rogue waves and their generating mechanisms in different physical contexts". Physics Reports. 528 (2): 47 89. Bibcode:2013PhR...528...47O. doi:10.1016/j.physrep.2013.03.001. ISSN 0370-1573.
+^ Rogue quantum harmonic oscillations, Cihan Bayindir, Physica A 547, 124462, 1 June 2020
+^ H hmann, R.;  et al. (2010). "Freak Waves in the Linear Regime: A Microwave Study". Phys. Rev. Lett. 104 (9): 093901. arXiv:0909.0847. Bibcode:2010PhRvL.104i3901H. doi:10.1103/physrevlett.104.093901. ISSN 0031-9007. PMID 20366984. S2CID 33924953.
+^ Dynamics of nonautonomous rogue waves in Bose Einstein condensate, Li-Chen Zhao, Annals of Physics 329, 73-79, 2013
+^ Rogue heat and diffusion waves, Cihan Bayindir, Chaos, Solitons & Fractals 139, 110047, October 2020
+^ Financial rogue waves, Yan Zhen-Ya, Communications in Theoretical Physics 54, 5, 2010
+Further reading[edit]
+"Rogue Waves   Monsters of the deep". The Economist. September 17, 2009. p. 94.
+Susan Casey (2011). The Wave: In Pursuit of the Rogues, Freaks and Giants of the Ocean. Anchor Canada. ISBN 978-0-385-66668-8.
+Craig B. Smith (2006). Extreme Waves. Joseph Henry Press, Washington, D.C. ISBN 978-0-309-10062-5.
+Christian Kharif; Efim Pelinovsky; Alexey Slunyaev (2008). Rogue Waves in the Ocean. Springer Science & Business Media. ISBN 978-3-540-88419-4.
+John Grue; Karsten Trulsen (2007). Waves in Geophysical Fluids: Tsunamis, Rogue Waves, Internal Waves and Internal Tides. Springer Science & Business Media. ISBN 978-3-211-69356-8.
+Efim Pelinovsky; Christian Kharif (2015). Extreme Ocean Waves. Springer. ISBN 978-3-319-21575-4.
+Bruce Parker (2012). The Power of the Sea: Tsunamis, Storm Surges, Rogue Waves, and Our Quest to Predict Disasters. St. Martin's Press. ISBN 978-0-230-11224-7.
+J. B. Zirker (2013). The Science of Ocean Waves: Ripples, Tsunamis, and Stormy Seas. JHU Press. ISBN 978-1-4214-1079-1.
+Alfred Osborne (2010). Nonlinear Ocean Waves & the Inverse Scattering Transform. Academic Press. ISBN 978-0-08-092510-3.
+Michael E. McCormick (2010). Ocean Engineering Mechanics: With Applications. Cambridge University Press. ISBN 978-0-521-85952-3.
+Charlie Wood (5 February 2020). "The Grand Unified Theory of Rogue Waves". Quanta Magazine. Simons Foundation.
+Haver, Sverre (5 August 2003). "Freak wave event at Draupner jacket 1 January 1995" (PDF). Archived from the original (PDF) on 13 June 2018. Retrieved 20 May 2016.
+"On the crest of a freak wave". Science Blog. article on Draupner wave. Oxford U.
+"This Month in Physics History January 1, 1995: Confirmation of the Existence of Rogue Waves; January 1995". American Physical Society. Vol. 27, Number 1. January 2018. Retrieved 22 August 2021.
+External links[edit]
+Look up rogue wave in Wiktionary, the free dictionary.
+Wikimedia Commons has media related to Rogue waves.
+Extreme seas project[edit]
+Design for Ship Safety in Extreme Seas
+MaxWave report and WaveAtlas[edit]
+Freak waves spotted from space, BBC News Online
+Ship-sinking monster waves revealed by ESA satellites
+MaxWave project
+Rogue Wave Workshop (2005)
+Rogue Waves 2004
+Other[edit]
+How Dangerous Can Ocean Waves Get? Wave Comparison on YouTube   documentary on rogue wave sizes, impacts, and causes by Facts in Motion (YouTuber).
+BBC News Report on Wave Research, 21 August 2004
+The BBC's Horizon "Freak waves" first aired in November 2002
+'Giant Waves on the Open Sea', lecture by Professor Paul H Taylor at Gresham College, 13 May 2008 (available for video, audio or text download)
+TV program description
+Non-technical description of some of the causes of rogue waves
+New Scientist article 06/2001
+Freak Wave Research in Japan
+Optical Science Group, Research School of Physics and Engineering at the Australian National University
+"Rogue Giants at Sea", The New York Times, July 11, 2006
+Dunning, Brian (15 March 2022). "Skeptoid #823: Hunting the Elusive Rogue Wave". Skeptoid. Retrieved 14 May 2022.
+Kristian B. Dysthe; Harald E. Krogstad; Herv  Socquet-Juglard; Karsten Trulsen. "Freak waves, rogue waves, extreme waves and ocean wave climate". Archived from the original on 2008-11-12. Retrieved 2008-11-01. Illustrations of the ways rogue waves can form  with descriptions for layman, photos and animations.
+"The Wave"   photograph of a solitary and isolated rogue wave appearing in otherwise calm ocean waters (photographer: G Foulds)
+Katherine Noyes (25 February 2016), "A new algorithm from MIT could protect ships from 'rogue waves' at sea Archived 2016-02-28 at the Wayback Machine", CIO magazine.
+Wood, Charles, The Grand Unified Theory of Rogue Waves. Rogue waves  enigmatic giants of the sea  were thought to be caused by two different mechanisms. But a new idea that borrows from the hinterlands of probability theory has the potential to predict them all. February 5, 2020. Quanta Magazine.
+vtePhysical oceanographyWaves
+Airy wave theory
+Ballantine scale
+Benjamin Feir instability
+Boussinesq approximation
+Breaking wave
+Clapotis
+Cnoidal wave
+Cross sea
+Dispersion
+Edge wave
+Equatorial waves
+Fetch
+Gravity wave
+Green's law
+Infragravity wave
+Internal wave
+Iribarren number
+Kelvin wave
+Kinematic wave
+Longshore drift
+Luke's variational principle
+Mild-slope equation
+Radiation stress
+Rogue wave
+Rossby wave
+Rossby-gravity waves
+Sea state
+Seiche
+Significant wave height
+Soliton
+Stokes boundary layer
+Stokes drift
+Stokes wave
+Swell
+Trochoidal wave
+Tsunami
+megatsunami
+Undertow
+Ursell number
+Wave action
+Wave base
+Wave height
+Wave nonlinearity
+Wave power
+Wave radar
+Wave setup
+Wave shoaling
+Wave turbulence
+Wave current interaction
+Waves and shallow water
+one-dimensional Saint-Venant equations
+shallow water equations
+Wind wave
+model
+Circulation
+Atmospheric circulation
+Baroclinity
+Boundary current
+Coriolis force
+Coriolis Stokes force
+Craik Leibovich vortex force
+Downwelling
+Eddy
+Ekman layer
+Ekman spiral
+Ekman transport
+El Ni o Southern Oscillation
+General circulation model
+Geochemical Ocean Sections Study
+Geostrophic current
+Global Ocean Data Analysis Project
+Gulf Stream
+Halothermal circulation
+Humboldt Current
+Hydrothermal circulation
+Langmuir circulation
+Longshore drift
+Loop Current
+Modular Ocean Model
+Ocean current
+Ocean dynamics
+Ocean dynamical thermostat
+Ocean gyre
+Princeton ocean model
+Rip current
+Subsurface currents
+Sverdrup balance
+Thermohaline circulation
+shutdown
+Upwelling
+Wind generated current
+Whirlpool
+World Ocean Circulation Experiment
+Tides
+Amphidromic point
+Earth tide
+Head of tide
+Internal tide
+Lunitidal interval
+Perigean spring tide
+Rip tide
+Rule of twelfths
+Slack water
+Tidal bore
+Tidal force
+Tidal power
+Tidal race
+Tidal range
+Tidal resonance
+Tide gauge
+Tideline
+Theory of tides
+Landforms
+Abyssal fan
+Abyssal plain
+Atoll
+Bathymetric chart
+Coastal geography
+Cold seep
+Continental margin
+Continental rise
+Continental shelf
+Contourite
+Guyot
+Hydrography
+Knoll
+Oceanic basin
+Oceanic plateau
+Oceanic trench
+Passive margin
+Seabed
+Seamount
+Submarine canyon
+Submarine volcano
+Platetectonics
+Convergent boundary
+Divergent boundary
+Fracture zone
+Hydrothermal vent
+Marine geology
+Mid-ocean ridge
+Mohorovi i  discontinuity
+Vine Matthews Morley hypothesis
+Oceanic crust
+Outer trench swell
+Ridge push
+Seafloor spreading
+Slab pull
+Slab suction
+Slab window
+Subduction
+Transform fault
+Volcanic arc
+Ocean zones
+Benthic
+Deep ocean water
+Deep sea
+Littoral
+Mesopelagic
+Oceanic
+Pelagic
+Photic
+Surf
+Swash
+Sea level
+Deep-ocean Assessment and Reporting of Tsunamis
+Future sea level
+Global Sea Level Observing System
+North West Shelf Operational Oceanographic System
+Sea-level curve
+Sea level rise
+World Geodetic System
+Acoustics
+Deep scattering layer
+Hydroacoustics
+Ocean acoustic tomography
+Sofar bomb
+SOFAR channel
+Underwater acoustics
+Satellites
+Jason-1
+Jason-2 (Ocean Surface Topography Mission)
+Jason-3
+Related
+Acidification
+Argo
+Benthic lander
+Color of water
+DSV Alvin
+Marginal sea
+Marine energy
+Marine pollution
+Mooring
+National Oceanographic Data Center
+Ocean
+Explorations
+Observations
+Reanalysis
+Ocean surface topography
+Ocean temperature
+Ocean thermal energy conversion
+Oceanography
+Outline of oceanography
+Pelagic sediment
+Sea surface microlayer
+Sea surface temperature
+Seawater
+Science On a Sphere
+Stratification
+Thermocline
+Underwater glider
+Water column
+World Ocean Atlas
+ Oceans portal
+ Category
+ Commons
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Rogue_wave&oldid=1141679475"

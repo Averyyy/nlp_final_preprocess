@@ -1,0 +1,690 @@
+Linked hypertext system on the Internet
+This article is about the global system of pages accessed via URLs. For the worldwide computer network, see Internet. For the web browser, see WorldWideWeb.
+"WWW" and "The Web" redirect here. For other uses, see WWW (disambiguation) and The Web (disambiguation).
+ The historic World Wide Web logo, designed by Robert Cailliau
+ A web page displayed in a web browser
+ A global map of the Web Index for countries in 2014
+The World Wide Web (WWW), commonly known as the Web, is an information system enabling documents and other web resources to be accessed over the Internet.[1]
+Documents and downloadable media are made available to the network through web servers and can be accessed by programs such as web browsers. Servers and resources on the World Wide Web are identified and located through character strings called uniform resource locators (URLs). The original and still very common document type is a web page formatted in Hypertext Markup Language (HTML). This markup language supports plain text, images, embedded video and audio contents, and scripts (short programs) that implement complex user interaction. The HTML language also supports hyperlinks (embedded URLs) which provide immediate access to other web resources. Web navigation, or web surfing, is the common practice of following such hyperlinks across multiple websites. Web applications are web pages that function as application software. The information in the Web is transferred across the Internet using the Hypertext Transfer Protocol (HTTP).
+Multiple web resources with a common theme and usually a common domain name make up a website. A single web server may provide multiple websites, while some websites, especially the most popular ones, may be provided by multiple servers. Website content is provided by a myriad of companies, organizations, government agencies, and individual users; and comprises an enormous amount of educational, entertainment, commercial, and government information.
+The World Wide Web has become the world's dominant software platform.[2][3][4][5] It is the primary tool billions of people worldwide use to interact with the Internet.[6]
+The Web was invented by Tim Berners-Lee at CERN in 1989 and opened to the public in 1991. It was conceived as a "universal linked information system".[7]
+History
+Main article: History of the World Wide Web
+ This NeXT Computer was used by Sir Tim Berners-Lee at CERN and became the world's first Web server.
+The Web was invented by English computer scientist Tim Berners-Lee while working at CERN. He conceived it as an information management system using several concepts and technologies, the most fundamental of which was the connections that existed between information.[8][9][10] The first proposal was written in 1989,[7] and a working system implemented by the end of 1990 including the WorldWideWeb browser and an HTTP server.[11] The technology was released outside CERN to other research institutions starting in January 1991, and then to the general public on 23 August 1991. The Web was a success at CERN, and began to spread to other scientific and academic institutions. Within the next two years, there were 50 websites created.[12][13]
+CERN made the Web protocol and code available royalty free in 1993, enabling its widespread use.[14][15] After the NCSA released the Mosaic web browser later that year, the Web's popularity grew rapidly as thousands of websites sprang up in less than a year.[16][17] Mosaic was a graphical browser that could display inline images and submit forms that  were processed by the HTTPd server.[18][19] Marc Andreessen and Jim Clark founded Netscape the following year and released the Navigator browser, which introduced Java and JavaScript to the Web. It quickly became the dominant browser. Netscape became a public company in 1995 which triggered a frenzy for the Web and started the dot-com bubble.[20] Microsoft responded by developing its own browser, Internet Explorer, starting the browser wars. By bundling it with Windows, it became the dominant browser for 14 years.[21]
+Tim Berners-Lee founded the World Wide Web Consortium (W3C) which created XML in 1996 and recommended replacing HTML with stricter XHTML.[22] In the meantime, developers began exploiting an IE feature called XMLHttpRequest to make Ajax applications and launched the Web 2.0 revolution. Mozilla, Opera, and Apple rejected XHTML and created the WHATWG which developed HTML5.[23] In 2009, the W3C conceded and abandoned XHTML[24] and in 2019, ceded control of the HTML specification to the WHATWG.[25]
+The World Wide Web has been central to the development of the Information Age and is the primary tool billions of people use to interact on the Internet.[26][27][28][29][30]
+Function
+Main articles: HTTP and HTML
+ The World Wide Web functions as an application layer protocol that is run "on top of" (figuratively) the Internet, helping to make it more functional. The advent of the Mosaic web browser helped to make the web much more usable, to include the display of images and moving images (GIFs).
+The terms Internet and World Wide Web are often used without much distinction. However, the two terms do not mean the same thing. The Internet is a global system of computer networks interconnected through telecommunications and optical networking. In contrast, the World Wide Web is a global collection of documents and other resources, linked by hyperlinks and URIs. Web resources are accessed using HTTP or HTTPS, which are application-level Internet protocols that use the Internet's transport protocols.[31]
+Viewing a web page on the World Wide Web normally begins either by typing the URL of the page into a web browser or by following a hyperlink to that page or resource. The web browser then initiates a series of background communication messages to fetch and display the requested page. In the 1990s, using a browser to view web pages and to move from one web page to another through hyperlinks came to be known as 'browsing,' 'web surfing' (after channel surfing), or 'navigating the Web'. Early studies of this new behavior investigated user patterns in using web browsers. One study, for example, found five user patterns: exploratory surfing, window surfing, evolved surfing, bounded navigation and targeted navigation.[32]
+The following example demonstrates the functioning of a web browser when accessing a page at the URL http://example.org/home.html. The browser resolves the server name of the URL (example.org) into an Internet Protocol address using the globally distributed Domain Name System (DNS). This lookup returns an IP address such as 203.0.113.4 or 2001:db8:2e::7334. The browser then requests the resource by sending an HTTP request across the Internet to the computer at that address. It requests service from a specific TCP port number that is well known for the HTTP service so that the receiving host can distinguish an HTTP request from other network protocols it may be servicing. HTTP normally uses port number 80 and for HTTPS it normally uses port number 443. The content of the HTTP request can be as simple as two lines of text:
+GET /home.html HTTP/1.1
+Host: example.org
+The computer receiving the HTTP request delivers it to web server software listening for requests on port 80. If the webserver can fulfill the request it sends an HTTP response back to the browser indicating success:
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+followed by the content of the requested page. Hypertext Markup Language (HTML) for a basic web page might look like this:
+<html>
+  <head>
+    <title>Example.org   The World Wide Web</title>
+  </head>
+  <body>
+    <p>The World Wide Web, abbreviated as WWW and commonly known ...</p>
+  </body>
+</html>
+The web browser parses the HTML and interprets the markup (<title>, <p> for paragraph, and such) that surrounds the words to format the text on the screen. Many web pages use HTML to reference the URLs of other resources such as images, other embedded media, scripts that affect page behaviour, and Cascading Style Sheets that affect page layout. The browser makes additional HTTP requests to the web server for these other Internet media types. As it receives their content from the web server, the browser progressively renders the page onto the screen as specified by its HTML and these additional resources.
+HTML
+Main article: HTML
+Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.[33]
+Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as <img /> and <input /> directly introduce content into the page. Other tags such as <p> surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags, but use them to interpret the content of the page.
+HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web pages. Inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), maintainer of both the HTML and the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.[update][34]
+Linking
+Most web pages contain hyperlinks to other related pages and perhaps to downloadable files, source documents, definitions and other web resources. In the underlying HTML, a hyperlink looks like this:
+<a href="http://example.org/home.html">Example.org Homepage</a>.
+ Graphic representation of a minute fraction of the WWW, demonstrating hyperlinks
+Such a collection of useful, related resources, interconnected via hypertext links is dubbed a web of information. Publication on the Internet created what Tim Berners-Lee first called the WorldWideWeb (in its original CamelCase, which was subsequently discarded) in November 1990.[35]
+The hyperlink structure of the web is described by the webgraph: the nodes of the web graph correspond to the web pages (or URLs) the directed edges between them to the hyperlinks. Over time, many web resources pointed to by hyperlinks disappear, relocate, or are replaced with different content. This makes hyperlinks obsolete, a phenomenon referred to in some circles as link rot, and the hyperlinks affected by it are often called dead links. The ephemeral nature of the Web has prompted many efforts to archive websites. The Internet Archive, active since 1996, is the best known of such efforts.
+WWW prefix
+Many hostnames used for the World Wide Web begin with www because of the long-standing practice of naming Internet hosts according to the services they provide. The hostname of a web server is often www, in the same way that it may be ftp for an FTP server, and news or nntp for a Usenet news server. These hostnames appear as Domain Name System (DNS) or subdomain names, as in www.example.com. The use of www is not required by any technical or policy standard and many web sites do not use it; the first web server was nxoc01.cern.ch.[36] According to Paolo Palazzi, who worked at CERN along with Tim Berners-Lee, the popular use of www as subdomain was accidental; the World Wide Web project page was intended to be published at www.cern.ch while info.cern.ch was intended to be the CERN home page; however the DNS records were never switched, and the practice of prepending www to an institution's website domain name was subsequently copied.[37][better source needed] Many established websites still use the prefix, or they employ other subdomain names such as www2, secure or en for special purposes. Many such web servers are set up so that both the main domain name (e.g., example.com) and the www subdomain (e.g., www.example.com) refer to the same site; others require one form or the other, or they may map to different web sites. The use of a subdomain name is useful for load balancing incoming web traffic by creating a CNAME record that points to a cluster of web servers. Since, currently, only a subdomain can be used in a CNAME, the same result cannot be achieved by using the bare domain root.[38][dubious    discuss]
+When a user submits an incomplete domain name to a web browser in its address bar input field, some web browsers automatically try adding the prefix "www" to the beginning of it and possibly ".com", ".org" and ".net" at the end, depending on what might be missing. For example, entering "microsoft" may be transformed to http://www.microsoft.com/ and "openoffice" to http://www.openoffice.org. This feature started appearing in early versions of Firefox, when it still had the working title 'Firebird' in early 2003, from an earlier practice in browsers such as Lynx.[39][unreliable source?] It is reported that Microsoft was granted a US patent for the same idea in 2008, but only for mobile devices.[40]
+In English, www is usually read as double-u double-u double-u.[41] Some users pronounce it dub-dub-dub, particularly in New Zealand.[42] Stephen Fry, in his "Podgrams" series of podcasts, pronounces it wuh wuh wuh.[43] The English writer Douglas Adams once quipped in The Independent on Sunday (1999): "The World Wide Web is the only thing I know of whose shortened form takes three times longer to say than what it's short for".[44] In Mandarin Chinese, World Wide Web is commonly translated via a phono-semantic matching to w n w i w ng ( ), which satisfies www and literally means "10,000-dimensional net", a translation that reflects the design concept and proliferation of the World Wide Web. Tim Berners-Lee's web-space states that World Wide Web is officially spelled as three separate words, each capitalised, with no intervening hyphens.[45] Nonetheless, it is often called simply the Web, and also often the web; see Capitalization of Internet for details. Use of the www prefix has been declining, especially when Web 2.0 web applications sought to brand their domain names and make them easily pronounceable.[46]
+As the mobile Web grew in popularity, services like Gmail.com, Outlook.com, Myspace.com, Facebook.com and Twitter.com are most often mentioned without adding "www." (or, indeed, ".com") to the domain.
+Scheme specifiers
+The scheme specifiers http:// and https:// at the start of a web URI refer to Hypertext Transfer Protocol or HTTP Secure, respectively. They specify the communication protocol to use for the request and response. The HTTP protocol is fundamental to the operation of the World Wide Web, and the added encryption layer in HTTPS is essential when browsers send or retrieve confidential data, such as passwords or banking information. Web browsers usually automatically prepend http:// to user-entered URIs, if omitted.
+Pages
+Main article: Web page
+ A screenshot of a web page on Wikimedia Commons
+A web page (also written as webpage) is a document that is suitable for the World Wide Web and web browsers. A web browser displays a web page on a monitor or mobile device.
+The term web page usually refers to what is visible, but may also refer to the contents of the computer file itself, which is usually a text file containing hypertext written in HTML or a comparable markup language. Typical web pages provide hypertext for browsing to other web pages via hyperlinks, often referred to as links. Web browsers will frequently have to access multiple web resource elements, such as reading style sheets, scripts, and images, while presenting each web page.
+On a network, a web browser can retrieve a web page from a remote web server. The web server may restrict access to a private network such as a corporate intranet. The web browser uses the Hypertext Transfer Protocol (HTTP) to make such requests to the web server.
+A static web page is delivered exactly as stored, as web content in the web server's file system. In contrast, a dynamic web page is generated by a web application, usually driven by server-side software. Dynamic web pages are used when each user may require completely different information, for example, bank websites, web email etc.
+Static page
+Main article: Static web page
+A static web page (sometimes called a flat page/stationary page) is a web page that is delivered to the user exactly as stored, in contrast to dynamic web pages which are generated by a web application.
+Consequently, a static web page displays the same information for all users, from all contexts, subject to modern capabilities of a web server to negotiate content-type or language of the document where such versions are available and the server is configured to do so.
+Dynamic pages
+Main articles: Dynamic web page and Ajax (programming)
+ Dynamic web page: example of server-side scripting (PHP and MySQL)
+A server-side dynamic web page is a web page whose construction is controlled by an application server processing server-side scripts. In server-side scripting, parameters determine how the assembly of every new web page proceeds, including the setting up of more client-side processing.
+A client-side dynamic web page processes the web page using JavaScript running in the browser. JavaScript programs can interact with the document via Document Object Model, or DOM, to query page state and alter it. The same client-side techniques can then dynamically update or change the DOM in the same way.
+A dynamic web page is then reloaded by the user or by a computer program to change some variable content. The updating information could come from the server, or from changes made to that page's DOM. This may or may not truncate the browsing history or create a saved version to go back to, but a dynamic web page update using Ajax technologies will neither create a page to go back to nor truncate the web browsing history forward of the displayed page. Using Ajax technologies the end user gets one dynamic page managed as a single page in the web browser while the actual web content rendered on that page can vary. The Ajax engine sits only on the browser requesting parts of its DOM, the DOM, for its client, from an application server.
+Dynamic HTML, or DHTML, is the umbrella term for technologies and methods used to create web pages that are not static web pages, though it has fallen out of common use since the popularization of AJAX, a term which is now itself rarely used.[citation needed] Client-side-scripting, server-side scripting, or a combination of these make for the dynamic web experience in a browser.
+JavaScript is a scripting language that was initially developed in 1995 by Brendan Eich, then of Netscape, for use within web pages.[47] The standardised version is ECMAScript.[47] To make web pages more interactive, some web applications also use JavaScript techniques such as Ajax (asynchronous JavaScript and XML). Client-side script is delivered with the page that can make additional HTTP requests to the server, either in response to user actions such as mouse movements or clicks, or based on elapsed time. The server's responses are used to modify the current page rather than creating a new page with each response, so the server needs only to provide limited, incremental information. Multiple Ajax requests can be handled at the same time, and users can interact with the page while data is retrieved. Web pages may also regularly poll the server to check whether new information is available.[48]
+Website
+ The usap.gov website
+Main article: Website
+A website[49] is a collection of related web resources including web pages, multimedia content, typically identified with a common domain name, and published on at least one web server. Notable examples are wikipedia.org, google.com, and amazon.com.
+A website may be accessible via a public Internet Protocol (IP) network, such as the Internet, or a private local area network (LAN), by referencing a uniform resource locator (URL) that identifies the site.
+Websites can have many functions and can be used in various fashions; a website can be a personal website, a corporate website for a company, a government website, an organization website, etc. Websites are typically dedicated to a particular topic or purpose, ranging from entertainment and social networking to providing news and education. All publicly accessible websites collectively constitute the World Wide Web, while private websites, such as a company's website for its employees, are typically a part of an intranet.
+Web pages, which are the building blocks of websites, are documents, typically composed in plain text interspersed with formatting instructions of Hypertext Markup Language (HTML, XHTML). They may incorporate elements from other websites with suitable markup anchors. Web pages are accessed and transported with the Hypertext Transfer Protocol (HTTP), which may optionally employ encryption (HTTP Secure, HTTPS) to provide security and privacy for the user. The user's application, often a web browser, renders the page content according to its HTML markup instructions onto a display terminal.
+Hyperlinking between web pages conveys to the reader the site structure and guides the navigation of the site, which often starts with a home page containing a directory of the site web content. Some websites require user registration or subscription to access content. Examples of subscription websites include many business sites, news websites, academic journal websites, gaming websites, file-sharing websites, message boards, web-based email, social networking websites, websites providing real-time price quotations for different types of markets, as well as sites providing various other services. End users can access websites on a range of devices, including desktop and laptop computers, tablet computers, smartphones and smart TVs.
+Browser
+Main article: Web browser
+A web browser (commonly referred to as a browser) is a software user agent for accessing information on the World Wide Web. To connect to a website's server and display its pages, a user needs to have a web browser program. This is the program that the user runs to download, format, and display a web page on the user's computer.
+In addition to allowing users to find, display, and move between web pages, a web browser will usually have features like keeping bookmarks, recording history, managing cookies (see below), and home pages and may have facilities for recording passwords for logging into web sites.
+The most popular browsers are Chrome, Firefox, Safari, Internet Explorer, and Edge.
+Server
+Main article: Web server
+ The inside and front of a Dell PowerEdge web server, a computer designed for rack mounting
+A Web server is server software, or hardware dedicated to running said software, that can satisfy World Wide Web client requests. A web server can, in general, contain one or more websites. A web server processes incoming network requests over HTTP and several other related protocols.
+The primary function of a web server is to store, process and deliver web pages to clients.[50] The communication between client and server takes place using the Hypertext Transfer Protocol (HTTP). Pages delivered are most frequently HTML documents, which may include images, style sheets and scripts in addition to the text content.
+ Multiple web servers may be used for a high traffic website; here, Dell servers are installed together to be used for the Wikimedia Foundation.
+A user agent, commonly a web browser or web crawler, initiates communication by making a request for a specific resource using HTTP and the server responds with the content of that resource or an error message if unable to do so. The resource is typically a real file on the server's secondary storage, but this is not necessarily the case and depends on how the webserver is implemented.
+While the primary function is to serve content, full implementation of HTTP also includes ways of receiving content from clients. This feature is used for submitting web forms, including uploading of files.
+Many generic web servers also support server-side scripting using Active Server Pages (ASP), PHP (Hypertext Preprocessor), or other scripting languages. This means that the behavior of the webserver can be scripted in separate files, while the actual server software remains unchanged. Usually, this function is used to generate HTML documents dynamically ("on-the-fly") as opposed to returning static documents. The former is primarily used for retrieving or modifying information from databases. The latter is typically much faster and more easily cached but cannot deliver dynamic content.
+Web servers can also frequently be found embedded in devices such as printers, routers, webcams and serving only a local network. The web server may then be used as a part of a system for monitoring or administering the device in question. This usually means that no additional software has to be installed on the client computer since only a web browser is required (which now is included with most operating systems).
+Cookie
+Main article: HTTP cookie
+An HTTP cookie (also called web cookie, Internet cookie, browser cookie, or simply cookie) is a small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information (such as items added in the shopping cart in an online store) or to record the user's browsing activity (including clicking particular buttons, logging in, or recording which pages were visited in the past). They can also be used to remember arbitrary pieces of information that the user previously entered into form fields such as names, addresses, passwords, and credit card numbers.
+Cookies perform essential functions in the modern web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with. Without such a mechanism, the site would not know whether to send a page containing sensitive information or require the user to authenticate themselves by logging in. The security of an authentication cookie generally depends on the security of the issuing website and the user's web browser, and on whether the cookie data is encrypted. Security vulnerabilities may allow a cookie's data to be read by a hacker, used to gain access to user data, or used to gain access (with the user's credentials) to the website to which the cookie belongs (see cross-site scripting and cross-site request forgery for examples).[51]
+Tracking cookies, and especially third-party tracking cookies, are commonly used as ways to compile long-term records of individuals' browsing histories   a potential privacy concern that prompted European[52] and U.S. lawmakers to take action in 2011.[53][54] European law requires that all websites targeting European Union member states gain "informed consent" from users before storing non-essential cookies on their device.
+Google Project Zero researcher Jann Horn describes ways cookies can be read by intermediaries, like Wi-Fi hotspot providers. He recommends using the browser in incognito mode in such circumstances.[55]
+Search engine
+Main article: Search engine
+ The results of a search for the term "lunar eclipse" in a web-based image search engine
+A web search engine or Internet search engine is a software system that is designed to carry out web search (Internet search), which means to search the World Wide Web in a systematic way for particular information specified in a web search query. The search results are generally presented in a line of results, often referred to as search engine results pages (SERPs). The information may be a mix of web pages, images, videos, infographics, articles, research papers, and other types of files. Some search engines also mine data available in databases or open directories. Unlike web directories, which are maintained only by human editors, search engines also maintain real-time information by running an algorithm on a web crawler.
+Internet content that is not capable of being searched by a web search engine is generally described as the deep web.
+Deep web
+Main article: Deep web
+The deep web,[56] invisible web,[57] or hidden web[58] are parts of the World Wide Web whose contents are not indexed by standard web search engines. The opposite term to the deep web is the surface web, which is accessible to anyone using the Internet.[59] Computer scientist Michael K. Bergman is credited with coining the term deep web in 2001 as a search indexing term.[60]
+The content of the deep web is hidden behind HTTP forms,[61][62] and includes many very common uses such as web mail, online banking, and services that users must pay for, and which is protected by a paywall, such as video on demand, some online magazines and newspapers, among others.
+The content of the deep web can be located and accessed by a direct URL or IP address, and may require a password or other security access past the public website page.
+Caching
+A web cache is a server computer located either on the public Internet or within an enterprise that stores recently accessed web pages to improve response time for users when the same content is requested within a certain time after the original request. Most web browsers also implement a browser cache by writing recently obtained data to a local data storage device. HTTP requests by a browser may ask only for data that has changed since the last access. Web pages and resources may contain expiration information to control caching to secure sensitive data, such as in online banking, or to facilitate frequently updated sites, such as news media. Even sites with highly dynamic content may permit basic resources to be refreshed only occasionally. Web site designers find it worthwhile to collate resources such as CSS data and JavaScript into a few site-wide files so that they can be cached efficiently. Enterprise firewalls often cache Web resources requested by one user for the benefit of many users. Some search engines store cached content of frequently accessed websites.
+Security
+For criminals, the Web has become a venue to spread malware and engage in a range of cybercrimes, including (but not limited to) identity theft, fraud, espionage and intelligence gathering.[63] Web-based vulnerabilities now outnumber traditional computer security concerns,[64][65] and as measured by Google, about one in ten web pages may contain malicious code.[66] Most web-based attacks take place on legitimate websites, and most, as measured by Sophos, are hosted in the United States, China and Russia.[67] The most common of all malware threats is SQL injection attacks against websites.[68] Through HTML and URIs, the Web was vulnerable to attacks like cross-site scripting (XSS) that came with the introduction of JavaScript[69] and were exacerbated to some degree by Web 2.0 and Ajax web design that favours the use of scripts.[70] Today by one estimate, 70% of all websites are open to XSS attacks on their users.[71] Phishing is another common threat to the Web. In February 2013, RSA (the security division of EMC) estimated the global losses from phishing at $1.5 billion in 2012.[72] Two of the well-known phishing methods are Covert Redirect and Open Redirect.
+Proposed solutions vary. Large security companies like McAfee already design governance and compliance suites to meet post-9/11 regulations,[73] and some, like Finjan have recommended active real-time inspection of programming code and all content regardless of its source.[63] Some have argued that for enterprises to see Web security as a business opportunity rather than a cost centre,[74] while others call for "ubiquitous, always-on digital rights management" enforced in the infrastructure to replace the hundreds of companies that secure data and networks.[75] Jonathan Zittrain has said users sharing responsibility for computing safety is far preferable to locking down the Internet.[76]
+Privacy
+Main article: Internet privacy
+Every time a client requests a web page, the server can identify the request's IP address. Web servers usually log IP addresses in a log file. Also, unless set not to do so, most web browsers record requested web pages in a viewable history feature, and usually cache much of the content locally. Unless the server-browser communication uses HTTPS encryption, web requests and responses travel in plain text across the Internet and can be viewed, recorded, and cached by intermediate systems. Another way to hide personally identifiable information is by using a virtual private network. A VPN encrypts online traffic and masks the original IP address lowering the chance of user identification.
+When a web page asks for, and the user supplies, personally identifiable information such as their real name, address, e-mail address, etc. web-based entities can associate current web traffic with that individual. If the website uses HTTP cookies, username, and password authentication, or other tracking techniques, it can relate other web visits, before and after, to the identifiable information provided. In this way, a web-based organization can develop and build a profile of the individual people who use its site or sites. It may be able to build a record for an individual that includes information about their leisure activities, their shopping interests, their profession, and other aspects of their demographic profile. These profiles are of potential interest to marketers, advertisers, and others. Depending on the website's terms and conditions and the local laws that apply information from these profiles may be sold, shared, or passed to other organizations without the user being informed. For many ordinary people, this means little more than some unexpected e-mails in their in-box or some uncannily relevant advertising on a future web page. For others, it can mean that time spent indulging an unusual interest can result in a deluge of further targeted marketing that may be unwelcome. Law enforcement, counter-terrorism, and espionage agencies can also identify, target, and track individuals based on their interests or proclivities on the Web.
+Social networking sites usually try to get users to use their real names, interests, and locations, rather than pseudonyms, as their executives believe that this makes the social networking experience more engaging for users. On the other hand, uploaded photographs or unguarded statements can be identified to an individual, who may regret this exposure. Employers, schools, parents, and other relatives may be influenced by aspects of social networking profiles, such as text posts or digital photos, that the posting individual did not intend for these audiences. Online bullies may make use of personal information to harass or stalk users. Modern social networking websites allow fine-grained control of the privacy settings for each posting, but these can be complex and not easy to find or use, especially for beginners.[77] Photographs and videos posted onto websites have caused particular problems, as they can add a person's face to an online profile. With modern and potential facial recognition technology, it may then be possible to relate that face with other, previously anonymous, images, events, and scenarios that have been imaged elsewhere. Due to image caching, mirroring, and copying, it is difficult to remove an image from the World Wide Web.
+Standards
+Main article: Web standards
+Web standards include many interdependent standards and specifications, some of which govern aspects of the Internet, not just the World Wide Web. Even when not web-focused, such standards directly or indirectly affect the development and administration of websites and web services. Considerations include the interoperability, accessibility and usability of web pages and web sites.
+Web standards, in the broader sense, consist of the following:
+Recommendations published by the World Wide Web Consortium (W3C)[78]
+"Living Standard" made by the Web Hypertext Application Technology Working Group (WHATWG)
+Request for Comments (RFC) documents published by the Internet Engineering Task Force (IETF)[79]
+Standards published by the International Organization for Standardization (ISO)[80]
+Standards published by Ecma International (formerly ECMA)[81]
+The Unicode Standard and various Unicode Technical Reports (UTRs) published by the Unicode Consortium[82]
+Name and number registries maintained by the Internet Assigned Numbers Authority (IANA)[83]
+Web standards are not fixed sets of rules but are constantly evolving sets of finalized technical specifications of web technologies.[84] Web standards are developed by standards organizations groups of interested and often competing parties chartered with the task of standardization not technologies developed and declared to be a standard by a single individual or company. It is crucial to distinguish those specifications that are under development from the ones that already reached the final development status (in the case of W3C specifications, the highest maturity level).
+Accessibility
+Main article: Web accessibility
+There are methods for accessing the Web in alternative mediums and formats to facilitate use by individuals with disabilities. These disabilities may be visual, auditory, physical, speech-related, cognitive, neurological, or some combination. Accessibility features also help people with temporary disabilities, like a broken arm, or ageing users as their abilities change.[85] The Web receives information as well as providing information and interacting with society. The World Wide Web Consortium claims that it is essential that the Web be accessible, so it can provide equal access and equal opportunity to people with disabilities.[86] Tim Berners-Lee once noted, "The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect."[85] Many countries regulate web accessibility as a requirement for websites.[87] International co-operation in the W3C Web Accessibility Initiative led to simple guidelines that web content authors as well as software developers can use to make the Web accessible to persons who may or may not be using assistive technology.[85][88]
+Internationalisation
+The W3C Internationalisation Activity assures that web technology works in all languages, scripts, and cultures.[89] Beginning in 2004 or 2005, Unicode gained ground and eventually in December 2007 surpassed both ASCII and Western European as the Web's most frequently used character encoding.[90] Originally RFC 3986 allowed resources to be identified by URI in a subset of US-ASCII. RFC 3987 allows more characters any character in the Universal Character Set and now a resource can be identified by IRI in any language.[91]
+See also
+Engineering portalInternet portalWorld portal
+Electronic publishing
+Internet metaphors
+Internet security
+Lists of websites
+Streaming media
+Web development tools
+Web literacy
+References
+^ "What is the difference between the Web and the Internet?". W3C Help and FAQ. W3C. 2009. Retrieved 16 July 2015.
+^ Bleigh, Michael (16 May 2014). "The Once And Future Web Platform". TechCrunch. Retrieved 9 March 2022.
+^ "World Wide Web Timeline". Pews Research Center. 11 March 2014. Retrieved 1 August 2015.
+^ Dewey, Caitlin (12 March 2014). "36 Ways The Web Has Changed Us". The Washington Post. Retrieved 1 August 2015.
+^ "Website Analytics Tool". Retrieved 1 August 2015.
+^ "What is the difference between the Web and the Internet?". W3C Help and FAQ. W3C. 2009. Archived from the original on 9 July 2015. Retrieved 16 July 2015.
+^ a b Berners-Lee, Tim. "Information Management: A Proposal". w3.org. The World Wide Web Consortium. Retrieved 12 February 2022.
+^ Berners-Lee, T.; Cailliau, R.; Groff, J.-F.; Pollermann, B. (1992). "World-Wide Web: The Information Universe". Electron. Netw. Res. Appl. Policy. 2: 52 58. doi:10.1108/eb047254.
+^ Quittner, Joshua (29 March 1999). "Network Designer Tim Berners-Lee". Time Magazine. Archived from the original on 15 August 2007. Retrieved 17 May 2010. He wove the World Wide Web and created a mass medium for the 21st century. The World Wide Web is Berners-Lee's alone. He designed it. He set it loose it on the world. And he more than anyone else has fought to keep it an open, non-proprietary and free.[page needed]
+^ McPherson, Stephanie Sammartino (2009). Tim Berners-Lee: Inventor of the World Wide Web. Twenty-First Century Books. ISBN 978-0-8225-7273-2.
+^ W3 (1991) Re: Qualifiers on Hypertext links
+^ Hopgood, Bob. "History of the Web". w3.org. The World Wide Web Consortium. Retrieved 12 February 2022.
+^ "A short history of the Web". CERN. Retrieved 15 April 2022.
+^ "Software release of WWW into public domain". CERN Document Server. CERN. Retrieved 17 February 2022.
+^ "Ten Years Public Domain for the Original Web Software". Tenyears-www.web.cern.ch. 30 April 2003. Archived from the original on 13 August 2009. Retrieved 27 July 2009.
+^ Calore, Michael (22 April 2010). "April 22, 1993: Mosaic Browser Lights Up Web With Color, Creativity". Wired. Retrieved 12 February 2022.
+^ Couldry, Nick (2012). Media, Society, World: Social Theory and Digital Media Practice. London: Polity Press. p. 2. ISBN 9780745639208.
+^ Hoffman, Jay (21 April 1993). "The Origin of the IMG Tag". The History of the Web. Retrieved 13 February 2022.
+^ Clarke, Roger. "The Birth of Web Commerce". Roger Clarke's Web-Site. XAMAX. Retrieved 15 February 2022.
+^ McCullough, Brian. "20 YEARS ON: WHY NETSCAPE'S IPO WAS THE "BIG BANG" OF THE INTERNET ERA". www.internethistorypodcast.com. INTERNET HISTORY PODCAST. Retrieved 12 February 2022.
+^ Calore, Michael (28 September 2009). "Sept. 28, 1998: Internet Explorer Leaves Netscape in Its Wake". Wired. Retrieved 14 February 2022.
+^ Daly, Janet (26 January 2000). "World Wide Web Consortium Issues XHTML 1.0 as a Recommendation". W3C. Retrieved 8 March 2022.
+^ Hickson, Ian. "WHAT open mailing list announcement". whatwg.org. WHATWG. Retrieved 16 February 2022.
+^ Shankland, Stephen (9 July 2009). "An epitaph for the Web standard, XHTML 2". CNet. Retrieved 17 February 2022.
+^ "Memorandum of Understanding Between W3C and WHATWG". w3.org. W3C. Retrieved 16 February 2022.
+^ In, Lee (30 June 2012). Electronic Commerce Management for Business Activities and Global Enterprises: Competitive Advantages: Competitive Advantages. IGI Global. ISBN 978-1-4666-1801-5.
+^ Misiroglu, Gina (26 March 2015). American Countercultures: An Encyclopedia of Nonconformists, Alternative Lifestyles, and Radical Ideas in U.S. History: An Encyclopedia of Nonconformists, Alternative Lifestyles, and Radical Ideas in U.S. History. Routledge. ISBN 978-1-317-47729-7.
+^ "World Wide Web Timeline". Pew Research Center. 11 March 2014. Archived from the original on 29 July 2015. Retrieved 1 August 2015.
+^ Dewey, Caitlin (12 March 2014). "36 Ways the Web Has Changed Us". The Washington Post. Archived from the original on 9 September 2015. Retrieved 1 August 2015.
+^ "Internet Live Stats". Archived from the original on 2 July 2015. Retrieved 1 August 2015.
+^ "What is the difference between the Web and the Internet?". World Wide Web Consortium. Archived from the original on 22 April 2016. Retrieved 18 April 2016.
+^ Muylle, Steve; Moenaert, Rudy; Despont, Marc (1999). "A grounded theory of World Wide Web search behaviour". Journal of Marketing Communications. 5 (3): 143. doi:10.1080/135272699345644.
+^ Flanagan, David. JavaScript   The definitive guide (6 ed.). p. 1. JavaScript is part of the triad of technologies that all Web developers must learn: HTML to specify the content of web pages, CSS to specify the presentation of web pages, and JavaScript to specify the behaviour of web pages.
+^ "HTML 4.0 Specification   W3C Recommendation   Conformance: requirements and recommendations". World Wide Web Consortium. 18 December 1997. Retrieved 6 July 2015.
+^ Berners-Lee, Tim; Cailliau, Robert (12 November 1990). "WorldWideWeb: Proposal for a HyperText Project". Archived from the original on 2 May 2015. Retrieved 12 May 2015.
+^ Berners-Lee, Tim. "Frequently asked questions by the Press". W3C. Archived from the original on 2 August 2009. Retrieved 27 July 2009.
+^ Palazzi, P (2011). "The Early Days of the WWW at CERN". Archived from the original on 23 July 2012.
+^ Fraser, Dominic (13 May 2018). "Why a domain's root can't be a CNAME   and other tidbits about the DNS". FreeCodeCamp.
+^ "automatically adding www.___.com". mozillaZine. 16 May 2003. Archived from the original on 27 June 2009. Retrieved 27 May 2009.
+^ Masnick, Mike (7 July 2008). "Microsoft Patents Adding 'www.' And '.com' To Text". Techdirt. Archived from the original on 27 June 2009. Retrieved 27 May 2009.
+^ "Audible pronunciation of 'WWW'". Oxford University Press. Archived from the original on 25 May 2014. Retrieved 25 May 2014.
+^ Harvey, Charlie. "How we pronounce WWW in English: a detailed but unscientific survey". charlieharvey.org.uk. Retrieved 19 May 2022.
+^ "Stephen Fry's pronunciation of 'WWW'". Podcasts.com. Archived from the original on 4 April 2017.
+^ Simonite, Tom (22 July 2008). "Help us find a better way to pronounce www". newscientist.com. New Scientist, Technology. Archived from the original on 13 March 2016. Retrieved 7 February 2016.
+^ "Frequently asked questions by the Press  Tim BL". W3.org. Archived from the original on 2 August 2009. Retrieved 27 July 2009.
+^ Castelluccio, Michael (2010). "It's not your grandfather's Internet". thefreelibrary.com. Institute of Management Accountants. Retrieved 7 February 2016.
+^ a b Hamilton, Naomi (31 July 2008). "The A-Z of Programming Languages: JavaScript". Computerworld. IDG. Archived from the original on 24 May 2009. Retrieved 12 May 2009.
+^ Buntin, Seth (23 September 2008). "jQuery Polling plugin". Archived from the original on 13 August 2009. Retrieved 22 August 2009.
+^ "website". TheFreeDictionary.com. Retrieved 2 July 2011.
+^ Patrick, Killelea (2002). Web performance tuning (2nd ed.). Beijing: O'Reilly. p. 264. ISBN 978-0596001728. OCLC 49502686.
+^ Vamosi, Robert (14 April 2008). "Gmail cookie stolen via Google Spreadsheets". News.cnet.com. Archived from the original on 9 December 2013. Retrieved 19 October 2017.
+^ "What about the "EU Cookie Directive"?". WebCookies.org. 2013. Archived from the original on 11 October 2017. Retrieved 19 October 2017.
+^ "New net rules set to make cookies crumble". BBC. 8 March 2011.
+^ "Sen. Rockefeller: Get Ready for a Real Do-Not-Track Bill for Online Advertising". Adage.com. 6 May 2011.
+^ Want to use my wifi?, Jann Horn accessed 5 January 2018.
+^ Hamilton, Nigel. "The Mechanics of a Deep Net Metasearch Engine". CiteSeerX 10.1.1.90.5847. {{cite journal}}: Cite journal requires |journal= (help)
+^ Devine, Jane; Egger-Sider, Francine (July 2004). "Beyond google: the invisible web in the academic library". The Journal of Academic Librarianship. 30 (4): 265 269. doi:10.1016/j.acalib.2004.04.010.
+^ Raghavan, Sriram; Garcia-Molina, Hector (11 14 September 2001). "Crawling the Hidden Web". 27th International Conference on Very Large Data Bases.
+^ "Surface Web". Computer Hope. Retrieved 20 June 2018.
+^ Wright, Alex (22 February 2009). "Exploring a 'Deep Web' That Google Can't Grasp". The New York Times. Retrieved 23 February 2009.
+^ Madhavan, J., Ko, D., Kot,  ., Ganapathy, V., Rasmussen, A., & Halevy, A. (2008). Google's deep web crawl. Proceedings of the VLDB Endowment, 1(2), 1241 52.
+^ Shedden, Sam (8 June 2014). "How Do You Want Me to Do It? Does It Have to Look like an Accident?   an Assassin Selling a Hit on the Net; Revealed Inside the Deep Web". Sunday Mail. Archived from the original on 1 March 2020. Retrieved 5 May 2017.
+^ a b Ben-Itzhak, Yuval (18 April 2008). "Infosecurity 2008   New defence strategy in battle against e-crime". ComputerWeekly. Reed Business Information. Archived from the original on 4 June 2008. Retrieved 20 April 2008.
+^ Christey, Steve & Martin, Robert A. (22 May 2007). "Vulnerability Type Distributions in CVE (version 1.1)". MITRE Corporation. Archived from the original on 17 March 2013. Retrieved 7 June 2008.
+^ "Symantec Internet Security Threat Report: Trends for July December 2007 (Executive Summary)" (PDF). XIII. Symantec Corp. April 2008: 1 2. Archived (PDF) from the original on 25 June 2008. Retrieved 11 May 2008. {{cite journal}}: Cite journal requires |journal= (help)
+^ "Google searches web's dark side". BBC News. 11 May 2007. Archived from the original on 7 March 2008. Retrieved 26 April 2008.
+^ "Security Threat Report (Q1 2008)" (PDF). Sophos. Archived (PDF) from the original on 31 December 2013. Retrieved 24 April 2008.
+^ "Security threat report" (PDF). Sophos. July 2008. Archived (PDF) from the original on 31 December 2013. Retrieved 24 August 2008.
+^ Fogie, Seth, Jeremiah Grossman, Robert Hansen, and Anton Rager (2007). Cross Site Scripting Attacks: XSS Exploits and Defense (PDF). Syngress, Elsevier Science & Technology. pp. 68 69, 127. ISBN 978-1-59749-154-9. Archived from the original (PDF) on 25 June 2008. Retrieved 6 June 2008.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+^ O'Reilly, Tim (30 September 2005). "What Is Web 2.0". O'Reilly Media. pp. 4 5. Archived from the original on 15 April 2013. Retrieved 4 June 2008. and AJAX web applications can introduce security vulnerabilities like "client-side security controls, increased attack surfaces, and new possibilities for Cross-Site Scripting (XSS)", in Ritchie, Paul (March 2007). "The security risks of AJAX/web 2.0 applications" (PDF). Infosecurity. Archived from the original (PDF) on 25 June 2008. Retrieved 6 June 2008. which cites Hayre, Jaswinder S. & Kelath, Jayasankar (22 June 2006). "Ajax Security Basics". SecurityFocus. Archived from the original on 15 May 2008. Retrieved 6 June 2008.
+^ Berinato, Scott (1 January 2007). "Software Vulnerability Disclosure: The Chilling Effect". CSO. CXO Media. p. 7. Archived from the original on 18 April 2008. Retrieved 7 June 2008.
+^ "2012 Global Losses From phishing Estimated At $1.5 Bn". FirstPost. 20 February 2013. Archived from the original on 21 December 2014. Retrieved 25 January 2019.
+^ Prince, Brian (9 April 2008). "McAfee Governance, Risk and Compliance Business Unit". eWEEK. Ziff Davis Enterprise Holdings. Retrieved 25 April 2008.
+^ Preston, Rob (12 April 2008). "Down To Business: It's Past Time To Elevate The Infosec Conversation". InformationWeek. United Business Media. Archived from the original on 14 April 2008. Retrieved 25 April 2008.
+^ Claburn, Thomas (6 February 2007). "RSA's Coviello Predicts Security Consolidation". InformationWeek. United Business Media. Archived from the original on 7 February 2009. Retrieved 25 April 2008.
+^ Duffy Marsan, Carolyn (9 April 2008). "How the iPhone is killing the 'Net". Network World. IDG. Archived from the original on 14 April 2008. Retrieved 17 April 2008.
+^ boyd, danah; Hargittai, Eszter (July 2010). "Facebook privacy settings: Who cares?". First Monday. 15 (8). doi:10.5210/fm.v15i8.3086.
+^ "W3C Technical Reports and Publications". W3C. Retrieved 19 January 2009.
+^ "IETF RFC page". IETF. Archived from the original on 2 February 2009. Retrieved 19 January 2009.
+^ "Search for World Wide Web in ISO standards". ISO. Retrieved 19 January 2009.
+^ "Ecma formal publications". Ecma. Retrieved 19 January 2009.
+^ "Unicode Technical Reports". Unicode Consortium. Retrieved 19 January 2009.
+^ "IANA home page". IANA. Retrieved 19 January 2009.
+^ Sikos, Leslie (2011). Web standards   Mastering HTML5, CSS3, and XML. Apress. ISBN 978-1-4302-4041-9. Archived from the original on 2 April 2015. Retrieved 12 March 2019.
+^ a b c "Web Accessibility Initiative (WAI)". World Wide Web Consortium. Archived from the original on 2 April 2009. Retrieved 7 April 2009.
+^ "Developing a Web Accessibility Business Case for Your Organization: Overview". World Wide Web Consortium. Archived from the original on 14 April 2009. Retrieved 7 April 2009.
+^ "Legal and Policy Factors in Developing a Web Accessibility Business Case for Your Organization". World Wide Web Consortium. Archived from the original on 5 April 2009. Retrieved 7 April 2009.
+^ "Web Content Accessibility Guidelines (WCAG) Overview". World Wide Web Consortium. Archived from the original on 1 April 2009. Retrieved 7 April 2009.
+^ "Internationalization (I18n) Activity". World Wide Web Consortium. Archived from the original on 16 April 2009. Retrieved 10 April 2009.
+^ Davis, Mark (5 April 2008). "Moving to Unicode 5.1". Archived from the original on 21 May 2009. Retrieved 10 April 2009.
+^ "World Wide Web Consortium Supports the IETF URI Standard and IRI Proposed Standard" (Press release). World Wide Web Consortium. 26 January 2005. Archived from the original on 7 February 2009. Retrieved 10 April 2009.
+Further reading
+Berners-Lee, Tim; Bray, Tim; Connolly, Dan; Cotton, Paul; Fielding, Roy; Jeckle, Mario; Lilley, Chris; Mendelsohn, Noah; Orchard, David; Walsh, Norman; Williams, Stuart (15 December 2004). "Architecture of the World Wide Web, Volume One". Version 20041215. W3C. {{cite journal}}: Cite journal requires |journal= (help)
+Berners-Lee, Tim (August 1996). "The World Wide Web: Past, Present and Future". {{cite journal}}: Cite journal requires |journal= (help)
+Br gger, Niels, ed, Web25: Histories from the first 25 years of the World Wide Web (Peter Lang, 2017).
+Fielding, R.; Gettys, J.; Mogul, J.; Frystyk, H.; Masinter, L.; Leach, P.; Berners-Lee, T. (June 1999). "Hypertext Transfer Protocol  HTTP/1.1". Request For Comments 2616. Information Sciences Institute. {{cite journal}}: Cite journal requires |journal= (help)
+Niels Br gger, ed. Web History (2010) 362 pages; Historical perspective on the World Wide Web, including issues of culture, content, and preservation.
+Polo, Luciano (2003). "World Wide Web Technology Architecture: A Conceptual Analysis". New Devices.
+Skau, H.O. (March 1990). "The World Wide Web and Health Information". New Devices.
+External links
+Wikimedia Commons has media related to World Wide Web.
+Wikibooks has a book on the topic of: Nets, Webs and the Information Infrastructure
+The first website
+Early archive of the first Web site
+Internet Statistics: Growth and Usage of the Web and the Internet
+Living Internet A comprehensive history of the Internet, including the World Wide Web
+Web Design and Development at Curlie
+World Wide Web Consortium (W3C)
+W3C Recommendations Reduce "World Wide Wait"
+World Wide Web Size Daily estimated size of the World Wide Web
+Antonio A. Casilli, Some Elements for a Sociology of Online Interactions
+The Erd s Webgraph Server Archived 1 March 2021 at the Wayback Machine offers weekly updated graph representation of a constantly increasing fraction of the WWW
+The 25th Anniversary of the World Wide Web Archived 11 July 2021 at the Wayback Machine is an animated video produced by USAID and TechChange which explores the role of the WWW in addressing extreme poverty
+vteTelecommunicationsHistory
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Data compression
+audio
+DCT
+image
+video
+Digital media
+Internet video
+online video platform
+social media
+streaming
+Drums
+Edholm's law
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Information Age
+Information revolution
+Internet
+Mass media
+Mobile phone
+Smartphone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Semiconductor
+device
+MOSFET
+transistor
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+digital
+streaming
+Undersea telegraph line
+Videotelephony
+Whistled language
+Wireless revolution
+Pioneers
+Nasir Ahmed
+Edwin Howard Armstrong
+Mohamed M. Atalla
+John Logie Baird
+Paul Baran
+John Bardeen
+Alexander Graham Bell
+Emile Berliner
+Tim Berners-Lee
+Francis Blake (telephone)
+Jagadish Chandra Bose
+Charles Bourseul
+Walter Houser Brattain
+Vint Cerf
+Claude Chappe
+Yogen Dalal
+Daniel Davis Jr.
+Donald Davies
+Amos Dolbear
+Thomas Edison
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Oliver Heaviside
+Robert Hooke
+Erna Schneider Hoover
+Harold Hopkins
+Gardiner Greene Hubbard
+Internet pioneers
+Bob Kahn
+Dawon Kahng
+Charles K. Kao
+Narinder Singh Kapany
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Robert Metcalfe
+Antonio Meucci
+Samuel Morse
+Jun-ichi Nishizawa
+Charles Grafton Page
+Radia Perlman
+Alexander Stepanovich Popov
+Tivadar Pusk s
+Johann Philipp Reis
+Claude Shannon
+Almon Brown Strowger
+Henry Sutton
+Charles Sumner Tainter
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Thomas A. Watson
+Charles Wheatstone
+Vladimir K. Zworykin
+Transmissionmedia
+Coaxial cable
+Fiber-optic communication
+optical fiber
+Free-space optical communication
+Molecular communication
+Radio waves
+wireless
+Transmission line
+data transmission circuit
+telecommunication circuit
+Network topologyand switching
+Bandwidth
+Links
+Nodes
+terminal
+Network switching
+circuit
+packet
+Telephone exchange
+Multiplexing
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+Concepts
+Communication protocol
+Computer network
+Data transmission
+Store and forward
+Telecommunications equipment
+Types of network
+Cellular network
+Ethernet
+ISDN
+LAN
+Mobile
+NGN
+Public Switched Telephone
+Radio
+Television
+Telex
+UUCP
+WAN
+Wireless network
+Notable networks
+ARPANET
+BITNET
+CYCLADES
+FidoNet
+Internet
+Internet2
+JANET
+NPL network
+Toasternet
+Usenet
+Locations
+Africa
+Americas
+North
+South
+Antarctica
+Asia
+Europe
+Oceania
+(Global telecommunications regulation bodies)
+ Telecommunication portal
+ Category
+ Outline
+ Commons
+vteWeb syndication
+History
+Blogging
+Podcasting
+Vlogging
+Web syndication technology
+Types
+Art
+Bloggernacle
+Classical music
+Corporate
+Dream diary
+Edublog
+Electronic journal
+Fake
+Family
+Fashion
+Food
+Health
+Law
+Lifelog
+Litblog
+MP3
+News
+Photoblog
+Police
+Political
+Project
+Reverse
+Travel
+Warblog
+TechnologyGeneral
+BitTorrent
+Feed URI scheme
+Features
+Linkback
+Permalink
+Ping
+Pingback
+Reblogging
+Refback
+Rollback
+Trackback
+Mechanism
+Conversation threading
+Geotagging
+RSS enclosure
+Synchronization
+Memetics
+Atom feed
+Data feed
+Photofeed
+Product feed
+RDF feed
+Web feed
+RSS
+GeoRSS
+MRSS
+RSS TV
+Social
+Inter-process communication
+Livemark
+Mashup
+Referencing
+RSS editor
+RSS tracking
+Streaming media
+Standard
+OML
+OPML
+RSS Advisory Board
+Usenet
+World Wide Web
+XBEL
+XOXO
+Form
+Audio podcast
+Enhanced podcast
+Mobilecast
+Narrowcasting
+Peercasting
+Screencast
+Slidecasting
+Videocast
+Webcomic
+Webtoon
+Web series
+Anonymous blogging
+Collaborative blog
+Columnist
+Instant messaging
+Liveblogging
+Microblog
+Mobile blogging
+Roblog
+Spam blog
+Video blogging
+Motovlogging
+MediaAlternative media
+Carnivals
+Fiction
+Journalism
+Citizen
+Database
+Online diary
+Search engines
+Sideblog
+Software
+Web directory
+Micromedia
+Aggregation
+News
+Poll
+Review
+Search
+Video
+Atom
+AtomPub
+Broadcatching
+Hashtag
+NewsML
+1
+G2
+Social communication
+Social software
+Web Slice
+Related
+Blogosphere
+Escribitionist
+Glossary of blogging
+Pay per click
+Posting style
+Slashdot effect
+Spam in blogs
+Uses of podcasting
+vteSemantic WebBackground
+Databases
+Hypertext
+Internet
+Ontologies
+Semantics
+Semantic networks
+World Wide Web
+Sub-topics
+Dataspaces
+Hyperdata
+Linked data
+Rule-based systems
+Applications
+Semantic analytics
+Semantic broker
+Semantic computing
+Semantic mapper
+Semantic matching
+Semantic publishing
+Semantic reasoner
+Semantic search
+Semantic service-oriented architecture
+Semantic wiki
+Solid
+Related topics
+Collective intelligence
+Description logic
+Folksonomy
+Geotagging
+Information architecture
+Knowledge extraction
+Knowledge management
+Knowledge representation and reasoning
+Library 2.0
+Digital library
+Digital humanities
+Metadata
+References
+Topic map
+Web 2.0
+Web engineering
+Web Science Trust
+StandardsSyntax and supporting technologies
+HTTP
+IRI
+URI
+RDF
+triples
+RDF/XML
+JSON-LD
+Turtle
+TriG
+Notation3
+N-Triples
+TriX (no W3C standard)
+RRID
+SPARQL
+XML
+Semantic HTML
+Schemas, ontologies and rules
+Common Logic
+OWL
+RDFS
+Rule Interchange Format
+Semantic Web Rule Language
+ALPS
+SHACL
+Semantic annotation
+eRDF
+GRDDL
+Microdata
+Microformats
+RDFa
+SAWSDL
+Facebook Platform
+Common vocabularies
+DOAP
+Dublin Core
+FOAF
+Schema.org
+SIOC
+SKOS
+Microformat vocabularies
+hAtom
+hCalendar
+hCard
+hProduct
+hRecipe
+hReview
+Authority control International
+FAST
+National
+Spain
+France
+BnF data
+Germany
+Israel
+United States
+Latvia
+Czech Republic
+Other
+NARA
+Retrieved from "https://en.wikipedia.org/w/index.php?title=World_Wide_Web&oldid=1149335483"

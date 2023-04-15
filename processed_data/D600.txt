@@ -1,0 +1,261 @@
+American wireless service provider and subsidiary of AT&T
+Cricket Wireless LLCTypeSubsidiaryIndustryWireless telecommunicationsFoundedMarch 17, 1999; 24 years ago (1999-03-17) in Chicago, Illinois, United StatesHeadquartersAtlanta, Georgia, United StatesNumber of locations5,000 retail stores[1] (2019)Area servedUnited StatesKey peopleJohn Dwyer (President)Tiffany Baehman (Vice President and CMO)[2]ProductsWirelessMobile phoneServicesMobile communicationsNumber of employees221ParentLeap Wireless (1999 2014)AT&T (2014 present)Websitewww.cricketwireless.com
+Cricket Wireless is an American prepaid wireless service provider, owned by AT&T. It provides wireless services to ten million subscribers in the United States.[1] Cricket Wireless was founded in March 1999 by Leap Wireless International. AT&T acquired Leap Wireless International in March 2014, and later merged Cricket Wireless operations with Aio Wireless.[3] Cricket Wireless competes primarily against T-Mobile's Metro, Dish's Boost Mobile and Verizon's Visible in the prepaid wireless segment.
+History[edit]
+ Typical Cricket retail store in Thomasville, Georgia
+ Former Cricket Wireless logo, before acquisition by AT&T
+Cricket Wireless was founded in March 1999 by Leap Wireless International. AT&T acquired Leap Wireless International in March 2014 and merged Cricket Wireless with Aio Wireless.[4] Before AT&T's acquisition, the company had 4.5 million subscribers.
+Cricket's first market was Chattanooga, Tennessee, in 1999 and through much of its early growth became known as a network focused on small, rural markets.[5][1]
+In September 2007, MetroPCS, Cricket Wireless's competing carrier at the time, announced a $5.3 billion bid to merge with Leap Wireless.[6] Leap informally rejected the bid less than two weeks later.[7] MetroPCS officially withdrew the bid less than two months later.[8] In December 2007, Cricket acquired Hargray Communications Group's wireless telecommunications business.[9]
+In September 2008, Cricket and MetroPCS entered into a ten-year roaming agreement covering both companies' existing and future markets. The companies also entered into a spectrum exchange agreement covering licenses in certain markets.[10] In November 2008, they launched "Premium Extended Coverage", a roaming partnership with 14 wireless companies.[11] In August 2010, Cricket and Sprint signed a five-year wholesale agreement (MVNO) which allowed Cricket to utilize Sprint's nationwide 3G EVDO network in the United States.
+In late 2010 at CES 2011, Cricket unveiled Muve Music, the carriers own music streaming service alongside the $199 Samsung Suede SCH-r710 which was the first phone to support Muve Music and included a 4GB SD Card to store music on.[12] Muve Music was initially included in its own $55 plan but was later expanded to all plans as a $5 add-on before being included in all plans free-of-charge.[13] The music service was deemed by Cricket as a major success and credited with helping drive up at least 100,000 new subscribers in the course of a few months.[14] Muve Music originally required an SD Card with a capacity of at least 4GBs to download music, the ability to do so without an SD Card was introduced in version 4.0 of Muve Music but required an internal storage capacity of at least 4GBs. Muve Music 4.0 was officially unveiled on the Samsung Galaxy S III, Samsung Galaxy S4 and Samsung Galaxy Discover while the Samsung Galaxy Admire would ship with version 3.5 but was upgradeable to version 4.0.[15] At its peak, the service was the biggest music streaming service in regards to paying customers with a customer base of 2.3 million users and was hinted in making appearances in international markets such as in Brazil.[16] The fate of the service was put in doubt after the acquisition of Crickets parent company, Leap Wireless, by AT&T and was rumored to be merged with AT&Ts own Beats Music service or possibly left as-is. AT&T expressed a lack of interest in maintaining the service and discontinued it in May 2014. AT&T made Muve Music inaccessible to any new phone purchased after the merger but allowed legacy handsets bought before the merger to access the service.[17] The service was acquired by Deezer for $100 million and formally shut down on February 7, 2015. Deezer offered all Cricket customers a discounted $6 plan which was made available on January 31, 2015.[18] Cricket offers a variety of phones including most of the latest iPhone and Android models.
+In July 2013, AT&T agreed to buy Cricket Wireless' parent for $1.2 billion. The FCC approved the acquisition between AT&T and Leap Wireless in March 2014.[19] In doing so, AT&T merged its own Aio Wireless prepaid brand into Cricket to form the "New Cricket".[20] Cricket Wireless began a gradual shutdown of its CDMA network in March 2015 before a total shutdown in September 2015 and moved all users over to AT&Ts GSM network. All users were required to buy new devices in order to be able to maintain connectivity to the new Cricket network.[21] Cricket Wireless, alongside AT&T, shut down its 2G networks on December 31, 2016.[22] Customers with legacy handsets were also required to upgrade their devices to use on newer networks.
+Cricket Wireless deployed its 5G network nationwide on August 21, 2020.[23] Shortly afterward, Cricket announced the shutdown of its 3G network starting in February 2022.[24]
+Coverage network[edit]
+Main article: AT&T Mobility  Network
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2020) (Learn how and when to remove this template message)
+Prior to its acquisition by AT&T, Cricket's CDMA network used its home network and roaming agreements with Sprint, among other CDMA carriers. However, Cricket's CDMA network was shut down and the spectrum was reframed for use on AT&T's HSPA+ and LTE networks. Following the acquisition by AT&T, Cricket Wireless released devices that use AT&T's 3G, 4G, and 4G LTE networks.
+Cricket Wireless noted on its old website that CDMA service would be terminated as early as September 2015. Most devices prior to the merger would not be compatible on the GSM network except the iPhone 4s, iPhone 5, iPhone 5c, and iPhone 5s. Compatible iPhone devices would only require a new SIM card.
+Controversies[edit]
+CDMA phones[edit]
+In May 2015, Cricket Wireless was sued for selling CDMA phones that would not work after the merger with AT&T. The lawsuit alleged that Cricket knew at the time of the merger with AT&T that any devices sold would soon need to be replaced because AT&T's network did not support CDMA devices and yet continued to do so. The lawsuit further stated that "AT&T and Cricket had decided to discontinue the CDMA network and require Cricket customers to use AT&T's GSM cellular network" yet continued to sell the devices, and due to Cricket's policy of not unlocking cellphones at that time, "the cellphones became useless and worthless."[25] The court ruled in favor of the plaintiff and Cricket was forced to either unlock the locked cell phones, provide 1 month of free service on the 1GB plan for former customers and waive the activation fee, or provide current customers with one extra gigabyte of data for four months.[26]
+A similar lawsuit was filed by the Attorney General of Maryland in June 2020 for violating the state's consumer protection act.[27]
+STARTTLS stripping attack[edit]
+In October 2014, Cricket Wireless (and its parent company, AT&T) came under scrutiny for intercepting and modifying its customers' email traffic to downgrade and prevent encryption of the conversation and its metadata.[28] An engineer at a digital security and privacy firm, Golden Frog, first noticed the issue in September 2013 via his Aio Wireless connection (later acquired by Cricket).[29] Upon further investigation by the privacy firm in June 2014, Golden Frog determined that Cricket masked the STARTTLS command in email server responses, thereby "putting its customers at serious risk by inhibiting their ability to protect online communications."[29] In October, a Washington Post investigation revealed that "Cricket did not address repeated questions about the issue and did not alert customers, many of whom rely on Cricket as their sole Internet service, that they would not be able to protect their e-mails from prying eyes. AT&T, which absorbed Cricket when it acquired Leap Wireless that spring, did not respond to a request for comment."[28] The EFF also published a technical analysis condemning ISPs like Cricket for tampering with customer internet traffic.[30]
+See also[edit]
+AT&T Mobility, another subsidiary of AT&T
+AT&T Prepaid, AT&T Mobility's prepaid service
+References[edit]
+^ a b c "Cricket Wireless Is Turning 20. Let the Celebrations Begin" (Press release). Atlanta, Georgia: Cricket Wireless. March 11, 2019. Retrieved June 5, 2019.
+^ "Our Team". Cricket Wireless. Retrieved June 4, 2019.
+^ Cricket Wireless (January 30, 2019). "Cricket Wireless Now Serving 10 Million Subscribers" (Press release). Cricket Wireless. Retrieved April 1, 2021.
+^ "Cricket Wireless Now Serving 10 Million Subscribers" (Press release). Atlanta, Georgia: Cricket Wireless. January 30, 2019. Retrieved June 5, 2019.
+^ Sidener, Jonathan. "Something to talk about". San Diego Union Tribune. Retrieved August 18, 2017.
+^ Humer, Caroline (September 4, 2007). "MetroPCS bids $5.3 billion for Leap Wireless". Reuters. Retrieved May 9, 2008.
+^ "Leap Rejects MetroPCS Merger Offer". TheStreet.com. September 16, 2007. Archived from the original on January 8, 2009. Retrieved May 9, 2008.
+^ Dano, Mike (November 1, 2007). "Metro ditches bid for Leap". RCR Wireless News. Archived from the original on November 5, 2007. Retrieved May 9, 2008.
+^ "Leap Wireless   Media Relations   Press Release" (Press release). Phx.corporate-ir.net. Retrieved August 27, 2009.
+^ "Leap Wireless   Media Relations   Press Release" (Press release). Phx.corporate-ir.net. Retrieved August 27, 2009.
+^ "Leap Wireless   Media Relations   Press Release" (Press release). Phx.corporate-ir.net. 2008-11-13. Retrieved 2009-08-27.
+^ Davies, Chris. "Cricket Muve Music $55 plan to offer unlimited music & service". Slashgear. Archived from the original on March 10, 2016. Retrieved April 1, 2021.
+^ Cooper, Daniel. "Cricket now including Muve Music on all new Android smartphone plans". Engadget. Archived from the original on December 3, 2020. Retrieved April 1, 2021.
+^ Kang, Cecilia. "Cricket's Muve music making waves". Washington Post. Archived from the original on May 13, 2015. Retrieved April 1, 2021.
+^ Albanesius, Chole. "Cricket Unveils New Payment Options, Muve Music 4.0". PCMag. Archived from the original on December 3, 2020. Retrieved April 1, 2021.
+^ Goldstein, Phil. "Cricket's Muve Music's fate is up in air following AT&T deal". FierceWireless. Archived from the original on September 11, 2019. Retrieved April 1, 2021.
+^ Dolcourt, Jessica. "New Cricket customers can kiss Muve Music goodbye". CNET. Archived from the original on October 27, 2020. Retrieved April 1, 2021.
+^ Lunden, Ingrid. "AT&T Sells Cricket's Muve Music Service To Deezer For Under $100M In New Partnership". Techcrunch. Archived from the original on February 26, 2021. Retrieved April 1, 2021.
+^ Welch, Chris (March 13, 2014). "FCC approves AT&T's purchase of Leap Wireless, says it's 'in the public interest'". The Verge. Retrieved March 13, 2014.
+^ Kerr, Dara. "AT&T rolls out the 'new' contract-free Cricket". CNET. Archived from the original on November 29, 2020. Retrieved April 1, 2021.
+^ Smith, Jake. "AT&T to begin shutting down Cricket's CDMA network in March, iPhone users won't be affected". iDownloadBlog. Archived from the original on February 26, 2021. Retrieved April 1, 2021.
+^ "AT&T confirms it shut down its 2G network Jan. 1". FierceWireless. 17 January 2017. Retrieved 2020-06-17.
+^ "Cricket Wireless Launches 5G Nationwide Network and Samsung Galaxy S20+ 5G Smartphone". www.prnewswire.com. 2020-08-21. Retrieved 2020-09-05.
+^ "If You're on our 3G Network, Get Ready for Something Better". Cricket Wireless. Retrieved April 3, 2021.
+^ "BOND v. CRICKET COMMUNICATIONS, LLC". Leagle. 2017-10-27.
+^ "BOND v. CRICKET COMMUNICATIONS, LLC". CDMA Lawsuit.
+^ "Maryland Sues Cricket Wireless, AT&T For Selling Phones That Stopped Working A Year Later". Stop the Cap!. 16 June 2020.
+^ a b Scola, Nancy; Soltani, Ashkan (2014-09-28). "Mobile ISP Cricket was thwarting encrypted emails, researchers find". The Washington Post. Retrieved 2018-06-26.
+^ a b "The FCC Must Prevent ISPs From Blocking Encryption". Golden Frog. 2014-11-04. Retrieved 2018-06-26.
+^ Hoffman-Andrews (2014-11-11). "ISPs Removing Their Customers' Email Encryption". Electronic Frontier Foundation.
+External links[edit]
+Official website
+Cricket Newsroom
+Official Instagram site
+vteAT&T
+History
+People
+Alexander Graham Bell
+Gardiner Greene Hubbard
+Board ofdirectors
+Randall L. Stephenson (Chairman, CEO, and President)
+Matthew K. Rose
+Samuel A. Di Piazza, Jr.
+Richard W. Fisher
+Scott T. Ford
+Glenn H. Hutchins
+William E. Kennard
+Michael B. McCallister
+Beth E. Mooney
+Joyce M. Roche
+Cynthia B. Taylor
+Laura D'Andrea Tyson
+Geoffrey Y. Yang
+Communications
+AT&T Mobility
+Cricket Wireless
+AT&T Midwest
+California
+Illinois
+Indiana
+Michigan
+Nevada
+Ohio
+Wisconsin
+AT&T Southeast
+AT&T Southwest
+AT&T Alascom
+AT&T Corporation
+BellSouth Long Distance
+SBC Long Distance
+FirstNet
+AT&T Business Internet
+AT&T Small Business
+AT&T Cybersecurity
+AT&T Labs
+Vyatta
+AT&T Internet
+DirecTV (70%)
+Latin America
+AT&T Mexico
+Unef n
+Sky M xico (41.3%)
+Buildings andfacilitiesCurrent
+Whitacre Tower
+AT&T Building (Detroit)
+AT&T Building (Indianapolis)
+AT&T Building (Kingman, Arizona)
+AT&T Building (Nashville)
+AT&T Building (San Diego)
+AT&T Center (Los Angeles)
+AT&T Center (Milwaukee)
+AT&T Center (St. Louis)
+AT&T City Center
+AT&T Huron Road Building
+AT&T Lenox Park Campus
+AT&T Long Lines Building
+AT&T Switching Center (Manhattan)
+AT&T Switching Center (Los Angeles)
+AT&T Tower (Minneapolis)
+Asia-America Gateway
+Detroit Columbia Central Office Building
+Europe India Gateway
+Project Offices
+Room 641A
+TAT-14
+Former
+AT&T Building (Omaha)
+AT&T Midtown Center
+AT&T Corporate Center
+AT&T Long Distance Building
+AT&T Building (Davenport, Iowa)
+AT&T Building (Denmark, South Carolina)
+ATT Chesterfield
+AT&T at the Movies
+Bell Labs
+Bell Labs Holmdel Complex
+195 Broadway
+550 Madison Avenue
+611 Place
+Barclay Vesey Building
+Michigan Bell and Western Electric Warehouse
+TIAA Bank Center
+Telstar 302
+TAT-1
+TAT-7
+TAT-8
+TAT-9
+Other
+Naming rights and sponsorships
+Venues
+Sponsorships
+ Category
+ Commons
+vtePrepaid wireless providers
+Verizon
+TracFone
+NET10 Wireless
+Straight Talk
+GoSmart Mobile
+SIMPLE Mobile
+Total by Verizon
+Visible by Verizon
+Verizon Prepaid
+AT&T Mobility
+AT&T Prepaid
+Cricket Wireless
+T-Mobile US
+Metro by T-Mobile
+Dish Wireless
+Boost Mobile
+Ting Mobile
+Republic Wireless
+Gen Mobile
+Charter Communications
+Spectrum Mobile
+Comcast Corporation
+Xfinity Mobile
+vteUnited States wireless communications service providersNational
+AT&T Mobility
+Dish Wireless
+T-Mobile US
+Verizon
+Regional
+ATN International (Alaska Communications, Commnet Wireless, Viya)
+C Spire
+Cellcom
+Cellular One
+Claro Puerto Rico
+Docomo Pacific
+GCI
+GTA Teleguam
+Indigo Wireless
+Liberty
+Mobi
+Southern Linc
+United Wireless
+U.S. Cellular
+West Central Wireless
+MVNOs
+List of United States mobile virtual network operators
+vtePrepaid wireless providers
+Verizon
+TracFone
+NET10 Wireless
+Straight Talk
+GoSmart Mobile
+SIMPLE Mobile
+Total by Verizon
+Visible by Verizon
+Verizon Prepaid
+AT&T Mobility
+AT&T Prepaid
+Cricket Wireless
+T-Mobile US
+Metro by T-Mobile
+Dish Wireless
+Boost Mobile
+Ting Mobile
+Republic Wireless
+Gen Mobile
+Charter Communications
+Spectrum Mobile
+Comcast Corporation
+Xfinity Mobile
+Defunct operators
+Advanced Mobile Phone Service
+AirTouch
+Alltel
+AT&T Wireless Services
+Cincinnati Bell
+Dobson Cellular
+Edge Wireless
+Element Mobile
+First Cellular of Southern Illinois
+Houston Cellular
+Midwest Wireless
+NEP Wireless
+Nextel Communications
+Northcoast PCS
+nTelos
+Open Mobile
+Pocket Communications
+Powertel
+PrimeCo
+Revol Wireless
+Rural Cellular
+Shentel
+Sprint Corporation
+SunCom
+Unicel
+Upoc Networks
+Western Wireless Corporation
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Cricket_Wireless&oldid=1148698806"

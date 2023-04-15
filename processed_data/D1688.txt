@@ -1,0 +1,283 @@
+Improved recall when the context of a situation is the same
+In psychology, context-dependent memory is the improved recall of specific episodes or information when the  context present at encoding and retrieval are the same. In a simpler manner, "when events are represented in memory, contextual information is stored along with memory targets; the context can therefore cue memories containing that contextual information".[1] One particularly common example of context-dependence at work occurs when an individual has lost an item (e.g. lost car keys) in an unknown location. Typically, people try to systematically "retrace their steps" to determine all of the possible places where the item might be located. Based on the role that context plays in determining recall, it is not at all surprising that individuals often quite easily discover the lost item upon returning to the correct context. This concept is heavily related to the encoding specificity principle.
+This example best describes the concept of context-dependent forgetting. However, the research literature on context-dependent memory describes a number of different types of contextual information that may affect recall such as environmental context-dependent memory, state-dependent learning, cognitive context-dependent memory and mood-congruent memory.[2] Research has also shown that context-dependence may play an important role in numerous situations, such as memory for studied material, or events that have occurred following the consumption of alcohol or other drugs.
+History[edit]
+Early research[edit]
+Some of the earliest 
+research on this topic was conducted by researchers in the 1930s who analyzed how changes in context affect an individual's memory for nonsense syllables.[3][4] These early studies were unable to demonstrate an effect of context-dependent memory. Such non-significant results encouraged the development of new methods, such as a retroactive interference paradigm, to analyze the effect of context on memory. By the 1950s, this technique was used to demonstrate an effect of contextual information on memory recall.[5] However, the validity of using this particular paradigm has been questioned.[6] Indeed, much of the early literature on this topic failed to provide conclusive evidence of any context-dependent effects on memory.
+By the end of the 1970s, numerous successful demonstrations of a context-dependent effect appear in the literature. As early as 1971, Jensen et al. found evidence that contradicted previous findings by demonstrating a context-dependent effect on memory for nonsense syllables.[7] In a similar timeframe, Endel Tulving and Donald Thompson proposed their highly influential 'encoding specificity principle', which provided the first framework for understanding how contextual information affects memory and recall.[8] In 1975, the question of whether contextual information influences memory recall was famously investigated with the publication of Godden and Baddeley's paper detailing the well-known 'diving study'.[9] A few years prior to the publication of this study, researchers demonstrated that the memory of deep sea divers for events witnessed underwater was reduced after resurfacing.[10] The authors note in their 1975 paper that this incidental result immediately suggested a possible influence of the contextual environment (being underwater) on recall.[9] To test this hypothesis, Godden and Baddeley had divers learn and recall word lists in two separate environments; under water and on dry land. Their results demonstrated that memory for word lists learned under water was better when recall sessions occurred under water as well, and that a congruent effect existed for words learned and recalled on land. In simplified form: changing the context between encoding and retrieval reduced the divers' ability to recall learned words. The publication of this study likely initiated the current synthesis of context-dependent memory as it is studied by psychologists today.[2]
+Theoretical background[edit]
+A number of factors are thought to affect how contextual information interacts with memory recall. For example, a meta-analysis of the literature on environmental context-dependent memory by Smith and Vela[11] has suggested that in cases where contextual information is not particularly salient, context-dependent effects on memory are reduced. Similarly, this meta-analysis suggests that reinstatement of context can be achieved not only by physically returning to the encoding environment, but also by mentally visualizing that environment. This study considered only environmental context-dependence.
+Additionally, other psychological constructs suggest further limits on how context can affect memory. For example, Johnson et al.'s source monitoring framework proposes that the ability of an individual to remember the source of an episode will affect the likelihood of that memory being recalled.[12] Hence, in the case of context-dependent memory, this framework suggests that the effects of context on memory may also be limited by cognitive factors such as the ability of individuals to differentiate between individual contexts.
+Context can refer to internal context, referring to state of mind at the time of memory encoding, or temporal context, which refers to the time when a memory was encoded, in addition to external context, or physical and situational surroundings. All of these types of context are incorporated as values into what are known as context vectors, vector representations of multiple context attributes, used in many theories of recall and recognition memory.
+In summed similarity theory, the use of a memory matrix includes the context as an attribute in a memory vector. Other attributes of a memory make up the remainder of the memory matrix representation of a particular memory item, in an array model for association.[13] Summed Similarity Theory explains that the theoretical memory matrix is searched and the memory representation with the highest summed similarity of all memory vectors to the probe item is selected.[14] Context plays a large role in this search, especially as more recent items in a memory matrix have closer matching contexts.
+The absolute-similarity framework also uses context as an important factor in determining how closely a probe vector and a memory vector match. Contextual drift can be thought of as a random walk, with one unit or step, in a random walk for each item stored in memory. The random walk can be in any direction and is representative of the gradually shifting physical or mental context of encoding. Absolute similarity framework determines whether a probe item is similar enough to a stored memory vector by the use of a threshold. Only those with similarities above threshold, C, are judged to be similar. Context plays a large role in this judgment because of the possibility that a probe item could be matched to a memory vector with a highly similar context rather than the corresponding item itself.
+Context effects do differ when it comes to what sort of task is being performed. According to a study by Godden & Baddeley,[15][16] the effects of context change on memory retrieval are much greater in recall tasks than in recognition tasks. Meaning that a similar context associates with greater recall than recognition.
+Neuroanatomy[edit]
+ The hippocampus is a brain structure shown to be involved in context-dependent memory The prefrontal cortex is thought to play an important role in context-dependent memory
+A number of neuroanatomical structures are thought to play a role in context-dependent memory, These include the hippocampus and prefrontal cortex.[17] For example, functional magnetic resonance imaging (fMRI) has been used to demonstrate elevated activation in the hippocampus when contextual information matches from encoding to retrieval, suggesting that the hippocampus may be important in mediating context-dependent memory processes.[18] Kalisch et al. provide further support for this role by demonstrating that context-dependent extinction memory is correlated with activation in both the hippocampus and ventromedial prefrontal cortex.[19] Similarly, an experiment by Wagner et al. using fMRI demonstrated that activation of the right prefrontal cortex depended on contextual information.[20] The authors of this study suggest that differential activation of the prefrontal cortex occurs because the different contexts require unique attempt processes for retrieval. In other words, depending on the retrieval context, participants used different strategies to recall information. Overall, the patterns of activation in the hippocampus and the prefrontal cortex following changes in contextual information suggest that these brain regions play an important role in context-dependent memory.
+Environmental[edit]
+Environmental context-dependent memory, as defined by Smith, refers to a phenomenon whereby environmental context influences cognitive processing.[21] As mentioned earlier, pioneering work on environmental context-dependent memory was performed by Godden and Baddeley in 1975. Their work looked at the memory recall of deep-sea divers on land and under water. Baddeley's earlier research had indicated that the cold environment underwater could create a strong context dependency in deep sea divers.[2] They conducted an experiment where divers were placed under water or on the beach and listened to a prerecorded list of 36 unrelated, two-and-three syllable words.[9] After listening to the list of words they were tested on their recall of the words either in the same environment they were tested in or in the alternative environment.[2] The results clearly showed that words learned underwater were best recalled underwater, and words learned on land were best recalled on land.[9]
+Environmental reinstatement effect[edit]
+The most commonly researched area of environmental context-dependent memory is the phenomenon of the environmental reinstatement effect. This effect occurs when the reinstatement (i.e. revisiting) of an environmental context acts as a cue for past memories related to that particular environmental context.[21] Commonly, memories recalled in this situation are ones a subject believed they had forgotten, and it is only when an individual revisits this environmental context that they recall these memories. How much this effect occurs varies depending on a number of factors, and may be classified under two types of reinstatement effects: long-term and short-term.
+Long-term reinstatement effects[edit]
+The effects of environmental context-dependent memory are positively correlated with the length of time between initial encoding and retrieval of a memory, such that these effects increase with duration between encoding and retrieval.[2] This correlation may help to explain the "flood" of memories an individual experiences after returning to a previous residence or school following a long period of absence.[2] This common example of long-term reinstatement effects may occur for a number of reasons. For instance, a long duration of residence in a particular location is likely to increase the amount of environmental contextual information that is encoded to memory. When an individual moves to a new location with different contextual information, remembering and recalling information from this new environment may interfere with the old memories and result in "forgetting". However, when returning to the former location, the presence of contextual information "reactivates" these old memories, allowing them to be recalled, even after many years of absence.[21]
+Another example of a long-term reinstatement effect is the revival of wartime memories by veterans and prisoners of war. Upon return to old battlefields, many of these individuals have been known to reconstruct tragic memories of life during wartime.  A similar effect may occur when such individuals watch television war documentaries and broadcasts of battles, an effect attributed to generalization of the contextual cues associated with war.[21] Importantly, due to the trauma associated with some of their experiences, recall of these past memories of war has been reported to lead many veterans to seek mental health care following exposure to this contextual information.[21]
+Short-term reinstatement effects[edit]
+Momentary forgetting, such as forgetting what you wanted to get from the kitchen after getting up from your desk, is frequently experienced in day-to-day life. Usually what was forgotten can be remembered again by returning to the context where the event began.[21] For example, imagine sitting at your desk and deciding you want to get a drink from the kitchen. Once you get to the kitchen, you completely forget what you wanted there. If you return to your desk, you will most likely remember what you wanted from the kitchen.
+There is also evidence to support that our lives and memories may be compartmentalized by our environmental surroundings. Different environments, such as home, the workplace, a restaurant or a theatre, are associated with different memories and incidentally, different roles.[21] This implies that surroundings cue memories, situations and even personal roles specific to the context a person is in at any given time.
+The outshining hypothesis[edit]
+The outshining hypothesis is the phenomenon by which context effects are absent as a result of a different cue (item cue) suppressing the weaker cue at retrieval. This "outshining" can also occur for item cues by stronger context cues.[22] It is based on the idea that a heavenly body is more difficult to see when it is obscured by a full moon. Similarly, incidental encoding of environmental context-dependent cues can be completely "outshone" when there are better cues available. However, these incidentally encoded environmental cues can be used to prompt memory recall if stronger cues are not present at encoding. A cue may be considered "better" simply because it has been more deeply processed, repeated more often, or has fewer items associated with it.[21] As an example, a study by Steuck and Levy showed that environmental context-dependent memory has a decreased effect in word recall tests if the words are embedded into meaningful text.[21] This is because meaningful texts are stored better in memory and are more deeply processed.
+State-dependent learning[edit]
+Main article: State-dependent learning
+State-dependent learning refers to the finding that people recall more information when their physiological state is the same at encoding and retrieval.[23] For example, people that undergo alcohol intoxication while encoding information recall significantly more when they are also intoxicated during retrieval, compared to those whose alcoholic states differ from encoding to retrieval.[24] This state-dependent learning effect has been shown in both human and animal research.,[24][25] The state-dependent effect has also been generalized to a variety of drugs, including morphine,[25] cigarettes,[26] scopolamine,[23] and nitric oxide.[27]
+It is important to note, however, that certain drug states impair learning. For example, a study done by Harry demonstrated that despite the state-dependent effect associated with light marijuana use, people smoking marijuana showed slower learning than people in a placebo group.[28] More precisely, people who consumed marijuana during both the encoding and retrieval phases managed to learn the material in an average of 10 trials, whereas people who were in the placebo condition for both phases learned the same material in only 5.6 trials, on average.
+State as a contextual cue[edit]
+A tentative explanation for state-dependent recall is the use of the physiological state as a contextual cue.[29] Results of converging studies have shown that in tasks where no contextual cue is provided, internal states may serve as contextual cues. Therefore, people who are in a certain drug state at the time of encoding may utilize this state as a cue for retrieval. In contrast, when information is encoded and retrieved in different states, individuals have no cues available to aid them in recalling information, leading to a decline performance. Eich provides further evidence for this theory, demonstrating that the introduction of additional contextual cues abolishes the state-dependent effect.[29] If a cue such as a sound or an image is provided to remind people of what they encoded, they no longer require the state to prompt retrieval. In this instance, participants perform equally, regardless of the states at encoding and retrieval. According to Eich, the complete absence of any other observable reminders is critical for showing state-dependent cueing effects.
+Cognitive[edit]
+Language of discourse[edit]
+Cognitive context-dependent memory is the improved memory recall for information that is both encoded and retrieved in the same cognitive state.[2] The clearest example of a cognitive context-dependent effect has been demonstrated in studies of proficient bilingual speakers, as it has been hypothesized that different languages provide a different cognitive context. It has been shown that both autobiographical and semantic memories could be better recalled when the same language was used for both encoding and retrieval. In particular, Marian and Neisser studied this effect in Russian immigrants to the United States by looking at autobiographical memory.[30]  For this study, participants were asked to recall specific autobiographical memories in response to word cues. By varying both the language of the interview (either Russian or English) and the language word cues were presented in, it was possible to alter which autobiographical memories were recalled. Importantly, interviewing and word-cueing in Russian biased participants towards recalling memories that had occurred in that language.
+Matsumoto and Stanley found a similar effect for Japanese-American students. In particular, they demonstrated that cues words written in Japanese were more likely than English cue words to induce memories from participants' past experiences in Japan.[31] Other studies have suggested similar results for bilinguals in Spanish and English,[32] and in Polish and Danish.[33] However, these studies used a different experimental design that does not demonstrate a causal effect.  Additionally, Marian and Fausey found an effect of language on recall of semantic information in studies of Spanish-English bilinguals.[34] In particular, they show that accuracy and reaction times are improved for recall of academic information when the language of encoding and retrieval are similar. However, they also suggest that this effect partially depends on participants' language proficiency (i.e., poor English speakers did not show an improvement in scores when English was used for both encoding and retrieval).
+"Motivational state"[edit]
+It has also been suggested that changes in "motivational state" between encoding and retrieval may affect memory recall for events. In a study by Woike et al.[35]  participants were asked to read stories of differing motivational contexts and to recall specific information from these stories. The authors found that recall was biased towards stories containing information that matched participants' own motivational state. Another study by Woike et al. provides a more direct examination of context-dependence by testing the effect of motivational contextual cues on recall of specific word pairs.[36] Specifically, the authors demonstrated that associating word pairs with achievement cues produced a motivational context that increased memory for these word pairs. This study in particular uses neutral motivational cues as a control. These neutral cues did not produce similar improvements in recall for word pairs.
+Mood-congruent and mood-dependent memory[edit]
+One commonly reported phenomenon is that when individuals are in a "bad mood", they typically recall more bad things having happened to them and evaluate episodes in their lives in a more negative way than usual. It has been suggested that this effect occurs because a person's mood at any given time has a strong influence on which aspects of their environment seem most salient. This affects what they remember about the past, and what they encode about the present.[37] This particular effect is referred to as mood-congruent and mood-dependent memory.
+Mood-congruent memory[edit]
+Mood-congruent memory has been demonstrated by the finding that emotional material is remembered more reliably in moods that match the emotional content of these memories.[37] For example, when feeling depressed, it is quite typical for an individual to remember more of the negative events their past than of the positive events. Hence, the mood-congruence memory effect refers to better recall for information contained in experiences that match an individual's current emotional state. This effect has been found to occur for both happy and sad memories. Specifically, happy people will remember more happy than sad information, whereas sad people will better remember sad than happy information.[38] Mood-congruent memory bias has been found for explicit but not implicit memory tasks,[39] which suggests that mood-congruent memory requires an awareness of one's own mood state.[40] There also seems to be a higher occurrence of mood-congruent memory in females, possibly due to a purportedly greater amount of mood awareness.[40]
+Further evidence for the existence of mood-congruent memory comes from studies demonstrating altered memory recall following experimentally-induced changes in mood using drugs.[41] Additionally, mood-congruent memory bias in explicit memory has been found to be specific to information congruent with negative moods rather than to all negative information.[39] Studies of clinical depression have demonstrated congruent findings.[38]
+Mood-dependent memory[edit]
+Mood dependence is the facilitation of memory when mood at retrieval is matched to mood at encoding.[37] Thus, the likelihood of recalling an event is higher when encoding and recall moods match than when they are mismatched.[42] However, it seems that only authentic moods have the power to produce these mood-dependent effects.[43] It has also been found that events that originate through internal mental operations such as reasoning, imagination, and thought are more connected to one's current mood than are those that emanate from external sources. This makes the former less likely than external events to be recalled after a shift in mood state.[44] Importantly, this role of emotional state in memory recall suggests a potential mechanism for enhancing retrieval of past memories.
+Context-dependent forgetting[edit]
+A large body of research has shown that memory performance is reduced when an individual's environment differs from encoding to retrieval than if the two environments were the same. This effect is known as context-dependent forgetting.[45] As a result, a number of techniques have been created for the purpose of reducing context-dependent forgetting associated with environmental cues.
+Context recall technique[edit]
+One strategy for overcoming context-dependent forgetting is the context recall technique. This technique involves consciously generating old environmental cues from memory rather than physically reinstating the cued environment.[46] For example, if an individual learned material in a classroom where the desks were organized in rows, that person could visualize that specific arrangement at a later testing date in a new environment (i.e. with the desks arranged in a circle). In a study conducted by Smith in 1979, participants who used this technique while being tested in a new room were able to recall as many words as participants who were tested in the original learning room.[47] Participants who were tested in a new room that did not use this technique showed typical context-dependent forgetting, recalling only two-thirds of the words recalled by the other groups.[46]  Therefore, the effects of context-dependent forgetting can be reduced by visualization of the learning environment without full reinstatement.[47] However, this technique is only useful and successful when the learning context is easy to remember.[46]
+Multiple learning context technique[edit]
+The multiple-learning-context-technique is another strategy proposed by Smith to combat context-dependent forgetting. This technique involves presenting subsets of the learning material in multiple contexts rather than presenting them all in the same environment.[46] When given a free recall test in a new room, participants who studied in multiple rooms recalled more words than participants who only studied in one room.[46] Smith suggests that when individuals have additional environmental cues their performance will be sustained because it will be less likely that all of the cues will be forgotten.
+Along with the multiple learning context technique, other research has demonstrated that increasing the number of environmental cues will increase an individual's recall performance.[46] The cue-overload theory proposed by Watkins and Watkins in 1975 explains that the effectiveness of an environmental cue will decline when there is an increase in the number of items that it is associated with.[48] Therefore, when given a fixed number of items to recall, performance will increase if the number of cues also increases.[46] This theory focuses on one of the two factors that must be considered when determining the effectiveness of multiple learning environments: the variety of contextual cues. However, research conducted by Jones in 1976 demonstrates that for this technique to be useful, the cues must use different senses.[49] For example, there is no recall advantage when only the number of visual cues is increased. On the other hand, there is a recall advantage when different sensory media such as sight, sound, and smell were added together.[50] Hence, this suggests that using multiple sensory media as sources for cues during encoding will provide an advantage in different testing environments where the number of contextual cues has been reduced.
+Attention[edit]
+The second factor to be considered when determining the effectiveness of multiple learning environments is the likelihood that an individual will even use environmental cues when recalling. Instructing subjects to use self-generated cues (i.e. the context recall technique) will increase recall for participants tested in a different environment. However, individuals do not automatically do this when learning occurs in a single location.[46] Therefore, by moving individuals from room to room, they may pay more attention to the environmental cues. Smith claims that both the context recall technique and the multiple learning context technique work similarly, in that both methods force individuals to pay attention to and remember environmental information.[46]
+In 2003, Chu et al. demonstrated that conscious effort and attention is important to overcome context-dependent forgetting. Their research has shown that active processing of the context during the encoding phase is an important factor of successful performance.[45] When actively attending to environmental cues with the goal of using a technique such as the context recall technique, stronger associations are created between the material and the environment.[45] However, if an individual does not actively attend to environmental cues during the encoding phase, such cues may not be easily visualized in the recall phase if a new context is present.
+Ambient and transferable cues[edit]
+The word ambient is defined as completely surrounding and encompassing. Music is considered an ambient cue in that it is all encompassing and aids in recall when learning context and recall context are different Some researchers have suggested that ambient cues, such as odour and sound, aid in recall when the learning context and recall context are different.[50] In addition, these cues are useful in recall because they can also be transferable. For example, if music is played in a room where material is learned, it is sometimes possible to transfer that musical source to a different room where material will be tested. This phenomenon, which occurs when a memory or emotion is reactivated by a song that is associated to a specific event, demonstrates the effectiveness of sound (and odour) as useful cues in the absence of the original context.[50] Using transferable cues may be useful for individuals who have difficulty using the context recall technique because they have trouble creating a mental image of the original environment. For example, this technique has been proven useful for patients at home who are trying to reproduce skills that they learned in a hospital environment.[50]
+Context-dependent extinction[edit]
+Extinction refers to the loss of performance after a conditioned stimulus is no longer paired with an unconditioned stimulus. It can also refer to the loss of an operant response when it is no longer reinforced.
+Research done by Bouton (2002) has shown that extinction is not an example of unlearning, but a new type of learning where the performance of the individual depends on the context.[51] The renewal effect is seen when a participant is first conditioned in a context (context A) and then shows extinction in another context (B). Returning to context A may renew the conditioned response. This evidence demonstrates that appropriate responses underlying extinction may be linked to contextual information.[51] Hence, someone who is in the context in which they initially learned the material is likely to be cued to act as they were initially conditioned to act. If they are in the extinction context, then that context will likely prompt them not to respond. After the extinction of learned fear, Maren and colleagues have shown that the context-dependence of extinction is mediated by hippocampal and prefrontal cortical neurons projecting to the amygdala.[17][52][53]
+Clinical applications[edit]
+Extinction is often used in a type of clinical therapy called exposure therapy to treat disorders such as phobias and anxiety and is also used to treat drug dependence.[54]  For example, a person who learns to associate snakes with a traumatic event such as being bitten may develop a phobia. As a treatment, a therapist may choose to expose the person to snakes in the absence of any traumatic event, leading to extinction of maladaptive behaviours related to fear. However, due to the fact that extinction is a context-dependent process, it may lead to relapse once the patient is no longer in the extinction context.[54][55] 
+In a study by Crombag and Shaham, rats were taught to self-administer a heroin and cocaine mixture followed by twenty days of extinction. Half of the rats experienced extinction in the same context as the original self-administration and the other half in a new context. The rats that underwent extinction in a new context renewed drug self-administration significantly more than the other rats when they were put back in the original context.[56]
+A similar effect was shown in human exposure therapy for severe fear of spiders. The participants who were treated through extinction and later tested in the same context were significantly less afraid than the participants who were treated and tested in different contexts. This shows the lack of generalizability of one context to another in exposure therapy.[57]
+Hence, it should be taken into consideration that context-dependence of extinction is critical for successful treatments. To acquire stable and effective extinction of phobias, anxiety, or drug-seeking, the context of extinction must be as similar as possible to the day-to-day encounters with emotion-arousing cues that patients may experience.
+Applications[edit]
+ Students are advised to prepare for tests under similar contexts as they expect to be tested in for example, under silent conditions
+According to the literature cited above, information is better recalled when the context matches from encoding to retrieval. Therefore, when a person is studying, they should match the studying context as best as possible to the testing context to optimize the amount of material that will be recalled. This idea was made apparent in a study done by Grant et al.[58] In this study, participants were asked to study meaningful information under either quiet or noisy conditions. Afterwards, they were asked short-answer and multiple choice questions on the previously learned material, which prompted both recognition and recall. Half of them were tested under silent conditions and the other half under noisy conditions. The participants whose noise-level matched during studying and testing conditions remembered significantly more information than those whose noise-level was mismatched. Grant et al. conclude that students should take into consideration the context of testing, such as the noise level, while studying, in order to maximize their performance on both recall and recognition tasks.
+Further, in cases where it is not possible to have similar learning and testing contexts, individuals who pay conscious attention to cues in the learning environment may produce better results when recalling this information. By doing so, individuals are better able to create a mental image of the original context when trying to recall information in the new testing context allowing for improved memory retrieval.[46] Further, several contextual cues should be attended to, using more than one sensory system to maximize the number of cues that can help remember information.[46]
+References[edit]
+^ Gruneberg, Michael M.; Gruneberg, Michael; Morris, Peter Edwin (1994). Theoretical Aspects of Memory. ISBN 9780415069571.
+^ a b c d e f g Baddeley, A., M. W. Eysenck, and M. C. Anderson. 2009. Memory. Psychology Press, New York, NY, US.
+^ Pessin, J. (1932). "The effect of similar and dissimilar conditions upon learning and relearning". J. Exp. Psychol. 15 (4): 427 435. doi:10.1037/h0075537.
+^ Farnsworth, P.R. (1934). "Examinations in familiar and unfamiliar surroundings". J. Soc. Psychol. 5: 128 129. doi:10.1080/00224545.1934.9921593.
+^ Bilodeau, I. M.; Schlosberg, H. (1951). "Similarity in stimulating conditions as a variable in retroactive inhibition". J. Exp. Psychol. 41 (3): 119 204. doi:10.1037/h0056809. PMID 14841330.
+^ Strand, B.Z. (1970). "Change of context and retroactive inhibition". J. Verb. Learn. Verb. Behav. 9 (2): 202 206. doi:10.1016/S0022-5371(70)80051-2.
+^ Jensen, L.C.; Harris, K.; Anderson, D. C. (1971). "Retention following a change in ambient contextual stimuli for six age groups". Dev. Psychol. 4 (3): 394 399. doi:10.1037/h0030957.
+^ Tulving, Endel; Donald Thomson (1973). "Encoding specificity and retrieval processes in episodic memory". Psychological Review. 80 (5): 352 373. doi:10.1037/h0020071.
+^ a b c d Godden, D; Baddeley, A. (1975). "Context dependent memory in two natural environments". British Journal of Psychology. 66 (3): 325 331. doi:10.1111/j.2044-8295.1975.tb01468.x.
+^ Egstrom, G.G., Weltman, G., Baddeley, A.D., Cuccaro, W.J., and Willis, M.A. (1972). Underwater work performance and work tolerance. Report no. 51, Bio-Technology Laboratory, University of California, Los Angeles.
+^ Smith, S.; Vela, E. (2001). "Environmental context-dependent memory: A review and meta-analysis". Psychon. Bull. Rev. 8 (2): 203 220. doi:10.3758/BF03196157. PMID 11495110.
+^ Johnson, M.K.; Hashtroudi, S.; Lindsay, D.S. (1993). "Source Monitoring". Psychological Bulletin. 114 (1): 3 28. doi:10.1037/0033-2909.114.1.3. PMID 8346328.
+^ Estes, W.K. (1986). "Array models for category learning". Cognitive Psychology. 18 (4): 500 549. doi:10.1016/0010-0285(86)90008-3. PMID 3769427. S2CID 10573104.
+^ Steinberg, S. (1966). "High-speed scanning in human memory". Science. 153 (3736): 652 654. Bibcode:1966Sci...153..652S. doi:10.1126/science.153.3736.652. PMID 5939936. S2CID 18013423.
+^ Godden, D.R.; Baddeley, A.D. (1975). "Context-dependent memory in two natural environments: On land and under water". British Journal of Psychology. 66 (3): 325 331. doi:10.1111/j.2044-8295.1975.tb01468.x.
+^ Godden, D.R.; Baddeley, A.D. (1980). "When does context influence recognition memory?". British Journal of Psychology. 71: 99 104. doi:10.1111/j.2044-8295.1980.tb02735.x.
+^ a b Maren, S.; Phan, K. L.; Liberzon, I. (2013). "The contextual brain: Implications for fear conditioning, extinction, and psychopathology". Nature Reviews Neuroscience. 14 (6): 417 428. doi:10.1038/nrn3492. PMC 5072129. PMID 23635870.
+^ Wagner, A.D.; Desmond, J.E.; Glover, G.H.; Gabrieli, J.D.E. (1998). "Prefrontal cortex and recognition memory. Functional-MRI evidence for context-dependent retrieval processes". Brain. 121 (10): 1985 2002. doi:10.1093/brain/121.10.1985. PMID 9798751.
+^ Kalisch R, Korenfeld E, Stephan KE, Weiskopf N, Seymour B, Dolan RJ (2006). "Context-Dependent Human Extinction Memory Is Mediated by a Ventromedial Prefrontal and Hippocampal Network". The Journal of Neuroscience. 26 (37): 9503 9511. doi:10.1523/JNEUROSCI.2021-06.2006. PMC 2634865. PMID 16971534.
+^ Wagner, A.D.; Desmond, J.E.; Glover, G.H.; Gabrieli, J.D.E. (1998). "Prefrontal cortex and recognition memory: Functional-MRI evidence for context-dependent retrieval processes". Brain. 121 (10): 1985 2002. doi:10.1093/brain/121.10.1985. PMID 9798751.
+^ a b c d e f g h i Smith, S.M. (1988) Environmental context-dependent memory. In G. Davies (Ed.), Memory in Context (pp. 13-31). John Wiley & Sons Ltd.
+^ Mahbub, Mashiwat (April 2015). Context Effects in Memory through the Lens of the Outshining Hypothesis (Honors thesis). Wellesley College. S2CID 15684061.
+^ a b Petersen, R. (1979). "Scopolamine State-dependent memory processes in man". Psychopharmacology. 64 (3): 309 314. doi:10.1007/BF00427515. PMID 116273. S2CID 25368581.
+^ a b Goodwin, D.; Powell, B.; Bremer, D.; Hoine, H.; Stern, J. (1969). "Alcohol and recall: state-dependent effects in man". Science. 163 (3873): 1358 1360. Bibcode:1969Sci...163.1358G. doi:10.1126/science.163.3873.1358. PMID 5774177. S2CID 38794062.
+^ a b Nishimura, M; Shiigi, Y; Kaneto, H (1990). "State dependent and/or direct memory retrieval by morphine in mice". Psychopharmacology. 100 (1): 27 30. doi:10.1007/bf02245784. PMID 2296624. S2CID 32815732.
+^ Peters, R.; McGee, R. (1982). "Cigarette smoking and state-dependent memory". Psychopharmacology. 76 (3): 232 235. doi:10.1007/BF00432551. PMID 6808542. S2CID 23369410.
+^ Mewaldt, SP; Ghoneim, MM; Choi, WW; Korttila, K; Peterson, RC (1988). "Nitrous oxide and human state-dependent memory". Pharmacology Biochemistry and Behavior. 30 (1): 83 7. doi:10.1016/0091-3057(88)90428-5. PMID 3174757. S2CID 46426725.
+^ Rickles, W., Cohen, M.J., Whitaker, C.A., & McIntyre, K.E. (1973) Marijuana induced state-dependent verbal learning
+^ a b Eich, J.M. (1980) The cue-dependent nature of state-dependent retrieval. Memory & Cognition, 157-173.
+^ Marian, V.; Neisser, U. (2000). "Language-dependent recall of autobiographical memories". Journal of Experimental Psychology: General. 129 (3): 361 368. doi:10.1037/0096-3445.129.3.361. PMID 11006905.
+^ Matsumoto, A.; Stanny, C. (2006). "Language-dependent access to autobiographical memory in japanese-english bilinguals and US monolinguals". Memory. 14 (3): 378 390. doi:10.1080/09658210500365763. PMID 16574592. S2CID 42411717.
+^ Schrauf, R. W.; Rubin, D. C. (2000). "Internal languages of retrieval: The bilingual encoding of memories for the personal past". Memory and Cognition. 28 (4): 616 623. doi:10.3758/BF03201251. PMID 10946544.
+^ Larsen, S.; Schrauf, R. W.; Fromholt, P.; Rubin, D. C. (2002). "Inner speech and bilingual autobiographical memory: A Polish-Danish cross-cultural study". Memory. 10 (1): 45 54. doi:10.1080/09658210143000218. hdl:10161/10132. PMID 11747575. S2CID 16109197.
+^ Marian, V.; Fausey, C. M. (2006). "Language-dependent memory in bilingual learning". Applied Cognitive Psychology. 20 (8): 1025 1047. doi:10.1002/acp.1242.
+^ Woike, B. A.; Lavezzary, E.; Barsky, J. (2001). "The influence of implicit motives on memory processes". Journal of Personality and Social Psychology. 81 (5): 935 945. doi:10.1037/0022-3514.81.5.935. PMID 11708568.
+^ Woike, B. A.; Bender, M.; Besner, N. (2009). "Implicit motivational states influence memory: Evidence for motive by state-dependent learning in personality". Journal of Research in Personality. 43 (1): 39 48. doi:10.1016/j.jrp.2008.10.009.
+^ a b c Lewis, P. & Critchley, H. (2003). Mood-dependent memory. Trends in Cognitive Sciences.
+^ a b McCormick, D.; -1#Mayer, L. Strong; Strong, S. E. (1995). "Mood-Congruent Memory and Natural Mood: New Evidence". Personality and Social Psychology Bulletin. 21 (7): 736 746. doi:10.1177/0146167295217008. S2CID 145669812.
+^ a b Watkins, P.C.; Vache, K.; Vernay, S.P.; Muller, S.; Mathews, A (1996). "Unconscious mood-congruent memory bias in depression". Journal of Abnormal Psychology. 105 (1): 34 41. doi:10.1037/0021-843X.105.1.34. PMID 8666709.
+^ a b Rothkopf, J.; Blaney, P. (1991). "Mood congruent memory: The role of affective focus and gender". Cognition & Emotion. 5 (1): 53 64. doi:10.1080/02699939108411023.
+^ Klaassen, T; Riedel, WJ; Deutz, NE; Van Praag, HM (2002). "Mood congruent memory bias induced by tryptophan depletion". Psychological Medicine. 32 (1): 167 172. doi:10.1017/s003329170100438x. PMID 11885569. S2CID 11744704.
+^ Eich, E. Macaulay; Ryan, L.; Ryan, L (1994). "Mood dependent memory for events of the personal past". Journal of Experimental Psychology. 123 (2): 201 215. doi:10.1037/0096-3445.123.2.201. PMID 8014613.
+^ Eich, E.; Macaulay, D. (2000). "Are real moods required to reveal mood-congruent and mood dependent memory?". Psychological Science. 11 (3): 244 248. doi:10.1111/1467-9280.00249. PMID 11273411. S2CID 19691809.
+^ Eich, Eric; Metcalfe, Janet (1989). "Mood dependent memory for internal versus external events". Journal of Experimental Psychology: Learning, Memory, and Cognition. 15 (3): 443 455. doi:10.1037/0278-7393.15.3.443.
+^ a b c Chu, S.; Handley, V.; Cooper, S.R. (2003). "Eliminating context-dependent forgetting: changing contexts can be as effective as reinstating them". The Psychological Record. 53 (4): 549 559. doi:10.1007/BF03395452. S2CID 53452596.
+^ a b c d e f g h i j k Smith, S.M. (1984). "A Comparison of two techniques for reducing context-dependent forgetting". Memory & Cognition. 12 (5): 477 482. doi:10.3758/bf03198309. PMID 6521649.
+^ a b Smith, S.M. (1979). "Remembering in and out of context". Journal of Experimental Psychology: Human Learning and Memory. 4 (5): 460 471. doi:10.1037/0278-7393.5.5.460.
+^ Watkins, M.J.; Watkins, O.G. (1976). "Cue-overload theory and the method of interpolated attributes". Bulletin of the Psychonomic Society. 7 (3): 289 291. doi:10.3758/bf03337192.
+^ Jones, G.V. (1979). "Multirate forgetting". Journal of Experimental Psychology: Human Learning and Memory. 5 (2): 98 114. doi:10.1037/0278-7393.5.2.98.
+^ a b c d Parker, A.; Gellatly, A. (1997). "Moveable cues: a practical method for reducing context-dependent forgetting". Applied Cognitive Psychology. 11 (2): 163 173. doi:10.1002/(sici)1099-0720(199704)11:2<163::aid-acp427>3.0.co;2-1.
+^ a b Bouton, M.E. (2002). "Context, ambiguity, and unlearning: sources of relapse after behavioral extinction". Biol. Psychiatry. 52 (10): 976 986. doi:10.1016/S0006-3223(02)01546-9. PMID 12437938. S2CID 12887666.
+^ Knapska, E.; Macias, M.; Mikosz, M.; Nowak, A.; Owczarek, D.; Wawrzyniak, M.; Pieprzyk, M.; Cymerman, I. A..; Werka, T.; Sheng, M.; Maren, S.; Jaworski, J.; Kaczmarek, L. (2013). "Functional anatomy of neural circuits regulating fear and extinction". Proceedings of the National Academy of Sciences. 109 (42): 17093 17098. doi:10.1073/pnas.1202087109. PMC 3479515. PMID 23027931.
+^ Orsini, C. A..; Kim, J. H.; Knapska, E.; Maren, S. (2011). "Hippocampal projections to the basal amygdala mediate contextual regulation of fear after extinction". Journal of Neuroscience. 31 (47): 17269 17277. doi:10.1523/JNEUROSCI.4095-11.2011. PMC 3241946. PMID 22114293.
+^ a b Bouton, M.E. (1988). "Context and ambiguity in the extinction of emotional learning: implications for exposure therapy". Behaviour Research and Therapy. 26 (2): 137 149. doi:10.1016/0005-7967(88)90113-1. PMID 3365204.
+^ Perry, Christina J; Zbukvic, Isabel; Kim, Jee Hyun; Lawrence, Andrew J (2014-10-01). "Role of cues and contexts on drug-seeking behaviour". British Journal of Pharmacology. 171 (20): 4636 4672. doi:10.1111/bph.12735. ISSN 1476-5381. PMC 4209936. PMID 24749941.
+^ Crombag, H.S.; Shaham, Y. (2002). "Renewal of drug seeking by contextual cues after prolonged extinction in rats". Behavioral Neuroscience (Submitted manuscript). 116 (1): 169 173. doi:10.1037/0735-7044.116.1.169. PMID 11895178.
+^ Mineka, S.; Mystkowski, J.L.; Hladek, D.; Rodriguez, B.I. (1999). "The effects of changing contexts on return of fear following exposure therapy for spider fear". Journal of Consulting and Clinical Psychology. 67 (4): 599 604. doi:10.1037/0022-006X.67.4.599. PMID 10450633.
+^ Grant, H.M.; Bredahl, L.C.; Clay, J.; Ferrie, J.; Groves, J.E.; McDorman, T.A.; Dark, V.J. (1998). "Context-dependent memory for meaningful material: Information for students". Applied Cognitive Psychology. 12 (6): 617 623. CiteSeerX 10.1.1.497.6500. doi:10.1002/(sici)1099-0720(1998120)12:6<617::aid-acp542>3.0.co;2-5.
+vteHuman memoryBasic concepts
+Encoding
+Storage
+Recall
+Attention
+Consolidation
+Neuroanatomy
+TypesSensory
+Echoic
+Eidetic
+Eyewitness
+Haptic
+Iconic
+Motor learning
+Visual
+Short-term
+"The Magical Number Seven, Plus or Minus Two"
+Working memory
+Long-term
+Active recall
+Autobiographical
+Explicit
+Declarative
+Episodic
+Semantic
+Flashbulb
+Hyperthymesia
+Implicit
+Meaningful learning
+Personal-event
+Procedural
+Rote learning
+Selective retention
+Tip of the tongue
+Forgetting
+Amnesia
+anterograde
+childhood
+post-traumatic
+psychogenic
+retrograde
+selective
+transient global
+Decay theory
+Forgetting curve
+Interference theory
+Memory inhibition
+Motivated forgetting
+Repressed memory
+Retrieval-induced forgetting
+Weapon focus
+Memory errors
+Confabulation
+Cryptomnesia
+Hindsight bias
+Imagination inflation
+Memory biases
+Memory conformity
+Misattribution of memory
+Misinformation effect
+Source-monitoring error
+False memory
+Deese Roediger McDermott paradigm
+False memory syndrome
+Memory implantation
+Lost in the mall technique
+Recovered-memory therapy
+Research methods
+Exceptional memory
+Indirect tests of memory
+Memory disorder
+In groups
+Collective memory
+Politics of memory
+Cultural memory
+Memory and social interactions
+Memory conformity
+Transactive memory
+Other topics
+Aging
+Art of memory
+chunking
+mnemonic
+Effects of alcohol
+Effects of exercise
+Emotion
+Memory improvement
+Sleep
+Trauma
+In society
+Memory sport
+World Memory Championships
+Shas Pollak
+Related
+Absent-mindedness
+Atkinson Shiffrin memory model
+Context-dependent & state-dependent memory
+Childhood memory
+Exosomatic memory
+Free recall
+Intermediate-term memory
+Involuntary memory
+flashbacks
+Levels of Processing model
+Metamemory
+Muscle memory
+Priming
+intertrial
+Prospective & retrospective memory
+The Seven Sins of Memory
+PeopleResearchers
+Richard C. Atkinson
+Robert A. Bjork
+Stephen J. Ceci
+Susan Clancy
+Hermann Ebbinghaus
+Sigmund Freud
+Patricia Goldman-Rakic
+Ivan Izquierdo
+Marcia K. Johnson
+Eric Kandel
+Elizabeth Loftus
+Geoffrey Loftus
+James McGaugh
+Eleanor Maguire
+George Armitage Miller
+Brenda Milner
+Lynn Nadel
+Henry L. Roediger III
+Daniel Schacter
+Richard Shiffrin
+Arthur P. Shimamura
+Larry Squire
+Susumu Tonegawa
+Anne Treisman
+Endel Tulving
+Robert Stickgold
+Patients
+HM
+KC
+Clive Wearing
+Other
+Jonathan Hancock
+Paul R. McHugh
+Dominic O'Brien
+Ben Pridmore
+Cosmos Rossellius
+Andriy Slyusarchuk
+ Psychology portal
+ Philosophy portal
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Context-dependent_memory&oldid=1085261878"

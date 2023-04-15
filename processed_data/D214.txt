@@ -1,0 +1,582 @@
+American software company
+Salesforce, Inc.Salesforce Tower in San Francisco, the headquarters of Salesforce.Trade nameSalesforceFormerlysalesforce.com, inc.TypePublic companyTraded asNYSE: CRMDJIA componentS&P 100 componentS&P 500 componentIndustryCloud computingEnterprise softwareConsultingFoundedFebruary 3, 1999; 24 years ago (1999-02-03)FoundersMarc BenioffParker HarrisDave MoellenhoffFrank DominguezHeadquartersSalesforce TowerSan Francisco, California, U.S.Key peopleMarc Benioff(Chairman & CEO)ServicesCloud computingRevenue US$31.35 billion (2023)Operating income US$1.03 billion (2023)Net income US$208 million (2023)Total assets US$98.85 billion (2023)Total equity US$58.36 billion (2023)Number of employees79,390 (2023)SubsidiariesQuipHerokuMuleSoftTableau SoftwareAcumen SolutionsSlack TechnologiesWebsitesalesforce.comFootnotes / referencesFinancials as of January 31, 2023[update].[1]
+Salesforce, Inc. is an American cloud-based software company headquartered in San Francisco, California. It provides customer relationship management (CRM) software and applications focused on sales, customer service, marketing automation, e-commerce, analytics, and application development.
+Founded by former Oracle executive Marc Benioff, Salesforce quickly grew into one of the largest companies in the world, making its IPO in 2004. Salesforce's continued growth makes it the first cloud computing company to reach US$1 billion in annual revenue by fiscal year 2009,[2] and the world's largest enterprise software firm by 2022.[3]
+Today, Salesforce is one of the largest technology companies in the world, and as of September 19, 2022, is the 61st largest company in the world by market cap with a value of nearly US$153 billion.[4] Salesforce ranked 136th on the most recent edition of the Fortune 500, making US$26.5 billion in 2022.[5] Since 2020, Salesforce has also been a component of the Dow Jones Industrial Average.[6]
+History[edit]
+ Salesforce's annual Dreamforce convention in 2022
+Salesforce was founded in 1999 by former Oracle executive Marc Benioff, together with Parker Harris, Dave Moellenhoff, and Frank Dominguez as a software as a service (SaaS) company.[7][8] Two of Salesforce's earliest investors were Larry Ellison, the co-founder and first CEO of Oracle, and Halsey Minor, the founder of CNET.[8]
+Salesforce was severely affected by the dot-com bubble bursting at the beginning of the new millennium, with the company laying off 20% of its workforce. Despite its losses, Salesforce continued strong during the early 2000s. Salesforce also gained notability during this period for its "the end of software" tagline and marketing campaign, in which it also hired actors to hold up signs with its slogan outside a Siebel Systems conference.[9] Salesforce's revenue continued to increase from 2000 to 2003, with 2003's revenue skyrocketing from $5.4 million in the fiscal year 2001 to over $100 million by December 2003.[2]
+Also in 2003, Salesforce held its first annual Dreamforce conference in San Francisco.[10] In June 2004, the company had its initial public offering on the New York Stock Exchange under the stock symbol CRM and raised US$110 million.[11][12] In 2006, Salesforce launched IdeaExchange, a platform that allows customers to connect with company product managers.[13]
+In 2009, Salesforce passed $1 billion in annual revenue.[8] Also, in 2009, the company launched Service Cloud, an application that helps companies manage service conversations about their products and services.[14]
+In 2014, the company released Trailhead, a free online learning platform.[15] In October 2014, Salesforce announced the development of its Customer Success Platform.[16] In September 2016, Salesforce announced the launch of Einstein, an artificial intelligence platform that supports several of Salesforce's cloud services.[17][18]
+In 2019, Salesforce joined the Dow Jones Industrial Average, replacing energy giant and Standard Oil-descendant ExxonMobil. Salesforce's ascension to the Dow Jones was concurrent with that of Amgen and Honeywell.[6] Because the Dow Jones factors its components by market price, Salesforce was the largest technology component of the index at its accession.[19]
+Across 2020 and 2021, Salesforce saw some notable leadership changes; in February 2020, co-chief executive officer Keith Block stepped down from his position in the company.[20] Marc Benioff remained as chairman and chief executive officer.[21] In February 2021, Amy Weaver, previously the chief legal officer, became CFO. Former CFO Mark Hawkins announced that he would be retiring in October.[22][23] In November 2021, Bret Taylor was named vice chair and co-CEO of the company.[24]
+In December 2020, it was announced that Salesforce would acquire Slack for $27.7 billion, its largest acquisition to date.[25] The acquisition closed in July 2021.[26] Journalists covering the acquisition emphasized the price Salesforce paid for Slack, which was a 54% premium compared to Slack's market value, as too high of a premium for the company, with views varying from the premium being too concerning for investors to Salesforce playing the long game.[27][28][29]
+In August 2022, Salesforce reported second-quarter earnings of $7.72 billion. Upon the German software firm SAP reporting its earnings for the same quarter totaling  7.52 Billion,[a] Acceleration Economy reported that Salesforce had surpassed SAP to become the world's largest enterprise software vendor. This mirrored Benioff's remarks in Salesforce's earnings call, where he stated he looked at "this quarter very much as kind of a milestone".[3]
+Salesforce announced a partnership with Meta Platforms in September 2022. The deal called that Meta's consumer application WhatsApp would integrate Salesforce's Customer 360 platform to allow consumers to communicate with companies directly.[30]
+In November 2022, Salesforce announced it would terminate employees in its sales organization.[31] Protocol reported that the company would likely eliminate some 2500 jobs.[32]
+In November 2022, Salesforce announced its co-CEO and vice chair, Bret Taylor, would be stepping down from his roles at the end of January 2023, with Benioff continuing to run the company and serve as board chair. Within the week, former Tableau CEO Mark Nelson and former Slack CEO Stewart Butterfield also announced their departures. When asked about the departures, Benioff stated, "people come and people go"; Salesforce's stock dropped to a 52-week low after Nelson's resignation.[33][34][35][36]
+In January 2023, the company announced a layoff of about 10% or approximately 8,000 positions. According to Benioff, the company hired too aggressively during the COVID-19 pandemic and the increase in working from home. The company will also reduce office space as part of the restructuring plan.[37] The same month brought an announcement from activist investor Elliott Management that it would acquire a "big stake" in the company.[38]
+Services[edit]
+Salesforce's products include several customer relationship management (CRM) technologies, including: Sales Cloud,[39] Service Cloud,[40] Marketing Cloud,[41] and Commerce Cloud and Platform.[41] Additional technologies include Slack, MuleSoft, Tableau Analytics, and Trailhead.
+Main services[edit]
+Salesforce's main technologies are tools for customer management. Other products enable customers to create apps, integrate data from other systems, visualize data, and offer training courses.[42]
+Salesforce Platform[edit]
+Salesforce Platform[43] (formerly known as Force.com) is a platform as a service (PaaS) that allows developers to create add-on applications that integrate into the main Salesforce.com application.[44][failed verification] These third-party applications are hosted on Salesforce.com's infrastructure.[45]
+Force.com applications are built using declarative tools, backed by Lightning[further explanation needed] and Apex, a proprietary Java-like programming language for Force.com,[46] as well as Visualforce, a framework[47] including an XML[48] syntax typically used to generate HTML. The Force.com platform typically receives three complete releases a year.[49] As the platform is provided as a service to its developers, every single development instance also receives all these updates.
+In 2015, a new framework for building user interfaces   Lightning Components   was introduced in beta.[50] Lightning components are built using the open-source Aura Framework[51] but with support for Apex as the server-side language instead of Aura's JavaScript dependency.
+As of 2014, the Force.com platform has 1.5 million registered developers.[52]
+Lightning Base Components is the component library built on top of Lightning Web Components.[53]
+AppExchange[edit]
+Launched in 2005, the Salesforce AppExchange is an online application marketplace that connects customers with third-party applications and consulting services.[54][55] As of 2021, the exchange has over 5,000 apps listed.[56][57]
+Trailhead[edit]
+Launched in 2014, Trailhead is a free online learning platform with courses focused on Salesforce technologies.[58][59][15]
+Salesforce+[edit]
+In August 2021, during the COVID-19 pandemic, Salesforce launched a streaming service titled Salesforce+. The service features original content produced by the company involving its clients ranging from "days in the life" of smaller business owners to interviews with large companies' CEOs. Since 2022, Salesforce has also streamed its annual Dreamforce conference on Salesforce+.[60][61]
+Discontinued[edit]
+ Desk.com Logo
+Desk.com[edit]
+Desk.com is a SaaS help desk and customer support product that was acquired by Salesforce for $50 million in 2011.[62] The product focused on connecting small businesses to their customers.[62][63]
+In March 2018, Salesforce announced that Desk.com would be consolidated with other services into Service Cloud Essentials.[64]
+Do.com[edit]
+Do.com was a cloud-based task management system for small groups and businesses, introduced in 2011, and discontinued in 2014.[65][66][67]
+Operations[edit]
+ A discussion panel at Salesforce's Customer Company Tour event that focused on customer relationship management
+Salesforce is headquartered in San Francisco in the Salesforce Tower.[68] Salesforce has 110 offices, including ones in Hong Kong, Israel, London, Paris, Sydney, and Tokyo.[69][70]
+ Salesforce Tower in New York City.
+Standard & Poor's added Salesforce to the S&P 500 Index in September 2008.[71] In August 2020, S&P Dow Jones Indices announced that Salesforce would replace Exxon Mobil in the Dow Jones Industrial Average.[72]
+Culture[edit]
+According to Marc Benioff, Salesforce corporate culture is based on the concept of Ohana.[73]
+In 2021, Cynthia Perry, a design research senior manager, resigned, alleging discrimination in the workplace and posting her resignation letter on LinkedIn.[74][75]
+On September 10, 2021, Benioff tweeted that the company is prepared to help any employee who wishes to move out of the state of Texas, following the abortion in Texas legislation announced on September 1, 2021.[76]
+Finances[edit]
+For the fiscal year 2022, Salesforce reported revenue of US$26.49 billion, an increase of 25% year-over-year and 24% in constant currency.[77] Salesforce ranked 126 on the 2022 Fortune 500 list of the largest United States companies by revenue.[78]
+Year[79]
+RevenueUS$millions
+Net incomeUS$millions
+Total AssetsUS$millions
+Price per ShareUS$
+Employees
+2005
+176
+7
+280
+5.19
+767
+2006
+310
+28
+435
+8.62
+1,304
+2007
+497
+0
+665
+11.69
+2,070
+2008
+749
+18
+1,090
+13.43
+2,606
+2009
+1,077
+43
+1,480
+11.37
+3,566
+2010
+1,306
+81
+2,460
+24.21
+3,969
+2011
+1,657
+64
+3,091
+32.93
+5,306
+2012
+2,267
+ 12
+4,164
+35.73
+7,785
+2013
+3,050
+ 270
+5,529
+45.94
+9,800
+2014
+4,071
+ 232
+9,153
+57.26
+13,300
+2015
+5,374
+ 263
+10,665
+70.66
+16,000
+2016
+6,667
+ 47
+12,763
+74.55
+19,000
+2017
+8,392
+180
+17,585
+90.26
+25,000
+2018
+10,480
+127
+21,010
+132.21
+29,000
+2019
+13,282
+1,110
+30,737
+155.10
+35,000
+2020
+17,098
+126
+55,126
+222.40
+49,000
+2021
+21,252
+4,072
+66,301
+255.33
+56,606
+2022
+26,492
+1,444
+95,209
+132.59
+73,541
+2023
+31,352
+208
+98,849
+79,390
+IT infrastructure[edit]
+In 2008, Salesforce migrated from Sun Fire E25K servers with SPARC processors running Solaris, to Dell servers with Advanced Micro Devices processors, running Linux.[80]
+In 2012, Salesforce announced plans to build a data center in the UK to handle European citizens' personal data.[81] The center opened in 2014.[82]
+In 2013, Salesforce and Oracle announced a nine-year partnership focusing on applications, platforms, and infrastructure.[83]
+In 2016, Salesforce announced that it will use Amazon Web Services hosting for countries with restrictive data residency requirements and where no Salesforce data centers are operating.[84]
+Acquisitions[edit]
+Salesforce has acquired many companies throughout its history.
+2006 2015[edit]
+In 2006, Salesforce acquired Sendia, a mobile web service firm, for $15 million[85] and Kieden, an online advertising company.[86] In 2007, Koral, a content management service, was acquired.[87] In 2008, Salesforce acquired Instranet for $31.5 million.[88] In 2010, Salesforce acquired multiple companies, including Jigsaw, a cloud-based data service provider, for $142 million,[89] Heroku, a Ruby application platform-as-a-service, for $212 million,[90] and Activa Live Chat, a live chat software provider.[91] 
+In 2011, Salesforce acquired Dimdim, a web conferencing platform, for $31 million,[92] Radian6, a social media tracking company, for $340 million,[93] and Rypple, a performance management software company.[94] Rypple became known as Work.com in 2012.[95] In 2012, Salesforce acquired Buddy Media, a social media marketer, for $689 million,[96] and GoInstant, a browser collaboration startup, for $70 million.[97]
+In 2013, Salesforce acquired ExactTarget, an email marketer, for $2.5 billion.[98] In 2014, Salesforce acquired RelateIQ, a data company, for $390 million.[99] In 2015, Salesforce acquired multiple companies for undisclosed sums, including Toopher, a mobile authentication company,[100] Tempo, an AI calendar app,[101] and MinHash, an AI platform.[102] The company also acquired SteelBrick, a software company, for $360 million.[103]
+2016 present[edit]
+In 2016, Salesforce spent over $5 billion in acquisitions.[104] Companies acquired included Demandware, a cloud-based provider of e-commerce services, for $2.8 billion[105] and Quip, a word processing app, for $750 million.[106] In 2017, the company acquired Sequence, a user experience design agency, for an undisclosed amount.[107]  In 2018, Salesforce acquired several companies, including MuleSoft, a cloud service company, for $6.5 billion,[108][109] as well as Rebel, an email services provider,[110] and Datorama, an AI marketing platform, for undisclosed amounts.[111]
+Between 2019 and 2021, Salesforce made two of its largest acquisitions, with Salesforce completing its acquisition Tableau, a data visualization and analytics software company, for $15.7 billion[112] in 2019, and Slack Technologies, the developers of its namesake office messaging platform, for $27.7 billion in 2021.[113] Salesforce also made smaller acquisitions throughout 2019, 2020, and 2021, which included ClickSoftware for $1.35 billion,[114] consulting firm Acumen Solutions for $570 million,[115] CRM firm Vlocity for $1.33 billion,[20] privacy compliance startup Phennecs for $16.5 million,[116] and robotic process automation firm Servicetrace for an undisclosed amount.[117]
+Salesforce's most recent acquisition was Slack-bot maker Troops.ai, announced in May 2022, and expected to close in 2023.[118]
+ Simplified timeline of Salesforce's biggest acquisitions ($750M or greater).
+Criticisms[edit]
+Subject to a phishing attack[edit]
+In November 2007, a phishing attack compromised contact information on a number of Salesforce customers. Some customers then received phishing emails that appeared to be invoices from Salesforce.[119][120] Salesforce stated that "a phisher tricked someone into disclosing a password, but this intrusion did not stem from a security flaw in [the salesforce.com] application or database."[119]
+ Meatpistol  presenters let go at Def Con[edit]
+In 2017, at DEF CON, two security engineers were let go after giving a presentation on an internal project called MEATPISTOL.[121] The presenters were sent a message 30 minutes prior to the presentation telling them not to go on stage, but the message wasn't seen until after they finished.[121][122] The MEATPISTOL tool was anticipated to be released as open-source at the time of the presentation, but Salesforce didn't release the code to developers or the public during the conference.[121] The terminated employees called on the company to open-source the software after being let go.[123]
+RAICES donation refusal[edit]
+The not-for-profit organization Refugee and Immigrant Center for Education and Legal Services (RAICES) rejected a US$250,000 donation from Salesforce because the company has contracts with U.S. Customs and Border Protection.[124]
+2018 taxes[edit]
+In December 2019, the Institute on Taxation and Economic Policy found that Salesforce was one of 91 companies who "paid an effective federal tax rate of 0% or less" in 2018, as a result of the Tax Cuts and Jobs Act of 2017. Their findings were published in a report based on the 379 Fortune 500 companies that declared a profit in 2018.[125]
+Lawsuit[edit]
+In March 2019, Salesforce faced a lawsuit by 50 anonymous women claiming to be victims and survivors of sex trafficking, abuse, and rape. The suit alleges that the company profited from and helped build technology that facilitated sex trafficking on Backpage.com, a now defunct website.[126] In March 2021, a judge granted partial dismissal of the case, dismissing charges of negligence and conspiracy, but allowed the case to proceed regarding charges of sex trafficking.[127]
+Disability discrimination lawsuit in Japan[edit]
+This section needs to be updated. Please help update this article to reflect recent events or newly available information. (March 2023)
+In July 2021, Salesforce Japan faced a discrimination lawsuit from a former employee, according to Japanese legal media,[128] at a time when the firm has been publicly challenged about its commitment to equality[citation needed]. The firm declined to comment on the suit to the media. The ex-employee, who has Autism Spectrum Disorder and ADHD, claimed she was discriminated against because of her disability and terminated in the firm s Japan web marketing team.
+The suit alleged that the anonymous woman, as an employee at Salesforce Japan from 2018 to 2020, faced hate speech, microaggressions and rejection of reasonable accommodation from the manager. She alleged that her attempts to resolve the problem were met with pressure from HR and job coach. The lawsuit started on September 15 in Tokyo district court. The 8th trial will open on November 14, 2022.[129][130]
+Employee layoffs/Matthew McConaughey s salary[edit]
+In January 2023, Salesforce reported that 8,000 employees had been laid off as a result of over-hiring during the Covid lockdown and a global economic downturn. In March 2023, the Wall Street Journal reported that actor Matthew McConaughey was paid 10 million dollars yearly for his role as a  creative advisor and TV pitchman . American musician will.i.am was also cited to be on the company s payroll due to his  strong understanding of technology .[131][132]
+Salesforce Ventures[edit]
+In 2009, Salesforce began investing in startups.[133] These investments became Salesforce Ventures, headed by John Somorjai[133][134] In September 2014, SFV set up Salesforce1 Fund, aimed at start-ups creating applications primarily for mobile phones.[135] In December 2018, Salesforce Ventures announced the launch of the Japan Trailblazer Fund, focused on Japanese startups.[136]
+In August 2018, Salesforce Ventures reported investments totaling over $1 billion in 275 companies, including CloudCraze (e-commerce),[137] Figure Eight (artificial intelligence),[138] Forter (online fraud prevention),[139] and FinancialForce (automation software).[140] In 2019, SFV's five largest investments Domo (data-visualization software), SurveyMonkey (online survey software), Twilio (cloud-communication), Dropbox (cloud storage), and DocuSign (secure e-signature company) accounted for nearly half of its portfolio.[141] In 2021, Salesforce announced that its investments had resulted in $2.17 billion annual gain.[142]
+See also[edit]
+Salesforce Tower
+Salesforce Tower Indianapolis
+Salesforce Marketing Cloud
+SalesforceIQ
+Slack
+Notes[edit]
+^ In mid-2022, the Euro and the US dollar were at a 1:1 parity
+References[edit]
+^ "salesforce.com, inc. Annual Report for fiscal year ending January 31, 2023 (Form 10-K)". EDGAR. U.S. Securities and Exchange Commission. March 8, 2023. Retrieved March 9, 2023.
+^ a b "The History of Salesforce". Salesforce News. March 19, 2020. Retrieved August 24, 2022.
+^ a b Evans, Bob (August 29, 2022). "Salesforce Leapfrogs SAP as World's Largest Enterprise-Apps Vendor". Acceleration Economy. Retrieved August 31, 2022.
+^ "Companies ranked by Market Cap - CompaniesMarketCap.com". companiesmarketcap.com. Retrieved August 24, 2022.
+^ "Salesforce | 2022 Fortune 500". Fortune. Retrieved August 24, 2022.
+^ a b Volkman, Eric (August 4, 2020). "Salesforce to Join Dow Jones Industrial Average". Nasdaq. Retrieved August 24, 2022.{{cite web}}:  CS1 maint: url-status (link)
+^ Kim, Eugene. "CEO of $50 billion Salesforce shared his epic founding story to inspire a small business owner". Business Insider. Retrieved March 16, 2022.
+^ a b c O'Connell, Brian. "History of Salesforce: Timeline and Facts". TheStreet. Retrieved March 16, 2022.
+^ "The Launch of Salesforce.com and the End of Software". PRovoke Media. Retrieved August 24, 2022.
+^ Cowley, Stacy (September 8, 2005). "Year of rapid growth precedes Salesforce.com user show". Computerworld. Retrieved March 16, 2022.
+^ Compton, Jason (June 23, 2004). "Salesforce.com IPO Raises $110 million". Destination CRM.com. Retrieved November 1, 2015.
+^ "Salesforce.com Top I.P.O. of the Year". The New York Times. Reuters. June 23, 2004. ISSN 0362-4331. Retrieved March 16, 2022.
+^ Farber, Dan. "Salesforce.com preps new release and IdeaExchange". ZDNet. Retrieved March 16, 2022.
+^ "Salesforce.com Launches The Service Cloud, A Customer Service SaaS Application". TechCrunch. Retrieved March 16, 2022.
+^ a b Zaveri, Paayal. "4 people share how they used Salesforce's free online learning tool Trailhead to break into the tech industry and land great jobs". Business Insider. Retrieved March 16, 2022.
+^ Hinchcliffe, Dion. "Dreamforce 2014: Converging on cloud, apps, mobile, analytics, and community". ZDNet. Retrieved March 16, 2022.
+^ "Salesforce forms research group, launches Einstein A.I. platform that works with Sales Cloud, Marketing Cloud". VentureBeat. September 18, 2016. Retrieved March 16, 2022.
+^ "Salesforce Einstein celebrates its first birthday with several new features". TechCrunch. September 19, 2017. Retrieved March 16, 2022.
+^ Monica, Paul R. La (August 31, 2020). "Apple is no longer king of the Dow. Meet tech's new leader | CNN Business". CNN. Retrieved August 24, 2022.
+^ a b "Salesforce grabs Vlocity for $1.33B, a startup with $1B valuation". TechCrunch. February 26, 2020. Retrieved March 16, 2022.
+^ Staff Reports (February 25, 2020). "Salesforce leader steps down as software company reports 2020 revenue". WISH-TV | Indianapolis News | Indiana Weather | Indiana Traffic. Retrieved February 28, 2020.
+^ Trentmann, Nina (February 1, 2021). "Salesforce CFO Hands Reins to Successor After More Than Six Years at Helm". The Wall Street Journal. ISSN 0099-9660. Retrieved February 6, 2021.
+^ Ovide, Shira (July 1, 2014). "Salesforce.com Names Autodesk Executive as Financial Chief". The Wall Street Journal. ISSN 0099-9660. Retrieved February 6, 2021.
+^ Wells, Aaron Tilley and Georgia (December 18, 2021). "At Twitter and Salesforce, Bret Taylor Steps Into the Limelight". The Wall Street Journal. ISSN 0099-9660. Retrieved March 16, 2022.
+^ "Salesforce is acquiring workplace chat app Slack for $27.7 billion". The verge.com. December 2020. Retrieved December 1, 2020.
+^ Lawler, Richard (July 21, 2021). "Now Salesforce officially owns Slack". The Verge. Retrieved July 22, 2021.
+^ Cohan, Peter. "At 26x Forward Sales, Salesforce Overpays For Slack". Forbes. Retrieved August 23, 2022.
+^ Wilhelm, Alex (December 2, 2020). "Salesforce slumps 8.5% as its post-Slack selloff continues". TechCrunch. Retrieved February 16, 2023.
+^ Vena, Danny (January 28, 2021). "Here's Why This $27.7 Billion Acquisition by Salesforce.com Was Brilliant". The Motley Fool. Retrieved February 16, 2023.
+^ "Meta announces WhatsApp-Salesforce integration to let businesses chat with customers | Seeking Alpha". seekingalpha.com. Retrieved September 20, 2022.
+^ Ford, Brody (November 8, 2022). "Salesforce Cuts Hundreds of Sales Workers on 'Accountability'". Bloomberg. Retrieved November 8, 2022.
+^ Williams, Joe (November 8, 2022). "Salesforce plans for major layoffs". Protocol. Retrieved November 8, 2022.
+^ Duffy, Clare (November 30, 2022). "Salesforce Co-CEO Bret Taylor steps down, leaving Marc Benioff alone at the top". CNN.
+^ "Salesforce CEOs exit with a third departure in a week". The Stack. December 6, 2022. Retrieved December 9, 2022.
+^ Stankiewicz, Kevin. "'People come and people go,' says a defiant Benioff. And we're sticking with the Salesforce CEO despite the smoke". CNBC. Retrieved December 9, 2022.
+^ "Salesforce crashes to 52-week-low as Slack boss Butterfield departs (NYSE:CRM) | Seeking Alpha". seekingalpha.com. Retrieved December 9, 2022.
+^ Simonetti, Isabella; Huang, Kalley (January 4, 2023). "Salesforce to Lay Off 10 Percent of Staff and Cut Office Space". The New York Times. Retrieved January 4, 2023.
+^ Cooper, Lauren Thomas and Laura. "WSJ News Exclusive | Elliott Management Takes Big Stake in Salesforce". WSJ. Retrieved January 23, 2023.
+^ Lager, Marshall (February 10, 2009). "Salesforce.com Expands the Cloud to Sales   CRM Magazine". Destinationcrm.com. Retrieved February 1, 2012.
+^ "Salesforce.com Launches The Service Cloud, A Customer Service SaaS Application". TechCrunch. January 14, 2009. Archived from the original on March 12, 2011. Retrieved February 1, 2012.
+^ a b Gagliordi, Natalie. "Salesforce intros new Marketing, Commerce cloud features as part of Digital 360 update". ZDNet. Retrieved March 16, 2022.
+^ "Everything You Need To Know About Salesforce's Service Cloud 2". businessnewsdaily.com. TechCrunch. September 8, 2009. Retrieved February 23, 2022.
+^ "Force.com". Salesforce.com. Retrieved February 2, 2022.
+^ Knorr, Eric; Gruman, Galen (April 7, 2008). "What Cloud Computing Really Means". The New York Times. IDG. Retrieved January 23, 2015.
+^ "Salesforce.com Unveils Force.com Cloud Computing Architecture". Eweek.com. Archived from the original on September 9, 2012.
+^ "What is Apex? | Apex Developer Guide | Salesforce Developers". Retrieved November 7, 2017.
+^ "What is Visualforce? | Visualforce Developer Guide | Salesforce Developers". Retrieved November 7, 2017.
+^ "Compiling Visualforce Successfully". Salesforce.com.
+^ "App Distribution - developer.force.com". developer.salesforce.com. Retrieved November 7, 2017.
+^ "Salesforce Spring15 Release Notes". Salesforce.com. Retrieved January 26, 2015.
+^ "Lightning Developer Guide: Open Source Aura Framework". Salesforce.com. Retrieved January 26, 2015.
+^ "The History of Salesforce". Salesforce. March 19, 2020. Archived from the original on December 21, 2021.
+^ "#DF19 Developer Keynote Highlights". Salesforce Developers Blog. November 20, 2019. Retrieved December 5, 2019.
+^ "Salesforce AppExchange Revolutionized Software Distribution When It Launched Ten Years Ago Today". TechCrunch. January 14, 2016. Retrieved March 16, 2022.
+^ Adams, R. Dallon (July 14, 2021). "Salesforce launches Trusted Reviews and Chat to enhance AppExchange". TechRepublic. Retrieved March 16, 2022.
+^ "Zaghop relaunches with Salesforce focus, after Bridge Connector shutters operations". www.bizjournals.com. Retrieved March 16, 2022.
+^ Finley, Klint. "Salesforce Gives Every Company Its Very Own App Store". Wired. ISSN 1059-1028. Retrieved March 16, 2022.
+^ Chan, Rosalie. "Salesforce will sell its employee training tools to other companies so they can be more like Salesforce". Business Insider. Retrieved March 16, 2022.
+^ "Salesforce Extends myTrailhead Online Learning Platform Globally". PCMAG. Retrieved March 16, 2022.
+^ "Announcing Salesforce+, a New Streaming Service for Live Experiences and Original Content Series". Salesforce News. August 10, 2021. Retrieved October 6, 2022.
+^ Leary, Brent (September 20, 2022). "Colin Fleming of Salesforce says Salesforce+ Will Make Dreamforce a Transformational Experience Compared to Previous Years". Small Business Trends. Retrieved October 6, 2022.
+^ a b "Salesforce Buys Customer Service SaaS Assistly For $50M To Reach Small Businesses". Techcrunch. September 21, 2011. Retrieved September 21, 2011.
+^ "Salesforce sweetens the deal for growing SMBs with new Desk.com edition". PC World. Retrieved January 7, 2015.
+^ Dignan, Larry. "Salesforce bulks up Essentials SMB efforts with Service Cloud Essentials, to sunset IQ CRM, Desk.com". ZDNet. Retrieved March 16, 2022.
+^ Salesforce debuts Do.com, a smart social productivity app for small teams, VentureBeat News
+^ Protalinski, Emil (October 25, 2013). "Salesforce to Shut Down Social Productivity App Do.com on January 31". The Next Web.
+^ Salesforce to shut down Do.com task management service Archived January 16, 2015, at the Wayback Machine, CiteWorld
+^ Robinson, Melia. "Salesforce moved into a new $1 billion skyscraper in San Francisco, and the offices are unlike anything we've seen". Business Insider. Retrieved March 16, 2022.
+^ Kathryn Vasel (May 10, 2021). "Here's what Salesforce has learned as it reopens offices". CNN. Retrieved March 16, 2022.
+^ Levitsky, Allison (March 2, 2022). "Salesforce is opening four new office towers - Protocol". www.protocol.com. Retrieved February 21, 2023.
+^ Martin, Eric (September 9, 2008). "Salesforce.com, Fastenal to Replace Fannie, Freddie in S&P 500". Bloomberg.
+^ Stevens, Pippa (August 24, 2020). "Salesforce, Amgen and Honeywell added to Dow in major shake-up to the average". CNBC. Retrieved February 21, 2023.
+^ Schwantes, Marcel (May 13, 2019). "What Salesforce Does for Its Employees That Makes Other Companies Jealous". Inc.com. Retrieved March 16, 2022.
+^ Murphy, Mark (February 10, 2021). "A Fast Way To Test If Your Company Has Problems With Discrimination In The Workplace". forbes.com. Archived from the original on May 24, 2021.
+^ "Ex-Salesforce manager alleges microaggressions and inequity". TechCrunch. February 9, 2021. Retrieved March 16, 2022.
+^ De Chant, Tim (September 13, 2021). "Texas abortion ban prompts Salesforce to help employees, families "exit" state". Ars Technica.
+^ Condon, Stephanie (March 1, 2022). "Salesforce posts record Q4 results with $1B in sales from the "Data" business". ZDNET. Retrieved February 21, 2023.
+^ "Salesforce | Company Information". Fortune 500. February 1, 2022. Retrieved February 21, 2023.
+^ "Salesforce, Inc Financial Statements 2005-2020 | CRM". www.macrotrends.net. Retrieved December 29, 2020.
+^ "Salesforce.com pulls plug on Sun's flagship Unix servers". The Register.
+^ Meyer, David (May 2, 2013). "Salesforce finally solidifies European data center plans". Gigaom.com.
+^ Osborne, Charlie. "Salesforce opens first European data centre in the UK". ZDNet. Retrieved March 16, 2022.
+^ "Why Oracle And Salesforce, Once Bitter Rivals, Are Now On Cloud Nine". TechCrunch. June 29, 2013. Retrieved March 16, 2022.
+^ "Salesforce Inks Huge Deal With This Cloud Provider". Fortune. Retrieved March 16, 2022.
+^ Vara, Vauhini (April 11, 2006). "Salesforce.com to Buy Sendia". The Wall Street Journal. ISSN 0099-9660. Retrieved March 16, 2022.
+^ "Salesforce.com Acquires Kieden". The Wall Street Journal. August 22, 2006. ISSN 0099-9660. Retrieved March 16, 2022.
+^ Farber, Dan. "Salesforce.com snags Koral's Web 2.0 content management service". ZDNet. Retrieved March 16, 2022.
+^ Elahi, Amina. "These are all the Chicago companies Salesforce has acquired". chicagotribune.com. Retrieved March 16, 2022.
+^ "Salesforce.com acquires Jigsaw for $142 million". ZDNet. April 21, 2010. Archived from the original on January 6, 2012. Retrieved February 1, 2012.
+^ "Salesforce.com Buys Heroku For $212 million In Cash". TechCrunch. December 8, 2010.
+^ "Salesforce Buys Enterprise Chat Startup Activa Live". TechCrunch. September 24, 2010. Retrieved February 1, 2012.
+^ "Salesforce Buys Web Conferencing Platform DimDim For $31 Million In Cash". TechCrunch. January 6, 2011. Retrieved March 16, 2022.
+^ "Salesforce.com Buys Manymoon". All Things Digital. Retrieved January 20, 2011.
+^ "Salesforce Buys Social Performance Platform Rypple; Will Launch 'Human Capital Management' Unit Successforce". TechCrunch. December 15, 2011. Retrieved March 16, 2022.
+^ "Salesforce Debuts Rypple-Powered Work.com To Help Companies Manage Talent, Partners With Facebook". TechCrunch. Retrieved March 16, 2022.
+^ "Salesforce Lines Up Against Oracle On Social Push; Buys Buddy Media For $689M". TechCrunch. June 4, 2012. Retrieved June 27, 2013.
+^ "Salesforce.com Reported To Buy GoInstant For $70 Million". TechCrunch. July 9, 2012. Retrieved June 27, 2013.
+^ "With ExactTarget Acquisition, Salesforce.com Has Spent Close To $3.5 Billion To Get Into The Chief Marketing Officer's Suite". TechCrunch. Retrieved March 16, 2022.
+^ "Salesforce Buys Big Data Startup RelateIQ For Up To $390M". TechCrunch. July 10, 2014.
+^ "Mobile Authentication Startup Toopher Acquired By Salesforce". TechCrunch. April 1, 2015.
+^ "Salesforce Acquires Smart Calendar Startup Tempo, App Will Shut Down On June 30". TechCrunch. May 29, 2015.
+^ "Salesforce Has Acquired MinHash, Creators Of The AILA Virtual Marketing Assistant". TechCrunch. December 14, 2015.
+^ "Salesforce buys quote-to-cash company SteelBrick for $360 million". VentureBeat. December 23, 2015. Retrieved March 16, 2022.
+^ Kim, Eugene. "Salesforce just bought a startup called Twin Prime, adding to its $5 billion buying binge". Business Insider. Retrieved March 16, 2022.
+^ "Salesforce buys Demandware for $2.8B, taking a big step into e-commerce". TechCrunch. June 2016. Retrieved March 16, 2022.
+^ "Salesforce buys word processing app Quip for $750M". TechCrunch. August 1, 2016.
+^ "Salesforce acquires Sequence to build out its UX design services". TechCrunch. Retrieved February 1, 2017.
+^ "Salesforce is buying MuleSoft". Business Insider. March 20, 2018. Retrieved March 20, 2018.
+^ "Salesforce buys MuleSoft in a deal worth 6.5 billion". Fortune. Retrieved March 20, 2018.
+^ "Salesforce acquires Rebel, maker of 'interactive' email services, to expand its Marketing Cloud". TechCrunch. October 5, 2018. Retrieved March 16, 2022.
+^ "Salesforce agrees to acquire Datorama". Reuters. July 16, 2018. Retrieved March 16, 2022.
+^ "Salesforce closes $15.7B Tableau deal". TechCrunch. August 2019. Retrieved March 16, 2022.
+^ "Salesforce completes $27.7B Slack acquisition". VentureBeat. July 21, 2021. Retrieved March 16, 2022.
+^ "Salesforce is acquiring ClickSoftware for $1.35B". techcrunch.com. August 8, 2019.
+^ Lin, Belle. "A senior Salesforce exec explains how its under-the-radar purchase of Acumen Solutions will help it win more government IT deals under the Biden administration". Business Insider. Retrieved March 16, 2022.
+^ "Salesforce, Inc. acquired Phennecs for $16.4 million. | MarketScreener". www.marketscreener.com. Retrieved August 23, 2022.
+^ "Salesforce steps into RPA buying Servicetrace and teaming it with MuleSoft". TechCrunch. August 2, 2021. Retrieved March 16, 2022.
+^ Trueman, Charlotte (May 11, 2022). "Salesforce acquires Slack-bot maker Troops.ai". Computerworld. Retrieved May 12, 2022.
+^ a b Berlind, David. "Phishing-based breach of salesforce.com customer data is more evidence of industry's need to act on spam. Now". ZDNet. Retrieved March 16, 2022.
+^ McMillan, Robert (November 6, 2007). "Salesforce.com falls for phishing scam, warns customers". Computerworld. Retrieved March 16, 2022.
+^ a b c "Salesforce sacks two top security engineers for their DEF CON talk". Theregister.co.uk. Retrieved October 9, 2018.
+^ Whittaker, Zack (August 9, 2017). "Salesforce fires red team staffers who gave Defcon talk". Zdnet.com. Retrieved August 9, 2017.
+^ "Security researchers fired after giving talk to hackers". News.sky.com. Retrieved October 9, 2018.
+^ "Aid group Raices rejects $250,000 from Salesforce over border agency contract". the Guardian. July 19, 2018. Retrieved March 16, 2022.
+^ Pound, Jesse (December 16, 2019). "These 91 companies paid no federal taxes in 2018". CNBC. Retrieved February 11, 2020.
+^ Natasha Bach (March 27, 2019). "on Backpage.com". Fortune. Retrieved March 31, 2019.
+^ Banks, Gabrielle (March 24, 2021). "Judge says tech giant Salesforce should stand trial for helping Backpage attract pimps and promote sex trafficking". Houston Chronicle. Retrieved March 16, 2022.
+^  IT  2021 7 20 
+^ " " [Report from Plaintiff]. genkoku2021 (in Japanese). Retrieved August 7, 2022.
+^    2021 8 
+^ Thubron, Rob. "Salesforce, which just laid off 8,000 workers, pays 'creative advisor' Matthew McConaughey $10 million per year". Techspot. TechSpot, Inc. Retrieved March 1, 2023.
+^ Dotan, Tom; Bindley, Katherine. "At Marc Benioff's Salesforce, It's One Big Family Until Trouble Hits". Wall Street Journal. Dow Jones & Company, Inc. Retrieved March 1, 2023.
+^ a b Peterson, Becky (August 18, 2018). "Inside Salesforce Ventures  the investment arm behind a $1 billion software ecosystem fueling growth". BusinessInsider.com. Business Insider. Retrieved February 4, 2019.
+^ De La Merced, Michael J. "Salesforce.com to Set Up a Venture Capital Fund". The New York Times. Retrieved September 10, 2014.
+^ "Salesforce.com Launches $100 Million Salesforce1 Fund". TechCrunch. Retrieved March 16, 2022.
+^ "Salesforce doubles down on Japan with dedicated $100M fund". TechCrunch. December 6, 2018. Retrieved March 16, 2022.
+^ Pletz, John (January 5, 2017). "Salesforce software maker CloudCraze lands $20 million". Crain's Chicago Business. Crain Communications. Retrieved February 3, 2019. Salesforce's venture-capital arm also invested in the deal.
+^ "Appen acquires Figure Eight for up to $300M, bringing two data annotation companies together". TechCrunch. March 10, 2019. Retrieved March 16, 2022.
+^ "Forter raises $300M on a $3B valuation to combat e-commerce fraud". TechCrunch. May 25, 2021. Retrieved March 16, 2022.
+^ Darrow, Barb (June 20, 2017). "This Salesforce Ally Is Gearing Up to Take on Microsoft and Oracle". Fortune. Time Inc. Retrieved February 3, 2019.
+^ Peterson, Becky (November 14, 2018). "Salesforce owns $1.2 billion worth of other companies  here are its 5 biggest investments in public companies". BusinessInsider.com. Business Insider. Retrieved February 4, 2019. the company's five largest public investments account for $505 million
+^ Levy, Ari (March 6, 2021). "How Salesforce became Silicon Valley's best late-stage tech investor". CNBC. Retrieved March 16, 2022.
+External links[edit]
+Wikimedia Commons has media related to Salesforce.com.
+Business data for Salesforce, Inc.: GoogleSEC filingsYahoo!
+vteCloud computingAs a service
+Content as a service
+Data as a service
+Desktop as a service
+Function as a service
+Infrastructure as a service
+Integration platform as a service
+Mobile backend as a service
+Network as a service
+Platform as a service
+Security as a service
+Software as a service
+Technologies
+Cloud database
+Cloud storage
+Data centers
+Distributed file system for cloud
+Hardware virtualization
+Internet
+Native cloud application
+Networking
+Security
+Structured storage
+Virtual appliance
+Web APIs
+Virtual private cloud
+Applications
+Box
+Cloud-native processor
+Dropbox
+Google
+Workspace
+Drive
+HP Cloud (closed)
+IBM Cloud
+Microsoft
+Office 365
+OneDrive
+Nextcloud
+Oracle Cloud
+Rackspace
+Salesforce
+Workday
+Zoho
+Platforms
+Alibaba Cloud
+Amazon Web Services
+AppScale
+Box
+Bluemix
+CloudBolt
+Cloud Foundry
+Cloud-native processor
+Cocaine (PaaS)
+Creatio
+Engine Yard
+Helion
+GE Predix
+Google App Engine
+GreenQloud
+Heroku
+IBM Cloud
+Inktank
+Jelastic
+Microsoft Azure
+MindSphere
+Netlify
+Oracle Cloud
+OutSystems
+openQRM
+OpenShift
+PythonAnywhere
+RightScale
+Scalr
+Force.com
+SAP Cloud Platform
+Splunk
+Vercel
+VMware vCloud Air
+WaveMaker
+Infrastructure
+Alibaba Cloud
+Amazon Web Services
+Abiquo Enterprise Edition
+CloudStack
+Citrix Cloud
+Deft
+DigitalOcean
+EMC Atmos
+Eucalyptus
+Fujitsu
+Google Cloud Platform
+GreenButton
+GreenQloud
+IBM Cloud
+iland
+Joyent
+Linode
+Lunacloud
+Microsoft Azure
+Mirantis
+Netlify
+Nimbula
+Nimbus
+OpenIO
+OpenNebula
+OpenStack
+Oracle Cloud
+OrionVM
+Rackspace Cloud
+Safe Swiss Cloud
+Zadara
+libvirt
+libguestfs
+OVirt
+Virtual Machine Manager
+Wakame-vdc
+Vercel
+Virtual Private Cloud OnDemand
+ Category
+ Commons
+vteMajor Internet companiesCompanies with an annual revenue of over US$4 billionInternet 
+Adobe
+Alibaba
+Alphabet
+Google
+Amazon
+Apple
+Baidu
+IAC
+Kakao
+Meituan
+Meta
+Facebook
+Microsoft
+Naver
+NetEase
+Tencent
+Twitter, Inc.
+Twitter
+Yandex
+Cloud computing
+Akamai
+Alibaba Cloud
+AWS
+Apple iCloud
+Google
+IBM
+Microsoft Azure
+Oracle Corporation
+Salesforce
+ServiceNow
+E-commerce
+Amazon.com
+Apple
+Booking Holdings
+Coupang
+eBay
+Expedia
+Flipkart
+Groupon
+JD.com
+Lazada
+Rakuten
+Shopee
+Shopify
+Suning.com
+Trip.com
+Uber
+Wayfair
+Zalando
+Media
+Bloomberg
+BuzzFeed
+ByteDance
+G/O Media
+Kuaishou
+Netflix
+Paramount Streaming
+Spotify
+Warner Bros. Discovery
+vteComponents of the Dow Jones Industrial Average
+3M
+American Express
+Amgen
+Apple
+Boeing
+Caterpillar
+Chevron
+Cisco
+Coca-Cola
+Disney
+Dow
+Goldman Sachs
+Home Depot
+Honeywell
+IBM
+Intel
+Johnson & Johnson
+JPMorgan Chase
+McDonald's
+Merck
+Microsoft
+Nike
+Procter & Gamble
+Salesforce
+Travelers
+UnitedHealth
+Verizon
+Visa
+Walgreens Boots Alliance
+Walmart
+Authority control International
+VIAF
+WorldCat
+National
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Salesforce&oldid=1147298553"

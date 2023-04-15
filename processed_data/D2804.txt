@@ -1,0 +1,343 @@
+Vertical rate of change of temperature in atmosphere
+ Higher Czarny Staw pod Rysami lake (elevation 1,583 metres (5,194 ft)) is still frozen as the lower Morskie Oko lake has already almost melted (elevation 1,395 metres (4,577 ft). Photo from Polish side of the Tatra mountains, May 2019.
+The lapse rate is the rate at which an atmospheric variable, normally temperature in Earth's atmosphere, falls with altitude.[1][2] Lapse rate arises from the word lapse, in the sense of a gradual fall.  In dry air, the adiabatic lapse rate is 9.8  C/km (5.4  F per 1,000 ft). At Saturated Air Lapse Rate (SALR), where value is 1.1  C/1000ft - 2.8  C/1000ft as obtained from ICAO.
+It corresponds to the vertical component of the spatial gradient of temperature.
+Although this concept is most often applied to the Earth's troposphere, it can be extended to any gravitationally supported parcel of gas.
+Definition[edit]
+A formal definition from the Glossary of Meteorology[3] is:
+The decrease of an atmospheric variable with height, the variable being temperature unless otherwise specified.
+Typically, the lapse rate is the negative of the rate of temperature change with altitude change:
+ 
+=
+ 
+d
+T
+d
+z
+{\displaystyle \Gamma =-{\frac {\mathrm {d} T}{\mathrm {d} z}}}
+where 
+ 
+{\displaystyle \Gamma }
+ (sometimes 
+L
+{\displaystyle L}
+) is the lapse rate given in units of temperature divided by units of altitude, T is temperature, and z is altitude.[a]
+Convection and adiabatic expansion[edit]
+ Emagram diagram showing variation of dry adiabats (bold lines) and moist adiabats (dash lines) according to pressure and temperature
+The temperature profile of the atmosphere is a result of an interaction between thermal conduction, thermal radiation, and natural convection. Sunlight hits the surface of the earth (land and sea) and heats them. They then heat the air above the surface. If radiation were the only way to transfer energy from the ground to space, the greenhouse effect of gases in the atmosphere would keep the ground at roughly 333 K (60 C; 140 F).[6]
+However, when air is hot, it tends to expand, which lowers its density. Thus, hot air tends to rise and carry internal energy upward. This is the process of convection. Vertical convective motion stops when a parcel of air at a given altitude has the same density as the other air at the same elevation.
+When a parcel of air expands, it pushes on the air around it, doing thermodynamic work. An expansion or contraction of an air parcel without inward or outward heat transfer is an adiabatic process. Air has low thermal conductivity, and the bodies of air involved are very large, so transfer of heat by conduction is negligibly small. Also, in such expansion and contraction, intra-atmospheric radiative heat transfer is relatively slow and so negligible. Since the upward-moving and expanding parcel does work but gains no heat, it loses internal energy so that its temperature decreases.
+The adiabatic process for air has a characteristic temperature-pressure curve, so the process determines the lapse rate. When the air contains little water, this lapse rate is known as the dry adiabatic lapse rate: the rate of temperature decrease is 9.8 C/km (5.4 F per 1,000 ft) (3.0 C/1,000 ft). The reverse occurs for a sinking parcel of air.[7]
+When the lapse rate is less than the adiabatic lapse rate the atmosphere is stable and convection will not occur.[8]
+Only the troposphere (up to approximately 12 kilometres (39,000 ft) of altitude) in the Earth's atmosphere undergoes convection: the stratosphere does not generally convect.[9] However, some exceptionally energetic convection processes, such as volcanic eruption columns and overshooting tops associated with severe supercell thunderstorms, may locally and temporarily inject convection through the tropopause and into the stratosphere.
+Energy transport in the atmosphere is more complex than the interaction between radiation and convection. Thermal conduction, evaporation, condensation, precipitation all influence the temperature profile, as described below.
+Mathematics of the adiabatic lapse rate[edit]
+These calculations use a very simple model of an atmosphere, either dry or moist, within a still vertical column at equilibrium.
+Dry adiabatic lapse rate[edit]
+Thermodynamics defines an adiabatic process as:
+P
+d
+V
+=
+ 
+V
+d
+P
+ 
+{\displaystyle P\mathrm {d} V=-{\frac {V\mathrm {d} P}{\gamma }}}
+the first law of thermodynamics can be written as
+m
+c
+v
+d
+T
+ 
+V
+d
+P
+ 
+=
+0
+{\displaystyle mc_{\text{v}}\mathrm {d} T-{\frac {V\mathrm {d} P}{\gamma }}=0}
+Also, since the density 
+ 
+=
+m
+/
+V
+{\displaystyle \rho =m/V}
+ and 
+ 
+=
+c
+p
+/
+c
+v
+{\displaystyle \gamma =c_{\text{p}}/c_{\text{v}}}
+, we can show that:
+ 
+c
+p
+d
+T
+ 
+d
+P
+=
+0
+{\displaystyle \rho c_{\text{p}}\mathrm {d} T-\mathrm {d} P=0}
+where 
+c
+p
+{\displaystyle c_{\text{p}}}
+ is the specific heat at constant pressure.
+Assuming an atmosphere in hydrostatic equilibrium:[10]
+d
+P
+=
+ 
+ 
+g
+d
+z
+{\displaystyle \mathrm {d} P=-\rho g\mathrm {d} z}
+where g is the standard gravity. Combining these two equations to eliminate the pressure, one arrives at the result for the dry adiabatic lapse rate (DALR),[11]
+ 
+d
+=
+ 
+d
+T
+d
+z
+=
+g
+c
+p
+=
+9.8
+ 
+ 
+C
+/
+km
+{\displaystyle \Gamma _{\text{d}}=-{\frac {\mathrm {d} T}{\mathrm {d} z}}={\frac {g}{c_{\text{p}}}}=9.8\ ^{\circ }{\text{C}}/{\text{km}}}
+Moist adiabatic lapse rate[edit]
+The presence of water within the atmosphere (usually the troposphere) complicates the process of convection. Water vapor contains latent heat of vaporization. As a parcel of air rises and cools, it eventually becomes saturated; that is, the vapor pressure of water in equilibrium with liquid water has decreased (as temperature has decreased) to the point where it is equal to the actual vapor pressure of water. With further decrease in temperature the water vapor in excess of the equilibrium amount condenses, forming cloud, and releasing heat (latent heat of condensation). Before saturation, the rising air follows the dry adiabatic lapse rate. After saturation, the rising air follows the moist (or wet) adiabatic lapse rate.[12] The release of latent heat is an important source of energy in the development of thunderstorms.
+While the dry adiabatic lapse rate is a constant 9.8 C/km (5.4 F per 1,000 ft, 3 C/1,000 ft), the moist adiabatic lapse rate varies strongly with temperature. A typical value is around 5 C/km, (9 F/km, 2.7 F/1,000 ft, 1.5 C/1,000 ft).[13] The formula for the moist adiabatic lapse rate is given by:[14]
+ 
+w
+=
+g
+(
+1
++
+H
+v
+r
+R
+sd
+T
+)
+(
+c
+pd
++
+H
+v
+2
+r
+R
+sw
+T
+2
+)
+{\displaystyle \Gamma _{\text{w}}=g\,{\frac {\left(1+{\dfrac {H_{\text{v}}\,r}{R_{\text{sd}}\,T}}\right)}{\left(c_{\text{pd}}+{\dfrac {H_{\text{v}}^{2}\,r}{R_{\text{sw}}\,T^{2}}}\right)}}}
+where:
+ 
+w
+{\displaystyle \Gamma _{\text{w}}}
+,
+wet adiabatic lapse rate, K/m
+g
+{\displaystyle g}
+,
+Earth's gravitational acceleration = 9.8076 m/s2
+H
+v
+{\displaystyle H_{v}}
+,
+heat of vaporization of water = 2501000 J/kg
+R
+sd
+{\displaystyle R_{\text{sd}}}
+,
+specific gas constant of dry air = 287 J/kg K
+R
+sw
+{\displaystyle R_{\text{sw}}}
+,
+specific gas constant of water vapour = 461.5 J/kg K
+ 
+=
+R
+sd
+R
+sw
+{\displaystyle \epsilon ={\frac {R_{\text{sd}}}{R_{\text{sw}}}}}
+,
+the dimensionless ratio of the specific gas constant of dry air to the specific gas constant for water vapour = 0.622
+e
+{\displaystyle e}
+,
+the water vapour pressure of the saturated air
+r
+=
+ 
+e
+p
+ 
+e
+{\displaystyle r={\frac {\epsilon e}{p-e}}}
+,
+the mixing ratio of the mass of water vapour to the mass of dry air[15]
+p
+{\displaystyle p}
+,
+the pressure of the saturated air
+T
+{\displaystyle T}
+,
+temperature of the saturated air, K
+c
+pd
+{\displaystyle c_{\text{pd}}}
+,
+the specific heat of dry air at constant pressure, = 1003.5 J/kg K
+Environmental lapse rate[edit]
+The environmental lapse rate (ELR), is the rate of decrease of temperature with altitude in the stationary atmosphere at a given time and location. As an average, the International Civil Aviation Organization (ICAO) defines an international standard atmosphere (ISA) with a temperature lapse rate of 6.50 C/km[16] (3.56 F or 1.98 C/1,000 ft) from sea level to 11 km (36,090 ft or 6.8 mi). From 11 km up to 20 km (65,620 ft or 12.4 mi), the constant temperature is  56.5 C ( 69.7 F), which is the lowest assumed temperature in the ISA. The standard atmosphere contains no moisture. Unlike the idealized ISA, the temperature of the actual atmosphere does not always fall at a uniform rate with height. For example, there can be an inversion layer in which the temperature increases with altitude.
+Effect on weather[edit]
+This section relies largely or entirely on a single source. Relevant discussion may be found on the talk page. Please help improve this article by introducing  citations to additional sources.Find sources: "Lapse rate" news  newspapers  books  scholar  JSTOR (March 2022)
+ The latent heat of vaporization adds energy to clouds and storms.
+The varying environmental lapse rates throughout the Earth's atmosphere are of critical importance in meteorology, particularly within the troposphere. They are used to determine if the parcel of rising air will rise high enough for its water to condense to form clouds, and, having formed clouds, whether the air will continue to rise and form bigger shower clouds, and whether these clouds will get even bigger and form cumulonimbus clouds (thunder clouds).
+As unsaturated air rises, its temperature drops at the dry adiabatic rate.  The dew point also drops (as a result of decreasing air pressure) but much more slowly, typically about 2 C per 1,000 m. If unsaturated air rises far enough, eventually its temperature will reach its dew point, and condensation will begin to form. This altitude is known as the lifting condensation level (LCL) when mechanical lift is present and the convective condensation level (CCL) when mechanical lift is absent, in which case, the parcel must be heated from below to its convective temperature. The cloud base will be somewhere within the layer bounded by these parameters.
+The difference between the dry adiabatic lapse rate and the rate at which the dew point drops is around 4.5 C per 1,000 m. Given a difference in temperature and dew point readings on the ground, one can easily find the LCL by multiplying the difference by 222 m/ C.
+If the environmental lapse rate is less than the moist adiabatic lapse rate, the air is absolutely stable   rising air will cool faster than the surrounding air and lose buoyancy. This often happens in the early morning, when the air near the ground has cooled overnight. Cloud formation in stable air is unlikely.
+If the environmental lapse rate is between the moist and dry adiabatic lapse rates, the air is conditionally unstable   an unsaturated parcel of air does not have sufficient buoyancy to rise to the LCL or CCL, and it is stable to weak vertical displacements in either direction. If the parcel is saturated it is unstable and will rise to the LCL or CCL, and either be halted due to an inversion layer of convective inhibition, or if lifting continues, deep, moist convection (DMC) may ensue, as a parcel rises to the level of free convection (LFC), after which it enters the free convective layer (FCL) and usually rises to the equilibrium level (EL).
+If the environmental lapse rate is larger than the dry adiabatic lapse rate, it has a superadiabatic lapse rate, the air is absolutely unstable   a parcel of air will gain buoyancy as it rises both below and above the lifting condensation level or convective condensation level. This often happens in the afternoon mainly over land masses. In these conditions, the likelihood of cumulus clouds, showers or even thunderstorms is increased.
+Meteorologists use radiosondes to measure the environmental lapse rate and compare it to the predicted adiabatic lapse rate to forecast the likelihood that air will rise. Charts of the environmental lapse rate are known as thermodynamic diagrams, examples of which include Skew-T log-P diagrams and tephigrams. (See also Thermals).
+The difference in moist adiabatic lapse rate and the dry rate is the cause of foehn wind phenomenon (also known as "Chinook winds" in parts of North America). The phenomenon exists because warm moist air rises through orographic lifting up and over the top of a mountain range or large mountain. The temperature decreases with the dry adiabatic lapse rate, until it hits the dew point, where water vapor in the air begins to condense. Above that altitude, the adiabatic lapse rate decreases to the moist adiabatic lapse rate as the air continues to rise. Condensation is also commonly followed by precipitation on the top and windward sides of the mountain. As the air descends on the leeward side, it is warmed by adiabatic compression at the dry adiabatic lapse rate. Thus, the foehn wind at a certain altitude is warmer than the corresponding altitude on the windward side of the mountain range. In addition, because the air has lost much of its original water vapor content, the descending air creates an arid region on the leeward side of the mountain.[17]
+See also[edit]
+Adiabatic process
+Atmospheric thermodynamics
+Fluid dynamics
+Foehn wind
+Lapse rate climate feedback
+Scale height
+Notes[edit]
+^ Note: 
+ 
+{\displaystyle \Gamma }
+ and 
+ 
+{\displaystyle \gamma }
+ are both used in this article but with very distinct meanings.[4][5]
+References[edit]
+^ Jacobson, Mark Zachary (2005). Fundamentals of Atmospheric Modeling (2nd ed.). Cambridge University Press. ISBN 978-0-521-83970-9.
+^ Ahrens, C. Donald (2006). Meteorology Today (8th ed.). Brooks/Cole Publishing. ISBN 978-0-495-01162-0.
+^ Todd S. Glickman (June 2000). Glossary of Meteorology (2nd ed.). American Meteorological Society, Boston. ISBN 978-1-878220-34-9. (Glossary of Meteorology)
+^ Salomons, Erik M. (2001). Computational Atmospheric Acoustics (1st ed.). Kluwer Academic Publishers. ISBN 978-1-4020-0390-5.
+^ Stull, Roland B. (2001). An Introduction to Boundary Layer Meteorology (1st ed.). Kluwer Academic Publishers. ISBN 978-90-277-2769-5.
+^ Richard M. Goody; James C.G. Walker (1972). "Atmospheric Temperatures" (PDF). Atmospheres. Prentice-Hall. p. 60. Archived from the original (PDF) on 2016-06-03.
+^ Danielson, Levin, and Abrams, Meteorology, McGraw Hill, 2003
+^ Richard M. Goody; James C.G. Walker (1972). "Atmospheric Temperatures" (PDF). Atmospheres. Prentice-Hall. p. 63. Archived from the original (PDF) on 2016-06-03.
+^ "The stratosphere: overview". UCAR. Retrieved 2016-05-02.
+^ Landau and Lifshitz, Fluid Mechanics, Pergamon, 1979
+^ Kittel; Kroemer (1980). "6". Thermal Physics. W. H. Freeman. p. 179. ISBN 978-0-7167-1088-2. problem 11
+^ "Dry Adiabatic Lapse Rate". tpub.com. Archived from the original on 2016-06-03. Retrieved 2016-05-02.
+^ Minder, JR; Mote, PW; Lundquist, JD (2010). "Surface temperature lapse rates over complex terrain: Lessons from the Cascade Mountains". J. Geophys. Res. 115 (D14): D14122. Bibcode:2010JGRD..11514122M. doi:10.1029/2009JD013493.
+^ "Saturation adiabatic lapse rate". Glossary. American Meteorological Society.
+^ "Mixing ratio". Glossary. American Meteorological Society.
+^ Manual of the ICAO Standard Atmosphere (extended to 80 kilometres (262 500 feet)) (Third ed.). International Civil Aviation Organization. 1993. ISBN 978-92-9194-004-2. Doc 7488-CD.
+^ Whiteman, C. David (2000). Mountain Meteorology: Fundamentals and Applications. Oxford University Press. ISBN 978-0-19-513271-7.
+Further reading[edit]
+Beychok, Milton R. (2005). Fundamentals Of Stack Gas Dispersion (4th ed.). author-published. ISBN 978-0-9644588-0-2. www.air-dispersion.com
+R. R. Rogers and M. K. Yau (1989). Short Course in Cloud Physics (3rd ed.). Butterworth-Heinemann. ISBN 978-0-7506-3215-7.
+External links[edit]
+Definition, equations and tables of lapse rate from the Planetary Data system.
+National Science Digital Library glossary:
+Lapse Rate
+Environmental lapse rate
+Absolute stable air
+An introduction to lapse rate calculation from first principles from U. Texas
+vteMeteorological data and variablesGeneral
+Adiabatic processes
+Advection
+Buoyancy
+Lapse rate
+Lightning
+Surface solar radiation
+Surface weather analysis
+Visibility
+Vorticity
+Wind
+Wind shear
+Condensation
+Cloud
+Cloud condensation nuclei (CCN)
+Fog
+Convective condensation level (CCL)
+Lifted condensation level (LCL)
+Precipitation
+Water vapor
+Convection
+Convective available potential energy (CAPE)
+Convective inhibition (CIN)
+Convective instability
+Convective momentum transport
+Conditional symmetric instability
+Convective temperature (Tc)
+Equilibrium level (EL)
+Free convective layer (FCL)
+Helicity
+K Index
+Level of free convection (LFC)
+Lifted index (LI)
+Maximum parcel level (MPL)
+Bulk Richardson number (BRN)
+Temperature
+Dew point (Td)
+Dew point depression
+Dry-bulb temperature
+Equivalent temperature (Te)
+Forest fire weather index
+Haines Index
+Heat index
+Humidex
+Humidity
+Relative humidity (RH)
+Mixing ratio
+Potential temperature ( )
+Equivalent potential temperature ( e)
+Sea surface temperature (SST)
+Temperature anomaly
+Thermodynamic temperature
+Vapor pressure
+Virtual temperature
+Wet-bulb temperature
+Wet-bulb globe temperature
+Wet-bulb potential temperature
+Wind chill
+Pressure
+Atmospheric pressure
+Baroclinity
+Barotropicity
+Pressure gradient
+Pressure-gradient force (PGF)
+Velocity
+Maximum potential intensity
+Authority control: National 
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Lapse_rate&oldid=1140857745"

@@ -1,0 +1,150 @@
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article needs to be updated. Please help update this article to reflect recent events or newly available information. (March 2014)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Diagnosis-related group" news  newspapers  books  scholar  JSTOR (May 2012) (Learn how and when to remove this template message)
+ (Learn how and when to remove this template message)
+Diagnosis-related group (DRG) is a system to classify hospital cases into one of originally 467 groups,[1] with the last group (coded as 470 through v24, 999 thereafter) being "Ungroupable". This system of classification was developed as a collaborative project by Robert B Fetter, PhD, of the Yale School of Management, and John D. Thompson, MPH, of the Yale School of Public Health.[2] The system is also referred to as "the DRGs", and its intent was to identify the "products" that a hospital provides.  One example of a "product" is an appendectomy.  The system was developed in anticipation of convincing Congress to use it for reimbursement, to replace "cost based" reimbursement that had been used up to that point.  DRGs are assigned by a "grouper" program based on ICD (International Classification of Diseases) diagnoses, procedures, age, sex, discharge status, and the presence of complications or comorbidities. DRGs have been used in the US since 1982 to determine how much Medicare pays the hospital for each "product", since patients within each category are clinically similar and are expected to use the same level of hospital resources.[3] DRGs may be further grouped into Major Diagnostic Categories (MDCs).  DRGs are also standard practice for establishing reimbursements for other Medicare related reimbursements such as to home healthcare providers.[citation needed]
+Purpose[edit]
+The original objective of diagnosis-related groups (DRG) was to develop a classification system that identified the "products" that the patient received.  Since the introduction of DRGs in the early 1980s, the healthcare industry has evolved and developed an increased demand for a patient classification system that can serve its original objective at a higher level of sophistication and precision.[4]  To meet those evolving needs, the objective of the DRG system had to expand in scope.
+Several different DRG systems have been developed in the United States.  They include:[5]
+Medicare DRG (CMS-DRG & MS-DRG)
+Refined DRGs (R-DRG)
+All Patient DRGs (AP-DRG)
+Severity DRGs (S-DRG)
+All Patient, Severity-Adjusted DRGs (APS-DRG)
+All Patient Refined DRGs (APR-DRG)
+International-Refined DRGs (IR-DRG)
+Other DRG systems have been developed for markets such as Latin America and ASIA, for example:
+AVEDIAN DRG Grouper (LAT-GRC)
+Statistics[edit]
+As of 2003, the top 10 DRGs accounted for almost 30% of acute hospital admissions.[6]: 6 
+In 1991, the top 10 DRGs overall were: normal newborn (vaginal delivery), heart failure, psychoses, Caesarean section, neonate with significant problems, angina pectoris, specific cerebrovascular disorders, pneumonia, and hip/knee replacement. These DRGs comprised nearly 30 percent of all hospital discharges.[7]
+In terms of geographic variation, as of 2011 hospital payments varied across 441 labor markets.[8]
+History[edit]
+The system was created in the early 1970s by Robert Barclay Fetter and John D. Thompson at Yale University with the material support of the former Health Care Financing Administration (HCFA), now called the Centers for Medicare & Medicaid Services (CMS).[2][9]
+DRGs were first implemented in New Jersey, beginning in 1980 at the initiative of NJ Health Commissioner Joanne Finley[6]: 13  with a small number of hospitals partitioned into three groups according to their budget positions   surplus, breakeven, and deficit   prior to the imposition of DRG payment.[10] The New Jersey experiment continued for three years, with additional cadres of hospitals being added to the number of institutions each year until all hospitals in New Jersey were dealing with this prospective payment system.[10]
+DRGs were designed to be homogeneous units of hospital activity to which binding prices could be attached. A central theme in the advocacy of DRGs was that this reimbursement system would, by constraining the hospitals, oblige their administrators to alter the behaviour of the physicians and surgeons comprising their medical staffs. Hospitals were forced to leave the "nearly risk-free world of cost reimbursement"[11] and face the uncertain financial consequences associated with the provision of health care.[12] DRGs were designed to provide practice pattern information that administrators could use to influence individual physician behaviour.[10]
+DRGs were intended to describe all types of patients in an acute hospital setting. DRGs encompassed elderly patients as well as new born, pediatric and adult populations.[13]
+The prospective payment system implemented as DRGs had been designed to limit the share of hospital revenues derived from the Medicare program budget.[10] In 1982 the US Congress passed Tax Equity and Fiscal Responsibility Act with provisions to reform Medicare payment, and in 1983, an amendment was passed to use DRGs for Medicare,[6]: 16  with HCFA (now CMS) maintaining the definitions.
+In 1987, New York state passed legislation instituting DRG-based payments for all non-Medicare patients.  This legislation required that the New York State Department of Health (NYS DOH) evaluate the applicability of Medicare DRGs to a non-Medicare population.  This evaluation concluded that the Medicare DRGs were not adequate for a non-Medicare population.  Based on this evaluation, the NYS DOH entered into an agreement with 3M to research and develop all necessary DRG modifications. The modifications resulted in the initial APDRG, which differed from the Medicare DRG in that it provided support for transplants, high-risk obstetric care, nutritional disorders, and pediatrics along with support for other populations.  One challenge in working with the APDRG groupers is that there is no set of common data/formulas that is shared across all states as there is with CMS.  Each state maintains its own information.[citation needed]
+The history, design, and classification rules of the DRG system, as well as its application to patient discharge data and updating procedures, are presented in the CMS DRG Definitions Manual (Also known as the Medicare DRG Definitions Manual and the Grouper Manual). A new version generally appears every October. The 20.0 version appeared in 2002.[citation needed]
+In 2007, author Rick Mayes described DRGs as:
+...the single most influential postwar innovation in medical financing: Medicare's prospective payment system (PPS). Inexorably rising medical inflation and deep economic deterioration forced policymakers in the late 1970s to pursue radical reform of Medicare to keep the program from insolvency. Congress and the Reagan administration eventually turned to the one alternative reimbursement system that analysts and academics had studied more than any other and had even tested with apparent success in New Jersey: prospective payment with diagnosis-related groups (DRGs). Rather than simply reimbursing hospitals whatever costs they charged to treat Medicare patients, the new model paid hospitals a predetermined, set rate based on the patient's diagnosis. The most significant change in health policy since Medicare and Medicaid's passage in 1965 went virtually unnoticed by the general public. Nevertheless, the change was nothing short of revolutionary. For the first time, the federal government gained the upper hand in its financial relationship with the hospital industry. Medicare's new prospective payment system with DRGs triggered a shift in the balance of political and economic power between the providers of medical care (hospitals and physicians) and those who paid for it - power that providers had successfully accumulated for more than half a century.[14]
+United States state-based usage[edit]
+DRGs were originally developed in New Jersey before the federal adoption for Medicare in 1983.[6]: 16  After the federal adoption, the system was adopted by states, including in Medicaid payment systems, with twenty states using some DRG-based system in 1991; however, these systems may have their own unique adjustments.[6]: 17 
+In 1992, New Jersey repealed the DRG payment system after political controversy.[6]: 21 
+Example calculation[edit]
+Hypothetical patient at Generic Hospital in San Francisco, CA, DRG 482, HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W/O CC/MCC (2001)[15]: 8 
+Description
+Value
+Average length of stay
+3.8[16]
+Large urban labor-related rate
+$2,809.18
+Large urban non-labor-related
+$1,141.85
+Wage index
+1.4193
+Standard Federal Rate: labor * wage index + non-labor rate
+$5,128.92
+DRG relative weight (RW) factor
+1.8128
+Weighted payment: Standard Federal Rate * DRG RW
+$9,297.71
+Disproportionate Share Payment (DSH)
+0.1413
+Indirect medical education (IME)
+0.0744
+Total cost outlier reimbursement
+$0
+Total operating payment: Weighted payment * (1 + IME + DSH)
+$11,303.23
+DRG changes[edit]
+This list is incomplete; you can help by adding missing items.  (April 2014)
+Name
+Version
+Start date
+Notes
+MS-DRG
+25
+October 1, 2007
+Group numbers resequenced, so that for instance "Ungroupable" is no longer 470 but is now 999.[citation needed]  To differentiate it, the newly resequenced DRG are now known as MS-DRG.[citation needed]
+Before the introduction of version 25, many CMS DRG classifications were "paired" to reflect the presence of complications or comorbidities (CCs).  A significant refinement of version 25 was to replace this pairing, in many instances, with a trifurcated design that created a tiered system of the absence of CCs, the presence of CCs, and a higher level of presence of Major CCs.  As a result of this change, the historical list of diagnoses that qualified for membership on the CC list was substantially redefined and replaced with a new standard CC list and a new Major CC list.[citation needed]
+Another planning refinement was not to number the DRGs in strict numerical sequence as compared with the prior versions. In the past, newly created DRG classifications would be added to the end of the list. In version 25, there are gaps within the numbering system that will allow modifications over time, and also allow for new MS-DRGs in the same body system to be located more closely together in the numerical sequence.[citation needed]
+MS-DRG
+26
+October 1, 2008
+One main change: implementation of Hospital Acquired Conditions (HAC).  Certain conditions are no longer considered complications if they were not present on admission (POA), which will cause reduced reimbursement from Medicare for conditions apparently caused by the hospital.[citation needed]
+MS-DRG
+27
+October 1, 2009
+Changes involved are mainly related to Influenza A virus subtype H1N1.[citation needed]
+MS-DRG
+31
+October 1, 2013
+MS-DRG
+32
+October 1, 2014
+MS-DRG
+33
+October 1, 2015
+Convert from ICD-9-CM to ICD-10-CM.[17]
+MS-DRG
+34
+October 1, 2016
+Address ICD-10 replication issues introduced in Grouper 33.[18] As of March 2017 NTIS.gov no longer lists MS-DRG software, and Grouper 34 can now be directly downloaded from CMS.[19] Version 34 was revised twice to address replication issues, making the final release for fiscal year 2017 version 34 R3.
+MS-DRG
+35
+October 1, 2017
+MS-DRGs 984 through 986 deleted and reassigned to 987 through 989.[20] Diagnosis codes relating to swallowing eye drops moved from DRGs 124-125 (Other Disorders of the Eye) to 917-918 (Poisoning and Toxic Effects of Drugs).[21] Grouper 34 issue addressed relating to the 7th character of prosthetic/implant diagnosis codes in the T85.8-series indicating "initial encounter", "subsequent encounter" and "sequel".[22] Numerous other changes.".[23]
+International[edit]
+DRGs and similar systems have expanded internationally; for example, in Europe some countries imported the scheme from US or Australia, and in other cases they were developed independently.[24] In England, a similar set of codes exist called Health Resource Groups.[25]: 199  As of 2018, Asian countries such as South Korea, Japan, and Thailand have limited adoption of DRGs.[26]
+Latin American countries use a DRG system adapted to regionally extended medical classifications and nomenclatures. This DRG system is called AVEDIAN DRG GROUPER (LAT-GRC).
+See also[edit]
+Case mix index
+Diagnosis code
+Medical classification
+Ambulatory Patient Group, similar to DRG but for outpatient care
+Risk of mortality (ROM)
+Severity of illness (SOI)
+Pay for Performance
+References[edit]
+^ Mistichelli, Judith Diagnosis Related Groups (DRGs) and the Prospective Payment System: Forecasting Social Implications
+^ a b Fetter RB, Shin Y, Freeman JL, Averill RF, Thompson JD (1980) Case mix definition by diagnosis related groups. Medical Care 18(2):1 53
+^ Fetter RB, Freeman JL (1986) Diagnosis related groups: product linemanagement within hospitals. Academy of Management Review 11(1):41 54
+^ Baker JJ (2002) Medicare payment system for hospital inpatients: diagnosis related groups. Journal of Health Care Finance 28(3):1 13
+^ "Definitions Manuals". support.3mhis.com.
+^ a b c d e f Kimberly, John; Pouvourville, Gerard de; d'Aunno, Thomas; D'Aunno, Thomas A. (2008-12-18). "Origins of DRGs in the United States: A technical, political and cultural story". The Globalization of Managerial Innovation in Health Care. Cambridge University Press. ISBN 9780521885003.
+^ "Most Frequent Diagnoses and Procedures for DRGs, by Insurance Status". Agency for Health Care Policy and Research. Retrieved 2006-04-22.
+^ Geographic Adjustment in Medicare Payment: Phase I: Improving Accuracy, Second Edition. Committee on Geographic Adjustment Factors in Medicare. National Academies Press (US). 2011-06-01.{{cite book}}:  CS1 maint: others (link)
+^ Bielby, Judy A. (March 2010). "Evolution of DRGs". Journal of Ahima. The American Health Information Management Association. Retrieved 30 August 2016.
+^ a b c d Hsiao, William C.; Sapolsky, Harvey M.; Dunn, Daniel L.; Weiner, Sanford L. (1986-01-01). "Lessons of the New Jersey DRG Payment System". Health Affairs. 5 (2): 32 43. doi:10.1377/hlthaff.5.2.32. ISSN 0278-2715. PMID 3091466.
+^ Eastaugh, S. R. (1999). "Managing risk in a risky world". Journal of Health Care Finance. 25 (3): 10 16. ISSN 1078-6767. PMID 10094052.
+^ Kuntz L, Scholtes S, Vera A (2008) DRG Cost Weight Volatility and Hospital Performance. OR Spectrum 30(2): 331-354
+^ Nancy Bateman (2012). The Business of Nurse Management: A Toolkit for Success. ISBN 9780826155733.
+^ Mayes, Rick (January 2007). "The Origins, Development, and Passage of Medicare's Revolutionary Prospective Payment System" (abstract). Journal of the History of Medicine and Allied Sciences. Oxford University Press. 62 (1): 21 55. doi:10.1093/jhmas/jrj038. ISSN 1468-4373. PMID 16467485. S2CID 11465036. Retrieved 2009-04-06.
+^ "Medicare Hospital Prospective Payment System: How DRG Rates Are Calculated and Updated" (PDF). Office of Inspector General: Office of Evaluation and Inspections. Archived (PDF) from the original on 2019-04-04.
+^ From Details for title: FY 2018 Final Rule, Correction Notice, and Notice Tables Table 5.
+^ Centers for Medicare & Medicaid Services (2015-08-18). "ICD-10 MS-DRG Conversion Project".
+^ Centers for Medicare & Medicaid Services. "Federal Register Vol. 81, No. 162 Monday, August 22, 2016" (PDF).
+^ "March 7, 2017 CMS ICD-10 Coordination and Maintenance Committee Meeting" (PDF).
+^ Centers for Medicare & Medicaid Services. "Federal Register Vol. 82, No. 155 Monday, August 14, 2017" (PDF).
+^ Centers for Medicare & Medicaid Services. "Federal Register Vol. 82, No. 155 Monday, August 14, 2017" (PDF).
+^ Centers for Medicare & Medicaid Services. "Federal Register Vol. 82, No. 155 Monday, August 14, 2017" (PDF).
+^ Centers for Medicare & Medicaid Services. "Federal Register Vol. 82, No. 155 Monday, August 14, 2017" (PDF).
+^ Quentin, Wilm; Tan, Siok Swan; Street, Andrew; Serd n, Lisbeth; O Reilly, Jacqueline; Or, Zeynep; Mateus, C u; Kobel, Conrad; H kkinen, Unto (2013-06-07). "Diagnosis related groups in Europe: moving towards transparency, efficiency, and quality in hospitals?". BMJ. 346: f3197. doi:10.1136/bmj.f3197. ISSN 1756-1833. PMID 23747967. S2CID 78293.
+^ "Diagnosis-related groups in Europe (2011)". www.euro.who.int. 2017-03-18. Archived from the original on July 15, 2017. Retrieved 2019-06-14.
+^ Annear, Peter Leslie; Kwon, Soonman; Lorenzoni, Luca; Duckett, Stephen; Huntington, Dale; Langenbrunner, John C.; Murakami, Yuki; Shon, Changwoo; Xu, Ke (2018-07-01). "Pathways to DRG-based hospital payment systems in Japan, Korea, and Thailand". Health Policy (Amsterdam, Netherlands). 122 (7): 707 713. doi:10.1016/j.healthpol.2018.04.013. ISSN 1872-6054. PMID 29754969. S2CID 21665769.
+External links[edit]
+Official CMS website
+CMS Acute Inpatient Prospective Payment System
+DRG codes for FY2005, also referred to as version 23
+DRG codes for FY2010, also referred to as version 27
+MS-DRG Grouper version 35 (FY2018) Software, PC and Mainframe, supports versions 16-35
+Healthcare Cost and Utilization Project (Search engine can be used to find Definitions Manual)
+Agency for Healthcare Research and Quality (AHRQ).
+DRG definition.
+Most Frequent Diagnoses and Procedures for DRGs Archived 2012-06-19 at the Wayback Machine.
+Medical Billing and Coding Information Guide
+Diagnosis Related Groups (DRGs) and the Medicare Program - Implications for Medical Technology (PDF format). A 1983 document found in the "CyberCemetery: OTA Legacy" section of University of North Texas Libraries Government Documents department.
+Mayes, Rick, "The Origins, Development, and Passage of Medicare's Revolutionary Prospective Payment System" Journal of the History of Medicine and Allied Sciences Volume 62, Number 1, January 2007, pp. 21 55
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Diagnosis-related_group&oldid=1137329362"

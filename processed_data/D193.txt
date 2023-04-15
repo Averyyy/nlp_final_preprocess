@@ -1,0 +1,456 @@
+Time counting system
+"AM and PM" redirects here. For other uses, see AM PM (disambiguation).
+"Ante meridiem" redirects here. For the meridian 180  both east and west of the prime meridian in a geographical coordinate system, see antimeridian.
+The 12-hour clock is a time convention in which the 24 hours of the day are divided into two periods: a.m. (from Latin ante meridiem, translating to "before midday") and p.m. (from Latin post meridiem, translating to "after midday").[1][2] Each period consists of 12 hours numbered: 12 (acting as 0),[3] 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 and 11. The 12-hour clock was developed from the second millennium BC and reached its modern form in the 16th century AD. 
+The 12-hour time convention is common in several English-speaking nations and former British colonies, as well as a few other countries. There is no widely accepted convention for how midday and midnight should be represented: in English-speaking countries, "12 p.m." indicates 12 o'clock noon, while "12 a.m." means 12 o'clock midnight.[4][5][6]
+Clock system
+12-hour
+24-hour
+Midnight (start of day)12 midnight12:00 a.m.[a]
+00:00
+12:01 a.m.
+00:01
+ 1:00 a.m.
+01:00
+11:00 a.m.
+11:00
+11:59 a.m.
+11:59
+Noon12 noon12:00 p.m.[a]
+12:00
+12:01 p.m.
+12:01
+ 1:00 p.m.
+13:00
+11:00 p.m.
+23:00
+11:59 p.m.
+23:59
+Midnight (end of day)or shown as start of next day[a]
+24:00
+^ a b c See:  Confusionat noon and midnight
+History and use[edit]
+ Exeter Cathedral Astronomical Clock, showing the double-XII numbering scheme
+The natural day-and-night division of a calendar day forms the fundamental basis as to why each day is split into two cycles. Originally there were two cycles: one cycle which could be tracked by the position of the Sun (day), followed by one cycle which could be tracked by the Moon and stars (night). This eventually evolved into the two 12-hour periods which are used today, one called "a.m." starting at midnight and another called "p.m." starting at noon. Noon itself is rarely abbreviated today; but if it is, it is denoted "m."[1]
+The 12-hour clock can be traced back as far as Mesopotamia and ancient Egypt.[7] Both an Egyptian sundial for daytime use[8] and an Egyptian water clock for night-time use were found in the tomb of Pharaoh Amenhotep I.[9] Dating to c. 1500 BC, these clocks divided their respective times of use into 12 hours each.
+The Romans also used a 12-hour clock: daylight was divided into 12 equal hours (thus hours having varying length throughout the year) and the night was divided into four watches.[citation needed]
+The first mechanical clocks in the 14th century, if they had dials at all, showed all 24 hours using the 24-hour analog dial, influenced by astronomers' familiarity with the astrolabe and sundial and by their desire to model the Earth's apparent motion around the Sun. In Northern Europe these dials generally used the 12-hour numbering scheme in Roman numerals but showed both a.m. and p.m. periods in sequence. This is known as the double-XII system and can be seen on many surviving clock faces, such as those at Wells and Exeter.
+Elsewhere in Europe, numbering was more likely to be based on the 24-hour system (I to XXIV). The 12-hour clock was used throughout the British empire.
+During the 15th and 16th centuries, the 12-hour analog dial and time system gradually became established as standard throughout Northern Europe for general public use. The 24-hour analog dial was reserved for more specialized applications, such as astronomical clocks and chronometers.
+Most analog clocks and watches today use the 12-hour dial, on which the shorter hour hand rotates once every 12 hours and twice in one day. Some analog clock dials have an inner ring of numbers along with the standard 1-to-12 numbered ring.  The number 12 is paired either with a 00 or a 24, while the numbers 1 through 11 are paired with the numbers 13 through 23, respectively. This modification allows the clock to also be read in 24-hour notation. This kind of 12-hour clock can be found in countries where the 24-hour clock is preferred.
+Use by country[edit]
+Main article: Date and time representation by country
+ Typical analogue 12-hour clock
+ World map showing the usage of 12 or 24-hour clock in different countries 24-hour 24-hour (12-hour orally) Both in common use 12-hour
+In several countries the 12-hour clock is the dominant written and spoken system of time, predominantly in nations that were part of the former British Empire, for example, the United Kingdom, Republic of Ireland, the United States, Canada  (excluding Quebec), Australia, New Zealand, South Africa, India, Pakistan, and Bangladesh, and others follow this convention as well, such as Mexico and the former American colony of the Philippines. In most countries, however, the 24-hour clock is the standard system used, especially in writing. Some nations in Europe and Latin America use a combination of the two, preferring the 12-hour system in colloquial speech but using the 24-hour system in written form and in formal contexts.
+The 12-hour clock in speech often uses phrases such as  ... in the morning, ... in the afternoon, ... in the evening, and ...at night. Rider's British Merlin almanac for 1795 and a similar almanac for 1773 published in London used them.[10] Other than in English-speaking countries and some Spanish-speaking countries, the terms a.m. and p.m. are seldom used and often unknown.
+Computer support[edit]
+In most countries, computers by default show the time in 24-hour notation. Most operating systems, including Microsoft Windows and Unix-like systems such as Linux and macOS, activate the 12-hour notation by default for a limited number of language and region settings. This behaviour can be changed by the user, such as with the Windows operating system's "Region and Language" settings.[11]
+Abbreviations[edit]
+ Typical digital 12-hour alarm clock indicating p.m. with a dot to the left of the hourThe Latin abbreviations a.m. and p.m. (often written "am" and "pm", "AM" and "PM", or "A.M." and "P.M.") are used in English and Spanish.[12] The equivalents in Greek are  . . and  . ., respectively, and in Sinhala  . . (pe.va.) for   (peravaru,   pera   fore, pre) and  . . (pa.va.) for   (pasvaru,   pass    after, post). However, noon is rarely abbreviated in any of these languages, noon normally being written in full. In Portuguese, there are two official options and many others used, for example, using 21:45, 21h45 or 21h45min (official ones) or 21:45 or 9:45 p.m. In Irish, a.m. and i.n. are used, standing for ar maidin ("in the morning") and iarn in ("afternoon") respectively.
+Most other languages lack formal abbreviations for "before noon" and "after noon", and their users use the 12-hour clock only orally and informally.[citation needed] However, in many languages, such as Russian and Hebrew, informal designations are used, such as "9 in the morning" or "3 in the night".
+When abbreviations and phrases are omitted, one may rely on sentence context and societal norms to reduce ambiguity. For example, if one commutes to work at "9:00", 9:00 a.m. may be implied, but if a social dance is scheduled to begin at "9:00", it may begin at 9:00 p.m.
+Related conventions[edit]
+Typography[edit]
+The terms "a.m." and "p.m." are abbreviations of the Latin ante meridiem (before midday) and post meridiem (after midday). Depending on the style guide referenced, the abbreviations "a.m." and "p.m." are variously written in small capitals ("am" and "pm"),[citation needed] uppercase letters without a period ("AM" and "PM"), uppercase letters with periods, or lowercase letters ("am" and "pm" or,[13] "a.m." and "p.m.").[citation needed] With the advent of computer generated and printed schedules, especially airlines, advertising, and television promotions, the "M" character is often omitted as providing no additional information as in "9:30A" or "10:00P".[14]
+Some style guides suggest the use of a space between the number and the a.m. or p.m. abbreviation.[citation needed] Style guides recommend not using a.m. and p.m. without a time preceding it.[15]
+The hour/minute separator varies between countries: some use a colon, others use a period (full stop),[13] and still others use the letter h.[citation needed] (In some usages, particularly "military time", of the 24-hour clock, there is no separator between hours and minutes.[16] This style is not generally seen when the 12-hour clock is used.)
+Encoding[edit]
+Unicode specifies codepoints for "a.m." and "p.m." symbols, which are intended to be used only with Chinese-Japanese-Korean (CJK) character sets, as they take up exactly the same space as one CJK character:
+U+33C2   SQUARE AM
+U+33D8   SQUARE PM
+Informal speech and rounding off[edit]
+In speaking, it is common to round the time to the nearest five minutes and/or express the time as the past (or to) the closest hour; for example, "five past five" (5:05). Minutes past the hour means those minutes are added to the hour; "ten past five" means 5:10. Minutes to, 'til and of the hour mean those minutes are subtracted; "ten of five", "ten 'til five", and "ten to five" all mean 4:50.
+Fifteen minutes is often called a quarter hour, and thirty minutes is often known as a half hour. For example, 5:15 can be phrased "(a) quarter past five" or "five-fifteen"; 5:30 can be "half past five", "five-thirty" or simply "half five". The time 8:45 may be spoken as "eight forty-five" or "(a) quarter to nine".[17]
+In older English, it was common for the number 25 to be expressed as "five-and-twenty".[18]  In this way the time 8:35 may be phrased as "five-and-twenty to 9",[19] although this styling fell out of fashion in the later part of the 1900s and is now rarely used.[20]
+Instead of meaning 5:30, the "half five" expression is sometimes used to mean 4:30, or "half-way to five", especially for regions such as the American Midwest and other areas that have been particularly influenced by German culture. This meaning follows the pattern choices of many Germanic and Slavic languages, including Serbo-Croatian, Dutch, Danish, Russian and Swedish, as well as Hungarian and Finnish.
+Moreover, in situations where the relevant hour is obvious or has been recently mentioned, a speaker might omit the hour and just say "quarter to (the hour)", "half past" or "ten 'til" to avoid an elaborate sentence in informal conversations. These forms are often commonly used in television and radio broadcasts that cover multiple time zones at one-hour intervals.[21]
+In describing a vague time of day, a speaker might say the phrase "seven-thirty, eight" to mean sometime around 7:30 or 8:00. Such phrasing can be misinterpreted for a specific time of day (here 7:38), especially by a listener not expecting an estimation. The phrase "about seven-thirty or eight" clarifies this.
+Some more ambiguous phrasing might be avoided. Within five minutes of the hour, the phrase "five of seven" (6:55) can be heard "five-oh-seven" (5:07). "Five to seven" or even "six fifty-five" clarifies this.
+Formal speech and times to the minute[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2020) (Learn how and when to remove this template message)
+"O'clock" redirects here. For the o'clock watch, see O bag.
+Minutes may be expressed as an exact number of minutes past the hour specifying the time of day (e.g., 6:32 p.m. is "six thirty-two"). Additionally, when expressing the time using the "past (after)" or "to (before)" formula, it is conventional to choose the number of minutes below 30 (e.g., 6:32 p.m. is conventionally "twenty-eight minutes to seven" rather than "thirty-two minutes past six").
+In spoken English, full hours are often represented by the numbered hour followed by o'clock (10:00 as ten o'clock, 2:00 as two o'clock). This may be followed by the "a.m." or "p.m." designator, though some phrases such as in the morning, in the afternoon, in the evening, or at night more commonly follow analog-style terms such as o'clock, half past three, and quarter to four. O'clock itself may be omitted, telling a time as four a.m. or four p.m. Minutes ":01" to ":09" are usually pronounced as oh one to oh nine (nought or zero can also be used instead of oh). Minutes ":10" to ":59" are pronounced as their usual number-words. For instance, 6:02 a.m. can be pronounced six oh two a.m. whereas 6:32 a.m. could be told as six thirty-two a.m.
+Confusion at noon and midnight[edit]
+Time according to various conventions
+Device or style
+MidnightStart of day
+Noon
+MidnightEnd of day
+Written 24-hour time
+00:00
+12:00
+24:00
+Digital watches
+12:00 AM
+12:00 PM
+U.S. Government Publishing Office (1953)[22]
+midnight[a]
+noon12 o'clock noon12 m.
+midnight12:00 p.m.
+U.S. Government Publishing Office (2000)[23]
+ midnight[a]
+12 a.m.noon
+12 p.m.midnight[a]
+U.S. Government Publishing Office (2008)[24]
+12 a.m.12 midnight[a]
+12 p.m.12 noon
+ 12 midnight[a]
+Japanese legal convention[25]
+0:00 a.m.
+12:00 a.m.
+12:00 p.m.
+Japanese common usage[26]
+0:00 a.m.
+0:00 p.m.12:00 a.m.
+12:00 p.m.
+Chicago Manual of Style[27]
+noon12:00 m.
+Canadian Press,[28] UK standard[29]
+Midnight
+Noon
+Midnight
+Associated Press style[30]
+ 
+noon
+midnight
+NIST[2]
+midnight[b]12:01 a.m.
+noon
+midnight[b]11:59 p.m.
+^ a b c d e These styles are ambiguous with respect to whether midnight is at the start or end of each day.
+^ a b NIST recommends using 11:59 p.m. and 12:01 a.m. to disambiguate when needed.
+It is not always clear what times "12:00 a.m." and "12:00 p.m." denote. From the Latin words meridies (midday), ante (before) and post (after), the term ante meridiem (a.m.) means before midday and post meridiem (p.m.) means after midday. Since "noon" (midday, meridies (m.)) is neither before nor after itself, the terms a.m. and p.m. do not apply.[2]  Although "12 m." was suggested as a way to indicate noon, this is seldom done[27] and also does not resolve the question of how to indicate midnight.
+The American Heritage Dictionary of the English Language states "By convention, 12 AM denotes midnight and 12 PM denotes noon. Because of the potential for confusion, it is advisable to use 12 noon and 12 midnight."[31]
+E. G. Richards in his book Mapping Time (1999) provided a diagram in which 12 a.m. means noon and 12 p.m. means midnight.[32]
+The style manual of the United States Government Printing Office used 12 a.m. for noon and 12 p.m. for midnight until its 2008 edition, when it reversed these designations[23][24] and then retained that change in its 2016 revision.[33]
+Many U.S. style guides, and NIST's "Frequently asked questions (FAQ)" web page,[2] recommend that it is clearest if one refers to "noon" or "12:00 noon" and "midnight" or "12:00 midnight" (rather than to "12:00 p.m." and "12:00 a.m."). The NIST website states that "12 a.m. and 12 p.m. are ambiguous and should not be used."
+The Associated Press Stylebook specifies that midnight "is part of the day that is ending, not the one that is beginning."[30]
+The Canadian Press Stylebook[28] says, "write noon or midnight, not 12 noon or 12 midnight." Phrases such as "12 a.m." and "12 p.m." are not mentioned at all. Britain's National Physical Laboratory "FAQ-Time" web page[29] states "In cases  where the context cannot be relied upon to place a particular event, the pair of days straddling midnight can be quoted"; also "the terms 12 a.m. and 12 p.m. should be avoided."
+Likewise, some U.S. style guides recommend either clarifying "midnight" with other context clues, such as specifying the two dates between which it falls, or not referring to the term at all. For an example of the latter method, "midnight" is replaced with "11:59 p.m." for the end of a day or "12:01 a.m." for the start of a day. That has become common in the United States in legal contracts and for airplane, bus, or train schedules, though some schedules use other conventions. Occasionally, when trains run at regular intervals, the pattern may be broken at midnight by displacing the midnight departure one or more minutes, such as to 11:59 p.m. or 12:01 a.m.[34]
+In Japanese usage, midnight is written as  0  (0:00 a.m.) and noon is written as  0  (0:00 p.m.), making the hours numbered sequentially from 0 to 11 in both halves of the day.
+In literature[edit]
+In the George Orwell novel Nineteen Eighty-Four, Winston Smith describes a twelve-hour clock as "old-fashioned".[35]
+See also[edit]
+24-hour clock
+Clock position
+Date and time representation by country
+Decimal time
+Italian six-hour clock
+Midnight
+Muhurta
+Noon
+Pahar
+Thai six-hour clock
+References[edit]
+^ a b "Time". The New Encyclop dia Britannica. Vol. 28. 1986. pp. 660 2a."Time". Encyclop dia Britannica. Encyclop dia Britannica Online Library Edition. Retrieved 20 November 2013. The use of AM or PM to designate either noon or midnight can cause ambiguity. (subscription required) For different opinions on representation of midday and midnight, see #Confusion at noon and midnight
+^ a b c d "Times of Day FAQs". National Institute of Standards and Technology. 21 September 2016. Archived from the original on 21 September 2018. Retrieved 30 September 2018.
+^ Addington, Susan (25 August 2016). "Modular Arithmetic". Archived from the original on 4 July 2008. Retrieved 28 November 2008.
+^ "Is noon 12 am or 12 pm?". Royal Museums Greeenwich. Retrieved 26 January 2023.
+^ "U.S. Government Printing Office Style Manual - Chapter 12 - Numerals". govinfo.gov. Retrieved 27 January 2023.
+^ "time of day, elapsed time". Resources of the Language Portal of Canada. 22 October 2020. Retrieved 27 January 2023.
+^ "The History of Clocks". 13 October 2008. Archived from the original on 13 October 2008. Retrieved 12 November 2017.
+^ "Berlin instruments of the old Eg.time of day destination". members.aon.at. Archived from the original on 15 November 2006. Retrieved 13 June 2006.
+^ "Early Clocks". A Walk Through Time. National Institute of Standards and Technology. 12 August 2009.
+^ National Library of Australia catalogue entry for Rider's British merlin: for the year of Our Lord God 1795. Printed for the Company of Stationers, and sold by R. Horsfield, at Stationers-hall, near Ludgate-street. 1795. Archived from the original on 22 May 2013.
+^ Lawrence Abrams (13 December 2012). "How to customize how the time is displayed in Windows". Bleeping Computer. Archived from the original on 29 October 2013. Retrieved 26 October 2013.
+^ "hora". Diccionario panhisp nico de dudas (in Spanish). Archived from the original on 20 July 2011.
+^ a b Economist Style Guide (12th ed.). The Economist. 2018. p. 185. ISBN 9781781258316.
+^ Watson, James Robert. "A more efficient way to denote am or pm". Jim Watson professor of design. Retrieved 30 August 2022.
+^ Hacker, Diana, A Writer's Reference, six edition, Bedford, St Martin's, Boston, 2007, section M4-c, p.308.
+^ The Tongue and Quill (PDF). US Air Force. 27 May 2015. p. 356. Archived from the original (PDF) on 26 November 2020. Retrieved 26 October 2021. Air Force Handbook 33-337.
+^ "quarter". American Heritage Dictionary (3rd ed.). Boston: Houghton Mifflin. 1992. s.v. usage note at end of "quarter" entry.
+^ Dickens, Charles (1855). Little Dorrit. p. Chapter 27.
+^ Trudgill, Peter (17 May 2020). "Number five-and-twenty: A fading linguistic practice". The New European. Retrieved 13 October 2022.
+^ Swan, Michael. "Ask About English". BBC World Service. BBC. Retrieved 13 January 2021.
+^ "TVTimes magazine 21-27 May 1983 part1". TVTimes. 21 27 May 1983. Archived from the original on 18 October 2012. Retrieved 8 October 2019.
+^ "United States Government Printing Office Style Manual" (PDF). govinfo. U.S. Government Publishing Office. January 1953. pp. 152, 267. Archived (PDF) from the original on 5 September 2019. Retrieved 5 September 2019.
+^ a b "U.S. Government Printing Office Style Manual" (PDF). govinfo. U.S. Government Publishing Office. 2000. page 156. Archived (PDF) from the original on 5 September 2019. Retrieved 5 September 2019.
+^ a b "U.S. Government Printing Office Style Manual" (PDF). govinfo. U.S. Government Publishing Office. 2008. p. 271. Archived (PDF) from the original on 12 April 2019. Retrieved 5 September 2019.
+^     [12 AM? or 0 PM?]. National Institute of Information and Communications Technology (in Japanese). 15 February 1989. Archived from the original on 6 June 2017. Retrieved 24 May 2017.
+^  4-1 12 12  [Question 4-1) Is noon 12 a.m.? Or 12 p.m.?]. National Astronomical Observatory of Japan  (in Japanese). Retrieved 19 January 2022.
+^ a b Chicago Manual of Style (17th ed.). University of Chicago Press. 2017. paragraph 9.38. ISBN 978-0-226-28705-8. Although noon can be expressed as 12:00 m. (m = meridies), very few use that form.
+^ a b The Canadian Press Stylebook (11th ed.). 1999. page 288.
+^ a b "National Physical Laboratory, FAQ-Time". Archived from the original on 3 March 2015. Retrieved 11 January 2015.
+^ a b Paula Froke, Anna Joe Bratton, Oskar Garcia, Jeff McMillan & Jerry Schwart, Eds., 54th ed., The Associated Press Stylebook and Briefing on Media Law, New York: Basic Books, June 2019, ISBN 978-1-5416-9989-2, s.v. noon, midnight, times.
+^ "AM". The American Heritage Dictionary of the English Language (Fifth ed.). 2011. Archived from the original on 9 January 2014.
+^ Richards, E. G. (1999). Mapping Time: the Calendar and its History. Oxford University Press. p. 289.
+^ "GPO Style Manual. 2016. p.236". govinfo.gov. 12 January 2017. Archived from the original on 17 March 2018. Retrieved 16 March 2018.
+^ "Cheshunt/Enfield Town to London Liverpool Street via Seven Sisters service Interim train timetables" (PDF). Abellio Greater Anglia London. 17 May 2015. pp. 7, 8. Archived from the original (PDF) on 26 May 2015.
+^ Orwell, George (22 February 2016). "Part 2, Chapter 4". Nineteen Eighty-four. South Australia: eBooks@Adelaide. p. 157. Retrieved 23 June 2021.
+External links[edit]
+NIST FAQ on time
+12am is noon in Japan
+vteTimeKey concepts
+Past
+Present
+Future
+Eternity
+Measurementand standardsChronometry
+UTC
+UT
+TAI
+Unit of time
+Orders of magnitude (time)
+Measurementsystems
+Italian six-hour clock
+Thai six-hour clock
+12-hour clock
+24-hour clock
+Relative hour
+Daylight saving time
+Chinese
+Decimal
+Hexadecimal
+Hindu
+Metric
+Roman
+Sidereal
+Solar
+Time zone
+Calendars
+Main types
+Solar
+Lunar
+Lunisolar
+Gregorian
+Julian
+Hebrew
+Islamic
+Solar Hijri
+Chinese
+Hindu Panchang
+Maya
+List
+Clocks
+Main types
+astronomical
+astrarium
+atomic
+quantum
+hourglass
+marine
+sundial
+watch
+mechanical
+stopwatch
+water-based
+Cuckoo clock
+Digital clock
+Grandfather clock
+History
+Timeline
+ChronologyHistory
+Astronomical chronology
+Big History
+Calendar era
+Deep time
+Periodization
+Regnal year
+Timeline
+Philosophy of time
+A series and B series
+B-theory of time
+Chronocentrism
+Duration
+Endurantism
+Eternal return
+Eternalism
+Event
+Perdurantism
+Presentism
+Static interpretation of time
+Temporal finitism
+Temporal parts
+The Unreality of Time
+ReligionMythology
+Ages of Man
+Destiny
+Immortality
+Dreamtime
+K la
+Time and fate deities
+Father Time
+Wheel of time
+Kalachakra
+Human experienceand use of time
+Chronemics
+Generation time
+Mental chronometry
+Music
+tempo
+time signature
+Rosy retrospection
+Tense aspect mood
+Time discipline
+Time management
+Yesterday   Today   Tomorrow
+Time in scienceGeology
+Geological time
+age
+chron
+eon
+epoch
+era
+period
+Geochronology
+Geological history of Earth
+Physics
+Absolute space and time
+Arrow of time
+Chronon
+Coordinate time
+Instant
+Proper time
+Spacetime
+Theory of relativity
+Time domain
+Time translation symmetry
+Time reversal symmetry
+Other fields
+Chronological dating
+Chronobiology
+Circadian rhythms
+Clock reaction
+Glottochronology
+Time geography
+Related
+Memory
+Moment
+Space
+System time
+Tempus fugit
+Time capsule
+Time immemorial
+Time travel
+ Category
+ Commons
+vteTime measurement and standards
+Chronometry
+Orders of magnitude
+Metrology
+International standards
+Coordinated Universal Time
+offset
+UT
+ T
+DUT1
+International Earth Rotation and Reference Systems Service
+ISO 31-1
+ISO 8601
+International Atomic Time
+12-hour clock
+24-hour clock
+Barycentric Coordinate Time
+Barycentric Dynamical Time
+Civil time
+Daylight saving time
+Geocentric Coordinate Time
+International Date Line
+IERS Reference Meridian
+Leap second
+Solar time
+Terrestrial Time
+Time zone
+180th meridian
+Obsolete standards
+Ephemeris time
+Greenwich Mean Time
+Prime meridian
+Time in physics
+Absolute space and time
+Spacetime
+Chronon
+Continuous signal
+Coordinate time
+Cosmological decade
+Discrete time and continuous time
+Proper time
+Theory of relativity
+Time dilation
+Gravitational time dilation
+Time domain
+Time translation symmetry
+T-symmetry
+Horology
+Clock
+Astrarium
+Atomic clock
+Complication
+History of timekeeping devices
+Hourglass
+Marine chronometer
+Marine sandglass
+Radio clock
+Watch
+stopwatch
+Water clock
+Sundial
+Dialing scales
+Equation of time
+History of sundials
+Sundial markup schema
+Calendar
+Gregorian
+Hebrew
+Hindu
+Holocene
+Islamic (lunar Hijri)
+Julian
+Solar Hijri
+Astronomical
+Dominical letter
+Epact
+Equinox
+Intercalation
+Julian date
+Leap year
+Lunar
+Lunisolar
+Solar
+Solstice
+Tropical year
+Weekday determination
+Weekday names
+Archaeology and geology
+Chronological dating
+Geologic time scale
+International Commission on Stratigraphy
+Astronomical chronology
+Galactic year
+Nuclear timescale
+Precession
+Sidereal time
+Other units of time
+Instant
+Flick
+Shake
+Jiffy
+Second
+Minute
+Moment
+Hour
+Day
+Week
+Fortnight
+Month
+Year
+Olympiad
+Lustrum
+Decade
+Century
+Saeculum
+Millennium
+Related topics
+Chronology
+Duration
+music
+Mental chronometry
+Decimal time
+Metric time
+System time
+Time metrology
+Time value of money
+Timekeeper
+Retrieved from "https://en.wikipedia.org/w/index.php?title=12-hour_clock&oldid=1143022520"

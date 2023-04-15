@@ -1,0 +1,37 @@
+This article is about a device mounted between lens and camera. For a device mounted in front of a lens, see Teleside converter.
+ A teleconverter attached between a camera and its lens
+ An object in the image plane appears smaller by the reciprocal of the teleconverter's rating when looked through it.
+ An Olympus DSLR with a 2  Olympus EC-20 teleconverter.[1]1   Camera lens 2   Teleconverter 3   Camera body
+A teleconverter (sometimes called tele extender) is a secondary lens mounted between a camera and a photographic lens which enlarges the central part of an image obtained by the lens. For example, a 2  teleconverter for a 35 mm camera enlarges the central 12 18 mm part of an image to the size of 24 36 mm in the standard 35 mm film format.
+Teleconverters are typically made in 1.4 , 1.7 , 2  and 3  variants, with 1.4  and 2  being the most common.
+A 2  teleconverter doubles the apparent focal length of a given lens. Teleconverters also decrease the intensity of the light that reaches the film plane (or sensor) by the square of its magnification. A 2  teleconverter reduces the light to 1/4, doubles the focal ratio and halves the resolution of the master lens it is connected to. This, however, does not necessarily halve the resolution of the digital image.
+A closely related device reduces the focal length. It is generally marketed under the name speed booster, though the term telecompressor has also been used.  It is used in particular to adapt DSLR lenses to mirrorless cameras.  Here the magnification is less than 1, typically 0.71  or 0.64 .  In this case, the effective aperture increases accordingly.
+Function[edit]
+A teleconverter works similarly to a telephoto group of a proper telephoto lens. It consists of a group of lenses which together act as a single diverging lens. The location of a teleconverter is such that the image produced by the lens is located behind the teleconverter in a distance smaller than its focal length. This image is a virtual object of the teleconverter, which is then focused further away and thus enlarged. For example, when a single negative lens is placed so that the image formed by the lens is located in the midpoint between the lens and its focal point, then the lens produces the image in its focal point and enlarging it two-fold, thereby acting as a 2  teleconverter.
+When used with somewhat slow lenses they may reduce the effective aperture enough that the camera's autofocus system will no longer work; depending on the camera system, this may range from f/5.6 to f/8.
+Dedicated teleconverters only work with a limited number of lenses, usually telephoto lenses made by the same manufacturer, or by a third-party manufacturer to a matching standard.
+Using a teleconverter with an existing lens is usually less expensive than acquiring a separate, longer telephoto lens, but as the teleconverter is magnifying the existing image circle, it also magnifies any aberrations.  The use of a teleconverter also results in a darker image.
+Camera viewfinder with 300 mm telephoto lens.
+Camera viewfinder with 300 mm telephoto lens and 2x teleconverter.
+A Leica R series doubler, with the female part of in bayonet mount...
+...and the male part.
+Nikon AF-S teleconverter TC-14E II
+Nikon teleconverter 2,0x for Z-mount
+Vivitar 2X zoom teleconverter, basically a zoom extension tube
+Teleside converter[edit]
+ Teleside converter cross section
+A different type of teleconverter called a teleside converter[2] can be mounted on the front of the camera's lens rather than between the primary lens and the camera body. These are popular with users of video cameras and bridge cameras with fixed lenses, as they represent the only way to add more reach to such a camera. They are usually afocal lenses that do not reduce the brightness of the image, but are more likely to add aberrations to the image, independent of the quality of the main lens.
+Versus extension tubes[edit]
+Teleconverters may be confused with extension tubes, a non-optical component designed to increase magnification (at the expense of reduced focal distance).
+See also[edit]
+Wikimedia Commons has media related to Teleconverters.
+Barlow lens
+Canon Extender EF
+Convertible lens
+Nikon F-mount teleconverter
+Telecompressor
+Teleside converter
+References[edit]
+^ Olympus EC-20 2x Zuiko Digital TeleConverter Lens Archived 2011-05-12 at the Wayback Machine
+^ Scientific photography and applied imaging By Sidney F. Ray, page 492
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Teleconverter&oldid=1145182018"

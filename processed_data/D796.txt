@@ -1,0 +1,290 @@
+Wireless telecommunications device
+This article is about the telecommunications device. For other uses, see Pager (disambiguation).
+"Pocket Bell" redirects here. For the Philippine paging company, see PocketBell.
+Not to be confused with page.
+ A Motorola LX2 pager
+A pager (also known as a beeper or bleeper[1]) is a wireless telecommunications device that receives and displays alphanumeric or voice messages. One-way pagers can only receive messages, while response pagers and two-way pagers can also acknowledge, reply to and originate messages using an internal transmitter.[2]
+Pagers operate as part of a paging system which includes one or more fixed transmitters (or in the case of response pagers and two-way pagers, one or more base stations), as well as a number of pagers carried by mobile users. These systems can range from a restaurant system with a single low power transmitter, to a nationwide system with thousands of high-power base stations.
+Pagers were developed in the 1950s and 1960s,[3] and became widely used by the 1980s. In the 21st century, the widespread availability of cellphones and smartphones has greatly diminished the pager industry. Nevertheless, pagers continue to be used by some emergency services and public safety personnel, because modern pager systems' coverage overlap, combined with use of satellite communications, can make paging systems more reliable than terrestrial based cellular networks in some cases, including during natural and man-made disasters.[4] This resilience has led public safety agencies to adopt pagers over cellular and other commercial services for critical messaging.[5][6]
+In Japanese, it was commonly called a pocket bell ( , poketto beru) or pokeberu ( ),[7] which is an example of wasei-eigo.
+ Four historical Japanese pagers.
+History[edit]
+This section needs to be updated. The reason given is: Prevalence of paging systems needs an update. Please help update this article to reflect recent events or newly available information. (February 2023)
+ An NEC pager branded by Deutsche Telekom for the Skyper pager service
+ Original Motorola "Pageboy II" pager, used in New York in the late 1970s.
+The first telephone pager system was patented in 1949 by Alfred J. Gross.[8]
+One of the first practical paging services was launched in 1950 for physicians in the New York City area. Physicians paid US$12 per month for the service and carried a 200-gram (7 oz) pager that would receive phone messages within 40 kilometres (25 mi) of a single transmitter tower. The system was manufactured by the Reevesound Company and operated by Telanswerphone.[9] In 1960, John Francis Mitchell combined elements of Motorola's walkie-talkie and automobile radio technologies to create the first transistorized pager,[10][11][12] and from that time, paging technology continued to advance and pager adoption among emergency personnel is still popular as of July 2016.[13]
+In 1962, the Bell System, the U.S. telephone monopoly, presented its Bellboy radio paging system at the Seattle World's Fair. Bellboy was the first commercial system for personal paging. It also marked one of the first consumer applications of the transistor (invented by Bell Labs in 1947), for which three Bell Labs inventors received a Nobel Prize in Physics in 1956. Solid-state circuitry enabled the Bellboy pager, about the size of a small TV remote device, to fit into a customer's pocket or purse, quite a feat at that time. The Bellboy was a terminal that notified the user when someone was trying to call them. When the person received an audible signal (a buzz) on the pager, the user found a telephone and called the service centre, which informed the user of the caller's message. In the mid-1980s, tone and voice radio paging became popular among emergency responders and professionals. Tone and voice pagers were activated either by a local base station, or through a telephone number assigned to each individual pager.  Bell System Bellboy radio pagers each used three reed receiver relays, each relay tuned to one of 33 different frequencies, selectively ringing a particular customer when all three relays were activated at the same time a precursor of DTMF.[14] The ReFLEX protocol was developed in the mid-1990s.
+While Motorola announced the end of its new pager manufacturing in 2001,[15] pagers remained in use in large hospital complexes.[16] First responders in rural areas with inadequate cellular coverage are often issued pagers[citation needed].
+The 2005 London bombings resulted in overload of TETRA systems by the emergency services and showed that pagers, with their absence of necessity to transmit an acknowledgement before showing the message, and the related capability to operate on very low signal levels, are not completely outclassed by their successors.[17] Volunteer firefighters, EMS paramedics and rescue squad members usually carry pagers to alert them of emergency call outs for their department. These pagers receive a special tone from a fire department radio frequency.
+Restaurant pagers were in wide use in the 2000s. Customers were given a portable receiver that would usually vibrate, flash, or beep when a table became free or when their meal was ready.[18] Pagers have been popular with birdwatchers in Britain and Ireland since 1991, with companies Rare Bird Alert and Birdnet Information offering news of rare birds sent to pagers that they sell.[19][20]
+The U.S. paging industry generated $2.1 billion in revenue in 2008, down from $6.2 billion in 2003.[21] In Canada, 161,500 Canadians paid $18.5 million for pager service in 2013. Telus, one of the three major mobile carriers, announced the end to its Canadian pager service as of 31 March 2015, but rivals Bell, Rogers and PageNet intend to continue service.[15]
+Today, companies like Visiplex offer similar solutions for onsite pager systems in the medical, education and commercial sectors.
+Decline[edit]
+The UK National Health Service is thought to use over 10% of remaining pagers in 2017 (130,000),[16] with an annual cost of  6.6 million.[22] Matt Hancock, (then) Secretary of State for Health and Social Care, announced in February 2019 that the 130,000 pagers still in use were to be phased out.[23] NHSX announced plans in May 2020 to replace pagers and bleepers with "more modern communication tools," accelerated by the pressure placed on the service by the COVID-19 pandemic in England.[24] In August 2020, a new procurement framework for clinical communications was launched which is intended to phase out pagers by the end of 2021, replacing them with "dedicated clinical-facing communication and tasks management tools" from 25 approved suppliers.[25]
+In Japan, more than ten million pagers were active in 1996.[3] On 1 October 2019, Japan's last paging service provider shut down radio signals and terminated its service.[3]
+Design[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2009) (Learn how and when to remove this template message)
+ Timex Datalink Beepwear Pro: a wearable pager/watch featuring alphanumeric paging capability. Part of the Timex Datalink family of watches
+Many paging network operators now allow numeric and textual pages to be submitted to the paging networks via email. A significant convenience for users given the widespread adoption of email, and commonalities in delivery assurances. This can result in pager messages being delayed or lost. Older forms of message submission using the Telelocator Alphanumeric Protocol involve modem connections directly to a paging network and are less subject to these delays. For this reason, older forms of message submission retain their usefulness for disseminating highly-important alerts to users such as emergency services personnel.
+Common paging protocols include TAP, FLEX, ReFLEX, POCSAG, GOLAY, ERMES and NTT. Past paging protocols include Two-tone and 5/6-tone. In the United States, pagers typically receive signals using the FLEX protocol in the 900 MHz band. Commercial paging transmitters typically radiate 1000 watts of effective power, resulting in a much wider coverage area per tower than a mobile phone transmitter, which typically radiates around 0.6 watts per channel. Although 900 MHz FLEX paging networks tend to have stronger in-building coverage than mobile phone networks, commercial paging service providers will work with large institutions to install repeater equipment in the event that service is not available in needed areas of the subscribing institution's buildings. This is especially critical in hospital settings where emergency staff must be able to reliably receive pages to respond to patient needs.
+Unlike mobile phones, most one-way pagers do not display any information about whether a signal is being received or about the strength of the received signal. Since one-way pagers do not contain transmitters, one-way paging networks have no way to track whether a message has been successfully delivered to a pager. Because of this, if a one-way pager is turned off or is not receiving a usable signal at the time a message is transmitted, the message will not be received and the sender of the message will not be notified of this fact. In the mid-1990s, some paging companies began offering a service, which allowed a customer to call their pager-number and have numeric messages read back to them. This was useful for times when the pager was off or out of the coverage area, as it would know what pages were sent to the subscriber even if the subscriber never actually received the page. Other radio bands used for pagers include the 400 MHz band, the VHF band and the FM commercial broadcast band (88 108&MHz). Other paging protocols used in the VHF, 400 MHz UHF and 900 MHz bands include POCSAG and ERMES. In Canada and the United States, pagers using the commercial FM band receive a subcarrier, called the Subsidiary Communications Authority, of a broadcast station. On-site paging systems in hospitals, unlike wide area paging systems, are local area services. Hospitals commonly use on-site paging for communication with staff and increasingly for contacting waiting patients when their appointment is due. These offer waiting patients the opportunity to leave the waiting area, but still be contacted.
+Operation[edit]
+ The top of a Motorola "Bravo" numeric pager
+Paging systems are operated by commercial carriers, often as a subscription service and they are also operated directly by end users as private systems. Commercial carrier systems tend to cover a larger geographical area than private systems, while private systems tend to cover their limited area more thoroughly and deliver messages faster than commercial systems. In all systems, clients send messages to pagers, an activity commonly referred to as paging. System operators often assign unique phone numbers or email addresses to pagers (and pre-defined groups of pagers), enabling clients to page by telephone call, e-mail and SMS. Paging systems also support various types of direct connection protocols, which sacrifice global addressing and accessibility for a dedicated communications link. Automated monitoring and escalation software clients, often used in hospitals, IT departments and alarm companies, tend to prefer direct connections because of the increased reliability. Small paging systems, such as those used in restaurant and retail establishments, often integrate a keyboard and paging system into a single box, reducing both cost and complexity.
+Paging systems support several popular direct connection protocols, including TAP, TNPP, SNPP and WCTP, as well as proprietary modem- and socket-based protocols. Additionally, organizations often integrate paging systems with their Voice-mail and PBX systems, conceptually attaching pagers to a telephone extension and set up web portals to integrate pagers into other parts of their enterprise. A paging system alerts a pager (or group of pagers) by transmitting information over an RF channel, including an address and message information. This information is formatted using a paging protocol, such as 2-tone, 5/6-tone, GOLAY, POCSAG, FLEX, ERMES, or NTT. Two-way pagers and response pagers typically use the ReFLEX protocol.
+Modern paging systems typically use multiple base transmitters to modulate the same signal on the same RF channel, a design approach called simulcast. This type of design enables pagers to select the strongest signal from several candidate transmitters using FM capture, thereby improving overall system performance. Simulcast systems often use satellite to distribute identical information to multiple transmitters and GPS at each transmitter to precisely time its modulation relative to other transmitters. The coverage overlap, combined with use of satellite communications, can make paging systems more reliable than terrestrial based cellular networks in some cases, including during natural and man-made disaster.[4] This resilience has led public safety agencies to adopt pagers over cellular and other commercial services for critical messaging.[5][6]
+Categories[edit]
+Pagers themselves vary from very cheap and simple beepers, to more complex personal communications equipment, falling into eight main categories.
+Beepers or tone-only pagers
+Beepers or tone-only pagers are the simplest and least expensive form of paging. They were named beepers because they originally made a beeping noise, but current pagers in this category use other forms of alert as well. Some use audio signals, others light up and some vibrate, often used in combination. The majority of restaurant pagers fall into this category.[18]
+Voice/tone
+Voice/Tone pagers enable pager users to listen to a recorded voice message when an alert is received.
+Numeric
+Numeric Pagers contain a numeric LCD display capable of displaying the calling phone number or other numeric information generally up to 10 digits. The display can also convey pager codes, a set of number codes corresponding to mutually understood pre-defined messages.
+Alphanumeric
+Alphanumeric pagers contain a more sophisticated LCD capable of displaying text and icons. These devices receive text messages, often through email or direct connection to the paging system. The sender must enter a message, either numeric and push # or, text & push # or a verbal message. The pager does not automatically record the sender's number; the pager will beep but no message can be seen or heard if none has been entered.
+Response
+Response pagers are alphanumeric pagers equipped with built-in transmitters, with the ability to acknowledge/confirm messages. They also allow the user to reply to messages by way of a multiple-choice response list, and to initiate "canned" messages from pre-programmed address and message lists. These devices are sometimes called "1.5-way pagers" or "1.7-way pagers" depending on capabilities.
+Two-way
+Two-way pagers are response pagers with built-in QWERTY keyboards. These pagers allow the user to reply to messages, originate messages and forward messages using free-form text as well as "canned" responses.
+One-way modems
+One-way modems are controllers with integrated paging receivers, which are capable of taking local action based on messages and data they receive.
+Two-way modems
+Two-way modems have capabilities similar to one-way modems. They can also confirm messages and transmit their own messages and data.
+Security[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2009) (Learn how and when to remove this template message)
+Pagers also have privacy advantages compared with cellular phones. Since a one-way pager is a passive receiver only (it sends no information back to the base station), its location cannot be tracked. However, this can also be disadvantageous, as a message sent to a pager must be broadcast from every paging transmitter in the pager's service area. Thus, if a pager has nationwide service, a message sent to it could be intercepted by criminals or law enforcement agencies anywhere within the nationwide service area.
+In popular culture[edit]
+As is the case with many new technologies, the functionality of the pager shifted from necessary professional use to a social tool integrated in one's personal life.[26]: 175  During the rise of the pager, it became the subject of various forms of media, most notably in the 1990s hip-hop scene. Popular artists from the era, including Ice Cube, Method Man, and A Tribe Called Quest, began referencing newly developed mobile technologies such as the pager. A Tribe Called Quest's single "Skypager" directly speaks of the importance of such a wireless communication device, with group member Q-Tip stating that the Skypager "serves an important communicative function for a young professional with a full calendar".[26] Three 6 Mafia's "2-Way Freak," Sir Mix-A-Lot's "Beepers" and "Bug a Boo" from Destiny's Child also make reference to pagers.
+Illicit drug dealers used pagers to great effect during the 1990s to conduct commerce, using them to arrange meetings with buyers. Associate superintendent for Miami-Dade County Public Schools in Florida James Fleming once called them "the most dominant symbol of the drug trade" and schools have previously forbidden students from carrying them because of the ease with which they could be "used to arrange illegal drug sales."[27]
+See also[edit]
+Telecommunications portal1990s portal
+Minitor
+Plectron
+Simple Network Paging Protocol
+Text messaging
+Wireless Communications Transfer Protocol
+References[edit]
+^ "BLEEPER | meaning in the Cambridge English Dictionary". Dictionary.cambridge.org. 25 May 2022. Retrieved 31 May 2022.
+^ "What is pager?   Definition". WhatIs.com.
+^ a b c "Pager services to end Tuesday in Japan after 50 years". Japan Today. 30 September 2019. Archived from the original on 1 October 2019. Retrieved 1 October 2019.
+^ a b Independent Panel Reviewing the Impact of Hurricane Katrina on Communications Networks (12 June 2006). "Report and Recommendations to the Federal Communications Commission" (PDF). Federal Communications Commission. p. 24. Retrieved 14 January 2018.
+^ a b London Ambulance Service   Pager and SMS Procedure Archived 22 February 2014 at the Wayback Machine Section 3.0. March 2007.
+^ a b NFPA 1221: Standard for the Installation, Maintenance, and Use of Emergency Services Communications Systems, 2002 edition, at 1221 23 section 8.4.2.1
+^ "Japan's last pagers beep for the final time". BBC News. 1 October 2019. Retrieved 21 March 2021.
+^ "When Pagers and Beepers Were All the Rage". thoughtco.com.
+^ Corporation, Bonnier (1 January 1951). Popular Science. Bonnier Corporation. p. 104   via Internet Archive. popular science 1950 can our jets support.
+^ "John F. Mitchell Biography". brophy.net.
+^ "The Top Giants in Telephony". historyofthecellphone.com. Archived from the original on 17 January 2013. Retrieved 5 November 2012.
+^ "Who invented the cell phone?". brophy.net.
+^ Use of Pagers in Crisis Situations Archived 25 January 2011 at the Wayback Machine (Archive)
+^ Keller, A. C. (1964), Recent Developments in Bell System Relays   Particularly Sealed Contact and Miniature Relays (PDF), The Bell System Technical Journal[permanent dead link]
+^ a b "Why the pager isn't dead yet".
+^ a b "Old technology: NHS uses 10% of world's pagers at annual cost of  6.6m". The Guardian. London. 9 September 2017.
+^ "London Ambulance Service   Response to London Assembly 7 July Review Committee report". londonambulance.nhs.uk.
+^ a b Tyson, Jeff (6 July 2001), How Restaurant Pagers Work, retrieved 17 January 2010
+^ "Rare Bird Alert  Upgrade to the X3 Pager Today".
+^ "BirdNet Pager".
+^ AnythingResearch.com report on Paging Industry market size 2003 and 2008 research data used with permission
+^ "NHS still reliant on 'archaic' fax machines". BBC News. 12 July 2018. Retrieved 12 July 2018.
+^ "NHS told to ditch 'outdated' pagers". BBC. 23 February 2019. Retrieved 23 February 2019.
+^ "Pandemic spurs NHS to 'urgently' speed up elimination of pagers". Health Service Journal. 11 May 2020. Retrieved 28 June 2020.
+^ "New procurement framework helps phase out archaic pagers". Building Better Healthcare. 3 August 2020. Retrieved 19 September 2020.
+^ a b Heckman, Davin (2006). ""Do You Know the Importance of a Sky Pager?": Telecommunications, African-Americans, and Popular Culture".  In Anandam P. Kavoori; Noah Arceneaux (eds.). The Cell Phone Reader: Essays in Social Transformation. Peter Lang Publishing. ISBN 978-0-8204-7919-4.
+^ Sims, Calvin (25 September 1988). "Schools Responding to Beeper, Tool of Today's Drug Dealer, by Banning It". The New York Times. Retrieved 16 February 2014.
+External links[edit]
+Wikimedia Commons has media related to Pagers.
+Note Page technical support Technical information on protocols, carriers, etc.
+800Beepers User Manuals[permanent dead link]
+800Beepers Enhanced Options / Services
+vteTelecommunicationsHistory
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Data compression
+audio
+DCT
+image
+video
+Digital media
+Internet video
+online video platform
+social media
+streaming
+Drums
+Edholm's law
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Information Age
+Information revolution
+Internet
+Mass media
+Mobile phone
+Smartphone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Semiconductor
+device
+MOSFET
+transistor
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+digital
+streaming
+Undersea telegraph line
+Videotelephony
+Whistled language
+Wireless revolution
+Pioneers
+Nasir Ahmed
+Edwin Howard Armstrong
+Mohamed M. Atalla
+John Logie Baird
+Paul Baran
+John Bardeen
+Alexander Graham Bell
+Emile Berliner
+Tim Berners-Lee
+Francis Blake (telephone)
+Jagadish Chandra Bose
+Charles Bourseul
+Walter Houser Brattain
+Vint Cerf
+Claude Chappe
+Yogen Dalal
+Daniel Davis Jr.
+Donald Davies
+Amos Dolbear
+Thomas Edison
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Oliver Heaviside
+Robert Hooke
+Erna Schneider Hoover
+Harold Hopkins
+Gardiner Greene Hubbard
+Internet pioneers
+Bob Kahn
+Dawon Kahng
+Charles K. Kao
+Narinder Singh Kapany
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Robert Metcalfe
+Antonio Meucci
+Samuel Morse
+Jun-ichi Nishizawa
+Charles Grafton Page
+Radia Perlman
+Alexander Stepanovich Popov
+Tivadar Pusk s
+Johann Philipp Reis
+Claude Shannon
+Almon Brown Strowger
+Henry Sutton
+Charles Sumner Tainter
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Thomas A. Watson
+Charles Wheatstone
+Vladimir K. Zworykin
+Transmissionmedia
+Coaxial cable
+Fiber-optic communication
+optical fiber
+Free-space optical communication
+Molecular communication
+Radio waves
+wireless
+Transmission line
+data transmission circuit
+telecommunication circuit
+Network topologyand switching
+Bandwidth
+Links
+Nodes
+terminal
+Network switching
+circuit
+packet
+Telephone exchange
+Multiplexing
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+Concepts
+Communication protocol
+Computer network
+Data transmission
+Store and forward
+Telecommunications equipment
+Types of network
+Cellular network
+Ethernet
+ISDN
+LAN
+Mobile
+NGN
+Public Switched Telephone
+Radio
+Television
+Telex
+UUCP
+WAN
+Wireless network
+Notable networks
+ARPANET
+BITNET
+CYCLADES
+FidoNet
+Internet
+Internet2
+JANET
+NPL network
+Toasternet
+Usenet
+Locations
+Africa
+Americas
+North
+South
+Antarctica
+Asia
+Europe
+Oceania
+(Global telecommunications regulation bodies)
+ Telecommunication portal
+ Category
+ Outline
+ Commons
+Authority control: National 
+Germany
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pager&oldid=1143076427"

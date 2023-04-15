@@ -1,0 +1,258 @@
+Open and decentralized authentication protocol standard
+ The OpenID logo
+OpenID is an open standard and decentralized authentication protocol promoted by the non-profit OpenID Foundation. It allows users to be authenticated by co-operating sites (known as relying parties, or RP) using a third-party identity provider (IDP) service, eliminating the need for webmasters to provide their own ad hoc login systems, and allowing users to log in to multiple unrelated websites without having to have a separate identity and password for each.[1] Users create accounts by selecting an OpenID identity provider,[1] and then use those accounts to sign on to any website that accepts OpenID authentication. Several large organizations either issue or accept OpenIDs on their websites.[2]
+The OpenID standard provides a framework for the communication that must take place between the identity provider and the OpenID acceptor (the "relying party").[3] An extension to the standard (the OpenID Attribute Exchange) facilitates the transfer of user attributes, such as name and gender, from the OpenID identity provider to the relying party (each relying party may request a different set of attributes, depending on its requirements).[4] The OpenID protocol does not rely on a central authority to authenticate a user's identity. Moreover, neither services nor the OpenID standard may mandate a specific means by which to authenticate users, allowing for approaches ranging from the common (such as passwords) to the novel (such as smart cards or biometrics).
+The final version of OpenID is OpenID 2.0, finalized and published in December 2007.[5] The term OpenID may also refer to an identifier as specified in the OpenID standard; these identifiers take the form of a unique Uniform Resource Identifier (URI), and are managed by some "OpenID provider" that handles authentication.[1]
+Adoption[edit]
+As of March 2016[update], there are over 1 billion OpenID-enabled accounts on the Internet (see below) and approximately 1,100,934 sites have integrated OpenID consumer support:[6] AOL, Flickr, Google, Amazon.com, Canonical (provider name Ubuntu One), LiveJournal, Microsoft (provider name Microsoft account), Mixi, Myspace, Novell, OpenStreetMap, Orange, Sears, Sun, Telecom Italia, Universal Music Group, VeriSign, WordPress, Yahoo!, the BBC,[7] IBM,[8] PayPal,[9] and Steam,[10] although some of those organizations also have their own authentication management.
+Many if not all of the larger organizations require users to provide authentication in the form of an existing email account or mobile phone number in order to sign up for an account (which then can be used as an OpenID identity). There are several smaller entities that accept sign-ups with no extra identity details required.
+Facebook did use OpenID in the past, but moved to Facebook Connect.[11] Blogger also used OpenID, but since May 2018 no longer supports it.[12]
+Technical overview[edit]
+Decentralized authentication protocol that allows users to authenticate with multiple websites using a single set of credentials, eliminating the need for separate usernames and passwords for each website. OpenID is based on a simple idea: a user authenticates with an identity provider (IDP), who then provides the user with a unique identifier (called an OpenID). This identifier can then be used to authenticate the user with any website that supports OpenID.
+When a user visits a website that supports OpenID authentication, the website will redirect the user to their chosen IDP. The IDP will then prompt the user to authenticate themselves (e.g., by entering a username and password). Once the user is authenticated, the IDP will generate an OpenID and send it back to the website. The website can then use this OpenID to authenticate the user without needing to know their actual credentials.
+OpenID is built on top of several existing standards, including HTTP, HTML, and XML. OpenID relies on a number of technologies, including a discovery mechanism that allows websites to find the IDP associated with a particular OpenID, as well as security mechanisms to protect against phishing and other attacks.
+One of the key benefits of OpenID is that it allows users to control their own identity information, rather than relying on individual websites to store and manage their login credentials. This can be particularly important in cases where websites are vulnerable to security breaches or where users are concerned about the privacy of their personal information.
+OpenID has been widely adopted by a number of large websites and service providers, including Google, Yahoo!, and PayPal. The protocol is also used by a number of open source projects and frameworks, including Ruby on Rails and Django.
+Logging in[edit]
+The end user interacts with a relying party (such as a website) that provides an option to specify an OpenID for the purposes of authentication; an end user typically has previously registered an OpenID (e.g. alice.openid.example.org) with an OpenID provider (e.g. openid.example.org).[1]
+The relying party typically transforms the OpenID into a canonical URL form (e.g. http://alice.openid.example.org/).
+With OpenID 1.0, the relying party then requests the HTML resource identified by the URL and reads an HTML link tag to discover the OpenID provider's URL (e.g. http://openid.example.org/openid-auth.php). The relying party also discovers whether to use a delegated identity (see below).
+With OpenID 2.0, the relying party discovers the OpenID provider URL by requesting the XRDS document (also called the Yadis document) with the content type application/xrds+xml; this document may be available at the target URL and is always available for a target XRI.
+There are two modes in which the relying party may communicate with the OpenID provider:
+checkid_immediate, in which the relying party requests that the OpenID provider not interact with the end user. All communication is relayed through the end user's user-agent without explicitly notifying the end user.
+checkid_setup, in which the end user communicates with the OpenID provider via the same user-agent used to access the relying party.
+The checkid_immediate mode can fall back to the checkid_setup mode if the operation cannot be automated.
+First, the relying party and the OpenID provider (optionally) establish a shared secret, referenced by an associate handle, which the relying party then stores. If using the checkid_setup mode, the relying party redirects the end user's user-agent to the OpenID provider so the end user can authenticate directly with the OpenID provider.
+The method of authentication may vary, but typically, an OpenID provider prompts the end user for a password or some cryptographic token, and then asks whether the end user trusts the relying party to receive the necessary identity details.
+If the end user declines the OpenID provider's request to trust the relying party, then the user-agent is redirected back to the relying party with a message indicating that authentication was rejected; the relying party in turn refuses to authenticate the end user.
+If the end user accepts the OpenID provider's request to trust the relying party, then the user-agent is redirected back to the relying party along with the end user's credentials. That relying party must then confirm that the credentials really came from the OpenID provider. If the relying party and OpenID provider had previously established a shared secret, then the relying party can validate the identity of the OpenID provider by comparing its copy of the shared secret against the one received along with the end user's credentials; such a relying party is called stateful because it stores the shared secret between sessions. In contrast, a stateless or dumb relying party must make one more background request (check_authentication) to ensure that the data indeed came from the OpenID provider.
+After the OpenID has been verified, authentication is considered successful and the end user is considered logged into the relying party under the identity specified by the given OpenID (e.g. alice.openid.example.org). The relying party typically then stores the end user's OpenID along with the end user's other session information.
+Identifiers[edit]
+To obtain an OpenID-enabled URL that can be used to log into OpenID-enabled websites, a user registers an OpenID identifier with an identity provider. Identity providers offer the ability to register a URL (typically a third-level domain, e.g. username.example.com) that will automatically be configured with OpenID authentication service.
+Once they have registered an OpenID, a user can also use an existing URL under their own control (such as a blog or home page) as an alias or "delegated identity". They simply insert the appropriate OpenID tags in the HTML[13] or serve a Yadis document.[14]
+Starting with OpenID Authentication 2.0 (and some 1.1 implementations), there are two types of identifiers that can be used with OpenID: URLs and XRIs.
+XRIs are a new form of Internet identifier designed specifically for cross-domain digital identity. For example, XRIs come in two forms i-names and i-numbers that are usually registered simultaneously as synonyms. I-names are reassignable (like domain names), while i-numbers are never reassigned. When an XRI i-name is used as an OpenID identifier, it is immediately resolved to the synonymous i-number (the CanonicalID element of the XRDS document). This i-number is the OpenID identifier stored by the relying party. In this way, both the user and the relying party are protected from the end user's OpenID identity ever being taken over by another party as can happen with a URL based on a reassignable DNS name.
+OpenID Foundation[edit]
+The OpenID Foundation (OIDF) promotes and enhances the OpenID community and technologies. The OIDF is a non-profit international standards development organization of individual developers, government agencies and companies who wish to promote and protect OpenID. The OpenID Foundation was formed in June 2007 and serves as a public trust organization representing an open community of developers, vendors and users. OIDF assists the community by providing needed infrastructure and help in promoting and supporting adoption of OpenID. This includes managing intellectual property and trade marks as well a fostering viral growth and global participation in OpenID.
+People[edit]
+The OpenID Foundation's board of directors has six community board members and eight corporate board members:[15]
+Community board members
+Chairman: Nat Sakimura (NAT Consulting LLC)
+Vice Chairman: Bjorn Hjelm (Verizon)
+Treasurer: John Bradley (Yubico)
+Secretary: Mike Jones (Microsoft)
+Community Representative: George Fletcher (Capital One)
+Corporate Representative: Ashish Jain (Arkose Labs)
+Corporate board members
+Cisco  Nancy Cam-Winget
+Google  Filip Verley
+KDDI  Kosuke Koiwai
+NRI Secure  Takehisa Shibata
+Okta  Vittorio Bertocci
+Ping Identity  Wesley Dunnington
+Visa Inc.  Luis DaSilva
+Yahoo Ad Tech  Arvind Kumar Garg
+Chapters[edit]
+OIDF is a global organization to promote digital identity and to encourage the further adoption of OpenID, the OIDF has encouraged the creation of member chapters. Member chapters are officially part of the Foundation and work within their own constituency to support the development and adoption of OpenID as a framework for user-centric identity on the internet.
+Intellectual property and contribution agreements[edit]
+The OIDF ensures that OpenID specifications are freely implementable therefore the OIDF requires all contributors to sign a contribution agreement. This agreement both grants a copyright license to the Foundation to publish the collective specifications and includes a patent non-assertion agreement. The non-assertion agreement states that the contributor will not sue someone for implementing OpenID specifications.
+Legal issues[edit]
+The OpenID trademark in the United States was assigned to the OpenID Foundation in March 2008.[16] It had been registered by NetMesh Inc. before the OpenID Foundation was operational.[17][18] In Europe, as of August 31, 2007, the OpenID trademark is registered to the OpenID Europe Foundation.[19]
+The OpenID logo was designed by Randy "ydnar" Reddig, who in 2005 had expressed plans to transfer the rights to an OpenID organization.[20]
+Since the original announcement of OpenID, the official site has stated:[21]
+Nobody should own this. Nobody's planning on making any money from this. The goal is to release every part of this under the most liberal licenses possible, so there's no money or licensing or registering required to play. It benefits the community as a whole if something like this exists, and we're all a part of the community.
+Sun Microsystems, VeriSign and a number of smaller companies involved in OpenID have issued patent non-assertion covenants covering OpenID 1.1 specifications. The covenants state that the companies will not assert any of their patents against OpenID implementations and will revoke their promises from anyone who threatens, or asserts, patents against OpenID implementors.[22][23]
+Security[edit]
+Authentication bugs[edit]
+In March, 2012, a research paper[24] reported two generic security issues in OpenID. Both issues allow an attacker to sign in to a victim's relying party accounts. For the first issue, OpenID and Google (an Identity Provider of OpenID) both published security advisories to address it.[25][26] Google's advisory says "An attacker could forge an OpenID request that doesn't ask for the user's email address, and then insert an unsigned email address into the IDPs response. If the attacker relays this response to a website that doesn't notice that this attribute is unsigned, the website may be tricked into logging the attacker in to any local account." The research paper claims that many popular websites have been confirmed vulnerable, including Yahoo! Mail, smartsheet.com, Zoho, manymoon.com, diigo.com. The researchers have notified the affected parties, who have then fixed their vulnerable code.
+For the second issue, the paper called it "Data Type Confusion Logic Flaw", which also allows attackers to sign in to victims' RP accounts. Google and PayPal were initially confirmed vulnerable. OpenID published a vulnerability report[27] on the flaw. The report says Google and PayPal have applied fixes, and suggest other OpenID vendors to check their implementations.
+Phishing[edit]
+Some observers have suggested that OpenID has security weaknesses and may prove vulnerable to phishing attacks.[28][29][30] For example, a malicious relaying party may forward the end user to a bogus identity provider authentication page asking that end user to input their credentials. On completion of this, the malicious party (who in this case also controls the bogus authentication page) could then have access to the end user's account with the identity provider, and then use that end user's OpenID to log into other services.
+In an attempt to combat possible phishing attacks, some OpenID providers mandate that the end user needs to be authenticated with them prior to an attempt to authenticate with the relying party.[31] This relies on the end user knowing the policy of the identity provider. In December 2008, the OpenID Foundation approved version 1.0 of the Provider Authentication Policy Extension (PAPE), which "enables Relying Parties to request that OpenID Providers employ specified authentication policies when authenticating users and for OpenID Providers to inform the Relying Parties which policies were actually used."[32]
+Privacy and trust issues[edit]
+Other security issues identified with OpenID involve lack of privacy and failure to address the trust problem.[33] However, this problem is not unique to OpenID and is simply the state of the Internet as commonly used.[citation needed]
+The Identity Provider does, however, get a log of your OpenID logins; they know when you logged into what website, making cross-site tracking much easier. A compromised OpenID account is also likely to be a more serious breach of privacy than a compromised account on a single site.
+Authentication hijacking in unsecured connection[edit]
+Another important vulnerability is present in the last step in the authentication scheme when TLS/SSL are not used: the redirect-URL from the identity provider to the relying party. The problem with this redirect is the fact that anyone who can obtain this URL (e.g. by sniffing the wire) can replay it and get logged into the site as the victim user. Some of the identity providers use nonces (a number used just once) to allow a user to log into the site once and fail all the consecutive attempts. The nonce solution works if the user is the first one to use the URL. However, a fast attacker who is sniffing the wire can obtain the URL and immediately reset a user's TCP connection (as an attacker is sniffing the wire and knows the required TCP sequence numbers) and then execute the replay attack as described above. Thus nonces only protect against passive attackers, but cannot prevent active attackers from executing the replay attack.[34] Use of TLS/SSL in the authentication process can significantly reduce this risk.
+This can be restated as:
+  IF (Both RP1 and RP2 have Bob as a client) AND       // a common case
+     (Bob uses the same IDP with both RP1 and RP2) AND // a common case
+     (RP1 does not use VPN/SSL/TLS to secure their connection with the client) // preventable!
+  THEN
+    RP2 could obtain credentials sufficient to impersonate Bob with RP1
+  END-IF
+Covert Redirect[edit]
+On May 1, 2014, a bug dubbed "Covert Redirect related to OAuth 2.0 and OpenID" was disclosed.[35][36] It was discovered by mathematics doctoral student Wang Jing at the School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore.[37][38][39]
+The announcement of OpenID is:
+"'Covert Redirect', publicized in May 2014, is an instance of attackers using open redirectors   a well-known threat, with well-known means of prevention. The OpenID Connect protocol mandates strict measures that preclude open redirectors to prevent this vulnerability."[40]
+"The general consensus, so far, is that Covert Redirect is not as bad, but still a threat. Understanding what makes it dangerous requires a basic understanding of Open Redirect, and how it can be exploited."[41]
+A patch was not immediately made available. Ori Eisen, founder, chairman and chief innovation officer at 41st Parameter told Sue Marquette Poremba, "In any distributed system, we are counting of the good nature of the participants to do the right thing. In cases like OAuth and OpenID, the distribution is so vast that it is unreasonable to expect each and every website to patch up in the near future".[42]
+History[edit]
+The original OpenID authentication protocol was developed in May 2005[43] by Brad Fitzpatrick, creator of popular community website LiveJournal, while working at Six Apart.[44] Initially referred to as Yadis (an acronym for "Yet another distributed identity system"),[45] it was named OpenID after the openid.net domain name was given to Six Apart to use for the project.[46] OpenID support was soon implemented on LiveJournal and fellow LiveJournal engine community DeadJournal for blog post comments and quickly gained attention in the digital identity community.[47][48] Web developer JanRain was an early supporter of OpenID, providing OpenID software libraries and expanding its business around OpenID-based services.
+In late June, discussions started between OpenID users and developers from enterprise software company NetMesh, leading to collaboration on interoperability between OpenID and NetMesh's similar Light-weight Identity (LID) protocol. The direct result of the collaboration was the Yadis discovery protocol, adopting the name originally used for OpenID. The new Yadis was announced on October 24, 2005.[49] After a discussion at the 2005 Internet Identity Workshop a few days later, XRI/i-names developers joined the Yadis project,[50] contributing their Extensible Resource Descriptor Sequence (XRDS) format for utilization in the protocol.[51]
+In December, developers at Sxip Identity began discussions with the OpenID/Yadis community[52] after announcing a shift in the development of version 2.0 of its Simple Extensible Identity Protocol (SXIP) to URL-based identities like LID and OpenID.[53] In March 2006, JanRain developed a Simple Registration (SREG) extension for OpenID enabling primitive profile-exchange[54] and in April submitted a proposal to formalize extensions to OpenID. The same month, work had also begun on incorporating full XRI support into OpenID.[55] Around early May, key OpenID developer David Recordon left Six Apart, joining VeriSign to focus more on digital identity and guidance for the OpenID spec.[48][56] By early June, the major differences between the SXIP 2.0 and OpenID projects were resolved with the agreement to support multiple personas in OpenID by submission of an identity provider URL rather than a full identity URL. With this, as well as the addition of extensions and XRI support underway, OpenID was evolving into a full-fledged digital identity framework, with Recordon proclaiming "We see OpenID as being an umbrella for the framework that encompasses the layers for identifiers, discovery, authentication and a messaging services layer that sits atop and this entire thing has sort of been dubbed 'OpenID 2.0'.[57] " In late July, Sxip began to merge its Digital Identity Exchange (DIX) protocol into OpenID, submitting initial drafts of the OpenID Attribute Exchange (AX) extension in August. Late in 2006, a ZDNet opinion piece made the case for OpenID to users, web site operators and entrepreneurs.[58]
+On January 31, 2007, Symantec announced support for OpenID in its Identity Initiative products and services.[59] A week later, on February 6 Microsoft made a joint announcement with JanRain, Sxip, and VeriSign to collaborate on interoperability between OpenID and Microsoft's Windows CardSpace digital identity platform, with particular focus on developing a phishing-resistant authentication solution for OpenID. As part of the collaboration, Microsoft pledged to support OpenID in its future identity server products and JanRain, Sxip, and VeriSign pledged to add support for Microsoft's Information Card profile to their future identity solutions.[60] In mid-February, AOL announced that an experimental OpenID provider service was functional for all AOL and AOL Instant Messenger (AIM) accounts.[61]
+In May, Sun Microsystems began working with the OpenID community, announcing an OpenID program,[62] as well as entering a non-assertion covenant with the OpenID community, pledging not to assert any of its patents against implementations of OpenID.[22] In June, OpenID leadership formed the OpenID Foundation, an Oregon-based public benefit corporation for managing the OpenID brand and property.[63] The same month, an independent OpenID Europe Foundation was formed in Belgium[64] by Snorri Giorgetti. By early December, non-assertion agreements were collected by the major contributors to the protocol and the final OpenID Authentication 2.0 and OpenID Attribute Exchange 1.0 specifications were ratified on December 5.[65]
+In mid-January 2008, Yahoo! announced initial OpenID 2.0 support, both as a provider and as a relying party, releasing the provider service by the end of the month.[66] In early February, Google, IBM, Microsoft, VeriSign and Yahoo! joined the OpenID Foundation as corporate board members.[67] Around early May, SourceForge, Inc. introduced OpenID provider and relying party support to leading open source software development website SourceForge.net.[68] In late July, popular social network service MySpace announced support for OpenID as a provider.[69] In late October, Google launched support as an OpenID provider and Microsoft announced that Windows Live ID would support OpenID.[70] In November, JanRain announced a free hosted service, RPX Basic, that allows websites to begin accepting OpenIDs for registration and login without having to install, integrate and configure the OpenID open source libraries.[71]
+In January 2009, PayPal joined the OpenID Foundation as a corporate member, followed shortly by Facebook in February. The OpenID Foundation formed an executive committee and appointed Don Thibeau as executive director. In March, MySpace launched their previously announced OpenID provider service, enabling all MySpace users to use their MySpace URL as an OpenID. In May, Facebook launched their relying party functionality,[72][73] letting users use an automatic login-enabled OpenID account (e.g. Google) to log into Facebook.[74]
+In September 2013, Janrain announced that MyOpenID.com would be shut down on February 1, 2014; a pie chart showed Facebook and Google dominate the social login space as of Q2 2013.[75] Facebook has since left OpenID; it is no longer a sponsor, represented on the board, or permitting OpenID logins.[15][76]
+In May 2016, Symantec announced that they would be discontinuing their pip.verisignlabs.com OpenID personal identity portal service.[77][78]
+In March 2018, Stack Overflow announced an end to OpenID support, citing insufficient usage to justify the cost. In the announcement, it was stated that based on activity, users strongly preferred Facebook, Google, and e-mail/password based account authentication.[79]
+OpenID versus pseudo-authentication using OAuth[edit]
+OpenID is a way to use a single set of user credentials to access multiple sites, while OAuth facilitates the authorization of one site to access and use information related to the user's account on another site. Although OAuth is not an authentication protocol, it can be used as part of one.
+Authentication in the context of a user accessing an application tells an application who the current user is and whether or not they're present. [...] Authentication is all about the user and their presence with the application, and an internet-scale authentication protocol needs to be able to do this across network and security boundaries.
+However, OAuth tells the application none of that. OAuth says absolutely nothing about the user, nor does it say how the user proved their presence or even if they're still there. As far as an OAuth client is concerned, it asked for a token, got a token, and eventually used that token to access some API. It doesn't know anything about who authorized the application or if there was even a user there at all. In fact, much of the point of OAuth is about giving this delegated access for use in situations where the user is not present on the connection between the client and the resource being accessed. This is great for client authorization, but it's really bad for authentication where the whole point is figuring out if the user is there or not (and who they are).[80]
+The following drawing highlights the differences between using OpenID versus OAuth for authentication. Note that with OpenID, the process starts with the application asking the user for their identity (typically an OpenID URI), whereas in the case of OAuth, the application directly requests a limited access OAuth Token (valet key) to access the APIs (enter the house) on user's behalf. If the user can grant that access, the application can retrieve the unique identifier for establishing the profile (identity) using the APIs.
+Attack against pseudo-authentication[edit]
+OpenID provides a cryptographic verification mechanism that prevents the attack below against users who misuse OAuth for authentication.
+Note that the valet key does not describe the user in any way, it only provides limited access rights, to some house (which is not even necessarily the user's, they just had a key). Therefore if the key becomes compromised (the user is malicious and managed to steal the key to someone else's house), then the user can impersonate the house owner to the application who requested their authenticity. If the key is compromised by any point in the chain of trust, a malicious user may intercept it and use it to impersonate user X for any application relying on OAuth2 for pseudo authentication against the same OAuth authorization server. Conversely, the notarized letter contains the user's signature, which can be checked by the requesting application against the user, so this attack is not viable.
+[81]
+Verifying the letter[edit]
+The letter can use public-key cryptography to be authenticated.
+The requesting application provides its encryption public key to the user, which provides it to the authentication server.
+The authentication server encrypts a document containing an encryption key which corresponds to a one-way hash of a secret the user knows (e.g. passphrase) for challenge response using the application's public key.
+The user passes the encrypted document back to the application, which decrypts it.
+The application encrypts a random phrase using the received encryption key, and asks that the user do the same, then compares the results, if they match, the user is authentic.
+OpenID Connect (OIDC)[edit]
+Published in February 2014 by the OpenID Foundation, OpenID Connect is the third generation of OpenID technology. It is an authentication layer on top of the OAuth 2.0 authorization framework.[82] It allows computing clients to verify the identity of an end user based on the authentication performed by an authorization server, as well as to obtain the basic profile information about the end user in an interoperable and REST-like manner. In technical terms, OpenID Connect specifies a RESTful HTTP API, using JSON as a data format.
+OpenID Connect allows a range of parties, including web-based, mobile and JavaScript clients, to request and receive information about authenticated sessions and end users. The OpenID Connect specification is extensible, supporting optional features such as encryption of identity data, discovery of OpenID providers, and session management.
+See also[edit]
+Authorization
+OpenAthens
+Mozilla Persona
+Central Authentication Service
+IndieAuth
+Information card
+Liberty Alliance
+Light-weight Identity
+Security Assertion Markup Language (SAML)
+Shibboleth (software)
+Single sign-on
+SQRL
+WebFinger
+WebID
+WS-Federation
+References[edit]
+^ a b c d Eldon, Eric (14 April 2009). "Single sign-on service OpenID getting more usage". venturebeat.com. Retrieved 25 April 2009.
+^ "What is an OpenID?". 8 October 2007. Retrieved 19 June 2014.
+^ "OpenID Authentication 2.0 specification  Final". Retrieved 24 October 2011.
+^ "OpenID Attribute Exchange 1.0  Final". Retrieved 24 October 2011.
+^ "OpenID Authentication 2.0 - Final". 5 December 2007. Retrieved 18 May 2014.
+^ "OpenID Usage Statistics".
+^ bashburn, bill (22 April 2008). "BBC Joins OpenID Foundation".
+^ "Technology Leaders Join OpenID Foundation to Promote Open Identity Management on the Web". 7 February 2008.
+^ "PayPal Access Uses OpenID 2.0". OpenID  . 19 October 2011. Retrieved 19 June 2014.
+^ "Steam Community :: Steam Web API Documentation". Retrieved 10 February 2012.
+^ Perez, Juan Carlos (4 December 2008). "Facebook, Google launch data portability programs to all". Network World, Inc. Retrieved 19 June 2014.
+^ "It's spring cleaning time for Blogger". Blogger team. Retrieved 10 September 2019.
+^ "OpenID Authentication 1.1#Delegation".
+^ Paul Tarjan. "Easy OpenID Delegation with Yadis". Archived from the original on 4 July 2009. Retrieved 30 June 2009.
+^ a b "Leadership". openID Foundation. Retrieved 19 June 2014.
+^ "Trademark Assignment, Serial #: 78899244". United States Patent and Trademark Office. 6 May 2008. Retrieved 19 May 2008. Exec Dt: 03/27/2008
+^ "Latest Status Info". United States Patent and Trademark Office. 27 March 2006. Retrieved 20 March 2008.
+^ "NetMesh: Company / Management". NetMesh. Archived from the original on 30 August 2007. Retrieved 20 March 2008.
+^ "OpenID Europe Trademark & Logo Policy". OpenID Europe Foundation. Archived from the original on 9 March 2008. Retrieved 20 March 2008.
+^ Reddig, Randy (29 June 2005). "OpenID Logo". Danga Interactive. Retrieved 20 March 2008.
+^ Fitzpatrick, Brad (10 August 2009). "Intellectual Property".
+^ a b "Sun OpenID: Non-Assertion Covenant". Sun Microsystems. Retrieved 20 March 2008.
+^ "VeriSign's OpenID Non-Assertion Patent Covenant". VeriSign. Archived from the original on 15 April 2008. Retrieved 20 March 2008.
+^ Rui Wang; Shuo Chen; XiaoFeng Wang (May 2012). "Signing Me onto Your Accounts through Facebook and Google: a Traffic-Guided Security Study of Commercially Deployed Single-Sign-On Web Services".
+^ "Attribute Exchange Security Alert". 5 May 2011.
+^ "Security advisory to websites using OpenID Attribute Exchange". 5 May 2011.
+^ "Vulnerability report: Data confusion". 15 March 2012.
+^ Crowley, Paul (1 June 2005). "Phishing attacks on OpenID". Danga Interactive. Retrieved 20 March 2008.
+^ Anderson, Tim (5 March 2007). "OpenID still open to abuse". IT Week. Retrieved 13 March 2007.
+^ Slot, Marco. "Beginner's guide to OpenID phishing". Retrieved 31 July 2007.
+^ "Verisign PIP FAQ". Archived from the original on 13 November 2008. Retrieved 13 November 2008.
+^ Jones, Mike (31 December 2008). "PAPE Approved as an OpenID Specification". OpenID Foundation.
+^ Stefan Brands (22 August 2007). "The problem(s) with OpenID". Archived from the original on 16 May 2011. Retrieved 12 December 2010. (originally published on The Identity Corner at www.idcorner.org/?p=161)
+^ Tsyrklevich, Eugene. "Single Sign-On for the Internet: A Security Story" (PDF). Blackhat USA. Retrieved 19 April 2012.
+^ "Serious security flaw in OAuth, OpenID discovered". CNET. 2 May 2014. Retrieved 10 November 2014.
+^ "Covert Redirect". Tetraph. 1 May 2014. Retrieved 10 November 2014.
+^ "Facebook, Google Users Threatened by New Security Flaw". Yahoo. 2 May 2014. Retrieved 10 November 2014.
+^ "Nasty Covert Redirect Vulnerability found in OAuth and OpenID". The Hacker News. 3 May 2014. Retrieved 10 November 2014.
+^ "Math student detects OAuth, OpenID security vulnerability". Tech Xplore. 3 May 2014. Retrieved 10 November 2014.
+^ "Covert Redirect". OpenID. 15 May 2014. Retrieved 10 November 2014.
+^ "'Covert Redirect' vulnerability impacts OAuth 2.0, OpenID". SC Magazine. 2 May 2014. Retrieved 10 November 2014.
+^ "Lessons to be Learned from Covert Redirect". 41st Parameter. 5 May 2014. Retrieved 10 November 2014.
+^ Fitzpatrick, Brad (16 May 2005). "Distributed Identity: Yadis". LiveJournal. Archived from the original on 4 May 2006. Retrieved 20 March 2008.
+^ Waters, John K (1 December 2007). "OpenID Updates Identity Spec". Redmond Developer News. Archived from the original on 8 February 2008. Retrieved 20 March 2008.
+^ "Glossary". LiveJournal Server: Technical Info. Retrieved 13 October 2009.
+^ Lehn, David I. (18 May 2005). "18 May 2005". Advogato blog for dlehn. Advogato. Archived from the original on 21 December 2010. Retrieved 13 October 2009. They were looking for a name and managed to email me about openid.net right before I was going to offer it to them. So I gave it to them for the new and improved OpenID project.
+^ "OpenID: an actually distributed identity system". 24 September 2005. Archived from the original on 24 September 2005. Retrieved 20 March 2008.
+^ a b Fitzpatrick, Brad (30 May 2006). "brad's life  OpenID and SixApart". LiveJournal. Archived from the original on 25 April 2007. Retrieved 20 March 2008.
+^ Recordon, David (24 December 2005). "Announcing YADIS...again". Danga Interactive. Retrieved 20 March 2008.
+^ Reed, Dummond (31 December 2005). "Implementing YADIS with no new software". Danga Interactive. Retrieved 20 March 2008.
+^ Reed, Drummond (30 November 2008). "XRD Begins". Equals Drummond. Retrieved 5 January 2009.
+^ Hardt, Dick (18 December 2005). "Sxip concerns with YADIS". Danga Interactive. Retrieved 20 March 2008.
+^ Hardt, Dick (10 December 2005). "SXIP 2.0 Teaser". Identity 2.0. Archived from the original on 14 August 2007. Retrieved 20 March 2008.
+^ Hoyt, Josh (15 March 2006). "OpenID + Simple Registration Information Exchange". Danga Interactive. Retrieved 20 March 2008.
+^ Grey, Victor (2 April 2006). "Proposal for an XRI (i-name) profile for OpenID". Danga Interactive. Retrieved 20 March 2008.
+^ Recordon, David (29 April 2006). "Movin' On..." LiveJournal. Archived from the original on 20 October 2006. Retrieved 20 March 2008.
+^ Recordon, David (16 June 2006). "Moving OpenID Forward". Danga Interactive. Retrieved 19 May 2008.
+^ Becker, Phil (4 December 2006). "The case for OpenID". ZDNet. Retrieved 12 December 2010.
+^ "Symantec Unveils Security 2.0 Identity Initiative at DEMO 07 Conference". Symantec. 31 January 2007. Retrieved 20 March 2008.
+^ Graves, Michael (6 February 2007). "VeriSign, Microsoft & Partners to Work together on OpenID + Cardspace". VeriSign. Archived from the original on 3 May 2008. Retrieved 20 March 2008.
+^ Panzer, John (16 February 2007). "AOL and 63 Million OpenIDs". AOL Developer Network. Archived from the original on 11 May 2008. Retrieved 20 March 2008.
+^ "Sun Microsystems Announces OpenID Program". PR Newswire. 7 May 2007. Retrieved 20 March 2008.
+^ OpenID Board of Directors (1 June 2007). "OpenID Foundation". Retrieved 20 March 2008.
+^ OpenID Europe Foundation
+^ "OpenID 2.0...Final(ly)!". OpenID Foundation. 5 December 2007. Retrieved 20 March 2008.
+^ "Yahoo! Announces Support for OpenID; Users Able to Access Multiple Internet Sites with Their Yahoo! ID". Yahoo!. 17 January 2008. Archived from the original on 4 March 2008. Retrieved 20 March 2008.
+^ "Technology Leaders Join OpenID Foundation to Promote Open Identity Management on the Web". OpenID Foundation. Marketwire. 7 February 2008. Retrieved 20 March 2008.
+^ "SourceForge Implements OpenID Technology" (Press release). SourceForge, Inc. 7 May 2008. Archived from the original on 13 May 2008. Retrieved 21 May 2008.
+^ "MySpace Announces Support for "OpenID" and Introduces New Data Availability Implementations". Business Wire. MySpace. 22 July 2008. p. 2. Retrieved 23 July 2008.
+^ "Microsoft and Google announce OpenID support". OpenID Foundation. 30 October 2008.
+^ "JanRain Releases Free Version of Industry Leading OpenID Solution" (Press release). JanRain, Inc. 14 November 2008. Archived from the original on 18 December 2008. Retrieved 14 November 2008.
+^ "Facebook Developers | Facebook Developers News". Developers.facebook.com. 18 May 2009. Archived from the original on 23 December 2009. Retrieved 28 July 2009.
+^ "Facebook now accepts Google account logins". Pocket-lint.com. 19 May 2009. Retrieved 28 July 2009.
+^ "OpenID Requirements   Facebook Developer Wiki". Wiki.developers.facebook.com. 26 June 2009. Archived from the original on 23 December 2009. Retrieved 28 July 2009.
+^ Kane, Zee M (4 September 2013). "MyOpenID to shut down. Will be turned off on February 1, 2014". The Next Web. Retrieved 5 September 2013.
+^ "OpenID Sponsoring Members". 7 October 2009. Retrieved 17 April 2014.
+^ "Symantec Personal Identification Portal banner indicates service will be discontinued on 12 September 2016". Archived from the original on 11 June 2016. Retrieved 17 May 2016.
+^ "Is Symantec failing hard at being Google?". 7 May 2016. Retrieved 17 May 2016.
+^ "Support for OpenID ended on July 25, 2018".
+^ "User Authentication with OAuth 2.0". OAuth.net. Retrieved 19 March 2015.
+^ "Why is it a bad idea to use plain oauth2 for authentication?". Information Security Stack Exchange. Retrieved 7 July 2018.
+^ "OpenID Connect FAQ and Q&As". 20 February 2014. Retrieved 25 August 2014.
+External links[edit]
+Official website 
+OpenID at Curlie
+vteAuthenticationAuthenticationAPIs
+BSD Authentication (BSD Auth)
+eAuthentication (eAuth)
+Generic Security Services API (GSSAPI)
+Java Authentication and Authorization Service (JAAS)
+Pluggable Authentication Modules (PAM)
+Simple Authentication and Security Layer (SASL)
+Security Support Provider Interface (SSPI)
+XCert Universal Database API (XUDA)
+Authenticationprotocols
+ACF2
+Authentication and Key Agreement (AKA)
+CAVE-based authentication
+Challenge-Handshake Authentication Protocol (CHAP)
+MS-CHAP
+Central Authentication Service (CAS)
+CRAM-MD5
+Diameter
+Extensible Authentication Protocol (EAP)
+Host Identity Protocol (HIP)
+IndieAuth
+Kerberos
+LAN Manager
+NT LAN Manager (NTLM)
+OAuth
+OpenID
+OpenID Connect (OIDC)
+Password-authenticated key agreement protocols
+Password Authentication Protocol (PAP)
+Protected Extensible Authentication Protocol (PEAP)
+Remote Access Dial In User Service (RADIUS)
+Resource Access Control Facility (RACF)
+Secure Remote Password protocol (SRP)
+TACACS
+Woo Lam
+ Category
+ Commons
+Retrieved from "https://en.wikipedia.org/w/index.php?title=OpenID&oldid=1147313990"

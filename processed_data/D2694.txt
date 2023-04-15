@@ -1,0 +1,152 @@
+Maintaining a device in working condition
+"Repair" and "repairman" redirect here. For home repair, see Home repair.
+For the Wikipedia administrative page, see Wikipedia:Maintenance.For other topics about maintenance, see Maintenance (disambiguation). A tractor being mechanically repaired in Werneuchen, 1966.
+ Field repair of aircraft engine (1915 1916)
+The technical meaning of maintenance involves functional checks, servicing, repairing or replacing of necessary devices, equipment, machinery, building infrastructure, and supporting utilities in industrial, business, and residential installations.[1][2] Over time, this has come to include multiple wordings that describe various cost-effective practices to keep equipment operational; these activities occur  either before[3] or after a failure.
+Definitions[edit]
+Maintenance functions can defined as maintenance, repair and overhaul (MRO), and MRO is also used for maintenance, repair and operations.[4] Over time, the terminology of maintenance and MRO has begun to become standardized. The United States Department of Defense uses the following definitions:[5]
+Any activity such as tests, measurements, replacements, adjustments, and repairs intended to retain or restore a functional unit in or to a specified state in which the unit can perform its required functions.[5]
+All action taken to retain material in a serviceable condition or to restore it to serviceability. It includes inspections, testing, servicing, classification as to serviceability, repair,  rebuilding, and reclamation.[5]
+All supply and repair action taken to keep a force in condition to carry out its mission.[5]
+The routine recurring work required to keep a facility (plant, building, structure, ground facility, utility system, or other real property) in such condition that it may be continuously used, at its original or designed capacity and efficiency for its intended purpose.[5]
+Maintenance is strictly connected to the utilization stage of the product or technical system, in which the concept of maintainability must be included. In this scenario, maintainability is considered as the ability of an item, under stated conditions of use, to be retained in or restored to a state in which it can perform its required functions, using prescribed procedures and resources.[6][7]
+In some domains like aircraft maintenance, terms maintenance, repair and overhaul[8] also include inspection, rebuilding, alteration and the supply of spare parts, accessories, raw materials, adhesives, sealants, coatings and consumables for aircraft maintenance at the utilization stage. In international civil aviation maintenance means: 
+The performance of tasks required to ensure the continuing airworthiness of an aircraft, including any one or combination of overhaul, inspection, replacement, defect rectification, and the embodiment of a modification or a repair.[9]
+This definition covers all activities for which aviation regulations require issuance of a maintenance release document (aircraft certificate of return to service   CRS). Road repair
+Types[edit]
+The marine and air transportation,[10] offshore structures,[11] industrial plant and facility management industries depend on maintenance, repair and overhaul (MRO) including scheduled or preventive paint maintenance programmes to maintain and restore coatings applied to steel in environments subject to attack from erosion, corrosion and environmental pollution.[11]
+The basic types of maintenance falling under MRO include:
+Preventive maintenance, where equipment is checked and serviced in a planned manner (in a scheduled points in time or continuously)
+Corrective maintenance, where equipment is repaired or replaced after wear, malfunction or break down
+Reinforcement[12]
+Architectural conservation employs MRO to preserve, rehabilitate, restore, or reconstruct historical structures with stone, brick, glass, metal, and wood which match the original constituent materials where possible, or with suitable polymer technologies when not.[13]
+Preventive maintenance[edit]
+ C-130J Hercules preventive cleaning at Keesler Air Force Base, Mississippi after a period of operation over the Gulf of Mexico (salt and moisture which lead to active corrosion require regular cleaning)
+Preventive maintenance (PM) is "a routine for periodically inspecting" with the goal of "noticing small problems and fixing them before major ones develop."[14] Ideally, "nothing breaks down."[15]
+The main goal behind PM is for the equipment to make it from one planned service to the next planned service without any failures caused by fatigue, neglect, or normal wear (preventable items), which Planned Maintenance and Condition Based Maintenance help to achieve by replacing worn components before they actually fail. Maintenance activities include partial or complete overhauls at specified periods, oil changes, lubrication, minor adjustments, and so on. In addition, workers can record equipment deterioration so they know to replace or repair worn parts before they cause system failure.
+The New York Times gave an example of "machinery that is not lubricated on schedule" that functions "until a bearing burns out." Preventive maintenance contracts are generally a fixed cost, whereas improper maintenance introduces a variable cost: replacement of major equipment.[14]
+Main objective of PM are:
+Enhance capital equipment productive life.
+Reduce critical equipment breakdown.
+Minimize production loss due to equipment failures.
+Preventive maintenance or preventative[16] maintenance (PM) has the following meanings:
+The care and servicing by personnel for the purpose of maintaining equipment in satisfactory operating condition by providing for systematic inspection, detection, and correction of incipient failures either before they occur or before they develop into major defects.
+The work carried out on equipment in order to avoid its breakdown or malfunction. It is a regular and routine action taken on equipment in order to prevent its breakdown.[17]
+Maintenance, including tests, measurements, adjustments, parts replacement, and cleaning, performed specifically to prevent faults from occurring.
+Other terms and abbreviations related to PM are:
+scheduled maintenance[18]
+planned maintenance,[19] which may include scheduled downtime for equipment replacement
+planned preventive maintenance (PPM) is another name for PM[20]
+breakdown maintenance:[20] fixing things only when they break. This is also known as "a reactive maintenance strategy"[21] and may involve "consequential damage."[22]
+Planned maintenance[edit]
+Planned preventive maintenance (PPM), more commonly referred to as simply planned maintenance (PM) or scheduled maintenance, is any variety of scheduled maintenance to an object or item of equipment. Specifically, planned maintenance is a scheduled service visit carried out by a competent and suitable agent, to ensure that an item of equipment is operating correctly and to therefore avoid any unscheduled breakdown and downtime.[23]
+The key factor as to when and why this work is being done is timing, and involves a service, resource or facility being unavailable.[18][19] By contrast, condition-based maintenance is not directly based on equipment age.
+Planned maintenance is preplanned, and can be date-based, based on equipment running hours, or on distance travelled.
+Parts that have scheduled maintenance at fixed intervals, usually due to wearout or a fixed shelf life, are sometimes known as time-change interval, or TCI items.
+Predictive maintenance[edit]
+Main article: Predictive maintenance
+Predictive maintenance techniques are designed to help determine the condition of in-service equipment in order to estimate when maintenance should be performed. This approach promises cost savings over routine or time-based preventive maintenance, because tasks are performed only when warranted. Thus, it is regarded as condition-based maintenance carried out as suggested by estimations of the degradation state of an item. The main promise of predictive maintenance is to allow convenient scheduling of corrective maintenance, and to prevent unexpected equipment failures.[3] This maintenance strategy uses sensors to monitor key parameters within a machine or system, and uses this data in conjunction with analysed historical trends to continuously evaluate the system health and predict a breakdown before it happens.[24] This strategy allows maintenance to be performed more efficiently, since more up-to-date data is obtained about how close the product is to failure.[25]
+Predictive replacement is the replacement of an item that is still functioning properly.[26] Usually it's a tax-benefit based[citation needed] replacement policy whereby expensive equipment or batches of individually inexpensive supply items are removed  and donated on a predicted/fixed shelf life schedule. These items are given to tax-exempt institutions.[27][citation needed]
+Condition-based maintenance[edit]
+Condition-based maintenance (CBM), shortly described, is maintenance when need arises. Albeit chronologically much older, It is considered one section or practice inside the broader and newer predictive maintenance field, where new AI technologies and connectivity abilities are put to action and where the acronym CBM is more often used to describe 'condition Based Monitoring' rather than the maintenance itself. CBM maintenance is performed after one or more indicators show that equipment is going to fail or that equipment performance is deteriorating.
+This concept is applicable to mission-critical systems that incorporate active redundancy and fault reporting. It is also applicable to non-mission critical systems that lack redundancy and fault reporting.
+Condition-based maintenance was introduced to try to maintain the correct equipment at the right time. CBM is based on using real-time data to prioritize and optimize maintenance resources. Observing the state of the system is known as condition monitoring. Such a system will determine the equipment's health, and act only when maintenance is actually necessary. Developments in recent years have allowed extensive instrumentation of equipment, and together with better tools for analyzing condition data, the maintenance personnel of today is more than ever able to decide what is the right time to perform maintenance on some piece of equipment. Ideally, condition-based maintenance will allow the maintenance personnel to do only the right things, minimizing spare parts cost, system downtime and time spent on maintenance.
+Challenges[edit]
+Despite its usefulness of equipment, there are several challenges to the use of CBM. First and most important of all, the initial cost of CBM can be high. It requires improved instrumentation of the equipment. Often the cost of sufficient instruments can be quite large, especially on equipment that is already installed.  Wireless systems have reduced the initial cost.  Therefore, it is important for the installer to decide the importance of the investment before adding CBM to all equipment. A result of this cost is that the first generation of CBM in the oil and gas industry has only focused on vibration in heavy rotating equipment.
+Secondly, introducing CBM will invoke a major change in how maintenance is performed, and potentially to the whole maintenance organization in a company. Organizational changes are in general difficult.
+Also, the technical side of it is not always as simple. Even if some types of equipment can easily be observed by measuring simple values such as vibration (displacement, velocity or acceleration), temperature or pressure, it is not trivial to turn this measured data into actionable knowledge about the health of the equipment.
+Value potential[edit]
+As systems get more costly, and instrumentation and information systems tend to become cheaper and more reliable, CBM becomes an important tool for running a plant or factory in an optimal manner. Better operations will lead to lower production cost and lower use of resources. And lower use of resources may be one of the most important differentiators in a future where environmental issues become more important by the day.
+Another scenario where value can be created is by monitoring the health of a car motor. Rather than changing parts at predefined intervals, the car itself can tell you when something needs to be changed based on cheap and simple instrumentation.
+It is Department of Defense policy that condition-based maintenance (CBM) be "implemented to improve maintenance agility and responsiveness, increase operational availability, and reduce life cycle total ownership costs".[28]
+Advantages and disadvantages[edit]
+CBM has some advantages over planned maintenance:
+Improved system reliability
+Decreased maintenance costs
+Decreased number of maintenance operations causes a reduction of human error influences
+Its disadvantages are:
+High installation costs, for minor equipment items often more than the value of the equipment
+Unpredictable maintenance periods cause costs to be divided unequally.
+Increased number of parts (the CBM installation itself) that need maintenance and checking.
+Today, due to its costs, CBM is not used for less important parts of machinery despite obvious advantages. However it can be found everywhere where increased safety is required, and in future will be applied even more widely.[29][30]
+Corrective maintenance[edit]
+Main article: Corrective maintenance
+Corrective maintenance is a type of maintenance used for equipment after equipment break down or malfunction is often most expensive   not only can worn equipment damage other parts and cause multiple damage, but consequential repair and replacement costs and loss of revenues due to down time during overhaul can be significant. Rebuilding and resurfacing of equipment and infrastructure damaged by erosion and corrosion as part of corrective or preventive maintenance programmes involves conventional processes such as welding and metal flame spraying, as well as engineered solutions with thermoset polymeric materials.[31]
+See also[edit]
+Look up repair or revamping in Wiktionary, the free dictionary.
+Active redundancy
+Aircraft maintenance
+Aircraft maintenance checks
+Auto maintenance
+Bicycle maintenance
+Bus garage
+Darning
+Department of Defense Dictionary of Military and Associated Terms
+Design for repair
+Fault reporting
+Intelligent maintenance systems
+Kludge
+Logistics center
+Maintainability
+Motive power depot
+Operational availability
+Operational maintenance
+Predictive maintenance
+Product lifecycle
+Prognostics
+RAMS
+Reliability centered maintenance
+Reliability engineering
+Remanufacturing
+Right to repair
+Total productive maintenance
+Value-driven maintenance
+References[edit]
+^ "Defense Logistics Agency". DLA.mil. Retrieved 5 August 2016.
+^ "European Federation of National Maintenance Societies". EFNMS.org. Retrieved 5 August 2016. All actions which have the objective of retaining or restoring an item in or to a state in which it can perform its required function. These include the combination of all technical and corresponding administrative, managerial, and supervision actions.
+^ a b Ken Staller. "Defining Preventive & Predictive Maintenance".
+^ "MRO   Definition". RF System Lab.
+^ a b c d e Federal Standard 1037C and from MIL-STD-188 and from the Department of Defense Dictionary of Military and Associated Terms
+^ "AAP-6   Glossary of terms and definitions". NATO Standardization Agency. North Atlantic Treaty Organization: 158.
+^ "Commercial Electrical Contractor and Domestic Electrician Leeds". 247 Electrical Services Leeds. Retrieved 2017-01-26.
+^ United States Code of Federal Regulations Title 14, Part 43   Maintenance, Preventive Maintenance, Rebuilding, and Alteration
+^ Airworthiness Manual, Doc 9760 (3 ed.). Montreal (Canada): International Civil Aviation Organization. 2014. p. 375. ISBN 978-92-9249-454-4. Archived from the original on 2018-09-01. Retrieved 2018-02-18. The Airworthiness Manual (Doc 9760) contains a consolidation of airworthiness-related information previously found in other ICAO documents ... provides guidance to States on how to meet their airworthiness responsibilities under the Convention on International Civil Aviation. This third edition is presented based on States' roles and responsibilities, thus as State of Registry, State of the Operator, State of Design and State of Manufacture. It also describes the interface between different States and their related responsibilities. It has been updated to incorporate changes to Annex 8 to the Chicago Convention   Airworthiness of Aircraft, and to Annex 6   Operation of Aircraft
+^ Berendsen, A. M.; Springer (2013). Marine Painting Manual (1st ed.). ISBN 978-90-481-8244-2.
+^ a b ISO 12944-9:2018   Paints and Varnishes   Corrosion Protection of Steel Structures by Protective Paint Systems   Part 9: Protective Paint Systems and Laboratory Performance Test Methods for Offshore and Related Structures.
+^ Singhvi, Anjali; Gr ndahl, Mika (January 1, 2019). "What's Different in the M.T.A.'s New Plan for Repairing the L Train Tunnel". The New York Times.
+^ Charles Velson Horie (2010). Materials for Conservation: Organic Consolidants, Adhesives and Coatings (2nd ed.). Butterworth-Heinemann. ISBN 978-0-75-066905-4.
+^ a b Micharl Decourcy Hinds (February 17, 1985). "Preventive Maintenance: A Checklist". The New York Times.
+^ Erik Sandberg-Diment (August 14, 1984). "Personal computers preventive maintenance for an aging computer". The New York Times.
+^ Ben Zimmer (April 18, 2010). "Wellness". The New York Times. Complaints about preventative go back to the late 18th century ... ("Oxford English Dictionary dates preventive to 1626 and preventative to 1655) ..preventive has won"
+^ O. A. Bamiro; D. Nzediegwu; K. A. Oladejo; A. Rahaman; A. Adebayo (2011). Mastery of Technology for Junior School Certificate Examination. Ibadan: Evans Brothers (Nigeria Publishers) Limited.
+^ a b "CPOL: System Maintenance and Downtime Announcements". Retrieved March 21, 2019. ... out of service from 6:00 7:00am Eastern for regularly scheduled maintenance.
+^ a b "Dodge City Radar Planned Maintenance". weather.gov (National Weather Service). ... will be down for approximately five days
+^ a b "The development of a cost benefit analysis method for monitoring the condition of batch" (PDF). Archived (PDF) from the original on March 22, 2019.
+^ "What is PPM Maintenance?".
+^ e.g. from leaks that could have been prevented
+^ Wood, Brian (2003). Building care. Wiley-Blackwell. ISBN 978-0-632-06049-8. Retrieved 2011-04-22.
+^ Garcia, Mari Cruz; Sanz-Bobi, Miguel A.; Del Pico, Javier (August 2006), "SIMAP: Intelligent System for Predictive Maintenance: Application to the health condition monitoring of a windturbine gearbox", Computers in Industry, 57 (6): 552 568, doi:10.1016/j.compind.2006.02.011
+^ Kaiser, Kevin A.; Gebraeel, Nagi Z. (12 May 2009), "Predictive Maintenance Management Using Sensor-Based Degradation Models", IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans, 39 (4): 840 849, doi:10.1109/TSMCA.2009.2016429, hdl:1853/56106, S2CID 5975976
+^ "Spacewalking Astronauts Swap Out Space Station's Batteries". The New York Times. March 22, 2019. Retrieved March 22, 2019.
+^ such as universities and local schools, which write government-acceptable receipts
+^ CBM Policy Memorandum.
+^ Liu, Jie; Wang, Golnaraghi (2010). "An enhanced diagnostic scheme for bearing condition monitoring". IEEE Transactions on Instrumentation and Measurement. 59 (2): 309 321. Bibcode:2010ITIM...59..309L. doi:10.1109/tim.2009.2023814. S2CID 1892843.
+^ Jardine, A.K.S.; Lin, Banjevic (2006). "A review on machinery diagnostics and prognostics implementing condition-based maintenance". Mechanical Systems and Signal Processing. 20 (7): 1483 1510. Bibcode:2006MSSP...20.1483J. doi:10.1016/j.ymssp.2005.09.012.
+^ Industrial Polymer Applications: Essential Chemistry and Technology (1st ed.). United Kingdom: Royal Society of Chemistry. 2016. ISBN 978-1782628149.
+ This article incorporates public domain material from Federal Standard 1037C. General Services Administration. (in support of MIL-STD-188).
+Bibliography[edit]
+Maintenance Planning, Coordination & Scheduling, by Don Nyman & Joel Levitt Maintenance ISBN 978-0831134181
+Further reading[edit]
+Wu, S.; Zuo, M.J. (2010). "Linear and nonlinear preventive maintenance" (PDF). IEEE Transactions on Reliability. 59 (1): 242 249. doi:10.1109/TR.2010.2041972. S2CID 34832834. Archived (PDF) from the original on 2016-08-18.
+[1] 9 Types of Maintenance: How to choose the right maintenance strategy, Erik Hupje, Road to Reliability  (2020)
+Sources[edit]
+Smith, Maj. Ricky. "Walter Reed Building 18   It Could Happen Anywhere   So Don't Let It Happen To You". Archived from the original on March 9, 2012.
+Authority control International
+FAST
+National
+France
+BnF data
+Germany
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Maintenance&oldid=1147276312"

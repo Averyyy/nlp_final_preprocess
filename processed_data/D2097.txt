@@ -1,0 +1,773 @@
+Force distributed over an area
+This article is about pressure in the physical sciences. For other uses, see Pressure (disambiguation).
+PressureCommon symbolsp, PSI unitpascal [Pa]In SI base units1 N/m2, 1 kg/(m s2), or 1 J/m3Derivations fromother quantitiesp = F / ADimensionM L 1 T 2
+ Pressure as exerted by particle collisions inside a closed container
+ThermodynamicsThe classical Carnot heat engine
+Branches
+Classical
+Statistical
+Chemical
+Quantum thermodynamics
+Equilibrium / Non-equilibrium
+Laws
+Zeroth
+First
+Second
+Third
+Systems
+Closed system
+Open system
+Isolated system
+State
+Equation of state
+Ideal gas
+Real gas
+State of matter
+Phase (matter)
+Equilibrium
+Control volume
+Instruments
+Processes
+Isobaric
+Isochoric
+Isothermal
+Adiabatic
+Isentropic
+Isenthalpic
+Quasistatic
+Polytropic
+Free expansion
+Reversibility
+Irreversibility
+Endoreversibility
+Cycles
+Heat engines
+Heat pumps
+Thermal efficiency
+System propertiesNote: Conjugate variables in italics
+Property diagrams
+Intensive and extensive properties
+Process functions
+Work
+Heat
+Functions of state
+Temperature / Entropy (introduction)
+Pressure / Volume
+Chemical potential / Particle number
+Vapor quality
+Reduced properties
+Material properties
+Property databases
+Specific heat capacity 
+c
+=
+{\displaystyle c=}
+T
+{\displaystyle T}
+ 
+S
+{\displaystyle \partial S}
+N
+{\displaystyle N}
+ 
+T
+{\displaystyle \partial T}
+Compressibility 
+ 
+=
+ 
+{\displaystyle \beta =-}
+1
+{\displaystyle 1}
+ 
+V
+{\displaystyle \partial V}
+V
+{\displaystyle V}
+ 
+p
+{\displaystyle \partial p}
+Thermal expansion 
+ 
+=
+{\displaystyle \alpha =}
+1
+{\displaystyle 1}
+ 
+V
+{\displaystyle \partial V}
+V
+{\displaystyle V}
+ 
+T
+{\displaystyle \partial T}
+Equations
+Carnot's theorem
+Clausius theorem
+Fundamental relation
+Ideal gas law
+Maxwell relations
+Onsager reciprocal relations
+Bridgman's equations
+Table of thermodynamic equations
+Potentials
+Free energy
+Free entropy
+Internal energy
+U
+(
+S
+,
+V
+)
+{\displaystyle U(S,V)}
+Enthalpy
+H
+(
+S
+,
+p
+)
+=
+U
++
+p
+V
+{\displaystyle H(S,p)=U+pV}
+Helmholtz free energy
+A
+(
+T
+,
+V
+)
+=
+U
+ 
+T
+S
+{\displaystyle A(T,V)=U-TS}
+Gibbs free energy
+G
+(
+T
+,
+p
+)
+=
+H
+ 
+T
+S
+{\displaystyle G(T,p)=H-TS}
+HistoryCulture
+History
+General
+Entropy
+Gas laws
+"Perpetual motion" machines
+Philosophy
+Entropy and time
+Entropy and life
+Brownian ratchet
+Maxwell's demon
+Heat death paradox
+Loschmidt's paradox
+Synergetics
+Theories
+Caloric theory
+Vis viva ("living force")
+Mechanical equivalent of heat
+Motive power
+Key publications
+An Experimental EnquiryConcerning ... Heat
+On the Equilibrium ofHeterogeneous Substances
+Reflections on theMotive Power of Fire
+Timelines
+Thermodynamics
+Heat engines
+ArtEducation
+Maxwell's thermodynamic surface
+Entropy as energy dispersal
+Scientists
+Bernoulli
+Boltzmann
+Bridgman
+Carath odory
+Carnot
+Clapeyron
+Clausius
+de Donder
+Duhem
+Gibbs
+von Helmholtz
+Joule
+Lewis
+Massieu
+Maxwell
+von Mayer
+Nernst
+Onsager
+Planck
+Rankine
+Smeaton
+Stahl
+Tait
+Thompson
+Thomson
+van der Waals
+Waterston
+Other
+Nucleation
+Self-assembly
+Self-organization
+Order and disorder
+ Categoryvte
+Pressure (symbol: p or P) is the force applied perpendicular to the surface of an object per unit area over which that force is distributed.[1]: 445  Gauge pressure (also spelled gage pressure)[a] is the pressure relative to the ambient pressure.
+Various units are used to express pressure. Some of these derive from a unit of force divided by a unit of area; the SI unit of pressure, the pascal (Pa), for example, is one newton per square metre (N/m2); similarly, the pound-force per square inch (psi, symbol lbf/in2) is the traditional unit of pressure in the imperial and US customary systems. Pressure may also be expressed in terms of standard atmospheric pressure; the atmosphere (atm) is equal to this pressure, and the torr is defined as 1 760 of this. Manometric units such as the centimetre of water, millimetre of mercury, and inch of mercury are used to express pressures in terms of the height of column of a particular fluid in a manometer.
+Definition[edit]
+Pressure is the amount of force applied perpendicular to the surface of an object per unit area. The symbol for it is "p" or P.[2]
+The IUPAC recommendation for pressure is a lower-case p.[3]
+However, upper-case P is widely used. The usage of P vs p depends upon the field in which one is working, on the nearby presence of other symbols for quantities such as power and momentum, and on writing style.
+Formula[edit]
+Conjugate variablesof thermodynamics
+ Pressure Volume (Stress) (Strain) Temperature Entropy Chemical potential Particle number
+Mathematically:
+p
+=
+F
+A
+,
+{\displaystyle p={\frac {F}{A}},}
+[4]
+where:
+p
+{\displaystyle p}
+ is the pressure,
+F
+{\displaystyle F}
+ is the magnitude of the normal force,
+A
+{\displaystyle A}
+ is the area of the surface on contact.
+Pressure is a scalar quantity. It relates the vector area element (a vector normal to the surface) with the normal force acting on it. The pressure is the scalar proportionality constant that relates the two normal vectors:
+d
+F
+n
+=
+ 
+p
+d
+A
+=
+ 
+p
+n
+d
+A
+.
+{\displaystyle d\mathbf {F} _{n}=-p\,d\mathbf {A} =-p\,\mathbf {n} \,dA.}
+The minus sign comes from the convention  that the force is considered towards the surface element, while the normal vector points outward. The equation has meaning in that, for any surface S in contact with the fluid, the total force exerted by the fluid on that surface is the surface integral over S of the right-hand side of the above equation.
+It is incorrect (although rather usual) to say "the pressure is directed in such or such direction". The pressure, as a scalar, has no direction. The force given by the previous relationship to the quantity has a direction, but the pressure does not. If we change the orientation of the surface element, the direction of the normal force changes accordingly, but the pressure remains the same.[citation needed]
+Pressure is distributed to solid boundaries or across arbitrary sections of fluid normal to these boundaries or sections at every point. It is a fundamental parameter in thermodynamics, and it is conjugate to volume.[5]
+Units[edit]
+ Mercury column
+The SI unit for pressure is the pascal (Pa), equal to one newton per square metre (N/m2, or kg m 1 s 2). This name for the unit was added in 1971;[6] before that, pressure in SI was expressed simply in newtons per square metre.
+Other units of pressure, such as pounds per square inch (lbf/in2) and bar, are also in common use. The CGS unit of pressure is the barye (Ba), equal to 1 dyn cm 2, or 0.1 Pa. Pressure is sometimes expressed in grams-force or kilograms-force per square centimetre (g/cm2 or kg/cm2) and the like without properly identifying the force units. But using the names kilogram, gram, kilogram-force, or gram-force (or their symbols) as units of force is expressly forbidden in SI. The technical atmosphere (symbol: at) is 1 kgf/cm2 (98.0665 kPa, or 14.223 psi).
+Pressure is related to energy density and may be expressed in units such as joules per cubic metre (J/m3, which is equal to Pa).
+Mathematically:
+p
+=
+F
+ 
+distance
+A
+ 
+distance
+=
+Work
+Volume
+=
+Energy (J)
+Volume 
+(
+m
+3
+)
+.
+{\displaystyle p={\frac {F\cdot {\text{distance}}}{A\cdot {\text{distance}}}}={\frac {\text{Work}}{\text{Volume}}}={\frac {\text{Energy (J)}}{{\text{Volume }}({\text{m}}^{3})}}.}
+Some meteorologists prefer the hectopascal (hPa) for atmospheric air pressure, which is equivalent to the older unit millibar (mbar). Similar pressures are given in kilopascals (kPa) in most other fields, except aviation where the hecto- prefix is commonly used. The inch of mercury is still used in the United States. Oceanographers usually measure underwater pressure in decibars (dbar) because pressure in the ocean increases by approximately one decibar per metre depth.
+The standard atmosphere (atm) is an established constant. It is approximately equal to typical air pressure at Earth mean sea level and is defined as 101325 Pa.
+Because pressure is commonly measured by its ability to displace a column of liquid in a manometer, pressures are often expressed as a depth of a particular fluid (e.g., centimetres of water, millimetres of mercury or inches of mercury). The most common choices are mercury (Hg) and water; water is nontoxic and readily available, while mercury's high density allows a shorter column (and so a smaller manometer) to be used to measure a given pressure. The pressure exerted by a column of liquid of height h and density   is given by the hydrostatic pressure equation p =  gh, where g is the gravitational acceleration. Fluid density and local gravity can vary from one reading to another depending on local factors, so the height of a fluid column does not define pressure precisely. 
+When millimetres of mercury (or inches of mercury) are quoted today, these units are not based on a physical column of mercury; rather, they have been given precise definitions that can be expressed in terms of SI units.[7] One millimetre of mercury is approximately equal to one torr. The water-based units still depend on the density of water, a measured, rather than defined, quantity. These manometric units are still encountered in many fields. Blood pressure is measured in millimetres (or centimetres) of mercury in most of the world, and lung pressures in centimetres of water are still common.[citation needed]
+Underwater divers use the metre sea water (msw or MSW) and foot sea water (fsw or FSW) units of pressure, and these are the standard units for pressure gauges used to measure pressure exposure in diving chambers and personal decompression computers. A msw is defined as 0.1 bar (= 100000 Pa = 10000 Pa), is not the same as a linear metre of depth. 33.066 fsw = 1 atm[citation needed] (1 atm = 101325 Pa / 33.066 = 3064.326 Pa).  The pressure conversion from msw to fsw is different from the length conversion: 10 msw = 32.6336 fsw, while 10 m = 32.8083 ft.[citation needed]
+Gauge pressure is often given in units with "g" appended, e.g. "kPag", "barg" or "psig", and units for measurements of absolute pressure are sometimes given a suffix of "a", to avoid confusion, for example "kPaa", "psia". However, the US National Institute of Standards and Technology recommends that, to avoid confusion, any modifiers be instead applied to the quantity being measured rather than the unit of measure.[8] For example, "pg = 100 psi" rather than "p = 100 psig".
+Differential pressure is expressed in units with "d" appended; this type of measurement is useful when considering sealing performance or whether a valve will open or close.
+Presently or formerly popular pressure units include the following:
+atmosphere (atm)
+manometric units:
+centimetre, inch, millimetre (torr) and micrometre (mTorr, micron) of mercury,
+height of equivalent column of water, including millimetre (mm H2O), centimetre (cm H2O), metre, inch, and foot of water;
+imperial and customary units:
+kip, short ton-force, long ton-force, pound-force, ounce-force, and poundal per square inch,
+short ton-force and long ton-force per square inch,
+fsw (feet sea water) used in underwater diving, particularly in connection with diving pressure exposure and decompression;
+non-SI metric units:
+bar, decibar, millibar,
+msw (metres sea water), used in underwater diving, particularly in connection with diving pressure exposure and decompression,
+kilogram-force, or kilopond, per square centimetre (technical atmosphere),
+gram-force and tonne-force (metric ton-force) per square centimetre,
+barye (dyne per square centimetre),
+kilogram-force and tonne-force per square metre,
+sthene per square metre (pieze).
+Examples[edit]
+ The effects of an external pressure of 700 bar on an aluminum cylinder with 5 mm (0.197 in) wall thickness
+As an example of varying pressures, a finger can be pressed against a wall without making any lasting impression; however, the same finger pushing a thumbtack can easily damage the wall. Although the force applied to the surface is the same, the thumbtack applies more pressure because the point concentrates that force into a smaller area. Pressure is transmitted to solid boundaries or across arbitrary sections of fluid normal to these boundaries or sections at every point. Unlike stress, pressure is defined as a scalar quantity. The negative gradient of pressure is called the force density.[9]
+Another example is a knife. If we try to cut with the flat edge, force is distributed over a larger surface area resulting in less pressure, and it will not cut. Whereas using the sharp edge, which has less surface area, results in greater pressure, and so the knife cuts smoothly. This is one example of a practical application of pressure[10]
+For gases, pressure is sometimes measured not as an absolute pressure, but relative to atmospheric pressure; such measurements are called gauge pressure. An example of this is the air pressure in an automobile tire, which might be said to be "220 kPa (32 psi)", but is actually 220 kPa (32 psi) above atmospheric pressure. Since atmospheric pressure at sea level is about 100 kPa (14.7 psi), the absolute pressure in the tire is therefore about 320 kPa (46 psi). In technical work, this is written "a gauge pressure of 220 kPa (32 psi)". 
+Where space is limited, such as on pressure gauges, name plates, graph labels, and table headings, the use of a modifier in parentheses, such as "kPa (gauge)" or "kPa (absolute)", is permitted. In non-SI technical work, a gauge pressure of 32 psi (220 kPa) is sometimes written as "32 psig", and an absolute pressure as "32 psia", though the other methods explained above that avoid attaching characters to the unit of pressure are preferred.[8]
+Gauge pressure is the relevant measure of pressure wherever one is interested in the stress on storage vessels and the plumbing components of fluidics systems. However, whenever equation-of-state properties, such as densities or changes in densities, must be calculated, pressures must be expressed in terms of their absolute values. For instance, if the atmospheric pressure is 100 kPa (15 psi), a gas (such as helium) at 200 kPa (29 psi) (gauge) (300 kPa or 44 psi [absolute]) is 50% denser than the same gas at 100 kPa (15 psi) (gauge) (200 kPa or 29 psi [absolute]). Focusing on gauge values, one might erroneously conclude the first sample had twice the density of the second one.[citation needed]
+Scalar nature[edit]
+In a static gas, the gas as a whole does not appear to move. The individual molecules of the gas, however, are in constant random motion. Because we are dealing with an extremely large number of molecules and because the motion of the individual molecules is random in every direction, we do not detect any motion. When the gas is at least partially confined (that is, not free to expand rapidly), the gas will exhibit a static pressure. This confinement can be achieved with either a physical container of some sort, or in a gravitational well such as a planet, otherwise known as atmospheric pressure. 
+In a physical container, the pressure of the gas originates from the molecules colliding with the walls of the container. We can put the walls of our container anywhere inside the gas, and the force per unit area (the pressure) is the same. We can shrink the size of our "container" down to a very small point (becoming less true as we approach the atomic scale), and the pressure will still have a single value at that point. Therefore, pressure is a scalar quantity, not a vector quantity. It has magnitude but no direction sense associated with it. Pressure force acts in all directions at a point inside a gas. At the surface of a gas, the pressure force acts perpendicular (at right angle) to the surface.[citation needed]
+A closely related quantity is the stress tensor  , which relates the vector force 
+F
+{\displaystyle \mathbf {F} }
+ to the 
+vector area 
+A
+{\displaystyle \mathbf {A} }
+ via the linear relation 
+F
+=
+ 
+A
+{\displaystyle \mathbf {F} =\sigma \mathbf {A} }
+.
+This tensor may be expressed as the sum of the viscous stress tensor minus the hydrostatic pressure. The negative of the stress tensor is sometimes called the pressure tensor, but in the following, the term "pressure" will refer only to the scalar pressure.[citation needed]
+According to the theory of general relativity, pressure increases the strength of a gravitational field (see stress energy tensor) and so adds to the mass-energy cause of gravity. This effect is unnoticeable at everyday pressures but is significant in neutron stars, although it has not been experimentally tested.[11]
+Types[edit]
+Fluid pressure[edit]
+Fluid pressure is most often the compressive stress at some point within a fluid.  (The term fluid refers to both liquids and gases   for more information specifically about liquid pressure, see section below.)
+ Water escapes at high speed from a damaged hydrant that contains water at high pressure
+Fluid pressure occurs in one of two situations:
+An open condition, called "open channel flow", e.g. the ocean, a swimming pool, or the atmosphere.
+A closed condition, called "closed conduit", e.g. a water line or gas line.
+Pressure in open conditions usually can be approximated as the pressure in "static" or non-moving conditions (even in the ocean where there are waves and currents), because the motions create only negligible changes in the pressure. Such conditions conform with principles of fluid statics. The pressure at any given point of a non-moving (static) fluid is called the hydrostatic pressure.
+Closed bodies of fluid are either "static", when the fluid is not moving, or "dynamic", when the fluid can move as in either a pipe or by compressing an air gap in a closed container. The pressure in closed conditions conforms with the principles of fluid dynamics.
+The concepts of fluid pressure are predominantly attributed to the discoveries of Blaise Pascal and Daniel Bernoulli. Bernoulli's equation can be used in almost any situation to determine the pressure at any point in a fluid. The equation makes some assumptions about the fluid, such as the fluid being ideal[12] and incompressible.[12] An ideal fluid is a fluid in which there is no friction, it is inviscid[12] (zero viscosity).[12] The equation for all points of a system filled with a constant-density fluid is[13]
+p
+ 
++
+v
+2
+2
+g
++
+z
+=
+c
+o
+n
+s
+t
+,
+{\displaystyle {\frac {p}{\gamma }}+{\frac {v^{2}}{2g}}+z=\mathrm {const} ,}
+where:
+p, pressure of the fluid,
+ 
+{\displaystyle {\gamma }}
+ =  g, density   acceleration of gravity is the (volume-) specific weight of the fluid,[12]
+v, velocity of the fluid,
+g, acceleration of gravity,
+z, elevation,
+p
+ 
+{\displaystyle {\frac {p}{\gamma }}}
+, pressure head,
+v
+2
+2
+g
+{\displaystyle {\frac {v^{2}}{2g}}}
+, velocity head.
+Applications[edit]
+Hydraulic brakes
+Artesian well
+Blood pressure
+Hydraulic head
+Plant cell turgidity
+Pythagorean cup
+Pressure washing
+Explosion or deflagration pressures[edit]
+Explosion or deflagration pressures are the result of the ignition of explosive gases, mists, dust/air suspensions, in unconfined and confined spaces.
+Negative pressures[edit]
+ Low-pressure chamber in Bundesleistungszentrum Kienbaum, Germany
+While pressures are, in general, positive, there are several situations in which negative pressures may be encountered:
+When dealing in relative (gauge) pressures. For instance, an absolute pressure of 80 kPa may be described as a gauge pressure of  21 kPa (i.e., 21 kPa below an atmospheric pressure of 101 kPa). For example, abdominal decompression is an obstetric procedure during which negative gauge pressure is applied intermittently to a pregnant woman's abdomen.
+Negative absolute pressures are possible. They are effectively tension, and both bulk solids and bulk liquids can be put under negative absolute pressure by pulling on them.[14] Microscopically, the molecules in solids and liquids have attractive interactions that overpower the thermal kinetic energy, so some tension can be sustained. Thermodynamically, however, a bulk material under negative pressure is in a metastable state, and it is especially fragile in the case of liquids where the negative pressure state is similar to superheating and is easily susceptible to cavitation.[15] In certain situations, the cavitation can be avoided and negative pressures sustained indefinitely,[15] for example, liquid mercury has been observed to sustain up to  425 atm in clean glass containers.[16] Negative liquid pressures are thought to be involved in the ascent of sap in plants taller than 10 m (the atmospheric pressure head of water).[17]
+The Casimir effect can create a small attractive force due to interactions with vacuum energy; this force is sometimes termed "vacuum pressure" (not to be confused with the negative gauge pressure of a vacuum).
+For non-isotropic stresses in rigid bodies, depending on how the orientation of a surface is chosen, the same distribution of forces may have a component of positive pressure along one surface normal, with a component of negative pressure acting along another surface normal.
+The stresses in an electromagnetic field are generally non-isotropic, with the pressure normal to one surface element (the normal stress) being negative, and positive for surface elements perpendicular to this.
+In cosmology, dark energy creates a very small yet cosmically significant amount of negative pressure, which accelerates the expansion of the universe.
+Stagnation pressure[edit]
+Main article: Stagnation pressure
+Stagnation pressure is the pressure a fluid exerts when it is forced to stop moving. Consequently, although a fluid moving at higher speed will have a lower static pressure, it may have a higher stagnation pressure when forced to a standstill. Static pressure and stagnation pressure are related by:
+p
+0
+=
+1
+2
+ 
+v
+2
++
+p
+{\displaystyle p_{0}={\frac {1}{2}}\rho v^{2}+p}
+where 
+p
+0
+{\displaystyle p_{0}}
+ is the stagnation pressure,
+ 
+{\displaystyle \rho }
+ is the density,
+v
+{\displaystyle v}
+ is the flow velocity,
+p
+{\displaystyle p}
+ is the static pressure.
+The pressure of a moving fluid can be measured using a Pitot tube, or one of its variations such as a Kiel probe or Cobra probe, connected to a manometer. Depending on where the inlet holes are located on the probe, it can measure static pressures or stagnation pressures.
+Surface pressure and surface tension[edit]
+There is a two-dimensional analog of pressure   the lateral force per unit length applied on a line perpendicular to the force.
+Surface pressure is denoted by  :
+ 
+=
+F
+l
+{\displaystyle \pi ={\frac {F}{l}}}
+and shares many similar properties with three-dimensional pressure. Properties of surface chemicals can be investigated by measuring pressure/area isotherms, as the two-dimensional analog of Boyle's law,  A = k, at constant temperature.
+Surface tension is another example of surface pressure, but with a reversed sign, because "tension" is the opposite to "pressure".
+Pressure of an ideal gas[edit]
+Main article: Ideal gas law
+In an ideal gas, molecules have no volume and do not interact. According to the ideal gas law, pressure varies linearly with temperature and quantity, and inversely with volume:
+p
+=
+n
+R
+T
+V
+,
+{\displaystyle p={\frac {nRT}{V}},}
+where:
+p is the absolute pressure of the gas,
+n is the amount of substance,
+T is the absolute temperature,
+V is the volume,
+R is the ideal gas constant.
+Real gases exhibit a more complex dependence on the variables of state.[18]
+Vapour pressure[edit]
+Main article: Vapour pressure
+Vapour pressure is the pressure of a vapour in thermodynamic equilibrium with its condensed phases in a closed system. All liquids and solids have a tendency to evaporate into a gaseous form, and all gases have a tendency to condense back to their liquid or solid form.
+The atmospheric pressure boiling point of a liquid (also known as the normal boiling point) is the temperature at which the vapor pressure equals the ambient atmospheric pressure. With any incremental increase in that temperature, the vapor pressure becomes sufficient to overcome atmospheric pressure and lift the liquid to form vapour bubbles inside the bulk of the substance. Bubble formation deeper in the liquid requires a higher pressure, and therefore higher temperature, because the fluid pressure increases above the atmospheric pressure as the depth increases.
+The vapor pressure that a single component in a mixture contributes to the total pressure in the system is called partial vapor pressure.
+Liquid pressure[edit]
+See also: Fluid statics  Pressure in fluids at rest
+Part of a series onContinuum mechanics
+J
+=
+ 
+D
+d
+ 
+d
+x
+{\displaystyle J=-D{\frac {d\varphi }{dx}}}
+Fick's laws of diffusion
+Laws
+Conservations
+Mass
+Momentum
+Energy
+Inequalities
+Clausius Duhem (entropy)
+Solid mechanics
+Deformation
+Elasticity
+linear
+Plasticity
+Hooke's law
+Stress
+Finite strain
+Infinitesimal strain
+Compatibility
+Bending
+Contact mechanics
+frictional
+Material failure theory
+Fracture mechanics
+Fluid mechanics
+Fluids
+Statics  Dynamics
+Archimedes' principle  Bernoulli's principle
+Navier Stokes equations
+Poiseuille equation  Pascal's law
+Viscosity
+(Newtonian  non-Newtonian)
+Buoyancy  Mixing  Pressure
+Liquids
+Adhesion
+Capillary action
+Chromatography
+Cohesion (chemistry)
+Surface tension
+Gases
+Atmosphere
+Boyle's law
+Charles's law
+Combined gas law
+Fick's law
+Gay-Lussac's law
+Graham's law
+Plasma
+Rheology
+Viscoelasticity
+Rheometry
+Rheometer
+Smart fluids
+Electrorheological
+Magnetorheological
+Ferrofluids
+Scientists
+Bernoulli
+Boyle
+Cauchy
+Charles
+Euler
+Fick
+Gay-Lussac
+Graham
+Hooke
+Newton
+Navier
+Noll
+Pascal
+Stokes
+Truesdell
+vte
+When a person swims under the water, water pressure is felt acting on the person's eardrums. The deeper that person swims, the greater the pressure. The pressure felt is due to the weight of the water above the person. As someone swims deeper, there is more water above the person and therefore greater pressure. The pressure a liquid exerts depends on its depth.
+Liquid pressure also depends on the density of the liquid. If someone was submerged in a liquid more dense than water, the pressure would be correspondingly greater. Thus, we can say that the depth, density and liquid pressure are directly proportionate. The pressure due to a liquid in liquid columns of constant density or at a depth within a substance is represented by the following formula:
+p
+=
+ 
+g
+h
+,
+{\displaystyle p=\rho gh,}
+where:
+p is liquid pressure,
+g is gravity at the surface of overlaying material,
+  is density of liquid,
+h is height of liquid column or depth within a substance.
+Another way of saying the same formula is the following:
+p
+=
+weight density
+ 
+depth
+.
+{\displaystyle p={\text{weight density}}\times {\text{depth}}.}
+Derivation of this equation
+This is derived from the definitions of pressure and weight density. Consider an area at the bottom of a vessel of liquid. The weight of the column of liquid directly above this area produces pressure. From the definition
+weight density
+=
+weight
+volume
+{\displaystyle {\text{weight density}}={\frac {\text{weight}}{\text{volume}}}}
+we can express this weight of liquid as
+weight
+=
+weight density
+ 
+volume
+,
+{\displaystyle {\text{weight}}={\text{weight density}}\times {\text{volume}},}
+where the volume of the column is simply the area multiplied by the depth. Then we have
+pressure
+=
+force
+area
+=
+weight
+area
+=
+weight density
+ 
+volume
+area
+,
+{\displaystyle {\text{pressure}}={\frac {\text{force}}{\text{area}}}={\frac {\text{weight}}{\text{area}}}={\frac {{\text{weight density}}\times {\text{volume}}}{\text{area}}},}
+pressure
+=
+weight density
+ 
+(area
+ 
+depth)
+area
+.
+{\displaystyle {\text{pressure}}={\frac {{\text{weight density}}\times {\text{(area}}\times {\text{depth)}}}{\text{area}}}.}
+With the "area" in the numerator and the "area" in the denominator canceling each other out, we are left with
+pressure
+=
+weight density
+ 
+depth
+.
+{\displaystyle {\text{pressure}}={\text{weight density}}\times {\text{depth}}.}
+Written with symbols, this is our original equation:
+p
+=
+ 
+g
+h
+.
+{\displaystyle p=\rho gh.}
+The pressure a liquid exerts against the sides and bottom of a container depends on the density and the depth of the liquid. If atmospheric pressure is neglected, liquid pressure against the bottom is twice as great at twice the depth; at three times the depth, the liquid pressure is threefold; etc. Or, if the liquid is two or three times as dense, the liquid pressure is correspondingly two or three times as great for any given depth. Liquids are practically incompressible   that is, their volume can hardly be changed by pressure (water volume decreases by only 50 millionths of its original volume for each atmospheric increase in pressure). Thus, except for small changes produced by temperature, the density of a particular liquid is practically the same at all depths.
+Atmospheric pressure pressing on the surface of a liquid must be taken into account when trying to discover the total pressure acting on a liquid. The total pressure of a liquid, then, is  gh plus the pressure of the atmosphere. When this distinction is important, the term total pressure is used. Otherwise, discussions of liquid pressure refer to pressure without regard to the normally ever-present atmospheric pressure.
+The pressure does not depend on the amount of liquid present. Volume is not the important factor   depth is. The average water pressure acting against a dam depends on the average depth of the water and not on the volume of water held back. For example, a wide but shallow lake with a depth of 3 m (10 ft) exerts only half the average pressure that a small 6 m (20 ft) deep pond does. (The total force applied to the longer dam will be greater, due to the greater total surface area for the pressure to act upon. But for a given 5-foot (1.5 m)-wide section of each dam, the 10 ft (3.0 m) deep water will apply one quarter the force of 20 ft (6.1 m) deep water). A person will feel the same pressure whether their head is dunked a metre beneath the surface of the water in a small pool or to the same depth in the middle of a large lake. 
+If four interconnected vases contain different amounts of water but are all filled to equal depths, then a fish with its head dunked a few centimetres under the surface will be acted on by water pressure that is the same in any of the vases. If the fish swims a few centimetres deeper, the pressure on the fish will increase with depth and be the same no matter which vase the fish is in. If the fish swims to the bottom, the pressure will be greater, but it makes no difference which vase it is in. All vases are filled to equal depths, so the water pressure is the same at the bottom of each vase, regardless of its shape or volume. If water pressure at the bottom of a vase were greater than water pressure at the bottom of a neighboring vase, the greater pressure would force water sideways and then up the narrower vase to a higher level until the pressures at the bottom were equalized. Pressure is depth dependent, not volume dependent, so there is a reason that water seeks its own level.
+Restating this as an energy equation, the energy per unit volume in an ideal, incompressible liquid is constant throughout its vessel. At the surface, gravitational potential energy is large but liquid pressure energy is low. At the bottom of the vessel, all the gravitational potential energy is converted to pressure energy. The sum of pressure energy and gravitational potential energy per unit volume is constant throughout the volume of the fluid and the two energy components change linearly with the depth.[19]  Mathematically, it is described by Bernoulli's equation, where velocity head is zero and comparisons per unit volume in the vessel are
+p
+ 
++
+z
+=
+c
+o
+n
+s
+t
+.
+{\displaystyle {\frac {p}{\gamma }}+z=\mathrm {const} .}
+Terms have the same meaning as in section Fluid pressure.
+Direction of liquid pressure[edit]
+An experimentally determined fact about liquid pressure is that it is exerted equally in all directions.[20] If someone is submerged in water, no matter which way that person tilts their head, the person will feel the same amount of water pressure on their ears. Because a liquid can flow, this pressure isn't only downward. Pressure is seen acting sideways when water spurts sideways from a leak in the side of an upright can. Pressure also acts upward, as demonstrated when someone tries to push a beach ball beneath the surface of the water. The bottom of a boat is pushed upward by water pressure (buoyancy).
+When a liquid presses against a surface, there is a net force that is perpendicular to the surface. Although pressure doesn't have a specific direction, force does. A submerged triangular block has water forced against each point from many directions, but components of the force that are not perpendicular to the surface cancel each other out, leaving only a net perpendicular point.[20] This is why water spurting from a hole in a bucket initially exits the bucket in a direction at right angles to the surface of the bucket in which the hole is located. Then it curves downward due to gravity. If there are three holes in a bucket (top, bottom, and middle), then the force vectors perpendicular to the inner container surface will increase with increasing depth   that is, a greater pressure at the bottom makes it so that the bottom hole will shoot water out the farthest. The force exerted by a fluid on a smooth surface is always at right angles to the surface. The speed of liquid out of the hole is 
+2
+g
+h
+{\displaystyle \scriptstyle {\sqrt {2gh}}}
+, where h is the depth below the free surface.[20] This is the same speed the water (or anything else) would have if freely falling the same vertical distance h.
+Kinematic pressure[edit]
+P
+=
+p
+/
+ 
+0
+{\displaystyle P=p/\rho _{0}}
+is the kinematic pressure, where 
+p
+{\displaystyle p}
+ is the pressure and 
+ 
+0
+{\displaystyle \rho _{0}}
+ constant mass density. The SI unit of P is m2/s2. Kinematic pressure is used in the same manner as kinematic viscosity 
+ 
+{\displaystyle \nu }
+ in order to compute the Navier Stokes equation without explicitly showing the density 
+ 
+0
+{\displaystyle \rho _{0}}
+.
+Navier Stokes equation with kinematic quantities
+ 
+u
+ 
+t
++
+(
+u
+ 
+)
+u
+=
+ 
+ 
+P
++
+ 
+ 
+2
+u
+.
+{\displaystyle {\frac {\partial u}{\partial t}}+(u\nabla )u=-\nabla P+\nu \nabla ^{2}u.}
+See also[edit]
+Atmospheric pressure  Static pressure exerted by the weight of the atmosphere
+Blood pressure  Pressure exerted by circulating blood upon the walls of arteries
+Boyle's law  Relationship between pressure and volume in a gas at constant temperature
+Combined gas law  Combination of Charles', Boyle's and Gay-Lussac's gas laws
+Conversion of units  Comparison of various scales
+Critical point (thermodynamics)  Temperature and pressure point where phase boundaries disappear
+Dimensional analysis  Analysis of the relationships between different physical quantities
+Dynamic pressure  Kinetic energy per unit volume of a fluid
+Electric potential  Line integral of the electric field
+Electron degeneracy pressure  Repulsive force in quantum mechanics
+High pressure  Great force distributed over a small area
+Hydraulics  Fluid engineering and fluid mechanics
+Internal pressure  measure of how the internal energy of a system changes when it expands or contracts at constant temperaturePages displaying wikidata descriptions as a fallback
+Kinetic theory  Historical physical model of gases
+Microphone  Device that converts sound into an electrical signal
+Orders of magnitude (pressure)  Range of exerted pressure from vacuums to black holes.Pages displaying wikidata descriptions as a fallback
+Partial pressure  Pressure attributed to a component gas in a mixture
+Pressure measurement  Analysis of force applied by a fluid on a surface
+Pressure sensor  Pressure measurement device
+Sound pressure  Local pressure deviation caused by a sound wave
+Static pressure  Term in fluid dynamics; how "heavy" a stagnant fluid is
+Timeline of temperature and pressure measurement technology
+Torricelli's law  theorem in fluid dynamicsPages displaying wikidata descriptions as a fallback
+Vacuum  Space that is empty of matter
+Vacuum pump  Equipment generating a relative vacuum
+Vertical pressure variation  Variation in pressure as a function of elevation
+Notes[edit]
+^ The preferred spelling varies by country and even by industry. Further, both spellings are often used within a particular industry or country. Industries in British English-speaking countries typically use the "gauge" spelling.
+References[edit]
+^ Knight, PhD, Randall D. (2007). "Fluid Mechanics". Physics for Scientists and Engineers: A Strategic Approach (google books) (2nd ed.). San Francisco: Pearson Addison Wesley. p. 1183. ISBN 978-0-321-51671-8. Retrieved 6 April 2020. Pressure itself is not a Force, even though we sometimes talk "informally" about the "force exerted by the pressure. The correct statement is that the Fluid exerts a force on a surface. In addition, Pressure is a scalar, not a vector. 
+^ 
+Giancoli, Douglas G. (2004). Physics: principles with applications. Upper Saddle River, N.J.: Pearson Education. ISBN 978-0-13-060620-4.
+^ 
+McNaught, A. D.; Wilkinson, A.; Nic, M.; Jirat, J.; Kosata, B.; Jenkins, A. (2014). IUPAC. Compendium of Chemical Terminology, 2nd ed. (the "Gold Book"). 2.3.3. Oxford: Blackwell Scientific Publications. doi:10.1351/goldbook.P04819. ISBN 978-0-9678550-9-7. Archived from the original on 2016-03-04.
+^ R Nave. "Pressure". Hyperphysics. Georgia State University, Dept. of Physics and Astronomy. Retrieved 2022-03-05.
+^ Alberty, Robert A. (2001). "USE OF LEGENDRE TRANSFORMS IN CHEMICAL THERMODYNAMICS (IUPAC Technical Report)" (PDF). Pure Appl. Chem. 73 (8): 1349 1380. doi:10.1351/pac200173081349. S2CID 98264934. Retrieved 1 November 2021. See Table 1 Conjugate pairs of variables ... (p.1357)
+^ "14th Conference of the International Bureau of Weights and Measures". Bipm.fr. Archived from the original on 2007-06-30. Retrieved 2012-03-27.
+^ International Bureau of Weights and Measures (2006), The International System of Units (SI) (PDF) (8th ed.), p. 127, ISBN 92-822-2213-6, archived (PDF) from the original on 2021-06-04, retrieved 2021-12-16
+^ a b "Rules and Style Conventions for Expressing Values of Quantities". NIST. 2 July 2009. Archived from the original on 2009-07-10. Retrieved 2009-07-07.
+^ Lautrup, Benny (2005). Physics of continuous matter : exotic and everyday phenomena in the macroscopic world. Bristol: Institute of Physics. p. 50. ISBN 9780750307529.
+^ Breithaupt, Jim (2015). Physics (Fourth ed.). Basingstoke. p. 106. ISBN 9781137443243.
+^ Vishwakarma, Ram Gopal (2009). "Einstein's gravity under pressure". Astrophysics and Space Science. 321 (2): 151 156. arXiv:0705.0825. Bibcode:2009Ap&SS.321..151V. doi:10.1007/s10509-009-0016-8. S2CID 218673952.
+^ a b c d e Finnemore, John, E. and Joseph B. Franzini (2002). Fluid Mechanics: With Engineering Applications. New York: McGraw Hill, Inc. pp. 14 29. ISBN 978-0-07-243202-2.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+^ NCEES (2011). Fundamentals of Engineering: Supplied Reference Handbook. Clemson, South Carolina: NCEES. p. 64. ISBN 978-1-932613-59-9.
+^ Imre, A. R. (2007). "How to generate and measure negative pressure in liquids?". Soft Matter under Exogenic Impacts. NATO Science Series II: Mathematics, Physics and Chemistry. Vol. 242. pp. 379 388. doi:10.1007/978-1-4020-5872-1_24. ISBN 978-1-4020-5871-4. ISSN 1568-2609.
+^ a b Imre, A. R; Maris, H. J; Williams, P. R, eds. (2002). Liquids Under Negative Pressure (Nato Science Series II). Springer. doi:10.1007/978-94-010-0498-5. ISBN 978-1-4020-0895-5.
+^ Briggs, Lyman J. (1953). "The Limiting Negative Pressure of Mercury in Pyrex Glass". Journal of Applied Physics. 24 (4): 488 490. Bibcode:1953JAP....24..488B. doi:10.1063/1.1721307. ISSN 0021-8979.
+^ Karen Wright (March 2003). "The Physics of Negative Pressure". Discover. Archived from the original on 8 January 2015. Retrieved 31 January 2015.
+^ P. Atkins, J. de Paula Elements of Physical Chemistry, 4th Ed, W. H. Freeman, 2006. ISBN 0-7167-7329-5.
+^ Streeter, V. L., Fluid Mechanics, Example 3.5, McGraw Hill Inc. (1966), New York.
+^ a b c Hewitt 251 (2006)[full citation needed]
+External links[edit]
+Introduction to Fluid Statics and Dynamics on Project PHYSNET
+Pressure being a scalar quantity
+wikiUnits.org - Convert units of pressure
+Authority control: National 
+Spain
+France
+BnF data
+Germany
+Israel
+United States
+Japan
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pressure&oldid=1148563307"

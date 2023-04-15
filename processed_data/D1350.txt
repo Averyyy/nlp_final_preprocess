@@ -1,0 +1,459 @@
+Online database of information related to films, television series, and video games
+For the database system, see In-memory database. For the Malaysian sovereign wealth fund, see 1MDB.
+IMDbLogo used since 2016Screenshot
+Homepage as of March 2021Type of siteDatabaseAvailable inEnglishOwnerAmazonFounder(s)Col NeedhamSubsidiariesBox Office MojoURLwww.imdb.comCommercialYesRegistrationOptionalLaunchedOctober 17, 1990; 32 years ago (1990-10-17)Current statusActiveContent licenseProprietary[1]
+IMDb (an acronym for Internet Movie Database)[2] is an online database of information related to films, television series, podcasts, home videos, video games, and streaming content online   including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews. IMDb began as a fan-operated movie database on the Usenet group "rec.arts.movies" in 1990, and moved to the Web in 1993. Since 1998, it is now owned and operated by IMDb.com, Inc., a subsidiary of Amazon.
+As of March 2022,[update] the database contained some 10.1 million titles (including television episodes) and 11.5 million person records.[3] Additionally, the site had 83 million registered users. The site's message boards were disabled in February 2017.
+As of February 12, 2023, IMDb is the 54th most visited website in the world, according to website ranker Alexa.[4]
+Features[edit]
+The title and talent pages of IMDb are accessible to all users, but only registered and logged-in users can submit new material and suggest edits to existing entries. Most of the site's data has been provided by these volunteers. Registered users with a proven track record are able to add and make corrections to cast lists, credits, and some other data points. However, the addition and removal of images, and alterations to titles, cast and crew names, character names, and plot summaries are subject to an approval process; this usually takes between 24 and 72 hours.
+On October 2, 2007,[citation needed] character filmographies were added. Character entries are created from character listings in the main filmography database, and as such do not need any additional verification by IMDb staff. They have already been verified when they are added to the main filmography.
+Registered users can choose their username, and most are pseudonymous. There is no single index of contributors, no index on each profile page of the items contributed, and except for plot synopses and biographies no identification of contributors to each product's or person's data pages. Users are also invited to rate titles on a scale of 1 to 10, and the totals are converted into a weighted mean-rating, with filters in place to mitigate ballot-stuffing.
+User profile pages show a user's registration date and, optionally, their personal ratings of titles. Since 2015, "badges" can be added showing a count of contributions. These badges range from total contributions made to independent categories such as photos, trivia, and biographies. If a registered user or visitor is in the entertainment industry and has an IMDb page, they can add photos through IMDbPRO.[5]
+User ratings of films[edit]
+As one adjunct to data, the IMDb offers a rating scale that allows users to rate films on a scale of one to ten.
+IMDb indicates that submitted ratings are filtered and weighted in various ways to produce a weighted mean that is displayed for each film, series, and so on. It states that filters are used to avoid ballot stuffing; the method is not described in detail to avoid attempts to circumvent it. In fact, it sometimes produces an extreme difference between the weighted average and the arithmetic mean.
+Rankings[edit]
+The IMDb Top 250 is a list of the top rated 250 films, based on ratings by the registered users of the website using the methods described. As of 22 February 2022[update], The Shawshank Redemption, directed by Frank Darabont, is No. 1 on the list, and has been since 2008.[6][7][8] The "Top 250" rating is based on only the ratings of "regular voters". The number of votes a registered user would have to make to be considered as a user who votes regularly has been kept secret. IMDb has stated that to maintain the effectiveness of the Top 250 list they "deliberately do not disclose the criteria used for a person to be counted as a regular voter".[9] In addition to other weightings, the Top 250 films are also based on a weighted rating formula referred to in actuarial science as a credibility formula.[10] This label arises because a statistic is taken to be more credible the greater the number of individual pieces of information; in this case from eligible users who submit ratings. Although the current formula is not disclosed, IMDb originally used the following formula to calculate their weighted rating:[11]
+W
+=
+ 
+R
+ 
+v
++
+C
+ 
+m
+ 
+v
++
+m
+{\displaystyle W={\frac {\ R\cdot v+C\cdot m\ }{v+m}}}
+where:
+W is the weighted rating;
+R is the mean rating for the movie, from 1 to 10;
+v is the number of votes for the movie;
+m is the minimum votes required to be listed in the Top 250 (currently[when?] 25,000); and
+C is the mean vote across the whole report (currently[when?] 7.0).
+The variable W in this formula is equivalent to a Bayesian posterior mean (see Bayesian statistics).[citation needed]
+The IMDb also has a Bottom 100 feature which is assembled through a similar process although only 10,000 votes must be received to qualify for the list.[12]
+The Top 250 list comprises a wide range of feature films, including major releases, cult films, independent films, critically acclaimed films, silent films, and non-English-language films. Documentaries, short films and TV episodes are not currently included.
+Since 2015, there has been a Top 250 list devoted to ranking television shows.[13]
+Reference view[edit]
+IMDb originally used a more sidebar/list-based view on title pages. However, in 2010 the site updated pages to more free-flowing layouts, and offered logged-in users an "advanced view" site preference setting called "Combined view", or this could be done on an ad-hoc basis by simply adding /combined to the end of the URL (e.g. https://www.imdb.com/title/tt2358891/combined), for users to choose should they prefer the older page view display method or to aid the editing of data.
+In 2017, some alterations were made to this advanced view, and the setting was renamed "Reference view", again also able to be accessed ad-hoc by simply adding /reference to the end of the URL (e.g. https://www.imdb.com/title/tt2358891/reference), with the former /combined URLs made to link to the newer /reference ones.[14]
+Message boards[edit]
+Beginning in 2001, the Internet Movie Database also maintained message boards for every title (excepting, as of 2013, TV episodes, which used the same message board for the whole series) and name entry, along with over 140 main boards. To post on the message boards a user needed to "authenticate" their account via cell phone, credit card, or by having been a recent customer of the parent company Amazon.com. Message boards expanded in recent years. The Soapbox started in 1999 as a general message board meant for debates on any subjects. The Politics board started in 2007 was a message board to discuss politics, news events, and current affairs, as well as history and economics.[citation needed]
+By February 20, 2017, all the message boards and their content were permanently removed. According to the website, the decision was made because the boards were "no longer providing a positive, useful experience for the vast majority of our more than 250 million monthly users worldwide",[15] and others have mentioned its susceptibility to trolling and disagreeable behavior.[16][17][18] Col Needham also mentioned in a post some months earlier that the boards received less income from ads, and that their members only made up a very small part of the website's visitors. The boards were costly to run due to the system's age and dated design, which did not make business sense.[19] The decision to remove the message boards was met with outspoken backlash from some of its users, and sparked an online petition garnering over 8,000 signatures.[20] In the days leading up to February 20, 2017, both Archive.org[21] and MovieChat.org[22] preserved the entire contents of the IMDb message boards using web scraping. Archive.org and MovieChat.org have published IMDb message board archives, which is legal under the fair use doctrine, because it has no effect on IMDb's potential market for or value of the copyrighted work.[23][24]
+IMDbPro[edit]
+Actors, crew, and industry executives can post their own resume and upload photos of themselves for a yearly membership fee to IMDbPro. IMDbPro can be accessed by anyone willing to pay the annual fee of US$149.99. Membership enables a user to access the rank order of each industry personality, as well as agent contact information for any actor, producer, director etc. that has an IMDb page. IMDbPro also allows existing actors to claim their name page. Enrolling in IMDbPro enables members who are industry personnel to upload a head shot to open their page, as well as to upload hundreds of photos to accompany their page. Anyone can register as an IMDb user and contribute to the site as well as view its content; however, those users enrolled in IMDbPro have greater access and privileges.[25]
+History[edit]
+Pre-website[edit]
+IMDb originated in 1990 with a Usenet posting entitled "Those Eyes", by the English film fan and computer programmer Col Needham,[26][failed verification] about actresses with beautiful eyes. Others with similar interests soon responded with additions or different lists of their own. Needham subsequently started an "Actors List", while Dave Knight began a "Directors List", and Andy Krieg took over "THE LIST" from Hank Driskill, which would later be renamed the "Actress List". Both lists had been restricted to people who were alive and working, but soon retired people were added, so Needham started what was then (but did not remain) a separate "Dead Actors/Actresses List". Steve Hammond started collecting and merging character names for both the actors and actresses lists. When these achieved popularity, they were merged back into the lists themselves. The goal of the participants now was to make the lists as inclusive as possible.
+By late 1990, the lists included almost 10,000 films and television series, correlated with actors and actresses appearing therein. On October 17, 1990, Needham developed and posted a collection of Unix shell scripts that could be used to search the four lists, and thus the database that would become the IMDb was born.[27] At the time, it was known as the "rec.arts.movies movie database".
+On the web[edit]
+The database had been expanded to include additional categories of filmmakers and other demographic material as well as trivia, biographies, and plot summaries. The movie ratings had been properly integrated with the list data, and a centralized email interface for querying the database had been created by Alan Jay. Later, in 1993, it moved onto the fledgling World Wide Web under the name of Cardiff Internet Movie Database.[28] The database resided on the servers of the computer science department of Cardiff University in Wales. Rob Hartill was the original web interface author. In 1994, the email interface was revised to accept the submission of all information, which enabled people to email the specific list maintainer with their updates. However, the structure remained so that information received on a single film was divided among multiple section managers, the sections being defined and determined by categories of film personnel and the individual filmographies contained therein. Over the next few years, the database was run on a network of mirrors across the world with donated bandwidth.[29]
+As an independent company[edit]
+In 1996 IMDb was incorporated in the United Kingdom, becoming the Internet Movie Database Ltd. Founder Col Needham became the primary owner. General revenue for site operations was generated through advertising, licensing and partnerships.[30]
+As Amazon.com subsidiary (1998 present)[edit]
+In 1998, Jeff Bezos, founder, owner, and CEO of Amazon.com, struck a deal with Needham and other principal shareholders to buy IMDb outright; Amazon paid $55 million for IMDb and two other companies.[31] Bezos attached it to Amazon as a subsidiary, private company.[32] This gave IMDb the ability to pay the shareholders salaries for their work.[clarify] In the process of expanding its product line, Amazon.com intended to use IMDb as an advertising resource for selling DVDs and videotapes.
+IMDb continued to expand its functionality. On January 15, 2002, it added a subscription service known as IMDbPro, aimed at entertainment professionals. IMDbPro was announced and launched at the 2002 Sundance Film Festival. It provides a variety of services including film production and box office details, a company directory, and the ability of subscribers to add personal information pages.
+From 1996 onwards, an annual newsletter email (archived on the website) has been sent from Col Needham to contributors on the first day of each calendar year. The annual newsletter lists various information about the past year on the site, including stats, top contributors tally for the year (the top 300 users, currently; fewer in previous years), and a perspective on the site's progress and future.[33][34][35]
+As an additional incentive for users, as of 2003[update], users identified as one of the "top 100 contributors" of hard data received complimentary free access to IMDbPro for the following calendar year; for 2006 this was increased to the top 150 contributors, and for 2010 to the top 250.[36]
+In 2008, IMDb launched their first official foreign-language version with IMDb.de, in German. Also in 2008, IMDb acquired two other companies: Withoutabox[37] and Box Office Mojo.[38]
+The website was originally Perl-based, but IMDb no longer discloses what software it uses for reasons of security.[39] In 2010, the site was filtered in China.[40]
+In 2016, The IMDb Studio at Sundance was launched, a talk show that is presented on IMDb and YouTube.[41][42]
+In April 2017, IMDb celebrated its 25th anniversary. As of that year, Needham was still managing IMDb from its main office in Bristol in the Castlemead office tower.[43]
+In January 2019, IMDb launched an ad-supported streaming service called Freedive.[44] This was the company's second attempt at a streaming service; it launched a similar service in 2008.[45][46] In June 2019, Freedive was rebranded as IMDb TV.[47] In April 2022, the service was rebranded again as Amazon Freevee.[48]
+Content and format[edit]
+Data provided by subjects[edit]
+In 2006, IMDb introduced its "R sum  Subscription Service", where an actor or crew member can post their r sum  and upload photos[49] for a yearly fee.[50] IMDb r sum  pages are kept on a sub-page of the regular entry about that person, with a regular entry automatically created for each r sum  subscriber who does not already have one.[51]
+As of 2012, Resume Services was included as part of an IMDbPro subscription and is no longer offered as a separate subscription service.
+Copyright, vandalism and error issues[edit]
+Volunteers who contribute content to the database technically retain copyright on their contributions, but the compilation of the content becomes the exclusive property of IMDb with the full right to copy, modify, and sublicense it, and they are verified before posting.[52] However, credit is not given on specific title or filmography pages to the contributor(s) who have provided information. Conversely, a credited text entry, such as a plot summary, may be corrected for content, grammar, sentence structure, perceived omission or error, by other contributors without having to add their names as co-authors. Due to the time required for processing submitted data or text before it is displayed, IMDb is different from user-contributed projects like Discogs, or OpenStreetMap, or Wikipedia, in that contributors cannot add, delete, or modify the data or text on impulse, and the manipulation of data is controlled by IMDb technology and salaried staff.[53]
+IMDb has been subject to deliberate additions of false information; in 2012 a spokesperson said: "We make it easy for users and professionals to update much of our content, which is why we have an 'edit page'. The data that is submitted goes through a series of consistency checks before it goes live. Given the sheer volume of the information, occasional mistakes are inevitable, and, when reported, they are promptly fixed. We always welcome corrections."[54]
+The Java Movie Database (JMDB)[55] is reportedly creating an IMDb_Error.log file that lists all the errors found while processing the IMDb plain text files. A Wiki alternative to IMDb is Open Media Database[56] whose content is also contributed by users but licensed under a Creative Commons license (CC BY) and the GFDL. Since 2007, IMDb has been experimenting with wiki-programmed sections for complete film synopses, parental guides, and FAQs about titles as determined by (and answered by) individual contributors.
+Data format and access[edit]
+IMDb, unlike other AI-automated queries, does not provide an API for automated queries. However, most of the data can be downloaded as compressed plain text files and the information can be extracted using the command-line interface tools provided.[57] There is also a Java-based graphical user interface (GUI) application available that is able to process the compressed plain text files, which allows a search and a display of the information.[55] This GUI application supports different languages, but the movie related data are in English, as made available by IMDb. A Python package called IMDbPY can also be used to process the compressed plain text files into a number of different SQL databases, enabling easier access to the entire dataset for searching or data mining.[58]
+Film titles[edit]
+The IMDb has sites in English as well as versions translated completely or in part into other languages (Danish, Finnish, French, German, Hungarian, Italian, Polish, Portuguese, Spanish and Romanian). The non-English language sites display film titles in the specified language. Originally, IMDb's English language sites displayed titles according to their original country-of-origin language, however, in 2010 IMDb began allowing individual users in the UK and US to choose primary title display by either the original-language titles, or the US or UK release title (normally, in English).
+Podcasts[edit]
+On October 21, 2021, the site added the ability to add podcasts (both as series and episodes) as titles to the site, via an IMDb employee announcement on their Sprinklr forums.[59] As of December 2022[update], the numbers of podcast series stood at 24,778, with podcast episodes at 3,076,386.[3]
+Legal and policy issues[edit]
+In 2011, in the case of Hoang v. Amazon.com, Inc., IMDb was sued by an anonymous actress for at least US$1,075,000 because the movie website publicly disclosed her age (40, at the time) without her consent.[60] The actress claimed that revealing her age could cause her to lose acting opportunities.[61] Judge Marsha J. Pechman, a US district judge in Seattle, dismissed the lawsuit, saying the actress had no grounds to proceed with an anonymous complaint. The actress re-filed and so revealed that she was Huong Hoang of Texas, who uses the stage name Junie Hoang.[62] In 2013, Pechman dismissed all causes of action except for a breach of contract claim against IMDb; a jury then sided with IMDb on that claim.[63] The Court of Appeals for the Ninth Circuit affirmed the district court judgment in March 2015.[64]
+Also in 2011, in the case of United Video Properties Inc., et al. v. Amazon.Com Inc. et al.,[65] IMDb and Amazon were sued by Rovi Corporation and others for patent infringement over their various program listing offerings.[66] The patent claims were ultimately construed in a way favorable to IMDb, and Rovi / United Video Properties lost the case.[67] In April 2014, the decision was affirmed by the U.S. Court of Appeals.[68]
+On January 1, 2017, the State of California implemented state bill AB-1687, a SAG-AFTRA-backed anti-ageism statute which requires "commercial online entertainment employment services" to honor requests by their subscribers for their ages and birthdays to be hidden.[69] By the beginning of 2017, IMDb had received more than 2,300 requests from individuals to remove their date of birth from the site. Included in this group were 10 Academy Award winners and another 71 nominated for Oscars, Emmys, or Golden Globes.[70] On February 23, 2017, Judge Vince Girdhari Chhabria issued a stay on the bill pending a further trial, claiming that it possibly violated the First Amendment because it inhibited the public consumption of information. He also questioned the intent of the bill, as it was ostensibly meant to target IMDb.[71]
+IMDb had long maintained that it would keep all valid information, but changed that policy related to birth names in 2019, instead removing birth names that are not widely and publicly known, of persons who no longer use their birth names.[72] This was done in response to pressure from LGBTQ groups against the publication of the birth names of transgender people without their consent (deadnaming). Any name a person had previously been credited under, however, continues to be maintained in the credits section.[72]
+Statistics[edit]
+As of December 2022[update], IMDb has the following statistics:[3]
+Type
+Titles
+Feature film
+629,807
+Short film
+862,336
+TV series
+235,708
+TV episode
+7,147,915
+TV movie
+138,848
+TV special
+39,642
+TV mini-series
+46,417
+TV short
+10,622
+Podcast series
+24,778
+Podcast episode
+3,076,386
+Video
+268,515
+Video game
+33,106
+See also[edit]
+Internet portalFilm portalTelevision portalCompanies portal
+List of online databases
+Douban
+FindAnyFilm
+Flickchart
+Goodreads
+Letterboxd
+Rotten Tomatoes
+The Numbers
+References[edit]
+^ "Conditions of Use". IMDb. Archived from the original on January 4, 2022. Retrieved January 3, 2022.
+^ "IMDb | History, Features, & Facts". Encyclop dia Britannica. Archived from the original on November 2, 2020. Retrieved October 27, 2020.
+^ a b c "Press Room". IMDb. Archived from the original on April 29, 2022. Retrieved May 11, 2022.
+^ "Alexa Top 1000 Most Visited Websites". HTMLSTRIP. Retrieved February 12, 2023.
+^ "Submission guide for users". Help Center. IMDb. Archived from the original on March 25, 2017.
+^ Dowd, A.A. (August 19, 2014). "Escape is the unlikely link between The Shawshank Redemption and Natural Born Killers". The A.V. Club. Archived from the original on September 23, 2017. Retrieved September 23, 2017.
+^ Heiderny, Margaret (September 22, 2014). "The Little-Known Story of How The Shawshank Redemption Became One of the Most Beloved Films of All Time". Vanity Fair. Archived from the original on September 10, 2017. Retrieved March 5, 2017.
+^ "Top 250 movies as voted by our users". IMDb. Archived from the original on November 12, 2019. Retrieved June 10, 2015.
+^ "The user votes average on film or show X is 9.4, so it should appear in your Top 250 Movies or TV list, yet it doesn't. Why?". IMDb. Archived from the original on December 5, 2020. Retrieved July 1, 2018.
+^ Norberg, Ragnar (2006). "Credibility Theory" (PDF). Encyclopedia of Actuarial Science. doi:10.1002/9780470012505.tac068. ISBN 0470846763. Archived from the original (PDF) on May 15, 2004.
+^ "IMDB Vote FAQ". IMDb. Archived from the original on October 23, 2017. Retrieved February 6, 2015.
+^ "Bottom 100". IMDb. Archived from the original on November 23, 2003. Retrieved March 19, 2020.
+^ "Top 250 TV". IMDb. Archived from the original on March 15, 2016. Retrieved March 16, 2016.
+^ Nic_b (Employee) (December 19, 2017). "Updates to Title Reference View". IMDb. Archived from the original on January 7, 2022. Retrieved January 6, 2022.
+^ Liptak, Andrew (February 3, 2017). "IMDb is closing its message boards". The Verge. Archived from the original on November 12, 2020. Retrieved February 15, 2022.
+^ "One of the worst comment sections on the Internet is shutting down". February 3, 2017. Archived from the original on October 20, 2020. Retrieved April 10, 2019.
+^ "Should IMDB have preserved its comment boards   flame wars and all?". The Boston Globe. Archived from the original on November 12, 2020. Retrieved April 10, 2019.
+^ "Not Even IMDB Is Safe From Trolls". February 21, 2017. Archived from the original on November 12, 2020. Retrieved April 10, 2019.
+^ "Can someone on the inside explain to me". IMDb.com Customer Community. July 26, 2016. Archived from the original on February 21, 2017. Retrieved March 23, 2017.
+^ "How some users are trying to save IMDB's message board". Vice.com. Archived from the original on September 10, 2017. Retrieved September 9, 2017.
+^ "The Archiveteam IMDb message board archive (raw data)". Retrieved September 9, 2017.
+^ "The MovieChat IMDb Message Board Archive (web-based)". MovieChat.org. Archived from the original on November 12, 2020. Retrieved September 9, 2017.
+^ "17 U.S. Code   107 - Limitations on exclusive rights: Fair use". Cornell Law School. Archived from the original on December 2, 2020. Retrieved October 8, 2018.
+^ "Movie & TV Forums: IMDb Message Board Archives: Are They Legal?". MovieTVForums.com. Archived from the original on October 8, 2018. Retrieved October 8, 2018.
+^ "IMDbPro signup". IMDb. Archived from the original on November 12, 2020. Retrieved March 24, 2017.
+^ Dalton, Jeff (March 1, 1990). "Re: Frequently Asked Questions List (2/28/90)". Newsgroup: rec.arts.movies. Archived from the original on August 1, 2020. Retrieved August 13, 2019.
+^ Chmielewski, Dawn C. (January 19, 2013). "Col Needham created IMDb". Los Angeles Times. Archived from the original on October 26, 2014. Retrieved October 9, 2014.
+^ "Historical Internet Movie Database Site". Cardiff School of Computer Science & Informatics. Archived from the original on March 24, 2013. Retrieved March 21, 2013.
+^ "IMDB History". IMDb. Archived from the original on November 8, 2020. Retrieved July 1, 2018.
+^ "IMDb | Help". IMDb. Archived from the original on November 8, 2020.
+^ "Amazon Com Inc   '8-K' for 4/27/98   EX-99.2". SEC Info. April 27, 1998. Archived from the original on January 1, 2016. Retrieved March 23, 2017.
+^ "Internet bookseller Amazon.com announces acquisition of United Kingdom company The Internet Movie Database Ltd" (Press release). IMDb. Archived from the original on June 3, 2012. Retrieved September 18, 2020   via PR Newswire Europe.
+^ Needham, Col. "IMDb Contribution: Top Contributor messages". IMDb. Archived from the original on January 1, 2022. Retrieved January 1, 2022.
+^ Needham, Col (January 1, 2022). "IMDb - Best of 2021". IMDb. Archived from the original on January 2, 2022. Retrieved January 1, 2022.
+^ Needham, Col (January 1, 2022). "IMDb - Happy New Year from IMDb / 2021 year end totals (with top 300 contributors)". IMDb. Archived from the original on January 1, 2022. Retrieved January 1, 2022.
+^ Needham, Col (January 1, 2011). "Top 250 contributors for 2010". IMD; announcement. IMDb. Archived from the original on July 11, 2020. Retrieved August 25, 2011.
+^ Ng, David (October 19, 2018). "Amazon-owned IMDb ending film festival submission platform Withoutabox". Los Angeles Times. Archived from the original on November 11, 2020. Retrieved June 13, 2019.
+^ "Amazon's IMDB Acquires Box Office Mojo; Will Add Box Office Data To Service". CBS News. Archived from the original on November 12, 2019. Retrieved June 13, 2019.
+^ "What software are you using to run IMDb?". IMDb. 2017. Archived from the original on December 4, 2020. Retrieved November 16, 2017.
+^ Chacksfield, Marc (January 14, 2010). "China blocks number-one movie site IMDb". TechRadar. 2012 Future US, Inc. Archived from the original on August 8, 2020. Retrieved November 3, 2012.
+^ "The IMDb Studio at Sundance". IMDb. January 22, 2016. Archived from the original on March 19, 2022. Retrieved December 25, 2020.
+^ Sundance 2020 (video). YouTube. IMDb. Archived from the original on February 19, 2020. Retrieved December 26, 2020.
+^ Jones, Craig (April 13, 2017). "The story behind Bristol-based IMDb as they celebrate their 25th anniversary". The Bristol Post. Archived from the original on May 10, 2021. Retrieved May 9, 2021.
+^ Mehta, Ivan (January 11, 2019). "Amazon's new IMDb Freedive service streams ad-supported movies and TV shows in the US". The Next Web. Archived from the original on January 11, 2019. Retrieved January 11, 2019.
+^ Hoffman, Harrison (September 15, 2008). "IMDb now serves full-length videos". CNET. Archived from the original on February 14, 2020. Retrieved September 17, 2008.
+^ Modine, Austin (September 16, 2008). "IMDb adds full-length streaming movies (Show your US ID card at the door)". The Register. UK. Archived from the original on September 18, 2008. Retrieved September 17, 2008.
+^ "Amazon Rebrands IMDb Freedive as IMDb TV, Triples Content". PC Magazine. Archived from the original on June 15, 2020. Retrieved June 15, 2020.
+^ Andreeva, Nellie (April 13, 2022). "IMDb TV Streaming Service Rebrands As Amazon Freevee, Plans Launch In Germany And 70% More Originals". Deadline. Archived from the original on May 31, 2022. Retrieved May 16, 2022.
+^ "Lycos Europe and IMDb sign sales agreement for 9 European markets". Lycos Europe. press release. July 10, 2006. Archived from the original on October 23, 2006.
+^ "Can I subscribe only for one month or one year?". Resume FAQ. IMDb. Archived from the original on December 4, 2020. Retrieved January 22, 2008.
+^ "Is there any difference between a regular IMDb name page and an IMDb name page created via IMDb Resume?". IMDB - Resume FAQ. IMDb. Archived from the original on October 18, 2020. Retrieved January 22, 2008.
+^ "Copyright and Conditions of Use". IMDb. Archived from the original on November 27, 2020. Retrieved July 1, 2018.
+^ "The plain text data files". Alternate Interfaces. IMDb. Archived from the original on June 30, 2018.
+^ "Which A-list star is hacking IMDb pages?". The Hollywood Reporter. November 14, 2012. Retrieved February 25, 2013.
+^ a b "Java Movie Database (JMDB)". Jmdb.de. Archived from the original on October 22, 2020. Retrieved October 27, 2010.
+^ "Open Media Database". omdb.org. Archived from the original on November 16, 2020. Retrieved December 3, 2015.
+^ "Alternate Interfaces". IMDb. Archived from the original on February 4, 2007. Retrieved January 15, 2007.
+^ "IMDbPY". IMDbPY. sourceforge.net. Archived from the original on November 12, 2020. Retrieved February 14, 2011.
+^ "Launch Announcement: Podcast Title Types". Sprinklr. October 21, 2021. Retrieved February 10, 2023.
+^ Bahr, Lindsey (October 18, 2011). "Lawsuit against IMDb revealing private information". Entertainment Weekly. Archived from the original on May 24, 2013. Retrieved April 25, 2013.
+^ "Acting unions criticise IMDb in age row". BBC News. BBC. October 29, 2011. Archived from the original on November 29, 2020. Retrieved October 29, 2011.
+^ "Actress sued Amazon for revealing age 40 identified as Huong (Junie) Hoang". Sky News. January 7, 2012. Archived from the original on June 18, 2012. Retrieved April 21, 2012.
+^ "Actress age claim against IMDb rejected". BBC News. BBC. Archived from the original on November 29, 2020. Retrieved April 12, 2013.
+^ Gardner, Eriq (March 27, 2015). "IMDb preserves legal win over revelation of actress' age". The Hollywood Reporter. Retrieved March 27, 2015.
+^ "Case Docket: United Video Properties Inc., et al v. Amazon.Com Inc. et al.". gov.uscourts.ded.45528. RECAP. Retrieved November 5, 2013.
+^ Masnick, Mike (January 12, 2011). "Rovi sues Amazon for not licensing its Electronic TV Guide patent". Techdirt. Archived from the original on November 5, 2013. Retrieved November 5, 2013.
+^ Mullin, Joe (November 4, 2013). "Netflix roasts Rovi's 'Interactive TV guide' patents at ITC". Ars Technica. Retrieved November 5, 2013.
+^ United Video Properties v. Amazon.com. law.justia.com. April 8, 2014. Archived from the original on October 25, 2020. Retrieved February 28, 2019.
+^ "California enacts law requiring IMDb to remove actor ages on request". The Hollywood Reporter. Retrieved November 15, 2016.
+^ Bray, Hiawatha (March 23, 2017). "Internet censorship, Hollywood style". The Boston Globe. Archived from the original on May 16, 2017. Retrieved March 23, 2017.
+^ "Judge pauses enforcement of IMDb Age Censorship law". The Hollywood Reporter. Retrieved February 23, 2017.
+^ a b McNary, Dave (August 13, 2019). "IMDb Alters Policy on Publication of Birth Names". Variety. Archived from the original on February 15, 2020. Retrieved March 7, 2020.
+Further reading[edit]
+Lurrie, Stephen (February 21, 2023). "Meet the Superusers Behind IMDb, the Internet's Favorite Movie Site". WIRED. Retrieved February 26, 2023.
+External links[edit]
+Wikidata has the property: 
+ IMDb ID (P345) (see uses)
+IMDb   official site
+vteMovie databasesProprietaryWithout specialization
+All Media Network
+DBCult Film Institute
+Discogs
+Douban
+Filmweb
+FindAnyFilm
+Flickchart
+IMDb
+Internet Movie Cars Database (IMCDb)
+Internet Movie Firearms Database (IMFDb)
+Internet Broadway Database (IBDb)
+Internet Off-Broadway Database (IOBDb)
+Internet Speculative Fiction Database (ISFDb)
+Letterboxd
+Metacritic
+Rotten Tomatoes
+The Numbers
+TheTVDB
+Cartoons
+Animator.ru
+Big Cartoon DataBase (BCDB)
+Pornography
+Adult Film Database
+Internet Adult Film Database
+Other
+Bibliographic database (Internet Book Database; IBookDb)
+Goodreads
+Grand Comics Database
+Internet Theatre Database (ITDb)
+Category:Online film databases
+vteWebby Awardswinner, 1997 award in the category Filmwinner, 1998 award in the category Filmwinner, 1999 award in the category FilmAwards ceremonies
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+List of winners
+vteAmazonPeopleCurrent
+Jeff Bezos (Founder)
+Andy Jassy (President and CEO)
+Werner Vogels (CTO)
+Former
+Rick Dalzell
+Paul Davis
+Tony Hsieh
+Christopher North
+Ram Shriram
+Tom Szkutak
+Brian Valentine
+Facilities
+List of Amazon locations
+Doppler
+Day 1
+HQ2
+Principal Place
+Spheres
+Bellevue 600
+Products andservicesSubsidiaries
+A9.com
+AbeBooks
+Amazon Clinic
+Amazon Games
+Double Helix Games
+Amazon Lab126
+Amazon Pharmacy
+Amazon Robotics
+Amazon University Esports
+Annapurna Labs
+Audible
+Blink Home
+Body Labs
+Book Depository
+BookFinder
+ComiXology
+Digital Photography Review
+Freevee
+Fresh
+Goodreads
+Goodreads Choice Awards
+Graphiq
+IMDb
+IMDbPro
+Box Office Mojo
+Kuiper Systems
+MGM Holdings
+One Medical
+PillPack
+Ring
+Neighbors
+Shopbop
+Souq.com
+Twitch
+Woot.com
+Zappos
+Zoox
+Cloudcomputing
+Web Services
+AMI
+Amazon Aurora
+Beanstalk
+CloudFront
+DynamoDB
+EBS
+EC2
+EFS
+ElastiCache
+EMR
+Glacier
+Glue
+Lambda
+Lightsail
+MTurk
+Neptune
+Product Advertising API
+RDS
+Redshift
+Rekognition
+Route 53
+S3
+SageMaker
+SES
+SNS
+SimpleDB
+SQS
+VPC
+Services
+Amazon.com
+China
+Alexa
+Appstore
+Digital Game Store
+Drive
+Fire OS
+Kindle Store
+Luna
+Payments
+Prime
+Key
+Prime Music
+Prime Now
+Prime Pantry
+Prime Video
+Marketplace
+Music (Wondery)
+Silk
+Wireless
+Devices
+Astro
+Echo
+Show
+Echo Buds
+Fire
+Fire HD
+Fire HDX
+Fire TV
+Stick
+Kindle
+Technology
+1-Click
+Dynamo
+Obidos
+Lumberyard
+Media
+Amazon Games
+Amazon Publishing
+Breakthrough Novel Award
+Best Books of the Year
+Film & Television
+Amazon Studios
+Metro-Goldwyn-Mayer
+Kindle Direct Publishing
+YES Network (15%)
+Retail
+Amazon Books
+Amazon Fresh
+Amazon Go
+Treasure Truck
+Whole Foods Market
+Logistics
+Amazon Air
+Amazon Prime Air
+Former
+43 Things
+Askville
+Alexa Internet
+Amapedia
+Amie Street (Songza)
+CDNow
+Dash buttons
+Dash wand
+Diapers.com
+Endless.com
+Fire Phone
+Lexcycle
+Liquavista
+LivingSocial
+LoveFilm
+Mobipocket
+PlanetAll
+Reflexive Entertainment
+Sellaband
+Shelfari
+TenMarks
+Withoutabox
+Other
+Amazon Light
+ASIN
+Community Banana Stand
+Criticism (tax)
+Fishbowl
+History of Amazon
+LibraryThing
+List of Amazon brands
+List of Amazon products and services
+List of mergers and acquisitions by Amazon
+Locker
+MacKenzie Scott
+Perfect 10, Inc. v. Amazon.com, Inc.
+Amazon.com, Inc. v. Barnesandnoble.com, Inc.
+Statistically improbable phrase
+Vine
+Worker organization
+Unions
+Congress of Essential Workers
+Amazon Labor Union
+ Category
+Authority control International
+VIAF
+WorldCat
+National
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=IMDb&oldid=1149521746"

@@ -1,0 +1,740 @@
+Thermal energy generated and stored in the Earth.
+This article is about thermal energy generated and stored deep in the earth. For information about heat pumps used to extract heat from up to about 300 meters/yards from the surface, see ground source heat pump.
+ Steam rising from the Nesjavellir Geothermal Power Station in Iceland
+ The Imperial Valley Geothermal Project near the Salton Sea, California.
+Part of a series onRenewable energy
+Biofuel
+Biomass
+Biogas
+Carbon-neutral fuel
+Geothermal energy
+Geothermal heating
+Geothermal power
+Hydroelectricity
+Hydropower
+Marine energy
+Solar energy
+Solar power
+Sustainable biofuel
+Tidal power
+Wave power
+Wind power
+Nuclear power proposed as renewable energy
+Topics by country
+Marketing and policy trends
+vte
+Geothermal energy is the thermal energy in the Earth's crust which originates from the formation of the planet and from radioactive decay of materials. The high temperature and pressure in Earth's interior cause some rock to melt and solid mantle to behave plastically. This results in parts of the mantle convecting upward since it is lighter than the surrounding rock. Temperatures at the core mantle boundary can reach over 4000 C (7200 F).[1]
+Geothermal heating, using water from hot springs, for example, has been used for bathing since Paleolithic times and for space heating since ancient Roman times. More recently geothermal power, the term used for generation of electricity from geothermal energy, has gained in importance. It is estimated that the earth's geothermal resources are theoretically more than adequate to supply humanity's energy needs, although only a very small fraction is currently being profitably exploited, often in areas near tectonic plate boundaries.
+As a result of government assisted research and industry experience, the cost of generating geothermal power decreased by 25% over the 1980s and 1990s.[2] More recent technological advances have dramatically reduced costs and thereby expanded the range and size of viable resources. In 2021, the U.S. Department of Energy estimates that geothermal energy from a power plant "built today" costs about $0.05/kWh.[3]
+In 2019, 13,900 megawatts (MW) of geothermal power was available worldwide.[4] An additional 28 gigawatts of direct geothermal heating capacity has been installed for district heating, space heating, spas, industrial processes, desalination and agricultural applications as of 2010.[5]
+Forecasts for the future of geothermal power depend on assumptions about technology, energy prices, subsidies, plate boundary movement and interest rates. Pilot programs like EWEB's customer opt in Green Power Program[6] show that customers would be willing to pay a little more for a renewable energy source like geothermal. About 100 thousand people are employed in the industry.[7] The adjective geothermal originates from the Greek roots   (g ), meaning Earth, and   (therm s), meaning hot.
+History[edit]
+ The oldest known pool fed by a hot spring, built in the Qin dynasty in the 3rd century BCE
+Hot springs have been used for bathing at least since Paleolithic times.[8] The oldest known spa is a  site where the Huaqing Chi palace was later built. In the first century CE, Romans conquered Aquae Sulis, now Bath, Somerset, England, and used the hot springs there to feed public baths and underfloor heating. The admission fees for these baths probably represent the first commercial use of geothermal power. The world's oldest geothermal district heating system in Chaudes-Aigues, France, has been operating since the 15th century.[9] 
+The earliest industrial exploitation began in 1827 with the use of geyser steam to extract boric acid from volcanic mud in Larderello, Italy.
+In 1892, America's first district heating system in Boise, Idaho was powered directly by geothermal energy, and was copied in Klamath Falls, Oregon in 1900. The first known building in the world to utilize geothermal energy as its primary heat source was the Hot Lake Hotel in Union County, Oregon, whose construction was completed in 1907.[10] A deep geothermal well was used to heat greenhouses in Boise in 1926, and geysers were used to heat greenhouses in Iceland and Tuscany at about the same time.[11] Charlie Lieb developed the first downhole heat exchanger in 1930 to heat his house. Steam and hot water from geysers began heating homes in Iceland starting in 1943.
+ Global geothermal electric capacity. Upper red line is installed capacity;[12] lower green line is realized production.[5]
+In the 20th century, demand for electricity led to the consideration of geothermal power as a generating source. Prince Piero Ginori Conti tested the first geothermal power generator on 4 July 1904, at the same Larderello dry steam field where geothermal acid extraction[clarification needed] began. It successfully lit four light bulbs.[13] Later, in 1911, the world's first commercial geothermal power plant was built there. It was the world's only industrial producer of geothermal electricity until New Zealand built a plant in 1958. In 2012, it produced some 594 megawatts.[14]
+In 1960, Pacific Gas and Electric began operation of the first successful geothermal electric power plant in the United States at The Geysers in California.[15] The original turbine lasted for more than 30 years and produced 11 MW net power.[16]
+The binary cycle power plant was first demonstrated in 1967 in the USSR and later introduced to the US in 1981.[15] This technology allows the generation of electricity from much lower temperature resources than previously. In 2006, a binary cycle plant in Chena Hot Springs, Alaska, came on-line, producing electricity from a record low fluid temperature of 57 C (135 F).[17]
+In 2021 Quaise Energy announced the idea of using a gyrotron as a boring machine to drill a hole 20 kilometers in depth and use it to produce geothermal energy. The technique would use frequencies of 30 to 300 GHz and would transfer energy to a rock 1012 (1 trillion) times more efficiently than using a laser. Lasers would further be disrupted by the vaporized rock, which would effect the longer-wavelength much less. Drilling rates of 70 meters/hour appear to be possible with a 1 MW gyrotron.[citation needed]
+Resources[edit]
+ Enhanced geothermal system 1:Reservoir 2:Pump house 3:Heat exchanger 4:Turbine hall 5:Production well 6:Injection well 7:Hot water to district heating 8:Porous sediments 9:Observation well 10:Crystalline bedrock
+The Earth's internal thermal energy flows to the surface by conduction at a rate of 44.2 terawatts (TW),[18] and is replenished by radioactive decay of minerals at a rate of 30 TW.[19] These power rates are more than double humanity's current energy consumption from all primary sources, but most of this energy flow is not recoverable. In addition to the internal heat flows, the top layer of the surface to a depth of 10 m (33 ft) is heated by solar energy during the summer, and releases that energy and cools during the winter.
+Outside of the seasonal variations, the geothermal gradient of temperatures through the crust is 25 30 C (45 54 F) per km of depth in most of the world. The conductive heat flux averages 0.1 MW/km2. These values are much higher near tectonic plate boundaries where the crust is thinner. They may be further augmented by fluid circulation, either through magma conduits, hot springs, hydrothermal circulation or a combination of these.
+The thermal efficiency and profitability of electricity generation is particularly sensitive to temperature. The most demanding applications receive the greatest benefit from a high natural heat flux, ideally from using a hot spring. The next best option is to drill a well into a hot aquifer. If no adequate aquifer is available, an artificial one may be built by injecting water to hydraulically fracture the bedrock. This last approach is called hot dry rock geothermal energy in Europe, or enhanced geothermal systems in North America. Much greater potential may be available from this approach than from conventional tapping of natural aquifers.[20]
+Estimates of the potential for electricity generation from geothermal energy vary sixfold, from 0.035to2TW depending on the scale of investments.[5] Upper estimates of geothermal resources assume enhanced geothermal wells as deep as 10 kilometres (6 mi), whereas existing geothermal wells are rarely more than 3 kilometres (2 mi) deep.[5] Wells of this depth are now common in the petroleum industry.[21] The deepest research well in the world, the Kola superdeep borehole, is 12 kilometres (7 mi) deep.[22]
+Geothermal power[edit]
+Main article: Geothermal power
+ Installed geothermal energy capacity, 2019
+Geothermal power is electrical power generated from geothermal energy. Technologies in use include dry steam power stations, flash steam power stations and binary cycle power stations. Geothermal electricity generation is currently used in 26 countries,[23][24] while geothermal heating is in use in 70 countries.[25]
+As of 2019, worldwide geothermal power capacity amounts to 15.4 gigawatts (GW), of which 23.86 percent or 3.68 GW are installed in the United States.[26] International markets grew at an average annual rate of 5 percent over the three years to 2015, and global geothermal power capacity is expected to reach 14.5 17.6 GW by 2020.[27] Based on current geologic knowledge and technology the GEA publicly discloses, the Geothermal Energy Association (GEA) estimates that only 6.9 percent of total global potential has been tapped so far, while the IPCC reported geothermal power potential to be in the range of 35 GW to 2 TW.[5] Geothermal energy is a key renewable source that covers a significant share of the electricity demand in countries like Iceland, El Salvador, Kenya, the Philippines and New Zealand,[28]  and more than 90 % of the heating demand in Iceland.[29]
+Geothermal power is considered to be a sustainable, renewable source of energy because the heat extraction is small compared with the Earth's heat content.[19] The greenhouse gas emissions of geothermal electric stations are on average 45 grams of carbon dioxide per kilowatt-hour of electricity, or less than 5 percent of that of conventional coal-fired plants.[25]
+As a source of renewable energy for both power and heating, geothermal has the potential to meet 3-5% of global demand by 2050. With economic incentives, it is estimated that by 2100 it will be possible to meet 10% of global demand.[28]
+Direct use data 2015
+Country
+Capacity (MW) 2015[30]
+United States
+17,415.91
+Philippines
+3.30
+Indonesia
+2.30
+Mexico
+155.82
+Italy
+1,014.00
+New Zealand
+487.45
+Iceland
+2,040.00
+Japan
+2,186.17
+Iran
+81.50
+El Salvador
+3.36
+Kenya
+22.40
+Costa Rica
+1.00
+Russia
+308.20
+Turkey
+2,886.30
+Papua New Guinea
+0.10
+Guatemala
+2.31
+Portugal
+35.20
+China
+17,870.00
+France
+2,346.90
+Ethiopia
+2.20
+Germany
+2,848.60
+Austria
+903.40
+Australia
+16.09
+Thailand
+128.51
+Installed geothermal electric capacity
+Country
+Capacity (MW) 2007[12]
+Capacity (MW) 2010[31]
+Capacity (MW) 2021[32]
+% of national  electricity production
+% of global geothermal production (2021)
+United States
+2687
+3086
+3889
+0.3
+24.8
+Indonesia
+992
+1197
+2277
+3.7
+14.5
+Philippines
+1969.7
+1904
+1928
+27
+12.3
+Turkey
+38
+82
+1676
+10.7
+New Zealand
+471.6
+628
+984
+10
+6.3
+Mexico
+953
+958
+976
+3
+6.2
+Kenya
+128.8
+167
+863
+11.2
+5.5
+Italy
+810.5
+843
+802
+1.5
+5.1
+Iceland
+421.2
+575
+756
+30
+4.8
+Japan
+535.2
+536
+481
+0.1
+3
+Costa Rica
+162.5
+166
+262
+14
+1.7
+Iran
+250
+250
+El Salvador
+204.2
+204
+204
+25
+1.3
+Nicaragua
+87.4
+88
+153
+10
+1
+Russia
+79
+82
+81
+Papua New Guinea
+56
+56
+56
+Guatemala
+53
+52
+49
+Germany
+8.4
+6.6
+40
+Chile
+0
+0
+40
+Honduras
+0
+0
+39
+Portugal
+23
+29
+29
+China
+27.8
+24
+France
+14.7
+16
+16
+Guadeloupe
+0
+0
+15
+Croatia
+0
+0
+10
+Ethiopia
+7.3
+7.3
+7
+Austria
+1.1
+1.4
+1
+Australia
+0.2
+1.1
+0
+Total
+9,981.9
+10,959.7
+15,644
+Geothermal electric plants were traditionally built exclusively on the edges of tectonic plates where high-temperature geothermal resources are available near the surface. The development of binary cycle power plants and improvements in drilling and extraction technology enable enhanced geothermal systems over a much greater geographical range.[20] Demonstration projects are operational in Landau-Pfalz, Germany, and Soultz-sous-For ts, France, while an earlier effort in Basel, Switzerland, was shut down after it triggered earthquakes. Other demonstration projects are under construction in Australia, the United Kingdom, and the United States of America.[33] In Myanmar over 39 locations capable of geothermal power production and some of these hydrothermal reservoirs lie quite close to Yangon which is a significant underutilized resource.[34]
+Geothermal heating[edit]
+Main article: Geothermal heating
+Geothermal heating is the direct use of geothermal energy for some heating applications. Humans have taken advantage of geothermal heat this way since the Paleolithic era. Approximately seventy countries made direct use of a total of 270 PJ of geothermal heating in 2004. As of 2007, 28 GW of geothermal heating capacity is installed around the world, satisfying 0.07% of global primary energy consumption.[5] Thermal efficiency is high since no energy conversion is needed, but capacity factors tend to be low (around 20%) since the heat is mostly needed in the winter.
+Geothermal energy originates from the heat retained within the Earth since the original formation of the planet, from radioactive decay of minerals, and from solar energy absorbed at the surface.[35] Most high temperature geothermal heat is harvested in regions close to tectonic plate boundaries where volcanic activity rises close to the surface of the Earth. In these areas, ground and groundwater can be found with temperatures higher than the target temperature of the application. However, even cold ground contains heat, below 6 metres (20 ft) the undisturbed ground temperature is consistently at the Mean Annual Air Temperature[36] and it may be extracted with a ground source heat pump.
+Types[edit]
+Geothermal energy comes in either vapor-dominated or liquid-dominated forms. Larderello and The Geysers are vapor-dominated. Vapor-dominated sites offer temperatures from 240 to 300 C that produce superheated steam.
+Liquid-dominated plants[edit]
+Liquid-dominated reservoirs (LDRs) are more common with temperatures greater than 200 C (392 F) and are found near young volcanoes surrounding the Pacific Ocean and in rift zones and hot spots. Flash plants are the common way to generate electricity from these sources. Pumps are generally not required, powered instead when the water turns to steam. Most wells generate 2 10 MW of electricity. Steam is separated from a liquid via cyclone separators, while the liquid is returned to the reservoir for reheating/reuse. As of 2013, the largest liquid system is Cerro Prieto in Mexico, which generates 750 MW of electricity from temperatures reaching 350 C (662 F). The Salton Sea field in Southern California offers the potential of generating 2000 MW of electricity.[14]
+Lower-temperature LDRs (120 200 C) require pumping. They are common in extensional terrains, where heating takes place via deep circulation along faults, such as in the Western US and Turkey. Water passes through a heat exchanger in a Rankine cycle binary plant. The water vaporizes an organic working fluid that drives a turbine. These binary plants originated in the Soviet Union in the late 1960s and predominate in new US plants. Binary plants have no emissions.[14][37]
+Enhanced geothermal systems[edit]
+Main article: Enhanced geothermal system
+Enhanced geothermal systems (EGS) actively inject water into wells to be heated and pumped back out. The water is injected under high pressure to expand existing rock fissures to enable the water to freely flow in and out. The technique was adapted from oil and gas extraction techniques. However, the geologic formations are deeper and no toxic chemicals are used, reducing the possibility of environmental damage. Drillers can employ directional drilling to expand the size of the reservoir.[14]
+Small-scale EGS have been installed in the Rhine Graben at Soultz-sous-For ts in France and at Landau and Insheim in Germany.[14]
+Economics[edit]
+This section needs to be updated. Please help update this article to reflect recent events or newly available information. (November 2020)
+Geothermal power requires no fuel (except for pumps), and is therefore immune to fuel cost fluctuations. However, capital costs are significant. Drilling accounts for over half the costs, and exploration of deep resources entails significant risks. A typical well doublet (extraction and injection wells) in Nevada can support 4.5 megawatts (MW) and costs about $10 million to drill, with a 20% failure rate.[38]
+ A power plant at The Geysers
+As noted above, drilling cost is a major component of a geothermal power plant's budget and is one of the key barriers to wider development of geothermal resources.  A power plant must have production wells to bring the hot fluid (steam or hot water) to the surface and must also have injection wells to pump the liquid back into the reservoir after it has passed through the power plant. Drilling geothermal wells is more expensive than drilling oil and gas wells of comparable depth for several reasons: 
+Geothermal reservoirs are usually in igneous or metamorphic rock, which is harder than the sedimentary rock of hydrocarbon reservoirs.
+The rock is often fractured, which causes vibrations that are damaging to bits and other drilling tools.
+The rock is often abrasive, with high quartz content, and sometimes contains highly corrosive fluids.
+The formation is, by definition, hot, which limits use of downhole electronics.
+Casing in geothermal wells must be cemented from top to bottom, to resist the casing's tendency to expand and contract with temperature changes.  Oil and gas wells are usually cemented only at the bottom.
+Because the geothermal well produces a low-value fluid (steam or hot water) its diameter is considerably larger than typical oil and gas wells.[39]
+In total, electrical plant construction and well drilling cost about  2 5 million per MW of electrical capacity, while the break-even price is 0.04 0.10  per kW h.[12] Enhanced geothermal systems tend to be on the high side of these ranges, with capital costs above $4 million per MW and break-even above $0.054 per kW h in 2007.[40] The capital cost of one such district heating system in Bavaria was estimated at somewhat over 1 million  per MW.[41] Direct systems of any size are much simpler than electric generators and have lower maintenance costs per kW h, but they must consume electricity to run pumps and compressors. Some governments subsidize geothermal projects.
+Geothermal power is highly scalable: from a rural village to an entire city,[42] making it a vital part of the renewable energy transition.[43][44]
+The most developed geothermal field in the United States is The Geysers in Northern California.[45]
+Geothermal projects have several stages of development. Each phase has associated risks. At the early stages of reconnaissance and geophysical surveys, many projects are canceled, making that phase unsuitable for traditional lending. Projects moving forward from the identification, exploration and exploratory drilling often trade equity for financing.[46]
+Renewability and sustainability[edit]
+Geothermal power is considered to be renewable because any projected heat extraction is small compared to the Earth's heat content. The Earth has an internal heat content of 1031 joules (3 1015 TWh), approximately 100 billion times the 2010 worldwide annual energy consumption.[5] About 20% of this is residual heat from planetary accretion; the remainder is attributed to past and current radioactive decay of naturally occurring isotopes.[47] For example, a 5275 m deep borehole in United Downs Deep Geothermal Power Project in Cornwall, England, found granite with very high thorium content, whose radioactive decay is believed to power the high temperature of the rock.[48]
+Natural heat flows are not in equilibrium, and the planet is slowly cooling down on geologic timescales. Human extraction taps a minute fraction of the natural outflow, often without accelerating it. According to most official descriptions of geothermal energy use, it is currently called renewable and sustainable because it returns an equal volume of water to the area that the heat extraction takes place, but at a somewhat lower temperature. For instance, the water leaving the ground is 300 degrees, and the water returning is 200 degrees, the energy obtained is the difference in heat that is extracted. Current research estimates of impact on the heat loss from the Earth's core are based on a studies done up through 2012. However, if household and industrial uses of this energy source were to expand dramatically over coming years, based on a diminishing fossil fuel supply and a growing world population that is rapidly industrializing requiring additional energy sources, then the estimates on the impact on the Earth's cooling rate would need to be re-evaluated.
+Geothermal power is also considered to be sustainable thanks to its power to sustain the Earth's intricate ecosystems. By using geothermal sources of energy present generations of humans will not endanger the capability of future generations to use their own resources to the same amount that those energy sources are presently used.[49] Further, due to its low emissions geothermal energy is considered to have excellent potential for mitigation of global warming. Iceland has so much geothermal energy that even the sidewalks in Reykjavik are heated with it. In winter, this saves the need for gritting.[50]
+ Electricity generation at Poihipi, New Zealand
+ Electricity generation at Ohaaki, New Zealand
+ Electricity generation at Wairakei, New Zealand
+Even though geothermal power is globally sustainable, extraction must still be monitored to avoid local depletion.[19] Over the course of decades, individual wells draw down local temperatures and water levels until a new equilibrium is reached with natural flows. The three oldest sites, at Larderello, Wairakei, and the Geysers have experienced reduced output because of local depletion. Heat and water, in uncertain proportions, were extracted faster than they were replenished. If production is reduced and water is reinjected, these wells could theoretically recover their full potential. Such mitigation strategies have already been implemented at some sites. The long-term sustainability of geothermal energy has been demonstrated at the Lardarello field in Italy since 1913, at the Wairakei field in New Zealand since 1958,[51] and at The Geysers field in California since 1960.[52]
+Falling electricity production may be boosted through drilling additional supply boreholes, as at Poihipi and Ohaaki. The Wairakei power station has been running much longer, with its first unit commissioned in November 1958, and it attained its peak generation of 173 MW in 1965, but already the supply of high-pressure steam was faltering, in 1982 being derated to intermediate pressure and the station managing 157 MW. Around the start of the 21st century it was managing about 150 MW, then in 2005 two 8 MW isopentane systems were added, boosting the station's output by about 14 MW. Detailed data are unavailable, being lost due to re-organisations. One such re-organisation in 1996 causes the absence of early data for Poihipi (started 1996), and the gap in 1996/7 for Wairakei and Ohaaki; half-hourly data for Ohaaki's first few months of operation are also missing, as well as for most of Wairakei's history.
+Environmental effects[edit]
+ Geothermal power station in the Philippines
+ Krafla Geothermal Station in northeast Iceland
+Fluids drawn from the deep Earth carry a mixture of gasses, notably carbon dioxide (CO2), hydrogen sulfide (H2S), methane (CH4) and ammonia (NH3). These pollutants contribute to global warming, acid rain, and noxious smells if released. Existing geothermal electric plants emit an average of 122 kilograms (269 lb) of CO2 per megawatt-hour (MW h) of electricity, a small fraction of the emission intensity of conventional fossil fuel plants.[53][needs update] But a few plants emit more than gas-fired power, at least in the first few years, such as some geothermal power in Turkey.[54] Plants that experience high levels of acids and volatile chemicals are usually equipped with emission-control systems to reduce the exhaust.
+In addition to dissolved gases, hot water from geothermal sources may hold in solution trace amounts of toxic elements such as mercury, arsenic, boron, and antimony.[55]  These chemicals precipitate as the water cools, and can cause environmental damage if released. The modern practice of injecting cooled geothermal fluids back into the Earth to stimulate production has the side benefit of reducing this environmental risk.
+Plant construction can adversely affect land stability. Subsidence has occurred in the Wairakei field in New Zealand.[9] In Staufen im Breisgau, Germany, tectonic uplift occurred instead, due to a previously isolated anhydrite layer coming in contact with water and turning into gypsum, doubling its volume.[56][57][58] Enhanced geothermal systems can trigger earthquakes as part of hydraulic fracturing. The project in Basel, Switzerland was suspended because more than 10,000 seismic events measuring up to 3.4 on the Richter Scale occurred over the first 6 days of water injection.[59]
+Geothermal has minimal land and freshwater requirements. Geothermal plants use 3.5 square kilometres (1.4 sq mi) per gigawatt of electrical production (not capacity) versus 32 square kilometres (12 sq mi) and 12 square kilometres (4.6 sq mi) for coal facilities and wind farms respectively.[9] They use 20 litres (5.3 US gal) of freshwater per MW h versus over 1,000 litres (260 US gal) per MW h for nuclear, coal, or oil.[9]
+Production[edit]
+The examples and perspective in this section may not represent a worldwide view of the subject. You may improve this section, discuss the issue on the talk page, or create a new section, as appropriate. (November 2020) (Learn how and when to remove this template message)
+Philippines[edit]
+The Philippines began efforts in researching geothermal energy in 1962 when the Philippine Institute of Volcanology and Seismology inspected the geothermal region in Tiwi, Albay.[60] The desire in shifting to geothermal energy was due to the worldwide oil crisis in the 1970s.[61] These efforts led to the construction of the first geothermal power plant in the Philippines in 1977 which is located in Tongonan, Leyte.[60] The development of the geothermal plant in the Tongonan field was made possible due the drilling contract with the New Zealand government in 1972.[61] The Tongonan Geothermal Field (TGF) advanced in growth by adding plants such as Upper Mahiao, Matlibog, and South Sambaloran which resulted in producing 508 MV in the area.[62] By 2008, the TGF was recognized as one of the world's most developed geothermal power plants.[62]
+As research in geothermal energy progressed, the first geothermal power plant in the Tiwi region operated in 1979 and two other plants followed the area in 1980 and 1982.[60] The Tiwi geothermal field is located about 450 km from Manila, which is on Luzon Island and the country's capital.[63] The three geothermal power plants in the Tiwi region were producing 330 MWe which allowed the Philippines to be next behind the United States and Mexico in geothermal growth.[64] The geological location of the Philippines resulted in volcanic activity, which is a source of geothermal energy, and it became an advantage since it provided resources to further the research.[61] The Philippines has 7 geothermal fields and continues to contribute efforts in utilizing geothermal energy by creating the Philippine Energy Plan 2012-2030, aiming to achieve utilizing 70% of geothermal energy by 2030.[65][66]
+United States[edit]
+According to the Geothermal Energy Association (GEA) installed geothermal capacity in the United States grew by 5%, or 147.05 MW, since the last annual survey in March 2012. This increase came from seven geothermal projects that began production in 2012. GEA also revised its 2011 estimate of installed capacity upward by 128 MW, bringing current installed U.S. geothermal capacity to 3,386 MW.[67]
+See also[edit]
+Renewable energy portal
+2010 World Geothermal Congress
+Earth's internal heat budget
+Geothermal activity
+Hydrothermal vent
+International Geothermal Association
+Relative cost of electricity generated by different sources
+Renewable energy by country
+Thermal battery
+References[edit]
+^ Lay, Thorne; Hernlund, John; Buffett, Bruce A. (2008), "Core mantle boundary heat flow", Nature Geoscience, 1 (1): 25 32, Bibcode:2008NatGe...1...25L, doi:10.1038/ngeo.2007.44
+^ Cothran, Helen (2002), Energy Alternatives, Greenhaven Press, ISBN 978-0737709049[page needed]
+^ "Geothermal FAQs". Energy.gov. Retrieved 2021-06-25.
+^ REN21. "Renewables 2020: Global Status Report. Chapter 01; Global Overview". Retrieved 2021-02-02.{{cite web}}:  CS1 maint: url-status (link)
+^ a b c d e f g 
+Fridleifsson, Ingvar B.; Bertani, Ruggero; Huenges, Ernst; Lund, John W.; Ragnarsson, Arni; Rybach, Ladislaus (2008-02-11),  O. Hohmeyer and T. Trittin (ed.), The possible role and contribution of geothermal energy to the mitigation of climate change | IPCC Scoping Meeting on Renewable Energy Sources conference (PDF), Luebeck, Germany, pp. 59 80, archived from the original (PDF) on March 8, 2010, retrieved 2009-04-06
+^ "Green Power". eweb.org. Archived from the original on 2014-10-15.
+^ "IRENA   Global geothermal workforce reaches 99,400 in 2019". Think GeoEnergy - Geothermal Energy News. 2 October 2020. Retrieved 2020-10-04.
+^ Cataldi, Raffaele (August 1992), "Review of historiographic aspects of geothermal energy in the Mediterranean and Mesoamerican areas prior to the Modern Age" (PDF), Geo-Heat Centre Quarterly Bulletin, Klamath Falls, Oregon: Oregon Institute of Technology, vol. 18, no. 1, pp. 13 16, archived from the original (PDF) on 2010-06-18, retrieved 2009-11-01
+^ a b c d Lund, John W. (June 2007), "Characteristics, Development and utilization of geothermal resources" (PDF), Geo-Heat Centre Quarterly Bulletin, Klamath Falls, Oregon: Oregon Institute of Technology, vol. 28, no. 2, pp. 1 9, archived from the original (PDF) on 2010-06-17, retrieved 2009-04-16
+^ Cleveland & Morris 2015, p. 291. sfn error: no target: CITEREFClevelandMorris2015 (help)
+^ Dickson, Mary H.; Fanelli, Mario (February 2004), What is Geothermal Energy?, Pisa, Italy: Istituto di Geoscienze e Georisorse, archived from the original on 2011-07-26, retrieved 2010-01-17
+^ a b c Bertani, Ruggero (September 2007), "World Geothermal Generation in 2007" (PDF), Geo-Heat Centre Quarterly Bulletin, Klamath Falls, Oregon: Oregon Institute of Technology, vol. 28, no. 3, pp. 8 19, retrieved 2009-04-12
+^ Tiwari, G. N.; Ghosal, M. K. (2005), Renewable Energy Resources: Basic Principles and Applications, Alpha Science, ISBN 978-1-84265-125-4[page needed]
+^ a b c d e Moore, J. N.; Simmons, S. F. (2013), "More Power from Below", Science, 340 (6135): 933 4, Bibcode:2013Sci...340..933M, doi:10.1126/science.1235640, PMID 23704561, S2CID 206547980
+^ a b Lund, J. (September 2004), "100 Years of Geothermal Power Production" (PDF), Geo-Heat Centre Quarterly Bulletin, Klamath Falls, Oregon: Oregon Institute of Technology, vol. 25, no. 3, pp. 11 19, archived from the original (PDF) on 2010-06-17, retrieved 2009-04-13
+^ McLarty, Lynn; Reed, Marshall J. (1992), "The U.S. Geothermal Industry: Three Decades of Growth" (PDF), Energy Sources, Part A, 14 (4): 443 455, doi:10.1080/00908319208908739, archived from the original (PDF) on 2016-05-16, retrieved 2009-11-05
+^ 
+Erkan, K.; Holdmann, G.; Benoit, W.; Blackwell, D. (2008), "Understanding the Chena Hot flop  Springs, Alaska, geothermal system using temperature and pressure data", Geothermics, 37 (6): 565 585, doi:10.1016/j.geothermics.2008.09.001
+^ Pollack, H.N.; S. J. Hurter; J. R. Johnson (1993). "Heat Flow from the Earth's Interior: Analysis of the Global Data Set". Rev. Geophys. 30 (3): 267 280. Bibcode:1993RvGeo..31..267P. doi:10.1029/93RG01249.
+^ a b c Rybach, Ladislaus (September 2007). Geothermal Sustainability (PDF). Geo-Heat Centre Quarterly Bulletin. Vol. 28. Klamath Falls, Oregon: Oregon Institute of Technology. pp. 2 7. Archived from the original (PDF) on 2012-02-17. Retrieved 2009-05-09.
+^ a b Tester, Jefferson W.;  et al. (2006), The Future of Geothermal Energy (PDF), vol. Impact of Enhanced Geothermal Systems (Egs) on the United States in the 21st Century: An Assessment, Idaho Falls: Idaho National Laboratory, Massachusetts Institute of Technology, pp. 1 8 to 1 33 (Executive Summary), ISBN 978-0-615-13438-3, archived from the original (PDF) on 2011-03-10, retrieved 2007-02-07
+^ Fyk, Mykhailo; Biletskyi, Volodymyr; Abbud, Mokhammed (May 25, 2018). "Resource evaluation of geothermal power plant under the conditions of carboniferous deposits usage in the Dnipro-Donetsk depression". E3S Web of Conferences. 60: 00006. Bibcode:2018E3SWC..6000006F. doi:10.1051/e3sconf/20186000006   via www.e3s-conferences.org.
+^ Cassino, Adam (2003), "Depth of the Deepest Drilling", The Physics Factbook, Glenn Elert, retrieved 2009-04-09
+^ Geothermal Energy Association. Geothermal Energy: International Market Update May 2010, p. 4-6.
+^ Bassam, Nasir El; Maegaard, Preben; Schlichting, Marcia (2013). Distributed Renewable Energies for Off-Grid Communities: Strategies and Technologies Toward Achieving Sustainability in Energy Generation and Supply. Newnes. p. 187. ISBN 978-0-12-397178-4.
+^ a b Moomaw, W., P. Burgherr, G. Heath, M. Lenzen, J. Nyboer, A. Verbruggen, 2011: Annex II: Methodology. In IPCC: Special Report on Renewable Energy Sources and Climate Change Mitigation (ref. page 10)
+^ Richter, Alexander (27 January 2020). "The Top 10 Geothermal Countries 2019   based on installed generation capacity (MWe)". Think GeoEnergy - Geothermal Energy News. Retrieved 19 February 2021.
+^ "The International Geothermal Market At a Glance   May 2015" (PDF). GEA Geothermal Energy Association. May 2015.
+^ a b Craig, William; Gavin, Kenneth (2018). Geothermal Energy, Heat Exchange Systems and Energy Piles. London: ICE Publishing. pp. 41 42. ISBN 9780727763983.
+^ "Geothermal energy". /geothermal. Retrieved 2022-04-04.
+^ Lund and, John W.; Boyd, Tonya L. (April 2015), "Direct Utilization of Geothermal Energy 2015 Worldwide Review" (PDF), Proceedings World Geothermal Congress 2015, retrieved 2015-04-27
+^ Holm, Alison (May 2010), Geothermal Energy:International Market Update (PDF), Geothermal Energy Association, p. 7, retrieved 2010-05-24
+^ IRENA, Renewable Capacity Statistics 2022, International Renewable Energy Agency, Abu Dhabi, retrieved 2023-03-20
+^ 
+Bertani, Ruggero (2009), Geothermal Energy: An Overview on Resources and Potential (PDF), Proceedings of the International Conference on National Development of Geothermal Energy Use, Slovakia
+^ DuByne, David (November 2015), "Geothermal Energy in Myanmar Securing Electricity for Eastern Border Development" (PDF), Myanmar Business Today Magazine: 6 8
+^ Heat Pumps, Energy Management and Conservation Handbook, 2008, pp. 9 3
+^ "Mean Annual Air Temperature | MATT | Ground temperature | Renewable Energy | Interseasonal Heat Transfer | Solar Thermal Collectors | Ground Source Heat Pumps | Renewable Cooling". www.icax.co.uk.
+^ "Low-Temperature and Co-produced Geothermal Resources". U.S. Department of Energy.
+^ Geothermal Economics 101, Economics of a 35 MW Binary Cycle Geothermal Plant, New York: Glacier Partners, October 2009, archived from the original on 2010-05-01, retrieved 2009-10-17
+^ Finger, J. T.; Blankenship, D. A. (December 2010). "Handbook of Best Practices for Geothermal Drilling Sandia Report SAND2010-6048" (PDF). Sandia National Laboratories.
+^ 
+Sanyal, Subir K.; Morrow, James W.; Butler, Steven J.; Robertson-Tait, Ann (January 22 24, 2007), Cost of Electricity from Enhanced Geothermal Systems (PDF), Proc. Thirty-Second Workshop on Geothermal Reservoir Engineering, Stanford, California
+^ In the Netherlands the number of greenhouses heated by geothermal energy is increasing fast.
+Reif, Thomas (January 2008), "Profitability Analysis and Risk Management of Geothermal Projects" (PDF), Geo-Heat Centre Quarterly Bulletin, Klamath Falls, Oregon: Oregon Institute of Technology, vol. 28, no. 4, pp. 1 4, retrieved 2009-10-16
+^ 
+Lund, John W.; Boyd, Tonya (June 1999), "Small Geothermal Power Project Examples" (PDF), Geo-Heat Centre Quarterly Bulletin, Klamath Falls, Oregon: Oregon Institute of Technology, vol. 20, no. 2, pp. 9 26, archived from the original (PDF) on 2011-06-14, retrieved 2009-06-02
+^ Bartels, Nicole; Bussmann, Gregor; Ignacy, Roman (2018). "Geothermal Energy in the Context of the Energy Transition Process". 2018 International IEEE Conference and Workshop in  buda on Electrical and Power Engineering (CANDO-EPE). Budapest: IEEE: 000103 000108. doi:10.1109/CANDO-EPE.2018.8601144. ISBN 978-1-7281-1154-4. S2CID 57756066.
+^ Hofinger, Johann (2016). "The contribution of building-integrated geothermal systems to the energy transition / Der Beitrag geb udeintegrierter Geothermieanlagen zur Energiewende". Geomechanics and Tunnelling. 9 (5): 451 457. doi:10.1002/geot.201600029. S2CID 113598291.
+^ Geothermal Energy Association. "Major Companies". Geothermal Energy Association. Archived from the original on 22 April 2014. Retrieved 24 April 2014.
+^ Deloitte, Department of Energy (February 15, 2008). "Geothermal Risk Mitigation Strategies Report". Office of Energy Efficiency and Renewable Energy Geothermal Program.
+^ 
+Turcotte, D. L.; Schubert, G. (2002), Geodynamics (2 ed.), Cambridge, England, UK: Cambridge University Press, pp. 136 137, ISBN 978-0-521-66624-4
+^ "United Downs   Geothermal Engineering Ltd". Retrieved 2021-07-05.
+^ "Is Geothermal Energy Renewable and Sustainable", Energy Auditor: Your Headquarters For Smart Sustainable Living, archived from the original on 2013-06-08, retrieved 9 August 2012
+^ Berg, Georg (2022-05-10). "Under Cover". Tellerrand-Stories (in German). Retrieved 2022-07-23.{{cite web}}:  CS1 maint: url-status (link)
+^ Thain, Ian A. (September 1998), "A Brief History of the Wairakei Geothermal Power Project" (PDF), Geo-Heat Centre Quarterly Bulletin, Klamath Falls, Oregon: Oregon Institute of Technology, vol. 19, no. 3, pp. 1 4, archived from the original (PDF) on 2011-06-14, retrieved 2009-06-02
+^ 
+Axelsson, Gudni; Stef nsson, Valgardur; Bj rnsson, Gr mur; Liu, Jiurong (April 2005), "Sustainable Management of Geothermal Resources and Utilization for 100   300 Years" (PDF), Proceedings World Geothermal Congress 2005, International Geothermal Association, retrieved 2010-01-17
+^ 
+Bertani, Ruggero; Thain, Ian (July 2002), "Geothermal Power Generating Plant CO2 Emission Survey", IGA News (49): 1 3, archived from the original on 2011-07-26, retrieved 2010-01-17
+^ Tut Haklidir, Fusun S.; Baytar, Kaan; Kekevi, Mert (2019),  Qudrat-Ullah, Hassan; Kayal, Aymen A. (eds.), "Global CO2 Capture and Storage Methods and a New Approach to Reduce the Emissions of Geothermal Power Plants with High CO2 Emissions: A Case Study from Turkey", Climate Change and Energy Dynamics in the Middle East: Modeling and Simulation-Based Solutions, Understanding Complex Systems, Springer International Publishing, pp. 323 357, doi:10.1007/978-3-030-11202-8_12, ISBN 9783030112028, S2CID 133813028, CO2 emissions emitted by the geothermal power plants range from 900 to 1300 gr/kwh
+^ Bargagli1, R.; Catenil, D.; Nellil, L.; Olmastronil, S.; Zagarese, B. (1997), "Environmental Impact of Trace Element Emissions from Geothermal Power Plants", Environmental Contamination Toxicology, 33 (2): 172 181, doi:10.1007/s002449900239, PMID 9294245, S2CID 30238608
+^ "Staufen: Risse: Hoffnung in Staufen: Quellvorg nge lassen nach". badische-zeitung.de. Retrieved 2013-04-24.
+^ "Relaunch explanation". NAV_NODE DLR Portal. Retrieved 2022-08-05.
+^ "WECHSELWIRKUNG - Numerische Geotechnik". www.wechselwirkung.eu. Retrieved 2022-08-05.
+^ 
+Deichmann, N.; Mai; Bethmann; Ernst; Evans; F h; Giardini; H ring; Husen;  et al. (2007), "Seismicity Induced by Water Injection for Geothermal Reservoir Stimulation 5 km Below the City of Basel, Switzerland", American Geophysical Union, 53: V53F 08, Bibcode:2007AGUFM.V53F..08D
+^ a b c Sussman, David; Javellana, Samson P.; Benavidez, Pio J. (1993-10-01). "Geothermal energy development in the Philippines: An overview". Geothermics. Special Issue Geothermal Systems of the Philippines. 22 (5): 353 367. doi:10.1016/0375-6505(93)90024-H. ISSN 0375-6505.
+^ a b c Ratio, Marnel Arnold; Gabo-Ratio, Jillian Aira; Tabios-Hillebrecht, Anna Leah (2019),  Manzella, Adele; Allansdottir, Agnes; Pellizzone, Anna (eds.), "The Philippine Experience in Geothermal Energy Development", Geothermal Energy and Society, Cham: Springer International Publishing, pp. 217 238, doi:10.1007/978-3-319-78286-7_14, ISBN 978-3-319-78286-7, S2CID 134654953, retrieved 2022-05-29
+^ a b Dacillo, Danilo B.; Colo, Marie Hazel B.; Andrino, Romeo P. Jr.; Alcober, Edwin H.; Sta. Ana, Francis Xavier; Malate, Ramonchito Cedric M. (April 25 29, 2010). "Tongonan Geothermal Field: Conquering the Challenges of 25 Years of Production" (PDF).{{cite web}}:  CS1 maint: date format (link)
+^ Fronda, Ariel D.; Marasigan, Mario C.; Lazaro, Vanessa S. (April 19 25, 2015). "Geothermal Development in the Philippines: The Country Update" (PDF).{{cite web}}:  CS1 maint: date format (link)
+^ Alcaraz, A.P. "Geothermal Energy Development - A Boon to Philippine Energy Self-Reliance Efforts" (PDF). Retrieved May 29, 2022.
+^ Cusi, Alfonso G. "PHILIPPINE ENERGY PLAN 2012-2030 Update" (PDF). Retrieved May 29, 2022.
+^ Hanson, Patrick (2019-07-12). "Geothermal Country Overview: Philippines". GeoEnergy Marketing. Retrieved 2022-05-29.
+^ GEA Update Release 2013, Geo-energy.org, 2013-02-26, retrieved 2013-10-09
+External links[edit]
+Look up geothermal in Wiktionary, the free dictionary.
+Wikimedia Commons has media related to Geothermal energy.
+Hawaii Groundwater & Geothermal Resources Center, University of Hawaii at Manoa
+Geothermal Resources Council
+Energy Efficiency and Renewable Energy   Geothermal Technologies Office
+International Energy Agency Geothermal Energy Homepage
+NREL   Geothermal Research
+2022 discussion of geothermal energy advantages and challenges
+vteGeothermal energyGeothermal energy
+Geothermal energy
+Geothermal power
+Geothermal heating
+Geothermal gradient
+By country
+Armenia
+Australia
+Canada
+Chile
+China
+Denmark
+El Salvador
+Energy in Ethiopia
+Germany
+Hungary
+Iceland
+Indonesia
+Italy
+Japan
+Kenya
+Lebanon
+Lithuania
+Mexico
+New Zealand
+Philippines
+Portugal
+Romania
+Russia
+Turkey
+Ukraine
+United Kingdom
+United States
+Technologies
+Aquaculture
+Desalination
+District heating
+Binary Cycle
+EGS
+Hot dry rock
+Energy Concepts
+Baseload power
+Capacity factor
+Energy storage
+Energy subsidies
+EROEI
+ Category
+Portals:  Renewable energy
+ Energy
+vteElectricity deliveryConcepts
+Automatic generation control
+Backfeeding
+Base load
+Demand factor
+Droop speed control
+Economic dispatch
+Electric power
+Demand management
+Energy return on investment
+Electrical fault
+Home energy storage
+Grid storage
+Grid code
+Grid strength
+Load-following
+Merit order
+Nameplate capacity
+Peak demand
+Power factor
+Power quality
+Power-flow study
+Repowering
+Utility frequency
+Variability
+Vehicle-to-grid
+SourcesNon-renewable
+Fossil fuel power station
+Coal
+Natural gas
+Petroleum
+Oil shale
+Nuclear
+Renewable
+Biogas
+Biofuel
+Biomass
+Geothermal
+Hydro
+Marine
+Current
+Osmotic
+Thermal
+Tidal
+Wave
+Solar
+Sustainable biofuel
+Wind
+Generation
+AC power
+Cogeneration
+Combined cycle
+Cooling tower
+Induction generator
+Micro CHP
+Microgeneration
+Rankine cycle
+Three-phase electric power
+Virtual power plant
+Transmissionand distribution
+Demand response
+Distributed generation
+Dynamic demand
+Electric power distribution
+Electricity retailing
+Electrical busbar system
+Electric power system
+Electric power transmission
+Electrical grid
+Electrical interconnector
+High-voltage direct current
+High-voltage shore connection
+Load management
+Mains electricity by country
+Power line
+Power station
+Pumped hydro
+Smart grid
+Substation
+Single-wire earth return
+Super grid
+Transformer
+Transmission system operator (TSO)
+Transmission tower
+Utility pole
+Failure modes
+Blackout (Rolling blackout)
+Brownout
+Black start
+Cascading failure
+Protectivedevices
+Arc-fault circuit interrupter
+Circuit breaker
+Earth-leakage circuit breaker
+Generator interlock kit
+Residual-current device (GFI)
+Power system protection
+Protective relay
+Numerical relay
+Sulfur hexafluoride circuit breaker
+Economicsand policies
+Availability factor
+Capacity factor
+Carbon offset
+Cost of electricity by source
+Environmental tax
+Energy subsidies
+Feed-in tariff
+Fossil fuel phase-out
+Load factor
+Net metering
+Pigovian tax
+Renewable Energy Certificates
+Renewable energy payments
+Renewable energy policy
+Spark/Dark/Quark/Bark spread
+Statistics andproduction
+List of electricity sectors
+Electric energy consumption
+Categories
+Electric power distribution
+Electricity economics
+Power station technology
+Portals
+Energy
+Renewable energy
+vteNatural resourcesAirPollution / quality
+Ambient standards (USA)
+Index
+Indoor
+Law
+Clean Air Act (USA)
+Ozone depletion
+Emissions
+Airshed
+Trading
+Deforestation (REDD)
+Energy
+Law
+Resources
+Fossil fuels (gas, Peak coal, Peak gas, Peak oil)
+Geothermal
+Hydro
+Nuclear
+Solar
+sunlight
+shade
+Wind
+Land
+Arable
+peak farmland
+Degradation
+Landscape
+cityscape
+seascape
+soundscape
+viewshed
+Law
+property
+Management
+habitat conservation
+Minerals
+Gemstone
+Industrial
+Ore
+Metal
+mining
+law
+sand
+peak
+Copper
+Phosphorus
+rights
+Soil
+conservation
+fertility
+health
+resilience
+Use
+planning
+reserve
+Life
+Biodiversity
+Bioprospecting
+Biosphere
+Bushfood
+Bushmeat
+Fisheries
+climate change
+law
+management
+Forests
+genetic resources
+law
+management
+non-timber products
+Game
+law
+Marine conservation
+Meadow
+Plants
+FAO Plant Treaty
+food
+genetic resources
+gene banks
+herbal medicines
+UPOV Convention
+wood
+Rangeland
+Seed bank
+Wildlife
+conservation
+management
+WaterTypes / location
+Aquifer
+storage and recovery
+Drinking
+Fresh
+Groundwater
+pollution
+recharge
+remediation
+Hydrosphere
+Ice
+bergs
+glacial
+polar
+Irrigation
+huerta
+Marine
+Rain
+harvesting
+Stormwater
+Surface water
+Sewage
+Reclaimed water
+Watershed
+Aspects
+Desalination
+Floods
+Law
+Leaching
+Sanitation
+Conflict
+Conservation
+Peak water
+Pollution
+Privatization
+Quality
+Right
+Resources
+management
+policy
+Related
+Commons
+enclosure
+global
+land
+tragedy of
+Economics
+ecological
+land
+Ecosystem services
+Exploitation
+overexploitation
+Earth Overshoot Day
+Management
+adaptive
+Natural capital
+accounting
+good
+Natural heritage
+Nature reserve
+Systems ecology
+Urban ecology
+Wilderness
+Resource
+Common-pool
+Conflict (perpetuation)
+Curse
+Depletion
+Extraction
+Nationalism
+Renewable / Non-renewable
+ Category
+Authority control: National 
+Germany
+Israel
+United States
+Japan
+Czech Republic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Geothermal_energy&oldid=1146423590"

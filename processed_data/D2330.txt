@@ -1,0 +1,480 @@
+Point-to-point serial protocol for enterprise storage
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Serial Attached SCSI" news  newspapers  books  scholar  JSTOR (November 2012) (Learn how and when to remove this template message)
+SASSerial Attached SCSISAS connectorWidth in bits1No. of devices65,535SpeedSAS-1: Full-duplex[1] 3 Gbit/s (2004)SAS-2: Full-duplex 6 Gbit/s (2009)SAS-3: Full-duplex 12 Gbit/s (2013)SAS-4: Full-duplex 22.5 Gbit/s (2017)[2]StyleSerialHotplugging interfaceYes
+In computing, Serial Attached SCSI (SAS) is a point-to-point serial protocol that moves data to and from computer-storage devices such as hard disk drives and tape drives. SAS replaces the older Parallel SCSI (Parallel Small Computer System Interface, usually pronounced "scuzzy" or "sexy"[3][4]) bus technology that first appeared in the mid-1980s. SAS, like its predecessor, uses the standard SCSI command set. SAS offers optional compatibility with Serial ATA (SATA), versions 2 and later. This allows the connection of SATA drives to most SAS backplanes or controllers. The reverse, connecting SAS drives to SATA backplanes, is not possible.[5]
+The T10 technical committee of the International Committee for Information Technology Standards (INCITS) develops and maintains the SAS protocol; the SCSI Trade Association (SCSITA) promotes the technology.
+Introduction[edit]
+ Storage servers housing 24 SAS hard disk drives per server
+A typical Serial Attached SCSI system consists of the following basic components:
+An initiator: a device that originates device-service and task-management requests for processing by a target device and receives responses for the same requests from other target devices. Initiators may be provided as an on-board component on the motherboard (as is the case with many server-oriented motherboards) or as an add-on host bus adapter.
+A target: a device containing logical units and target ports that receives device service and task management requests for processing and sends responses for the same requests to initiator devices. A target device could be a hard disk drive or a disk array system.
+A service delivery subsystem: the part of an I/O system that transmits information between an initiator and a target. Typically cables connecting an initiator and target with or without expanders and backplanes constitute a service delivery subsystem.
+Expanders: devices that form part of a service delivery subsystem and facilitate communication between SAS devices. Expanders facilitate the connection of multiple SAS End devices to a single initiator port.[6]
+History[edit]
+SAS-1: 3.0 Gbit/s, introduced in 2004[7]
+SAS-2: 6.0 Gbit/s, available since February 2009
+SAS-3: 12.0 Gbit/s, available since March 2013
+SAS-4: 22.5 Gbit/s called "24G",[8] standard completed in 2017[7][2]
+SAS-5: 45 Gbit/s is being developed[9]
+Identification and addressing[edit]
+A SAS Domain is the SAS version of a SCSI domain it consists of a set of SAS devices that communicate with one another by means of a service delivery subsystem. Each SAS port in a SAS domain has a SCSI port identifier that identifies the port uniquely within the SAS domain, the World Wide Name. It is assigned by the device manufacturer, like an Ethernet device's MAC address, and is typically worldwide unique as well. SAS devices use these port identifiers to address communications to each other.
+In addition, every SAS device has a SCSI device name, which identifies the SAS device uniquely in the world.  One doesn't often see these device names because the port identifiers tend to identify the device sufficiently.
+For comparison, in parallel SCSI, the SCSI ID is the port identifier and device name. In Fibre Channel, the port identifier is a WWPN and the device name is a WWNN.
+In SAS, both SCSI port identifiers and SCSI device names take the form of a SAS address, which is a 64 bit value, normally in the NAA IEEE Registered format.  People sometimes refer to a SCSI port identifier as the SAS address of a device, out of confusion.  People sometimes call a SAS address a World Wide Name or WWN, because it is essentially the same thing as a WWN in Fibre Channel.  For a SAS expander device, the SCSI port identifier and SCSI device name are the same SAS address.
+Comparison with parallel SCSI[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2014) (Learn how and when to remove this template message)
+The SAS "bus" operates point-to-point while the SCSI bus is multidrop.  Each SAS device is connected by a dedicated link to the initiator, unless an expander is used. If one initiator is connected to one target, there is no opportunity for contention; with parallel SCSI,  even this situation could cause contention.
+SAS has no termination issues and does not require terminator packs like parallel SCSI.
+SAS eliminates clock skew.
+SAS allows up to 65,535 devices through the use of expanders, while Parallel SCSI has a limit of 8 or 16 devices on a single channel.
+SAS allows a higher transfer speed (3, 6 or 12 Gbit/s) than most parallel SCSI standards. SAS achieves these speeds on each initiator-target connection, hence getting higher throughput, whereas parallel SCSI shares the speed across the entire multidrop bus.
+SAS devices feature dual ports, allowing for redundant backplanes or multipath I/O; this feature is usually referred to as the dual-domain SAS.[10]
+SAS controllers may connect to SATA devices, either directly connected using native SATA protocol or through SAS expanders using Serial ATA Tunneling Protocol (STP).
+Both SAS and parallel SCSI use the SCSI command set.
+Comparison with SATA[edit]
+There is little physical difference between SAS and SATA.[11]
+SAS protocol provides for multiple initiators in a SAS domain, while SATA has no analogous provision.[11]
+Most SAS drives provide tagged command queuing, while most newer SATA drives provide native command queuing.[11]
+SATA uses a command set that is based on the parallel ATA command set and then extended beyond that set to include features like native command queuing, hot-plugging, and TRIM. SAS uses the SCSI command set, which includes a wider range of features like error recovery, reservations and block reclamation. Basic ATA has commands only for direct-access storage. However SCSI commands may be tunneled through ATAPI[11] for devices such as CD/DVD drives.
+SAS hardware allows multipath I/O to devices while SATA (prior to SATA 2.0) does not.[11] Per specification, SATA 2.0 makes use of port multipliers to achieve port expansion, and some port multiplier manufacturers have implemented multipath I/O using port multiplier hardware.
+SATA is marketed as a general-purpose successor to parallel ATA and has become[update] common in the consumer market, whereas the more-expensive SAS targets critical server applications.
+SAS error-recovery and error-reporting uses SCSI commands, which have more functionality than the ATA SMART commands used by SATA drives.[11]
+SAS uses higher signaling voltages (800 1,600 mV for transmit, and 275 1,600 mV for receive[clarification needed]) than SATA (400 600 mV for transmit, and 325 600 mV for receive[clarification needed]). The higher voltage offers (among other features) the ability to use SAS in server backplanes.[11]
+Because of its higher signaling voltages, SAS can use cables up to 10 m (33 ft) long, whereas SATA has a cable-length limit of 1 m (3.3 ft) or 2 m (6.6 ft) for eSATA.[11]
+SAS is full duplex, whereas SATA is half duplex.  The SAS transport layer can transmit data at the full speed of the link in both directions at once, so a SCSI command executing over the link can transfer data to and from the device simultaneously.  However, because SCSI commands that can do that are rare, and a SAS link must be dedicated to an individual command at a time, this is generally not an advantage with a single device.[12]
+Characteristics[edit]
+Technical details[edit]
+The Serial Attached SCSI standard defines several layers (in order from highest to lowest): application, transport, port, link, PHY and physical.  Serial Attached SCSI comprises three transport protocols:
+Serial SCSI Protocol (SSP)   for command-level communication with SCSI devices.
+Serial ATA Tunneling Protocol (STP)   for command-level communication with SATA devices.
+Serial Management Protocol (SMP)   for managing the SAS fabric.
+For the Link and PHY layers, SAS defines its own unique protocol.
+At the physical layer, the SAS standard defines connectors and voltage levels. The physical characteristics of the SAS wiring and signaling are compatible with and have loosely tracked that of SATA up to the 6 Gbit/s rate, although SAS defines more rigorous physical signaling specifications as well as a wider allowable differential voltage swing intended to allow longer cabling. While SAS-1.0 and SAS-1.1 adopted the physical signaling characteristics of SATA at the 3 Gbit/s rate with 8b/10b encoding, SAS-2.0 development of a 6 Gbit/s physical rate led the development of an equivalent SATA speed. In 2013, 12 Gbit/s followed in the SAS-3 specification.[13] SAS-4 is slated to introduce 22.5 Gbit/s signaling with a more efficient 128b/150b encoding scheme to realize a usable data rate of 2,400 MB/s while retaining compatibility with 6 and 12 Gbit/s.[14]
+Additionally, SCSI Express takes advantage of the PCI Express infrastructure to directly connect SCSI devices over a more universal interface.[15]
+Architecture[edit]
+ The architecture of SAS layers
+SAS architecture consists of six layers:
+Physical layer:
+defines electrical and physical characteristics
+differential signaling transmission
+Multiple connector types:
+SFF-8482   SATA compatible
+Internal four-lane connectors: SFF-8484, SFF-8087, SFF-8643
+External four-lane connectors: SFF-8470, SFF-8088, SFF-8644
+PHY Layer:
+8b/10b data encoding (3, 6, and 12 Gbit/s)
+128b/150b SPL packet encoding (22.5 Gbit/s)[16] (2 bit header, 128 bit payload, 20 bit Reed-Solomon forward error correction)
+Link initialization, speed negotiation and reset sequences
+Link capabilities negotiation (SAS-2 onwards)
+Link layer:
+Insertion and deletion of primitives for clock-speed disparity matching
+Primitive encoding
+Data scrambling for reduced EMI
+Establish and tear down native connections between SAS targets and initiators
+Establish and tear down tunneled connections between SAS initiators and SATA targets connected to SAS expanders
+Power management (proposed for SAS-2.1)
+Port layer:
+Combining multiple PHYs with the same addresses into wide ports
+Transport layer:
+Contains three transport protocols:
+Serial SCSI Protocol (SSP): for command-level communication with SCSI devices
+Serial ATA Tunneled Protocol (STP): for command-level communication with SATA devices
+Serial Management Protocol (SMP): for managing the SAS fabric
+Application layer
+Topology[edit]
+An initiator may connect directly  to a target via one or more PHYs (such a connection is called a port whether it uses one or more PHYs, although the term wide port is sometimes used for a multi-PHY connection).
+SAS expanders[edit]
+The components known as Serial Attached SCSI Expanders (SAS Expanders) facilitate communication between large numbers of SAS devices. Expanders contain two or more external expander-ports. Each expander device contains at least one SAS Management Protocol target port for management and may contain SAS devices itself. For example, an expander may include a Serial SCSI Protocol target port for access to a peripheral device. An expander is not necessary to interface a SAS initiator and target but allows a single initiator to communicate with more SAS/SATA targets. A useful analogy: one can regard an expander as akin to a network switch in a network, which connects multiple systems using a single switch port.
+SAS 1 defined two types of expander; however, the SAS-2.0 standard has dropped the distinction between the two, as it created unnecessary topological limitations with no realized benefit:
+An edge expander allows for communication with up to 255 SAS addresses, allowing the SAS initiator to communicate with these additional devices. Edge expanders can do direct table routing and subtractive routing. (For a brief discussion of these routing mechanisms, see below). Without a fanout expander, you can use at most two edge expanders in a delivery subsystem (because you connect the subtractive routing port of those edge expanders together, and you can't connect any more expanders). Fanout expanders solve this bottleneck.
+A fanout expander can connect up to 255 sets of edge expanders, known as an edge expander device set, letting even more SAS devices be addressed. The subtractive routing port of each edge expanders connects to the phys of fanout expander. A fanout expander cannot do subtractive routing, it can only forward subtractive routing requests to the connected edge expanders.
+Direct routing allows a device to identify devices directly connected to it. Table routing identifies devices connected to the expanders connected to a device's own PHY. Subtractive routing is used when you are not able to find the devices in the sub-branch you belong to. This passes the request to a different branch altogether.
+Expanders exist to allow more complex interconnect topologies. Expanders assist in link-switching (as opposed to packet-switching) end-devices (initiators or targets). They may locate an end-device either directly (when the end-device is connected to it), via a routing table (a mapping of end-device IDs and the expander the link should be switched to downstream to route towards that ID), or when those methods fail, via subtractive routing: the link is routed to a single expander connected to a subtractive routing port. If there is no expander connected to a subtractive port, the end-device cannot be reached.
+Expanders with no PHYs configured as subtractive act as fanout expanders and can connect to any number of other expanders.  Expanders with subtractive PHYs may only connect to two other expanders at a maximum, and in that case they must connect to one expander via a subtractive port and the other via a non-subtractive port.
+SAS-1.1 topologies built with expanders generally contain one root node in a SAS domain with the one exception case being topologies that contain two expanders connected via a subtractive-to-subtractive port. If it exists, the root node is the expander, which is not connected to another expander via a subtractive port. Therefore, if a fanout expander exists in the configuration, it must be the domain's root node. The root node contains routes for all end devices connected to the domain.  Note that with the advent in SAS-2.0 of table-to-table routing and new rules for end-to-end zoning, more complex topologies built upon SAS-2.0 rules do not contain a single root node.
+Connectors[edit]
+SAS connectors are much smaller than traditional parallel SCSI connectors. Commonly, SAS provides for point data transfer speeds up to 12 Gbit/s.[17]
+The physical SAS connector comes in several different variants:[18]
+Code-name[19]
+other names
+external/internal
+Pins
+No of devices/ lanes
+Comment
+Image
+SFF-8086
+Internal mini-SAS,internal mSAS
+internal
+26
+4
+This is a less common implementation of internal mSAS than SFF-8087's 36-circuit version.The fewer positions is enabled by it not supporting sidebands.
+SFF-8087[20][21]
+Internal mini-SAS,internal mSAS,internal iSAS,internal iPass
+internal
+36
+4
+Unshielded 36-circuit implementation of SFF-8086.Molex iPass reduced width internal 4  connector; 12 Gbit/s capability.
+SFF-8088[22][23]
+External mini-SAS,external mSAS,external iSAS,external iPass
+external
+26
+4
+Shielded 26-circuit implementation of SFF-8086.Molex iPass reduced width external 4  connector; 12 Gbit/s capability.
+SFF-8431[24][25]
+SFP+
+external
+20
+1
+SFF-8436[26][27]
+QSFP+,Quad SFP+
+external
+38
+4
+Commonly used with many NetApp storage systems.Often seen with SFF-8088 or SFF-8644 on the other end; 6 Gbit/s capability.
+SFF-8470[28][29]
+InfiniBand CX4connector,Molex LaneLink
+external
+34
+4
+High-density external connector (also used as an internal connector).
+SFF-8482[30][31]
+internal
+29
+2 lanes
+This form factor is designed for compatibility with SATA but can drive a SAS device.A SAS controller can control SATA drives, but a SATA controller cannot control SAS drives.
+The most common connection[32] for SAS drives connecting to backplanes in servers, i.e. PowerEdge[33] and ProLiant[34]
+SFF-8484[35][36]
+internal
+32 or19
+4 or 2
+High-density internal connector, 2 and 4 lane versions are defined by the SFF standard.
+SFF-8485[37]
+Defines SGPIO (extension of SFF 8484),a serial link protocol used usually for LED indicators.
+SFF-8613[38](SFF-8643[39][40])
+Mini-SAS HD,U.2
+internal
+36
+4 or 8 withdual connector (single connector pictured)
+Mini-SAS HD (introduced with SAS 12 Gbit/s)
+Also known as a U.2 port[41] along with SFF-8639.
+SFF-8614[42](SFF-8644[43][44])
+external Mini-SAS HD
+external
+4 or 8 withdual connector (single connector pictured)
+Mini-SAS HD (introduced with SAS 12 Gbit/s)
+Sidebandconnector
+internal
+Often seen with 1  SFF-8643 or 1  SFF-8087 on the other end internal fan-out for 4  SATA drives.Connects the controller to drives without backplane orto the (SATA) backplane and optionally, to the status LEDs.
+SFF-8680[45][46]
+internal
+1(2 ports)
+SAS 12 Gbit/s backplane connector
+SFF-8639[47][48]
+U.2[49]
+internal
+68
+1(2 ports)
+SAS 12 Gbit/s backplane connector;revision of the SFF-8680.
+SFF-8638[50]
+Four 1x ports at up to 24 Gb/s each;two 2x ports at up to 48 Gb/s each;one 4x port at up to 96 Gb/s.
+SFF-8640[51]
+Four 1x ports at up to 24 Gb/s each;two 2x ports at up to 48 Gb/s each;one 4x port at up to 96 Gb/s.[52]
+SFF-8681[53]
+Two 1x ports at up to 24 Gb/s each;one 2x ports at up to 48 Gb/s each.
+SFF-8654[54]
+SlimSAS[55]
+internal
+4X: 38
+8X: 74
+4X and 8X SAS-4 plug and receptacle
+Nearline SAS[edit]
+Nearline SAS (abbreviated to NL-SAS, and sometimes called midline SAS) drives have a SAS interface, but head, media, and rotational speed of traditional enterprise-class SATA drives, so they cost less than other SAS drives.  When compared to SATA, NL-SAS drives have the following benefits:[56]: 20 
+Dual ports allowing redundant paths
+Ability to connect a device to multiple computers
+Full SCSI command set
+No need for using Serial ATA Tunneling Protocol (STP), which is necessary for SATA HDDs to be connected to a SAS HBA.[56]: 16 
+No need for SATA interposer cards, which are needed for pseudo dual-port high availability of SATA HDDs.[56]: 17 
+Larger depth of command queues
+See also[edit]
+List of device bandwidths
+SCSI / ATA Translation
+Serial Storage Architecture
+USB Attached SCSI
+References[edit]
+^ "Differences between SAS and SATA".
+^ a b "24G SAS Data Storage Specification Development Complete; SCSI Trade Association Spotlights Technology at 2017 Flash Memory Summit". SCSI Trade Association. 2017-08-07.
+^ Thompson, Robert Bruce; Thompson, Barbara Fritchman (24 July 2003). PC Hardware in a Nutshell: A Desktop Quick Reference. "O'Reilly Media, Inc.". p. 422. ISBN 978-0-596-55234-3.
+^ NCR Corporation (1990). Scsi: understanding the small computer system interface. University of Virginia: Prentice Hall. p. 5. ISBN 9780137968558.
+^ 
+"SAS and SATA: Unparalleled Compatibility". Retrieved 2013-08-05.
+^ "SAS architecture". ibm. Retrieved January 14, 2016.
+^ a b "Serial Attached SCSI Master Roadmap". SCSI Trade Association. 2015-10-14. Retrieved 2016-02-26.
+^ "Serial Attached SCSI - 4 (SAS-4) draft" (PDF). T10. 2016-05-11. Retrieved 2016-05-15.
+^ http://www.t10.org/cgi-bin/ac.pl?t=f&f=sas5r01a.pdf[bare URL PDF]
+^ "Redundancy in enterprise storage networks using dual-domain SAS configurations". Hewlett-Packard Development Company. May 2008. Archived from the original (PDF) on 2016-01-10. Retrieved 2016-01-10.
+^ a b c d e f g h "SATA vs SAS Hard Drives on Dedicated Servers". Steadfast.net. Steadfast. Archived from the original on 29 June 2013. Retrieved 2013-08-05.
+^ Schmid, Patrick; Roos, Achim (2009-08-31). "SAS Features And Basics - Next-Generation SAS: 6 Gb/s Storage Hits The Enterprise". Tom's Hardware. Retrieved 2014-07-15.
+^ "Serial Attached SCSI - 3 (SAS-3)" (PDF). T10. 2013-11-07. Retrieved 2015-05-11.
+^ "Serial Attached SCSI - 4 (SAS-4), 5.8.1 General electrical characteristics" (PDF). Retrieved 2015-05-11.
+^ "Library  SCSI Express". SCSI Trade Association. Retrieved 2013-08-05.
+^ "SAS Protocol Layer - 4 (SPL-4) draft, p." (PDF). T10. 2016-05-09. Retrieved 2016-05-15.
+^ "LSI First to Ship New High-Performance 12Gb/s SAS Products". SCSITA.org. SCSI Trade Association. Retrieved 2013-12-03.
+^ "SFF Committee specifications". ftp.Seagate.com. Seagate Technology. Retrieved 2013-08-05.
+^ "SFF Specifications | SNIA". www.snia.org. Retrieved 2021-06-06.
+^ "Mini Multilane 4X Unshielded Connector Shell and Plug, Rev 2.6". Archived from the original on January 29, 2019.
+^ "SFF-8087". CS Electronics. Retrieved 2021-06-06.
+^ "Mini Multilane 4X Shielded Connector Shell and Plug, Rev 3.4". Archived from the original on November 14, 2020.
+^ "SFF-8088". CS Electronics. Retrieved 2021-06-06.
+^ "SFP+ 10 Gb/s and Low Speed Electrical Interface, Rev 4.1". Archived from the original on June 6, 2021.
+^ "SFF-8431 SFP+". CS Electronics. Retrieved 2021-06-06.
+^ "QSFP+ 4X 10 Gb/s Pluggable Transceiver, rev 4.9". Archived from the original on December 26, 2019.
+^ "SFF-8436". CS Electronics. Retrieved 2021-06-06.
+^ "Shielded High Speed Serial Multilane Copper Connector, Rev 3.3". Archived from the original on June 6, 2021.
+^ "SFF-8470". CS Electronics. Retrieved 2021-06-06.
+^ "Serial Attachment 2X Unshielded Connector, Rev 2.5". Archived from the original on June 6, 2021.
+^ "SFF-8482". CS Electronics. Retrieved 2021-06-06.
+^ servethehome (2011-01-31). "SAS/ SATA SFF-8087, 8088, 8470, 8482, 8484 Connectors Guide". ServeTheHome. Retrieved 2021-01-12.
+^ "Compatible Dell PowerEdge Server Hard Drives". Water Panther. Retrieved 2021-01-12.
+^ "Compatible HPE ProLiant Server Hard Drives". Water Panther. Retrieved 2021-01-12.
+^ "Multilane Unshielded Serial Attachment Connectors, Rev 2.0". Archived from the original on June 6, 2021.
+^ "SFF-8484". CS Electronics. Retrieved 2021-06-06.
+^ "SFF-8485 Specification for Serial GPIO (SGPIO) Bus, Rev 0.7". Archived from the original on June 26, 2019.
+^ "Mini Multilane 4/8X Unshielded Connector (HDun), Rev 3.5". Archived from the original on June 6, 2021.
+^ "Mini Multilane 4/8X 12 Gb/s Unshielded Connector (HD12un), Rev 3.5". Archived from the original on June 6, 2021.
+^ "SFF-8643". CS Electronics. Retrieved 2021-06-06.
+^ "ICY TIPs_ICY DOCK manufacturer Removable enclosure, Screwless hard drive enclosure, SAS SATA Mobile Rack, DVR Surveillance Recording, Video Audio Editing, SATA portable hard drive enclosure". www.icydock.com. Retrieved 2020-06-29.
+^ "Mini Multilane 4/8X Shielded Cage/Connector (HDsh), Rev 3.4". Archived from the original on June 6, 2021.
+^ "Mini Multilane 4/8X 12 Gb/s Shielded Cage/Connector (HD12sh), Rev 3.5". Archived from the original on November 12, 2020.
+^ "SFF-8644". CS Electronics. Retrieved 2021-06-06.
+^ "Serial Attachment 2X 12 Gb/s Unshielded Connector, Rev 2.1". Archived from the original on June 6, 2021.
+^ "SFF-8680". CS Electronics. Retrieved 2021-06-06.
+^ "Multifunction 6X Unshielded Connector, Rev 2.1". Archived from the original on February 17, 2020.
+^ "SFF-8639". CS Electronics. Retrieved 2021-06-06.
+^ "SFF-8639 Review". PC Perspective. TekPerspective. Retrieved 2016-07-21.
+^ "Multifunction 6X 24 Gb/s Unshielded Connector, Rev 1.1". Archived from the original on June 6, 2021.
+^ "Serial Attachment 4X 24 Gb/s Unshielded Connector, Rev 1.0". Archived from the original on June 6, 2021.
+^ "SAS Device to Mid-plane Interconnects Roadmap". SCSITA.org. SCSI Trade Association. 2015-08-15. Retrieved 2017-10-14.
+^ "Serial Attachment 2X 24 Gb/s Unshielded Connector, Rev 1.0". Archived from the original on June 6, 2021.
+^ "0.6mm 4/8X Unshielded I/O Connector, Rev 1.2". Archived from the original on July 10, 2021. Retrieved July 10, 2021.
+^ "SAS 4.0, PCI-E 4.0, Upcoming 24Gbps, New HBA's and RAID cards, SlimSAS, My New "Cables" and the new SFF Connector: The Future Is Here, Bois". ServeTheHome Forums. Archived from the original on May 27, 2021. Retrieved 2021-07-10.
+^ a b c Willis Whittington (2007). "Desktop, Nearline & Enterprise Disk Drives" (PDF). Storage Networking Industry Association (SNIA). Retrieved 2014-09-22.
+External links[edit]
+Wikimedia Commons has media related to Serial Attached SCSI.
+T10 committee
+SCSI Trade Association
+Current draft revision of SAS-2 from T10 (6.83 MiB PDF after registration)
+Current draft revision of SAS-3 from T10 (2.8  MB PDF after registration)
+Seagate whitepaper on Nearline SAS
+SAS Standards and Technology Update, SNIA, 2011, by Harry Mason and Marty Czekalski (MultiLink SAS is described on pp. 17 19)
+MultiLink SAS presentations, press releases and roadmaps Archived 2019-01-01 at the Wayback Machine, SCSI Trade Association
+SAS Integrators Guide, SCSI Trade Association, April 2006
+Pinouts of SAS SFF-8482 and other connectors
+vteTechnical and de facto standards for wired computer busesGeneral
+System bus
+Front-side bus
+Back-side bus
+Daisy chain
+Control bus
+Address bus
+Bus contention
+Bus mastering
+Network on a chip
+Plug and play
+List of bus bandwidths
+Standards
+SS-50 bus
+S-100 bus
+Multibus
+Unibus
+VAXBI
+MBus
+STD Bus
+SMBus
+Q-Bus
+Europe Card Bus
+ISA
+STEbus
+Zorro II
+Zorro III
+CAMAC
+FASTBUS
+LPC
+HP Precision Bus
+EISA
+VME
+VXI
+VXS
+NuBus
+TURBOchannel
+MCA
+SBus
+VLB
+HP GSC bus
+InfiniBand
+Ethernet
+UPA
+PCI
+PCI Extended (PCI-X)
+PXI
+PCI Express (PCIe)
+AGP
+Compute Express Link (CXL)
+Direct Media Interface (DMI)
+RapidIO
+Intel QuickPath Interconnect
+NVLink
+HyperTransport
+Infinity Fabric
+Intel Ultra Path Interconnect
+Coherent Accelerator Processor Interface (CAPI)
+SpaceWire
+Storage
+ST-506
+ESDI
+IPI
+SMD
+Parallel ATA (PATA)
+SSA
+DSSI
+HIPPI
+Serial ATA (SATA)
+SCSI
+Parallel
+SAS
+Fibre Channel
+SATAe
+PCI Express (via AHCI or NVMe logical device interface)
+Peripheral
+Apple Desktop Bus
+Atari SIO
+DCB
+Commodore bus
+HP-IL
+HIL
+MIDI
+RS-232
+RS-422
+RS-423
+RS-485
+Lightning
+DMX512-A
+IEEE-488 (GPIB)
+IEEE-1284 (parallel port)
+UNI/O
+1-Wire
+I C (ACCESS.bus, PMBus, SMBus)
+I3C
+SPI
+D B
+Parallel SCSI
+Profibus
+IEEE 1394 (FireWire)
+USB
+Camera Link
+External PCIe
+Thunderbolt
+Audio
+ADAT Lightpipe
+AES3
+Intel HD Audio
+I S
+MADI
+McASP
+S/PDIF
+TOSLINK
+Portable
+PC Card
+ExpressCard
+Embedded
+Multidrop bus
+CoreConnect
+AMBA (AXI)
+Wishbone
+SLIMbus
+Interfaces are listed by their speed in the (roughly) ascending order, so the interface at the end of each section should be the fastest. Category
+vteSolid-state drivesKey terminology
+Encryption
+ECC
+Flash file system
+Flash memory
+SLC/MLC
+Flash memory controller
+Garbage collection
+IOPS
+MB/s
+Memory wear
+Open-channel SSD
+Over-provisioning
+Read disturb
+Secure erase
+Solid-state storage
+Trim command
+Wear leveling
+Write amplification
+Flash manufacturers
+Micron
+Samsung
+SK Hynix
+Bought Intel's NAND flash SSD business and renamed it Solidigm
+Flash Forward (joint venture between Western Digital and Kioxia)
+YMTC
+ControllersCaptive
+Western Digital
+SanDisk
+Fusion-io
+HGST
+sTec
+Kioxia
+OCZ (bankrupt, assets sold to Toshiba, which later spun off its SSD and flash business to Kioxia)
+Indilinx (bought by OCZ)
+Micron
+Samsung
+Seagate
+SandForce
+SK Hynix
+Bought Intel's NAND flash SSD business including controllers and renamed it Solidigm
+FADU
+Independent
+Greenliant Systems
+Goke
+Maxiotek
+Marvell
+Phison
+PMC-Sierra
+SMI
+SSD manufacturers
+List of solid-state drive manufacturers
+Interfaces
+Advanced Host Controller Interface (AHCI)
+Fibre Channel (FC)
+NVM Express (NVMe)
+PCI Express (PCIe)
+SATA Express
+Serial ATA (SATA)
+Serial attached SCSI (SAS)
+Universal Serial Bus (USB)
+Configurations
+HDD form factors
+mSATA
+M.2
+PCI Express expansion card
+Thunderbolt
+USB Type-C
+U.2
+U.3
+EDSFF
+Related organizations
+INCITS
+JEDEC / JC-42, JC-64.8
+ONFI
+NVMHCI Work Group
+USB-IF
+SATA-IO
+SFF Committee
+SNIA
+SSSI
+T10/SCSI
+T11/FC
+T13/ATA
+ Category
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Serial_Attached_SCSI&oldid=1144155452"

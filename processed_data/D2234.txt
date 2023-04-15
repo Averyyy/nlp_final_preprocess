@@ -1,0 +1,690 @@
+Signaling device to control competing flows of traffic
+This article is about lights used for signalling. For other uses, see Traffic light (disambiguation).
+"Stoplight" redirects here. For other uses, see Stoplight (disambiguation).
+ An LED 50 watt traffic light in Portsmouth, UK
+ A traffic light in Jakarta, Indonesia with its count-down timer. A pedestrian crossing is also shown.
+Traffic lights, traffic signals, or stoplights   also known as robots in South Africa[1][2]   are signalling devices positioned at road intersections, pedestrian crossings, and other locations in order to control flows of traffic.[3]
+Traffic lights consist normally of three signals, transmitting meaningful information to drivers and riders through colours and symbols including arrows and bicycles. The regular traffic light colours are red, yellow (also known as amber), and green arranged vertically or horizontally in that order. Although this is internationally standardised,[4] variations exist on national and local scales as to traffic light sequences and laws.[5]
+The method was first introduced in December 1868 on Parliament Square in London to reduce the need for police officers to control traffic.[6] Since then, electricity and computerised control has advanced traffic light technology and increased intersection capacity.[7] The system is also used for other purposes, for example, to control pedestrian movements, variable lane control (such as tidal flow systems or smart motorways), and railway level crossings.
+History[edit]
+Main article: History of traffic lights
+The first system of traffic signals was installed as a way to replace police officer control of vehicular traffic outside the Houses of Parliament in London on 9 December 1868.[8] In the first two decades of the 20th century, semaphore traffic signals like the one in London were in use all over the United States with each state having its own design of the device. In many cases, it was controlled by a traffic officer who would blow a whistle before changing the commands on this signal to help alert travellers of the change.[9]
+In 1912, the first electric traffic light was developed by Lester Wire, a policeman in Salt Lake City, Utah.[10] It was installed by the American Traffic Signal Company on the corner of East 105th Street and Euclid Avenue in Cleveland, Ohio.[11][12][13] The first four-way, three-colour traffic light was created by police officer William Potts in Detroit, Michigan in 1920.[14] He was concerned about how police officers at four different light signals could not change their lights all at the same time.  The answer was a third light that was coloured amber, which was the same colour used on the railroad.[15] In 1922 traffic towers were beginning to be controlled by automatic timers. The main advantage of the use of the timer was that it saved cities money by replacing traffic officers. The city of New York was able to reassign all but 500 of its 6,000 officers working on the traffic squad; this saved the city $12,500,000.[16]
+The control of traffic lights made a big turn with the rise of computers in America in the 1950s. One of the best historical examples of computerized control of lights was in Denver in 1952. In 1967, the city of Toronto was the first to use more advanced computers that were better at vehicle detection.[7] The computers maintained control over 159 signals in the cities through telephone lines.[17]
+Vehicular signals[edit]
+ Traffic lights can have several additional lights for filter turns or bus lanes.
+ Road crossing of (Shetland) A970 with Sumburgh airport's runway. The movable barrier closes when aircraft land or take off. Horizontally mounted signals in JapanA set of lights, known as a signal head,[18]: 3.2.4  may have one, two, three, or more aspects. The most common signal type has three aspects facing the oncoming traffic: red on top, amber below, and green below that. Additional aspects may be fitted to the signal, usually to indicate specific restrictions or filter movements.
+Meanings of signals[edit]
+The 1968 Vienna Convention on Road Signs and Signals Chapter III provides international standards for the setup of traffic signal operations. Not all states have ratified the convention. A three-colour signal head should have three non-flashing lights which are red, amber, and green, either arranged horizontally (on the side opposite to the direction of traffic) or vertically (with red on top). A two-colour signal head may be used in temporary operation and consists of red and green non-flashing lights. In both cases, all lights should be circular or arrow-shaped.[4] Permissible signals for regulating vehicle traffic (other than public transport vehicles) are outlined in Article 23:[4]
+Standard meanings for traffic lights internationally (Vienna Convention, Article 23)
+Light type
+Meaning
+Non-flashing
+Red
+Traffic may not proceed beyond the stop line or otherwise enter the intersection
+Red/Amber
+The signal is about to change, but the red light rules do apply
+Amber
+Traffic may not pass the stop line or enter the intersection unless it cannot safely stop when the light shows
+Green
+Traffic may proceed unless it would not clear the intersection before the next change of phase
+Flashing
+Red
+Traffic must not pass the stop line at a level crossing, approach to swing bridge or ferry landing stages, emergency vehicles entering the road, or on the approach to low-flying aircraft
+Amber
+Traffic may proceed with caution
+Green arrows are added to signals to indicate that drivers can travel in a particular direction, while the main lights for that approach are red, or that drivers can only travel in one particular direction. Alternatively, when combined with another green signal, they may indicate that turning traffic has priority over oncoming traffic (known as a "filter arrow").[18]: 3.5  Flashing amber arrows typically indicate that road users must give way (to other drivers and pedestrians) before making a movement in the direction of the arrow. These are used because they are safer, cause less delay, and are more flexible. Flashing amber arrows will normally be located below the solid amber.[19]
+Green arrows[edit]
+ A traffic light in Westbrook, Maine, on State Route 25. Notice the red arrow to the left of the two green straight lights.
+Arrow aspects may be used to permit certain movements or convey other messages to road users. A green arrow may display to require drivers to turn in a particular direction only or to allow drivers to continue in a particular direction when the signal is red.[18]: 3.5  Generally, a green phase is illuminated at the beginning of the green phase (a "leading turn") or at the end of the green phase (a "lagging turn").[citation needed] An 'indicative arrow' may be displayed alongside a green light. This indicates to drivers that oncoming traffic is stopped, such that they do not need to give way to that traffic when turning across it. As right-turning traffic (left-side drive) or left-turning traffic (right-side drive) does not normally have priority, this arrow is used to allow turning traffic to clear before the next phase begins.[18]: 3.5 
+Some variations exist on this set up. One version is a horizontal bar with five lights  the green and amber arrows are located between the standard green and amber lights. A vertical five-light bar holds the arrows underneath the standard green light (in this arrangement, the amber arrow is sometimes omitted, leaving only the green arrow below the steady green light, or possibly an LED-based device capable of showing both green and amber arrows within a single lamp housing).[citation needed]Some newer LED turn arrows seen in parts of Canada are capable of multicoloured animation. Such lights will often display a flashing and animated green or amber arrow when the dedicated turn is allowed but then transform into a red arrow on a white background with a red line through it, emphasising that the turn is no longer allowed. These lights will also often have the words "no turn" displayed, or an explanatory reason why the turn is not allowed, such as "train" in the case of a rail or light rail crossing.[citation needed]
+A third type is known as a "doghouse" or "cluster head"  a vertical column with the two normal lights is on the right side of the signal, a vertical column with the two arrows is located on the left, and the normal red signal is in the middle above the two columns. Cluster signals in Australia and New Zealand use six signals, the sixth being a red arrow that can operate separately from the standard red light.[citation needed] In a fourth type, sometimes seen at intersections in Ontario and Quebec, Canada, there is no dedicated left-turn lamp per se. Instead, the normal green lamp flashes rapidly, indicating permission to go straight as well as make a left turn in front of opposing traffic, which is being held by a steady red lamp. (This "advance green," or flashing green can be somewhat startling and confusing to drivers not familiar with this system. This also can cause confusion amongst visitors to British Columbia, where a flashing green signal denotes a pedestrian-controlled crosswalk. For this reason, Ontario is phasing out the use of flashing green signals and instead replacing them with arrows.)[20][21]
+Yellow trap[edit]
+Without an all-red phase, cross-turning traffic may be caught in a yellow trap. When the signal turns amber (also known as yellow), a turning driver may assume oncoming traffic will stop and a crash may result. For this reason, the US bans sequences that may cause a yellow trap.[22]  This can also happen when emergency vehicles or railroads preempt normal signal operation.
+[23] In the United States, signs reading "Oncoming traffic has extended green" or "Oncoming traffic may have extended green" must be posted at intersections where the "yellow trap" condition exists.[24][25]
+Variations[edit]
+Main article: Variations in traffic light operationThe United States is not party to the Convention and the Manual on Uniform Traffic Control Devices (MUTCD) outlines correct operation in that country. In the US, a single signal head may have three, four, or five aspects (though a single aspect green arrow may be displayed to indicate a continuous movement). The signals must be arranged red, amber, and green vertically (top to bottom) or horizontally (left to right).[26] In the US, a single-aspect flashing amber signal can be used to raise attention to a warning sign and a single-aspect flashing red signal can be used to raise attention to a STOP, DO NOT ENTER, or WRONG WAY sign.[26] Flashing red or amber lights, known as intersection control beacons, are used to reinforce stop signs at intersections.[27] The MUTCD specifies the following vehicular signals:[26]
+Standard meanings for traffic lights in the United States (MUTCD, Chapter 4)
+Signal
+Meaning (steady)
+Meaning (flashing)
+Circular green
+Traffic can proceed in any permitted direction, yielding to pedestrians in a crosswalk or other vehicles when turning
+Not to be used
+Green arrow
+Traffic can proceed in the direction shown by the arrow, yielding to any pedestrians in a crosswalk or other vehicles in the intersection
+Circular yellow
+The green movement is being terminated and a red signal will soon be displayed
+Traffic can cautiously enter the intersection, yielding to pedestrians and other vehicles
+Yellow arrow
+The green or flashing arrow movement is being terminated
+Traffic can cautiously enter the intersection to make the movement displayed by the arrow, yielding to pedestrians and other vehicles
+Circular red
+Unless another signal permits, traffic shall not enter the intersection except to lawfully turn on red
+Traffic must stop before entering the intersection, but may then treat the signal by the same rules as a STOP sign.
+Red arrow
+Traffic shall not make the movement displayed by the arrow
+Traffic must stop before entering the intersection, but may then treat the signal by the same rules as a STOP sign to make the movement displayed by the arrow.
+ A traffic signal in Halifax, Nova Scotia, with specially shaped lights to assist people with colour blindness
+In the Canadian province of Quebec and the Maritime provinces, lights are often arranged horizontally, but each aspect is a different shape: red is a square (larger than the normal circle) and usually in pairs at either end of the fixture, amber is a diamond, and green is a circle. In many southern and southwestern U.S. states, most traffic signals are similarly horizontal in order to ease wind resistance during storms and hurricanes.[28] Japanese traffic signals mostly follow the same rule except that the "go" signals are referred to as   (blue), which they historically were in fact, but this caused complications with the international "green for go" rule, so [29] in 1973 a decree was issued that the "go" light should be changed to the bluest possible hue of green, thus making it factually greener without having to change the name from  (blue) to  (green).
+In the UK, normal traffic lights follow this sequence:[30]
+Red   Stop, do not proceed
+Red and Amber - Get ready to proceed, but do not proceed yet
+Green   Proceed if the intersection or crossing is clear, vehicles are not allowed to block the intersection or crossing
+Amber - Stop, unless it is unsafe to do so.
+A speed sign is a special traffic light, variable traffic sign, or variable-message sign giving drivers a recommended speed to approach the next traffic light in its green phase[31] and avoid a stop due to reaching the intersection when lights are red.[32][a]
+Pedestrian signals[edit]
+Further information: Pedestrian crossingPedestrian signals are used to inform pedestrians when to cross a road. Most pedestrian signal heads will have two lights: a 'walk' light (normally a walking human figure, typically coloured green or white) and a 'don't walk' light (normally either a red man figure or a hand), though other variations exist.[33]
+Pedestrian sequences in various countries
+Country/ies
+Sequence
+Notes
+Australia, New Zealand,
+Argentina
+Green or white man: safe to cross
+Flashing red man: do not start to cross; if it appears during crossing, then continue to cross if unable to stop safely
+Red man: do not cross
+Several intersections in Wellington, New Zealand, have alternative green man figures. Eight intersections near Parliament Buildings have silhouettes of suffragette Kate Sheppard,[34] while four intersections along Cuba Street have silhouettes of drag performer and LGBT rights activist Carmen Rupe.[35]
+China
+Green: safe to cross
+Red: do not cross
+Amber (steady, after green, before red): continue to cross only if unable to stop safely
+Flashing amber: cross with caution (often used in low-traffic crossing or after midnight)
+Japan
+Blue or green man: safe to cross (cyclists may cross or turn left)
+Flashing blue or green man: do not start to cross; if it appears during crossing, then continue to cross if unable to stop safely
+Red standing man: do not cross
+Germany, Czechia Central Europe
+Green: safe to cross
+Amber: continue to cross only if unable to stop safely
+Flashing amber: cross with caution, obey signage (used when lights are out of order or shut down)
+Red: do not cross
+Red and amber: do not cross, prepare for green
+In Germany, Ampelm nnchen pedestrian traffic signals have come to be seen as a nostalgic sign for the former German Democratic Republic.
+In Germany, the fine for crossing a red light if caught is as of 2019 between  5 and  10.[36]
+United Kingdom, Ireland, Hong Kong, Switzerland, Macao
+Green walking man: safe to cross
+Flashing green man or no man: do not start to cross (only at mid-block crossings); if it appears during crossing, then continue to cross if unable to stop safely
+Red standing man: do not cross
+In the United Kingdom, there is no direct offence committed if a pedestrian fails to obey crossing signals and many lights commonly only use two still images - a green walking person and a red standing man, this being the general case where the crossing is at a road junction and the pedestrian signals are in combination with those controlling vehicular traffic.
+United States
+Formerly signals used the text:
+Walk
+Don't Walk
+Modern version:
+White walking man: cross with caution
+Flashing orange stophand: do not start to cross; if it appears during crossing, then continue to cross if unable to stop safely
+Orange stophand: do not enter the intersection
+The U.S. state of Massachusetts allows an unusual indication variation for pedestrian movement. At signalized intersections without separate pedestrian signal heads, the traffic signals may be programmed to turn red in all directions, followed by a steady display of amber lights simultaneously with the red indications. During this red-plus-amber indication, the intersection is closed to vehicular traffic and pedestrians may cross, usually in whatever direction they choose.[citation needed]
+Israel
+Red standing man: do not cross; if it appears during crossing, then continue to cross if unable to stop safely
+Green walking man: safe to cross
+ Traffic light animation (pedestrians, cyclists and traffic) in Ljubljana, Slovenia
+Where pedestrians need to cross the road between junctions, a signal-controlled crossing may be provided as an alternative to a zebra crossing or uncontrolled crossing. Traffic lights are normally used at crossings where vehicle speeds are high, where either vehicle or pedestrian flows are high or near signalised junctions.[18]: c.18  In the UK, this type of crossing is called a pelican crossing, though more modern iterations are puffin and pedex crossings. In the UK, these crossings normally need at least four traffic signals, which are of a regular type (red, amber, and green), two facing in each direction. Furthermore, pedestrians will be provided with push buttons and pedestrian signals, consisting of a red and green man. Farside signals are located across the crossing, while nearside signals are located below the traffic lights, facing in the direction of oncoming traffic.[18]: c.18  A HAWK beacon is a special type of traffic used in the US at mid-block crossings. These consist of two red signals above a single amber signal. The beacon is unlit until a pedestrian pushes the cross button. Then a amber light will show, followed by both red lights, at which point the 'Walk' symbol will illuminate for pedestrians. At the end of the crossing phase, the 'Don't Walk' symbol will flash, as will the amber traffic light.[37] The Shibuya Crossing, Tokyo is a famous example of a pedestrian scramble with diagonal crossings.
+Pedestrians are usually incorporated into urban signalised junctions in one of four ways: no facilities, parallel walk, walk with traffic, or all-red stages No facilities may be provided if pedestrian demand is low, in areas where pedestrians are not permitted, or if there is a subway or overpass. No provision of formal facilities means pedestrians will have to self-evaluate when it is safe to cross, which can be intimidating for pedestrians.[18]: 71  With a 'parallel walk' design, pedestrians walk alongside the traffic flow. A leading pedestrian interval may be provided, whereby pedestrians get a 'walk' signal before the traffic gets a green light, allowing pedestrians to establish themselves on the crossing before vehicles begin to turn, to encourage drivers to give way.[38] A 'walk with traffic' facility allows pedestrians to go at the same time as other traffic movements with no conflict between movements. This can work well on one-way roads, where turning movements are banned or where the straight-ahead movement runs in a different stage from the turning movement. A splitter island could also be provided. Traffic will pass on either side of the island and pedestrians can cross the road safely between the other flows.[18]: 72 
+An all-red stage, also known as a full pedestrian stage, a pedestrian scramble or a Barnes Dance,[b] holds all vehicular traffic at the junction to allow pedestrians time to safely cross without conflict from vehicles. It allows allows the use of diagonal crossings. This may require a longer cycle time and increase pedestrian wait periods, though the latter can be eased by providing two pedestrian stages.[18]: 71 72  A diagram of a countdown timer in the US style
+Pedestrian countdown timers are becoming common at urban signal-controlled crossings. Where a pedestrian countdown is shown, it is normally used in conjunction with the flashing hand signal (in the US and Canada) or blackout period (UK), showing the amount of time remaining in seconds until the end of the flashing hand or blackout.[18][39] Pedestrian countdown timers do not significantly increase or reduce the number of red- and amber-light running drivers. Studies have found that pedestrian countdown timers do significantly improve pedestrian compliance over traditional pedestrian signals; however, results are mixed.[39][40]
+Auditory and tactile signals[edit]
+In some jurisdictions such as Australia, pedestrian lights are associated with a sound device, for the benefit of blind and visually impaired pedestrians. These make a slow beeping sound when the pedestrian lights are red and a continuous buzzing or fast beeping sound when the lights are green. In the Australian States of Queensland, New South Wales, Victoria, and Western Australia, the sound is produced in the same unit as the push buttons. In a circle above the button, the sound is produced and can be felt along with a raised arrow that points in the direction to walk.[41] This system of assistive technology is also widely used at busy intersections in Canadian cities. In the United Kingdom, the Puffin crossings and their predecessor, the Pelican crossing, will make a fast beeping sound to indicate that it is safe to cross the road. The beeping sound is disabled during the nighttime so as not to disturb any nearby residents.[42] In some states in the United States, at some busy intersections, buttons will make a beeping sound for blind people. When the light changes, a speaker built into the button will play a recording to notify blind people that it is safe to cross. When the signal flashes red, the recording will start to count down with the countdown timer. In several countries such as New Zealand, technology also allows deaf and blind people to feel when lights have changed to allow safe crossing. A small pad, housed within an indentation in the base of the box housing the button mechanism, moves downwards when the lights change to allow crossing. This is designed to be felt by anyone waiting to cross who has limited ability to detect sight or sound. In Japan, a traffic light emits an electronic sound that mimics the sound of birdsong to help the visually impaired. Some traffic lights fix the order and type of sound so that they can tell which direction is a green light. In general, "Piyo" (peep) and "Piyo-piyo", which is a small bird call, and "Kakk " and "Ka-kakk ", which is a cuckoo call, are associated with this system.[43] Some pedestrian crossings in Lithuania make a slowish beeping sound indicating that the traffic light is about to turn off.
+Cycle signals[edit]
+Further information: Protected intersection
+ An advanced stop line at traffic lights in Liverpool
+Where cycle lanes or cycle tracks exist on the approach to a signal-controlled junction, it must be considered how to incorporate cyclists safely into the junction to reduce conflict between motor vehicles and cyclists.
+An advanced stop line can be placed after the stop line at traffic lights. This allows cyclists to position themselves in front of traffic at a red light and get a headstart.[44]
+In the US, design advice typically advises that the cycle lane should continue through the junction to the left of the right-turn lane; however, this creates conflict where motor vehicles wish to enter the right lane, as they must cross the cycle lane at a bad angle.[45]
+Under Dutch engineering principles, cyclists are instead kept to the right of the junction, with protected kerbs. This improves safety by putting cyclists into the eyeline of motor vehicles at the stop line, allowing cyclists a headstart over turning traffic. This design also allows cyclists to complete far-side turns without having to wait in the centre of the junction.[45] UK engineers have innovated on this design through the Cycle Optimised Protected Signals (CYCLOPS) junction, e.g. in Manchester. This places the cycle track around the edge of the signal junction and gives cyclists and pedestrians a single all-red phase, entirely separate from motor traffic and shortens pedestrian crossing times.[46]
+Alternatively, cyclists can be considered pedestrians on approach to a junction, or where a cycle track crosses a road and combined pedestrian-cyclist traffic lights (known as Toucan crossings in the UK) can be provided.[47]
+Leipzig, Germany
+Countdown in the Netherlands
+Toucan symbols in Luxembourg
+Toucan symbols with Austrian-style bike symbols
+British toucan crossing
+Complex German installation with transport and cycle symbols
+Public transport signals[edit]
+Traffic lights for public transport often use signals that are distinct from those for private traffic. They can be letters, arrows or bars of white or coloured light.
+Transit signals in North America[edit]
+Some systems use the letter B for buses and T for trams. The METRO light rail system in Minneapolis, Minnesota, the Valley Metro Rail in Phoenix, Arizona, and the RTA Streetcar System in New Orleans use a simplified variant of the Belgian/French system in the respective city's central business district where only the "go" and "stop" configurations are used. A third signal equal to amber is accomplished by flashing the "go" signal.
+Public transport signals in Europe[edit]
+ Traffic lights for public transport in the Netherlands and BelgiumIn some European countries and Russia, dedicated traffic signals for public transport (tram, as well any that is using a dedicated lane) have four white lights that form the letter T.[citation needed] If the three top lamps are lit, this means "stop". If the bottom lamp and some lamps on the top row are lit, this means permission to go in a direction shown. In the case of a tram signal, if there are no tram junctions or turns at an intersection, a simpler system of one amber signal in the form of the letter T is used instead; the tram must proceed only when the signal is lit.
+In North European countries, the tram signals feature white lights of different forms: "S" for "stop", " " for "caution" and arrows to permit passage in a given direction.[48] In Sweden, All signals use white lighting and special symbols ("S", " " and an arrow) to distinguish them from regular signals.
+The Netherlands uses a distinctive "negenoog" (nine-eyed) design shown on the top row of the diagram;[49] bottom row signals are used in Belgium, Luxembourg, France, and Germany. The signals mean (from left to right): "go straight ahead", "go left", "go right", "go in any direction" (like the "green" of a normal traffic light), "stop, unless the emergency brake is needed" (equal to "amber"), and "stop" (equal to "red").
+Public transport signals in the Asia-Pacific region[edit]
+In Japan, tram signals are under the regular vehicle signal; however, the colour of the signal intended for trams is orange. The small light at the top tells the driver when the vehicle's transponder signal is received by the traffic light. In Hong Kong, an amber T-signal is used for trams, in place of the green signal. In addition, at any tramway junction, another set of signals is available to indicate the direction of the tracks. In Australia and New Zealand, a white "B" or "T" sometimes replaces the green light indicating that buses or trams (respectively) have right of way.
+T signal (trams) in Hong Kong
+Tram signals, Geneva
+Bus and tram signals in Karlsruhe, Germany
+Swedish tram signal
+Toronto 'Spadina' signals (black signals for transport)
+Tram signal showing 'stop' in Moscow, Russia
+A bus traffic light in Newport, United Kingdom
+Preemption and priority[edit]
+Main articles: Traffic signal preemption and Bus priority
+Some regions have signals that are interruptible, giving priority to special traffic, usually emergency vehicles such as fire apparatus, ambulances, and police squad cars.[50][51] Most of the systems operate with small transmitters that send radio waves, infrared signals, or strobe light signals that are received by a sensor on or near the traffic lights. Some systems use audio detection, where a certain type of siren must be used and detected by a receiver on the traffic light structure.
+Upon activation, the normal traffic light cycle is suspended and replaced by the "preemption sequence": the traffic lights to all approaches to the intersection are switched to "red" with the exception of the light for the vehicle that has triggered the preemption sequence. Sometimes, an additional signal light is placed nearby to indicate to the preempting vehicle that the preempting sequence has been activated and to warn other motorists of the approach of an emergency vehicle. The normal traffic light cycle resumes after the sensor has been passed by the vehicle that triggered the preemption.
+In lieu of preemptive mechanisms, in most jurisdictions, emergency vehicles are not required to respect traffic lights.  However, emergency vehicles must slow down, proceed cautiously and activate their emergency lights to alert oncoming drivers to the preemption when crossing an intersection against the light.[52][53]
+Unlike preemption, which immediately interrupts a signal's normal operation to serve the preempting vehicle and is usually reserved for emergency use, "priority" is a set of strategies intended to reduce delay for specific vehicles, especially mass transit vehicles such as buses. A variety of strategies exist to give priority to transit but they all generally work by detecting approaching transit vehicles and making small adjustments to the signal timing. These adjustments are designed to either decrease the likelihood that the transit vehicle will arrive during a red interval or decrease the length of the red interval for those vehicles that are stopped. Priority does not guarantee that transit vehicles always get a green light the instant they arrive as preemption does.
+Operation[edit]
+Main article: Traffic light control and coordination
+ A staging diagram for a typical signalised T-junction
+A variety of different control systems are used to operate signal cycles smoothly, ranging from simple clockwork mechanisms to sophisticated computerised control systems. Computerised systems are normally actuated, i.e. controlled by loop detectors or other sensors on junction approaches. Area-wide coordination can allow green wave systems to be set up for vehicles or cycle tracks.[54] Smart traffic light systems combine traditional actuation, a wider array of sensors and artificial intellegence to further improve performance of signal systems.[55] A traffic signal junction or crossing is typically controlled by a controller mounted inside a cabinet nearby.[56]
+"Phases" (or "signal groups" in Australia and New Zealand) are indications show simultaneously, e.g. multiple green lights which control the same traffic approach. A "movement" is any path through the junction which vehicles or pedestrians are permitted to take, which is "conflicting" if these paths cross one another. A stage (or "phase" in ANZ) is a group of non-conflicting phases which move at the same time. The stages are collectively known as a "cycle".[57] The time between two conflicting green phases is called an "intergreen period", which is set at an appropriate length for the junction to safely clear, especially for turning traffic which may be waiting in the centre of the junction. This often results in an all red stage, when all approaches are shown a red light and no vehicle can proceed. This all red is sometimes extended to allow a pedestrian scramble, where pedestrians can cross the empty junction in any direction all at once.[58] Some signals have no "all red" phase: the light turns green for cross traffic the instant the other light turns red.[c]
+Many traffic light installations are fitted with vehicle actuation, i.e. detection, to improve the flexibility of traffic systems to respond to varying traffic flows. Detectors come in the form of digital sensors fitted to the signal heads or induction loops within the road surface. Induction loops are beneficial due to their smaller chance of breakdown, but their simplicity can limit their ability to handle some situations, particularly involving lighter vehicles such as motorcycles or pedal cycles.[59] This situation most often occurs at times of day when other traffic is sparse as well as when the small vehicle is coming from a direction that does not have a high volume of traffic.[60]
+Timing[edit]
+Main article: Signal timing
+ Traffic light with time in Tehran, Iran
+The timing of the intergreen is usually based on the size of the intersection, which can range from two to five seconds.[citation needed] Modelling programs include the ability to calculate intergreen times automatically. Intergreen periods are determined by calculating the path distance for every conflict point in the junction, which is the distance travelled to the conflict point by the movement losing right of way minus the distance travelled to the same conflict point by the movement gaining right of way using the possible conflict points (including with pedestrians) and calculating both the time it would take the last vehicle to clear the furthest collision point and the first vehicle from the next stage to arrive at the conflict point. At actuated junctions, integreens can be varied to account for traffic conditions.[18]
+Engineers also need to set the amber timings (and red-amber, where appropriate), which is normally standardised by a traffic authority. For example, in the UK, the amber time is fixed nationally at three seconds and the red-amber time at two seconds, which results in a minimum intergreen time of five seconds (plus any all-red time).[18] The US also uses a minimum of three seconds, but local traffic authorities can make timings longer, especially on wider, suburban roads. This variation has resulted in controversy when municipalities with shorter amber times use red light cameras.[61] Where pedestrian signals are used, the timing of the "inivitation to cross"   the period where a steady walk signal shows   and clearance periods   time when the walk signal flashes or no signal is shown   need to be calculated. This is normally set against a design speed, e.g. 1.2 m/s (3.9 ft/s). Similarly, these can be made extendable using sensors, allowing slower-moving pedestrians more time to cross the street.[18]
+Variable lane control[edit]
+Main article: Lane control lights
+ A typical lane control signal head
+ Lane control signals installed on the Old Champlain Bridge in Montr al, CanadaVariable lane control is a form of intelligent transportation systems which involve the use of lane-use control signals, typically on a gantry above a carriageway. These lights are used in tidal flow systems to allow or forbid traffic to use one or more of the available lanes by the use of green lights or arrows (to permit) or by red lights or crosses (to prohibit).[62] Variable lane control may be in use at toll plazas to indicate open or closed booths; during heavy traffic to facilitate merging traffic from a slip road.[62]
+In the US, most notably the Southeastern, there often is a "continuous-flow" lane. This lane is protected by a single, constant-green arrow pointing down at the lane(s) permitting the continuous flow of traffic, without regard to the condition of signals for other lanes or cross streets. Continuous lanes are restricted in that vehicles turning from a side street may not cross over the double white line to enter the continuous lane, and no lane changes are permitted to the continuous lane from an adjacent lane or from the continuous lane to an adjacent lane until the double white line has been passed. Some continuous lanes are protected by a raised curb located between the continuous lane and a normal traffic lane, with white and/or amber reflective paint or tape, prohibiting turning or adjacent traffic from entering the lane. Continuous-flow traffic lanes are found only at "T" intersections where there is no side street or driveway entrance on the right side of the main thoroughfare; additionally, no pedestrians are permitted to cross the main thoroughfare at intersections with a continuous-flow lane, although crossing at the side street may be permitted. Intersections with continuous-flow lanes will be posted with a white regulatory sign approximately 500 ft (150 m) before the intersection with the phrase, "right lane continuous traffic," or other, similar, wording. If the arrow is extinguished for any reason, whether by malfunction or design, traffic through the continuous lane will revert to the normal traffic pattern for adjacent lanes, except that turning or moving into or out of the restricted lane is still prohibited.
+Waterways and railways[edit]
+The three-aspect standard is also used at locks on the Upper Mississippi River. Red means that another vessel is passing through. Amber means that the lock chamber is being emptied or filled to match the level of the approaching vessel. After the gate opens, green means that the vessel may enter.
+Railroad signals, for stopping trains in their own right of way, generally use the opposite positioning of the colours; that is, for signals above the driver's eyeline, green on top and red below is the standard placement of the signal colours on railroad tracks.  There are three reasons for this variation: there is no risk that railway signals will be masked by a tall vehicle between the driver and the signal; train speeds in fog are much higher than for road vehicles, so it is important that the most restrictive signal is closest to the driver's eyeline; and with railway signals often in exposed rural locations, there is a risk of any signal other than the bottom one being masked by snow building up on the hood of the signal below.
+Rules[edit]
+Main article: Rules for traffic lights
+ California attempts to discourage red light running by posting the minimum fine.Traffic lights control flows of traffic using social norms and legal rules. In most jurisdictions, it is against the law to disobey traffic signals and the police, or devices such as red light cameras, can issue fines or other penalties   and in some cases prosecute   drivers who break those laws.[63] US-based studies have found that the majority of drivers think that it is dangerous to run a red light at speed and the most common reason for red light running include inattentive driving, following an oversized vehicle or during inclement weather.[64][65]
+The rules governing traffic light junctions for vehicles differ by jurisdiction. For example, it is common in North America that drivers can turn kerb-to-kerb (i.e. turning right at most junctions), even when a red light shows.[66][67] On the other hand, this turn on red rule is uncommon in Europe, unless an arrow signal or traffic sign specifically permits it.[68][69][70][71]
+Design[edit]
+Bulbs[edit]
+ An example of an LED traffic light in Australia
+Conventional traffic signal lighting, still common in some areas, uses a standard light bulb. The light then bounces off a mirrored glass or polished aluminium reflector bowl, and out through a polycarbonate plastic or glass signal lens. In some signals, these lenses were cut to include a specific refracting pattern. Traditionally, incandescent and halogen bulbs were used. Because of the low efficiency of light output and a single point of failure (filament burnout), some traffic authorities are choosing to retrofit traffic signals with LED arrays that consume less power, have increased light output, and last significantly longer.[citation needed] Moreover, in the event of an individual LED failure, the aspect will still operate albeit with a reduced light output. The light pattern of an LED array can be comparable to the pattern of an incandescent or halogen bulb fitted with a prismatic lens.
+The low energy consumption of LED lights can pose a driving risk in some areas during winter. Unlike incandescent and halogen bulbs, which generally get hot enough to melt away any snow that may settle on individual lights, LED displays  using only a fraction of the energy  remain too cool for this to happen.[72][73] As a response to the safety concerns, a heating element on the lens was developed.[74][75]
+Programmable visibility signals[edit]
+Traffic signals installed in Shelton, Washington, seen off-axis from the intended viewing area (top) and from the signal's intended viewing area (bottom).From off-axis, these signals appear to be "off" or invisible to adjacent lanes of traffic during the daytime. Only a faint glow can be seen when viewed at night.
+Signals such as the 3M High Visibility Signal utilize light-diffusing optics and a Fresnel lens to create the signal indication. The light from a 150 W PAR46 sealed-beam lamp in these "programmable visibility" signals passes through a set of two glass lenses at the back of the signal. The first lens, a frosted glass diffusing lens, diffuses the light into a uniform ball of light around five inches in diameter. The light then passes through a nearly identical lens known as an optical limiter (3M's definition of the lens itself), also known as a "programming lens", also five inches in diameter.[citation needed]
+Using a special aluminium foil-based adhesive tape, these signals are "masked" or programmed by the programming lens so that only certain lanes of traffic will view the indication. At the front of these programmable visibility signals is a 12" Fresnel lens, each lens tinted to meet United States Institute of Transportation Engineers (ITE) chromaticity and luminance standards. The Fresnel lens collimates the light output created by the lamp and creates a uniform display of light for the lane in which it is intended.
+In addition to being positioned and mounted for desired visibility for their respective traffic, some traffic lights are also aimed, louvered, or shaded to minimize misinterpretation from other lanes. For example, a Fresnel lens on an adjacent through-lane signal may be aimed to prevent left-turning traffic from anticipating its own green arrow. Intelight Inc. manufactures a programmable traffic signal that uses a software-controlled LED array and electronics to steer the light beam toward the desired approach.[76] The signal is programmed unlike the 3M and McCain models. It requires a connection to a laptop or smartphone with the manufacturer s software installed. Connections can be made directly with a direct-serial interface kit, or wirelessly with a radio kit over WIFI to the signal.In addition to aiming, Fresnel lenses, and louvers, visors and back panels are also useful in areas where sunlight would diminish the contrast and visibility of a signal face. Typical applications for these signals were skewed intersections, specific multi-lane control, left-turn pocket signals, or other areas where complex traffic situations existed.
+ An animated GIF shows a traffic light in 3 phases.
+Size[edit]
+In the United States, traffic lights are currently designed with lights approximately 12 inches (300 mm) in diameter. Previously the standard had been 8 inches (200 mm); however, those are slowly being phased out in favour of the larger and more visible 12 inch lights. Variations used have also included a hybrid design, which had one or more 12 inch lights along with one or more lights of 8 inches (200 mm) on the same light.
+In the United Kingdom, 12-inch lights were implemented only with Mellor Design Signal heads designed by David Mellor. These were designed for symbolic optics to compensate for the light loss caused by the symbol. However, following a study sponsored by the UK Highways Agency and completed by Aston University, Birmingham, UK, an enhanced optical design was introduced in the mid-1990s.  Criticism of sunlight washout (cannot see the illuminated signal due to sunlight falling on it), and sun-phantom (signal appearing to be illuminated even when not due to sunlight reflecting from the parabolic mirror at low sun angles), led to the design of a signal that used lenslets to focus light from a traditional incandescent bulb through apertures in a matt black front mask.  This cured both problems in an easily manufactured solution.  This design proved very successful and was taken into production by a number of traffic signal manufacturers through the engineering designs of Dr. Mark Aston, working firstly at the SIRA Ltd in Kent, and latterly as an independent optical designer.  The manufacturers took a licence for the generic design from the Highways Agency, with Dr. Aston engineering a unique solution for each manufacturer.  Producing both bulb and LED versions of the signal aspects, these signals are still the most common type of traffic light on UK roads.  With the invention of anti-phantom, highly visible Aston lenses, lights of 8 inches (200 mm) could be designed to give the same output as plain lenses, so a larger surface area was unnecessary. Consequently, lights of 12 inches (300 mm) are no longer approved for use in the UK and all lights installed on new installations have to be 200 mm (8 in) in accordance with TSRGD (Traffic Signs Regulations and General Directions). Exemptions are made for temporary or replacement signals.[citation needed]
+Mounting and placement[edit]
+Part time pole/pedestal-mounted traffic lights in Canberra, Australia
+A strain pole installation in Fort Worth, Texas
+Mast-arm traffic lights in Ekiti State, Nigeria
+Mast arm signals in Buenos Aires, Argentina
+A unipole in Delft, Netherlands
+Horizontal traffic lights mounted on a footbridge in Taiyuan, China
+A dummy light in Canajoharie, New York
+The MUTCD identifies five types of traffic light mounts. On pedestals, signal heads are mounted on a single pole (this is the normal installation method for the UK).[77][18] On mast arms, signal heads are mounted on a rigid arm over the road protuding from the pole. On strained poles, signals are suspended over a roadway on a wire, attached to poles at opposite kerbs. This is the most common installation method in the United States. Unipoles are similar to strain poles, but a single structure over the road, rather than two poles linked with wire. Finally, signals can be attached to existing structures such as an overpass.[77] Dummy lights are traffic signs located in the centre of a junction, which operate on a fixed cycle. These have generally been decommissioned due to safety concerns; however, a number remain due to historic value.[78]
+Signals can either be placed nearside   between the stop line and the kerbline of the intersecting road   or farside   on the opposite side of the junction. In European countries, signals are often placed on the nearside.[79] In the UK, at leats two signal heads are required (known as the primary and secondary heads), one of which is normally nearside and the other of which could be nearside or farside.[18] In the US, signals are normally located farside, though in some states, nearside signals are also used. Nearside signals can be beneficial to road safety, as drivers have more time to see a red light and are less likely to encroach on pedestrian crossings.[79]
+Effects[edit]
+Drivers spend on average around 2% of journey time passing through signalised junctions.[80] Traffic lights can increase the traffic capacity at intersections and reduce delay for side road traffic, but can also result in increased delay for main road traffic.[81] Hans Monderman, the innovative Dutch traffic engineer, and pioneer of shared space schemes, was sceptical of their role, and is quoted as having said of them: "We only want traffic lights where they are useful and I haven't found anywhere where they are useful yet."[82]
+A World Economic Forum study found that signalised junctions are linked to higher rates of localised air pollution. Drivers accelerate and stop frequently at lights and as such peak particle concentration can be around 29 times higher than during free-flow conditions. The WEF recommends that traffic authorities synchronise traffic signals, consider alternative traffic management systems and consider placing traffic lights away from residential areas, schools, and hospitals.[80]
+The separation of conflicting streams of traffic in time can reduce the chances of right-angle collisions by turning traffic and cross traffic, but they can increase the frequency of rear-end crashes by up to 50%.[83] Since right-angled and turn-against-traffic collisions are more likely to result in injuries, this is often an acceptable trade-off. They can also adversely affect the safety of bicycle and pedestrian traffic. Between 1979 and 1988, the city of Philadelphia, Pennsylvania, removed signals at 199 intersections that were not warranted. On average, the intersections had 24% fewer crashes after the unwarranted signals were removed.[83] The traffic lights had been erected in the 1960s because of since-resolved protests over traffic. By 1992, over 800 traffic lights had been removed at 426 intersections, and the number of crashes at these intersections dropped by 60%.[84]
+Justification[edit]
+The examples and perspective in this section deal primarily with the United States and do not represent a worldwide view of the subject. You may improve this section, discuss the issue on the talk page, or create a new section, as appropriate. (December 2010) (Learn how and when to remove this template message)
+Criteria have been developed to help ensure that new traffic lights are installed only where they will do more good than harm and to justify the removal of existing traffic lights where they are not warranted. They are most often placed on arterial roads at intersections with either another arterial road or a collector road, or on an expressway where an interchange is not warranted. In some situations, traffic signals can also be found on collector roads in busy settings.
+In the United States, the criteria for installation of a traffic control signal are prescribed by the Manual on Uniform Traffic Control Devices (MUTCD), which defines the criteria in nine warrants:[85]
+Eight-hour vehicular volume. Traffic volume must exceed prescribed minima for eight hours of an average weekday.
+Four-hour vehicular volume. Traffic volume must exceed prescribed minima for four hours of an average weekday.
+Peak hour volume or delay. This is applied only in unusual cases, such as office parks, industrial complexes, and park and ride lots that attract or discharge large numbers of vehicles in a short time, and for a minimum of one hour of an average weekday. The side road traffic suffers undue delays when entering or crossing the major street.
+Pedestrian volume.  If the traffic volume on a major street is so heavy that pedestrians experience excessive delays in attempting to cross it.
+School crossing. If the traffic density at school crossing times exceeds one per minute which is considered to provide too few gaps in the traffic for children to safely cross the street.
+Coordinated signal system.  For places where adjacent traffic control signals do not keep traffic grouped together efficiently.
+Crash experience. The volumes in the eight- and four-hour warrants may be reduced if five or more right-angle and cross traffic turn collisions have happened at the intersection in a twelve-month period.
+Roadway network. Installing a traffic control signal at some intersections might be justified to encourage concentration and organization of traffic flow on a roadway network.
+Intersection near a grade crossing. A traffic control signal is often justified at an intersection near a railroad crossing, in order to provide a preemption sequence to allow traffic queued up on the tracks an opportunity to clear the tracks before the train arrives.
+In the US, An intersection is usually required to meet one or more of these warrants before a signal is installed. However, meeting one or more warrants does not require the installation of a traffic signal, it only suggests that they may be suitable. It could be that a roundabout would work better. There may be other unconsidered conditions that lead traffic engineers to conclude that a signal is undesirable. For example, it may be decided not to install a signal at an intersection if traffic stopped by it will back up and block another, more heavily trafficked intersection. Also, if a signal meets only the peak hour warrant, the advantages during that time may not outweigh the disadvantages during the rest of the day.
+In other contexts[edit]
+The symbolism of a traffic light (and the meanings of the three primary colours used in traffic lights) are frequently found in many other contexts. Since they are often used as single spots of colour without the context of vertical position, they are typically not comprehensible to up to one in ten males who are colour blind.[citation needed]
+Traffic lights have also been used in computer software, such as the macOS user interface, and in pieces of artwork, particularly the Traffic Light tree in London, UK.
+Racing[edit]
+See also: Racing flags
+Automobile racing circuits can also use standard traffic signals to indicate to racing car drivers the status of racing. On an oval track, four sets may be used, two facing a straight-away and two facing the middle of the 180-degree turn between straight-away. Green would indicate racing is underway, while amber would indicate to slow or while following a pace car; red would indicate to stop, probably for emergency reasons.
+Scuderia Ferrari, a Formula One racing team, formerly used a traffic light system during their pit stops to signal to their drivers when to leave the pits.[citation needed] The red light was on when the tires were being changed and fuel was being added, amber was on when the tires were changed, and green was on when all work was completed. The system is (usually) completely automatic. However, the system was withdrawn after the 2008 Singapore Grand Prix, due to the fact that it heavily delayed Felipe Massa during the race, when he was in the lead. Usually, the system was automatic, but heavy traffic in the pit lane forced the team to operate it manually. A mechanic accidentally pressed the green light button when the fuel hose was still attached to the car, causing Massa to drive off, towing the fuel hose along. Additionally, Massa drove into the path of Adrian Sutil, earning him a penalty. He finally stopped at the end of the pit lane, forcing Ferrari's mechanics to sprint down the whole of the pit lane to remove the hose. As a result of this, and the penalty he also incurred, Massa finished 13th. Ferrari decided to use a traditional "lollipop" for the remainder of the 2008 season.
+Another type of traffic light that is used in racing is the Christmas Tree, which is used in drag racing. The Christmas Tree has six lights: a blue staging light, three amber lights, a green light, and a red light. The blue staging light is divided into two parts: Pre-stage and stage. Sometimes, there are two sets of bulbs on top of each other to represent them. Once a driver is staged at the starting line, then the starter will activate the light to commence racing, which can be done in two ways. If a Pro tree is used, then the three amber lights will flash at the same time. For the Sportsman tree, the amber light will flash from top to bottom. When the green light comes up, the race officially begins but if a driver crosses the line before that happens, then a red light will come up and that will be a foul.[citation needed]
+As a rating mechanism[edit]
+See also: Traffic light rating system and European Union energy label
+The colours red, amber, and green are often used as a simple-to-understand rating system for products and processes. It may be extended by analogy to provide a greater range of intermediate colours, with red and green at the extremes.[86]
+Gallery[edit]
+LED traffic light (using cap visors)
+Traffic light with only red and green lights in the entrance of a parking lot
+Temporary LED traffic lights with sensor in Australia
+Traffic lights South Yorkshire, United Kingdom
+Temporary traffic light in the United Kingdom
+Pelican Crossing "red man" signal, Market Street, Downpatrick, County Down, United Kingdom
+Pelican Crossing "green man" signal, United Kingdom
+Traffic light in a small intersection in Hagerstown, Maryland (using tunnel visors)
+Example of traffic signals mounted on gantries in downtown Cincinnati, Ohio, and integrated with street signage
+Typical set of traffic lights in East Lansing, Michigan
+Typical set of traffic lights at the intersection of Main Street and Lewis Street (Washington State Route 203) in downtown Monroe, Washington
+Typical example of traffic lights mounted on a wide street in California
+One example of traffic lights on a suburban street in Santa Clarita, California
+LED traffic lights in  rnsk ldsvik, Sweden
+Typical set of traffic lights in Spain
+The green on top light in Tipperary Hill, Syracuse, New York
+LED pedestrian signal in New York City
+Traffic light in Ashgabat, Turkmenistan
+A Marshalite traffic signal, as formerly installed at various intersections in Melbourne, Australia, indicating how much time remained before a signal change
+East Rembo Buting Intersection traffic light near Kalayaan Ave
+A U-turn traffic light in Lake Buena Vista, Florida
+These traffic lights in Turin, Italy, are not up to the Italian traffic code. Since 1993, the green and amber lights should light up separately.
+In Unicode[edit]
+In Unicode, the symbol for U+1F6A5    is HORIZONTAL TRAFFIC LIGHT and U+1F6A6    is VERTICAL TRAFFIC LIGHT.
+See also[edit]
+Ampelm nnchen
+Glossary of road transport terms
+Induction loop
+Lane control lights
+Level crossing
+North American railroad signals, rail equivalent
+Pedestrian crossing
+Railway signal, another rail equivalent
+Ramp meter
+Stack light, used in industrial process control
+Traffic light coalition
+Traffic light control and coordination
+Traffic-light signalling and operation
+Traffic optimization
+Traffic robots in Kinshasa
+Slow Children At Play
+Smart traffic light
+Yellow trap
+Notes[edit]
+^ Not completely correct: a variable speed sign is not solely used for the purpose of slowing the speed of motorists approaching an intersection. They are also used on freeways where the maximum safe speed is dependant on the conditions of the roadway (i.e. weather, falling rocks, risk of wildlife, etc.), such as in British Columbia, Canada.[clarification needed]
+^ The Barnes Dance is named after an American traffic engineer, Henry A. Barnes. Barnes did not claim to have invented the system but was a strong advocate of it, having observed the difficulties his daughter faced crossing the road to get to school.
+^ These are typically older signals. There are many examples in Houston, Texas, of this. Suspended lights constructed so that a single source simultaneously illuminates all four directions always have this characteristic: Red (in two directions) and green (in the two cross directions) with Red-Yellow-Green sequence on two sides and Green-Yellow-Red sequence on the cross sides[citation needed] 
+References[edit]
+^ "robot - definition of robot in English - Oxford Dictionaries". Oxford Dictionaries - English. Archived from the original on 14 August 2018.
+^ "see robot - definition of robot in Dictionary of South African English". Editor's Note: The origin of 'robot' used as 'traffic light' is from the English translation of the play R.U.R. by Karel  apek which debuted in England in 1923 which introduced the term 'robot' to an English audience. For a short time in England it was fashionable to use 'robot' for 'traffic light' from the late 1920s, when traffic lights were being installed in England. This usage travelled to South Africa in the early 1930s, when they had their first traffic lights installed, and where it continues to be used almost 90 years later, while 'robot' for 'traffic light' fell out of usage in England. See Foster, B. 1970. The changing English language. Harmondsworth, Middlesex: Penguin.
+^ McShane, Clay (March 1999). "The Origins and Globalization of Traffic Control Signals" (PDF). Journal of Urban History. 25 (3): 379 404. doi:10.1177/009614429902500304. S2CID 110125733. Retrieved 27 October 2019.
+^ a b c Convention on Road Signs and Signals of 1968 ; European Agreement Supplementing the Convention ; and, Protocol on Road Markings, Additional to the European Agreement : (2006 consolidated versions). New York: United Nations. Economic Commission for Europe. Transport Division. 2007. ISBN 978-92-1-139128-2. OCLC 227191711.
+^ see Variations in traffic light operation
+^ Thames Leisure. "12 Amazing Facts About London". Archived from the original on 7 January 2017. Retrieved 25 January 2017.
+^ a b Sessions (1971), p. 141. sfnp error: no target: CITEREFSessions1971 (help)
+^ City of Westminster blue plaque on the site
+^ Sessions (1971), p. 22. sfnp error: no target: CITEREFSessions1971 (help)
+^ Bellis, Mary (5 February 1952). "The History of Roads and Asphalt". theinventors.org.
+^ Sessions (1971), pp. 27 28. sfnp error: no target: CITEREFSessions1971 (help)
+^ "New Traffic Signal Installed". The Motorist. Ken Pub. Co: 28 29. August 1914.
+^ "Traffic signals: A brief history | Washington State Magazine | Washington State University". Retrieved 19 December 2021.
+^ Moyer, Sheldon (March 1947). "Mr. 'Trafficlight'". Motor News. Automobile Club of Michigan: 14 15, 27.[permanent dead link]
+^ Pollard, Justin (2008). "The Eccentric Engineer: The History of Traffic Lights Is Full of Twists and Turns". Engineering and Technology. 3 (15): 93. doi:10.1049/et:20081518.
+^ McShane (1999), p. 385.
+^ Sessions (1971), p. 143. sfnp error: no target: CITEREFSessions1971 (help)
+^ a b c d e f g h i j k l m n o Traffic Signs Manual - Chapter 6: Traffic Control. Department for Transport, Department for Infrastructure (Northern Ireland), Transport Scotland and Welsh Government. Accessed: 18 December 2021.
+^ "Flashing Yellow Arrow Traffic Signals - Traffic Engineering - MnDOT". www.dot.state.mn.us. Retrieved 18 December 2021.
+^ "RoadSense for Drivers  Signs, Signals and Road Markings" (PDF). Archived from the original (PDF) on 22 October 2013. Accessed: 25 March 2014
+^ Ontario Traffic Manual Book 12: Traffic Signals. Ministry of Transportation of Ontario. 2012. p. 55.
+^ "Frequently Asked Questions - Part 4 Highway Traffic Signals - FHWA MUTCD". mutcd.fhwa.dot.gov. Retrieved 18 December 2021.
+^ "The Flashing Yellow Arrow and the Yellow Trap". 7 January 2015. Retrieved 3 April 2019.
+^ "FHWA  MUTCD  2003 Edition Revision 1 Chapter 4D". Mutcd.fhwa.dot.gov. Retrieved 19 May 2009.
+^ "FHWA  MUTCD  2003 Edition Revision 1 Chapter 2C". Mutcd.fhwa.dot.gov. Retrieved 19 May 2009.
+^ a b c 2009. Manual on Uniform Traffic Control Devices for Streets and Highways: Chapter 4. US Federal Highway Administration. URL Accessed: 7 January 2022.
+^ "Section 4L.02 Intersection Control Beacon". Manual on Uniform Traffic Control Devices. Federal Highway Administration. 2009.
+^ "Traffic Signals". Carrollton Texas. Archived from the original on 13 January 2010. Retrieved 12 July 2014.
+^ Backhaus, Peter (25 February 2013). "The Japanese traffic light blues: Stop on red, go on what". The Japan Times. Retrieved 14 July 2017.
+^ "The Traffic Signs Regulations and General Directions 2016". legislation.gov.uk. The National Archives. 2016. Retrieved 14 July 2017.
+^ Forschungsgesellschaft f r Stra en- und Verkehrswesen (2000). Begriffsbestimmungen, Teil: Verkehrsplanung, Stra enentwurf und Stra enbetrieb. FGSV Verlag. p. 81.
+^ Andreas Richter (2005). Geschwindigkeitsvorgabe an Lichtsignalanlagen. DUV. pp. 33 34. ISBN 3-8244-0828-7.
+^ "Pedestrian Signals". SF Better Streets. 25 December 2011. Retrieved 18 December 2021.
+^ Maoate-Cox, Daniela (11 September 2014). "Kate Sheppard lights encourage voting". Radio New Zealand. Retrieved 20 September 2016.
+^ Nicoll, Jared (8 August 2016). "Carmen Rupe lighting up Wellington streets once again". Stuff.co.nz. Retrieved 20 September 2016.
+^ Melican, Brian (28 January 2014). "Why the green man is king in Germany".
+^ "New traffic signals make it safer for pedestrians - USATODAY.com". usatoday30.usatoday.com. Retrieved 19 December 2021.
+^ "Leading Pedestrian Interval". City of Toronto. 17 November 2017. Retrieved 19 December 2021.
+^ a b Schmitz, Jacob (1 July 2011). "The Effects of Pedestrian Countdown Timers on Safety and Efficiency of Operations at Signalized Intersections". Civil and Environmental Engineering Theses, Dissertations, and Student Research.
+^ K os, Marcin Jacek; Sobota, Aleksander;  ochowska, Renata; Karo , Grzegorz (11 September 2020). "Effects of countdown timers on traffic safety at signalized intersections". Transactions on Transport Sciences. 11 (2): 19 27. doi:10.5507/tots.2020.010. ISSN 1802-971X. S2CID 225185972.
+^ Park, Miles. "Sublime design: the PB/5 pedestrian button". The Conversation. Retrieved 19 December 2020.
+^ Types of Pedestrian Crossing in the UK. 2pass.co.uk.
+^ "   ".   (in Japanese). Retrieved 1 September 2020.
+^ "Advanced Stop Line | Cycling Embassy of Great Britain". www.cycling-embassy.org.uk. Retrieved 19 December 2021.
+^ a b Dutch, Bicycle (3 April 2011), "Junction design, the Dutch - cycle-friendly - way [120]", YouTube, retrieved 18 December 2021
+^ "Manchester opens UK's first CYCLOPS cycling junction". Intelligent Transport. Retrieved 18 December 2021.
+^ "What is a Toucan crossing?". Auto Express. Retrieved 19 December 2021.
+^ "Publication on traffic lights the from the Swedish Transport Administration" (PDF). Archived from the original (PDF) on 23 September 2016. Retrieved 25 August 2011.
+^ (in Dutch) RVV 1990 artikel 70 Official regulation of traffic rules and traffic signs
+^ "Emergency vehicle traffic signal preemption system". United States Patent and Trademark Office. Retrieved 7 October 2005.
+^ "FHWA - MUTCD - 2003 Edition Revision 1 Chapter 4F". dot.gov.
+^ "Emergency Vehicles at Red Signal or Stop Sign". Ohio Laws and Rules. Retrieved 22 July 2014.
+^ "Emergency Service and Vehicles". Virginia General Assembly. Retrieved 22 July 2014.
+^ Robinson, Larry. "Traffic Signal Progression". Retrieved 22 May 2014.
+^ "Going Nowhere Fast? Smart Traffic Lights Can Help Ease Gridlock". HowStuffWorks. 18 May 2022. Retrieved 4 February 2023.
+^ Traffic Signals 101, Minnesota Department of Transportation, 2006
+^ "Traffic Signal Design Terminology". www.traffic-signal-design.com. Retrieved 2 October 2022.
+^ DfT Traffic Advisory Leaflet 1/06, Part 4 - https://tsrgd.co.uk/pdf/tal/2006/tal-1-06_4.pdf
+^ "How does a traffic light detect that a car has pulled up and is waiting for the light to change?". Howstuffworks. April 2000. Retrieved 7 January 2021.
+^ "Motorcycles And Stoplights". Motorcycle Assistant.
+^ "Yellow lights shorter in Chicago". Chicago Tribune. Retrieved 4 February 2023.
+^ a b "FHWA - MUTCD - 2003 Edition Revision 1 Chapter 4J". mutcd.fhwa.dot.gov. Retrieved 19 December 2021.
+^ "Which European country has the strictest driving penalties?". Zutobi Drivers Ed. 8 April 2021. Retrieved 19 December 2021.
+^ "2019 Traffic Safety Culture Index". AAA Foundation. 11 June 2020. Retrieved 19 December 2021.
+^ "How to Prevent Red Light Runners". Western Systems. 25 March 2021. Retrieved 19 December 2021.
+^ Times, Michael Knight Special to The New York (30 December 1979). "For Boston Drivers It's Turn Right on Red and Full Speed Ahead". The New York Times. Retrieved 11 August 2022.
+^ 42 U.S.C. 6322
+^ "The Green Arrow". German Pedestrians' Association (FUSS e.V.). Retrieved 28 January 2021.
+^ "Pravilnik o prometni signalizaciji in prometni opremi na javnih cestah". Uradni List RS (in Slovenian). Slu ba Vlade RS za zakonodajo: 56. 2016. Retrieved 25 August 2021. 2444   Vo nja desno ob rde i lu i na semaforju
+^ Arr t  du 24 novembre 1967 relatif   la signalisation des routes et des autoroutes   Article 7. "Arr t  du 24 novembre 1967 relatif   la signalisation des routes et des autoroutes - Article 7 | Legifrance". Archived from the original on 12 April 2016. Retrieved 2 October 2015.
+^ "The Highway Code: Using the road (rule 177)". Retrieved 26 June 2015.
+^ "LED traffic lights could pose winter driving risk". CTV. 5 October 2011. Retrieved 5 October 2011.[dead link]
+^ Elizabeth Leamy; Vanessa Weber (4 January 2010). "LED Traffic Lights Unusual, Potentially Deadly Winter Problem". ABC News.
+^ Marmarelli, Beth (22 June 2011). "Engineering Team Develops Device to Aid LED Traffic Signals in Inclement Weather & Places Overall in Campus's Senior Design Competition". University of Michigan. Archived from the original on 13 April 2012. Retrieved 22 June 2011.
+^ Hankscraft Inc. (11 October 2012). "Patent application title: Traffic Light Heater". Class name: Heating devices combined with diverse-type art device electrical devices, 20120255942. United States Patent Office. Retrieved 11 October 2012.
+^ "Intelight ESB Traffic Signal Head". intelight-its.com. Archived from the original on 8 August 2014. Retrieved 21 June 2013.
+^ a b Buckholz, Jeffrey W. Traffic Signal Supports, Indications and Signing (PDF). Woodcliff Lake, NJ: CED Engineering.
+^ "A Dummy Forever!". Croton Friends of History. Retrieved 18 December 2021.
+^ a b "Near Side Signals: Thinking Outside the Pedestrian Box". Streets.mn. 30 April 2021. Retrieved 4 February 2023.
+^ a b "Why traffic lights are pollution hotspots". World Economic Forum. Retrieved 19 December 2021.
+^ "Traffic Signals" (PDF). Institute of Transportation Engineers. September 2007. Archived from the original (PDF) on 27 March 2009. Retrieved 1 April 2009.
+^ David Millward (4 November 2006). "Is this the end of the road for traffic lights?". The Daily Telegraph. Retrieved 1 April 2009.
+^ a b National Cooperative Highway Research Program, Crash Reduction Factors for Traffic Engineering and Intelligent Transportation System (ITS) Improvements: State-of-Knowledge Report, November 2005, Table 3
+^ "Archives - Philly.com". articles.philly.com.
+^ Section 4C. Manual on Uniform Traffic Control Devices (2009 Edition). Mutcd.fhwa.dot.gov.
+^ "Traffic Light Song". YouTube. Archived from the original on 11 December 2021.
+Citations[edit]
+City of Beacon. Canajoharie, New York: Credits. Retrieved 30 September 2008.
+Croton-on-Hudson Historical Society. Canajoharie, New York: Credits. Retrieved 30 September 2008.
+Villages of Canajoharie & Palatine Bridge. Canajoharie, New York: Credits. Retrieved 30 September 2008.
+Woods, Arthur (April 1916). "Keeping City Traffic Moving: One of the Most Difficult of All City Problems, And The New Methods Which Have Been Devised To Solve It". The World's Work: A History of Our Time. Doubleday, Page & Company. XXXI: 621 532. Retrieved 4 August 2009.
+External links[edit]
+Wikimedia Commons has media related to:
+Traffic lights (category)
+FHWA Arterial Management Website, latest information on traffic signal operations
+Animations of various US signal phasings
+SCATS  Sydney Coordinated Adaptive Traffic System
+Safety Evaluation of Converting Traffic Signals from Incandescent to Light-emitting Diodes: Summary Report Federal Highway Administration
+Safety Evaluation of Discontinuing Late-night Flash Operations at Signalized Intersections: Summary Report Federal Highway Administration
+Traffic signals, 1922, digitized NYPD photograph from the Lloyd Sealy Library Digital Collections
+vteTraffic signsSigns
+Advisory speed limit
+Bilingual sign
+Crossbuck
+Dead end sign
+Driver location signs
+Logo sign
+One-way traffic
+Regulatory sign
+Speed limit (by country)
+Variable-message sign
+Priority signs
+Priority to the right
+Stop sign (all way)
+Give Way / Yield sign
+Filter in turn
+Vienna Convention Groups
+Warning sign
+Priority signs
+Prohibitory traffic sign
+Mandatory sign
+Special regulation sign
+Information sign
+Direction, position, or indication sign
+By countryAfrica
+Botswana
+Mauritius
+South Africa
+Asia
+Armenia
+Azerbaijan
+Bangladesh
+Brunei
+Cambodia
+China
+Hong Kong
+Georgia
+India
+Indonesia
+Iran
+Israel
+Japan
+Kazakhstan
+Kyrgyzstan
+Laos
+Malaysia
+Mongolia
+Nepal
+Pakistan
+Philippines
+Saudi Arabia
+Singapore
+South Korea
+Sri Lanka
+Thailand
+Turkey
+United Arab Emirates
+Uzbekistan
+Vietnam
+Europe
+Armenia
+Austria
+Azerbaijan
+Belgium
+Bosnia and Herzegovina
+Bulgaria
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Georgia
+Germany
+Greece
+Iceland
+Ireland
+Italy
+Latvia
+Liechtenstein
+Lithuania
+Malta
+Netherlands
+Norway
+Poland
+Portugal
+Russia
+Serbia
+Sweden
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+Scotland
+Wales
+North America
+Canada
+Mexico
+United States
+Oceania
+Australia
+New Zealand
+South America
+Argentina
+Buenos Aires
+Brazil
+Chile
+Colombia
+Lights
+Traffic light
+Variations in traffic light operation
+Traffic light control and coordination
+Typefaces
+Arial
+ASTRA-Frutiger
+Austria
+Caract res
+Clarendon
+Clearview
+DIN 1451
+Helvetica
+Highway Gothic
+LLM Lettering
+Motorway
+NPS Rawlinson Roadway
+Panno
+Polish road signs typeface
+Rail Alphabet
+Rotis
+SNV
+Trafikkalfabetet
+Transport
+Tratex
+International conventions
+Geneva
+Vienna
+Traffic
+Road signs
+National standards
+Manual on Uniform Traffic Control Devices (US)
+Traffic Signs Regulations and General Directions (UK)
+vteLightingConcepts
+Accent lighting
+Color temperature
+Efficiency
+Glare
+Lamp
+Light fixture
+Light pollution (Hawaii, Hong Kong)
+Lightbulb socket
+Edison screw
+Bi-pin lamp base
+Task lighting
+Methods of generationIncandescent
+Regular
+Halogen
+Nernst
+Luminescent
+Cathodoluminescent
+Electron-stimulated
+Chemiluminescent
+Electrochemiluminescence
+Electroluminescent
+field-induced polymer
+Fluorescent
+Fluorescent lamp (compact)
+Fluorescent induction
+Photoluminescent
+laser lamp
+Radioluminescence
+Solid-state
+LED bulb
+Combustion
+Acetylene/Carbide
+Argand
+Campfire
+Candle
+Carcel
+Diya
+Flare
+Gas
+Kerosene
+Petromax
+Lantern
+Fanous
+Lampion
+Limelight
+Magnesium torch
+Oil
+Rushlight
+Safety
+Tilley
+Torch
+Electric arc
+Carbon arc
+Klieg light
+Yablochkov candle
+Gas discharge
+Deuterium arc
+Neon
+Neon lamp
+Plasma
+Sulfur
+Xenon arc
+Xenon flash
+High-intensitydischarge (HID)
+Mercury-vapor
+Metal-halide
+ceramic
+Hydrargyrum medium-arc iodide (HMI)
+Hydrargyrum quartz iodide (HQI)
+Sodium vapor
+Stationary
+Reflector
+Parabolic aluminized reflector (PAR)
+Multifaceted reflector
+Ellipsoidal reflector
+Aircraft warning
+Balanced-arm lamp
+Chandelier
+Emergency light
+Gas lighting
+Gooseneck lamp
+Intelligent street lighting
+Light tube
+Nightlight
+Neon lighting
+Pendant light
+Recessed light
+Sconce
+Street light
+in the US
+Torch re
+Track lighting
+Troffer
+Portable
+Bicycle lighting
+Flashlight
+Tactical
+Mechanically powered
+Glow stick
+Headlamp (outdoor)
+Lantern
+Laser pointer
+Navigation light
+Searchlight
+Solar lamp
+Automotive
+Daytime running lamp
+Headlamp
+hidden
+high-intensity discharge
+sealed beam
+Rear position lamps
+Reversing lamps
+Safety reflector
+retroreflector
+Stop lamps
+Turn signals
+trafficators
+Automotive light bulb types
+DisplayDecorative
+Aroma lamp
+Blacklight
+Bubble light
+Christmas lights
+Crackle tube
+DJ lighting
+Electroluminescent wire
+Lava lamp
+Marquee
+Plasma globe
+Strobe light
+TheatricalCinematic
+Floodlight
+Footlight
+Gobo
+Scoop
+Spotlight
+ellipsoidal reflector
+Stage lighting instrument
+IndustrialScientific
+Germicidal
+Grow light
+Infrared lamp
+Stroboscope
+Tanning
+Related topics
+Bioluminescence
+Battlefield illumination
+Laser
+Light art
+Luminous gemstones
+Signal lamp
+Sources
+Reflected
+Authority control: National 
+Germany
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Traffic_light&oldid=1149095751"

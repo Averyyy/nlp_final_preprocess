@@ -1,0 +1,107 @@
+Obsolete model of the atom
+ The plum pudding model of the atom
+ The current model of the sub-atomic structure involves a dense nucleus surrounded by a probabilistic "cloud" of electrons
+The plum pudding model is one of several historical scientific models of the atom. First proposed by J. J. Thomson in 1904[1] soon after the discovery of the electron, but before the discovery of the atomic nucleus, the model tried to explain two properties of atoms then known: that electrons are negatively charged particles and that atoms have no net electric charge. The plum pudding model has electrons surrounded by a volume of positive charge, like negatively charged "plums" embedded in a positively charged "pudding".
+Overview[edit]
+It had been known for many years that atoms contain negatively charged subatomic particles. Thomson called them "corpuscles" (particles), but they were more commonly called "electrons", the name G. J. Stoney had coined for the "fundamental unit quantity of electricity" in 1891.[2] It had also been known for many years that atoms have no net electric charge. Thomson held that atoms must also contain some positive charge that cancels out the negative charge of their electrons.[3][4] Thomson published his proposed model in the March 1904 edition of the Philosophical Magazine, the leading British science journal of the day.  In Thomson's view:
+... the atoms of the elements consist of a number of negatively electrified corpuscles enclosed in a sphere of uniform positive electrification, ...[5]
+Thomson's model was the first to assign a specific inner structure to an atom, though his original description did not include mathematical formulas.[6][7] He had followed the work of William Thomson who had written a paper proposing a vortex atom in 1867,[8] J.J. Thomson abandoned his 1890 "nebular atom" hypothesis, based on the vortex theory of the atom, in which atoms were composed of immaterial vortices and suggested there were similarities between the arrangement of vortices and periodic regularity found among the chemical elements.[9] Thomson based his atomic model on known experimental evidence of the day, and in fact, followed Lord Kelvin's lead again as Kelvin had proposed a positive sphere atom a year earlier.[10][11] Thomson's proposal, based on Kelvin's model of a positive volume charge, served to guide future experiments.
+The main objective of Thomson's model after its initial publication was to account for the electrically neutral and chemically varied state of the atom.[5] Electron orbits  were stable under classical mechanics. When an electron moves away from the center of the positively charged sphere it is subjected to a greater net positive inward force due to the presence of more positive charge inside its orbit (see Gauss's law). Electrons were free to rotate in rings that were further stabilized by interactions among the electrons, and spectroscopic measurements were meant to account for energy differences associated with different electron rings. As for the properties of matter, Thomson believed they arose from electrical effects. He further emphasized the need of a theory to help picture the physical and chemical aspects of an atom using the theory of corpuscles and positive charge.[12] Thomson attempted unsuccessfully to reshape his model to account for some of the major spectral lines experimentally known for several elements.[13] After the scientific discovery of radioactivity, Thomson decided to address it in his model by stating:
+... we must face the problem of the constitution of the atom, and see if we can imagine a model which has in it the potentiality of explaining the remarkable properties shown by radio-active substances ...[14]
+Thomson's model changed over the course of its initial publication, finally becoming a model with much more mobility containing electrons revolving in the dense field of positive charge rather than a static structure. Despite this, the colloquial nickname "plum pudding" was soon attributed to Thomson's model as the distribution of electrons within its positively charged region of space reminded many scientists of raisins, then called "plums", in the common English dessert, plum pudding.[15]
+ A plum pudding
+In 1909, Hans Geiger and Ernest Marsden conducted experiments where alpha particles were fired through thin sheets of gold. Their professor, Ernest Rutherford, expected to find results consistent with Thomson's atomic model. However, when the results were published in 1911, they instead implied the presence of a very small nucleus of positive charge at the center of each gold atom.[16] This led to the development of the Rutherford model of the atom.[17]  Immediately after Rutherford published his results, Antonius van den Broek made the intuitive proposal that the atomic number of an atom is the total number of units of charge present in its nucleus. Henry Moseley's 1913 experiments (see Moseley's law) provided the necessary evidence to support Van den Broek's proposal. The effective nuclear charge was found to be consistent with the atomic number (Moseley found only one unit of charge difference). This work culminated in the solar-system-like Bohr model of the atom in the same year, in which a nucleus containing an atomic number of positive charges is surrounded by an equal number of electrons in orbital shells. As Thomson's model guided Rutherford's experiments, Bohr's model guided Moseley's research. The Bohr model was elaborated upon during the time of the "old quantum theory", and then subsumed by the full-fledged development of quantum mechanics.[18][19]
+Related scientific problems[edit]
+As an important example of a scientific model, the plum pudding model has motivated and guided several related scientific problems.
+Atomic size and scientific constants[edit]
+The plum pudding model with a single electron was used in part by the physicist Arthur Erich Haas in 1910 to estimate the numerical value of the Planck constant and the Bohr radius of hydrogen atoms. Haas's work was the first to estimate these values to within an order of magnitude and preceded the work of Niels Bohr by three years.
+Mathematical Thomson problem[edit]
+A particularly useful mathematics problem related to the plum pudding model is the optimal distribution of equal point charges on a unit sphere, called the Thomson problem. The Thomson problem is a natural consequence of the plum pudding model in the absence of its uniform positive background charge.[20][21]
+References[edit]
+^ 
+"Plum Pudding Model". Universe Today. 27 August 2009. Retrieved 19 December 2015.
+^ 
+O'Hara, J. G. (March 1975). "George Johnstone Stoney, F.R.S., and the Concept of the Electron". Notes and Records of the Royal Society of London. 29 (2): 265 276. doi:10.1098/rsnr.1975.0018. JSTOR 531468. S2CID 145353314.
+^ 
+"Discovery of the electron and nucleus (article)". Khan Academy. Retrieved 9 February 2021.
+^ 
+Alviar-Agnew, Marissa; Agnew, Henry (4 April 2016). "4.3: The Nuclear Atom". Introductory Chemistry. LibreTexts. Retrieved 9 February 2021.
+^ a b 
+Thomson, J. J. (March 1904). "On the Structure of the Atom: an Investigation of the Stability and Periods of Oscillation of a number of Corpuscles arranged at equal intervals around the Circumference of a Circle; with Application of the Results to the Theory of Atomic Structure". Philosophical Magazine. Sixth series. 7 (39): 237 265. doi:10.1080/14786440409463107. Archived (PDF) from the original on 2022-10-09.
+^ 
+Hon, Giora; Goldstein, Bernard R. (2013). "J. J. Thomson's plum-pudding atomic model: The making of a scientific myth". Annalen der Physik. 525 (8 9): A129 A133. Bibcode:2013AnP...525A.129H. doi:10.1002/andp.201300732.
+^ 
+Thomson, J. J. (December 1899). "On the masses of the ions in gases at low pressures". The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science. 48 (295): 547 567. doi:10.1080/14786449908621447.
+^ 
+Thomson, William (1869). "On Vortex Atoms". Proceedings of the Royal Society of Edinburgh. 6: 94 105. doi:10.1017/S0370164600045430.
+^ 
+Kragh, Helge (2002). Quantum Generations: A History of Physics in the Twentieth Century (Reprint ed.). Princeton University Press. pp. 43 45. ISBN 978-0691095523.
+^ Models of the Atom, Michael Fowler, University of Virginia https://galileo.phys.virginia.edu/classes/252/more_atoms.html#Plum%20Pudding
+^ Kumar, Manjit, Quantum Einstein, Bohr and the Great Debate, ISBN 978-0393339888, 2008.
+^ 
+E. R. (1908). "The Corpuscular Theory of Matter". Nature. 77 (2005): 505 506. Bibcode:1908Natur..77..505R. doi:10.1038/077505a0. S2CID 36356538.
+^ Models of the Atom, Michael Fowler, University of Virginia https://galileo.phys.virginia.edu/classes/252/more_atoms.html#Plum%20Pudding
+^ 
+Thomson, J. J. (1904). Electricity and Matter. Mrs. Hepsa Ely Silliman Memorial Lectures. New Haven: Yale University Press. ISBN 978-0-686-83533-2.
+^ 
+Hon, Giora; Goldstein, Bernard R. (2013). "J. J. Thomson's plum-pudding atomic model: The making of a scientific myth". Annalen der Physik. 525 (8 9): A129 A133. Bibcode:2013AnP...525A.129H. doi:10.1002/andp.201300732.
+^ 
+Angelo, Joseph A. (2004). Nuclear Technology. Greenwood Publishing. p. 110. ISBN 978-1-57356-336-9.
+^ 
+Heilbron, John L. (2013). "The path to the quantum atom". Nature. 498 (7452): 27 30. doi:10.1038/498027a. PMID 23739408. S2CID 4355108.
+^ 
+Hentschel, Klaus (2009). "Zeeman Effect".  In Greenberger, Daniel; Hentschel, Klaus; Weinert, Friedel (eds.). Compendium of Quantum Physics. Berlin, Heidelberg: Springer. pp. 862 864. doi:10.1007/978-3-540-70626-7_241. ISBN 978-3-540-70622-9.
+^ 
+Eckert, Michael (April 2014). "How Sommerfeld extended Bohr's model of the atom (1913 1916)". The European Physical Journal H. 39 (2): 141 156. Bibcode:2014EPJH...39..141E. doi:10.1140/epjh/e2013-40052-4. S2CID 256006474.
+^ 
+Levin, Y.; Arenzon, J. J. (2003). "Why charges go to the Surface: A generalized Thomson Problem". Europhys. Lett. 63 (3): 415 418. arXiv:cond-mat/0302524. Bibcode:2003EL.....63..415L. doi:10.1209/epl/i2003-00546-1. S2CID 250764497.
+^ Roth, J. (2007-10-24). "Description of a highly symmetric polytope observed in Thomson's problem of charges on a hypersphere". Physical Review E. 76 (4): 047702. Bibcode:2007PhRvE..76d7702R. doi:10.1103/PhysRevE.76.047702. ISSN 1539-3755. PMID 17995142. Although Thomson's model has been outdated for a long time by quantum mechanics, his problem of placing charges on a sphere is still noteworthy.
+vteAtomic modelsSingle atoms
+Dalton model (Billiard ball model)
+Lewis model (Cubical atom model)
+Nagaoka model (Saturnian model)
+Rutherford model (Planetary model)
+Bohr model (Rutherford Bohr model)
+Bohr Sommerfeld model (Refined Bohr model)
+Gryzi ski model (Free-fall model)
+Schrodinger model (Electron cloud model)
+Dirac-Gordon model (Relativistic atomic model)
+Thomson model (Plum pudding model)
+Vortex theory of the atom (Knot model)
+Atoms in solids
+Einstein solid
+Debye model
+Drude model
+Free electron model
+Nearly free electron model
+Band structure
+Density functional theory
+Atoms in fluids
+Ideal gas
+Van der Waals gas
+Newtonian fluid
+Bose Einstein condensate
+Fermi gas
+Scientists
+Felix Bloch
+Niels Bohr
+Satyendra Nath Bose
+John Dalton
+Peter Debye
+Paul Dirac
+Paul Drude
+Albert Einstein
+Walter Gordon
+Micha  Gryzi ski
+Irving Langmuir
+Gilbert N. Lewis
+Hantaro Nagaoka
+Isaac Newton
+Ernest Rutherford
+Erwin Schr dinger
+Arnold Sommerfeld
+J. J. Thomson
+Johannes Diderik van der Waals
+ Category:Atoms
+ Portal:Physics / Chemistry
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Plum_pudding_model&oldid=1145469603"

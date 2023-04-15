@@ -1,0 +1,202 @@
+Fraction of blood ejected from a ventricle of the heart with each heartbeat
+An ejection fraction (EF) is the volumetric fraction (or portion of the total) of fluid (usually blood) ejected from a chamber (usually the heart) with each contraction (or heartbeat). It can refer to the cardiac atrium,[1] ventricle,[2] gall bladder,[3] or leg veins,[4] although if unspecified it usually refers to the left ventricle of the heart. EF is widely used as a measure of the pumping efficiency of the heart and is used to classify heart failure types. It is also used as an indicator of the severity of heart failure, although it has recognized limitations.[5]
+The EF of the left heart, known as the left ventricular ejection fraction (LVEF), is calculated by dividing the volume of blood pumped from the left ventricle per beat (stroke volume) by the volume of blood collected in the left ventricle at the end of diastolic filling (end-diastolic volume). LVEF is an indicator of the effectiveness of pumping into the systemic circulation. The EF of the right heart, or right ventricular ejection fraction (RVEF), is a measure of the efficiency of pumping into the pulmonary circulation. A heart which cannot pump sufficient blood to meet the body's requirements (i.e., heart failure) will often, but not invariably, have a reduced ventricular ejection fraction.[6]
+Measurement[edit]
+Modalities applied to measurement of ejection fraction is an emerging field of medical mathematics and subsequent computational applications. The first common measurement method is echocardiography,[7][8] although cardiac magnetic resonance imaging (MRI),[8][9] cardiac computed tomography,[8][9] ventriculography and nuclear medicine (gated SPECT and radionuclide angiography)[8][10] scans may also be used. Measurements by different modalities are not easily interchangeable.[11] Historically, the gold standard for measurement of the ejection fraction was ventriculography,[12] but cardiac MRI is now considered the best method.[13] Prior to these more advanced techniques, the combination of electrocardiography and phonocardiography was used to accurately estimate ejection fraction.[14]
+Physiology[edit]
+Normal values[edit]
+In a healthy 70-kilogram (150 lb) man, the stroke volume is approximately 70 mL, and the left ventricular end-diastolic volume (EDV) is approximately 120 mL, giving an estimated ejection fraction of 70 120, or 0.58 (58%). Healthy individuals typically have ejection fractions between 50% and 65%,[15] although the lower limits of normality are difficult to establish with confidence.[16]
+Ventricular volumes  viewtalkedit
+Measure
+Right ventricle
+Left ventricle
+End-diastolic volume
+144 mL (  23 mL)[17]
+142 mL (  21 mL)[18]
+End-diastolic volume / body surface area (mL/m2)
+78 mL/m2 (  11 mL/m2)[17]
+78 mL/m2 (  8.8 mL/m2)[18]
+End-systolic volume
+50 mL (  14 mL)[17]
+47 mL (  10 mL)[18]
+End-systolic volume / body surface area (mL/m2)
+27 mL/m2 (  7 mL/m2)[17]
+26 mL/m2 (  5.1 mL/m2)[18]
+Stroke volume
+94 mL (  15 mL)[17]
+95 mL (  14 mL)[18]
+Stroke volume / body surface area (mL/m2)
+51 mL/m2 (  7 mL/m2)[17]
+52 mL/m2 (  6.2 mL/m2)[18]
+Ejection fraction
+66% (  6%)[17]
+67% (  4.6%)[18]
+Heart rate
+60 100 bpm[19]
+60 100 bpm[19]
+Cardiac output
+4.0 8.0 L/minute[20]
+4.0 8.0 L/minute[20]
+Pathophysiology[edit]
+Heart failure categories[edit]
+Damage to heart muscle (myocardium), such as occurring following myocardial infarction or cardiomyopathy, compromises the heart's performance as an efficient pump and may reduce ejection fraction. Such reduction in the EF can manifest itself as heart failure. The 2021 European Society of Cardiology guidelines for the diagnosis and treatment of acute and chronic heart failure subdivided heart failure into three categories on the basis of LVEF:[21]
+normal or preserved LVEF [ 50%] (HFpEF)
+moderately reduced LVEF [in the range of 41 49%] (HFmrEF)
+reduced LVEF [ 40%] (HFrEF)]
+A chronically low ejection fraction less than 30% is an important threshold in qualification for disability benefits in the US.[22]
+Calculation[edit]
+By definition, the volume of blood within a ventricle at the end of diastole is the end-diastolic volume (EDV). Likewise, the volume of blood left in a ventricle at the end of systole (contraction) is the end-systolic volume (ESV). The difference between EDV and ESV is the stroke volume (SV). The ejection fraction is the fraction of the end-diastolic volume that is ejected with each beat; that is, it is stroke volume (SV) divided by end-diastolic volume (EDV):[23]
+E
+F
+(
+%
+)
+=
+S
+V
+E
+D
+V
+ 
+100
+{\displaystyle EF(\%)={\frac {SV}{EDV}}\times 100}
+Where the stroke volume is given by:
+S
+V
+=
+E
+D
+V
+ 
+E
+S
+V
+{\displaystyle SV=EDV-ESV}
+EF is inherently a relative measurement as is any fraction, ratio, or percentage, whereas the stroke volume, end-diastolic volume or end-systolic volume are absolute measurements.[citation needed]
+Thus understood in volumetric terms mathematics for Systole can be inverted to opposed terms for Diastole as a solution for Injection Fraction.
+History[edit]
+William Harvey described the basic mechanism of the systemic circulation in his 1628 De motu cordis. It was initially assumed that the heart emptied completely during systole.[24] However, in 1856 Chauveau and Faivre[25] observed that some fluid remained in the heart after contraction. This was confirmed by Roy and Adami in 1888.[26] In 1906, Henderson[27] estimated the ratio of the volume discharged in systole to the total volume of the left ventricle to be approximately 2/3. In 1933, Gustav Nylin proposed that the ratio of the heart volume/stroke volume (the reciprocal of ejection fraction) could be used as a measure of cardiac function.[28] in 1952 Bing and colleagues used a minor modification of Nylin's suggestion (EDV/SV) to assess right ventricular function using a dye dilution technique.[29] Exactly when the relationship between end diastolic volume and stroke volume was inverted into its current form is unclear. Holt calculated the ratio SV/EDV and noted that '...The ventricle empties itself in a "fractional" manner, approximately 46 per cent of its end-diastolic volume being ejected with each stroke and 54 per cent remaining in the ventricle at the end of systole'.[30] In 1962, Folse and Braunwald used the ratio of forward stroke volume/EDV and observed that "estimations of the fraction of the left ventricular end-diastolic volume that is ejected into the aorta during each cardiac cycle, as well as of the ventricular end-diastolic and residual volumes, provide information that is fundamental to a hemodynamic analysis of left ventricular function".[31] Elliott, Lane and Gorlin used the term "ejection fraction" in a conference paper abstract published in January 1964.[32] In 1965 Bartle et al. used the term ejected fraction for the ratio SV/EDV,[33] and the term ejection fraction was used in two review articles in 1968 suggesting a wide currency by that time.[2][34]
+References[edit]
+^ Appleton CP, Galloway JM, Gonzalez MS, Gaballa M, Basnight MA (December 1993). "Estimation of left ventricular filling pressures using two-dimensional and Doppler echocardiography in adult patients with cardiac disease. Additional value of analyzing left atrial size, left atrial ejection fraction and the difference in duration of pulmonary venous and mitral flow velocity at atrial contraction". Journal of the American College of Cardiology. 22 (7): 1972 82. doi:10.1016/0735-1097(93)90787-2. PMID 8245357.
+^ a b Sonnenblick EH (July 1968). "Correlation of myocardial ultrastructure and function". Circulation. 38 (1): 29 44. doi:10.1161/01.cir.38.1.29. PMID 11712290.
+^ Krishnamurthy GT, Bobba VR, Kingston E (March 1981). "Radionuclide ejection fraction: a technique for quantitative analysis of motor function of the human gallbladder". Gastroenterology. 80 (3): 482 90. doi:10.1016/0016-5085(81)90009-3. PMID 7450441.
+^ Christopoulos DG, Nicolaides AN, Szendro G, Irvine AT, Bull ML, Eastcott HH (January 1987). "Air-plethysmography and the effect of elastic compression on venous hemodynamics of the leg". Journal of Vascular Surgery. 5 (1): 148 59. doi:10.1016/0741-5214(87)90205-9. PMID 3795381.
+^ Cikes M, Solomon SD (June 2016). "Beyond ejection fraction: an integrative approach for assessment of cardiac structure and function in heart failure". European Heart Journal. 37 (21): 1642 50. doi:10.1093/eurheartj/ehv510. PMID 26417058.
+^ Ponikowski P, Voors AA, Anker SD, Bueno H, Cleland JG, Coats AJ,  et al. (July 2016). "2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure: The Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC) Developed with the special contribution of the Heart Failure Association (HFA) of the ESC". European Heart Journal. 37 (27): 2129 2200. doi:10.1093/eurheartj/ehw128. PMID 27206819.
+^ Armstrong WF, Ryan T, Feigenbaum H (2010). Feigenbaum's Echocardiography. Lippincott Williams & Wilkins. ISBN 978-0-7817-9557-9.
+^ a b c d Wood PW, Choy JB, Nanda NC, Becher H (2014). "Left ventricular ejection fraction and volumes: it depends on the imaging method". Echocardiography. 31 (1): 87 100. doi:10.1111/echo.12331. PMC 4231568. PMID 24786629.
+^ a b Asferg C, Usinger L, Kristensen TS, Abdulla J (May 2012). "Accuracy of multi-slice computed tomography for measurement of left ventricular ejection fraction compared with cardiac magnetic resonance imaging and two-dimensional transthoracic echocardiography: a systematic review and meta-analysis". European Journal of Radiology. 81 (5): e757-62. doi:10.1016/j.ejrad.2012.02.002. PMID 22381439.
+^ Motwani M, Berman DS, Germano G, Slomka P (February 2016). "Automated Quantitative Nuclear Cardiology Methods". Cardiology Clinics. 34 (1): 47 57. doi:10.1016/j.ccl.2015.08.003. PMC 4877137. PMID 26590779.
+^ Van der Wall EE, Bax JJ (August 2000). "Different imaging approaches in the assessment of left ventricular dysfunction: all things equal?". European Heart Journal. 21 (16): 1295 7. doi:10.1053/euhj.2000.2195. PMID 10952821.
+^ Wackers FJ, Berger HJ, Johnstone DE, Goldman L, Reduto LA, Langou RA, Gottschalk A, Zaret BL (June 1979). "Multiple gated cardiac blood pool imaging for left ventricular ejection fraction: validation of the technique and assessment of variability". The American Journal of Cardiology. 43 (6): 1159 66. doi:10.1016/0002-9149(79)90148-6. PMID 443176.
+^ Marcu CB, Beek AM, van Rossum AC (October 2006). "Clinical applications of cardiovascular magnetic resonance imaging". Canadian Medical Association Journal. 175 (8): 911 7. doi:10.1503/cmaj.060566. PMC 1586078. PMID 17030942.
+^ Kenny, JE (Dec 2018). "Systolic Time Intervals". Pulmccm.org.
+^ Kumar V, Abbas AK, Aster J (2009). Robbins and Cotran pathologic basis of disease (8th ed.). St. Louis, Mo: Elsevier Saunders. p. 574. ISBN 978-1-4160-3121-5.
+^ Mahadevan G, Davis RC, Frenneaux MP, Hobbs FD, Lip GY, Sanderson JE, Davies MK (April 2008). "Left ventricular ejection fraction: are the revised cut-off points for defining systolic dysfunction sufficiently evidence based?". Heart. 94 (4): 426 8. doi:10.1136/hrt.2007.123877. PMID 18347374. S2CID 45337388.
+^ a b c d e f g Maceira AM, Prasad SK, Khan M, Pennell DJ (December 2006). "Reference right ventricular systolic and diastolic function normalized to age, gender and body surface area from steady-state free precession cardiovascular magnetic resonance" (PDF). European Heart Journal. 27 (23): 2879 88. doi:10.1093/eurheartj/ehl336. PMID 17088316.
+^ a b c d e f g Maceira A (2006). "Normalized Left Ventricular Systolic and Diastolic Function by Steady State Free Precession Cardiovascular Magnetic Resonance". Journal of Cardiovascular Magnetic Resonance. 8: 417 426. doi:10.1080/10976640600572889. (subscription required)
+^ a b Normal ranges for heart rate are among the narrowest limits between bradycardia and tachycardia. See the Bradycardia and Tachycardia articles for more detailed limits.
+^ a b "Normal Hemodynamic Parameters   Adult" (PDF). Edwards Lifesciences LLC. 2009.
+^ McDonagh, Theresa A; Metra, Marco; Adamo, Marianna; Gardner, Roy S; Baumbach, Andreas; B hm, Michael; Burri, Haran; Butler, Javed;  elutkien , Jelena; Chioncel, Ovidiu; Cleland, John G F; Coats, Andrew J S; Crespo-Leiro, Maria G; Farmakis, Dimitrios; Gilard, Martine (2021-09-21). "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure". European Heart Journal. 42 (36): 3599 3726. doi:10.1093/eurheartj/ehab368. ISSN 0195-668X. PMID 34447992.
+^ "4.00-Cardiovascular-Adult".
+^ Armstrong WF, Ryan T (2012-02-03). Feigenbaum's Echocardiography. Lippincott Williams & Wilkins. p. 126. ISBN 9781451147834.
+^ Bruce TA, Chapman CB (November 1965). "Left ventricular residual volume in the intact and denervated dog heart". Circulation Research. 17 (5): 379 85. doi:10.1161/01.res.17.5.379. PMID 5843876.
+^ Chauveau JA, Faivre J (1856). "Nouvelles recherches exp rimentales sur les mouvem nts et les bruits normaux du coeur envisages au point de vue la physiologie medicale". Caz. Med. De Par. 365: 406.
+^ Adami JG (December 1888). "Remarks on Failure of the Heart from Overstrain". British Medical Journal. 2 (1459): 1321 6. doi:10.1136/bmj.2.1459.1321. PMC 2198364. PMID 20752520.
+^ Henderson Y (1906). "The volume curve of the ventricles of the mammalian heart, and the significance of this curve in respect to the mechanics of the heart-beat and the filling of the ventricles". Am J Physiol. 16 (3): 325 67. doi:10.1152/ajplegacy.1906.16.3.325.
+^ Nylin G (1933). "The relation between heart volume and cardiac output per beat as a measure of cardiac activity". Svenska L kartidningen. 10: 1.
+^ Bing RJ, Heimbecker R, Falholt W (October 1951). "An estimation of the residual volume of blood in the right ventricle of normal and diseased human hearts in vivo". American Heart Journal. 42 (4): 483 502. doi:10.1016/0002-8703(51)90146-9. PMID 14877744.
+^ Holt JP (March 1956). "Estimation of the residual volume of the ventricle of the dog's heart by two indicator dilution technics". Circulation Research. 4 (2): 187 95. doi:10.1161/01.res.4.2.187. PMID 13293819.
+^ Folse R, Braunwald E (April 1962). "Determination of fraction of left ventricular volume ejected per beat and of ventricular end-diastolic and residual volumes. Experimental and clinical observations with a precordial dilution technic". Circulation. 25: 674 85. doi:10.1161/01.cir.25.4.674. PMID 13893859.
+^ Elliott, William C.; Lane, Francis J.; Gorlin, Richard (January 1964). "Measurement of left ventricular volume in man by thermodilution". The American Journal of Cardiology. 13 (1): 106. doi:10.1016/0002-9149(64)90274-7.
+^ Bartle SH, Sanmarco ME, Dammann J (1965). "5. Ejected fraction: An index of myocardial function". The American Journal of Cardiology. 15 (1): 125. doi:10.1016/0002-9149(65)90615-6.
+^ Krayenb hl HP, Bussmann WD, Turina M, L thy E (1968). "Is the ejection fraction an index of myocardial contractility?". Cardiologia. 53 (1): 1 10. doi:10.1159/000166167. PMID 5733881.
+Portal: Medicine
+vtePhysiology of the cardiovascular systemHeartCardiac output
+Cardiac cycle
+Cardiac output
+Heart rate
+Stroke volume
+Stroke volume
+End-diastolic volume
+End-systolic volume
+Afterload
+Preload
+Frank Starling law
+Cardiac function curve
+Venous return curve
+Wiggers diagram
+Pressure volume diagram
+Ultrasound
+Fractional shortening = (End-diastolic dimension
+End-systolic dimension) / End-diastolic dimension
+Aortic valve area calculation
+Ejection fraction
+Cardiac index
+Left atrial volume
+Heart rate
+Cardiac pacemaker
+Chronotropic (Heart rate)
+Dromotropic (Conduction velocity)
+Inotropic (Contractility)
+Bathmotropic (Excitability)
+Lusitropic (Relaxation)
+Conduction
+Conduction system
+Cardiac electrophysiology
+Action potential
+cardiac 
+atrial
+ventricular
+Effective refractory period
+Pacemaker potential
+Electrocardiography
+P wave
+PR interval
+QRS complex
+QT interval
+ST segment
+T wave
+U wave
+Hexaxial reference system
+Chamber pressure
+Central venous
+Right
+atrial
+ventricular
+pulmonary artery
+wedge
+Left
+atrial
+ventricular
+Aortic
+Other
+Ventricular remodeling
+Vascular system/HemodynamicsBlood flow
+Compliance
+Vascular resistance
+Pulse
+Perfusion
+Blood pressure
+Pulse pressure
+Systolic
+Diastolic
+Mean arterial pressure
+Jugular venous pressure
+Portal venous pressure
+Critical closing pressure
+Regulation of BP
+Baroreflex
+Kinin kallikrein system
+Renin angiotensin system
+Vasoconstrictors
+Vasodilators
+Autoregulation
+Myogenic mechanism
+Tubuloglomerular feedback
+Cerebral autoregulation
+Paraganglia
+Aortic body
+Carotid body
+Glomus cell
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Ejection_fraction&oldid=1149034846"

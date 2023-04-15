@@ -1,0 +1,179 @@
+Recording of temperature
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Temperature measurement" news  newspapers  books  scholar  JSTOR (August 2010) (Learn how and when to remove this template message)
+ A medical/clinical thermometer showing the temperature of 38.7 C (101.7 F)
+Temperature measurement (also known as thermometry) describes the process of measuring a current local temperature for immediate or later evaluation. Datasets consisting of repeated standardized measurements can be used to assess temperature trends.
+History[edit]
+See also: Precision thermometry, Temperature, Temperature scale, Thermoscope, Thermometer, and Pyrometer
+Attempts at standardized temperature measurement prior to the 17th century were crude at best. For instance in 170 AD, physician Claudius Galenus[1]: 18  mixed equal portions of ice and boiling water to create a "neutral" temperature standard. The modern scientific field has its origins in the works by Florentine scientists in the 1600s including Galileo constructing devices able to measure relative change in temperature, but subject also to confounding with atmospheric pressure changes. These early devices were called thermoscopes. The first sealed thermometer was constructed in 1654 by the Grand Duke of Tuscany, Ferdinand II.[1]: 19  The development of today's thermometers and temperature scales began in the early 18th century, when Gabriel Fahrenheit produced a mercury thermometer and scale, both developed by Ole Christensen R mer. Fahrenheit's scale is still in use, alongside the Celsius and Kelvin scales.
+Technologies[edit]
+Many methods have been developed for measuring temperature. Most of these rely on measuring some physical property of a working material that varies with temperature. One of the most common devices for measuring temperature is the glass thermometer. This consists of a glass tube filled with mercury or some other liquid, which acts as the working fluid. Temperature increase causes the fluid to expand, so the temperature can be determined by measuring the volume of the fluid. Such thermometers are usually calibrated so that one can read the temperature simply by observing the level of the fluid in the thermometer. Another type of thermometer that is not really used much in practice, but is important from a theoretical standpoint, is the gas thermometer.
+Other important devices for measuring temperature include:
+Thermocouples
+Thermistors
+Resistance temperature detector (RTD)
+Pyrometer
+Langmuir probes (for electron temperature of a plasma)
+Infrared thermometer
+Other thermometers
+One must be careful when measuring temperature to ensure that the measuring instrument (thermometer, thermocouple, etc.) is really the same temperature as the material that is being measured. Under some conditions heat from the measuring instrument can cause a temperature gradient, so the measured temperature is different from the actual temperature of the system. In such a case the measured temperature will vary not only with the temperature of the system, but also with the heat transfer properties of the system.
+What thermal comfort humans, animals and plants experience is related to more than temperature shown on a glass thermometer. Relative humidity levels in ambient air can induce more or less evaporative cooling.  Measurement of the wet-bulb temperature normalizes this humidity effect.  Mean radiant temperature also can affect thermal comfort.  The wind chill factor makes the weather feel colder under windy conditions than calm conditions even though a glass thermometer shows the same temperature. Airflow increases the rate of heat transfer from or to the body, resulting in a larger change in body temperature for the same ambient temperature.
+The theoretical basis for thermometers is the zeroth law of thermodynamics which postulates that if you have three bodies, A, B and C, if A and B are at the same temperature, and B and C are at the same temperature then A and C are at the same temperature.  B, of course, is the thermometer.
+The practical basis of thermometry is the existence of triple point cells.  Triple points are conditions of pressure, volume and temperature such that three phases are simultaneously present, for example solid, vapor and liquid.  For a single component there are no degrees of freedom at a triple point and any change in the three variables results in one or more of the phases vanishing from the cell.  Therefore, triple point cells can be used as universal references for temperature and pressure (see Gibbs phase rule).
+Under some conditions it becomes possible to measure temperature by a direct use of the Planck's law of black-body radiation. For example, the cosmic microwave background temperature has been measured from the spectrum of photons observed by satellite observations such as the WMAP. In the study of the quark gluon plasma through  heavy-ion collisions, single particle spectra sometimes serve as a thermometer.
+Non-invasive thermometry[edit]
+During recent decades, many thermometric techniques have been developed. 
+The most promising and widespread non-invasive thermometric techniques in a biotech context are based on the analysis of magnetic resonance images, computerized tomography images and echotomography. These techniques allow monitoring temperature within tissues without introducing a sensing element.[2] In the field of reactive flows (e.g., combustion, plasmas), laser induced fluorescence (LIF), CARS, and laser absorption spectroscopy have been exploited to measure temperature inside engines, gas-turbines, shock-tubes, synthesis reactors[3] etc. The capability of such optical-based techniques include rapid measurement (down to nanosecond timescales), notwithstanding the ability to not perturb the subject of measurement (e.g., the flame, shock-heated gases).
+Surface air temperature[edit]
+Main article: Air temperature
+For temperature measurements made by instruments, see Instrumental temperature record.
+For temperature changes relevant to historical climate change over Earth's geologic past (distinguished from recent climate change), see Temperature record.
+The temperature of the air near the surface of the Earth is measured at meteorological observatories and weather stations, usually using thermometers placed in a shelter such as a Stevenson screen, a standardized well-ventilated white-painted instrument shelter. The thermometers should be positioned 1.25 2 m above the ground. Details of this setup are defined by the World Meteorological Organization (WMO).
+A true daily mean could be obtained from a continuously-recording thermograph.  Commonly it is approximated by the mean of discrete readings (e.g. 24 hourly readings, four 6-hourly readings, etc.) or by the mean of the daily minimum and maximum readings (though the latter can result in mean temperatures up to 1 C cooler or warmer than the true mean, depending on the time of observation).[4]
+The world's average surface air temperature is about 14 C.
+Comparison of temperature scales[edit]
+Main article: Conversion of scales of temperature
+Comparison of temperature scales
+Comment
+KelvinK
+Celsius C
+Fahrenheit F
+Rankine Ra ( R)
+Delisle D 
+Newton N 
+R aumur R ( R , Re) 
+R mer R ( R) 
+Absolute zero
+0
+ 273.15
+ 459.67
+0
+559.725
+ 90.14
+ 218.52
+ 135.90
+Lowest recorded natural temperature on Earth (Vostok, Antarctica - 21 July 1983)
+184
+ 89
+ 128
+331
+284
+ 29
+ 71
+ 39
+Celsius / Fahrenheit's "cross-over" temperature
+233.15
+ 40
+ 40
+419.67
+210
+ 13.2
+ 32
+ 13.5
+Fahrenheit's ice/salt mixture
+255.37
+ 17.78
+0
+459.67
+176.67
+ 5.87
+ 14.22
+ 1.83
+Water freezes (at standard pressure)
+273.15
+0
+32
+491.67
+150
+0
+0
+7.5
+Average surface temperature on Earth
+287
+14
+57
+517
+129
+4.6
+12
+15.4
+Average human body temperature  
+310.0  0.7
+36.8  0.7
+98.2  1.3
+557.9  1.3
+94.8  1.1
+12.1  0.2
+29.4  0.6
+26.8  0.4
+Highest recorded surface temperature on Earth (Furnace Creek, USA - 10 July 1913)
+329.8
+56.7
+134
+593.7
+65.0
+18.7
+45.3
+37.3
+Water boils (at standard pressure)
+373.15
+100
+212
+672
+0
+33
+80
+60
+Gas flame
+~1773
+~1500
+~2732
+Titanium melts
+1941
+1668
+3034
+3494
+ 2352
+550
+1334
+883
+The surface of the Sun
+5800
+5526
+9980
+10440
+ 8140
+1823
+4421
+2909
+1 This temperature scale is in disuse, and of mere historical interest.
+2 Normal human body temperature is 36.8  0.7 C, or 98.2  1.3 F. The commonly given value 98.6 F is simply the exact conversion of the nineteenth-century German standard of 37 C. Since it does not list an acceptable range, it could therefore be said to have excess (invalid) precision. See Temperature of a Healthy Human (Body Temperature) for more information.
+Some numbers in this table have been rounded off.
+Standards[edit]
+The American Society of Mechanical Engineers (ASME) has developed two separate and distinct standards on temperature Measurement, B40.200 and PTC 19.3.
+B40.200 provides guidelines for bimetallic-actuated, filled-system, and liquid-in-glass thermometers. It also provides guidelines for thermowells.
+PTC 19.3 provides guidelines for temperature measurement related to Performance Test Codes with particular emphasis on basic sources of measurement errors and techniques for coping with them.
+US (ASME) Standards[edit]
+B40.200-2008: Thermometers, Direct Reading and Remotes Reading.[5]
+PTC 19.3-1974(R2004): Performance test code for temperature measurement.[6]
+See also[edit]
+Timeline of temperature and pressure measurement technology
+Conversion of scales of temperature
+Color temperature
+Planck temperature
+Temperature data logger
+Satellite temperature measurements
+References[edit]
+^ a b T. J. Quinn (1983). Temperature. London: Academic Press.
+^ "Hyperthermal Procedure". Measurements and Biomedical Instrumentation Lab. Universit  Campus Bio-Medico di Roma.
+^ Chrystie, Robin S. M.; Feroughi, Omid M.; Dreier, Thomas; Schulz, Christof (2017-03-21). "SiO multi-line laser-induced fluorescence for quantitative temperature imaging in flame-synthesis of nanoparticles". Applied Physics B. 123 (4): 104. Bibcode:2017ApPhB.123..104C. doi:10.1007/s00340-017-6692-0. ISSN 1432-0649.
+^ 
+Baker, Donald G. (June 1975). "Effect of Observation Time on Mean Temperature Estimation". Journal of Applied Meteorology. 14 (4): 471 476. Bibcode:1975JApMe..14..471B. doi:10.1175/1520-0450(1975)014<0471:EOOTOM>2.0.CO;2.
+^ 
+"ASME". American Society of Mechanical Engineers. Retrieved 13 May 2015.
+^ "ASME". American Society of Mechanical Engineers. Archived from the original on 2015-09-08. Retrieved 13 May 2015.
+External links[edit]
+Wikimedia Commons has media related to Temperature measurement.
+Callendar, Hugh Longbourne (1911). "Thermoelectricity" . Encyclop dia Britannica. Vol. 26 (11th ed.). pp. 814 821. Another contemporaneous survey of related material.
+Callendar, Hugh Longbourne (1911). "Thermometry" . Encyclop dia Britannica. Vol. 26 (11th ed.). pp. 821 836. A detailed contemporaneous survey of thermometric theory and thermometer design.
+A comparison of different measurement technologies Agilent Technologies, Inc. "Practical Temperature Measurements" (PDF). Archived from the original (PDF) on 2017-11-16. Retrieved 2018-11-19. [We] explore the more common temperature monitoring techniques and introduce procedures for improving their accuracy.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Temperature_measurement&oldid=1143571330"
